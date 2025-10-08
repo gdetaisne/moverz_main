@@ -1,0 +1,74 @@
+{
+  "city_name": "Saint-Étienne",
+  "citySlug": "saint-etienne",
+  "region": "Auvergne-Rhône-Alpes",
+  "zipCodes": "42000-42230",
+  "meta_title": "Déménagement Saint-Étienne | Devis Gratuit | Meilleurs Déménageurs",
+  "meta_description": "Déménagement professionnel à Saint-Étienne. Devis gratuit, déménageurs vérifiés, service de qualité.",
+  "keywords": "déménagement saint-étienne, déménageur saint-étienne, déménagement pas cher saint-étienne",
+  "contactEmail": "contact@saint-etienne-demenageur.fr",
+  "contactPhone": "04 XX XX XX XX",
+  "domain": "https://www.saint-etienne-demenageur.fr",
+  "googleVerification": "YOUR_GOOGLE_VERIFICATION_CODE",
+  "hero_title": "Préparez votre déménagement à Saint-Étienne en 30 minutes → recevez 5 devis précis gratuitement sous 7 jours",
+  "hero_subtitle": "Votre dossier complet, sans stress. Estimation fiable, prix transparents, partenaires de confiance à Saint-Étienne.",
+  "stats": {
+    "clients": "800+",
+    "rating": "4.7"
+  },
+  "pricing": {
+    "studio": "300-600€",
+    "t2": "500-900€",
+    "t3": "700-1200€",
+    "t4": "900-1500€"
+  },
+  "contraintes": "Centre-ville avec rues étroites, stationnement difficile.",
+  "quartiers": [
+    {
+      "nom": "Centre-ville",
+      "slug": "centre-ville-saint-etienne",
+      "description": "Cœur historique de Saint-Étienne.",
+      "contraintes": "Rues étroites, stationnement limité.",
+      "stats": {
+        "dossiers": "100+",
+        "demenageurs": "8+",
+        "delai": "6 jours"
+      }
+    }
+  ],
+  "destinations": [
+    {
+      "nom": "Paris",
+      "slug": "saint-etienne-vers-paris",
+      "distance": "500 km",
+      "duree": "4-6h",
+      "prix_moyen": "700-1400€"
+    }
+  ],
+  "partners": [
+    {
+      "name": "Déménageurs Saint-Étienne",
+      "description": "Spécialistes du déménagement à Saint-Étienne.",
+      "logo": "/images/partners/partner1.png"
+    }
+  ],
+  "blog": {
+    "categories": ["Conseils Déménagement Saint-Étienne", "Vie à Saint-Étienne"],
+    "pillars": [
+      {
+        "title": "Guide complet pour déménager à Saint-Étienne",
+        "slug": "guide-demenagement-saint-etienne"
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "Marie L.",
+      "location": "Centre-ville",
+      "text": "Service excellent ! Mon déménagement s'est très bien passé.",
+      "avatar": "https://randomuser.me/api/portraits/women/32.jpg"
+    }
+  ]
+}
+
+

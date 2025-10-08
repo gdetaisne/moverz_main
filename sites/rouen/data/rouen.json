@@ -1,0 +1,163 @@
+{
+  "city_name": "Rouen",
+  "citySlug": "rouen",
+  "region": "Normandie",
+  "zipCodes": "76000-76100",
+  "population": "110000",
+  "meta_title": "Déménagement Rouen | Devis Gratuit | Meilleurs Déménageurs",
+  "meta_description": "Déménagement professionnel à Rouen. Devis gratuit, déménageurs vérifiés, service de qualité dans tous les quartiers.",
+  "keywords": "déménagement rouen, déménageur rouen, déménagement pas cher rouen, déménageur vieux-rouen, déménageur saint-sever, déménageur rive-gauche",
+  "contactEmail": "contact@devis-demenageur-rouen.fr",
+  "contactPhone": "02 35 00 00 00",
+  "domain": "https://www.devis-demenageur-rouen.fr",
+  "googleVerification": "YOUR_GOOGLE_VERIFICATION_CODE",
+  "hero_title": "Préparez votre déménagement à Rouen en 30 minutes → recevez 5 devis précis gratuitement sous 7 jours",
+  "hero_subtitle": "Votre dossier complet, sans stress. Estimation fiable, prix transparents, partenaires de confiance à Rouen.",
+  "stats": {
+    "clients": "700+",
+    "rating": "4.7",
+    "demenageurs": "12+",
+    "devis": "3-5"
+  },
+  "pricing": {
+    "studio": "320-600€",
+    "t2": "510-860€",
+    "t3": "680-1130€",
+    "t4": "860-1450€"
+  },
+  "contraintes": "Ville historique avec cathédrale gothique, Seine traversant la ville, vieux Rouen avec ruelles médiévales pavées, tramway (2 lignes sous construction), zones piétonnes, stationnement limité dans le centre historique. Relief vallonné.",
+  "quartiers": [
+    {
+      "nom": "Vieux-Rouen",
+      "slug": "vieux-rouen",
+      "codePostal": "76000",
+      "description": "Centre historique médiéval avec cathédrale Notre-Dame, Gros-Horloge, maisons à colombages. Ruelles pavées, places animées. Très touristique.",
+      "contraintes": "Ruelles pavées étroites, zones piétonnes, accès véhicules très limité, stationnement impossible",
+      "stats": {
+        "dossiers": "110+",
+        "demenageurs": "6+",
+        "delai": "7 jours"
+      }
+    },
+    {
+      "nom": "Rive Gauche",
+      "slug": "rive-gauche-rouen",
+      "codePostal": "76100",
+      "description": "Quartier dynamique rive gauche de la Seine avec commerces, restaurants. En développement avec nouveaux projets immobiliers. Bien desservi.",
+      "contraintes": "Accès par ponts, circulation modérée, travaux de développement, stationnement plus facile",
+      "stats": {
+        "dossiers": "100+",
+        "demenageurs": "6+",
+        "delai": "6 jours"
+      }
+    },
+    {
+      "nom": "Saint-Sever",
+      "slug": "saint-sever-rouen",
+      "codePostal": "76100",
+      "description": "Quartier commerçant rive gauche avec grand centre commercial. Mix de résidences et commerces. Animé et familial.",
+      "contraintes": "Centre commercial (affluence week-end), circulation dense, stationnement payant",
+      "stats": {
+        "dossiers": "95+",
+        "demenageurs": "5+",
+        "delai": "6 jours"
+      }
+    },
+    {
+      "nom": "Quartier Beauvoisine",
+      "slug": "beauvoisine-rouen",
+      "codePostal": "76000",
+      "description": "Quartier résidentiel calme au nord du centre-ville. Immeubles anciens, commerces de proximité. Proche du jardin des Plantes.",
+      "contraintes": "Rues étroites, stationnement résidentiel, circulation modérée",
+      "stats": {
+        "dossiers": "85+",
+        "demenageurs": "5+",
+        "delai": "5 jours"
+      }
+    },
+    {
+      "nom": "Plateau Nord",
+      "slug": "plateau-nord-rouen",
+      "codePostal": "76000",
+      "description": "Quartier résidentiel sur les hauteurs de Rouen. Mix de pavillons et résidences. Vue sur la ville. Quartier familial et calme.",
+      "contraintes": "Relief avec pentes, accès facile, stationnement disponible",
+      "stats": {
+        "dossiers": "80+",
+        "demenageurs": "4+",
+        "delai": "5 jours"
+      }
+    }
+  ],
+  "destinations": [
+    {
+      "nom": "Paris",
+      "slug": "rouen-vers-paris",
+      "distance": "135 km",
+      "duree": "1h30",
+      "prix_moyen": "300-600€"
+    },
+    {
+      "nom": "Le Havre",
+      "slug": "rouen-vers-le-havre",
+      "distance": "90 km",
+      "duree": "1h",
+      "prix_moyen": "250-500€"
+    },
+    {
+      "nom": "Caen",
+      "slug": "rouen-vers-caen",
+      "distance": "125 km",
+      "duree": "1-2h",
+      "prix_moyen": "300-600€"
+    },
+    {
+      "nom": "Lille",
+      "slug": "rouen-vers-lille",
+      "distance": "240 km",
+      "duree": "2-3h",
+      "prix_moyen": "400-800€"
+    }
+  ],
+  "partners": [],
+  "blog": {
+    "categories": [
+      "Conseils Déménagement Rouen",
+      "Vie à Rouen",
+      "Actualités Déménagement"
+    ],
+    "pillars": [
+      {
+        "title": "Guide complet pour déménager à Rouen",
+        "slug": "guide-demenagement-rouen"
+      },
+      {
+        "title": "Quartiers de Rouen : où s'installer ?",
+        "slug": "quartiers-rouen-installation"
+      },
+      {
+        "title": "Déménagement dans le Vieux-Rouen",
+        "slug": "demenagement-centre-historique-rouen"
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "Patricia M.",
+      "location": "Vieux-Rouen",
+      "text": "Déménagement réussi dans le centre historique ! Les ruelles pavées étaient un défi mais l'équipe était parfaitement équipée. Service impeccable !",
+      "avatar": "https://randomuser.me/api/portraits/women/38.jpg"
+    },
+    {
+      "name": "Christophe L.",
+      "location": "Rive Gauche",
+      "text": "Très satisfait du déménagement sur la rive gauche. Équipe professionnelle et efficace. Le prix était transparent, aucune surprise.",
+      "avatar": "https://randomuser.me/api/portraits/men/42.jpg"
+    },
+    {
+      "name": "Nathalie D.",
+      "location": "Saint-Sever",
+      "text": "Excellent service ! Le déménagement près du centre commercial s'est déroulé rapidement et sans problème. Je recommande !",
+      "avatar": "https://randomuser.me/api/portraits/women/56.jpg"
+    }
+  ]
+}

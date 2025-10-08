@@ -1,0 +1,191 @@
+{
+  "city_name": "Bordeaux",
+  "citySlug": "bordeaux",
+  "region": "Nouvelle-Aquitaine",
+  "zipCodes": "33000-33800",
+  "population": "257000",
+  "meta_title": "Déménagement Bordeaux | Devis Gratuit | Meilleurs Déménageurs",
+  "meta_description": "Déménagement professionnel à Bordeaux. Devis gratuit, déménageurs vérifiés, service de qualité dans tous les quartiers historiques.",
+  "keywords": "déménagement bordeaux, déménageur bordeaux, déménagement pas cher bordeaux, déménageur chartrons, déménageur saint-michel, déménageur victoire",
+  "contactEmail": "contact@bordeaux-demenageur.fr",
+  "contactPhone": "05 56 00 00 00",
+  "domain": "https://www.bordeaux-demenageur.fr",
+  "googleVerification": "YOUR_GOOGLE_VERIFICATION_CODE",
+  "hero_title": "Préparez votre déménagement à Bordeaux en 30 minutes → recevez 5 devis précis gratuitement sous 7 jours",
+  "hero_subtitle": "Votre dossier complet, sans stress. Estimation fiable, prix transparents, partenaires de confiance à Bordeaux.",
+  "stats": {
+    "clients": "1200+",
+    "rating": "4.9",
+    "demenageurs": "20+",
+    "devis": "3-5"
+  },
+  "pricing": {
+    "studio": "350-650€",
+    "t2": "550-950€",
+    "t3": "750-1250€",
+    "t4": "950-1600€"
+  },
+  "contraintes": "Centre historique avec rues très étroites, zones piétonnes, tramway (lignes A, B, C, D), stationnement payant et limité. Accès difficile pour les gros véhicules dans le centre-ville. Nombreux escaliers dans les immeubles anciens.",
+  "quartiers": [
+    {
+      "nom": "Chartrons",
+      "slug": "chartrons-bordeaux",
+      "codePostal": "33000",
+      "description": "Quartier historique des Chartrons, rues pavées et immeubles de caractère du XVIIIe siècle. Zone résidentielle chic avec commerces de proximité et marché des Chartrons.",
+      "contraintes": "Rues très étroites, accès difficile pour les gros véhicules, stationnement limité, nombreux escaliers dans les immeubles anciens",
+      "stats": {
+        "dossiers": "180+",
+        "demenageurs": "12+",
+        "delai": "7 jours"
+      }
+    },
+    {
+      "nom": "Saint-Michel",
+      "slug": "saint-michel-bordeaux",
+      "codePostal": "33000",
+      "description": "Quartier populaire et animé autour de la basilique Saint-Michel. Marché traditionnel le dimanche matin, commerces locaux et ambiance authentique.",
+      "contraintes": "Rues étroites, marché le dimanche matin, stationnement difficile, nombreux escaliers, circulation dense",
+      "stats": {
+        "dossiers": "160+",
+        "demenageurs": "10+",
+        "delai": "6 jours"
+      }
+    },
+    {
+      "nom": "Victoire",
+      "slug": "victoire-bordeaux",
+      "codePostal": "33000",
+      "description": "Quartier étudiant et nocturne autour de la place de la Victoire. Bars, restaurants, vie nocturne animée et proximité de l'université.",
+      "contraintes": "Zone piétonne, stationnement très limité, forte affluence en soirée, accès restreint aux véhicules",
+      "stats": {
+        "dossiers": "140+",
+        "demenageurs": "8+",
+        "delai": "5 jours"
+      }
+    },
+    {
+      "nom": "Bacalan",
+      "slug": "bacalan-bordeaux",
+      "codePostal": "33300",
+      "description": "Quartier en rénovation près du port de Bordeaux. Mélange d'ancien et de moderne, proche de la Cité du Vin et des quais.",
+      "contraintes": "Travaux fréquents, accès par le port, stationnement plus facile mais zones de livraison spécifiques",
+      "stats": {
+        "dossiers": "120+",
+        "demenageurs": "9+",
+        "delai": "6 jours"
+      }
+    },
+    {
+      "nom": "Bastide",
+      "slug": "bastide-bordeaux",
+      "codePostal": "33100",
+      "description": "Rive droite de la Garonne, quartier en pleine expansion. Architecture moderne et espaces verts, proche du Jardin Botanique.",
+      "contraintes": "Accès par pont, stationnement plus facile, quartier en développement avec travaux occasionnels",
+      "stats": {
+        "dossiers": "100+",
+        "demenageurs": "7+",
+        "delai": "5 jours"
+      }
+    },
+    {
+      "nom": "Mériadeck",
+      "slug": "meriadeck-bordeaux",
+      "codePostal": "33000",
+      "description": "Quartier moderne et commercial, centre administratif de Bordeaux. Immeubles de bureaux et logements modernes.",
+      "contraintes": "Circulation dense en semaine, zones de livraison spécifiques, stationnement payant",
+      "stats": {
+        "dossiers": "110+",
+        "demenageurs": "8+",
+        "delai": "6 jours"
+      }
+    }
+  ],
+  "destinations": [
+    {
+      "nom": "Paris",
+      "slug": "bordeaux-vers-paris",
+      "distance": "584 km",
+      "duree": "5-6h",
+      "prix_moyen": "800-1500€"
+    },
+    {
+      "nom": "Lyon",
+      "slug": "bordeaux-vers-lyon",
+      "distance": "550 km",
+      "duree": "5-6h",
+      "prix_moyen": "700-1300€"
+    },
+    {
+      "nom": "Toulouse",
+      "slug": "bordeaux-vers-toulouse",
+      "distance": "245 km",
+      "duree": "2-3h",
+      "prix_moyen": "400-800€"
+    },
+    {
+      "nom": "Marseille",
+      "slug": "bordeaux-vers-marseille",
+      "distance": "775 km",
+      "duree": "7-9h",
+      "prix_moyen": "1000-2000€"
+    }
+  ],
+  "partners": [
+    {
+      "name": "Déménageurs Bordeaux Express",
+      "description": "Spécialistes du déménagement dans le centre historique de Bordeaux",
+      "logo": "/images/partners/partner1.png"
+    },
+    {
+      "name": "Transports Girondins",
+      "description": "Entreprise familiale de déménagement depuis 3 générations",
+      "logo": "/images/partners/partner2.png"
+    },
+    {
+      "name": "Bordeaux Déménagement Pro",
+      "description": "Experts du déménagement d'entreprise et de particuliers",
+      "logo": "/images/partners/partner3.png"
+    }
+  ],
+  "blog": {
+    "categories": [
+      "Conseils Déménagement Bordeaux",
+      "Vie à Bordeaux",
+      "Actualités Déménagement"
+    ],
+    "pillars": [
+      {
+        "title": "Guide complet pour déménager à Bordeaux",
+        "slug": "guide-demenagement-bordeaux"
+      },
+      {
+        "title": "Quartiers de Bordeaux : où s'installer ?",
+        "slug": "quartiers-bordeaux-installation"
+      },
+      {
+        "title": "Déménagement dans le centre historique de Bordeaux",
+        "slug": "demenagement-centre-historique-bordeaux"
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "Sophie D.",
+      "location": "Chartrons",
+      "text": "Un service impeccable ! Mon déménagement dans les Chartrons s'est déroulé sans accroc, l'équipe était très professionnelle et efficace. Je recommande vivement !",
+      "avatar": "https://randomuser.me/api/portraits/women/68.jpg"
+    },
+    {
+      "name": "Marc L.",
+      "location": "Saint-Michel",
+      "text": "J'appréhendais beaucoup ce déménagement dans le centre historique, mais tout a été géré de main de maître. Devis rapide, équipe ponctuelle et très soigneuse. Merci Moverz !",
+      "avatar": "https://randomuser.me/api/portraits/men/44.jpg"
+    },
+    {
+      "name": "Élise R.",
+      "location": "Bordeaux Centre",
+      "text": "Excellent rapport qualité-prix. Le processus de demande de devis est simple et rapide, et j'ai trouvé le déménageur idéal en quelques jours. Très satisfaite !",
+      "avatar": "https://randomuser.me/api/portraits/women/72.jpg"
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "city_name": "Rennes",
+  "citySlug": "rennes",
+  "region": "Bretagne",
+  "zipCodes": "35000-35700",
+  "population": "220000",
+  "meta_title": "Déménagement Rennes | Devis Gratuit | Meilleurs Déménageurs",
+  "meta_description": "Déménagement professionnel à Rennes. Devis gratuit, déménageurs vérifiés, service de qualité dans tous les quartiers.",
+  "keywords": "déménagement rennes, déménageur rennes, déménagement pas cher rennes, déménageur centre-historique, déménageur thabor, déménageur colombier",
+  "contactEmail": "contact@devis-demenageur-rennes.fr",
+  "contactPhone": "02 99 00 00 00",
+  "domain": "https://www.devis-demenageur-rennes.fr",
+  "googleVerification": "YOUR_GOOGLE_VERIFICATION_CODE",
+  "hero_title": "Préparez votre déménagement à Rennes en 30 minutes → recevez 5 devis précis gratuitement sous 7 jours",
+  "hero_subtitle": "Votre dossier complet, sans stress. Estimation fiable, prix transparents, partenaires de confiance à Rennes.",
+  "stats": {
+    "clients": "900+",
+    "rating": "4.8",
+    "demenageurs": "15+",
+    "devis": "3-5"
+  },
+  "pricing": {
+    "studio": "330-620€",
+    "t2": "530-900€",
+    "t3": "710-1180€",
+    "t4": "900-1500€"
+  },
+  "contraintes": "Centre historique avec maisons à colombages, métro automatique (1 ligne), zones piétonnes, place du Parlement avec terrasses, stationnement limité en centre-ville. Ville étudiante dynamique.",
+  "quartiers": [
+    {
+      "nom": "Centre Historique",
+      "slug": "centre-historique-rennes",
+      "codePostal": "35000",
+      "description": "Cœur médiéval de Rennes avec maisons à colombages colorées, place du Parlement. Rues piétonnes, commerces, restaurants. Très touristique et animé.",
+      "contraintes": "Zones piétonnes étendues, ruelles étroites, accès véhicules limité, stationnement impossible",
+      "stats": {
+        "dossiers": "140+",
+        "demenageurs": "8+",
+        "delai": "7 jours"
+      }
+    },
+    {
+      "nom": "Thabor",
+      "slug": "thabor-rennes",
+      "codePostal": "35000",
+      "description": "Quartier résidentiel chic autour du parc du Thabor. Immeubles bourgeois, calme et verdoyant. Proche du centre. Très recherché.",
+      "contraintes": "Stationnement résidentiel, rues étroites, circulation modérée",
+      "stats": {
+        "dossiers": "150+",
+        "demenageurs": "9+",
+        "delai": "6 jours"
+      }
+    },
+    {
+      "nom": "Colombier",
+      "slug": "colombier-rennes",
+      "codePostal": "35000",
+      "description": "Quartier étudiant animé proche de l'université Rennes 2. Bars, restaurants, commerces. Ambiance jeune et festive. Marché hebdomadaire.",
+      "contraintes": "Circulation dense, stationnement difficile, forte affluence étudiante, marché le samedi",
+      "stats": {
+        "dossiers": "130+",
+        "demenageurs": "7+",
+        "delai": "6 jours"
+      }
+    },
+    {
+      "nom": "Cleunay",
+      "slug": "cleunay-rennes",
+      "codePostal": "35000",
+      "description": "Grand quartier résidentiel de l'ouest de Rennes. Mix de pavillons et résidences. Espaces verts, commerces de proximité. Quartier familial.",
+      "contraintes": "Circulation modérée, stationnement généralement disponible, accès facile",
+      "stats": {
+        "dossiers": "120+",
+        "demenageurs": "7+",
+        "delai": "5 jours"
+      }
+    },
+    {
+      "nom": "Villejean",
+      "slug": "villejean-rennes",
+      "codePostal": "35000",
+      "description": "Quartier nord avec campus universitaire Beaulieu, CHU. Mix de résidences étudiantes et familiales. Bien desservi par le métro.",
+      "contraintes": "Circulation modérée, métro, stationnement campus réglementé",
+      "stats": {
+        "dossiers": "110+",
+        "demenageurs": "6+",
+        "delai": "5 jours"
+      }
+    }
+  ],
+  "destinations": [
+    {
+      "nom": "Paris",
+      "slug": "rennes-vers-paris",
+      "distance": "350 km",
+      "duree": "3-4h",
+      "prix_moyen": "500-1000€"
+    },
+    {
+      "nom": "Nantes",
+      "slug": "rennes-vers-nantes",
+      "distance": "110 km",
+      "duree": "1h30",
+      "prix_moyen": "300-600€"
+    },
+    {
+      "nom": "Brest",
+      "slug": "rennes-vers-brest",
+      "distance": "245 km",
+      "duree": "2-3h",
+      "prix_moyen": "400-800€"
+    },
+    {
+      "nom": "Lyon",
+      "slug": "rennes-vers-lyon",
+      "distance": "735 km",
+      "duree": "7-8h",
+      "prix_moyen": "950-1900€"
+    }
+  ],
+  "partners": [],
+  "blog": {
+    "categories": [
+      "Conseils Déménagement Rennes",
+      "Vie à Rennes",
+      "Actualités Déménagement"
+    ],
+    "pillars": [
+      {
+        "title": "Guide complet pour déménager à Rennes",
+        "slug": "guide-demenagement-rennes"
+      },
+      {
+        "title": "Quartiers de Rennes : où s'installer ?",
+        "slug": "quartiers-rennes-installation"
+      },
+      {
+        "title": "Déménagement dans le centre historique de Rennes",
+        "slug": "demenagement-centre-historique-rennes"
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "Mathilde L.",
+      "location": "Centre Historique",
+      "text": "Déménagement parfait dans le centre de Rennes ! Malgré les zones piétonnes et les rues étroites, tout s'est déroulé sans problème. Équipe très pro !",
+      "avatar": "https://randomuser.me/api/portraits/women/47.jpg"
+    },
+    {
+      "name": "Guillaume B.",
+      "location": "Thabor",
+      "text": "Très satisfait du service. Le déménagement près du Thabor était bien organisé. Équipe ponctuelle et efficace. Je recommande !",
+      "avatar": "https://randomuser.me/api/portraits/men/39.jpg"
+    },
+    {
+      "name": "Émilie R.",
+      "location": "Colombier",
+      "text": "Excellent rapport qualité-prix. Devis clair, pas de surprise. Le déménagement dans le quartier étudiant s'est très bien passé.",
+      "avatar": "https://randomuser.me/api/portraits/women/61.jpg"
+    }
+  ]
+}
+

@@ -1,0 +1,163 @@
+{
+  "city_name": "Nantes",
+  "citySlug": "nantes",
+  "region": "Pays de la Loire",
+  "zipCodes": "44000-44300",
+  "population": "320000",
+  "meta_title": "Déménagement Nantes | Devis Gratuit | Meilleurs Déménageurs",
+  "meta_description": "Déménagement professionnel à Nantes. Devis gratuit, déménageurs vérifiés, service de qualité dans tous les quartiers.",
+  "keywords": "déménagement nantes, déménageur nantes, déménagement pas cher nantes, déménageur bouffay, déménageur ile-nantes, déménageur talensac",
+  "contactEmail": "contact@devis-demenageur-nantes.fr",
+  "contactPhone": "02 40 00 00 00",
+  "domain": "https://www.devis-demenageur-nantes.fr",
+  "googleVerification": "YOUR_GOOGLE_VERIFICATION_CODE",
+  "hero_title": "Préparez votre déménagement à Nantes en 30 minutes → recevez 5 devis précis gratuitement sous 7 jours",
+  "hero_subtitle": "Votre dossier complet, sans stress. Estimation fiable, prix transparents, partenaires de confiance à Nantes.",
+  "stats": {
+    "clients": "1300+",
+    "rating": "4.9",
+    "demenageurs": "20+",
+    "devis": "3-5"
+  },
+  "pricing": {
+    "studio": "340-640€",
+    "t2": "550-920€",
+    "t3": "730-1200€",
+    "t4": "920-1550€"
+  },
+  "contraintes": "Loire traversant la ville, Île de Nantes en développement, tramway (3 lignes), centre médiéval Bouffay avec rues étroites, Erdre (rivière), zones piétonnes, stationnement limité en centre-ville.",
+  "quartiers": [
+    {
+      "nom": "Bouffay",
+      "slug": "bouffay-nantes",
+      "codePostal": "44000",
+      "description": "Quartier médiéval historique avec ruelles pavées, maisons à colombages, nombreux bars et restaurants. Cœur nocturne de Nantes. Très animé.",
+      "contraintes": "Rues étroites et piétonnes, pavés, accès véhicules limité, stationnement impossible, forte affluence le soir",
+      "stats": {
+        "dossiers": "200+",
+        "demenageurs": "12+",
+        "delai": "7 jours"
+      }
+    },
+    {
+      "nom": "Île de Nantes",
+      "slug": "ile-nantes",
+      "codePostal": "44200",
+      "description": "Ancien quartier industriel en pleine mutation. Architecture contemporaine, Machines de l'Île, espaces culturels. Quartier moderne et innovant.",
+      "contraintes": "Travaux fréquents, accès par ponts, zones en développement, circulation parfois perturbée",
+      "stats": {
+        "dossiers": "180+",
+        "demenageurs": "11+",
+        "delai": "6 jours"
+      }
+    },
+    {
+      "nom": "Talensac",
+      "slug": "talensac-nantes",
+      "codePostal": "44000",
+      "description": "Quartier résidentiel avec marché couvert réputé. Immeubles bourgeois, commerces de proximité. Ambiance conviviale et familiale.",
+      "contraintes": "Marché quotidien (attention aux horaires), rues étroites, stationnement résidentiel, circulation modérée",
+      "stats": {
+        "dossiers": "190+",
+        "demenageurs": "11+",
+        "delai": "6 jours"
+      }
+    },
+    {
+      "nom": "Erdre",
+      "slug": "erdre-nantes",
+      "codePostal": "44000",
+      "description": "Quartiers le long de l'Erdre (\"la plus belle rivière de France\"). Espaces verts, bords de rivière aménagés. Cadre de vie très agréable.",
+      "contraintes": "Accès par quelques ponts, stationnement résidentiel, rues calmes, peu de contraintes",
+      "stats": {
+        "dossiers": "160+",
+        "demenageurs": "9+",
+        "delai": "5 jours"
+      }
+    },
+    {
+      "nom": "Hauts-Pavés",
+      "slug": "hauts-paves-nantes",
+      "codePostal": "44000",
+      "description": "Quartier étudiant et branché. Bars, restaurants, boutiques. Proche du campus universitaire. Ambiance jeune et dynamique.",
+      "contraintes": "Circulation dense, stationnement limité, rues étroites, forte affluence étudiante",
+      "stats": {
+        "dossiers": "170+",
+        "demenageurs": "10+",
+        "delai": "6 jours"
+      }
+    }
+  ],
+  "destinations": [
+    {
+      "nom": "Paris",
+      "slug": "nantes-vers-paris",
+      "distance": "385 km",
+      "duree": "4h",
+      "prix_moyen": "550-1100€"
+    },
+    {
+      "nom": "Bordeaux",
+      "slug": "nantes-vers-bordeaux",
+      "distance": "330 km",
+      "duree": "3-4h",
+      "prix_moyen": "500-1000€"
+    },
+    {
+      "nom": "Rennes",
+      "slug": "nantes-vers-rennes",
+      "distance": "110 km",
+      "duree": "1h30",
+      "prix_moyen": "300-600€"
+    },
+    {
+      "nom": "Lyon",
+      "slug": "nantes-vers-lyon",
+      "distance": "660 km",
+      "duree": "6-7h",
+      "prix_moyen": "850-1700€"
+    }
+  ],
+  "partners": [],
+  "blog": {
+    "categories": [
+      "Conseils Déménagement Nantes",
+      "Vie à Nantes",
+      "Actualités Déménagement"
+    ],
+    "pillars": [
+      {
+        "title": "Guide complet pour déménager à Nantes",
+        "slug": "guide-demenagement-nantes"
+      },
+      {
+        "title": "Quartiers de Nantes : où s'installer ?",
+        "slug": "quartiers-nantes-installation"
+      },
+      {
+        "title": "Déménagement sur l'Île de Nantes",
+        "slug": "demenagement-ile-nantes"
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "Nicolas B.",
+      "location": "Bouffay",
+      "text": "Déménagement réussi dans le vieux Nantes ! Les ruelles étaient compliquées mais l'équipe était très bien organisée. Service impeccable.",
+      "avatar": "https://randomuser.me/api/portraits/men/36.jpg"
+    },
+    {
+      "name": "Camille D.",
+      "location": "Île de Nantes",
+      "text": "Très contente du service. Le déménagement sur l'Île de Nantes s'est déroulé sans problème. Équipe pro et efficace. Je recommande !",
+      "avatar": "https://randomuser.me/api/portraits/women/41.jpg"
+    },
+    {
+      "name": "Thomas R.",
+      "location": "Talensac",
+      "text": "Excellent rapport qualité-prix. Devis clair, équipe ponctuelle et soigneuse. Très satisfait de ce déménagement à Nantes.",
+      "avatar": "https://randomuser.me/api/portraits/men/62.jpg"
+    }
+  ]
+}

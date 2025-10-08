@@ -1,0 +1,175 @@
+{
+  "city_name": "Marseille",
+  "citySlug": "marseille",
+  "region": "Provence-Alpes-Côte d'Azur",
+  "zipCodes": "13001-13016",
+  "population": "870000",
+  "meta_title": "Déménagement Marseille | Devis Gratuit | Meilleurs Déménageurs",
+  "meta_description": "Déménagement professionnel à Marseille. Devis gratuit, déménageurs vérifiés, service de qualité dans tous les arrondissements.",
+  "keywords": "déménagement marseille, déménageur marseille, déménagement pas cher marseille, déménageur vieux-port, déménageur panier, déménageur castellane",
+  "contactEmail": "contact@devis-demenageur-marseille.fr",
+  "contactPhone": "04 91 00 00 00",
+  "domain": "https://www.devis-demenageur-marseille.fr",
+  "googleVerification": "YOUR_GOOGLE_VERIFICATION_CODE",
+  "hero_title": "Préparez votre déménagement à Marseille en 30 minutes → recevez 5 devis précis gratuitement sous 7 jours",
+  "hero_subtitle": "Votre dossier complet, sans stress. Estimation fiable, prix transparents, partenaires de confiance à Marseille.",
+  "stats": {
+    "clients": "2100+",
+    "rating": "4.8",
+    "demenageurs": "35+",
+    "devis": "3-5"
+  },
+  "pricing": {
+    "studio": "380-700€",
+    "t2": "600-1000€",
+    "t3": "800-1350€",
+    "t4": "1000-1700€"
+  },
+  "contraintes": "Ville méditerranéenne avec relief important (collines, calanques), rues étroites dans le centre historique, circulation dense, stationnement très limité. Accès difficile pour gros véhicules dans certains quartiers. Tramway (3 lignes) et zones piétonnes nombreuses.",
+  "quartiers": [
+    {
+      "nom": "Vieux-Port",
+      "slug": "vieux-port-marseille",
+      "codePostal": "13001",
+      "description": "Cœur historique de Marseille autour du port antique. Zone touristique et résidentielle avec immeubles anciens et commerces. Vue imprenable sur Notre-Dame de la Garde.",
+      "contraintes": "Accès très limité pour véhicules, zones piétonnes, stationnement quasi-impossible, forte affluence touristique",
+      "stats": {
+        "dossiers": "250+",
+        "demenageurs": "15+",
+        "delai": "7 jours"
+      }
+    },
+    {
+      "nom": "Le Panier",
+      "slug": "panier-marseille",
+      "codePostal": "13002",
+      "description": "Plus ancien quartier de Marseille, ruelles étroites pavées, immeubles colorés du XVIIIe siècle. Quartier bohème et artistique en pleine rénovation.",
+      "contraintes": "Rues très étroites et pentues, impossible d'accéder en gros véhicule, nombreux escaliers, stationnement inexistant",
+      "stats": {
+        "dossiers": "200+",
+        "demenageurs": "12+",
+        "delai": "8 jours"
+      }
+    },
+    {
+      "nom": "Castellane",
+      "slug": "castellane-marseille",
+      "codePostal": "13006",
+      "description": "Quartier résidentiel et commercial du 6ème arrondissement. Place centrale avec fontaine, nombreux commerces et restaurants. Bien desservi par le métro.",
+      "contraintes": "Circulation dense, stationnement payant et limité, livraisons réglementées",
+      "stats": {
+        "dossiers": "220+",
+        "demenageurs": "14+",
+        "delai": "6 jours"
+      }
+    },
+    {
+      "nom": "La Plaine",
+      "slug": "plaine-marseille",
+      "codePostal": "13005",
+      "description": "Quartier étudiant et branché du 5ème arrondissement. Marché quotidien, nombreux bars et restaurants. Ambiance jeune et dynamique.",
+      "contraintes": "Marché sur la place (attention aux horaires), circulation dense, stationnement difficile",
+      "stats": {
+        "dossiers": "190+",
+        "demenageurs": "11+",
+        "delai": "6 jours"
+      }
+    },
+    {
+      "nom": "Endoume",
+      "slug": "endoume-marseille",
+      "codePostal": "13007",
+      "description": "Quartier résidentiel du 7ème arrondissement, proche du bord de mer et des Calanques. Immeubles bourgeois et petites maisons. Cadre de vie privilégié.",
+      "contraintes": "Rues étroites, relief important, accès limité au littoral, stationnement résidentiel",
+      "stats": {
+        "dossiers": "180+",
+        "demenageurs": "10+",
+        "delai": "7 jours"
+      }
+    },
+    {
+      "nom": "Bonneveine",
+      "slug": "bonneveine-marseille",
+      "codePostal": "13008",
+      "description": "Quartier balnéaire du 8ème arrondissement avec la plage du Prado. Résidences modernes et espaces verts. Proche du Parc Borély.",
+      "contraintes": "Accès plage réglementé l'été, circulation dense le week-end, stationnement limité près du bord de mer",
+      "stats": {
+        "dossiers": "160+",
+        "demenageurs": "9+",
+        "delai": "6 jours"
+      }
+    }
+  ],
+  "destinations": [
+    {
+      "nom": "Paris",
+      "slug": "marseille-vers-paris",
+      "distance": "775 km",
+      "duree": "7-9h",
+      "prix_moyen": "1000-2000€"
+    },
+    {
+      "nom": "Lyon",
+      "slug": "marseille-vers-lyon",
+      "distance": "315 km",
+      "duree": "3-4h",
+      "prix_moyen": "500-1000€"
+    },
+    {
+      "nom": "Nice",
+      "slug": "marseille-vers-nice",
+      "distance": "200 km",
+      "duree": "2-3h",
+      "prix_moyen": "400-800€"
+    },
+    {
+      "nom": "Toulouse",
+      "slug": "marseille-vers-toulouse",
+      "distance": "405 km",
+      "duree": "4-5h",
+      "prix_moyen": "600-1200€"
+    }
+  ],
+  "partners": [],
+  "blog": {
+    "categories": [
+      "Conseils Déménagement Marseille",
+      "Vie à Marseille",
+      "Actualités Déménagement"
+    ],
+    "pillars": [
+      {
+        "title": "Guide complet pour déménager à Marseille",
+        "slug": "guide-demenagement-marseille"
+      },
+      {
+        "title": "Arrondissements de Marseille : où s'installer ?",
+        "slug": "arrondissements-marseille-installation"
+      },
+      {
+        "title": "Déménagement dans le Vieux-Port et le Panier",
+        "slug": "demenagement-centre-historique-marseille"
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "Claire M.",
+      "location": "Vieux-Port",
+      "text": "Déménagement parfait malgré les contraintes d'accès au Vieux-Port. L'équipe était très professionnelle et connaissait bien le quartier. Je recommande !",
+      "avatar": "https://randomuser.me/api/portraits/women/42.jpg"
+    },
+    {
+      "name": "Thomas L.",
+      "location": "Le Panier",
+      "text": "J'appréhendais le déménagement dans les ruelles du Panier, mais tout s'est déroulé sans accroc. Les déménageurs étaient habitués aux contraintes du quartier historique.",
+      "avatar": "https://randomuser.me/api/portraits/men/55.jpg"
+    },
+    {
+      "name": "Sophie R.",
+      "location": "Castellane",
+      "text": "Service rapide et efficace. Le devis était transparent et aucune mauvaise surprise. L'équipe était ponctuelle et très soigneuse avec nos affaires.",
+      "avatar": "https://randomuser.me/api/portraits/women/68.jpg"
+    }
+  ]
+}

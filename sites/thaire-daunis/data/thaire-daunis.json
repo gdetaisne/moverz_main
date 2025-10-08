@@ -1,0 +1,186 @@
+{
+  "city_name": "Thairé d'Aunis",
+  "citySlug": "thaire-daunis",
+  "region": "Nouvelle-Aquitaine",
+  "zipCodes": "17290",
+  "population": "2800",
+  "description": "Commune charmante de Charente-Maritime, proche de La Rochelle, cadre de vie agréable.",
+  "domain": "https://www.thaire-daunis-demenageur.fr",
+  "googleVerification": "YOUR_GOOGLE_VERIFICATION_CODE_THAIRE",
+  "contactEmail": "contact@thaire-daunis-demenageur.fr",
+  "contactPhone": "05 46 12 34 56",
+  "stats": {
+    "clients": "150+",
+    "rating": "4.8",
+    "demenageurs": "8+",
+    "devis": "3-5"
+  },
+  "offers": [
+    {
+      "name": "Économique",
+      "tagline": "Pour les budgets serrés",
+      "price_start": "350€",
+      "features": [
+        "Estimation IA gratuite",
+        "Fourniture de cartons",
+        "Assurance incluse",
+        "Support téléphonique"
+      ]
+    },
+    {
+      "name": "Standard",
+      "tagline": "Le plus populaire",
+      "price_start": "600€",
+      "features": [
+        "Estimation IA gratuite",
+        "Emballage de base",
+        "Démontage/Remontage",
+        "Assurance renforcée",
+        "Support prioritaire"
+      ]
+    },
+    {
+      "name": "Premium",
+      "tagline": "Service haut de gamme",
+      "price_start": "950€",
+      "features": [
+        "Estimation IA gratuite",
+        "Emballage complet",
+        "Déballage inclus",
+        "Assurance tous risques",
+        "Garde-meuble",
+        "Support dédié 24/7"
+      ]
+    }
+  ],
+  "contraintes": "Commune rurale, accès facile, stationnement aisé, proximité La Rochelle",
+  "quartiers": [
+    {
+      "nom": "Centre-Bourg",
+      "slug": "centre-bourg-thaire",
+      "codePostal": "17290",
+      "description": "Cœur du village, commerces et services de proximité",
+      "contraintes": "Rues étroites dans le centre historique",
+      "stats": {
+        "dossiers": "30+",
+        "demenageurs": "5+",
+        "delai": "3-5 jours"
+      }
+    },
+    {
+      "nom": "La Rochelle",
+      "slug": "la-rochelle",
+      "codePostal": "17000",
+      "description": "Grande ville proche, port historique, centre-ville dynamique",
+      "contraintes": "Trafic dense, zones piétonnes, stationnement payant",
+      "stats": {
+        "dossiers": "500+",
+        "demenageurs": "25+",
+        "delai": "5-7 jours"
+      }
+    },
+    {
+      "nom": "Aigrefeuille-d'Aunis",
+      "slug": "aigrefeuille-daunis",
+      "codePostal": "17290",
+      "description": "Commune voisine, cadre résidentiel calme",
+      "contraintes": "Accès facile, peu de contraintes",
+      "stats": {
+        "dossiers": "40+",
+        "demenageurs": "6+",
+        "delai": "3-5 jours"
+      }
+    },
+    {
+      "nom": "Surgères",
+      "slug": "surgeres",
+      "codePostal": "17700",
+      "description": "Ville dynamique de Charente-Maritime",
+      "contraintes": "Accès facile, stationnement disponible",
+      "stats": {
+        "dossiers": "80+",
+        "demenageurs": "10+",
+        "delai": "4-6 jours"
+      }
+    },
+    {
+      "nom": "Rochefort",
+      "slug": "rochefort",
+      "codePostal": "17300",
+      "description": "Ville historique maritime",
+      "contraintes": "Centre-ville dense, zones piétonnes",
+      "stats": {
+        "dossiers": "200+",
+        "demenageurs": "15+",
+        "delai": "5-7 jours"
+      }
+    },
+    {
+      "nom": "Saintes",
+      "slug": "saintes",
+      "codePostal": "17100",
+      "description": "Ville d'art et d'histoire",
+      "contraintes": "Centre historique avec rues étroites",
+      "stats": {
+        "dossiers": "250+",
+        "demenageurs": "18+",
+        "delai": "5-7 jours"
+      }
+    }
+  ],
+  "destinations": [
+    {
+      "nom": "Thairé d'Aunis vers La Rochelle",
+      "slug": "thaire-daunis-vers-la-rochelle",
+      "distance": "15 km",
+      "duree": "20-30 min",
+      "prix_moyen": "300-500€"
+    },
+    {
+      "nom": "Thairé d'Aunis vers Bordeaux",
+      "slug": "thaire-daunis-vers-bordeaux",
+      "distance": "180 km",
+      "duree": "2-3h",
+      "prix_moyen": "600-1000€"
+    },
+    {
+      "nom": "Thairé d'Aunis vers Nantes",
+      "slug": "thaire-daunis-vers-nantes",
+      "distance": "150 km",
+      "duree": "1h45-2h30",
+      "prix_moyen": "550-900€"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Marie L.",
+      "city": "Thairé d'Aunis",
+      "rating": 5,
+      "comment": "Excellent service pour notre déménagement vers La Rochelle. Équipe très professionnelle !",
+      "avatar": "https://randomuser.me/api/portraits/women/45.jpg"
+    },
+    {
+      "name": "Jean-Paul D.",
+      "city": "Aigrefeuille",
+      "rating": 5,
+      "comment": "Déménagement rapide et soigné. Je recommande vivement !",
+      "avatar": "https://randomuser.me/api/portraits/men/52.jpg"
+    }
+  ],
+  "partners": [
+    {
+      "name": "Déménagements Charente-Maritime",
+      "logo": "/images/partners/charente-maritime.png",
+      "description": "Expert local du déménagement en Charente-Maritime."
+    },
+    {
+      "name": "La Rochelle Déménageurs",
+      "logo": "/images/partners/la-rochelle.png",
+      "description": "Spécialiste des déménagements vers et depuis La Rochelle."
+    }
+  ],
+  "cityNameWords": [
+    "Thairé",
+    "d'Aunis"
+  ]
+}

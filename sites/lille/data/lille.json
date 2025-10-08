@@ -1,0 +1,163 @@
+{
+  "city_name": "Lille",
+  "citySlug": "lille",
+  "region": "Hauts-de-France",
+  "zipCodes": "59000-59800",
+  "population": "235000",
+  "meta_title": "Déménagement Lille | Devis Gratuit | Meilleurs Déménageurs",
+  "meta_description": "Déménagement professionnel à Lille. Devis gratuit, déménageurs vérifiés, service de qualité dans tous les quartiers.",
+  "keywords": "déménagement lille, déménageur lille, déménagement pas cher lille, déménageur vieux-lille, déménageur wazemmes, déménageur vauban",
+  "contactEmail": "contact@devis-demenageur-lille.fr",
+  "contactPhone": "03 20 00 00 00",
+  "domain": "https://www.devis-demenageur-lille.fr",
+  "googleVerification": "YOUR_GOOGLE_VERIFICATION_CODE",
+  "hero_title": "Préparez votre déménagement à Lille en 30 minutes → recevez 5 devis précis gratuitement sous 7 jours",
+  "hero_subtitle": "Votre dossier complet, sans stress. Estimation fiable, prix transparents, partenaires de confiance à Lille.",
+  "stats": {
+    "clients": "1000+",
+    "rating": "4.7",
+    "demenageurs": "16+",
+    "devis": "3-5"
+  },
+  "pricing": {
+    "studio": "330-620€",
+    "t2": "530-900€",
+    "t3": "710-1180€",
+    "t4": "900-1500€"
+  },
+  "contraintes": "Vieux-Lille avec ruelles pavées et étroites, métro automatique (2 lignes), tramway (2 lignes), zones piétonnes étendues, stationnement limité en centre-ville. Proximité Belgique, architecture flamande.",
+  "quartiers": [
+    {
+      "nom": "Vieux-Lille",
+      "slug": "vieux-lille",
+      "codePostal": "59800",
+      "description": "Quartier historique avec ruelles pavées et maisons flamandes colorées. Boutiques de luxe, restaurants gastronomiques. Très chic et touristique.",
+      "contraintes": "Ruelles pavées étroites, accès véhicules difficile, stationnement quasi-impossible, pavés",
+      "stats": {
+        "dossiers": "150+",
+        "demenageurs": "9+",
+        "delai": "7 jours"
+      }
+    },
+    {
+      "nom": "Wazemmes",
+      "slug": "wazemmes-lille",
+      "codePostal": "59000",
+      "description": "Quartier populaire et multiculturel avec grand marché (marché de Wazemmes). Ambiance cosmopolite, commerces variés. Très animé.",
+      "contraintes": "Marché dominical (attention aux horaires), circulation dense, stationnement difficile",
+      "stats": {
+        "dossiers": "170+",
+        "demenageurs": "10+",
+        "delai": "6 jours"
+      }
+    },
+    {
+      "nom": "Vauban",
+      "slug": "vauban-lille",
+      "codePostal": "59000",
+      "description": "Quartier résidentiel avec citadelle Vauban, parc, et université catholique. Immeubles bourgeois, calme et verdoyant. Cadre de vie agréable.",
+      "contraintes": "Circulation modérée, stationnement résidentiel, accès citadelle réglementé",
+      "stats": {
+        "dossiers": "140+",
+        "demenageurs": "8+",
+        "delai": "6 jours"
+      }
+    },
+    {
+      "nom": "Euralille",
+      "slug": "euralille-lille",
+      "codePostal": "59777",
+      "description": "Quartier d'affaires moderne autour de la gare Lille Europe. Gratte-ciels, centre commercial, bureaux. Très bien desservi (TGV, métro).",
+      "contraintes": "Zone gare très fréquentée, circulation dense, stationnement payant, accès réglementé",
+      "stats": {
+        "dossiers": "160+",
+        "demenageurs": "9+",
+        "delai": "5 jours"
+      }
+    },
+    {
+      "nom": "Fives",
+      "slug": "fives-lille",
+      "codePostal": "59000",
+      "description": "Quartier populaire en reconversion, ancienne zone industrielle. Ateliers d'artistes, espaces culturels. En pleine mutation.",
+      "contraintes": "Travaux de rénovation, circulation modérée, stationnement généralement disponible",
+      "stats": {
+        "dossiers": "130+",
+        "demenageurs": "7+",
+        "delai": "6 jours"
+      }
+    }
+  ],
+  "destinations": [
+    {
+      "nom": "Paris",
+      "slug": "lille-vers-paris",
+      "distance": "220 km",
+      "duree": "2-3h",
+      "prix_moyen": "400-800€"
+    },
+    {
+      "nom": "Bruxelles",
+      "slug": "lille-vers-bruxelles",
+      "distance": "120 km",
+      "duree": "1-2h",
+      "prix_moyen": "300-600€"
+    },
+    {
+      "nom": "Lyon",
+      "slug": "lille-vers-lyon",
+      "distance": "690 km",
+      "duree": "6-7h",
+      "prix_moyen": "900-1800€"
+    },
+    {
+      "nom": "Marseille",
+      "slug": "lille-vers-marseille",
+      "distance": "1020 km",
+      "duree": "10-11h",
+      "prix_moyen": "1300-2600€"
+    }
+  ],
+  "partners": [],
+  "blog": {
+    "categories": [
+      "Conseils Déménagement Lille",
+      "Vie à Lille",
+      "Actualités Déménagement"
+    ],
+    "pillars": [
+      {
+        "title": "Guide complet pour déménager à Lille",
+        "slug": "guide-demenagement-lille"
+      },
+      {
+        "title": "Quartiers de Lille : où s'installer ?",
+        "slug": "quartiers-lille-installation"
+      },
+      {
+        "title": "Déménagement dans le Vieux-Lille et Wazemmes",
+        "slug": "demenagement-vieux-lille-wazemmes"
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "Caroline V.",
+      "location": "Vieux-Lille",
+      "text": "Déménagement réussi dans le Vieux-Lille ! Les pavés et ruelles étroites ne posaient aucun problème pour cette équipe expérimentée. Parfait !",
+      "avatar": "https://randomuser.me/api/portraits/women/36.jpg"
+    },
+    {
+      "name": "Jean-Pierre D.",
+      "location": "Wazemmes",
+      "text": "Très bon service. Le déménagement à Wazemmes s'est déroulé rapidement et efficacement. L'équipe était pro et sympathique.",
+      "avatar": "https://randomuser.me/api/portraits/men/53.jpg"
+    },
+    {
+      "name": "Sophie M.",
+      "location": "Euralille",
+      "text": "Excellent rapport qualité-prix. Devis transparent, aucune surprise. Le déménagement près de la gare a été parfaitement géré.",
+      "avatar": "https://randomuser.me/api/portraits/women/64.jpg"
+    }
+  ]
+}

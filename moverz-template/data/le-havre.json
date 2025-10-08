@@ -1,0 +1,74 @@
+{
+  "city_name": "Le Havre",
+  "citySlug": "le-havre",
+  "region": "Normandie",
+  "zipCodes": "76600-76620",
+  "meta_title": "Déménagement Le Havre | Devis Gratuit | Meilleurs Déménageurs",
+  "meta_description": "Déménagement professionnel au Havre. Devis gratuit, déménageurs vérifiés, service de qualité.",
+  "keywords": "déménagement le havre, déménageur le havre, déménagement pas cher le havre",
+  "contactEmail": "contact@le-havre-demenageur.fr",
+  "contactPhone": "02 XX XX XX XX",
+  "domain": "https://www.le-havre-demenageur.fr",
+  "googleVerification": "YOUR_GOOGLE_VERIFICATION_CODE",
+  "hero_title": "Préparez votre déménagement au Havre en 30 minutes → recevez 5 devis précis gratuitement sous 7 jours",
+  "hero_subtitle": "Votre dossier complet, sans stress. Estimation fiable, prix transparents, partenaires de confiance au Havre.",
+  "stats": {
+    "clients": "600+",
+    "rating": "4.6"
+  },
+  "pricing": {
+    "studio": "280-580€",
+    "t2": "480-880€",
+    "t3": "680-1180€",
+    "t4": "880-1480€"
+  },
+  "contraintes": "Port industriel, circulation dense, stationnement difficile en centre-ville.",
+  "quartiers": [
+    {
+      "nom": "Centre-ville",
+      "slug": "centre-ville-le-havre",
+      "description": "Cœur reconstruit du Havre, architecture moderne.",
+      "contraintes": "Rues larges mais circulation dense, stationnement payant.",
+      "stats": {
+        "dossiers": "80+",
+        "demenageurs": "6+",
+        "delai": "7 jours"
+      }
+    }
+  ],
+  "destinations": [
+    {
+      "nom": "Paris",
+      "slug": "le-havre-vers-paris",
+      "distance": "200 km",
+      "duree": "2-3h",
+      "prix_moyen": "500-1000€"
+    }
+  ],
+  "partners": [
+    {
+      "name": "Déménageurs Le Havre",
+      "description": "Spécialistes du déménagement au Havre.",
+      "logo": "/images/partners/partner1.png"
+    }
+  ],
+  "blog": {
+    "categories": ["Conseils Déménagement Le Havre", "Vie au Havre"],
+    "pillars": [
+      {
+        "title": "Guide complet pour déménager au Havre",
+        "slug": "guide-demenagement-le-havre"
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "Pierre M.",
+      "location": "Centre-ville",
+      "text": "Très bon service, équipe professionnelle !",
+      "avatar": "https://randomuser.me/api/portraits/men/25.jpg"
+    }
+  ]
+}
+
+

@@ -1,0 +1,163 @@
+{
+  "city_name": "Strasbourg",
+  "citySlug": "strasbourg",
+  "region": "Grand Est",
+  "zipCodes": "67000-67100",
+  "population": "280000",
+  "meta_title": "Déménagement Strasbourg | Devis Gratuit | Meilleurs Déménageurs",
+  "meta_description": "Déménagement professionnel à Strasbourg. Devis gratuit, déménageurs vérifiés, service de qualité dans tous les quartiers.",
+  "keywords": "déménagement strasbourg, déménageur strasbourg, déménagement pas cher strasbourg, déménageur grande-ile, déménageur petite-france, déménageur neudorf",
+  "contactEmail": "contact@devis-demenageur-strasbourg.fr",
+  "contactPhone": "03 88 00 00 00",
+  "domain": "https://www.devis-demenageur-strasbourg.fr",
+  "googleVerification": "YOUR_GOOGLE_VERIFICATION_CODE",
+  "hero_title": "Préparez votre déménagement à Strasbourg en 30 minutes → recevez 5 devis précis gratuitement sous 7 jours",
+  "hero_subtitle": "Votre dossier complet, sans stress. Estimation fiable, prix transparents, partenaires de confiance à Strasbourg.",
+  "stats": {
+    "clients": "1100+",
+    "rating": "4.8",
+    "demenageurs": "18+",
+    "devis": "3-5"
+  },
+  "pricing": {
+    "studio": "350-660€",
+    "t2": "560-950€",
+    "t3": "750-1250€",
+    "t4": "950-1600€"
+  },
+  "contraintes": "Grande Île classée UNESCO, canaux traversant la ville (Ill), Petite France avec ruelles médiévales, tramway (6 lignes), nombreuses zones piétonnes, stationnement limité dans le centre historique. Proximité Allemagne.",
+  "quartiers": [
+    {
+      "nom": "Grande Île",
+      "slug": "grande-ile-strasbourg",
+      "codePostal": "67000",
+      "description": "Cœur historique de Strasbourg classé UNESCO. Cathédrale, maisons à colombages, canaux. Centre touristique et administratif. Architecture médiévale préservée.",
+      "contraintes": "Zone piétonne étendue, ruelles étroites, accès véhicules très réglementé, canaux, stationnement impossible",
+      "stats": {
+        "dossiers": "180+",
+        "demenageurs": "10+",
+        "delai": "8 jours"
+      }
+    },
+    {
+      "nom": "Petite France",
+      "slug": "petite-france-strasbourg",
+      "codePostal": "67000",
+      "description": "Quartier pittoresque avec maisons à colombages sur canaux. Anciennes tanneries, écluses, ponts couverts. Très touristique et photogénique.",
+      "contraintes": "Ruelles très étroites, ponts bas, canaux, zone piétonne, impossible d'accéder en véhicule",
+      "stats": {
+        "dossiers": "160+",
+        "demenageurs": "9+",
+        "delai": "8 jours"
+      }
+    },
+    {
+      "nom": "Neudorf",
+      "slug": "neudorf-strasbourg",
+      "codePostal": "67100",
+      "description": "Grand quartier résidentiel à l'est de Strasbourg. Mix de pavillons et immeubles. Bien desservi par le tramway. Quartier familial et cosmopolite.",
+      "contraintes": "Circulation modérée, tramway, stationnement généralement disponible, accès plus facile",
+      "stats": {
+        "dossiers": "170+",
+        "demenageurs": "10+",
+        "delai": "6 jours"
+      }
+    },
+    {
+      "nom": "Krutenau",
+      "slug": "krutenau-strasbourg",
+      "codePostal": "67000",
+      "description": "Quartier étudiant animé près de l'université. Bars, restaurants, petits commerces. Ambiance jeune et dynamique. Proche des quais.",
+      "contraintes": "Rues étroites, circulation dense, stationnement difficile, forte affluence étudiante",
+      "stats": {
+        "dossiers": "150+",
+        "demenageurs": "8+",
+        "delai": "6 jours"
+      }
+    },
+    {
+      "nom": "Quartier Européen",
+      "slug": "quartier-europeen-strasbourg",
+      "codePostal": "67000",
+      "description": "Quartier institutionnel avec Parlement européen, Conseil de l'Europe. Architecture moderne, espaces verts. Cadre international.",
+      "contraintes": "Sécurité renforcée certains jours, circulation réglementée, stationnement limité",
+      "stats": {
+        "dossiers": "130+",
+        "demenageurs": "7+",
+        "delai": "6 jours"
+      }
+    }
+  ],
+  "destinations": [
+    {
+      "nom": "Paris",
+      "slug": "strasbourg-vers-paris",
+      "distance": "490 km",
+      "duree": "4-5h",
+      "prix_moyen": "650-1300€"
+    },
+    {
+      "nom": "Lyon",
+      "slug": "strasbourg-vers-lyon",
+      "distance": "490 km",
+      "duree": "4-5h",
+      "prix_moyen": "650-1300€"
+    },
+    {
+      "nom": "Mulhouse",
+      "slug": "strasbourg-vers-mulhouse",
+      "distance": "110 km",
+      "duree": "1-2h",
+      "prix_moyen": "300-600€"
+    },
+    {
+      "nom": "Stuttgart (Allemagne)",
+      "slug": "strasbourg-vers-stuttgart",
+      "distance": "155 km",
+      "duree": "2h",
+      "prix_moyen": "350-700€"
+    }
+  ],
+  "partners": [],
+  "blog": {
+    "categories": [
+      "Conseils Déménagement Strasbourg",
+      "Vie à Strasbourg",
+      "Actualités Déménagement"
+    ],
+    "pillars": [
+      {
+        "title": "Guide complet pour déménager à Strasbourg",
+        "slug": "guide-demenagement-strasbourg"
+      },
+      {
+        "title": "Quartiers de Strasbourg : où s'installer ?",
+        "slug": "quartiers-strasbourg-installation"
+      },
+      {
+        "title": "Déménagement dans la Grande Île et Petite France",
+        "slug": "demenagement-centre-historique-strasbourg"
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "François K.",
+      "location": "Petite France",
+      "text": "Déménagement parfait dans la Petite France ! Les contraintes d'accès étaient importantes mais l'équipe connaissait parfaitement le quartier. Bravo !",
+      "avatar": "https://randomuser.me/api/portraits/men/48.jpg"
+    },
+    {
+      "name": "Anne-Sophie W.",
+      "location": "Grande Île",
+      "text": "Excellent service malgré les difficultés d'accès au centre historique. Équipe très pro et efficace. Je recommande sans hésiter !",
+      "avatar": "https://randomuser.me/api/portraits/women/52.jpg"
+    },
+    {
+      "name": "Michel H.",
+      "location": "Neudorf",
+      "text": "Très satisfait du déménagement à Neudorf. Prix transparent, équipe ponctuelle et soigneuse. Le processus était simple et rapide.",
+      "avatar": "https://randomuser.me/api/portraits/men/71.jpg"
+    }
+  ]
+}

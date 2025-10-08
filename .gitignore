@@ -1,0 +1,33 @@
+# Dependencies
+**/node_modules/
+**/.pnp
+**/.pnp.js
+
+# Next.js
+**/.next/
+**/out/
+
+# Production
+**/build
+**/.vercel
+**/.netlify
+
+# Environment
+**/.env*.local
+**/.env.production
+
+# Logs
+*.log
+/tmp/*.log
+
+# OS
+.DS_Store
+**/.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+*.backup
+
+# Cache
+**/.next/cache/

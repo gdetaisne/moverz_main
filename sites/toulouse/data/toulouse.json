@@ -1,0 +1,163 @@
+{
+  "city_name": "Toulouse",
+  "citySlug": "toulouse",
+  "region": "Occitanie",
+  "zipCodes": "31000-31500",
+  "population": "480000",
+  "meta_title": "Déménagement Toulouse | Devis Gratuit | Meilleurs Déménageurs",
+  "meta_description": "Déménagement professionnel à Toulouse. Devis gratuit, déménageurs vérifiés, service de qualité dans tous les quartiers.",
+  "keywords": "déménagement toulouse, déménageur toulouse, déménagement pas cher toulouse, déménageur capitole, déménageur carmes, déménageur saint-cyprien",
+  "contactEmail": "contact@devis-demenageur-toulousain.fr",
+  "contactPhone": "05 61 00 00 00",
+  "domain": "https://www.devis-demenageur-toulousain.fr",
+  "googleVerification": "YOUR_GOOGLE_VERIFICATION_CODE",
+  "hero_title": "Préparez votre déménagement à Toulouse en 30 minutes → recevez 5 devis précis gratuitement sous 7 jours",
+  "hero_subtitle": "Votre dossier complet, sans stress. Estimation fiable, prix transparents, partenaires de confiance à Toulouse.",
+  "stats": {
+    "clients": "1600+",
+    "rating": "4.8",
+    "demenageurs": "25+",
+    "devis": "3-5"
+  },
+  "pricing": {
+    "studio": "350-660€",
+    "t2": "560-950€",
+    "t3": "750-1250€",
+    "t4": "950-1600€"
+  },
+  "contraintes": "Centre-ville avec zones piétonnes étendues (Capitole), Garonne traversant la ville, métro (2 lignes) et tramway (2 lignes), stationnement limité dans l'hypercentre, circulation dense aux heures de pointe.",
+  "quartiers": [
+    {
+      "nom": "Capitole",
+      "slug": "capitole-toulouse",
+      "codePostal": "31000",
+      "description": "Cœur de Toulouse autour de la place du Capitole. Zone piétonne, immeubles en brique rose, nombreux commerces et restaurants. Centre névralgique de la ville.",
+      "contraintes": "Zone 100% piétonne, accès véhicules très réglementé, livraisons en horaires restreints, stationnement impossible",
+      "stats": {
+        "dossiers": "240+",
+        "demenageurs": "14+",
+        "delai": "7 jours"
+      }
+    },
+    {
+      "nom": "Carmes",
+      "slug": "carmes-toulouse",
+      "codePostal": "31000",
+      "description": "Quartier résidentiel historique avec marché couvert Victor Hugo. Immeubles anciens en brique, rues étroites, ambiance authentique et conviviale.",
+      "contraintes": "Rues étroites, marché quotidien (horaires à éviter), circulation limitée, stationnement résidentiel",
+      "stats": {
+        "dossiers": "220+",
+        "demenageurs": "13+",
+        "delai": "6 jours"
+      }
+    },
+    {
+      "nom": "Saint-Cyprien",
+      "slug": "saint-cyprien-toulouse",
+      "codePostal": "31300",
+      "description": "Quartier rive gauche de la Garonne, proche des quais. Mix d'immeubles anciens et modernes. Marché dominical réputé, espaces verts (Prairie des Filtres).",
+      "contraintes": "Accès par ponts, circulation dense, marché le dimanche, stationnement limité",
+      "stats": {
+        "dossiers": "200+",
+        "demenageurs": "12+",
+        "delai": "6 jours"
+      }
+    },
+    {
+      "nom": "Compans-Caffarelli",
+      "slug": "compans-caffarelli-toulouse",
+      "codePostal": "31000",
+      "description": "Quartier d'affaires moderne proche de la gare Matabiau. Bureaux, résidences récentes, jardin japonais. Bien desservi par les transports.",
+      "contraintes": "Circulation dense en semaine, zone gare réglementée, stationnement payant",
+      "stats": {
+        "dossiers": "180+",
+        "demenageurs": "11+",
+        "delai": "5 jours"
+      }
+    },
+    {
+      "nom": "Minimes",
+      "slug": "minimes-toulouse",
+      "codePostal": "31200",
+      "description": "Grand quartier résidentiel du nord de Toulouse. Mix de pavillons et résidences. Espaces commerciaux, écoles, espaces verts. Quartier familial.",
+      "contraintes": "Accès plus facile, stationnement généralement disponible, quelques rues étroites dans l'ancien",
+      "stats": {
+        "dossiers": "160+",
+        "demenageurs": "9+",
+        "delai": "5 jours"
+      }
+    }
+  ],
+  "destinations": [
+    {
+      "nom": "Paris",
+      "slug": "toulouse-vers-paris",
+      "distance": "680 km",
+      "duree": "6-7h",
+      "prix_moyen": "850-1700€"
+    },
+    {
+      "nom": "Bordeaux",
+      "slug": "toulouse-vers-bordeaux",
+      "distance": "245 km",
+      "duree": "2-3h",
+      "prix_moyen": "400-800€"
+    },
+    {
+      "nom": "Montpellier",
+      "slug": "toulouse-vers-montpellier",
+      "distance": "240 km",
+      "duree": "2-3h",
+      "prix_moyen": "400-800€"
+    },
+    {
+      "nom": "Lyon",
+      "slug": "toulouse-vers-lyon",
+      "distance": "535 km",
+      "duree": "5-6h",
+      "prix_moyen": "700-1400€"
+    }
+  ],
+  "partners": [],
+  "blog": {
+    "categories": [
+      "Conseils Déménagement Toulouse",
+      "Vie à Toulouse",
+      "Actualités Déménagement"
+    ],
+    "pillars": [
+      {
+        "title": "Guide complet pour déménager à Toulouse",
+        "slug": "guide-demenagement-toulouse"
+      },
+      {
+        "title": "Quartiers de Toulouse : où s'installer ?",
+        "slug": "quartiers-toulouse-installation"
+      },
+      {
+        "title": "Déménagement dans le centre historique de Toulouse",
+        "slug": "demenagement-centre-historique-toulouse"
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "Antoine P.",
+      "location": "Capitole",
+      "text": "Excellent service ! Le déménagement en plein centre piétonnier semblait compliqué, mais l'équipe a géré parfaitement. Très pro et efficace.",
+      "avatar": "https://randomuser.me/api/portraits/men/28.jpg"
+    },
+    {
+      "name": "Lucie F.",
+      "location": "Carmes",
+      "text": "Déménagement impeccable dans le quartier des Carmes. Les déménageurs connaissaient bien les contraintes du quartier. Je recommande !",
+      "avatar": "https://randomuser.me/api/portraits/women/33.jpg"
+    },
+    {
+      "name": "David M.",
+      "location": "Saint-Cyprien",
+      "text": "Très satisfait du service. Prix transparent, équipe sympathique et professionnelle. Le déménagement s'est déroulé exactement comme prévu.",
+      "avatar": "https://randomuser.me/api/portraits/men/51.jpg"
+    }
+  ]
+}

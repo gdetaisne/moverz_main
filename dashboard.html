@@ -1,0 +1,703 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard Déploiement - Moverz Sites</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            padding: 20px;
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            overflow: hidden;
+        }
+        
+        header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+        
+        header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        
+        header p {
+            font-size: 1.1em;
+            opacity: 0.9;
+        }
+        
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            padding: 30px;
+            background: #f8f9fa;
+        }
+        
+        .stat-card {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+        
+        .stat-card .number {
+            font-size: 2.5em;
+            font-weight: bold;
+            color: #667eea;
+            margin-bottom: 5px;
+        }
+        
+        .stat-card .label {
+            color: #666;
+            font-size: 0.9em;
+        }
+        
+        .table-container {
+            padding: 30px;
+            overflow-x: auto;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background: white;
+        }
+        
+        thead {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+        }
+        
+        th {
+            padding: 15px;
+            text-align: left;
+            font-weight: 600;
+            font-size: 0.9em;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        
+        td {
+            padding: 15px;
+            border-bottom: 1px solid #e9ecef;
+        }
+        
+        tbody tr:hover {
+            background: #f8f9fa;
+            cursor: pointer;
+        }
+        
+        .badge {
+            display: inline-block;
+            padding: 5px 12px;
+            border-radius: 20px;
+            font-size: 0.85em;
+            font-weight: 600;
+        }
+        
+        .badge-success {
+            background: #d4edda;
+            color: #155724;
+        }
+        
+        .badge-warning {
+            background: #fff3cd;
+            color: #856404;
+        }
+        
+        .badge-pending {
+            background: #cce5ff;
+            color: #004085;
+        }
+        
+        .status {
+            display: flex;
+            gap: 5px;
+            align-items: center;
+        }
+        
+        .city-name {
+            font-weight: 600;
+            color: #2d3748;
+            font-size: 1.1em;
+        }
+        
+        .domain {
+            color: #667eea;
+            font-family: 'Courier New', monospace;
+            font-size: 0.9em;
+        }
+        
+        .port {
+            background: #667eea;
+            color: white;
+            padding: 4px 10px;
+            border-radius: 5px;
+            font-weight: 600;
+            font-size: 0.85em;
+            text-decoration: none;
+            display: inline-block;
+            transition: all 0.3s ease;
+        }
+        
+        .port:hover {
+            background: #5a67d8;
+            transform: translateY(-1px);
+            box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+        }
+        
+        .section {
+            padding: 30px;
+            border-top: 1px solid #e9ecef;
+        }
+        
+        .section h2 {
+            color: #2d3748;
+            margin-bottom: 20px;
+            font-size: 1.8em;
+        }
+        
+        .commands {
+            background: #2d3748;
+            color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            font-family: 'Courier New', monospace;
+            overflow-x: auto;
+        }
+        
+        .commands pre {
+            margin: 0;
+            white-space: pre-wrap;
+            line-height: 1.6;
+        }
+        
+        .legend {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+            margin-bottom: 20px;
+            padding: 15px;
+            background: #f8f9fa;
+            border-radius: 10px;
+        }
+        
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        
+        .test-section {
+            background: #f8f9fa;
+            padding: 30px;
+            border-top: 1px solid #e9ecef;
+        }
+        
+        .test-buttons {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+        
+        .test-btn {
+            background: #28a745;
+            color: white;
+            border: none;
+            padding: 12px 20px;
+            border-radius: 8px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-size: 0.9em;
+        }
+        
+        .test-btn:hover {
+            background: #218838;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+        }
+        
+        .test-btn.global {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            font-size: 1.1em;
+            padding: 15px 25px;
+        }
+        
+        .test-btn.global:hover {
+            background: linear-gradient(135deg, #5a67d8 0%, #6b46c1 100%);
+        }
+        
+        .test-results {
+            background: white;
+            border-radius: 10px;
+            padding: 20px;
+            margin-top: 20px;
+            display: none;
+        }
+        
+        .test-result {
+            padding: 10px;
+            margin: 5px 0;
+            border-radius: 5px;
+            font-family: 'Courier New', monospace;
+            font-size: 0.9em;
+        }
+        
+        .test-result.success {
+            background: #d4edda;
+            color: #155724;
+            border-left: 4px solid #28a745;
+        }
+        
+        .test-result.error {
+            background: #f8d7da;
+            color: #721c24;
+            border-left: 4px solid #dc3545;
+        }
+        
+        .test-result.info {
+            background: #d1ecf1;
+            color: #0c5460;
+            border-left: 4px solid #17a2b8;
+        }
+        
+        footer {
+            text-align: center;
+            padding: 20px;
+            color: #6c757d;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🚀 Dashboard Déploiement</h1>
+            <p>Sites Moverz - Génération Multi-Villes</p>
+            <p style="margin-top: 10px; font-size: 0.9em;">Mise à jour : 8 Octobre 2025</p>
+        </header>
+        
+        <div class="stats">
+            <div class="stat-card">
+                <div class="number">11</div>
+                <div class="label">Sites Générés</div>
+            </div>
+            <div class="stat-card">
+                <div class="number">~190</div>
+                <div class="label">Pages Totales</div>
+            </div>
+            <div class="stat-card">
+                <div class="number">3.5M+</div>
+                <div class="label">Habitants Couverts</div>
+            </div>
+            <div class="stat-card">
+                <div class="number">9%</div>
+                <div class="label">Sites Testés</div>
+            </div>
+        </div>
+        
+        <div class="table-container">
+            <h2 style="margin-bottom: 20px; color: #2d3748;">📊 Tableau de Bord Principal</h2>
+            
+            <div class="legend">
+                <div class="legend-item">
+                    <span class="badge badge-success">✅</span>
+                    <span>Complété</span>
+                </div>
+                <div class="legend-item">
+                    <span class="badge badge-pending">⏳</span>
+                    <span>En attente</span>
+                </div>
+                <div class="legend-item">
+                    <span class="badge badge-warning">🟡</span>
+                    <span>À tester</span>
+                </div>
+            </div>
+            
+            <table>
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>Ville</th>
+                        <th>Domaine</th>
+                        <th>Port Local</th>
+                        <th>Deps</th>
+                        <th>Build</th>
+                        <th>Deploy</th>
+                        <th>Tests</th>
+                        <th>Status</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>1</td>
+                        <td><span class="city-name">Bordeaux</span><br><small>257k hab.</small></td>
+                        <td class="domain">bordeaux-demenageur.fr</td>
+                        <td><a href="http://localhost:4001" class="port" target="_blank">4001</a></td>
+                        <td><span class="badge badge-success">✅ npm install</span></td>
+                        <td><span class="badge badge-success">✅ npm run dev</span></td>
+                        <td><span class="badge badge-pending">⏳ deploy</span></td>
+                        <td><span class="badge badge-success">✅ Validé</span></td>
+                        <td><span class="badge badge-success">✅ Fonctionnel</span></td>
+                    </tr>
+                    <tr>
+                        <td>2</td>
+                        <td><span class="city-name">Marseille</span><br><small>870k hab.</small></td>
+                        <td class="domain">devis-demenageur-marseille.fr</td>
+                        <td><a href="http://localhost:4002" class="port" target="_blank">4002</a></td>
+                        <td><span class="badge badge-pending">⏳ npm install</span></td>
+                        <td><span class="badge badge-pending">⏳ npm run build</span></td>
+                        <td><span class="badge badge-pending">⏳ deploy</span></td>
+                        <td><span class="badge badge-pending">⏳ À tester</span></td>
+                        <td><span class="badge badge-warning">🟡 Prêt</span></td>
+                    </tr>
+                    <tr>
+                        <td>3</td>
+                        <td><span class="city-name">Lyon</span><br><small>520k hab.</small></td>
+                        <td class="domain">devis-demenageur-lyon.fr</td>
+                        <td><a href="http://localhost:4003" class="port" target="_blank">4003</a></td>
+                        <td><span class="badge badge-pending">⏳ npm install</span></td>
+                        <td><span class="badge badge-pending">⏳ npm run build</span></td>
+                        <td><span class="badge badge-pending">⏳ deploy</span></td>
+                        <td><span class="badge badge-pending">⏳ À tester</span></td>
+                        <td><span class="badge badge-warning">🟡 Prêt</span></td>
+                    </tr>
+                    <tr>
+                        <td>4</td>
+                        <td><span class="city-name">Toulouse</span><br><small>480k hab.</small></td>
+                        <td class="domain">devis-demenageur-toulousain.fr</td>
+                        <td><a href="http://localhost:4003" class="port" target="_blank">4003</a></td>
+                        <td><span class="badge badge-pending">⏳ npm install</span></td>
+                        <td><span class="badge badge-pending">⏳ npm run build</span></td>
+                        <td><span class="badge badge-pending">⏳ deploy</span></td>
+                        <td><span class="badge badge-pending">⏳ À tester</span></td>
+                        <td><span class="badge badge-warning">🟡 Prêt</span></td>
+                    </tr>
+                    <tr>
+                        <td>5</td>
+                        <td><span class="city-name">Nice</span><br><small>340k hab.</small></td>
+                        <td class="domain">devis-demenageur-nice.fr</td>
+                        <td><a href="http://localhost:4005" class="port" target="_blank">4005</a></td>
+                        <td><span class="badge badge-pending">⏳ npm install</span></td>
+                        <td><span class="badge badge-pending">⏳ npm run build</span></td>
+                        <td><span class="badge badge-pending">⏳ deploy</span></td>
+                        <td><span class="badge badge-pending">⏳ À tester</span></td>
+                        <td><span class="badge badge-warning">🟡 Prêt</span></td>
+                    </tr>
+                    <tr>
+                        <td>6</td>
+                        <td><span class="city-name">Nantes</span><br><small>320k hab.</small></td>
+                        <td class="domain">devis-demenageur-nantes.fr</td>
+                        <td><a href="http://localhost:4005" class="port" target="_blank">4005</a></td>
+                        <td><span class="badge badge-pending">⏳ npm install</span></td>
+                        <td><span class="badge badge-pending">⏳ npm run build</span></td>
+                        <td><span class="badge badge-pending">⏳ deploy</span></td>
+                        <td><span class="badge badge-pending">⏳ À tester</span></td>
+                        <td><span class="badge badge-warning">🟡 Prêt</span></td>
+                    </tr>
+                    <tr>
+                        <td>7</td>
+                        <td><span class="city-name">Strasbourg</span><br><small>280k hab.</small></td>
+                        <td class="domain">devis-demenageur-strasbourg.fr</td>
+                        <td><a href="http://localhost:4007" class="port" target="_blank">4007</a></td>
+                        <td><span class="badge badge-pending">⏳ npm install</span></td>
+                        <td><span class="badge badge-pending">⏳ npm run build</span></td>
+                        <td><span class="badge badge-pending">⏳ deploy</span></td>
+                        <td><span class="badge badge-pending">⏳ À tester</span></td>
+                        <td><span class="badge badge-warning">🟡 Prêt</span></td>
+                    </tr>
+                    <tr>
+                        <td>8</td>
+                        <td><span class="city-name">Lille</span><br><small>235k hab.</small></td>
+                        <td class="domain">devis-demenageur-lille.fr</td>
+                        <td><a href="http://localhost:4007" class="port" target="_blank">4007</a></td>
+                        <td><span class="badge badge-pending">⏳ npm install</span></td>
+                        <td><span class="badge badge-pending">⏳ npm run build</span></td>
+                        <td><span class="badge badge-pending">⏳ deploy</span></td>
+                        <td><span class="badge badge-pending">⏳ À tester</span></td>
+                        <td><span class="badge badge-warning">🟡 Prêt</span></td>
+                    </tr>
+                    <tr>
+                        <td>9</td>
+                        <td><span class="city-name">Rennes</span><br><small>220k hab.</small></td>
+                        <td class="domain">devis-demenageur-rennes.fr</td>
+                        <td><a href="http://localhost:4009" class="port" target="_blank">4009</a></td>
+                        <td><span class="badge badge-pending">⏳ npm install</span></td>
+                        <td><span class="badge badge-pending">⏳ npm run build</span></td>
+                        <td><span class="badge badge-pending">⏳ deploy</span></td>
+                        <td><span class="badge badge-pending">⏳ À tester</span></td>
+                        <td><span class="badge badge-warning">🟡 Prêt</span></td>
+                    </tr>
+                    <tr>
+                        <td>10</td>
+                        <td><span class="city-name">Rouen</span><br><small>110k hab.</small></td>
+                        <td class="domain">devis-demenageur-rouen.fr</td>
+                        <td><a href="http://localhost:4009" class="port" target="_blank">4009</a></td>
+                        <td><span class="badge badge-pending">⏳ npm install</span></td>
+                        <td><span class="badge badge-pending">⏳ npm run build</span></td>
+                        <td><span class="badge badge-pending">⏳ deploy</span></td>
+                        <td><span class="badge badge-pending">⏳ À tester</span></td>
+                        <td><span class="badge badge-warning">🟡 Prêt</span></td>
+                    </tr>
+                    <tr>
+                        <td>11</td>
+                        <td><span class="city-name">Thaire-Daunis</span><br><small>~500 hab.</small></td>
+                        <td class="domain">(exemple)</td>
+                        <td><a href="http://localhost:4011" class="port" target="_blank">4011</a></td>
+                        <td><span class="badge badge-pending">⏳ npm install</span></td>
+                        <td><span class="badge badge-pending">⏳ npm run build</span></td>
+                        <td><span class="badge badge-pending">⏳ deploy</span></td>
+                        <td><span class="badge badge-pending">⏳ À tester</span></td>
+                        <td><span class="badge badge-warning">🟡 Prêt</span></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        
+        <div class="test-section">
+            <h2>🧪 Tests Automatiques</h2>
+            <p style="margin-bottom: 20px; color: #666;">Tests de validation pour chaque site généré</p>
+            
+            <div class="test-buttons">
+                <button class="test-btn global" onclick="runAllTests()">🚀 Test Global (Tous Sites)</button>
+                <button class="test-btn" onclick="testFooter()">🔍 Test Footer</button>
+                <button class="test-btn" onclick="testContact()">📧 Test Email Contact</button>
+                <button class="test-btn" onclick="testPartners()">🤝 Test Partenaires</button>
+                <button class="test-btn" onclick="testBlog()">📝 Test Page Blog</button>
+            </div>
+            
+            <div class="test-results" id="testResults">
+                <h3>Résultats des Tests</h3>
+                <div id="testOutput"></div>
+            </div>
+        </div>
+        
+        <div class="section">
+            <h2>📋 Explication des Colonnes</h2>
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+                <div style="background: #f8f9fa; padding: 20px; border-radius: 10px;">
+                    <h4>🔧 <strong>Deps</strong></h4>
+                    <p>Installation des dépendances npm. Étape obligatoire avant build.</p>
+                    <code>npm install</code>
+                </div>
+                <div style="background: #f8f9fa; padding: 20px; border-radius: 10px;">
+                    <h4>🏗️ <strong>Build</strong></h4>
+                    <p>Compilation et optimisation du site pour la production.</p>
+                    <code>npm run build</code>
+                </div>
+                <div style="background: #f8f9fa; padding: 20px; border-radius: 10px;">
+                    <h4>🚀 <strong>Deploy</strong></h4>
+                    <p>Déploiement sur CapRover/Vercel avec domaine configuré.</p>
+                    <code>caprover deploy</code>
+                </div>
+                <div style="background: #f8f9fa; padding: 20px; border-radius: 10px;">
+                    <h4>🧪 <strong>Tests</strong></h4>
+                    <p>Validation automatique des éléments critiques du site.</p>
+                    <code>Tests: Footer, Contact, Partenaires, Blog</code>
+                </div>
+            </div>
+        </div>
+        
+        <div class="section">
+            <h2>🔧 Commandes Rapides</h2>
+            <div class="commands">
+                <pre># Installer les dépendances de tous les sites
+cd /Users/guillaumestehelin/moverz_main/sites
+for site in bordeaux marseille lyon toulouse nice nantes strasbourg lille rennes rouen; do
+  echo "📦 Installation $site..."
+  cd $site && npm install && cd ..
+done
+
+# Tester un site spécifique
+cd sites/marseille
+PORT=4001 npm run dev
+
+# Builder pour production
+cd sites/marseille
+npm run build
+npm run start</pre>
+            </div>
+        </div>
+        
+        <footer>
+            <p>✅ Tous les sites générés avec succès | Template Next.js 14 | Données réelles</p>
+            <p style="margin-top: 5px;">Dashboard mis à jour : 8 Octobre 2025</p>
+        </footer>
+    </div>
+    
+    <script>
+        const sites = [
+            { name: 'bordeaux', port: 4001, domain: 'bordeaux-demenageur.fr' },
+            { name: 'marseille', port: 4002, domain: 'devis-demenageur-marseille.fr' },
+            { name: 'lyon', port: 4003, domain: 'devis-demenageur-lyon.fr' },
+            { name: 'toulouse', port: 4004, domain: 'devis-demenageur-toulousain.fr' },
+            { name: 'nice', port: 4005, domain: 'devis-demenageur-nice.fr' },
+            { name: 'nantes', port: 4006, domain: 'devis-demenageur-nantes.fr' },
+            { name: 'strasbourg', port: 4007, domain: 'devis-demenageur-strasbourg.fr' },
+            { name: 'lille', port: 4008, domain: 'devis-demenageur-lille.fr' },
+            { name: 'rennes', port: 4009, domain: 'devis-demenageur-rennes.fr' },
+            { name: 'rouen', port: 4010, domain: 'devis-demenageur-rouen.fr' },
+            { name: 'thaire-daunis', port: 4011, domain: '(exemple)' }
+        ];
+
+        function showResults() {
+            document.getElementById('testResults').style.display = 'block';
+        }
+
+        function addResult(message, type = 'info') {
+            const output = document.getElementById('testOutput');
+            const div = document.createElement('div');
+            div.className = `test-result ${type}`;
+            div.textContent = message;
+            output.appendChild(div);
+        }
+
+        function clearResults() {
+            document.getElementById('testOutput').innerHTML = '';
+        }
+
+        async function testFooter() {
+            clearResults();
+            showResults();
+            addResult('🔍 Test Footer - Vérification en cours...', 'info');
+            
+            for (const site of sites) {
+                try {
+                    // Test si le site répond
+                    const response = await fetch(`http://localhost:${site.port}`, { 
+                        method: 'HEAD',
+                        mode: 'no-cors'
+                    });
+                    
+                    // Vérifier la présence du footer dans le HTML
+                    const htmlResponse = await fetch(`http://localhost:${site.port}`);
+                    const html = await htmlResponse.text();
+                    
+                    if (html.includes('footer') || html.includes('Footer')) {
+                        addResult(`✅ ${site.name.toUpperCase()}: Footer présent`, 'success');
+                    } else {
+                        addResult(`❌ ${site.name.toUpperCase()}: Footer manquant`, 'error');
+                    }
+                } catch (error) {
+                    addResult(`⚠️ ${site.name.toUpperCase()}: Site non accessible (${error.message})`, 'error');
+                }
+            }
+        }
+
+        async function testContact() {
+            clearResults();
+            showResults();
+            addResult('📧 Test Email Contact - Vérification en cours...', 'info');
+            
+            for (const site of sites) {
+                try {
+                    const response = await fetch(`http://localhost:${site.port}`);
+                    const html = await response.text();
+                    
+                    // Rechercher des emails de contact
+                    const emailRegex = /[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}/g;
+                    const emails = html.match(emailRegex);
+                    
+                    if (emails && emails.length > 0) {
+                        addResult(`✅ ${site.name.toUpperCase()}: Email trouvé (${emails[0]})`, 'success');
+                    } else {
+                        addResult(`❌ ${site.name.toUpperCase()}: Aucun email de contact`, 'error');
+                    }
+                } catch (error) {
+                    addResult(`⚠️ ${site.name.toUpperCase()}: Erreur de test (${error.message})`, 'error');
+                }
+            }
+        }
+
+        async function testPartners() {
+            clearResults();
+            showResults();
+            addResult('🤝 Test Partenaires - Vérification en cours...', 'info');
+            
+            for (const site of sites) {
+                try {
+                    const response = await fetch(`http://localhost:${site.port}/partenaires`);
+                    const html = await response.text();
+                    
+                    // Vérifier la présence de partenaires locaux
+                    const hasPartners = html.includes('partenaire') || html.includes('déménageur') || html.includes('entreprise');
+                    
+                    if (hasPartners) {
+                        addResult(`✅ ${site.name.toUpperCase()}: Page partenaires accessible`, 'success');
+                    } else {
+                        addResult(`❌ ${site.name.toUpperCase()}: Page partenaires vide ou inaccessible`, 'error');
+                    }
+                } catch (error) {
+                    addResult(`⚠️ ${site.name.toUpperCase()}: Page partenaires non accessible`, 'error');
+                }
+            }
+        }
+
+        async function testBlog() {
+            clearResults();
+            showResults();
+            addResult('📝 Test Page Blog - Vérification en cours...', 'info');
+            
+            for (const site of sites) {
+                try {
+                    const response = await fetch(`http://localhost:${site.port}/blog`);
+                    const html = await response.text();
+                    
+                    // Vérifier la structure de la page blog
+                    const hasBlogStructure = html.includes('blog') && (html.includes('article') || html.includes('category'));
+                    
+                    if (hasBlogStructure) {
+                        addResult(`✅ ${site.name.toUpperCase()}: Page blog fonctionnelle`, 'success');
+                    } else {
+                        addResult(`❌ ${site.name.toUpperCase()}: Page blog manquante ou incomplète`, 'error');
+                    }
+                } catch (error) {
+                    addResult(`⚠️ ${site.name.toUpperCase()}: Page blog non accessible`, 'error');
+                }
+            }
+        }
+
+        async function runAllTests() {
+            clearResults();
+            showResults();
+            addResult('🚀 Test Global - Lancement de tous les tests...', 'info');
+            
+            await testFooter();
+            await new Promise(resolve => setTimeout(resolve, 1000));
+            
+            await testContact();
+            await new Promise(resolve => setTimeout(resolve, 1000));
+            
+            await testPartners();
+            await new Promise(resolve => setTimeout(resolve, 1000));
+            
+            await testBlog();
+            
+            addResult('✅ Tests terminés !', 'success');
+        }
+    </script>
+</body>
+</html>
+

@@ -1,0 +1,164 @@
+{
+  "city_name": "Nice",
+  "citySlug": "nice",
+  "region": "Provence-Alpes-Côte d'Azur",
+  "zipCodes": "06000-06300",
+  "population": "340000",
+  "meta_title": "Déménagement Nice | Devis Gratuit | Meilleurs Déménageurs",
+  "meta_description": "Déménagement professionnel à Nice. Devis gratuit, déménageurs vérifiés, service de qualité dans tous les quartiers.",
+  "keywords": "déménagement nice, déménageur nice, déménagement pas cher nice, déménageur vieux-nice, déménageur promenade, déménageur liberation",
+  "contactEmail": "contact@devis-demenageur-nice.fr",
+  "contactPhone": "04 93 00 00 00",
+  "domain": "https://www.devis-demenageur-nice.fr",
+  "googleVerification": "YOUR_GOOGLE_VERIFICATION_CODE",
+  "hero_title": "Préparez votre déménagement à Nice en 30 minutes → recevez 5 devis précis gratuitement sous 7 jours",
+  "hero_subtitle": "Votre dossier complet, sans stress. Estimation fiable, prix transparents, partenaires de confiance à Nice.",
+  "stats": {
+    "clients": "1400+",
+    "rating": "4.8",
+    "demenageurs": "22+",
+    "devis": "3-5"
+  },
+  "pricing": {
+    "studio": "400-750€",
+    "t2": "650-1100€",
+    "t3": "850-1450€",
+    "t4": "1100-1850€"
+  },
+  "contraintes": "Relief très important (collines), rues en pente et étroites, Vieux-Nice avec ruelles piétonnes, tramway (3 lignes), Promenade des Anglais très fréquentée, stationnement très limité et cher. Climat méditerranéen.",
+  "quartiers": [
+    {
+      "nom": "Vieux-Nice",
+      "slug": "vieux-nice",
+      "codePostal": "06300",
+      "description": "Cœur historique de Nice avec ruelles étroites colorées, cours Saleya et son marché aux fleurs. Architecture baroque, immeubles hauts et étroits. Très touristique.",
+      "contraintes": "Ruelles piétonnes très étroites, impossible d'accéder en véhicule, nombreux escaliers, pas de stationnement",
+      "stats": {
+        "dossiers": "190+",
+        "demenageurs": "11+",
+        "delai": "8 jours"
+      }
+    },
+    {
+      "nom": "Promenade des Anglais",
+      "slug": "promenade-anglais-nice",
+      "codePostal": "06000",
+      "description": "Front de mer emblématique avec immeubles Belle Époque. Vue mer, restaurants, hôtels. Quartier prisé et prestigieux.",
+      "contraintes": "Circulation dense, stationnement quasi-impossible, accès réglementé, forte affluence touristique",
+      "stats": {
+        "dossiers": "180+",
+        "demenageurs": "10+",
+        "delai": "7 jours"
+      }
+    },
+    {
+      "nom": "Libération",
+      "slug": "liberation-nice",
+      "codePostal": "06100",
+      "description": "Quartier dynamique autour de l'avenue Jean Médecin. Centre commercial, tramway, nombreux commerces. Quartier commerçant et résidentiel.",
+      "contraintes": "Tramway, circulation dense, zones piétonnes, stationnement payant et limité",
+      "stats": {
+        "dossiers": "210+",
+        "demenageurs": "12+",
+        "delai": "6 jours"
+      }
+    },
+    {
+      "nom": "Cimiez",
+      "slug": "cimiez-nice",
+      "codePostal": "06000",
+      "description": "Quartier résidentiel sur les hauteurs, jardins romains, musée Matisse. Immeubles bourgeois, calme et verdoyant. Vue panoramique sur Nice.",
+      "contraintes": "Colline avec pentes raides, rues étroites, accès difficile pour gros véhicules",
+      "stats": {
+        "dossiers": "150+",
+        "demenageurs": "8+",
+        "delai": "7 jours"
+      }
+    },
+    {
+      "nom": "Port",
+      "slug": "port-nice",
+      "codePostal": "06300",
+      "description": "Quartier du port avec marina et marché. Restaurants de poissons, immeubles colorés. Ambiance méditerranéenne authentique.",
+      "contraintes": "Accès port réglementé, circulation dense, stationnement très limité, rues étroites",
+      "stats": {
+        "dossiers": "170+",
+        "demenageurs": "9+",
+        "delai": "6 jours"
+      }
+    }
+  ],
+  "destinations": [
+    {
+      "nom": "Paris",
+      "slug": "nice-vers-paris",
+      "distance": "930 km",
+      "duree": "9-10h",
+      "prix_moyen": "1200-2400€"
+    },
+    {
+      "nom": "Marseille",
+      "slug": "nice-vers-marseille",
+      "distance": "200 km",
+      "duree": "2-3h",
+      "prix_moyen": "400-800€"
+    },
+    {
+      "nom": "Lyon",
+      "slug": "nice-vers-lyon",
+      "distance": "470 km",
+      "duree": "4-5h",
+      "prix_moyen": "650-1300€"
+    },
+    {
+      "nom": "Monaco",
+      "slug": "nice-vers-monaco",
+      "distance": "20 km",
+      "duree": "30min",
+      "prix_moyen": "250-500€"
+    }
+  ],
+  "partners": [],
+  "blog": {
+    "categories": [
+      "Conseils Déménagement Nice",
+      "Vie à Nice",
+      "Actualités Déménagement"
+    ],
+    "pillars": [
+      {
+        "title": "Guide complet pour déménager à Nice",
+        "slug": "guide-demenagement-nice"
+      },
+      {
+        "title": "Quartiers de Nice : où s'installer ?",
+        "slug": "quartiers-nice-installation"
+      },
+      {
+        "title": "Déménagement sur la Côte d'Azur : spécificités",
+        "slug": "demenagement-cote-azur-nice"
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "Isabelle L.",
+      "location": "Vieux-Nice",
+      "text": "Déménagement parfait dans les ruelles du Vieux-Nice ! L'équipe a été très pro malgré les difficultés d'accès. Je recommande vivement.",
+      "avatar": "https://randomuser.me/api/portraits/women/29.jpg"
+    },
+    {
+      "name": "Laurent C.",
+      "location": "Promenade des Anglais",
+      "text": "Excellent service pour notre déménagement sur la Promenade. Les déménageurs étaient ponctuels et très efficaces. Très satisfait !",
+      "avatar": "https://randomuser.me/api/portraits/men/44.jpg"
+    },
+    {
+      "name": "Marie T.",
+      "location": "Libération",
+      "text": "Service irréprochable. Devis transparent, équipe sympathique et soigneuse. Notre déménagement s'est déroulé sans le moindre souci.",
+      "avatar": "https://randomuser.me/api/portraits/women/58.jpg"
+    }
+  ]
+}
+

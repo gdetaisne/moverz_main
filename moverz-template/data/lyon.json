@@ -1,0 +1,175 @@
+{
+  "city_name": "Lyon",
+  "citySlug": "lyon",
+  "region": "Auvergne-Rhône-Alpes",
+  "zipCodes": "69001-69009",
+  "population": "520000",
+  "meta_title": "Déménagement Lyon | Devis Gratuit | Meilleurs Déménageurs",
+  "meta_description": "Déménagement professionnel à Lyon. Devis gratuit, déménageurs vérifiés, service de qualité dans tous les arrondissements.",
+  "keywords": "déménagement lyon, déménageur lyon, déménagement pas cher lyon, déménageur vieux-lyon, déménageur croix-rousse, déménageur presqu'île",
+  "contactEmail": "contact@devis-demenageur-lyon.fr",
+  "contactPhone": "04 72 00 00 00",
+  "domain": "https://www.devis-demenageur-lyon.fr",
+  "googleVerification": "YOUR_GOOGLE_VERIFICATION_CODE",
+  "hero_title": "Préparez votre déménagement à Lyon en 30 minutes → recevez 5 devis précis gratuitement sous 7 jours",
+  "hero_subtitle": "Votre dossier complet, sans stress. Estimation fiable, prix transparents, partenaires de confiance à Lyon.",
+  "stats": {
+    "clients": "1800+",
+    "rating": "4.9",
+    "demenageurs": "28+",
+    "devis": "3-5"
+  },
+  "pricing": {
+    "studio": "360-680€",
+    "t2": "580-980€",
+    "t3": "780-1300€",
+    "t4": "980-1650€"
+  },
+  "contraintes": "Ville sur collines (Croix-Rousse, Fourvière) avec pentes raides, Vieux-Lyon classé UNESCO avec rues médiévales étroites, traboules (passages couverts), tramway et métro (4 lignes), Presqu'île avec circulation dense, stationnement très limité dans le centre.",
+  "quartiers": [
+    {
+      "nom": "Vieux-Lyon",
+      "slug": "vieux-lyon",
+      "codePostal": "69005",
+      "description": "Quartier Renaissance classé UNESCO, traboules historiques, cathédrale Saint-Jean. Rues pavées médiévales et immeubles du XVIe siècle. Très touristique.",
+      "contraintes": "Rues très étroites et pentues, pavés, impossible d'accéder en gros véhicule, nombreux escaliers, traboules, stationnement inexistant",
+      "stats": {
+        "dossiers": "210+",
+        "demenageurs": "13+",
+        "delai": "8 jours"
+      }
+    },
+    {
+      "nom": "Croix-Rousse",
+      "slug": "croix-rousse-lyon",
+      "codePostal": "69004",
+      "description": "Quartier des canuts sur la colline, ambiance village avec marché quotidien, traboules, pentes raides (montée de la Grande-Côte). Quartier artistique et populaire.",
+      "contraintes": "Pentes très raides (certaines à 15%), rues étroites, traboules, accès limité pour gros véhicules, stationnement difficile",
+      "stats": {
+        "dossiers": "230+",
+        "demenageurs": "14+",
+        "delai": "7 jours"
+      }
+    },
+    {
+      "nom": "Presqu'île",
+      "slug": "presquile-lyon",
+      "codePostal": "69002",
+      "description": "Cœur de Lyon entre Rhône et Saône, Place Bellecour, rue de la République. Quartier commerçant et résidentiel avec immeubles haussmanniens.",
+      "contraintes": "Circulation très dense, tramway, zones piétonnes, stationnement payant et limité, livraisons réglementées",
+      "stats": {
+        "dossiers": "260+",
+        "demenageurs": "16+",
+        "delai": "6 jours"
+      }
+    },
+    {
+      "nom": "Part-Dieu",
+      "slug": "part-dieu-lyon",
+      "codePostal": "69003",
+      "description": "Quartier d'affaires moderne avec gratte-ciels, centre commercial, gare TGV. Résidences modernes et bureaux. En pleine transformation urbaine.",
+      "contraintes": "Circulation dense en semaine, accès gare réglementé, travaux fréquents, stationnement payant",
+      "stats": {
+        "dossiers": "240+",
+        "demenageurs": "15+",
+        "delai": "5 jours"
+      }
+    },
+    {
+      "nom": "Confluence",
+      "slug": "confluence-lyon",
+      "codePostal": "69002",
+      "description": "Nouveau quartier éco-responsable au confluent du Rhône et de la Saône. Architecture contemporaine, musée des Confluences, espaces verts. Quartier moderne et en développement.",
+      "contraintes": "Travaux en cours, accès réglementé, zones de livraison spécifiques, stationnement limité",
+      "stats": {
+        "dossiers": "180+",
+        "demenageurs": "11+",
+        "delai": "6 jours"
+      }
+    },
+    {
+      "nom": "Guillotière",
+      "slug": "guillotiere-lyon",
+      "codePostal": "69007",
+      "description": "Quartier multiculturel et étudiant proche des universités. Marché alimentaire, commerces variés. Ambiance cosmopolite et animée.",
+      "contraintes": "Circulation dense, stationnement difficile, rues étroites, forte affluence commerciale",
+      "stats": {
+        "dossiers": "200+",
+        "demenageurs": "12+",
+        "delai": "6 jours"
+      }
+    }
+  ],
+  "destinations": [
+    {
+      "nom": "Paris",
+      "slug": "lyon-vers-paris",
+      "distance": "465 km",
+      "duree": "4-5h",
+      "prix_moyen": "650-1300€"
+    },
+    {
+      "nom": "Marseille",
+      "slug": "lyon-vers-marseille",
+      "distance": "315 km",
+      "duree": "3-4h",
+      "prix_moyen": "500-1000€"
+    },
+    {
+      "nom": "Genève",
+      "slug": "lyon-vers-geneve",
+      "distance": "150 km",
+      "duree": "2h",
+      "prix_moyen": "350-700€"
+    },
+    {
+      "nom": "Bordeaux",
+      "slug": "lyon-vers-bordeaux",
+      "distance": "550 km",
+      "duree": "5-6h",
+      "prix_moyen": "700-1400€"
+    }
+  ],
+  "partners": [],
+  "blog": {
+    "categories": [
+      "Conseils Déménagement Lyon",
+      "Vie à Lyon",
+      "Actualités Déménagement"
+    ],
+    "pillars": [
+      {
+        "title": "Guide complet pour déménager à Lyon",
+        "slug": "guide-demenagement-lyon"
+      },
+      {
+        "title": "Arrondissements de Lyon : où s'installer ?",
+        "slug": "arrondissements-lyon-installation"
+      },
+      {
+        "title": "Déménagement sur les pentes : Croix-Rousse et Fourvière",
+        "slug": "demenagement-pentes-lyon"
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "Marc D.",
+      "location": "Croix-Rousse",
+      "text": "Impressionné par le professionnalisme ! Le déménagement dans les pentes de la Croix-Rousse n'était pas évident, mais l'équipe était parfaitement équipée et organisée.",
+      "avatar": "https://randomuser.me/api/portraits/men/32.jpg"
+    },
+    {
+      "name": "Julie B.",
+      "location": "Vieux-Lyon",
+      "text": "Déménagement réussi dans le Vieux-Lyon malgré les traboules et les rues étroites. Les déménageurs connaissaient parfaitement le quartier. Service impeccable !",
+      "avatar": "https://randomuser.me/api/portraits/women/45.jpg"
+    },
+    {
+      "name": "Pierre M.",
+      "location": "Presqu'île",
+      "text": "Très satisfait du service. Devis précis, équipe ponctuelle et efficace. Le déménagement en plein centre-ville s'est déroulé sans aucun problème.",
+      "avatar": "https://randomuser.me/api/portraits/men/67.jpg"
+    }
+  ]
+}
