@@ -3,9 +3,8 @@ FROM node:18-alpine AS base
 RUN apk add --no-cache libc6-compat
 WORKDIR /app
 
-# Copy only the rennes files
+# Copy package files from the site directory
 COPY sites/rennes/package*.json ./
-COPY sites/rennes/ ./
 
 # Install dependencies
 FROM base AS deps

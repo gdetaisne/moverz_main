@@ -3,9 +3,8 @@ FROM node:18-alpine AS base
 RUN apk add --no-cache libc6-compat
 WORKDIR /app
 
-# Copy only the rouen files
+# Copy package files from the site directory
 COPY sites/rouen/package*.json ./
-COPY sites/rouen/ ./
 
 # Install dependencies
 FROM base AS deps

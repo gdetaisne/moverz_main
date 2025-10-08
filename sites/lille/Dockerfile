@@ -1,11 +1,10 @@
-# Next.js production build for CapRover - Lille
+# Next.js production build for CapRover - lille
 FROM node:18-alpine AS base
 RUN apk add --no-cache libc6-compat
 WORKDIR /app
 
-# Copy only the Lille site files
+# Copy package files from the site directory
 COPY sites/lille/package*.json ./
-COPY sites/lille/ ./
 
 # Install dependencies
 FROM base AS deps
@@ -20,9 +19,7 @@ RUN npm run build
 
 # Production runtime
 FROM node:18-alpine AS runner
-RUN apk add --no-cache dumb-init && \
-    addgroup --system --gid 1001 nodejs && \
-    adduser --system --uid 1001 nextjs
+RUN apk add --no-cache dumb-init &&     addgroup --system --gid 1001 nodejs &&     adduser --system --uid 1001 nextjs
 
 WORKDIR /app
 ENV NODE_ENV=production

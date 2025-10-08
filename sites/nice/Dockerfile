@@ -3,9 +3,8 @@ FROM node:18-alpine AS base
 RUN apk add --no-cache libc6-compat
 WORKDIR /app
 
-# Copy only the nice files
+# Copy package files from the site directory
 COPY sites/nice/package*.json ./
-COPY sites/nice/ ./
 
 # Install dependencies
 FROM base AS deps

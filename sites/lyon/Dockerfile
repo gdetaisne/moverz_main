@@ -3,9 +3,8 @@ FROM node:18-alpine AS base
 RUN apk add --no-cache libc6-compat
 WORKDIR /app
 
-# Copy only the lyon files
+# Copy package files from the site directory
 COPY sites/lyon/package*.json ./
-COPY sites/lyon/ ./
 
 # Install dependencies
 FROM base AS deps

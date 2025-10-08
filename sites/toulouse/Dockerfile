@@ -3,9 +3,8 @@ FROM node:18-alpine AS base
 RUN apk add --no-cache libc6-compat
 WORKDIR /app
 
-# Copy only the toulouse files
+# Copy package files from the site directory
 COPY sites/toulouse/package*.json ./
-COPY sites/toulouse/ ./
 
 # Install dependencies
 FROM base AS deps

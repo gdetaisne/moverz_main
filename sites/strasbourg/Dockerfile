@@ -3,9 +3,8 @@ FROM node:18-alpine AS base
 RUN apk add --no-cache libc6-compat
 WORKDIR /app
 
-# Copy only the strasbourg files
+# Copy package files from the site directory
 COPY sites/strasbourg/package*.json ./
-COPY sites/strasbourg/ ./
 
 # Install dependencies
 FROM base AS deps
