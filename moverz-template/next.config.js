@@ -1,5 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  output: 'standalone', // Nécessaire pour CapRover
   images: {
     remotePatterns: [
       {

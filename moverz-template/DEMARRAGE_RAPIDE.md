@@ -165,3 +165,4 @@ Une fois le site généré et testé :
 **Temps estimé par site : 15-30 minutes**  
 *(Selon la complexité des données à collecter)*
 
+

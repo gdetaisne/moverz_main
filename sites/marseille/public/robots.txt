@@ -1,12 +1,11 @@
+# *
 User-agent: *
 Allow: /
-
-Sitemap: https://www.devis-demenageur-marseille.fr/sitemap.xml
-
-# Interdictions spécifiques
-Disallow: /admin/
 Disallow: /api/
-Disallow: /_next/
+Disallow: /admin/
 
-# Priorités par ville
-Crawl-delay: 1
+# Host
+Host: https://www.devis-demenageur-marseille.fr
+
+# Sitemaps
+Sitemap: https://www.devis-demenageur-marseille.fr/sitemap.xml

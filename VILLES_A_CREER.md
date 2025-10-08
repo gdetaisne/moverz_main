@@ -180,3 +180,4 @@ cd ../sites/ville && npm install && npm run dev
 **Dernière mise à jour :** 8 Octobre 2025  
 **Prochaine ville :** Lyon (à démarrer)
 
+

@@ -1,17 +1,34 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'standalone',
   images: {
     domains: ['images.unsplash.com'],
+    formats: ['image/webp', 'image/avif'],
   },
-  async rewrites() {
+  compress: true,
+  poweredByHeader: false,
+  generateEtags: true,
+  async headers() {
     return [
       {
-        source: '/sitemap.xml',
-        destination: '/api/sitemap',
+        source: '/:all*(svg|jpg|png|webp|avif)',
+        headers: [
+          {
+            key: 'Cache-Control',
+            value: 'public, max-age=31536000, immutable',
+          },
+        ],
+      },
+      {
+        source: '/_next/static/:path*',
+        headers: [
+          {
+            key: 'Cache-Control',
+            value: 'public, max-age=31536000, immutable',
+          },
+        ],
       },
     ];
   },
 };
 
-export default nextConfig;
+module.exports = nextConfig;

@@ -62,12 +62,6 @@ export default function CorridorPage({
   const jsonLd = generateCorridorPageJsonLd(destination);
 
   return (
-    <>
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-      />
-      
       <div className="min-h-screen bg-[#04163a]">
         {/* Hero */}
         <div className="bg-white/5 backdrop-blur border-b border-white/10">
@@ -252,6 +246,5 @@ export default function CorridorPage({
           </div>
         </div>
       </div>
-    </>
   );
 }

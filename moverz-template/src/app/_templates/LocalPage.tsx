@@ -1,7 +1,8 @@
+'use client';
+
 import { Metadata } from 'next';
 import Link from 'next/link';
 import Image from 'next/image';
-import Script from 'next/script';
 
 interface LocalPageProps {
   zone: string;
@@ -78,12 +79,6 @@ export default function LocalPage({
 
   return (
     <div className="min-h-screen bg-[#04163a]">
-      <Script
-        id="local-page-jsonld"
-        type="application/ld+json"
-        strategy="afterInteractive"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-      />
       {/* Hero */}
       <div className="bg-white/5 backdrop-blur border-b border-white/10">
         <div className="container max-w-7xl mx-auto px-4 md:px-6 py-12">

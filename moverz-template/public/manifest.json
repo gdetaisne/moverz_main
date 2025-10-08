@@ -1,0 +1,16 @@
+{
+  "name": "Déménageurs {{city_name}}",
+  "short_name": "Déménageurs {{city_name}}",
+  "description": "Service de déménagement professionnel à {{city_name}}",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#04163a",
+  "theme_color": "#6bcfcf",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ]
+}

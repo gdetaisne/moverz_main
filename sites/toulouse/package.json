@@ -1,13 +1,14 @@
 {
   "name": "demenageurs-toulouse",
-  "type": "module",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "seed:content": "tsx scripts/seedContent.ts",
+    "gen:quartiers": "tsx scripts/genQuartiers.ts"
   },
   "dependencies": {
     "clsx": "^2.1.1",
