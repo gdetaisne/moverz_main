@@ -1,17 +1,20 @@
-# Next.js production build for CapRover
+# Next.js production build for CapRover - Lille
 FROM node:18-alpine AS base
 RUN apk add --no-cache libc6-compat
 WORKDIR /app
 
+# Copy only the Lille site files
+COPY sites/lille/package*.json ./
+COPY sites/lille/ ./
+
 # Install dependencies
 FROM base AS deps
-COPY package.json package-lock.json* ./
 RUN npm ci --only=production
 
 # Build application
 FROM base AS builder
 COPY --from=deps /app/node_modules ./node_modules
-COPY . .
+COPY sites/lille/ ./
 ENV NEXT_TELEMETRY_DISABLED=1
 RUN npm run build
 

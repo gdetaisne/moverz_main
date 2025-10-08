@@ -1,25 +1,26 @@
-# Next.js production build for CapRover
+# Next.js production build for CapRover - toulouse
 FROM node:18-alpine AS base
 RUN apk add --no-cache libc6-compat
 WORKDIR /app
 
+# Copy only the toulouse files
+COPY sites/toulouse/package*.json ./
+COPY sites/toulouse/ ./
+
 # Install dependencies
 FROM base AS deps
-COPY package.json package-lock.json* ./
 RUN npm ci --only=production
 
 # Build application
 FROM base AS builder
 COPY --from=deps /app/node_modules ./node_modules
-COPY . .
+COPY sites/toulouse/ ./
 ENV NEXT_TELEMETRY_DISABLED=1
 RUN npm run build
 
 # Production runtime
 FROM node:18-alpine AS runner
-RUN apk add --no-cache dumb-init && \
-    addgroup --system --gid 1001 nodejs && \
-    adduser --system --uid 1001 nextjs
+RUN apk add --no-cache dumb-init &&     addgroup --system --gid 1001 nodejs &&     adduser --system --uid 1001 nextjs
 
 WORKDIR /app
 ENV NODE_ENV=production
