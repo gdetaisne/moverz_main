@@ -1,5 +1,6 @@
 {
   "name": "demenageurs-rouen",
+  "type": "module",
   "version": "0.1.0",
   "private": true,
   "scripts": {
