@@ -145,7 +145,7 @@ Le choix du bon partenaire est crucial pour la réussite de votre déménagement
 
 **Interlocuteur unique** : Un chef de projet dédié vous accompagnant de A à Z simplifie grandement la communication et garantit un suivi personnalisé.
 
-Pour plus d'informations sur les déménageurs professionnels à Montpellier, consultez notre page [déménageur Montpellier](/demenageur-montpellier).
+Pour plus d'informations sur les déménageurs professionnels à Montpellier, consultez notre page [déménageur Montpellier](/blog/demenageur-montpellier/demenageur-montpellier).
 
 ## Conclusion
 
