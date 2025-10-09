@@ -1,16 +1,16 @@
 ---
-title: Estimation rapide du prix d'un déménagement à Bordeaux
-description: Méthodes pour estimer le prix de son déménagement avant devis.
-meta_title: Estimation rapide du prix d'un déménagement à Bordeaux
-meta_description: >-
-  Estimer le prix d'un déménagement à Bordeaux avant de solliciter des devis
-  constitue une étape essentielle pour maîtriser son budget et éviter les mau.
+title: "Estimation rapide du prix d'un déménagement à Bordeaux"
+meta_title: "Estimation rapide du prix d'un déménagement à Bordeaux"
+meta_description: "Estimer le prix d'un déménagement à Bordeaux avant de solliciter des devis constitue une étape essentielle pour maîtriser son budget et éviter les mau."
+h1: "Estimation rapide du prix d'un déménagement à Bordeaux"
+slug: "estimation-prix-demenagement-bordeaux"
+category: "devis-demenagement-bordeaux"
+type: "satellite"
+keywords: []
 word_count: 1038
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/undefined/estimation-prix-demenagement-bordeaux
-date: '2024-04-09'
-category: devis-demenagement-bordeaux
-type: satellite
+publish_date: "2024-04-09"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

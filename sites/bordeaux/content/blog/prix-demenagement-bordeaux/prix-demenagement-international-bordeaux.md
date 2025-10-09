@@ -1,17 +1,16 @@
 ---
-title: Prix d'un déménagement international depuis Bordeaux
-description: Fourchettes de prix au départ de Bordeaux vers Europe et hors UE.
-date: '2024-12-19'
-category: prix-demenagement-bordeaux
-tags: 'déménagement international,Bordeaux,Europe,tarifs'
-meta_title: Prix d'un déménagement international depuis Bordeaux
-meta_description: >-
-  Un déménagement international depuis Bordeaux représente un investissement
-  majeur qui varie selon la destination, le volume et les contraintes douaniè.
+title: "Prix d'un déménagement international depuis Bordeaux"
+meta_title: "Prix d'un déménagement international depuis Bordeaux"
+meta_description: "Un déménagement international depuis Bordeaux représente un investissement majeur qui varie selon la destination, le volume et les contraintes douaniè."
+h1: "Prix d'un déménagement international depuis Bordeaux"
+slug: "prix-demenagement-international-bordeaux"
+category: "prix-demenagement-bordeaux"
+type: "satellite"
+keywords: ["déménagement international", "Bordeaux", "Europe", "tarifs"]
 word_count: 823
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/prix-demenagement-bordeaux/prix-demenagement-international-bordeaux
-type: satellite
+publish_date: "2024-12-19"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

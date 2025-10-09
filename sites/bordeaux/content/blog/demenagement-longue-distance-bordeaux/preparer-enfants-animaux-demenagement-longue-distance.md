@@ -1,19 +1,16 @@
 ---
-title: Préparer enfants et animaux pour un déménagement longue distance
-description: Rendre le trajet plus sûr et plus simple pour toute la famille.
-date: '2024-10-08'
-author: Movers Bordeaux
-category: demenagement-longue-distance-bordeaux
-tags: 'enfants,animaux,famille,Bordeaux,préparation'
-meta_title: Préparer enfants et animaux pour un déménagement longue distance
-meta_description: >-
-  Un déménagement longue distance avec des enfants et des animaux constitue un
-  défi particulier nécessitant une préparation rigoureuse et une organisati.
+title: "Préparer enfants et animaux pour un déménagement longue distance"
+meta_title: "Préparer enfants et animaux pour un déménagement longue distance"
+meta_description: "Un déménagement longue distance avec des enfants et des animaux constitue un défi particulier nécessitant une préparation rigoureuse et une organisati."
+h1: "Préparer enfants et animaux pour un déménagement longue distance"
+slug: "preparer-enfants-animaux-demenagement-longue-distance"
+category: "demenagement-longue-distance-bordeaux"
+type: "satellite"
+keywords: ["enfants", "animaux", "famille", "Bordeaux", "préparation"]
 word_count: 1142
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/Déménagement longue
-  distance/preparer-enfants-animaux-demenagement-longue-distance
-type: satellite
+publish_date: "2024-10-08"
+author: "Movers Bordeaux"
+featured: false
 ---
 
 

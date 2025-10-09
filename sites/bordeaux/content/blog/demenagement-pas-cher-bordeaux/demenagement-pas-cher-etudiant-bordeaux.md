@@ -1,17 +1,16 @@
 ---
-title: 'Étudiants à Bordeaux : déménager pas cher sans galères'
-description: Solutions économiques spécifiques aux étudiants bordelais.
-meta_title: 'Étudiants à Bordeaux : déménager pas cher sans galères'
-meta_description: >-
-  Déménager en tant qu'étudiant à Bordeaux représente un défi budgétaire
-  particulier. Avec plus de 100 000 étudiants dans la métropole bordelaise, les
-  d.
+title: "Étudiants à Bordeaux : déménager pas cher sans galères"
+meta_title: "Étudiants à Bordeaux : déménager pas cher sans galères"
+meta_description: "Déménager en tant qu'étudiant à Bordeaux représente un défi budgétaire particulier. Avec plus de 100 000 étudiants dans la métropole bordelaise, les d."
+h1: "Étudiants à Bordeaux : déménager pas cher sans galères"
+slug: "demenagement-pas-cher-etudiant-bordeaux"
+category: "demenagement-pas-cher-bordeaux"
+type: "satellite"
+keywords: []
 word_count: 1039
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/undefined/demenagement-pas-cher-etudiant-bordeaux
-date: '2024-08-20'
-category: demenagement-pas-cher-bordeaux
-type: satellite
+publish_date: "2024-08-20"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

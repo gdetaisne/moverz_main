@@ -1,16 +1,16 @@
 ---
-title: Les erreurs qui font exploser le budget à Bordeaux
-description: Évitez ces erreurs classiques qui alourdissent la facture.
-meta_title: Les erreurs qui font exploser le budget à Bordeaux
-meta_description: >-
-  Déménager à Bordeaux sans exploser son budget nécessite d'éviter les erreurs
-  classiques qui peuvent alourdir considérablement la facture. Ces erreurs,.
+title: "Les erreurs qui font exploser le budget à Bordeaux"
+meta_title: "Les erreurs qui font exploser le budget à Bordeaux"
+meta_description: "Déménager à Bordeaux sans exploser son budget nécessite d'éviter les erreurs classiques qui peuvent alourdir considérablement la facture. Ces erreurs,."
+h1: "Les erreurs qui font exploser le budget à Bordeaux"
+slug: "demenagement-pas-cher-erreurs-bordeaux"
+category: "demenagement-pas-cher-bordeaux"
+type: "satellite"
+keywords: []
 word_count: 1245
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/undefined/demenagement-pas-cher-erreurs-bordeaux
-date: '2024-10-01'
-category: demenagement-pas-cher-bordeaux
-type: satellite
+publish_date: "2024-10-01"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

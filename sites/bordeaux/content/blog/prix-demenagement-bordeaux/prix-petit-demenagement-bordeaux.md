@@ -1,20 +1,16 @@
 ---
-title: 'Prix d''un petit déménagement à Bordeaux : ce qu''il faut savoir'
-description: Tarifs réels pour un petit déménagement à Bordeaux et astuces d'économies.
-date: '2024-12-30'
-author: Movers Bordeaux
-category: prix-demenagement-bordeaux
-tags: 'petit déménagement,prix,Bordeaux,studio,économies'
-meta_title: 'Prix d''un petit déménagement à Bordeaux : ce qu''il faut savoir'
-meta_description: >-
-  Un petit déménagement à Bordeaux représente souvent le premier pas vers
-  l'indépendance pour les étudiants ou les jeunes actifs. Avec un volume de 10
-  à.
+title: "Prix d''un petit déménagement à Bordeaux : ce qu''il faut savoir"
+meta_title: "Prix d''un petit déménagement à Bordeaux : ce qu''il faut savoir"
+meta_description: "Un petit déménagement à Bordeaux représente souvent le premier pas vers l'indépendance pour les étudiants ou les jeunes actifs. Avec un volume de 10 à."
+h1: "Prix d''un petit déménagement à Bordeaux : ce qu''il faut savoir"
+slug: "prix-petit-demenagement-bordeaux"
+category: "prix-demenagement-bordeaux"
+type: "satellite"
+keywords: ["petit déménagement", "prix", "Bordeaux", "studio", "économies"]
 word_count: 1017
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/Prix
-  déménagement/prix-petit-demenagement-bordeaux
-type: satellite
+publish_date: "2024-12-30"
+author: "Movers Bordeaux"
+featured: false
 ---
 
 

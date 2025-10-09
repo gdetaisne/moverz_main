@@ -1,21 +1,16 @@
 ---
-title: 'Déménagement urgent à Bordeaux : solutions rapides et fiables'
-meta_title: 'Déménagement urgent à Bordeaux : solutions rapides et fiables'
-meta_description: >-
-  Comment organiser un déménagement en urgence à Bordeaux sans surcoût excessif.
-  Solutions express 2025.
-h1: 'Déménagement urgent Bordeaux : mode d''emploi'
-slug: demenagement-urgent-bordeaux-guide
-category: demenagement-urgent-bordeaux
-type: pilier
-keywords: >-
-  déménagement urgent Bordeaux,déménagement rapide Bordeaux,déménagement express
-  Bordeaux
+title: "Déménagement urgent à Bordeaux : solutions rapides et fiables"
+meta_title: "Déménagement urgent à Bordeaux : solutions rapides et fiables"
+meta_description: "Comment organiser un déménagement en urgence à Bordeaux sans surcoût excessif. Solutions express 2025."
+h1: "Déménagement urgent Bordeaux : mode d''emploi"
+slug: "demenagement-urgent-bordeaux-guide"
+category: "demenagement-urgent-bordeaux"
+type: "pilier"
+keywords: [">-"]
 word_count: 1600
-date: '2024-07-27'
+publish_date: "2024-07-27"
+author: "Équipe Moverz"
 featured: true
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/demenagement-urgent-bordeaux/demenagement-urgent-bordeaux-guide
 ---
 
 

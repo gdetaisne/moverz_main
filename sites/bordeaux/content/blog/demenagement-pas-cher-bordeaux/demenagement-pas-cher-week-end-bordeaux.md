@@ -1,16 +1,16 @@
 ---
-title: Déménager le week-end à Bordeaux sans exploser le budget
-description: Gérer la dispo et les surcoûts du week-end à Bordeaux.
-meta_title: Déménager le week-end à Bordeaux sans exploser le budget
-meta_description: >-
-  Déménager le week-end à Bordeaux présente des défis spécifiques liés à la
-  forte demande et aux contraintes urbaines de la métropole. Les week-ends, pa.
+title: "Déménager le week-end à Bordeaux sans exploser le budget"
+meta_title: "Déménager le week-end à Bordeaux sans exploser le budget"
+meta_description: "Déménager le week-end à Bordeaux présente des défis spécifiques liés à la forte demande et aux contraintes urbaines de la métropole. Les week-ends, pa."
+h1: "Déménager le week-end à Bordeaux sans exploser le budget"
+slug: "demenagement-pas-cher-week-end-bordeaux"
+category: "demenagement-pas-cher-bordeaux"
+type: "satellite"
+keywords: []
 word_count: 1003
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/undefined/demenagement-pas-cher-week-end-bordeaux
-date: '2024-08-06'
-category: demenagement-pas-cher-bordeaux
-type: satellite
+publish_date: "2024-08-06"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

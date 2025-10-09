@@ -1,19 +1,16 @@
 ---
-title: Comment déménager pas cher quand on est étudiant à Bordeaux
-meta_title: Comment déménager pas cher quand on est étudiant à Bordeaux
-meta_description: Conseils pratiques pour réduire les frais de déménagement étudiant
-h1: Déménagement étudiant pas cher à Bordeaux
-slug: demenagement-etudiant-pas-cher
-category: demenagement-etudiant-bordeaux
-type: satellite
-keywords: >-
-  déménagement étudiant pas cher,déménagement pas cher Bordeaux,économies
-  déménagement étudiant
+title: "Comment déménager pas cher quand on est étudiant à Bordeaux"
+meta_title: "Comment déménager pas cher quand on est étudiant à Bordeaux"
+meta_description: "Conseils pratiques pour réduire les frais de déménagement étudiant"
+h1: "Déménagement étudiant pas cher à Bordeaux"
+slug: "demenagement-etudiant-pas-cher"
+category: "demenagement-etudiant-bordeaux"
+type: "satellite"
+keywords: [">-"]
 word_count: 900
-date: '2024-07-05'
+publish_date: "2024-07-05"
+author: "Équipe Moverz"
 featured: false
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/demenagement-etudiant-bordeaux/demenagement-etudiant-pas-cher
 ---
 
 

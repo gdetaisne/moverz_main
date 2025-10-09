@@ -1,19 +1,16 @@
 ---
-title: 'Le groupage depuis Bordeaux : économiser jusqu''à 30 %'
-description: Fonctionnement du groupage et limites à connaître.
-date: '2024-05-22'
-author: Movers Bordeaux
-category: demenagement-longue-distance-bordeaux
-tags: 'groupage,économies,Bordeaux,longue distance,partage'
-meta_title: 'Le groupage depuis Bordeaux : économiser jusqu''à 30 %'
-meta_description: >-
-  Le groupage constitue une solution économique particulièrement adaptée aux
-  déménagements longue distance depuis Bordeaux. Cette option, qui consiste à.
+title: "Le groupage depuis Bordeaux : économiser jusqu''à 30 %"
+meta_title: "Le groupage depuis Bordeaux : économiser jusqu''à 30 %"
+meta_description: "Le groupage constitue une solution économique particulièrement adaptée aux déménagements longue distance depuis Bordeaux. Cette option, qui consiste à."
+h1: "Le groupage depuis Bordeaux : économiser jusqu''à 30 %"
+slug: "groupage-demenagement-bordeaux-economies"
+category: "demenagement-longue-distance-bordeaux"
+type: "satellite"
+keywords: ["groupage", "économies", "Bordeaux", "longue distance", "partage"]
 word_count: 1069
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/Déménagement longue
-  distance/groupage-demenagement-bordeaux-economies
-type: satellite
+publish_date: "2024-05-22"
+author: "Movers Bordeaux"
+featured: false
 ---
 
 

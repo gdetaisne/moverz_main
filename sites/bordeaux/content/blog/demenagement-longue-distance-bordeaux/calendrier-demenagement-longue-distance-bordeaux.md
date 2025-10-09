@@ -1,19 +1,16 @@
 ---
-title: Bien caler le calendrier d'un longue distance depuis Bordeaux
-description: Fenêtres de chargement/livraison et contraintes saisonnières.
-date: '2024-07-12'
-author: Movers Bordeaux
-category: demenagement-longue-distance-bordeaux
-tags: 'calendrier,planification,Bordeaux,saison,délais'
-meta_title: Bien caler le calendrier d'un longue distance depuis Bordeaux
-meta_description: >-
-  Planifier le calendrier d'un déménagement longue distance depuis Bordeaux
-  nécessite une approche stratégique pour optimiser les coûts et minimiser les.
+title: "Bien caler le calendrier d'un longue distance depuis Bordeaux"
+meta_title: "Bien caler le calendrier d'un longue distance depuis Bordeaux"
+meta_description: "Planifier le calendrier d'un déménagement longue distance depuis Bordeaux nécessite une approche stratégique pour optimiser les coûts et minimiser les."
+h1: "Bien caler le calendrier d'un longue distance depuis Bordeaux"
+slug: "calendrier-demenagement-longue-distance-bordeaux"
+category: "demenagement-longue-distance-bordeaux"
+type: "satellite"
+keywords: ["calendrier", "planification", "Bordeaux", "saison", "délais"]
 word_count: 1122
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/Déménagement longue
-  distance/calendrier-demenagement-longue-distance-bordeaux
-type: satellite
+publish_date: "2024-07-12"
+author: "Movers Bordeaux"
+featured: false
 ---
 
 

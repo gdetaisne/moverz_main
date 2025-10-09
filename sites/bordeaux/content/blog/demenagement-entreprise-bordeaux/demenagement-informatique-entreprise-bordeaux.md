@@ -1,19 +1,16 @@
 ---
-title: 'Déménagement informatique à Bordeaux : sécuriser serveurs et postes'
-description: Les bonnes pratiques pour déplacer un parc informatique sans interruption.
-date: '2024-08-22'
-author: Movers Bordeaux
-category: demenagement-entreprise-bordeaux
-tags: 'informatique,sécurité,Bordeaux,serveurs,données'
-meta_title: 'Déménagement informatique à Bordeaux : sécuriser serveurs et postes'
-meta_description: >-
-  Un déménagement informatique à Bordeaux constitue l'un des défis les plus
-  complexes des transferts d'entreprise, nécessitant des compétences spécialis.
+title: "Déménagement informatique à Bordeaux : sécuriser serveurs et postes"
+meta_title: "Déménagement informatique à Bordeaux : sécuriser serveurs et postes"
+meta_description: "Un déménagement informatique à Bordeaux constitue l'un des défis les plus complexes des transferts d'entreprise, nécessitant des compétences spécialis."
+h1: "Déménagement informatique à Bordeaux : sécuriser serveurs et postes"
+slug: "demenagement-informatique-entreprise-bordeaux"
+category: "demenagement-entreprise-bordeaux"
+type: "satellite"
+keywords: ["informatique", "sécurité", "Bordeaux", "serveurs", "données"]
 word_count: 1014
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/Déménagement
-  entreprise/demenagement-informatique-entreprise-bordeaux
-type: satellite
+publish_date: "2024-08-22"
+author: "Movers Bordeaux"
+featured: false
 ---
 
 

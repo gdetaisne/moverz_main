@@ -1,17 +1,16 @@
 ---
-title: Prix d'un déménagement longue distance depuis Bordeaux
-description: Tarifs selon volume et kilomètres pour quitter Bordeaux.
-date: '2024-12-19'
-category: prix-demenagement-bordeaux
-tags: 'déménagement longue distance,Bordeaux,kilomètres,tarifs'
-meta_title: Prix d'un déménagement longue distance depuis Bordeaux
-meta_description: >-
-  Un déménagement longue distance depuis Bordeaux représente un investissement
-  important qui varie selon la destination, le volume et les services chois.
+title: "Prix d'un déménagement longue distance depuis Bordeaux"
+meta_title: "Prix d'un déménagement longue distance depuis Bordeaux"
+meta_description: "Un déménagement longue distance depuis Bordeaux représente un investissement important qui varie selon la destination, le volume et les services chois."
+h1: "Prix d'un déménagement longue distance depuis Bordeaux"
+slug: "prix-demenagement-longue-distance-bordeaux"
+category: "prix-demenagement-bordeaux"
+type: "satellite"
+keywords: ["déménagement longue distance", "Bordeaux", "kilomètres", "tarifs"]
 word_count: 846
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/prix-demenagement-bordeaux/prix-demenagement-longue-distance-bordeaux
-type: satellite
+publish_date: "2024-12-19"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

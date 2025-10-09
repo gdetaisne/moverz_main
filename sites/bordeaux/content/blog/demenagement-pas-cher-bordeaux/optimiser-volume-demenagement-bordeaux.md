@@ -1,16 +1,16 @@
 ---
-title: 'Réduire le volume facturé : la clé d''un déménagement pas cher'
-description: Techniques concrètes pour diminuer le volume facturé à Bordeaux.
-meta_title: 'Réduire le volume facturé : la clé d''un déménagement pas cher'
-meta_description: >-
-  Réduire le volume de déménagement constitue l'une des stratégies les plus
-  efficaces pour diminuer les coûts à Bordeaux. Avec des tarifs au mètre cube .
+title: "Réduire le volume facturé : la clé d''un déménagement pas cher"
+meta_title: "Réduire le volume facturé : la clé d''un déménagement pas cher"
+meta_description: "Réduire le volume de déménagement constitue l'une des stratégies les plus efficaces pour diminuer les coûts à Bordeaux. Avec des tarifs au mètre cube ."
+h1: "Réduire le volume facturé : la clé d''un déménagement pas cher"
+slug: "optimiser-volume-demenagement-bordeaux"
+category: "demenagement-pas-cher-bordeaux"
+type: "satellite"
+keywords: []
 word_count: 1118
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/undefined/optimiser-volume-demenagement-bordeaux
-date: '2024-09-17'
-category: demenagement-pas-cher-bordeaux
-type: satellite
+publish_date: "2024-09-17"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

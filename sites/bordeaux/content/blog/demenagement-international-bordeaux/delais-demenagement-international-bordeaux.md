@@ -1,17 +1,16 @@
 ---
-title: Délais d'un déménagement international au départ de Bordeaux
-description: 'Transit maritime vs route vs air, périodes hautes, aléas portuaires.'
-meta_title: Délais d'un déménagement international au départ de Bordeaux
-meta_description: >-
-  Les délais de déménagement international depuis Bordeaux varient
-  considérablement selon la destination, le mode de transport et les contraintes
-  logist.
+title: "Délais d'un déménagement international au départ de Bordeaux"
+meta_title: "Délais d'un déménagement international au départ de Bordeaux"
+meta_description: "Les délais de déménagement international depuis Bordeaux varient considérablement selon la destination, le mode de transport et les contraintes logist."
+h1: "Délais d'un déménagement international au départ de Bordeaux"
+slug: "delais-demenagement-international-bordeaux"
+category: "demenagement-international-bordeaux"
+type: "satellite"
+keywords: []
 word_count: 1064
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/undefined/delais-demenagement-international-bordeaux
-date: '2024-04-02'
-category: demenagement-international-bordeaux
-type: satellite
+publish_date: "2024-04-02"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

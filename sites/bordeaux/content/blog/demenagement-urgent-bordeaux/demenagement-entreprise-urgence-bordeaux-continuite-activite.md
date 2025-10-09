@@ -1,17 +1,16 @@
 ---
-title: 'Déménagement d''entreprise en urgence à Bordeaux : continuité d''activité'
-description: Assurer la continuité lors d'un déménagement express B2B.
-date: '2024-10-01'
-category: demenagement-urgent-bordeaux
-tags: 'déménagement entreprise,Bordeaux,urgence,continuité'
-meta_title: 'Déménagement d''entreprise en urgence à Bordeaux : continuité d''activité'
-meta_description: >-
-  Un déménagement d'entreprise en urgence à Bordeaux représente un défi complexe
-  qui va bien au-delà du simple transport de mobilier. Il s'agit d'assure.
+title: "Déménagement d''entreprise en urgence à Bordeaux : continuité d''activité"
+meta_title: "Déménagement d''entreprise en urgence à Bordeaux : continuité d''activité"
+meta_description: "Un déménagement d'entreprise en urgence à Bordeaux représente un défi complexe qui va bien au-delà du simple transport de mobilier. Il s'agit d'assure."
+h1: "Déménagement d''entreprise en urgence à Bordeaux : continuité d''activité"
+slug: "demenagement-entreprise-urgence-bordeaux-continuite-activite"
+category: "demenagement-urgent-bordeaux"
+type: "satellite"
+keywords: ["déménagement entreprise", "Bordeaux", "urgence", "continuité"]
 word_count: 1034
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/demenagement-urgent-bordeaux/demenagement-entreprise-urgence-bordeaux-continuite-activite
-type: satellite
+publish_date: "2024-10-01"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

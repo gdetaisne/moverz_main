@@ -1,17 +1,16 @@
 ---
-title: Check de dernière minute pour un déménagement urgent réussi
-description: La dernière ligne droite d'un déménagement urgent à Bordeaux.
-date: '2025-01-08'
-category: demenagement-urgent-bordeaux
-tags: 'checklist déménagement,Bordeaux,urgence,organisation'
-meta_title: Check de dernière minute pour un déménagement urgent réussi
-meta_description: >-
-  Dans les dernières heures précédant un déménagement urgent à Bordeaux, chaque
-  minute compte et chaque détail peut faire la différence entre le succès .
+title: "Check de dernière minute pour un déménagement urgent réussi"
+meta_title: "Check de dernière minute pour un déménagement urgent réussi"
+meta_description: "Dans les dernières heures précédant un déménagement urgent à Bordeaux, chaque minute compte et chaque détail peut faire la différence entre le succès ."
+h1: "Check de dernière minute pour un déménagement urgent réussi"
+slug: "checklist-demenagement-urgent-bordeaux"
+category: "demenagement-urgent-bordeaux"
+type: "satellite"
+keywords: ["checklist déménagement", "Bordeaux", "urgence", "organisation"]
 word_count: 1069
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/demenagement-urgent-bordeaux/checklist-demenagement-urgent-bordeaux
-type: satellite
+publish_date: "2025-01-08"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

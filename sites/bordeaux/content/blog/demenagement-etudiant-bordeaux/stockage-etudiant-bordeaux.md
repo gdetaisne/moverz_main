@@ -1,17 +1,16 @@
 ---
-title: Solutions de stockage pas cher pour étudiants à Bordeaux
-meta_title: Solutions de stockage pas cher pour étudiants à Bordeaux
-meta_description: Où stocker ses affaires à Bordeaux quand on est étudiant
-h1: 'Stockage étudiant à Bordeaux : garde-meuble et alternatives'
-slug: stockage-etudiant-bordeaux
-category: demenagement-etudiant-bordeaux
-type: satellite
-keywords: 'stockage étudiant Bordeaux,garde-meuble Bordeaux,stockage pas cher étudiant'
+title: "Solutions de stockage pas cher pour étudiants à Bordeaux"
+meta_title: "Solutions de stockage pas cher pour étudiants à Bordeaux"
+meta_description: "Où stocker ses affaires à Bordeaux quand on est étudiant"
+h1: "Stockage étudiant à Bordeaux : garde-meuble et alternatives"
+slug: "stockage-etudiant-bordeaux"
+category: "demenagement-etudiant-bordeaux"
+type: "satellite"
+keywords: ["stockage étudiant Bordeaux", "garde-meuble Bordeaux", "stockage pas cher étudiant"]
 word_count: 800
-date: '2024-06-03'
+publish_date: "2024-06-03"
+author: "Équipe Moverz"
 featured: false
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/demenagement-etudiant-bordeaux/stockage-etudiant-bordeaux
 ---
 
 

@@ -1,16 +1,16 @@
 ---
-title: 'Location d''utilitaire pas cher à Bordeaux : comment payer moins'
-description: Repères de prix et options locales pour louer un utilitaire à Bordeaux.
-meta_title: 'Location d''utilitaire pas cher à Bordeaux : comment payer moins'
-meta_description: >-
-  Louer un utilitaire à Bordeaux pour son déménagement peut représenter une
-  économie substantielle par rapport aux services de déménageurs professionnel.
+title: "Location d''utilitaire pas cher à Bordeaux : comment payer moins"
+meta_title: "Location d''utilitaire pas cher à Bordeaux : comment payer moins"
+meta_description: "Louer un utilitaire à Bordeaux pour son déménagement peut représenter une économie substantielle par rapport aux services de déménageurs professionnel."
+h1: "Location d''utilitaire pas cher à Bordeaux : comment payer moins"
+slug: "location-utilitaire-pas-cher-bordeaux"
+category: "demenagement-pas-cher-bordeaux"
+type: "satellite"
+keywords: []
 word_count: 976
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/undefined/location-utilitaire-pas-cher-bordeaux
-date: '2024-09-10'
-category: demenagement-pas-cher-bordeaux
-type: satellite
+publish_date: "2024-09-10"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

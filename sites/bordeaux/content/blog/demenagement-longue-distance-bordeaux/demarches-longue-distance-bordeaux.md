@@ -1,19 +1,16 @@
 ---
-title: Démarches à anticiper pour un déménagement longue distance
-description: To-do administratif et technique avant un départ de Bordeaux.
-date: '2024-06-10'
-author: Movers Bordeaux
-category: demenagement-longue-distance-bordeaux
-tags: 'démarches,administratif,Bordeaux,longue distance,organisation'
-meta_title: Démarches à anticiper pour un déménagement longue distance
-meta_description: >-
-  Un déménagement longue distance depuis Bordeaux nécessite une préparation
-  administrative rigoureuse pour éviter les mauvaises surprises et assurer une.
+title: "Démarches à anticiper pour un déménagement longue distance"
+meta_title: "Démarches à anticiper pour un déménagement longue distance"
+meta_description: "Un déménagement longue distance depuis Bordeaux nécessite une préparation administrative rigoureuse pour éviter les mauvaises surprises et assurer une."
+h1: "Démarches à anticiper pour un déménagement longue distance"
+slug: "demarches-longue-distance-bordeaux"
+category: "demenagement-longue-distance-bordeaux"
+type: "satellite"
+keywords: ["démarches", "administratif", "Bordeaux", "longue distance", "organisation"]
 word_count: 1052
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/Déménagement longue
-  distance/demarches-longue-distance-bordeaux
-type: satellite
+publish_date: "2024-06-10"
+author: "Movers Bordeaux"
+featured: false
 ---
 
 

@@ -1,19 +1,16 @@
 ---
-title: Checklist complète pour réussir son déménagement étudiant
-meta_title: Checklist complète pour réussir son déménagement étudiant
-meta_description: Toutes les étapes clés pour bien préparer un déménagement étudiant à Bordeaux
-h1: 'Checklist déménagement étudiant : les étapes à suivre'
-slug: checklist-demenagement-etudiant
-category: demenagement-etudiant-bordeaux
-type: satellite
-keywords: >-
-  checklist déménagement étudiant,préparation déménagement,organisation
-  déménagement
+title: "Checklist complète pour réussir son déménagement étudiant"
+meta_title: "Checklist complète pour réussir son déménagement étudiant"
+meta_description: "Toutes les étapes clés pour bien préparer un déménagement étudiant à Bordeaux"
+h1: "Checklist déménagement étudiant : les étapes à suivre"
+slug: "checklist-demenagement-etudiant"
+category: "demenagement-etudiant-bordeaux"
+type: "satellite"
+keywords: [">-"]
 word_count: 900
-date: '2024-07-19'
+publish_date: "2024-07-19"
+author: "Équipe Moverz"
 featured: false
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/demenagement-etudiant-bordeaux/checklist-demenagement-etudiant
 ---
 
 

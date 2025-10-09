@@ -1,18 +1,16 @@
 ---
-title: 'Assurance garde-meuble à Bordeaux : couverture et limites'
-description: Que couvre l'assurance d'un garde-meuble à Bordeaux ?
-date: '2024-12-19'
-category: garde-meuble-bordeaux
-tags: 'assurance garde-meuble,Bordeaux,couverture,sécurité'
-meta_title: 'Assurance garde-meuble à Bordeaux : couverture et limites'
-meta_description: >-
-  L'assurance de vos biens stockés en garde-meuble constitue un élément
-  essentiel de votre protection, mais reste souvent mal comprise. Entre les
-  garant.
+title: "Assurance garde-meuble à Bordeaux : couverture et limites"
+meta_title: "Assurance garde-meuble à Bordeaux : couverture et limites"
+meta_description: "L'assurance de vos biens stockés en garde-meuble constitue un élément essentiel de votre protection, mais reste souvent mal comprise. Entre les garant."
+h1: "Assurance garde-meuble à Bordeaux : couverture et limites"
+slug: "assurance-garde-meuble-bordeaux-couverture-limites"
+category: "garde-meuble-bordeaux"
+type: "satellite"
+keywords: ["assurance garde-meuble", "Bordeaux", "couverture", "sécurité"]
 word_count: 1005
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/garde-meuble-bordeaux/assurance-garde-meuble-bordeaux-couverture-limites
-type: satellite
+publish_date: "2024-12-19"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

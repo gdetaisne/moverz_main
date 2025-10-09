@@ -1,19 +1,16 @@
 ---
-title: 'Garde-meuble à Bordeaux : solutions et tarifs 2025'
-meta_title: 'Garde-meuble à Bordeaux : solutions et tarifs 2025'
-meta_description: >-
-  Découvrez les prix et solutions de garde-meuble à Bordeaux pour particuliers
-  et entreprises
-h1: 'Garde-meuble Bordeaux : quel prix, quelle solution choisir ?'
-slug: garde-meuble-bordeaux-guide
-category: garde-meuble-bordeaux
-type: pilier
-keywords: 'garde-meuble Bordeaux,stockage Bordeaux,self-stockage Bordeaux'
+title: "Garde-meuble à Bordeaux : solutions et tarifs 2025"
+meta_title: "Garde-meuble à Bordeaux : solutions et tarifs 2025"
+meta_description: "Découvrez les prix et solutions de garde-meuble à Bordeaux pour particuliers et entreprises"
+h1: "Garde-meuble Bordeaux : quel prix, quelle solution choisir ?"
+slug: "garde-meuble-bordeaux-guide"
+category: "garde-meuble-bordeaux"
+type: "pilier"
+keywords: ["garde-meuble Bordeaux", "stockage Bordeaux", "self-stockage Bordeaux"]
 word_count: 1600
-date: '2024-06-13'
+publish_date: "2024-06-13"
+author: "Équipe Moverz"
 featured: true
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/garde-meuble-bordeaux/garde-meuble-bordeaux-guide
 ---
 
 

@@ -1,18 +1,16 @@
 ---
-title: Organiser un déménagement urgent à Bordeaux sans stress
-description: Méthode express pour un déménagement urgent réussi à Bordeaux.
-date: '2024-03-13'
-category: demenagement-urgent-bordeaux
-tags: 'déménagement urgent,Bordeaux,organisation,stress'
-meta_title: Organiser un déménagement urgent à Bordeaux sans stress
-meta_description: >-
-  Face à un déménagement urgent à Bordeaux, la panique peut rapidement
-  s'installer. Pourtant, avec une approche méthodique et les bons réflexes, il
-  est .
+title: "Organiser un déménagement urgent à Bordeaux sans stress"
+meta_title: "Organiser un déménagement urgent à Bordeaux sans stress"
+meta_description: "Face à un déménagement urgent à Bordeaux, la panique peut rapidement s'installer. Pourtant, avec une approche méthodique et les bons réflexes, il est ."
+h1: "Organiser un déménagement urgent à Bordeaux sans stress"
+slug: "organiser-demenagement-urgent-bordeaux-sans-stress"
+category: "demenagement-urgent-bordeaux"
+type: "satellite"
+keywords: ["déménagement urgent", "Bordeaux", "organisation", "stress"]
 word_count: 1004
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/demenagement-urgent-bordeaux/organiser-demenagement-urgent-bordeaux-sans-stress
-type: satellite
+publish_date: "2024-03-13"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

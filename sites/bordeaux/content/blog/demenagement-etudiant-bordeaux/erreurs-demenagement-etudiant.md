@@ -1,17 +1,16 @@
 ---
-title: Les 7 erreurs à éviter lors d'un déménagement étudiant
-meta_title: Les 7 erreurs à éviter lors d'un déménagement étudiant
-meta_description: Astuces pour éviter les pièges fréquents lors d'un déménagement étudiant
-h1: Erreurs fréquentes d'un déménagement étudiant
-slug: erreurs-demenagement-etudiant
-category: demenagement-etudiant-bordeaux
-type: satellite
-keywords: 'erreurs déménagement étudiant,pièges déménagement,conseils déménagement'
+title: "Les 7 erreurs à éviter lors d'un déménagement étudiant"
+meta_title: "Les 7 erreurs à éviter lors d'un déménagement étudiant"
+meta_description: "Astuces pour éviter les pièges fréquents lors d'un déménagement étudiant"
+h1: "Erreurs fréquentes d'un déménagement étudiant"
+slug: "erreurs-demenagement-etudiant"
+category: "demenagement-etudiant-bordeaux"
+type: "satellite"
+keywords: ["erreurs déménagement étudiant", "pièges déménagement", "conseils déménagement"]
 word_count: 800
-date: '2025-01-28'
+publish_date: "2025-01-28"
+author: "Équipe Moverz"
 featured: false
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/demenagement-etudiant-bordeaux/erreurs-demenagement-etudiant
 ---
 
 

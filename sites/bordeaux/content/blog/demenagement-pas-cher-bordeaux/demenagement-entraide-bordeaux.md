@@ -1,15 +1,16 @@
 ---
-title: 'Déménager avec l''entraide à Bordeaux : avantages et limites'
-description: Comment organiser un déménagement participatif à Bordeaux sans risques.
-meta_title: 'Déménager avec l''entraide à Bordeaux : avantages et limites'
-meta_description: >-
-  L'entraide constitue l'une des solutions les plus économiques pour organiser
-  un déménagement à Bordeaux. Avec une population jeune, étudiante et solid.
+title: "Déménager avec l''entraide à Bordeaux : avantages et limites"
+meta_title: "Déménager avec l''entraide à Bordeaux : avantages et limites"
+meta_description: "L'entraide constitue l'une des solutions les plus économiques pour organiser un déménagement à Bordeaux. Avec une population jeune, étudiante et solid."
+h1: "Déménager avec l''entraide à Bordeaux : avantages et limites"
+slug: "demenagement-entraide-bordeaux"
+category: "demenagement-pas-cher-bordeaux"
+type: "satellite"
+keywords: []
 word_count: 1031
-canonical: 'https://www.bordeaux-demenageur.fr/blog/undefined/demenagement-entraide-bordeaux'
-date: '2024-08-13'
-category: demenagement-pas-cher-bordeaux
-type: satellite
+publish_date: "2024-08-13"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

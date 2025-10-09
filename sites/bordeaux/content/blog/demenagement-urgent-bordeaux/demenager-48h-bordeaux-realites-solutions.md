@@ -1,17 +1,16 @@
 ---
-title: 'Déménager sous 48 h à Bordeaux : réalités et solutions'
-description: Ce qui est faisable en 48 h et ce qui ne l'est pas.
-date: '2024-06-08'
-category: demenagement-urgent-bordeaux
-tags: 'déménagement 48h,Bordeaux,urgence,solutions'
-meta_title: 'Déménager sous 48 h à Bordeaux : réalités et solutions'
-meta_description: >-
-  Déménager en moins de 48 heures à Bordeaux relève du défi, mais n'est pas
-  impossible. Cette contrainte temporelle extrême nécessite une approche pragm.
+title: "Déménager sous 48 h à Bordeaux : réalités et solutions"
+meta_title: "Déménager sous 48 h à Bordeaux : réalités et solutions"
+meta_description: "Déménager en moins de 48 heures à Bordeaux relève du défi, mais n'est pas impossible. Cette contrainte temporelle extrême nécessite une approche pragm."
+h1: "Déménager sous 48 h à Bordeaux : réalités et solutions"
+slug: "demenager-48h-bordeaux-realites-solutions"
+category: "demenagement-urgent-bordeaux"
+type: "satellite"
+keywords: ["déménagement 48h", "Bordeaux", "urgence", "solutions"]
 word_count: 975
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/demenagement-urgent-bordeaux/demenager-48h-bordeaux-realites-solutions
-type: satellite
+publish_date: "2024-06-08"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

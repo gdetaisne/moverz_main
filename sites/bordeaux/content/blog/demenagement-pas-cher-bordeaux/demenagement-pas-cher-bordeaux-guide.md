@@ -6,11 +6,11 @@ h1: "Comment organiser un déménagement pas cher à Bordeaux"
 slug: "demenagement-pas-cher-bordeaux-guide"
 category: "demenagement-pas-cher-bordeaux"
 type: "pilier"
-keywords: "déménagement pas cher Bordeaux,déménagement économique Bordeaux,solutions déménagement pas cher"
+keywords: ["déménagement pas cher Bordeaux", "déménagement économique Bordeaux", "solutions déménagement pas cher"]
 word_count: 1700
-date: "2024-09-23"
+publish_date: "2024-09-23"
+author: "Équipe Moverz"
 featured: true
-canonical: "https://www.bordeaux-demenageur.fr/blog/demenagement-pas-cher-bordeaux/demenagement-pas-cher-bordeaux-guide"
 ---
 
 

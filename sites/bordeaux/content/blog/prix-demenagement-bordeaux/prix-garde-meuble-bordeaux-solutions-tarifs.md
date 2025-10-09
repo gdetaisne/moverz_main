@@ -1,17 +1,16 @@
 ---
-title: 'Prix d''un garde-meuble à Bordeaux : solutions et tarifs'
-description: Coût mensuel moyen d'un garde-meuble pour stocker ses biens.
-date: '2024-12-19'
-category: prix-demenagement-bordeaux
-tags: 'prix garde-meuble,Bordeaux,solutions,tarifs'
-meta_title: 'Prix d''un garde-meuble à Bordeaux : solutions et tarifs'
-meta_description: >-
-  Un garde-meuble à Bordeaux représente une solution pratique pour stocker vos
-  biens pendant une transition ou un déménagement. Entre les solutions trad.
+title: "Prix d''un garde-meuble à Bordeaux : solutions et tarifs"
+meta_title: "Prix d''un garde-meuble à Bordeaux : solutions et tarifs"
+meta_description: "Un garde-meuble à Bordeaux représente une solution pratique pour stocker vos biens pendant une transition ou un déménagement. Entre les solutions trad."
+h1: "Prix d''un garde-meuble à Bordeaux : solutions et tarifs"
+slug: "prix-garde-meuble-bordeaux-solutions-tarifs"
+category: "prix-demenagement-bordeaux"
+type: "satellite"
+keywords: ["prix garde-meuble", "Bordeaux", "solutions", "tarifs"]
 word_count: 869
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/prix-demenagement-bordeaux/prix-garde-meuble-bordeaux-solutions-tarifs
-type: satellite
+publish_date: "2024-12-19"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

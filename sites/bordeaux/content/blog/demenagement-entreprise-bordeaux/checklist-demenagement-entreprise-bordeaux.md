@@ -1,19 +1,16 @@
 ---
-title: Checklist pratique pour un déménagement d'entreprise réussi à Bordeaux
-description: Les vérifications indispensables pour un transfert d'entreprise sans erreur.
-date: '2024-10-30'
-author: Movers Bordeaux
-category: demenagement-entreprise-bordeaux
-tags: 'checklist,entreprise,Bordeaux,vérifications,organisation'
-meta_title: Checklist pratique pour un déménagement d'entreprise réussi à Bordeaux
-meta_description: >-
-  Un déménagement d'entreprise à Bordeaux nécessite une organisation rigoureuse
-  et une attention particulière aux détails pour éviter les oublis coûteux.
+title: "Checklist pratique pour un déménagement d'entreprise réussi à Bordeaux"
+meta_title: "Checklist pratique pour un déménagement d'entreprise réussi à Bordeaux"
+meta_description: "Un déménagement d'entreprise à Bordeaux nécessite une organisation rigoureuse et une attention particulière aux détails pour éviter les oublis coûteux."
+h1: "Checklist pratique pour un déménagement d'entreprise réussi à Bordeaux"
+slug: "checklist-demenagement-entreprise-bordeaux"
+category: "demenagement-entreprise-bordeaux"
+type: "satellite"
+keywords: ["checklist", "entreprise", "Bordeaux", "vérifications", "organisation"]
 word_count: 1098
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/Déménagement
-  entreprise/checklist-demenagement-entreprise-bordeaux
-type: satellite
+publish_date: "2024-10-30"
+author: "Movers Bordeaux"
+featured: false
 ---
 
 

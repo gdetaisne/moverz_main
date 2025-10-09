@@ -1,16 +1,16 @@
 ---
-title: Contenu obligatoire d'un devis de déménagement à Bordeaux
-description: Les mentions légales et éléments indispensables d'un devis.
-meta_title: Contenu obligatoire d'un devis de déménagement à Bordeaux
-meta_description: >-
-  Un devis de déménagement à Bordeaux doit respecter des obligations légales
-  strictes définies par le Code de la consommation français. Ces mentions obl.
+title: "Contenu obligatoire d'un devis de déménagement à Bordeaux"
+meta_title: "Contenu obligatoire d'un devis de déménagement à Bordeaux"
+meta_description: "Un devis de déménagement à Bordeaux doit respecter des obligations légales strictes définies par le Code de la consommation français. Ces mentions obl."
+h1: "Contenu obligatoire d'un devis de déménagement à Bordeaux"
+slug: "contenu-obligatoire-devis-demenagement-bordeaux"
+category: "devis-demenagement-bordeaux"
+type: "satellite"
+keywords: []
 word_count: 947
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/undefined/contenu-obligatoire-devis-demenagement-bordeaux
-date: '2024-06-04'
-category: devis-demenagement-bordeaux
-type: satellite
+publish_date: "2024-06-04"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

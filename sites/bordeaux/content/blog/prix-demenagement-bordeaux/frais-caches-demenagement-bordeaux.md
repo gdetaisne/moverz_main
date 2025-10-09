@@ -1,21 +1,16 @@
 ---
-title: 'Frais cachés d''un déménagement à Bordeaux : comment les éviter'
-description: >-
-  Stationnement, long portage, protection, manutention spécifique : les vrais
-  coûts.
-date: '2024-05-27'
-author: Movers Bordeaux
-category: prix-demenagement-bordeaux
-tags: 'frais cachés,surcoûts,Bordeaux,stationnement,protection'
-meta_title: 'Frais cachés d''un déménagement à Bordeaux : comment les éviter'
-meta_description: >-
-  Les frais cachés constituent l'un des principaux pièges lors d'un déménagement
-  à Bordeaux, pouvant représenter 20 à 40 % du coût initialement prévu. C.
+title: "Frais cachés d''un déménagement à Bordeaux : comment les éviter"
+meta_title: "Frais cachés d''un déménagement à Bordeaux : comment les éviter"
+meta_description: "Les frais cachés constituent l'un des principaux pièges lors d'un déménagement à Bordeaux, pouvant représenter 20 à 40 % du coût initialement prévu. C."
+h1: "Frais cachés d''un déménagement à Bordeaux : comment les éviter"
+slug: "frais-caches-demenagement-bordeaux"
+category: "prix-demenagement-bordeaux"
+type: "satellite"
+keywords: ["frais cachés", "surcoûts", "Bordeaux", "stationnement", "protection"]
 word_count: 1143
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/Prix
-  déménagement/frais-caches-demenagement-bordeaux
-type: satellite
+publish_date: "2024-05-27"
+author: "Movers Bordeaux"
+featured: false
 ---
 
 

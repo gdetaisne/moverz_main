@@ -1,16 +1,16 @@
 ---
-title: 'Déménager pas cher à Bordeaux : la stratégie qui fonctionne'
-description: Méthode concrète pour réduire le coût d'un déménagement à Bordeaux.
-meta_title: 'Déménager pas cher à Bordeaux : la stratégie qui fonctionne'
-meta_description: >-
-  Déménager à Bordeaux sans exploser son budget, c'est possible ! Avec plus de
-  250 000 habitants et une forte demande immobilière, la métropole bordelai.
+title: "Déménager pas cher à Bordeaux : la stratégie qui fonctionne"
+meta_title: "Déménager pas cher à Bordeaux : la stratégie qui fonctionne"
+meta_description: "Déménager à Bordeaux sans exploser son budget, c'est possible ! Avec plus de 250 000 habitants et une forte demande immobilière, la métropole bordelai."
+h1: "Déménager pas cher à Bordeaux : la stratégie qui fonctionne"
+slug: "demenager-pas-cher-bordeaux-astuces"
+category: "demenagement-pas-cher-bordeaux"
+type: "satellite"
+keywords: []
 word_count: 821
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/undefined/demenager-pas-cher-bordeaux-astuces
-date: '2024-07-09'
-category: demenagement-pas-cher-bordeaux
-type: satellite
+publish_date: "2024-07-09"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

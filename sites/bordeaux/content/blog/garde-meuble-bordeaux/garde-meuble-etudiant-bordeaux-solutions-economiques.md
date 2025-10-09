@@ -1,17 +1,16 @@
 ---
-title: 'Garde-meuble pour étudiants à Bordeaux : solutions économiques'
-description: 'Casiers partagés, mini-box et tarifs réduits pour étudiants.'
-date: '2024-12-19'
-category: garde-meuble-bordeaux
-tags: 'garde-meuble étudiant,Bordeaux,économique,casiers partagés'
-meta_title: 'Garde-meuble pour étudiants à Bordeaux : solutions économiques'
-meta_description: >-
-  Pour les étudiants bordelais, le garde-meuble représente souvent une solution
-  indispensable lors des vacances d'été, des déménagements entre logements.
+title: "Garde-meuble pour étudiants à Bordeaux : solutions économiques"
+meta_title: "Garde-meuble pour étudiants à Bordeaux : solutions économiques"
+meta_description: "Pour les étudiants bordelais, le garde-meuble représente souvent une solution indispensable lors des vacances d'été, des déménagements entre logements."
+h1: "Garde-meuble pour étudiants à Bordeaux : solutions économiques"
+slug: "garde-meuble-etudiant-bordeaux-solutions-economiques"
+category: "garde-meuble-bordeaux"
+type: "satellite"
+keywords: ["garde-meuble étudiant", "Bordeaux", "économique", "casiers partagés"]
 word_count: 1064
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/garde-meuble-bordeaux/garde-meuble-etudiant-bordeaux-solutions-economiques
-type: satellite
+publish_date: "2024-12-19"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

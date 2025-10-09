@@ -1,17 +1,16 @@
 ---
-title: Assurance incluse dans un devis de déménagement à Bordeaux
-description: Comprendre les garanties incluses et leurs limites.
-meta_title: Assurance incluse dans un devis de déménagement à Bordeaux
-meta_description: >-
-  L'assurance constitue un élément essentiel du devis de déménagement à
-  Bordeaux, souvent mal compris par les particuliers. Cette protection, négligée
-  p.
+title: "Assurance incluse dans un devis de déménagement à Bordeaux"
+meta_title: "Assurance incluse dans un devis de déménagement à Bordeaux"
+meta_description: "L'assurance constitue un élément essentiel du devis de déménagement à Bordeaux, souvent mal compris par les particuliers. Cette protection, négligée p."
+h1: "Assurance incluse dans un devis de déménagement à Bordeaux"
+slug: "assurance-devis-demenagement-bordeaux"
+category: "devis-demenagement-bordeaux"
+type: "satellite"
+keywords: []
 word_count: 1101
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/undefined/assurance-devis-demenagement-bordeaux
-date: '2024-04-16'
-category: devis-demenagement-bordeaux
-type: satellite
+publish_date: "2024-04-16"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

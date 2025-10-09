@@ -1,20 +1,16 @@
 ---
-title: Quel est le prix d'un garde-meuble à Bordeaux lors d'un déménagement ?
-description: Coûts du garde-meuble/self-stockage à Bordeaux et bonnes pratiques.
-date: '2024-09-13'
-author: Movers Bordeaux
-category: prix-demenagement-bordeaux
-tags: 'garde-meuble,prix,Bordeaux,self-stockage,temporaire'
-meta_title: Quel est le prix d'un garde-meuble à Bordeaux lors d'un déménagement ?
-meta_description: >-
-  Le garde-meuble constitue souvent une solution indispensable lors d'un
-  déménagement à Bordeaux, permettant de gérer les délais entre deux logements
-  ou.
+title: "Quel est le prix d'un garde-meuble à Bordeaux lors d'un déménagement ?"
+meta_title: "Quel est le prix d'un garde-meuble à Bordeaux lors d'un déménagement ?"
+meta_description: "Le garde-meuble constitue souvent une solution indispensable lors d'un déménagement à Bordeaux, permettant de gérer les délais entre deux logements ou."
+h1: "Quel est le prix d'un garde-meuble à Bordeaux lors d'un déménagement ?"
+slug: "prix-garde-meuble-bordeaux-demenagement"
+category: "prix-demenagement-bordeaux"
+type: "satellite"
+keywords: ["garde-meuble", "prix", "Bordeaux", "self-stockage", "temporaire"]
 word_count: 1098
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/Prix
-  déménagement/prix-garde-meuble-bordeaux-demenagement
-type: satellite
+publish_date: "2024-09-13"
+author: "Movers Bordeaux"
+featured: false
 ---
 
 

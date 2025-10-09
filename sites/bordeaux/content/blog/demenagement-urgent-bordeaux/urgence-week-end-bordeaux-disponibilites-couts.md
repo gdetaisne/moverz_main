@@ -1,17 +1,16 @@
 ---
-title: 'Urgence le week-end à Bordeaux : disponibilités et coûts'
-description: Gérer un déménagement urgent un samedi/dimanche à Bordeaux.
-date: '2025-01-26'
-category: demenagement-urgent-bordeaux
-tags: 'déménagement week-end,Bordeaux,urgence,coûts'
-meta_title: 'Urgence le week-end à Bordeaux : disponibilités et coûts'
-meta_description: >-
-  Gérer un déménagement urgent un samedi ou dimanche à Bordeaux présente des
-  défis spécifiques liés aux contraintes administratives, à la disponibilité .
+title: "Urgence le week-end à Bordeaux : disponibilités et coûts"
+meta_title: "Urgence le week-end à Bordeaux : disponibilités et coûts"
+meta_description: "Gérer un déménagement urgent un samedi ou dimanche à Bordeaux présente des défis spécifiques liés aux contraintes administratives, à la disponibilité ."
+h1: "Urgence le week-end à Bordeaux : disponibilités et coûts"
+slug: "urgence-week-end-bordeaux-disponibilites-couts"
+category: "demenagement-urgent-bordeaux"
+type: "satellite"
+keywords: ["déménagement week-end", "Bordeaux", "urgence", "coûts"]
 word_count: 1001
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/demenagement-urgent-bordeaux/urgence-week-end-bordeaux-disponibilites-couts
-type: satellite
+publish_date: "2025-01-26"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

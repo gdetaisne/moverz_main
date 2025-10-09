@@ -1,20 +1,16 @@
 ---
-title: 'Bordeaux → Lyon : organiser son déménagement au meilleur coût'
-description: 'Tarifs, délais, astuces pour l''axe Bordeaux–Lyon.'
-date: '2024-04-18'
-author: Movers Bordeaux
-category: demenagement-longue-distance-bordeaux
-tags: 'Bordeaux Lyon,longue distance,prix,organisation,budget'
-meta_title: 'Bordeaux → Lyon : organiser son déménagement au meilleur coût'
-meta_description: >-
-  Déménager de Bordeaux à Lyon constitue un trajet longue distance de 500
-  kilomètres, nécessitant une organisation particulière et un budget adapté.
-  Cet.
+title: "Bordeaux → Lyon : organiser son déménagement au meilleur coût"
+meta_title: "Bordeaux → Lyon : organiser son déménagement au meilleur coût"
+meta_description: "Déménager de Bordeaux à Lyon constitue un trajet longue distance de 500 kilomètres, nécessitant une organisation particulière et un budget adapté. Cet."
+h1: "Bordeaux → Lyon : organiser son déménagement au meilleur coût"
+slug: "demenagement-bordeaux-lyon-prix"
+category: "demenagement-longue-distance-bordeaux"
+type: "satellite"
+keywords: ["Bordeaux Lyon", "longue distance", "prix", "organisation", "budget"]
 word_count: 1202
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/Déménagement longue
-  distance/demenagement-bordeaux-lyon-prix
-type: satellite
+publish_date: "2024-04-18"
+author: "Movers Bordeaux"
+featured: false
 ---
 
 

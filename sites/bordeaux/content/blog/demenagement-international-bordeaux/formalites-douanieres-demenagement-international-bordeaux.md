@@ -1,16 +1,16 @@
 ---
-title: Formalités douanières pour un déménagement international depuis Bordeaux
-description: 'Documents, franchises, restrictions : l''essentiel des démarches douanières.'
-meta_title: Formalités douanières pour un déménagement international depuis Bordeaux
-meta_description: >-
-  Les formalités douanières constituent un passage obligé pour tout déménagement
-  international depuis Bordeaux. Ces démarches, souvent perçues comme com.
+title: "Formalités douanières pour un déménagement international depuis Bordeaux"
+meta_title: "Formalités douanières pour un déménagement international depuis Bordeaux"
+meta_description: "Les formalités douanières constituent un passage obligé pour tout déménagement international depuis Bordeaux. Ces démarches, souvent perçues comme com."
+h1: "Formalités douanières pour un déménagement international depuis Bordeaux"
+slug: "formalites-douanieres-demenagement-international-bordeaux"
+category: "demenagement-international-bordeaux"
+type: "satellite"
+keywords: []
 word_count: 1049
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/undefined/formalites-douanieres-demenagement-international-bordeaux
-date: '2024-03-05'
-category: demenagement-international-bordeaux
-type: satellite
+publish_date: "2024-03-05"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

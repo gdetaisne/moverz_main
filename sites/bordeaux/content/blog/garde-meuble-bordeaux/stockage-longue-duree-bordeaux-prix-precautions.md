@@ -1,17 +1,16 @@
 ---
-title: 'Stockage longue durée à Bordeaux : prix et précautions'
-description: Conseils pour stocker plusieurs mois/années en garde-meuble.
-date: '2024-12-19'
-category: garde-meuble-bordeaux
-tags: 'stockage longue durée,Bordeaux,précautions,tarifs dégressifs'
-meta_title: 'Stockage longue durée à Bordeaux : prix et précautions'
-meta_description: >-
-  Le stockage longue durée en garde-meuble à Bordeaux nécessite une approche
-  spécifique et des précautions particulières pour préserver vos biens sur pl.
+title: "Stockage longue durée à Bordeaux : prix et précautions"
+meta_title: "Stockage longue durée à Bordeaux : prix et précautions"
+meta_description: "Le stockage longue durée en garde-meuble à Bordeaux nécessite une approche spécifique et des précautions particulières pour préserver vos biens sur pl."
+h1: "Stockage longue durée à Bordeaux : prix et précautions"
+slug: "stockage-longue-duree-bordeaux-prix-precautions"
+category: "garde-meuble-bordeaux"
+type: "satellite"
+keywords: ["stockage longue durée", "Bordeaux", "précautions", "tarifs dégressifs"]
 word_count: 1048
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/garde-meuble-bordeaux/stockage-longue-duree-bordeaux-prix-precautions
-type: satellite
+publish_date: "2024-12-19"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

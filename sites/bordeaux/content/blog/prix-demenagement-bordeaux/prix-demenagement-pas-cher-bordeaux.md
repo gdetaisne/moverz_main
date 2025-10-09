@@ -1,17 +1,16 @@
 ---
-title: 'Déménagement pas cher à Bordeaux : quels prix réels ?'
-description: Évaluez les prix minimums d'un déménagement low-cost à Bordeaux.
-date: '2024-12-19'
-category: prix-demenagement-bordeaux
-tags: 'déménagement pas cher,Bordeaux,low-cost,économique'
-meta_title: 'Déménagement pas cher à Bordeaux : quels prix réels ?'
-meta_description: >-
-  Un déménagement pas cher à Bordeaux est possible avec les bonnes stratégies et
-  une approche pragmatique. Entre les solutions DIY, le groupage et les p.
+title: "Déménagement pas cher à Bordeaux : quels prix réels ?"
+meta_title: "Déménagement pas cher à Bordeaux : quels prix réels ?"
+meta_description: "Un déménagement pas cher à Bordeaux est possible avec les bonnes stratégies et une approche pragmatique. Entre les solutions DIY, le groupage et les p."
+h1: "Déménagement pas cher à Bordeaux : quels prix réels ?"
+slug: "prix-demenagement-pas-cher-bordeaux"
+category: "prix-demenagement-bordeaux"
+type: "satellite"
+keywords: ["déménagement pas cher", "Bordeaux", "low-cost", "économique"]
 word_count: 699
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/prix-demenagement-bordeaux/prix-demenagement-pas-cher-bordeaux
-type: satellite
+publish_date: "2024-12-19"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

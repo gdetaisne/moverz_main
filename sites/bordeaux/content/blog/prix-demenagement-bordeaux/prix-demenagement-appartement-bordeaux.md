@@ -1,17 +1,16 @@
 ---
-title: Prix d'un déménagement d'appartement à Bordeaux
-description: 'Les tarifs pour un appartement étudiant, T2 ou T4 à Bordeaux.'
-date: '2024-12-19'
-category: prix-demenagement-bordeaux
-tags: 'prix déménagement appartement,Bordeaux,T2,T4'
-meta_title: Prix d'un déménagement d'appartement à Bordeaux
-meta_description: >-
-  Déménager un appartement à Bordeaux présente des spécificités tarifaires qui
-  varient selon la taille, le type de logement et les contraintes particuli.
+title: "Prix d'un déménagement d'appartement à Bordeaux"
+meta_title: "Prix d'un déménagement d'appartement à Bordeaux"
+meta_description: "Déménager un appartement à Bordeaux présente des spécificités tarifaires qui varient selon la taille, le type de logement et les contraintes particuli."
+h1: "Prix d'un déménagement d'appartement à Bordeaux"
+slug: "prix-demenagement-appartement-bordeaux"
+category: "prix-demenagement-bordeaux"
+type: "satellite"
+keywords: ["prix déménagement appartement", "Bordeaux", "T2", "T4"]
 word_count: 1002
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/prix-demenagement-bordeaux/prix-demenagement-appartement-bordeaux
-type: satellite
+publish_date: "2024-12-19"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

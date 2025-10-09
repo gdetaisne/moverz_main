@@ -1,17 +1,16 @@
 ---
-title: Délais pour recevoir un devis de déménagement à Bordeaux
-description: En combien de temps un déménageur transmet un devis ?
-meta_title: Délais pour recevoir un devis de déménagement à Bordeaux
-meta_description: >-
-  Les délais de réception des devis de déménagement à Bordeaux varient
-  considérablement selon les prestataires et les périodes de l'année. Cette
-  variabi.
+title: "Délais pour recevoir un devis de déménagement à Bordeaux"
+meta_title: "Délais pour recevoir un devis de déménagement à Bordeaux"
+meta_description: "Les délais de réception des devis de déménagement à Bordeaux varient considérablement selon les prestataires et les périodes de l'année. Cette variabi."
+h1: "Délais pour recevoir un devis de déménagement à Bordeaux"
+slug: "delai-reception-devis-demenagement-bordeaux"
+category: "devis-demenagement-bordeaux"
+type: "satellite"
+keywords: []
 word_count: 999
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/undefined/delai-reception-devis-demenagement-bordeaux
-date: '2024-06-18'
-category: devis-demenagement-bordeaux
-type: satellite
+publish_date: "2024-06-18"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

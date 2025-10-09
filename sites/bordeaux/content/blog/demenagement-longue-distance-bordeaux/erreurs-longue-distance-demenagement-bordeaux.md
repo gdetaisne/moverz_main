@@ -1,19 +1,16 @@
 ---
-title: 'Longue distance : erreurs fréquentes au départ de Bordeaux'
-description: Les pièges qui font déraper le planning ou le budget.
-date: '2024-11-25'
-author: Movers Bordeaux
-category: demenagement-longue-distance-bordeaux
-tags: 'erreurs,pièges,Bordeaux,longue distance,conseils'
-meta_title: 'Longue distance : erreurs fréquentes au départ de Bordeaux'
-meta_description: >-
-  Un déménagement longue distance depuis Bordeaux présente de nombreux pièges
-  qui peuvent compromettre la réussite de votre projet et faire exploser vot.
+title: "Longue distance : erreurs fréquentes au départ de Bordeaux"
+meta_title: "Longue distance : erreurs fréquentes au départ de Bordeaux"
+meta_description: "Un déménagement longue distance depuis Bordeaux présente de nombreux pièges qui peuvent compromettre la réussite de votre projet et faire exploser vot."
+h1: "Longue distance : erreurs fréquentes au départ de Bordeaux"
+slug: "erreurs-longue-distance-demenagement-bordeaux"
+category: "demenagement-longue-distance-bordeaux"
+type: "satellite"
+keywords: ["erreurs", "pièges", "Bordeaux", "longue distance", "conseils"]
 word_count: 1115
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/Déménagement longue
-  distance/erreurs-longue-distance-demenagement-bordeaux
-type: satellite
+publish_date: "2024-11-25"
+author: "Movers Bordeaux"
+featured: false
 ---
 
 

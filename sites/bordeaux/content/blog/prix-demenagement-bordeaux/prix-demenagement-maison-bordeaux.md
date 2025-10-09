@@ -1,19 +1,16 @@
 ---
-title: Combien coûte un déménagement de maison à Bordeaux ?
-description: Fourchettes de prix pour maison 80–120 m² à Bordeaux et en Gironde.
-date: '2024-03-14'
-author: Movers Bordeaux
-category: prix-demenagement-bordeaux
-tags: 'déménagement maison,prix,Bordeaux,Gironde,volume important'
-meta_title: Combien coûte un déménagement de maison à Bordeaux ?
-meta_description: >-
-  Déménager une maison à Bordeaux représente un projet d'envergure qui nécessite
-  une planification minutieuse et un budget conséquent. Avec des volumes .
+title: "Combien coûte un déménagement de maison à Bordeaux ?"
+meta_title: "Combien coûte un déménagement de maison à Bordeaux ?"
+meta_description: "Déménager une maison à Bordeaux représente un projet d'envergure qui nécessite une planification minutieuse et un budget conséquent. Avec des volumes ."
+h1: "Combien coûte un déménagement de maison à Bordeaux ?"
+slug: "prix-demenagement-maison-bordeaux"
+category: "prix-demenagement-bordeaux"
+type: "satellite"
+keywords: ["déménagement maison", "prix", "Bordeaux", "Gironde", "volume important"]
 word_count: 1121
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/Prix
-  déménagement/prix-demenagement-maison-bordeaux
-type: satellite
+publish_date: "2024-03-14"
+author: "Movers Bordeaux"
+featured: false
 ---
 
 

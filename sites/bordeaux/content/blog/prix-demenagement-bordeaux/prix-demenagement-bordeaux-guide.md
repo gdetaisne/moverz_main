@@ -6,11 +6,11 @@ h1: "Prix déménagement Bordeaux : combien ça coûte vraiment ?"
 slug: "prix-demenagement-bordeaux-guide"
 category: "prix-demenagement-bordeaux"
 type: "pilier"
-keywords: "prix déménagement Bordeaux,tarif déménagement Bordeaux,coût déménagement Bordeaux"
+keywords: ["prix déménagement Bordeaux", "tarif déménagement Bordeaux", "coût déménagement Bordeaux"]
 word_count: 2000
-date: "2024-10-18"
+publish_date: "2024-10-18"
+author: "Équipe Moverz"
 featured: true
-canonical: "https://www.bordeaux-demenageur.fr/blog/prix-demenagement-bordeaux/prix-demenagement-bordeaux-guide"
 ---
 
 

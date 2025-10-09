@@ -1,19 +1,16 @@
 ---
-title: 'Garde-meuble pour entreprises à Bordeaux : stockage temporaire'
-description: Solutions pour stocker archives et mobilier lors d'un transfert.
-date: '2024-05-20'
-author: Movers Bordeaux
-category: demenagement-entreprise-bordeaux
-tags: 'garde-meuble,entreprise,Bordeaux,stockage,archives'
-meta_title: 'Garde-meuble pour entreprises à Bordeaux : stockage temporaire'
-meta_description: >-
-  Un garde-meuble pour entreprises à Bordeaux constitue souvent une solution
-  indispensable lors d'un déménagement, permettant de gérer les délais entre .
+title: "Garde-meuble pour entreprises à Bordeaux : stockage temporaire"
+meta_title: "Garde-meuble pour entreprises à Bordeaux : stockage temporaire"
+meta_description: "Un garde-meuble pour entreprises à Bordeaux constitue souvent une solution indispensable lors d'un déménagement, permettant de gérer les délais entre ."
+h1: "Garde-meuble pour entreprises à Bordeaux : stockage temporaire"
+slug: "garde-meuble-entreprise-bordeaux"
+category: "demenagement-entreprise-bordeaux"
+type: "satellite"
+keywords: ["garde-meuble", "entreprise", "Bordeaux", "stockage", "archives"]
 word_count: 1087
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/Déménagement
-  entreprise/garde-meuble-entreprise-bordeaux
-type: satellite
+publish_date: "2024-05-20"
+author: "Movers Bordeaux"
+featured: false
 ---
 
 

@@ -1,19 +1,16 @@
 ---
-title: Louer un camion pas cher pour un déménagement étudiant à Bordeaux
-meta_title: Louer un camion pas cher pour un déménagement étudiant à Bordeaux
-meta_description: Comparatif des solutions de location de camion pour étudiant à Bordeaux
-h1: Location de camion étudiant à Bordeaux
-slug: camion-demenagement-etudiant-bordeaux
-category: demenagement-etudiant-bordeaux
-type: satellite
-keywords: >-
-  camion déménagement étudiant Bordeaux,location camion pas cher,location camion
-  étudiant
+title: "Louer un camion pas cher pour un déménagement étudiant à Bordeaux"
+meta_title: "Louer un camion pas cher pour un déménagement étudiant à Bordeaux"
+meta_description: "Comparatif des solutions de location de camion pour étudiant à Bordeaux"
+h1: "Location de camion étudiant à Bordeaux"
+slug: "camion-demenagement-etudiant-bordeaux"
+category: "demenagement-etudiant-bordeaux"
+type: "satellite"
+keywords: [">-"]
 word_count: 900
-date: '2024-06-30'
+publish_date: "2024-06-30"
+author: "Équipe Moverz"
 featured: false
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/demenagement-etudiant-bordeaux/camion-demenagement-etudiant-bordeaux
 ---
 
 

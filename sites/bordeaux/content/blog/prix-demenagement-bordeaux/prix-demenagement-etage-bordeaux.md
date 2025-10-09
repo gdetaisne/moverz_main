@@ -1,17 +1,16 @@
 ---
-title: Prix d'un déménagement en étage à Bordeaux
-description: Impact d'un étage sans ascenseur sur le coût d'un déménagement à Bordeaux.
-date: '2024-12-19'
-category: prix-demenagement-bordeaux
-tags: 'prix déménagement étage,Bordeaux,ascenseur,surcoût'
-meta_title: Prix d'un déménagement en étage à Bordeaux
-meta_description: >-
-  Déménager en étage sans ascenseur à Bordeaux représente un défi logistique et
-  financier qui peut considérablement impacter le coût de votre déménageme.
+title: "Prix d'un déménagement en étage à Bordeaux"
+meta_title: "Prix d'un déménagement en étage à Bordeaux"
+meta_description: "Déménager en étage sans ascenseur à Bordeaux représente un défi logistique et financier qui peut considérablement impacter le coût de votre déménageme."
+h1: "Prix d'un déménagement en étage à Bordeaux"
+slug: "prix-demenagement-etage-bordeaux"
+category: "prix-demenagement-bordeaux"
+type: "satellite"
+keywords: ["prix déménagement étage", "Bordeaux", "ascenseur", "surcoût"]
 word_count: 1044
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/prix-demenagement-bordeaux/prix-demenagement-etage-bordeaux
-type: satellite
+publish_date: "2024-12-19"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

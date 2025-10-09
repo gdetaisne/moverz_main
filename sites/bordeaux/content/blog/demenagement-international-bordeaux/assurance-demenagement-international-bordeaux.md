@@ -1,16 +1,16 @@
 ---
-title: 'Assurance pour un déménagement international : ce qu''il faut vérifier'
-description: 'Valeur déclarée, franchise, exclusions, sinistres en transit.'
-meta_title: 'Assurance pour un déménagement international : ce qu''il faut vérifier'
-meta_description: >-
-  L'assurance constitue un élément essentiel pour protéger ses biens lors d'un
-  déménagement international depuis Bordeaux. Cette protection, souvent nég.
+title: "Assurance pour un déménagement international : ce qu''il faut vérifier"
+meta_title: "Assurance pour un déménagement international : ce qu''il faut vérifier"
+meta_description: "L'assurance constitue un élément essentiel pour protéger ses biens lors d'un déménagement international depuis Bordeaux. Cette protection, souvent nég."
+h1: "Assurance pour un déménagement international : ce qu''il faut vérifier"
+slug: "assurance-demenagement-international-bordeaux"
+category: "demenagement-international-bordeaux"
+type: "satellite"
+keywords: []
 word_count: 982
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/undefined/assurance-demenagement-international-bordeaux
-date: '2024-01-15'
-category: demenagement-international-bordeaux
-type: satellite
+publish_date: "2024-01-15"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

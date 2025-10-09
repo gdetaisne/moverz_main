@@ -1,21 +1,16 @@
 ---
-title: 'Prix d''un déménagement de piano à Bordeaux : repères et facteurs'
-description: >-
-  Tarifs pour piano droit/à queue à Bordeaux et éléments qui font varier le
-  prix.
-date: '2024-11-20'
-author: Movers Bordeaux
-category: prix-demenagement-bordeaux
-tags: 'piano,prix,Bordeaux,spécialisé,contraintes'
-meta_title: 'Prix d''un déménagement de piano à Bordeaux : repères et facteurs'
-meta_description: >-
-  Déménager un piano à Bordeaux constitue une opération délicate qui nécessite
-  des compétences spécialisées et un matériel adapté. Cette prestation, bie.
+title: "Prix d''un déménagement de piano à Bordeaux : repères et facteurs"
+meta_title: "Prix d''un déménagement de piano à Bordeaux : repères et facteurs"
+meta_description: "Déménager un piano à Bordeaux constitue une opération délicate qui nécessite des compétences spécialisées et un matériel adapté. Cette prestation, bie."
+h1: "Prix d''un déménagement de piano à Bordeaux : repères et facteurs"
+slug: "prix-demenagement-piano-bordeaux"
+category: "prix-demenagement-bordeaux"
+type: "satellite"
+keywords: ["piano", "prix", "Bordeaux", "spécialisé", "contraintes"]
 word_count: 1085
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/Prix
-  déménagement/prix-demenagement-piano-bordeaux
-type: satellite
+publish_date: "2024-11-20"
+author: "Movers Bordeaux"
+featured: false
 ---
 
 

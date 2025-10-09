@@ -1,22 +1,16 @@
 ---
-title: Prix d'un déménagement d'entreprise à Bordeaux en 2025
-description: >-
-  Découvrez les tarifs moyens pour un déménagement d'entreprise à Bordeaux selon
-  taille et services inclus.
-date: '2024-12-15'
-author: Movers Bordeaux
-category: demenagement-entreprise-bordeaux
-tags: 'prix entreprise,Bordeaux,déménagement,PME,budget'
-meta_title: Prix d'un déménagement d'entreprise à Bordeaux en 2025
-meta_description: >-
-  Un déménagement d'entreprise à Bordeaux représente un investissement
-  conséquent nécessitant une planification budgétaire rigoureuse et une
-  compréhensi.
+title: "Prix d'un déménagement d'entreprise à Bordeaux en 2025"
+meta_title: "Prix d'un déménagement d'entreprise à Bordeaux en 2025"
+meta_description: "Un déménagement d'entreprise à Bordeaux représente un investissement conséquent nécessitant une planification budgétaire rigoureuse et une compréhensi."
+h1: "Prix d'un déménagement d'entreprise à Bordeaux en 2025"
+slug: "prix-demenagement-entreprise-bordeaux-2025"
+category: "demenagement-entreprise-bordeaux"
+type: "satellite"
+keywords: ["prix entreprise", "Bordeaux", "déménagement", "PME", "budget"]
 word_count: 1177
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/Déménagement
-  entreprise/prix-demenagement-entreprise-bordeaux-2025
-type: satellite
+publish_date: "2024-12-15"
+author: "Movers Bordeaux"
+featured: false
 ---
 
 

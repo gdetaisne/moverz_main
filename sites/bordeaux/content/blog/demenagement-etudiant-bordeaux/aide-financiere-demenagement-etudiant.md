@@ -1,19 +1,16 @@
 ---
-title: Les aides financières pour déménagement étudiant à Bordeaux
-meta_title: Les aides financières pour déménagement étudiant à Bordeaux
-meta_description: 'CAF, aides locales et bourses pour financer un déménagement étudiant'
-h1: Aides financières au déménagement étudiant à Bordeaux
-slug: aide-financiere-demenagement-etudiant
-category: demenagement-etudiant-bordeaux
-type: satellite
-keywords: >-
-  aide financière déménagement étudiant,CAF étudiant,bourse déménagement
-  étudiant
+title: "Les aides financières pour déménagement étudiant à Bordeaux"
+meta_title: "Les aides financières pour déménagement étudiant à Bordeaux"
+meta_description: "CAF, aides locales et bourses pour financer un déménagement étudiant"
+h1: "Aides financières au déménagement étudiant à Bordeaux"
+slug: "aide-financiere-demenagement-etudiant"
+category: "demenagement-etudiant-bordeaux"
+type: "satellite"
+keywords: [">-"]
 word_count: 850
-date: '2024-03-19'
+publish_date: "2024-03-19"
+author: "Équipe Moverz"
 featured: false
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/demenagement-etudiant-bordeaux/aide-financiere-demenagement-etudiant
 ---
 
 

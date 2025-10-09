@@ -1,20 +1,16 @@
 ---
-title: 'Transfert de bureaux à Bordeaux : organisation et prix'
-description: Conseils pour réussir un transfert de bureaux professionnels à Bordeaux.
-date: '2024-09-18'
-author: Movers Bordeaux
-category: demenagement-entreprise-bordeaux
-tags: 'bureaux,transfert,Bordeaux,organisation,prix'
-meta_title: 'Transfert de bureaux à Bordeaux : organisation et prix'
-meta_description: >-
-  Un transfert de bureaux à Bordeaux constitue une opération complexe
-  nécessitant une organisation rigoureuse et une compréhension des enjeux
-  spécifique.
+title: "Transfert de bureaux à Bordeaux : organisation et prix"
+meta_title: "Transfert de bureaux à Bordeaux : organisation et prix"
+meta_description: "Un transfert de bureaux à Bordeaux constitue une opération complexe nécessitant une organisation rigoureuse et une compréhension des enjeux spécifique."
+h1: "Transfert de bureaux à Bordeaux : organisation et prix"
+slug: "transfert-bureaux-bordeaux"
+category: "demenagement-entreprise-bordeaux"
+type: "satellite"
+keywords: ["bureaux", "transfert", "Bordeaux", "organisation", "prix"]
 word_count: 1113
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/Déménagement
-  entreprise/transfert-bureaux-bordeaux
-type: satellite
+publish_date: "2024-09-18"
+author: "Movers Bordeaux"
+featured: false
 ---
 
 

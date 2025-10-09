@@ -1,16 +1,16 @@
 ---
-title: Obtenir un devis en urgence pour un déménagement à Bordeaux
-description: Comment recevoir un devis express pour un déménagement urgent.
-meta_title: Obtenir un devis en urgence pour un déménagement à Bordeaux
-meta_description: >-
-  Obtenir un devis en urgence pour un déménagement à Bordeaux constitue un défi
-  particulier nécessitant une approche adaptée aux contraintes temporelles.
+title: "Obtenir un devis en urgence pour un déménagement à Bordeaux"
+meta_title: "Obtenir un devis en urgence pour un déménagement à Bordeaux"
+meta_description: "Obtenir un devis en urgence pour un déménagement à Bordeaux constitue un défi particulier nécessitant une approche adaptée aux contraintes temporelles."
+h1: "Obtenir un devis en urgence pour un déménagement à Bordeaux"
+slug: "devis-urgent-demenagement-bordeaux"
+category: "devis-demenagement-bordeaux"
+type: "satellite"
+keywords: []
 word_count: 994
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/undefined/devis-urgent-demenagement-bordeaux
-date: '2024-06-11'
-category: devis-demenagement-bordeaux
-type: satellite
+publish_date: "2024-06-11"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

@@ -1,19 +1,16 @@
 ---
-title: 'Planifier un déménagement d''entreprise à Bordeaux : étapes essentielles'
-description: Élaborez un plan clair pour réussir le transfert de vos locaux à Bordeaux.
-date: '2024-11-28'
-author: Movers Bordeaux
-category: demenagement-entreprise-bordeaux
-tags: 'planification,entreprise,Bordeaux,organisation,étapes'
-meta_title: 'Planifier un déménagement d''entreprise à Bordeaux : étapes essentielles'
-meta_description: >-
-  Planifier un déménagement d'entreprise à Bordeaux nécessite une approche
-  méthodique et une anticipation rigoureuse pour assurer la continuité d'activi.
+title: "Planifier un déménagement d''entreprise à Bordeaux : étapes essentielles"
+meta_title: "Planifier un déménagement d''entreprise à Bordeaux : étapes essentielles"
+meta_description: "Planifier un déménagement d'entreprise à Bordeaux nécessite une approche méthodique et une anticipation rigoureuse pour assurer la continuité d'activi."
+h1: "Planifier un déménagement d''entreprise à Bordeaux : étapes essentielles"
+slug: "planifier-demenagement-entreprise-bordeaux"
+category: "demenagement-entreprise-bordeaux"
+type: "satellite"
+keywords: ["planification", "entreprise", "Bordeaux", "organisation", "étapes"]
 word_count: 1056
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/Déménagement
-  entreprise/planifier-demenagement-entreprise-bordeaux
-type: satellite
+publish_date: "2024-11-28"
+author: "Movers Bordeaux"
+featured: false
 ---
 
 

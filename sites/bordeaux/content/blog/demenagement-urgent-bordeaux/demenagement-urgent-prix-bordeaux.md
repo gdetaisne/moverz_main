@@ -1,17 +1,16 @@
 ---
-title: Combien coûte un déménagement urgent à Bordeaux ?
-description: Repères de prix en situation d'urgence et leviers pour réduire la facture.
-date: '2024-12-15'
-category: demenagement-urgent-bordeaux
-tags: 'prix déménagement,Bordeaux,urgence,coûts'
-meta_title: Combien coûte un déménagement urgent à Bordeaux ?
-meta_description: >-
-  Un déménagement urgent à Bordeaux représente un investissement significatif
-  qui peut varier considérablement selon les contraintes temporelles, les vo.
+title: "Combien coûte un déménagement urgent à Bordeaux ?"
+meta_title: "Combien coûte un déménagement urgent à Bordeaux ?"
+meta_description: "Un déménagement urgent à Bordeaux représente un investissement significatif qui peut varier considérablement selon les contraintes temporelles, les vo."
+h1: "Combien coûte un déménagement urgent à Bordeaux ?"
+slug: "demenagement-urgent-prix-bordeaux"
+category: "demenagement-urgent-bordeaux"
+type: "satellite"
+keywords: ["prix déménagement", "Bordeaux", "urgence", "coûts"]
 word_count: 1192
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/demenagement-urgent-bordeaux/demenagement-urgent-prix-bordeaux
-type: satellite
+publish_date: "2024-12-15"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

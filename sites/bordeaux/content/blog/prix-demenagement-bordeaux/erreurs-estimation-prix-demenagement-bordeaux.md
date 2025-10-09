@@ -1,18 +1,16 @@
 ---
-title: 'Prix de déménagement : erreurs fréquentes à Bordeaux'
-description: Les erreurs de calcul qui font gonfler la facture.
-date: '2024-12-19'
-category: prix-demenagement-bordeaux
-tags: 'erreurs estimation,Bordeaux,prix,facture'
-meta_title: 'Prix de déménagement : erreurs fréquentes à Bordeaux'
-meta_description: >-
-  Estimer correctement le prix d'un déménagement à Bordeaux peut s'avérer
-  complexe, et de nombreuses erreurs courantes peuvent considérablement gonfler
-  .
+title: "Prix de déménagement : erreurs fréquentes à Bordeaux"
+meta_title: "Prix de déménagement : erreurs fréquentes à Bordeaux"
+meta_description: "Estimer correctement le prix d'un déménagement à Bordeaux peut s'avérer complexe, et de nombreuses erreurs courantes peuvent considérablement gonfler ."
+h1: "Prix de déménagement : erreurs fréquentes à Bordeaux"
+slug: "erreurs-estimation-prix-demenagement-bordeaux"
+category: "prix-demenagement-bordeaux"
+type: "satellite"
+keywords: ["erreurs estimation", "Bordeaux", "prix", "facture"]
 word_count: 881
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/prix-demenagement-bordeaux/erreurs-estimation-prix-demenagement-bordeaux
-type: satellite
+publish_date: "2024-12-19"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

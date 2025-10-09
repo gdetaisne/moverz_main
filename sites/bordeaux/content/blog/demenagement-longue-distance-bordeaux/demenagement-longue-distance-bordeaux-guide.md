@@ -6,11 +6,11 @@ h1: "Déménagement longue distance Bordeaux : prix et organisation"
 slug: "demenagement-longue-distance-bordeaux-guide"
 category: "demenagement-longue-distance-bordeaux"
 type: "pilier"
-keywords: "déménagement longue distance Bordeaux,déménagement national Bordeaux,transport longue distance Bordeaux"
+keywords: ["déménagement longue distance Bordeaux", "déménagement national Bordeaux", "transport longue distance Bordeaux"]
 word_count: 1800
-date: "2024-02-08"
+publish_date: "2024-02-08"
+author: "Équipe Moverz"
 featured: true
-canonical: "https://www.bordeaux-demenageur.fr/blog/demenagement-longue-distance-bordeaux/demenagement-longue-distance-bordeaux-guide"
 ---
 
 

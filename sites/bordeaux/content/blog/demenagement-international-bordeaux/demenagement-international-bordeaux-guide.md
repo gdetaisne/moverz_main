@@ -1,21 +1,16 @@
 ---
-title: 'Déménagement international depuis Bordeaux : démarches et prix'
-meta_title: 'Déménagement international depuis Bordeaux : démarches et prix'
-meta_description: >-
-  Formalités, prix et conseils pour réussir un déménagement international depuis
-  Bordeaux
-h1: 'Déménagement international Bordeaux : tout ce qu''il faut savoir'
-slug: demenagement-international-bordeaux-guide
-category: demenagement-international-bordeaux
-type: pilier
-keywords: >-
-  déménagement international Bordeaux,déménagement export Bordeaux,transport
-  international Bordeaux
+title: "Déménagement international depuis Bordeaux : démarches et prix"
+meta_title: "Déménagement international depuis Bordeaux : démarches et prix"
+meta_description: "Formalités, prix et conseils pour réussir un déménagement international depuis Bordeaux"
+h1: "Déménagement international Bordeaux : tout ce qu''il faut savoir"
+slug: "demenagement-international-bordeaux-guide"
+category: "demenagement-international-bordeaux"
+type: "pilier"
+keywords: [">-"]
 word_count: 1900
-date: '2024-12-23'
+publish_date: "2024-12-23"
+author: "Équipe Moverz"
 featured: true
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/demenagement-international-bordeaux/demenagement-international-bordeaux-guide
 ---
 
 

@@ -1,16 +1,16 @@
 ---
-title: Comparatif de devis de déménagement à Bordeaux
-description: Comment comparer efficacement les devis de déménagement à Bordeaux.
-meta_title: Comparatif de devis de déménagement à Bordeaux
-meta_description: >-
-  Comparer les devis de déménagement à Bordeaux constitue une étape essentielle
-  pour obtenir le meilleur rapport qualité-prix. Avec une offre diversifié.
+title: "Comparatif de devis de déménagement à Bordeaux"
+meta_title: "Comparatif de devis de déménagement à Bordeaux"
+meta_description: "Comparer les devis de déménagement à Bordeaux constitue une étape essentielle pour obtenir le meilleur rapport qualité-prix. Avec une offre diversifié."
+h1: "Comparatif de devis de déménagement à Bordeaux"
+slug: "comparatif-devis-demenagement-bordeaux"
+category: "devis-demenagement-bordeaux"
+type: "satellite"
+keywords: []
 word_count: 1063
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/undefined/comparatif-devis-demenagement-bordeaux
-date: '2024-07-02'
-category: devis-demenagement-bordeaux
-type: satellite
+publish_date: "2024-07-02"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

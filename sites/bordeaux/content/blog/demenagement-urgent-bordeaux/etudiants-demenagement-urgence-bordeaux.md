@@ -1,18 +1,16 @@
 ---
-title: 'Étudiants : gérer un déménagement en urgence à Bordeaux'
-description: Solutions rapides et économiques pour étudiants.
-date: '2024-05-14'
-category: demenagement-urgent-bordeaux
-tags: 'déménagement étudiant,Bordeaux,urgence,économique'
-meta_title: 'Étudiants : gérer un déménagement en urgence à Bordeaux'
-meta_description: >-
-  Pour les étudiants bordelais, un déménagement urgent représente un défi
-  particulier lié aux contraintes budgétaires, aux volumes limités et aux
-  délais.
+title: "Étudiants : gérer un déménagement en urgence à Bordeaux"
+meta_title: "Étudiants : gérer un déménagement en urgence à Bordeaux"
+meta_description: "Pour les étudiants bordelais, un déménagement urgent représente un défi particulier lié aux contraintes budgétaires, aux volumes limités et aux délais."
+h1: "Étudiants : gérer un déménagement en urgence à Bordeaux"
+slug: "etudiants-demenagement-urgence-bordeaux"
+category: "demenagement-urgent-bordeaux"
+type: "satellite"
+keywords: ["déménagement étudiant", "Bordeaux", "urgence", "économique"]
 word_count: 1062
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/demenagement-urgent-bordeaux/etudiants-demenagement-urgence-bordeaux
-type: satellite
+publish_date: "2024-05-14"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

@@ -1,16 +1,16 @@
 ---
-title: Garde-meuble à Bordeaux avant un déménagement international
-description: 'Solutions de stockage temporaire, tarifs, conditions d''accès.'
-meta_title: Garde-meuble à Bordeaux avant un déménagement international
-meta_description: >-
-  Le stockage temporaire constitue souvent une solution indispensable pour gérer
-  les délais entre le déménagement de votre logement bordelais et votre d.
+title: "Garde-meuble à Bordeaux avant un déménagement international"
+meta_title: "Garde-meuble à Bordeaux avant un déménagement international"
+meta_description: "Le stockage temporaire constitue souvent une solution indispensable pour gérer les délais entre le déménagement de votre logement bordelais et votre d."
+h1: "Garde-meuble à Bordeaux avant un déménagement international"
+slug: "garde-meuble-demenagement-international-bordeaux"
+category: "demenagement-international-bordeaux"
+type: "satellite"
+keywords: []
 word_count: 1038
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/undefined/garde-meuble-demenagement-international-bordeaux
-date: '2024-02-12'
-category: demenagement-international-bordeaux
-type: satellite
+publish_date: "2024-02-12"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

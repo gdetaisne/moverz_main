@@ -1,20 +1,16 @@
 ---
-title: 'Étages sans ascenseur à Bordeaux : quel impact sur le prix ?'
-description: Comprenez les surcoûts liés aux étages sans ascenseur en centre-ville.
-date: '2024-09-14'
-author: Movers Bordeaux
-category: prix-demenagement-bordeaux
-tags: 'étages sans ascenseur,surcoût,Bordeaux,centre-ville,escaliers'
-meta_title: 'Étages sans ascenseur à Bordeaux : quel impact sur le prix ?'
-meta_description: >-
-  Les étages sans ascenseur constituent l'une des principales contraintes
-  d'accès à Bordeaux, particulièrement dans le centre-ville historique. Cette
-  sp.
+title: "Étages sans ascenseur à Bordeaux : quel impact sur le prix ?"
+meta_title: "Étages sans ascenseur à Bordeaux : quel impact sur le prix ?"
+meta_description: "Les étages sans ascenseur constituent l'une des principales contraintes d'accès à Bordeaux, particulièrement dans le centre-ville historique. Cette sp."
+h1: "Étages sans ascenseur à Bordeaux : quel impact sur le prix ?"
+slug: "prix-etages-sans-ascenseur-bordeaux"
+category: "prix-demenagement-bordeaux"
+type: "satellite"
+keywords: ["étages sans ascenseur", "surcoût", "Bordeaux", "centre-ville", "escaliers"]
 word_count: 1090
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/Prix
-  déménagement/prix-etages-sans-ascenseur-bordeaux
-type: satellite
+publish_date: "2024-09-14"
+author: "Movers Bordeaux"
+featured: false
 ---
 
 

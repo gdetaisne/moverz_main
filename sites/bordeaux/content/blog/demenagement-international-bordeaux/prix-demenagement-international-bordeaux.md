@@ -1,19 +1,16 @@
 ---
-title: 'Prix d''un déménagement international depuis Bordeaux : repères 2025'
-description: >-
-  Fourchettes de prix au départ de Bordeaux selon destination, volume et mode
-  (route, mer, air).
-meta_title: 'Prix d''un déménagement international depuis Bordeaux : repères 2025'
-meta_description: >-
-  Organiser un déménagement international depuis Bordeaux nécessite une
-  planification budgétaire minutieuse. Les coûts varient considérablement selon
-  la.
+title: "Prix d''un déménagement international depuis Bordeaux : repères 2025"
+meta_title: "Prix d''un déménagement international depuis Bordeaux : repères 2025"
+meta_description: "Organiser un déménagement international depuis Bordeaux nécessite une planification budgétaire minutieuse. Les coûts varient considérablement selon la."
+h1: "Prix d''un déménagement international depuis Bordeaux : repères 2025"
+slug: "prix-demenagement-international-bordeaux"
+category: "demenagement-international-bordeaux"
+type: "satellite"
+keywords: []
 word_count: 1198
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/undefined/prix-demenagement-international-bordeaux
-date: '2024-01-22'
-category: demenagement-international-bordeaux
-type: satellite
+publish_date: "2024-01-22"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

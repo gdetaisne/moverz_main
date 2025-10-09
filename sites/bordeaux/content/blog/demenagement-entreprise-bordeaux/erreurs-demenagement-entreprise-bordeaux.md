@@ -1,20 +1,16 @@
 ---
-title: 'Déménagement d''entreprise à Bordeaux : erreurs à éviter'
-description: Les pièges courants qui peuvent coûter cher lors d'un transfert.
-date: '2024-04-12'
-author: Movers Bordeaux
-category: demenagement-entreprise-bordeaux
-tags: 'erreurs,pièges,Bordeaux,entreprise,conseils'
-meta_title: 'Déménagement d''entreprise à Bordeaux : erreurs à éviter'
-meta_description: >-
-  Un déménagement d'entreprise à Bordeaux présente de nombreux pièges qui
-  peuvent compromettre la réussite de votre projet et faire exploser votre
-  budge.
+title: "Déménagement d''entreprise à Bordeaux : erreurs à éviter"
+meta_title: "Déménagement d''entreprise à Bordeaux : erreurs à éviter"
+meta_description: "Un déménagement d'entreprise à Bordeaux présente de nombreux pièges qui peuvent compromettre la réussite de votre projet et faire exploser votre budge."
+h1: "Déménagement d''entreprise à Bordeaux : erreurs à éviter"
+slug: "erreurs-demenagement-entreprise-bordeaux"
+category: "demenagement-entreprise-bordeaux"
+type: "satellite"
+keywords: ["erreurs", "pièges", "Bordeaux", "entreprise", "conseils"]
 word_count: 1195
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/Déménagement
-  entreprise/erreurs-demenagement-entreprise-bordeaux
-type: satellite
+publish_date: "2024-04-12"
+author: "Movers Bordeaux"
+featured: false
 ---
 
 

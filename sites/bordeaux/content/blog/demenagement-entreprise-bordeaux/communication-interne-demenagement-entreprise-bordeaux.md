@@ -1,19 +1,16 @@
 ---
-title: Communication interne lors d'un déménagement d'entreprise à Bordeaux
-description: Impliquer vos équipes pour réussir le transfert de vos locaux.
-date: '2024-06-14'
-author: Movers Bordeaux
-category: demenagement-entreprise-bordeaux
-tags: 'communication,interne,Bordeaux,équipes,gestion'
-meta_title: Communication interne lors d'un déménagement d'entreprise à Bordeaux
-meta_description: >-
-  La communication interne constitue l'un des éléments les plus critiques d'un
-  déménagement d'entreprise à Bordeaux, souvent négligé dans la précipitati.
+title: "Communication interne lors d'un déménagement d'entreprise à Bordeaux"
+meta_title: "Communication interne lors d'un déménagement d'entreprise à Bordeaux"
+meta_description: "La communication interne constitue l'un des éléments les plus critiques d'un déménagement d'entreprise à Bordeaux, souvent négligé dans la précipitati."
+h1: "Communication interne lors d'un déménagement d'entreprise à Bordeaux"
+slug: "communication-interne-demenagement-entreprise-bordeaux"
+category: "demenagement-entreprise-bordeaux"
+type: "satellite"
+keywords: ["communication", "interne", "Bordeaux", "équipes", "gestion"]
 word_count: 1104
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/Déménagement
-  entreprise/communication-interne-demenagement-entreprise-bordeaux
-type: satellite
+publish_date: "2024-06-14"
+author: "Movers Bordeaux"
+featured: false
 ---
 
 

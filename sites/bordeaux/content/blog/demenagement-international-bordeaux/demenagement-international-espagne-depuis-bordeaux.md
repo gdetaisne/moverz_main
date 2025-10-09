@@ -1,17 +1,16 @@
 ---
-title: 'Déménager de Bordeaux vers l''Espagne : prix, délais, conseils'
-description: 'Tout savoir pour un déménagement Bordeaux → Espagne (route, maritime).'
-meta_title: 'Déménager de Bordeaux vers l''Espagne : prix, délais, conseils'
-meta_description: >-
-  Déménager de Bordeaux vers l'Espagne constitue l'une des destinations
-  internationales les plus prisées depuis la métropole girondine. Cette
-  proximité .
+title: "Déménager de Bordeaux vers l''Espagne : prix, délais, conseils"
+meta_title: "Déménager de Bordeaux vers l''Espagne : prix, délais, conseils"
+meta_description: "Déménager de Bordeaux vers l'Espagne constitue l'une des destinations internationales les plus prisées depuis la métropole girondine. Cette proximité ."
+h1: "Déménager de Bordeaux vers l''Espagne : prix, délais, conseils"
+slug: "demenagement-international-espagne-depuis-bordeaux"
+category: "demenagement-international-bordeaux"
+type: "satellite"
+keywords: []
 word_count: 1162
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/undefined/demenagement-international-espagne-depuis-bordeaux
-date: '2024-03-12'
-category: demenagement-international-bordeaux
-type: satellite
+publish_date: "2024-03-12"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

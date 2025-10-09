@@ -1,19 +1,16 @@
 ---
-title: 'Assurances pour un déménagement longue distance : l''essentiel'
-description: 'Garanties, plafonds, délais : ce qu''il faut vérifier.'
-date: '2024-08-15'
-author: Movers Bordeaux
-category: demenagement-longue-distance-bordeaux
-tags: 'assurance,garanties,Bordeaux,longue distance,protection'
-meta_title: 'Assurances pour un déménagement longue distance : l''essentiel'
-meta_description: >-
-  L'assurance constitue un élément crucial d'un déménagement longue distance
-  depuis Bordeaux, souvent négligé dans la précipitation de l'organisation. C.
+title: "Assurances pour un déménagement longue distance : l''essentiel"
+meta_title: "Assurances pour un déménagement longue distance : l''essentiel"
+meta_description: "L'assurance constitue un élément crucial d'un déménagement longue distance depuis Bordeaux, souvent négligé dans la précipitation de l'organisation. C."
+h1: "Assurances pour un déménagement longue distance : l''essentiel"
+slug: "assurance-demenagement-longue-distance-bordeaux"
+category: "demenagement-longue-distance-bordeaux"
+type: "satellite"
+keywords: ["assurance", "garanties", "Bordeaux", "longue distance", "protection"]
 word_count: 1075
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/Déménagement longue
-  distance/assurance-demenagement-longue-distance-bordeaux
-type: satellite
+publish_date: "2024-08-15"
+author: "Movers Bordeaux"
+featured: false
 ---
 
 

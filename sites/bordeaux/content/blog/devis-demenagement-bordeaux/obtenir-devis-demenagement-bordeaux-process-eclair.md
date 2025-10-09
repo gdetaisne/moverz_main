@@ -1,21 +1,16 @@
 ---
-title: 'Obtenir un devis de déménagement à Bordeaux : le process éclair'
-description: >-
-  Étapes pour obtenir rapidement un devis fiable à Bordeaux. Délais,
-  informations à fournir, conseils pratiques pour un devis précis et sans
-  surprise.
-date: '2024-05-15'
-category: devis-demenagement-bordeaux
-tags: 'devis déménagement,Bordeaux,process,délai,estimation'
-meta_title: 'Obtenir un devis de déménagement à Bordeaux : le process éclair'
-meta_description: >-
-  Obtenir un devis de déménagement à Bordeaux ne doit pas être une étape
-  chronophage. Avec la bonne méthode, vous pouvez recevoir des propositions
-  fiabl.
+title: "Obtenir un devis de déménagement à Bordeaux : le process éclair"
+meta_title: "Obtenir un devis de déménagement à Bordeaux : le process éclair"
+meta_description: "Obtenir un devis de déménagement à Bordeaux ne doit pas être une étape chronophage. Avec la bonne méthode, vous pouvez recevoir des propositions fiabl."
+h1: "Obtenir un devis de déménagement à Bordeaux : le process éclair"
+slug: "obtenir-devis-demenagement-bordeaux-process-eclair"
+category: "devis-demenagement-bordeaux"
+type: "satellite"
+keywords: ["devis déménagement", "Bordeaux", "process", "délai", "estimation"]
 word_count: 1026
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/devis-demenagement-bordeaux/obtenir-devis-demenagement-bordeaux-process-eclair
-type: satellite
+publish_date: "2024-05-15"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

@@ -1,16 +1,16 @@
 ---
-title: 'Partir au Canada depuis Bordeaux : container, délais, budget'
-description: 'Maritime (LCL/FCL) vs aérien, assurances, transit et dédouanement.'
-meta_title: 'Partir au Canada depuis Bordeaux : container, délais, budget'
-meta_description: >-
-  Déménager au Canada depuis Bordeaux représente un défi logistique majeur
-  nécessitant une planification minutieuse et des choix stratégiques. Cette des.
+title: "Partir au Canada depuis Bordeaux : container, délais, budget"
+meta_title: "Partir au Canada depuis Bordeaux : container, délais, budget"
+meta_description: "Déménager au Canada depuis Bordeaux représente un défi logistique majeur nécessitant une planification minutieuse et des choix stratégiques. Cette des."
+h1: "Partir au Canada depuis Bordeaux : container, délais, budget"
+slug: "demenagement-international-canada-depuis-bordeaux"
+category: "demenagement-international-bordeaux"
+type: "satellite"
+keywords: []
 word_count: 1146
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/undefined/demenagement-international-canada-depuis-bordeaux
-date: '2024-02-19'
-category: demenagement-international-bordeaux
-type: satellite
+publish_date: "2024-02-19"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

@@ -6,11 +6,11 @@ h1: "Déménagement piano Bordeaux : conseils, prix et prestataires spécialisé
 slug: "demenagement-piano-bordeaux-guide-complet"
 category: "demenagement-piano-bordeaux"
 type: "pilier"
-keywords: "déménagement piano Bordeaux,déménagement piano Gironde,manutention piano spécialisée,prix déménagement piano"
+keywords: ["déménagement piano Bordeaux", "déménagement piano Gironde", "manutention piano spécialisée", "prix déménagement piano"]
 word_count: 1800
-date: "2025-01-11"
+publish_date: "2025-01-11"
+author: "Équipe Moverz"
 featured: true
-canonical: "https://www.bordeaux-demenageur.fr/blog/demenagement-piano-bordeaux/demenagement-piano-bordeaux-guide-complet"
 ---
 
 

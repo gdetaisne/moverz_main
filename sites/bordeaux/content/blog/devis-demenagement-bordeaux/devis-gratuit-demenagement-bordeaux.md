@@ -1,16 +1,16 @@
 ---
-title: Obtenir un devis gratuit pour un déménagement à Bordeaux
-description: Découvrez comment obtenir un devis gratuit et fiable pour votre déménagement.
-meta_title: Obtenir un devis gratuit pour un déménagement à Bordeaux
-meta_description: >-
-  Obtenir un devis gratuit pour un déménagement à Bordeaux constitue la première
-  étape indispensable pour organiser sereinement votre déménagement. Cett.
+title: "Obtenir un devis gratuit pour un déménagement à Bordeaux"
+meta_title: "Obtenir un devis gratuit pour un déménagement à Bordeaux"
+meta_description: "Obtenir un devis gratuit pour un déménagement à Bordeaux constitue la première étape indispensable pour organiser sereinement votre déménagement. Cett."
+h1: "Obtenir un devis gratuit pour un déménagement à Bordeaux"
+slug: "devis-gratuit-demenagement-bordeaux"
+category: "devis-demenagement-bordeaux"
+type: "satellite"
+keywords: []
 word_count: 990
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/undefined/devis-gratuit-demenagement-bordeaux
-date: '2024-05-21'
-category: devis-demenagement-bordeaux
-type: satellite
+publish_date: "2024-05-21"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

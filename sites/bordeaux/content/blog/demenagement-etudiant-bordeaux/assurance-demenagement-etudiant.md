@@ -1,17 +1,16 @@
 ---
-title: Faut-il une assurance pour son déménagement étudiant à Bordeaux ?
-meta_title: Faut-il une assurance pour son déménagement étudiant à Bordeaux ?
-meta_description: Explications sur l'assurance déménagement pour les étudiants
-h1: Assurance déménagement étudiant à Bordeaux
-slug: assurance-demenagement-etudiant
-category: demenagement-etudiant-bordeaux
-type: satellite
-keywords: 'assurance déménagement étudiant,assurance déménagement,protection déménagement'
+title: "Faut-il une assurance pour son déménagement étudiant à Bordeaux ?"
+meta_title: "Faut-il une assurance pour son déménagement étudiant à Bordeaux ?"
+meta_description: "Explications sur l'assurance déménagement pour les étudiants"
+h1: "Assurance déménagement étudiant à Bordeaux"
+slug: "assurance-demenagement-etudiant"
+category: "demenagement-etudiant-bordeaux"
+type: "satellite"
+keywords: ["assurance déménagement étudiant", "assurance déménagement", "protection déménagement"]
 word_count: 800
-date: '2024-09-26'
+publish_date: "2024-09-26"
+author: "Équipe Moverz"
 featured: false
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/demenagement-etudiant-bordeaux/assurance-demenagement-etudiant
 ---
 
 

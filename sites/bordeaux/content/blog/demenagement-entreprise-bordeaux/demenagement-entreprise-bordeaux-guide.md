@@ -6,11 +6,11 @@ h1: "Déménagement entreprise Bordeaux : plan, prix et organisation"
 slug: "demenagement-entreprise-bordeaux-guide"
 category: "demenagement-entreprise-bordeaux"
 type: "pilier"
-keywords: "déménagement entreprise Bordeaux,déménagement bureau Bordeaux,relocation entreprise Bordeaux"
+keywords: ["déménagement entreprise Bordeaux", "déménagement bureau Bordeaux", "relocation entreprise Bordeaux"]
 word_count: 2000
-date: "2024-02-24"
+publish_date: "2024-02-24"
+author: "Équipe Moverz"
 featured: true
-canonical: "https://www.bordeaux-demenageur.fr/blog/demenagement-entreprise-bordeaux/demenagement-entreprise-bordeaux-guide"
 ---
 
 

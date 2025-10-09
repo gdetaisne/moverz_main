@@ -1,16 +1,16 @@
 ---
-title: 'Emballage pour un déménagement international : standards export'
-description: 'Matériaux, caisses, protection humidité et chocs : les bonnes pratiques.'
-meta_title: 'Emballage pour un déménagement international : standards export'
-meta_description: >-
-  L'emballage constitue l'élément le plus critique pour la sécurité des biens
-  lors d'un déménagement international depuis Bordeaux. Cette étape, souvent.
+title: "Emballage pour un déménagement international : standards export"
+meta_title: "Emballage pour un déménagement international : standards export"
+meta_description: "L'emballage constitue l'élément le plus critique pour la sécurité des biens lors d'un déménagement international depuis Bordeaux. Cette étape, souvent."
+h1: "Emballage pour un déménagement international : standards export"
+slug: "emballage-demenagement-international-bordeaux"
+category: "demenagement-international-bordeaux"
+type: "satellite"
+keywords: []
 word_count: 1075
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/undefined/emballage-demenagement-international-bordeaux
-date: '2024-02-05'
-category: demenagement-international-bordeaux
-type: satellite
+publish_date: "2024-02-05"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

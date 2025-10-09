@@ -6,11 +6,11 @@ h1: "Déménagement étudiant à Bordeaux : mode d'emploi"
 slug: "demenagement-etudiant-bordeaux-guide-complet"
 category: "demenagement-etudiant-bordeaux"
 type: "pilier"
-keywords: "déménagement étudiant Bordeaux,déménagement étudiant pas cher,déménagement Bordeaux,étudiant déménagement"
+keywords: ["déménagement étudiant Bordeaux", "déménagement étudiant pas cher", "déménagement Bordeaux", "étudiant déménagement"]
 word_count: 1500
-date: "2024-10-24"
+publish_date: "2024-10-24"
+author: "Équipe Moverz"
 featured: true
-canonical: "https://www.bordeaux-demenageur.fr/blog/demenagement-etudiant-bordeaux/demenagement-etudiant-bordeaux-guide-complet"
 ---
 
 

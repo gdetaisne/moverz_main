@@ -1,17 +1,16 @@
 ---
-title: Stocker avant un déménagement international depuis Bordeaux
-description: Utiliser un garde-meuble à Bordeaux avant un départ à l'étranger.
-date: '2024-12-19'
-category: garde-meuble-bordeaux
-tags: 'déménagement international,Bordeaux,stockage,expatriation'
-meta_title: Stocker avant un déménagement international depuis Bordeaux
-meta_description: >-
-  Un déménagement international depuis Bordeaux nécessite souvent une phase de
-  stockage intermédiaire pour gérer la transition entre votre départ et l'a.
+title: "Stocker avant un déménagement international depuis Bordeaux"
+meta_title: "Stocker avant un déménagement international depuis Bordeaux"
+meta_description: "Un déménagement international depuis Bordeaux nécessite souvent une phase de stockage intermédiaire pour gérer la transition entre votre départ et l'a."
+h1: "Stocker avant un déménagement international depuis Bordeaux"
+slug: "garde-meuble-demenagement-international-bordeaux"
+category: "garde-meuble-bordeaux"
+type: "satellite"
+keywords: ["déménagement international", "Bordeaux", "stockage", "expatriation"]
 word_count: 984
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/garde-meuble-bordeaux/garde-meuble-demenagement-international-bordeaux
-type: satellite
+publish_date: "2024-12-19"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

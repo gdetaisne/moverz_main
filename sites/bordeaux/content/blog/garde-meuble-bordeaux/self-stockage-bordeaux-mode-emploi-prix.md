@@ -1,17 +1,16 @@
 ---
-title: 'Self-stockage à Bordeaux : mode d''emploi et prix'
-description: Comparez garde-meuble traditionnel et self-stockage à Bordeaux.
-date: '2024-12-19'
-category: garde-meuble-bordeaux
-tags: 'self-stockage,Bordeaux,box individuels,accès libre'
-meta_title: 'Self-stockage à Bordeaux : mode d''emploi et prix'
-meta_description: >-
-  Le self-stockage révolutionne l'approche traditionnelle du garde-meuble à
-  Bordeaux en offrant une flexibilité et une autonomie inégalées. Cette soluti.
+title: "Self-stockage à Bordeaux : mode d''emploi et prix"
+meta_title: "Self-stockage à Bordeaux : mode d''emploi et prix"
+meta_description: "Le self-stockage révolutionne l'approche traditionnelle du garde-meuble à Bordeaux en offrant une flexibilité et une autonomie inégalées. Cette soluti."
+h1: "Self-stockage à Bordeaux : mode d''emploi et prix"
+slug: "self-stockage-bordeaux-mode-emploi-prix"
+category: "garde-meuble-bordeaux"
+type: "satellite"
+keywords: ["self-stockage", "Bordeaux", "box individuels", "accès libre"]
 word_count: 1077
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/garde-meuble-bordeaux/self-stockage-bordeaux-mode-emploi-prix
-type: satellite
+publish_date: "2024-12-19"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

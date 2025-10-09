@@ -6,11 +6,11 @@ h1: "Devis déménagement Bordeaux : guide pratique"
 slug: "devis-demenagement-bordeaux-guide"
 category: "devis-demenagement-bordeaux"
 type: "pilier"
-keywords: "devis déménagement Bordeaux,comparatif devis déménagement,estimation déménagement Bordeaux"
+keywords: ["devis déménagement Bordeaux", "comparatif devis déménagement", "estimation déménagement Bordeaux"]
 word_count: 1600
-date: "2024-02-04"
+publish_date: "2024-02-04"
+author: "Équipe Moverz"
 featured: true
-canonical: "https://www.bordeaux-demenageur.fr/blog/devis-demenagement-bordeaux/devis-demenagement-bordeaux-guide"
 ---
 
 

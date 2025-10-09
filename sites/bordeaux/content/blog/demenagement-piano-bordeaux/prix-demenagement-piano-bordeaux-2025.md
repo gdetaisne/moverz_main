@@ -1,19 +1,16 @@
 ---
-title: Prix d'un déménagement de piano à Bordeaux en 2025
-description: >-
-  Découvrez combien coûte le déménagement d'un piano à Bordeaux selon le type
-  d'instrument et l'accès. Tarifs piano droit et piano à queue.
-date: '2024-05-15'
-category: demenagement-piano-bordeaux
-tags: 'prix déménagement piano,Bordeaux,piano droit,piano à queue,tarifs 2025'
-meta_title: Prix d'un déménagement de piano à Bordeaux en 2025
-meta_description: >-
-  Déménager un piano représente un défi technique et financier particulier qui
-  nécessite l'intervention de professionnels spécialisés. À Bordeaux, où le.
+title: "Prix d'un déménagement de piano à Bordeaux en 2025"
+meta_title: "Prix d'un déménagement de piano à Bordeaux en 2025"
+meta_description: "Déménager un piano représente un défi technique et financier particulier qui nécessite l'intervention de professionnels spécialisés. À Bordeaux, où le."
+h1: "Prix d'un déménagement de piano à Bordeaux en 2025"
+slug: "prix-demenagement-piano-bordeaux-2025"
+category: "demenagement-piano-bordeaux"
+type: "satellite"
+keywords: ["prix déménagement piano", "Bordeaux", "piano droit", "piano à queue", "tarifs 2025"]
 word_count: 971
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/demenagement-piano-bordeaux/prix-demenagement-piano-bordeaux-2025
-type: satellite
+publish_date: "2024-05-15"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

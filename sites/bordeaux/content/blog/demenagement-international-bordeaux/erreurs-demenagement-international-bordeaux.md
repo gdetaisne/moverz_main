@@ -1,17 +1,16 @@
 ---
-title: 'Déménagement international : erreurs fréquentes au départ de Bordeaux'
-description: 'Les pièges qui coûtent cher : documents, emballage, planning.'
-meta_title: 'Déménagement international : erreurs fréquentes au départ de Bordeaux'
-meta_description: >-
-  Les déménagements internationaux depuis Bordeaux présentent des pièges
-  spécifiques qui peuvent coûter cher et compromettre la réussite de votre
-  expatr.
+title: "Déménagement international : erreurs fréquentes au départ de Bordeaux"
+meta_title: "Déménagement international : erreurs fréquentes au départ de Bordeaux"
+meta_description: "Les déménagements internationaux depuis Bordeaux présentent des pièges spécifiques qui peuvent coûter cher et compromettre la réussite de votre expatr."
+h1: "Déménagement international : erreurs fréquentes au départ de Bordeaux"
+slug: "erreurs-demenagement-international-bordeaux"
+category: "demenagement-international-bordeaux"
+type: "satellite"
+keywords: []
 word_count: 1040
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/undefined/erreurs-demenagement-international-bordeaux
-date: '2024-03-19'
-category: demenagement-international-bordeaux
-type: satellite
+publish_date: "2024-03-19"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

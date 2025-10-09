@@ -1,19 +1,16 @@
 ---
-title: 'Bordeaux → Paris : combien coûte un déménagement longue distance ?'
-description: 'Repères de prix, options et planning pour un Bordeaux–Paris.'
-date: '2024-03-15'
-author: Movers Bordeaux
-category: demenagement-longue-distance-bordeaux
-tags: 'Bordeaux Paris,longue distance,prix,déménagement,budget'
-meta_title: 'Bordeaux → Paris : combien coûte un déménagement longue distance ?'
-meta_description: >-
-  Déménager de Bordeaux à Paris représente l'un des trajets longue distance les
-  plus fréquents en France, avec ses 584 kilomètres de distance. Cette mig.
+title: "Bordeaux → Paris : combien coûte un déménagement longue distance ?"
+meta_title: "Bordeaux → Paris : combien coûte un déménagement longue distance ?"
+meta_description: "Déménager de Bordeaux à Paris représente l'un des trajets longue distance les plus fréquents en France, avec ses 584 kilomètres de distance. Cette mig."
+h1: "Bordeaux → Paris : combien coûte un déménagement longue distance ?"
+slug: "prix-demenagement-bordeaux-paris"
+category: "demenagement-longue-distance-bordeaux"
+type: "satellite"
+keywords: ["Bordeaux Paris", "longue distance", "prix", "déménagement", "budget"]
 word_count: 1162
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/Déménagement longue
-  distance/prix-demenagement-bordeaux-paris
-type: satellite
+publish_date: "2024-03-15"
+author: "Movers Bordeaux"
+featured: false
 ---
 
 

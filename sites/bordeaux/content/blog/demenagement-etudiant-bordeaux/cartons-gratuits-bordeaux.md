@@ -1,17 +1,16 @@
 ---
-title: Où trouver des cartons gratuits à Bordeaux pour un déménagement étudiant ?
-meta_title: Où trouver des cartons gratuits à Bordeaux pour un déménagement étudiant ?
-meta_description: Astuces pour récupérer des cartons gratuits à Bordeaux
-h1: 'Cartons gratuits à Bordeaux : bons plans étudiants'
-slug: cartons-gratuits-bordeaux
-category: demenagement-etudiant-bordeaux
-type: satellite
-keywords: 'cartons gratuits Bordeaux,cartons déménagement,matériel déménagement gratuit'
+title: "Où trouver des cartons gratuits à Bordeaux pour un déménagement étudiant ?"
+meta_title: "Où trouver des cartons gratuits à Bordeaux pour un déménagement étudiant ?"
+meta_description: "Astuces pour récupérer des cartons gratuits à Bordeaux"
+h1: "Cartons gratuits à Bordeaux : bons plans étudiants"
+slug: "cartons-gratuits-bordeaux"
+category: "demenagement-etudiant-bordeaux"
+type: "satellite"
+keywords: ["cartons gratuits Bordeaux", "cartons déménagement", "matériel déménagement gratuit"]
 word_count: 800
-date: '2024-11-08'
+publish_date: "2024-11-08"
+author: "Équipe Moverz"
 featured: false
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/demenagement-etudiant-bordeaux/cartons-gratuits-bordeaux
 ---
 
 

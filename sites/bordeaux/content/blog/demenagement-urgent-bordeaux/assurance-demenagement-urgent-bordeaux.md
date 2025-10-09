@@ -1,17 +1,16 @@
 ---
-title: Assurances et responsabilités en cas de déménagement urgent
-description: Quels contrats et garanties en urgence à Bordeaux.
-date: '2024-05-13'
-category: demenagement-urgent-bordeaux
-tags: 'assurance déménagement,Bordeaux,urgence,responsabilité'
-meta_title: Assurances et responsabilités en cas de déménagement urgent
-meta_description: >-
-  En situation d'urgence, la question des assurances et des responsabilités
-  prend une dimension particulière. Les délais raccourcis, les contraintes tem.
+title: "Assurances et responsabilités en cas de déménagement urgent"
+meta_title: "Assurances et responsabilités en cas de déménagement urgent"
+meta_description: "En situation d'urgence, la question des assurances et des responsabilités prend une dimension particulière. Les délais raccourcis, les contraintes tem."
+h1: "Assurances et responsabilités en cas de déménagement urgent"
+slug: "assurance-demenagement-urgent-bordeaux"
+category: "demenagement-urgent-bordeaux"
+type: "satellite"
+keywords: ["assurance déménagement", "Bordeaux", "urgence", "responsabilité"]
 word_count: 991
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/demenagement-urgent-bordeaux/assurance-demenagement-urgent-bordeaux
-type: satellite
+publish_date: "2024-05-13"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

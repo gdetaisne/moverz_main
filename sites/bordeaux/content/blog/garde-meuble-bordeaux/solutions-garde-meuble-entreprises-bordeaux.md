@@ -1,17 +1,16 @@
 ---
-title: Solutions de garde-meuble pour entreprises à Bordeaux
-description: 'Stockage temporaire ou longue durée pour bureaux, archives, mobilier.'
-date: '2024-12-19'
-category: garde-meuble-bordeaux
-tags: 'garde-meuble entreprise,Bordeaux,archivage,B2B'
-meta_title: Solutions de garde-meuble pour entreprises à Bordeaux
-meta_description: >-
-  Pour les entreprises bordelaises, le garde-meuble représente une solution
-  stratégique pour gérer les stocks, les archives et les équipements de manièr.
+title: "Solutions de garde-meuble pour entreprises à Bordeaux"
+meta_title: "Solutions de garde-meuble pour entreprises à Bordeaux"
+meta_description: "Pour les entreprises bordelaises, le garde-meuble représente une solution stratégique pour gérer les stocks, les archives et les équipements de manièr."
+h1: "Solutions de garde-meuble pour entreprises à Bordeaux"
+slug: "solutions-garde-meuble-entreprises-bordeaux"
+category: "garde-meuble-bordeaux"
+type: "satellite"
+keywords: ["garde-meuble entreprise", "Bordeaux", "archivage", "B2B"]
 word_count: 1060
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/garde-meuble-bordeaux/solutions-garde-meuble-entreprises-bordeaux
-type: satellite
+publish_date: "2024-12-19"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

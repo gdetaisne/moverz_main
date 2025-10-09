@@ -1,17 +1,16 @@
 ---
-title: Conditions d'accès et de sécurité des garde-meubles à Bordeaux
-description: 'Horaires, surveillance, hygrométrie : ce qu''il faut vérifier.'
-date: '2024-12-19'
-category: garde-meuble-bordeaux
-tags: 'sécurité garde-meuble,Bordeaux,surveillance,hygrométrie'
-meta_title: Conditions d'accès et de sécurité des garde-meubles à Bordeaux
-meta_description: >-
-  La sécurité et les conditions d'accès constituent des critères essentiels dans
-  le choix d'un garde-meuble à Bordeaux. Entre la surveillance 24h/24, le.
+title: "Conditions d'accès et de sécurité des garde-meubles à Bordeaux"
+meta_title: "Conditions d'accès et de sécurité des garde-meubles à Bordeaux"
+meta_description: "La sécurité et les conditions d'accès constituent des critères essentiels dans le choix d'un garde-meuble à Bordeaux. Entre la surveillance 24h/24, le."
+h1: "Conditions d'accès et de sécurité des garde-meubles à Bordeaux"
+slug: "conditions-acces-securite-garde-meubles-bordeaux"
+category: "garde-meuble-bordeaux"
+type: "satellite"
+keywords: ["sécurité garde-meuble", "Bordeaux", "surveillance", "hygrométrie"]
 word_count: 1037
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/garde-meuble-bordeaux/conditions-acces-securite-garde-meubles-bordeaux
-type: satellite
+publish_date: "2024-12-19"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

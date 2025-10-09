@@ -1,19 +1,16 @@
 ---
-title: 'Prix d''un garde-meuble à Bordeaux : repères 2025'
-description: >-
-  Découvrez les tarifs moyens d'un garde-meuble à Bordeaux et les facteurs qui
-  influencent le prix.
-date: '2024-12-19'
-category: garde-meuble-bordeaux
-tags: 'prix garde-meuble,Bordeaux,tarifs,2025'
-meta_title: 'Prix d''un garde-meuble à Bordeaux : repères 2025'
-meta_description: >-
-  Le marché des garde-meubles à Bordeaux connaît une évolution constante, avec
-  des tarifs qui varient selon de nombreux facteurs. Comprendre la structur.
+title: "Prix d''un garde-meuble à Bordeaux : repères 2025"
+meta_title: "Prix d''un garde-meuble à Bordeaux : repères 2025"
+meta_description: "Le marché des garde-meubles à Bordeaux connaît une évolution constante, avec des tarifs qui varient selon de nombreux facteurs. Comprendre la structur."
+h1: "Prix d''un garde-meuble à Bordeaux : repères 2025"
+slug: "prix-garde-meuble-bordeaux-reperes-2025"
+category: "garde-meuble-bordeaux"
+type: "satellite"
+keywords: ["prix garde-meuble", "Bordeaux", "tarifs", "2025"]
 word_count: 1049
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/garde-meuble-bordeaux/prix-garde-meuble-bordeaux-reperes-2025
-type: satellite
+publish_date: "2024-12-19"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

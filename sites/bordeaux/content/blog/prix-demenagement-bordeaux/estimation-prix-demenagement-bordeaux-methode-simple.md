@@ -1,21 +1,16 @@
 ---
-title: 'Estimer le prix de votre déménagement à Bordeaux : méthode simple'
-description: >-
-  Apprenez à estimer le prix d'un déménagement à Bordeaux selon volume, distance
-  et accès.
-date: '2024-02-21'
-author: Movers Bordeaux
-category: prix-demenagement-bordeaux
-tags: 'prix déménagement,estimation,Bordeaux,budget,devis'
-meta_title: 'Estimer le prix de votre déménagement à Bordeaux : méthode simple'
-meta_description: >-
-  Estimer le coût de votre déménagement à Bordeaux peut sembler complexe au
-  premier abord. Pourtant, en comprenant les facteurs clés qui influencent les.
+title: "Estimer le prix de votre déménagement à Bordeaux : méthode simple"
+meta_title: "Estimer le prix de votre déménagement à Bordeaux : méthode simple"
+meta_description: "Estimer le coût de votre déménagement à Bordeaux peut sembler complexe au premier abord. Pourtant, en comprenant les facteurs clés qui influencent les."
+h1: "Estimer le prix de votre déménagement à Bordeaux : méthode simple"
+slug: "estimation-prix-demenagement-bordeaux-methode-simple"
+category: "prix-demenagement-bordeaux"
+type: "satellite"
+keywords: ["prix déménagement", "estimation", "Bordeaux", "budget", "devis"]
 word_count: 1003
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/Prix
-  déménagement/estimation-prix-demenagement-bordeaux-methode-simple
-type: satellite
+publish_date: "2024-02-21"
+author: "Movers Bordeaux"
+featured: false
 ---
 
 

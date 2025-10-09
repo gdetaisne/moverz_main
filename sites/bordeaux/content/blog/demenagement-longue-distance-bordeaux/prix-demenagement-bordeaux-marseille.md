@@ -1,19 +1,16 @@
 ---
-title: 'Bordeaux → Marseille : quel prix pour un long trajet ?'
-description: Ordres de grandeur et leviers d'économies pour Bordeaux–Marseille.
-date: '2024-09-20'
-author: Movers Bordeaux
-category: demenagement-longue-distance-bordeaux
-tags: 'Bordeaux Marseille,prix,longue distance,budget,économies'
-meta_title: 'Bordeaux → Marseille : quel prix pour un long trajet ?'
-meta_description: >-
-  Déménager de Bordeaux à Marseille représente un trajet longue distance de 650
-  kilomètres, nécessitant une planification budgétaire rigoureuse et une o.
+title: "Bordeaux → Marseille : quel prix pour un long trajet ?"
+meta_title: "Bordeaux → Marseille : quel prix pour un long trajet ?"
+meta_description: "Déménager de Bordeaux à Marseille représente un trajet longue distance de 650 kilomètres, nécessitant une planification budgétaire rigoureuse et une o."
+h1: "Bordeaux → Marseille : quel prix pour un long trajet ?"
+slug: "prix-demenagement-bordeaux-marseille"
+category: "demenagement-longue-distance-bordeaux"
+type: "satellite"
+keywords: ["Bordeaux Marseille", "prix", "longue distance", "budget", "économies"]
 word_count: 1338
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/Déménagement longue
-  distance/prix-demenagement-bordeaux-marseille
-type: satellite
+publish_date: "2024-09-20"
+author: "Movers Bordeaux"
+featured: false
 ---
 
 

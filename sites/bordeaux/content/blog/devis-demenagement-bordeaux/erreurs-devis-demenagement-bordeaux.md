@@ -1,16 +1,16 @@
 ---
-title: Erreurs fréquentes à éviter avec un devis de déménagement à Bordeaux
-description: Les pièges courants dans les devis de déménagement.
-meta_title: Erreurs fréquentes à éviter avec un devis de déménagement à Bordeaux
-meta_description: >-
-  Les erreurs lors de la demande de devis de déménagement à Bordeaux peuvent
-  coûter cher et compromettre la réussite de votre déménagement. Ces erreurs,.
+title: "Erreurs fréquentes à éviter avec un devis de déménagement à Bordeaux"
+meta_title: "Erreurs fréquentes à éviter avec un devis de déménagement à Bordeaux"
+meta_description: "Les erreurs lors de la demande de devis de déménagement à Bordeaux peuvent coûter cher et compromettre la réussite de votre déménagement. Ces erreurs,."
+h1: "Erreurs fréquentes à éviter avec un devis de déménagement à Bordeaux"
+slug: "erreurs-devis-demenagement-bordeaux"
+category: "devis-demenagement-bordeaux"
+type: "satellite"
+keywords: []
 word_count: 1064
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/undefined/erreurs-devis-demenagement-bordeaux
-date: '2024-05-14'
-category: devis-demenagement-bordeaux
-type: satellite
+publish_date: "2024-05-14"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

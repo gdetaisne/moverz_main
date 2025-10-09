@@ -1,17 +1,16 @@
 ---
-title: 'Urgence à Bordeaux : erreurs à éviter absolument'
-description: Les erreurs qui font perdre du temps et de l'argent en urgence.
-date: '2024-10-27'
-category: demenagement-urgent-bordeaux
-tags: 'erreurs déménagement,Bordeaux,urgence,conseils'
-meta_title: 'Urgence à Bordeaux : erreurs à éviter absolument'
-meta_description: >-
-  En situation d'urgence, les erreurs peuvent avoir des conséquences dramatiques
-  sur le coût, les délais et la réussite de votre déménagement. À Bordeau.
+title: "Urgence à Bordeaux : erreurs à éviter absolument"
+meta_title: "Urgence à Bordeaux : erreurs à éviter absolument"
+meta_description: "En situation d'urgence, les erreurs peuvent avoir des conséquences dramatiques sur le coût, les délais et la réussite de votre déménagement. À Bordeau."
+h1: "Urgence à Bordeaux : erreurs à éviter absolument"
+slug: "demenagement-urgent-erreurs-bordeaux"
+category: "demenagement-urgent-bordeaux"
+type: "satellite"
+keywords: ["erreurs déménagement", "Bordeaux", "urgence", "conseils"]
 word_count: 1081
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/demenagement-urgent-bordeaux/demenagement-urgent-erreurs-bordeaux
-type: satellite
+publish_date: "2024-10-27"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

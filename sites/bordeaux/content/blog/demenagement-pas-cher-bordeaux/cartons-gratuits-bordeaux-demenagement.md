@@ -1,16 +1,16 @@
 ---
-title: Trouver des cartons gratuits à Bordeaux pour déménager
-description: Bons plans bordelais pour récupérer des cartons sans payer.
-meta_title: Trouver des cartons gratuits à Bordeaux pour déménager
-meta_description: >-
-  L'achat de cartons peut représenter une dépense non négligeable lors d'un
-  déménagement. À Bordeaux, plusieurs solutions s'offrent à vous pour récupére.
+title: "Trouver des cartons gratuits à Bordeaux pour déménager"
+meta_title: "Trouver des cartons gratuits à Bordeaux pour déménager"
+meta_description: "L'achat de cartons peut représenter une dépense non négligeable lors d'un déménagement. À Bordeaux, plusieurs solutions s'offrent à vous pour récupére."
+h1: "Trouver des cartons gratuits à Bordeaux pour déménager"
+slug: "cartons-gratuits-bordeaux-demenagement"
+category: "demenagement-pas-cher-bordeaux"
+type: "satellite"
+keywords: []
 word_count: 986
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/undefined/cartons-gratuits-bordeaux-demenagement
-date: '2024-10-08'
-category: demenagement-pas-cher-bordeaux
-type: satellite
+publish_date: "2024-10-08"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

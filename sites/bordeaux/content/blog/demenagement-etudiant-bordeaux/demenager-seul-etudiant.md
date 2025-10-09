@@ -1,17 +1,16 @@
 ---
-title: 'Déménager seul à Bordeaux quand on est étudiant : mode d''emploi'
-meta_title: 'Déménager seul à Bordeaux quand on est étudiant : mode d''emploi'
-meta_description: Comment organiser un petit déménagement étudiant sans stress
-h1: Déménagement étudiant seul à Bordeaux
-slug: demenager-seul-etudiant
-category: demenagement-etudiant-bordeaux
-type: satellite
-keywords: 'déménager seul étudiant,déménagement solo,déménagement étudiant autonome'
+title: "Déménager seul à Bordeaux quand on est étudiant : mode d''emploi"
+meta_title: "Déménager seul à Bordeaux quand on est étudiant : mode d''emploi"
+meta_description: "Comment organiser un petit déménagement étudiant sans stress"
+h1: "Déménagement étudiant seul à Bordeaux"
+slug: "demenager-seul-etudiant"
+category: "demenagement-etudiant-bordeaux"
+type: "satellite"
+keywords: ["déménager seul étudiant", "déménagement solo", "déménagement étudiant autonome"]
 word_count: 800
-date: '2024-08-02'
+publish_date: "2024-08-02"
+author: "Équipe Moverz"
 featured: false
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/demenagement-etudiant-bordeaux/demenager-seul-etudiant
 ---
 
 

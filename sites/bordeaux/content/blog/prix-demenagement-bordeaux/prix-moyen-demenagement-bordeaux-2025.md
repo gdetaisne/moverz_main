@@ -1,17 +1,16 @@
 ---
-title: Prix moyen d'un déménagement à Bordeaux en 2025
-description: Découvrez les prix moyens pour déménager à Bordeaux selon volume et distance.
-date: '2024-12-19'
-category: prix-demenagement-bordeaux
-tags: 'prix déménagement,Bordeaux,tarifs,2025'
-meta_title: Prix moyen d'un déménagement à Bordeaux en 2025
-meta_description: >-
-  Le coût d'un déménagement à Bordeaux varie considérablement selon de nombreux
-  facteurs, rendant l'estimation budgétaire complexe mais essentielle. Com.
+title: "Prix moyen d'un déménagement à Bordeaux en 2025"
+meta_title: "Prix moyen d'un déménagement à Bordeaux en 2025"
+meta_description: "Le coût d'un déménagement à Bordeaux varie considérablement selon de nombreux facteurs, rendant l'estimation budgétaire complexe mais essentielle. Com."
+h1: "Prix moyen d'un déménagement à Bordeaux en 2025"
+slug: "prix-moyen-demenagement-bordeaux-2025"
+category: "prix-demenagement-bordeaux"
+type: "satellite"
+keywords: ["prix déménagement", "Bordeaux", "tarifs", "2025"]
 word_count: 1126
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/prix-demenagement-bordeaux/prix-moyen-demenagement-bordeaux-2025
-type: satellite
+publish_date: "2024-12-19"
+author: "Équipe Moverz"
+featured: false
 ---
 
 

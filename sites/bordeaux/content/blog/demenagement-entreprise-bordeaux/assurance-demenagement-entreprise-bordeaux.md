@@ -1,19 +1,16 @@
 ---
-title: 'Assurance pour un déménagement d''entreprise à Bordeaux : garanties'
-description: Que couvre l'assurance en cas de déménagement d'entreprise ?
-date: '2024-07-25'
-author: Movers Bordeaux
-category: demenagement-entreprise-bordeaux
-tags: 'assurance,garanties,Bordeaux,entreprise,protection'
-meta_title: 'Assurance pour un déménagement d''entreprise à Bordeaux : garanties'
-meta_description: >-
-  L'assurance constitue un élément crucial d'un déménagement d'entreprise à
-  Bordeaux, souvent négligé dans la précipitation de l'organisation. Cette pro.
+title: "Assurance pour un déménagement d''entreprise à Bordeaux : garanties"
+meta_title: "Assurance pour un déménagement d''entreprise à Bordeaux : garanties"
+meta_description: "L'assurance constitue un élément crucial d'un déménagement d'entreprise à Bordeaux, souvent négligé dans la précipitation de l'organisation. Cette pro."
+h1: "Assurance pour un déménagement d''entreprise à Bordeaux : garanties"
+slug: "assurance-demenagement-entreprise-bordeaux"
+category: "demenagement-entreprise-bordeaux"
+type: "satellite"
+keywords: ["assurance", "garanties", "Bordeaux", "entreprise", "protection"]
 word_count: 1171
-canonical: >-
-  https://www.bordeaux-demenageur.fr/blog/Déménagement
-  entreprise/assurance-demenagement-entreprise-bordeaux
-type: satellite
+publish_date: "2024-07-25"
+author: "Movers Bordeaux"
+featured: false
 ---
 
 
