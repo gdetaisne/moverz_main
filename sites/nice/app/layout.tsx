@@ -4,6 +4,7 @@ import { Inter } from "next/font/google";
 import Link from "next/link";
 import Header from "@/components/Header";
 import StructuredData from "@/components/StructuredData";
+import GoogleAnalytics from "@/components/GoogleAnalytics";
 
 const inter = Inter({ subsets: ["latin"], display: "swap" });
 
@@ -68,6 +69,7 @@ export default function RootLayout({
   return (
     <html lang="fr" className="h-full">
       <body className={`${inter.className} min-h-screen bg-[#04163a] text-white`}>        
+        <GoogleAnalytics />
         <StructuredData />
         <Header />
         <main>{children}</main>
