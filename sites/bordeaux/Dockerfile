@@ -1,5 +1,5 @@
 # Force rebuild - Next.js production build v3 - FORCE FULL REBUILD
-FROM node:18-alpine AS base
+FROM node:20-alpine AS base
 RUN apk add --no-cache libc6-compat
 WORKDIR /app
 # SUPER Cache buster - forces rebuild of ALL layers
@@ -18,7 +18,7 @@ ENV NEXT_TELEMETRY_DISABLED=1
 RUN npm run build
 
 # Production runtime
-FROM node:18-alpine AS runner
+FROM node:20-alpine AS runner
 RUN apk add --no-cache dumb-init && \
     addgroup --system --gid 1001 nodejs && \
     adduser --system --uid 1001 nextjs
