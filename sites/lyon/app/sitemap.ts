@@ -2,7 +2,7 @@ import { MetadataRoute } from 'next'
 import { getAllBlogPosts } from '@/lib/blog'
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://www.lyon-demenageur.fr'
+  const baseUrl = 'https://devis-demenageur-lyon.fr'
   
   // Récupérer tous les articles de blog
   const blogPosts = getAllBlogPosts()

@@ -2,23 +2,23 @@
 
 ## Villes Prioritaires (avec contenu)
 
-https://www.marseille-demenageur.fr/sitemap.xml
-https://www.lyon-demenageur.fr/sitemap.xml
-https://www.montpellier-demenageur.fr/sitemap.xml
+https://devis-demenageur-marseille.fr/sitemap.xml
+https://devis-demenageur-lyon.fr/sitemap.xml
+https://devis-demenageur-montpellier.fr/sitemap.xml
 https://www.bordeaux-demenageur.fr/sitemap.xml
 
 ## Villes en Cours (à soumettre après création piliers)
 
-https://www.nantes-demenageur.fr/sitemap.xml
-https://www.lille-demenageur.fr/sitemap.xml
-https://www.nice-demenageur.fr/sitemap.xml
+https://devis-demenageur-nantes.fr/sitemap.xml
+https://devis-demenageur-lille.fr/sitemap.xml
+https://devis-demenageur-nice.fr/sitemap.xml
 
 ## Villes à Venir
 
-https://www.strasbourg-demenageur.fr/sitemap.xml
-https://www.rouen-demenageur.fr/sitemap.xml
-https://www.rennes-demenageur.fr/sitemap.xml
-https://www.toulouse-demenageur.fr/sitemap.xml
+https://devis-demenageur-strasbourg.fr/sitemap.xml
+https://devis-demenageur-rouen.fr/sitemap.xml
+https://devis-demenageur-rennes.fr/sitemap.xml
+https://devis-demenageur-toulousain.fr/sitemap.xml
 
 ---
 

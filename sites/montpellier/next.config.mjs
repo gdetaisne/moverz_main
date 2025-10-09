@@ -4,24 +4,19 @@ const nextConfig = {
   poweredByHeader: false,
   output: 'standalone',
   
-  // Optimisations pour build CapRover
   typescript: {
-    ignoreBuildErrors: true, // Skip type-check en production (fait en dev)
+    ignoreBuildErrors: true,
   },
   eslint: {
-    ignoreDuringBuilds: true, // Skip ESLint en production (fait en dev)
-  },  
-  // Headers de sécurité gérés par middleware.js
-
-  // Configuration de sécurité supplémentaire
+    ignoreDuringBuilds: true,
+  },
+  
   experimental: {
     serverComponentsExternalPackages: []
   },
 
-  // Optimisations de sécurité
   compress: true,
   
-  // Configuration des images (si utilisées)
   images: {
     remotePatterns: [
       {
@@ -41,4 +36,5 @@ const nextConfig = {
   }
 };
 
-module.exports = nextConfig;
+export default nextConfig;
+
