@@ -126,3 +126,5 @@ echo "✅ Toutes les références : Capitalisées correctement"
 echo ""
 echo "🔄 Redémarre tes serveurs pour voir les changements !"
 
+
+

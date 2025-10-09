@@ -194,3 +194,5 @@ Si une erreur est détectée dans un site généré :
 Ne jamais laisser le template avec des bugs déjà corrigés ailleurs !
 
 
+
+

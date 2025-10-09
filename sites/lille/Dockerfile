@@ -1,9 +1,7 @@
-# Force rebuild - Next.js production build v3 - FORCE FULL REBUILD
-FROM node:18-alpine AS base
+# Next.js production build optimized for CapRover
+FROM node:20-alpine AS base
 RUN apk add --no-cache libc6-compat
 WORKDIR /app
-# SUPER Cache buster - forces rebuild of ALL layers
-RUN echo "FORCE REBUILD $(date +%s)" > /tmp/force-rebuild-$(date +%s).txt
 
 # Install dependencies
 FROM base AS deps
@@ -18,7 +16,7 @@ ENV NEXT_TELEMETRY_DISABLED=1
 RUN npm run build
 
 # Production runtime
-FROM node:18-alpine AS runner
+FROM node:20-alpine AS runner
 RUN apk add --no-cache dumb-init && \
     addgroup --system --gid 1001 nodejs && \
     adduser --system --uid 1001 nextjs

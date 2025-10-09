@@ -166,3 +166,5 @@ Une fois le site généré et testé :
 *(Selon la complexité des données à collecter)*
 
 
+
+
