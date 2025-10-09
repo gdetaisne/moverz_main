@@ -1,11 +1,15 @@
 ---
 title: "Prix Déménagement Montpellier : Devis, Coût & Tarifs Expliqués"
-description: "Combien coûte un déménagement à Montpellier ? Découvrez les facteurs de prix, des fourchettes tarifaires indicatives et obtenez un devis gratuit et personnalisé pour votre projet."
+meta_title: "Prix Déménagement Montpellier : Devis, Coût & Tarifs Expliqués"
+meta_description: "Combien coûte un déménagement à Montpellier ? Découvrez les facteurs de prix, des fourchettes tarifaires indicatives et obtenez un devis gratuit et personnalisé pour votre projet."
+h1: "Prix Déménagement Montpellier : Devis, Coût & Tarifs Expliqués"
 slug: "prix-demenagement-montpellier"
 category: "demenagement-montpellier"
+type: "pilier"
 keywords: ["prix déménagement montpellier", "coût déménagement montpellier", "tarif déménageur montpellier", "devis déménagement montpellier", "estimation prix déménagement montpellier", "budget déménagement montpellier", "combien coûte déménagement montpellier"]
+word_count: 5308
+publish_date: "2025-01-15"
 author: "Équipe Moverz Montpellier"
-publishedAt: "2025-01-15"
 featured: true
 ---
 

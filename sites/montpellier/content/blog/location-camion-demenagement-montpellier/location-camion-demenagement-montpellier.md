@@ -1,11 +1,15 @@
 ---
 title: "Location Camion Déménagement Montpellier : Utilitaire & Prix"
-description: "Louez votre camion ou utilitaire de déménagement à Montpellier ! Comparez les volumes (3m³ à 20m³), les tarifs et agences. Conseils pour un déménagement DIY réussi et économique."
+meta_title: "Location Camion Déménagement Montpellier : Utilitaire & Prix"
+meta_description: "Louez votre camion ou utilitaire de déménagement à Montpellier ! Comparez les volumes (3m³ à 20m³), les tarifs et agences. Conseils pour un déménagement DIY réussi et économique."
+h1: "Location Camion Déménagement Montpellier : Utilitaire & Prix"
 slug: "location-camion-demenagement-montpellier"
 category: "demenagement-montpellier"
+type: "pilier"
 keywords: ["location camion déménagement montpellier", "location utilitaire montpellier", "louer camion déménagement montpellier", "prix location camion déménagement montpellier", "camionnette déménagement montpellier", "location fourgonnette montpellier"]
+word_count: 6140
+publish_date: "2025-01-15"
 author: "Équipe Moverz Montpellier"
-publishedAt: "2025-01-15"
 featured: true
 ---
 

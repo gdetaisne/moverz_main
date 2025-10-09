@@ -1,11 +1,15 @@
 ---
 title: "Aide Déménagement Particulier Montpellier : Primes & Conseils"
-description: "Déménagez à Montpellier l'esprit léger ! Découvrez toutes les aides financières (CAF, Mobili-Pass, Pôle Emploi) et les conseils pratiques pour un déménagement réussi et économique."
+meta_title: "Aide Déménagement Particulier Montpellier : Primes & Conseils"
+meta_description: "Déménagez à Montpellier l'esprit léger ! Découvrez toutes les aides financières (CAF, Mobili-Pass, Pôle Emploi) et les conseils pratiques pour un déménagement réussi et économique."
+h1: "Aide Déménagement Particulier Montpellier : Primes & Conseils"
 slug: "aide-demenagement-particulier-montpellier"
 category: "demenagement-montpellier"
+type: "pilier"
 keywords: ["aide déménagement particulier montpellier", "aides financières déménagement montpellier", "prime déménagement montpellier", "subvention déménagement montpellier", "aide CAF déménagement montpellier", "aide Mobili-Pass montpellier"]
+word_count: 2513
+publish_date: "2025-01-15"
 author: "Équipe Moverz Montpellier"
-publishedAt: "2025-01-15"
 featured: true
 ---
 

@@ -1,11 +1,15 @@
 ---
 title: "Déménagement Entreprise Montpellier : Transfert Bureaux & Locaux Pro"
-description: "Spécialiste du déménagement d'entreprise à Montpellier. Transfert de bureaux, locaux commerciaux et archives avec planification, coordination et sécurité pour assurer la continuité de votre activité. Devis gratuit."
+meta_title: "Déménagement Entreprise Montpellier : Transfert Bureaux & Locaux Pro"
+meta_description: "Spécialiste du déménagement d'entreprise à Montpellier. Transfert de bureaux, locaux commerciaux et archives avec planification, coordination et sécurité pour assurer la continuité de votre activité. Devis gratuit."
+h1: "Déménagement Entreprise Montpellier : Transfert Bureaux & Locaux Pro"
 slug: "demenagement-entreprise-montpellier"
 category: "demenagement-montpellier"
+type: "pilier"
 keywords: ["déménagement entreprise montpellier", "transfert entreprise montpellier", "déménagement bureaux montpellier", "déménageur professionnel montpellier", "déménagement local commercial montpellier", "coût déménagement entreprise montpellier"]
+word_count: 2658
+publish_date: "2025-01-15"
 author: "Équipe Moverz Montpellier"
-publishedAt: "2025-01-15"
 featured: true
 ---
 

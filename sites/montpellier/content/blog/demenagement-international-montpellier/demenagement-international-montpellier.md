@@ -1,11 +1,15 @@
 ---
 title: "Déménagement International Montpellier : Guide, Services & Devis"
-description: "Déménagez à l'étranger depuis ou vers Montpellier en toute sérénité. Guide complet sur les formalités, transports (maritime, aérien) et demandez votre devis expert."
+meta_title: "Déménagement International Montpellier : Guide, Services & Devis"
+meta_description: "Déménagez à l'étranger depuis ou vers Montpellier en toute sérénité. Guide complet sur les formalités, transports (maritime, aérien) et demandez votre devis expert."
+h1: "Déménagement International Montpellier : Guide, Services & Devis"
 slug: "demenagement-international-montpellier"
 category: "demenagement-montpellier"
+type: "pilier"
 keywords: ["déménagement international montpellier", "déménageur international montpellier", "déménager étranger montpellier", "coût déménagement international", "formalités douanières déménagement", "transport mobilier international montpellier"]
+word_count: 2447
+publish_date: "2025-01-15"
 author: "Équipe Moverz Montpellier"
-publishedAt: "2025-01-15"
 featured: true
 ---
 

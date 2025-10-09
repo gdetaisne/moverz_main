@@ -1,11 +1,15 @@
 ---
 title: "Déménageur Montpellier : Entreprise Professionnelle & Devis Gratuit"
-description: "Votre déménageur expert à Montpellier ! Services complets pour particuliers et entreprises. Obtenez un devis gratuit pour un déménagement local, international, ou un transport d'objets lourds."
+meta_title: "Déménageur Montpellier : Entreprise Professionnelle & Devis Gratuit"
+meta_description: "Votre déménageur expert à Montpellier ! Services complets pour particuliers et entreprises. Obtenez un devis gratuit pour un déménagement local, international, ou un transport d'objets lourds."
+h1: "Déménageur Montpellier : Entreprise Professionnelle & Devis Gratuit"
 slug: "demenageur-montpellier"
 category: "demenagement-montpellier"
+type: "pilier"
 keywords: ["demenageur montpellier", "demenageurs montpellier", "entreprise déménagement montpellier", "devis déménagement montpellier", "professionnel déménagement montpellier", "service déménagement montpellier", "déménagement montpellier"]
+word_count: 4530
+publish_date: "2025-01-15"
 author: "Équipe Moverz Montpellier"
-publishedAt: "2025-01-15"
 featured: true
 ---
 

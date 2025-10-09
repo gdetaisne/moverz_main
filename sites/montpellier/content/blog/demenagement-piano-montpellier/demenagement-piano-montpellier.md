@@ -1,11 +1,15 @@
 ---
 title: "Déménagement Piano Montpellier : Transport Spécialisé & Sécurisé"
-description: "Confiez le déménagement de votre piano (droit ou queue) à nos experts à Montpellier. Service spécialisé, matériel adapté et devis gratuit pour un transport en toute sécurité."
+meta_title: "Déménagement Piano Montpellier : Transport Spécialisé & Sécurisé"
+meta_description: "Confiez le déménagement de votre piano (droit ou queue) à nos experts à Montpellier. Service spécialisé, matériel adapté et devis gratuit pour un transport en toute sécurité."
+h1: "Déménagement Piano Montpellier : Transport Spécialisé & Sécurisé"
 slug: "demenagement-piano-montpellier"
 category: "demenagement-montpellier"
+type: "pilier"
 keywords: ["déménagement piano montpellier", "transport piano montpellier", "déménageur piano montpellier", "prix déménagement piano montpellier", "déplacer piano droit montpellier", "transporter piano queue montpellier", "spécialiste déménagement piano"]
+word_count: 5075
+publish_date: "2025-01-15"
 author: "Équipe Moverz Montpellier"
-publishedAt: "2025-01-15"
 featured: true
 ---
 

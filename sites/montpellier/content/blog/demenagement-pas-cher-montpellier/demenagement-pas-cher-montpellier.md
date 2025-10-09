@@ -1,11 +1,15 @@
 ---
 title: "Déménagement Pas Cher Montpellier : Guide & Astuces Économiques"
-description: "Déménagez à Montpellier sans vous ruiner ! Découvrez nos astuces, comparatifs et solutions (DIY, groupage, déménageurs économiques) pour un déménagement réussi à petit prix."
+meta_title: "Déménagement Pas Cher Montpellier : Guide & Astuces Économiques"
+meta_description: "Déménagez à Montpellier sans vous ruiner ! Découvrez nos astuces, comparatifs et solutions (DIY, groupage, déménageurs économiques) pour un déménagement réussi à petit prix."
+h1: "Déménagement Pas Cher Montpellier : Guide & Astuces Économiques"
 slug: "demenagement-pas-cher-montpellier"
 category: "demenagement-montpellier"
+type: "pilier"
 keywords: ["déménagement pas cher montpellier", "déménageur économique montpellier", "prix déménagement montpellier", "coût déménagement montpellier", "petit budget déménagement montpellier", "louer utilitaire déménagement montpellier", "déménagement groupage montpellier"]
+word_count: 5085
+publish_date: "2025-01-15"
 author: "Équipe Moverz Montpellier"
-publishedAt: "2025-01-15"
 featured: true
 ---
 

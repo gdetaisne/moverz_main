@@ -1,11 +1,15 @@
 ---
 title: "Petit Déménagement Montpellier : Solutions Économiques & Rapides"
-description: "Votre petit déménagement à Montpellier (studio, quelques meubles) devient simple et économique ! Découvrez nos solutions (location utilitaire, déménageur spécialisé) et demandez un devis rapide."
+meta_title: "Petit Déménagement Montpellier : Solutions Économiques & Rapides"
+meta_description: "Votre petit déménagement à Montpellier (studio, quelques meubles) devient simple et économique ! Découvrez nos solutions (location utilitaire, déménageur spécialisé) et demandez un devis rapide."
+h1: "Petit Déménagement Montpellier : Solutions Économiques & Rapides"
 slug: "petit-demenagement-montpellier"
 category: "demenagement-montpellier"
+type: "satellite"
 keywords: ["petit déménagement montpellier", "déménagement étudiant montpellier", "transport meuble montpellier", "déménager quelques meubles montpellier", "déménagement petit volume montpellier", "prix petit déménagement montpellier"]
+word_count: 3797
+publish_date: "2025-01-15"
 author: "Équipe Moverz Montpellier"
-publishedAt: "2025-01-15"
 featured: true
 ---
 
