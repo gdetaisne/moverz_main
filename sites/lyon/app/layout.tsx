@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   },
   description:
     "30 minutes pour votre dossier → 5 devis personnalisés sous 7 jours. Estimation volumétrique à partir de photos, tarifs clairs, conseils locaux.",
-  metadataBase: new URL("https://www.devis-demenageur-lyon.fr"),
+  metadataBase: new URL("https://devis-demenageur-lyon.fr"),
   robots: {
     index: true,
     follow: true,
@@ -29,13 +29,13 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'fr_FR',
-    url: 'https://www.lyon-demenageur.fr',
+    url: 'https://devis-demenageur-lyon.fr',
     siteName: 'Déménageurs lyon (IA)',
     title: 'Déménageurs lyon (IA) - 5 devis sous 7 jours',
     description: '30 minutes pour votre dossier → 5 devis personnalisés sous 7 jours. Estimation volumétrique à partir de photos, tarifs clairs, conseils locaux.',
     images: [
       {
-        url: 'https://www.lyon-demenageur.fr/og-image.jpg',
+        url: 'https://devis-demenageur-lyon.fr/og-image.jpg',
         width: 1200,
         height: 630,
         alt: 'Déménageurs lyon (IA) - Devis IA',
@@ -46,10 +46,10 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Déménageurs lyon (IA) - 5 devis sous 7 jours',
     description: '30 minutes pour votre dossier → 5 devis personnalisés sous 7 jours. Estimation volumétrique à partir de photos, tarifs clairs, conseils locaux.',
-    images: ['https://www.lyon-demenageur.fr/og-image.jpg'],
+    images: ['https://devis-demenageur-lyon.fr/og-image.jpg'],
   },
   alternates: {
-    canonical: 'https://www.devis-demenageur-lyon.fr',
+    canonical: 'https://devis-demenageur-lyon.fr',
   },
 };
 
