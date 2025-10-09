@@ -68,12 +68,12 @@ export default function RootLayout({
   return (
     <html lang="fr" className="h-full">
       <head>
-        <StructuredData />
         <link rel="manifest" href="/manifest.json" />
         <link rel="icon" href="/favicon.ico" sizes="any" />
         <link rel="icon" href="/logo.svg" type="image/svg+xml" />
       </head>
-      <body className={`${inter.className} min-h-screen bg-[#04163a] text-white`}>        
+      <body className={`${inter.className} min-h-screen bg-[#04163a] text-white`}>
+        <StructuredData />
         <Header />
         <main>{children}</main>
         <Footer />
