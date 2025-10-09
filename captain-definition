@@ -1,4 +1,4 @@
 {
   "schemaVersion": 2,
-  "dockerfilePath": "./sites/lille/Dockerfile"
+  "dockerfilePath": "./sites/nice/Dockerfile"
 }
