@@ -1,33 +1,49 @@
+
+!.env.example
+# --- Moverz canonical ignore ---
+# Backups
+# Build outputs
+# Cache
 # Dependencies
-**/node_modules/
-**/.pnp
-**/.pnp.js
-
-# Next.js
-**/.next/
-**/out/
-
-# Production
-**/build
-**/.vercel
-**/.netlify
-
+# Editor
+# Env / tooling
 # Environment
+# IDEs
+# Logs
+# Next.js
+# Node/Next
+# OS
+# Production
+**/.DS_Store
 **/.env*.local
 **/.env.production
-
-# Logs
-*.log
-/tmp/*.log
-
-# OS
-.DS_Store
-**/.DS_Store
-
-# IDEs
-.vscode/
-.idea/
-*.backup
-
-# Cache
+**/.netlify
+**/.next/
 **/.next/cache/
+**/.pnp
+**/.pnp.js
+**/.vercel
+**/build
+**/node_modules/
+**/out/
+*.backup
+*.log
+.DS_Store
+.cache/
+.cursor/
+.cursorrules
+.env
+.env.*
+.idea/
+.next/
+.turbo/
+.vscode/
+/tmp/*.log
+backup_*.tar.gz
+coverage/
+dist/
+node_modules/
+npm-debug.log*
+out/
+pnpm-debug.log*
+yarn-error.log*
