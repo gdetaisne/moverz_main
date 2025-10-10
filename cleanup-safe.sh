@@ -9,6 +9,11 @@ BACKUP_TAR="backup_cleanup_$(date +%Y-%m-%d_%H%M%S).tar.gz"
 DOCS_DIR="docs"
 SCRIPTS_DIR="scripts"
 DRY_RUN="${DO_CLEAN:-0}"
+
+# Variables globales pour les fichiers à traiter
+declare -a PURGE_DIRS
+declare -a ROOT_DOCS
+declare -a ROOT_SCRIPTS
 # ==============================
 
 say() { printf "\033[1;36m%s\033[0m\n" "$*"; }
@@ -29,11 +34,6 @@ require_git_clean_or_stash() {
 detect_branch() {
   current="$(git rev-parse --abbrev-ref HEAD)"
   say "🌿 Branche courante : ${current}"
-  if [ "$current" != "$BRANCH_BASE" ]; then
-    warn "↪️  Je me place sur ${BRANCH_BASE} (pull --ff-only)."
-    git checkout "$BRANCH_BASE" >/dev/null
-  fi
-  git pull --ff-only >/dev/null || true
 }
 
 plan_find() {
@@ -73,58 +73,8 @@ plan_find() {
   echo "${#PURGE_DIRS[@]}|${#ROOT_DOCS[@]}|${#ROOT_SCRIPTS[@]}"
 }
 
-make_backup() {
-  say "🛟 Backup : tag ${BACKUP_TAG} + archive ${BACKUP_TAR}"
-  git tag -a "${BACKUP_TAG}" -m "Backup before cleanup"
-  tar --exclude="./**/.next" --exclude="./**/node_modules" --exclude="./**/.turbo" -czf "${BACKUP_TAR}" .
-}
-
-create_branch() {
-  say "🌱 Nouvelle branche : ${NEW_BRANCH}"
-  git checkout -b "${NEW_BRANCH}" >/dev/null
-}
-
 ensure_dirs() {
   mkdir -p "${DOCS_DIR}/archives" "${SCRIPTS_DIR}/"{audit,deploy,fix,generate}
-}
-
-merge_gitignore() {
-  say "🧾 Mise à jour .gitignore"
-  cat > .gitignore.clean.$$ << 'EOF'
-# --- Moverz canonical ignore ---
-# Node/Next
-node_modules/
-.next/
-.turbo/
-dist/
-coverage/
-.cache/
-# Env / tooling
-.env
-.env.*
-!.env.example
-.DS_Store
-.cursorrules
-.cursor/
-# Logs
-npm-debug.log*
-yarn-error.log*
-pnpm-debug.log*
-# Build outputs
-out/
-# Editor
-.vscode/
-.idea/
-# Backups
-backup_*.tar.gz
-EOF
-  if [ -f .gitignore ]; then
-    sort -u <(cat .gitignore .gitignore.clean.$$) > .gitignore.merged.$$
-    mv .gitignore.merged.$$ .gitignore
-    rm -f .gitignore.clean.$$
-  else
-    mv .gitignore.clean.$$ .gitignore
-  fi
 }
 
 move_docs() {
@@ -220,41 +170,19 @@ commit_if_changes() {
 }
 
 # ---------- MAIN ----------
-say "🔎 Analyse du projet Moverz…"
-require_git_clean_or_stash
+say "🔎 Analyse du projet Moverz (continuation)…"
 detect_branch
-read CNT_PURGE CNT_DOCS CNT_SCRIPTS < <(plan_find | awk -F"|" '{print $1, $2, $3}')
+plan_find >/dev/null  # Remplit les variables globales
 
-say "📊 Récap (dry-run=${DRY_RUN})"
-printf "  • Dossiers caches détectés : %d\n" "${CNT_PURGE}"
-printf "  • Docs .md à déplacer      : %d\n" "${CNT_DOCS}"
-printf "  • Scripts à ranger         : %d\n" "${CNT_SCRIPTS}"
-
-if [ "$DRY_RUN" -eq 0 ]; then
-  warn ""
-  warn "📋 DRY-RUN TERMINÉ"
-  warn ""
-  warn "Actions prévues :"
-  warn "  1. Tag Git : ${BACKUP_TAG}"
-  warn "  2. Archive : ${BACKUP_TAR}"
-  warn "  3. Branche : ${NEW_BRANCH}"
-  warn "  4. Déplacer ${CNT_DOCS} docs → docs/archives/"
-  warn "  5. Ranger ${CNT_SCRIPTS} scripts → scripts/*/"
-  warn "  6. Purger ~${CNT_PURGE} dossiers caches"
-  warn "  7. Normaliser .gitignore"
-  warn ""
-  warn "Pour appliquer : DO_CLEAN=1 bash cleanup-safe.sh"
-  exit 0
-fi
+say "📊 Stats"
+printf "  • Docs à déplacer      : %d\n" "${#ROOT_DOCS[@]}"
+printf "  • Scripts à ranger     : %d\n" "${#ROOT_SCRIPTS[@]}"
 
 say ""
-say "🚀 EXÉCUTION RÉELLE"
+say "🚀 CONTINUATION DU NETTOYAGE"
 say ""
-make_backup
-create_branch
+
 ensure_dirs
-merge_gitignore
-commit_if_changes "chore(repo): normalize .gitignore (canonical ignores)"
 
 moved_docs=$(move_docs)
 commit_if_changes "docs(repo): consolidate ${moved_docs} docs into docs/ (+index)"
@@ -268,17 +196,8 @@ say "🧩 Fin de purge caches (non commitée)."
 say ""
 say "✅ NETTOYAGE TERMINÉ"
 say ""
-say "🔐 Tag backup   : ${BACKUP_TAG}"
-say "📦 Archive      : ${BACKUP_TAR}"
-say "🌿 Branche      : ${NEW_BRANCH}"
-say ""
 say "📝 Prochaines étapes :"
-say "  1. Review les changements : git log --oneline"
+say "  1. Review les changements : git log --oneline -5"
 say "  2. Vérifier : git status"
-say "  3. Push : git push origin ${NEW_BRANCH}"
+say "  3. Push : git push origin chore/cleanup-2025-10-11"
 say ""
-say "🔄 Pour revenir en arrière :"
-say "  git checkout main && git branch -D ${NEW_BRANCH}"
-say "  git tag -d ${BACKUP_TAG}"
-say ""
-
