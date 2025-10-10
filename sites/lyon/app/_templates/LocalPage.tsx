@@ -37,8 +37,19 @@ interface LocalPageProps {
 
 export function generateLocalPageMetadata(zone: string, zoneDisplay: string): Metadata {
   return {
-    title: `Déménageur ${zoneDisplay} — Comparez des devis fiables | Moverz`,
-    description: `Préparez votre dossier en 30 min. Au moins 3 devis personnalisés sous 7 jours pour ${zoneDisplay} (lyon).`,
+    title: `Déménagement ${zoneDisplay} Lyon - Tarifs & Devis Gratuit | Moverz`,
+    description: `Déménageur local ${zoneDisplay} à Lyon : tarifs détaillés, disponibilités immédiates. Devis personnalisé gratuit sous 7j. Équipe locale expérimentée. Réservation en ligne simple.`,
+    alternates: {
+      canonical: `https://www.devis-demenageur-lyon.fr/${zone}`,
+    },
+    openGraph: {
+      title: `Déménagement ${zoneDisplay} Lyon - Comparez des devis fiables`,
+      description: `Préparez votre dossier en 30 min. Au moins 3 devis personnalisés sous 7 jours pour ${zoneDisplay} (Lyon).`,
+      url: `https://www.devis-demenageur-lyon.fr/${zone}`,
+      type: 'website',
+    },
+  };
+} (lyon).`,
     alternates: {
       canonical: `https://www.lyon-demenageur.fr/${zone}`,
     },

@@ -37,8 +37,19 @@ interface LocalPageProps {
 
 export function generateLocalPageMetadata(zone: string, zoneDisplay: string): Metadata {
   return {
-    title: `Déménageur ${zoneDisplay} — Comparez des devis fiables | Moverz`,
-    description: `Préparez votre dossier en 30 min. Au moins 3 devis personnalisés sous 7 jours pour ${zoneDisplay} (rennes).`,
+    title: `Déménagement ${zoneDisplay} Rennes - Tarifs & Devis Gratuit | Moverz`,
+    description: `Déménageur local ${zoneDisplay} à Rennes : tarifs détaillés, disponibilités immédiates. Devis personnalisé gratuit sous 7j. Équipe locale expérimentée. Réservation en ligne simple.`,
+    alternates: {
+      canonical: `https://www.devis-demenageur-rennes.fr/${zone}`,
+    },
+    openGraph: {
+      title: `Déménagement ${zoneDisplay} Rennes - Comparez des devis fiables`,
+      description: `Préparez votre dossier en 30 min. Au moins 3 devis personnalisés sous 7 jours pour ${zoneDisplay} (Rennes).`,
+      url: `https://www.devis-demenageur-rennes.fr/${zone}`,
+      type: 'website',
+    },
+  };
+} (rennes).`,
     alternates: {
       canonical: `https://www.rennes-demenageur.fr/${zone}`,
     },

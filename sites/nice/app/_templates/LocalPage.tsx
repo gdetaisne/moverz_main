@@ -37,8 +37,19 @@ interface LocalPageProps {
 
 export function generateLocalPageMetadata(zone: string, zoneDisplay: string): Metadata {
   return {
-    title: `Déménageur ${zoneDisplay} — Comparez des devis fiables | Moverz`,
-    description: `Préparez votre dossier en 30 min. Au moins 3 devis personnalisés sous 7 jours pour ${zoneDisplay} (nice).`,
+    title: `Déménagement ${zoneDisplay} Nice - Tarifs & Devis Gratuit | Moverz`,
+    description: `Déménageur local ${zoneDisplay} à Nice : tarifs détaillés, disponibilités immédiates. Devis personnalisé gratuit sous 7j. Équipe locale expérimentée. Réservation en ligne simple.`,
+    alternates: {
+      canonical: `https://www.devis-demenageur-nice.fr/${zone}`,
+    },
+    openGraph: {
+      title: `Déménagement ${zoneDisplay} Nice - Comparez des devis fiables`,
+      description: `Préparez votre dossier en 30 min. Au moins 3 devis personnalisés sous 7 jours pour ${zoneDisplay} (Nice).`,
+      url: `https://www.devis-demenageur-nice.fr/${zone}`,
+      type: 'website',
+    },
+  };
+} (nice).`,
     alternates: {
       canonical: `https://www.nice-demenageur.fr/${zone}`,
     },

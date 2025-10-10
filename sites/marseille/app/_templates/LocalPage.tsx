@@ -37,8 +37,19 @@ interface LocalPageProps {
 
 export function generateLocalPageMetadata(zone: string, zoneDisplay: string): Metadata {
   return {
-    title: `Déménageur ${zoneDisplay} — Comparez des devis fiables | Moverz`,
-    description: `Préparez votre dossier en 30 min. Au moins 3 devis personnalisés sous 7 jours pour ${zoneDisplay} (marseille).`,
+    title: `Déménagement ${zoneDisplay} Marseille - Tarifs & Devis Gratuit | Moverz`,
+    description: `Déménageur local ${zoneDisplay} à Marseille : tarifs détaillés, disponibilités immédiates. Devis personnalisé gratuit sous 7j. Équipe locale expérimentée. Réservation en ligne simple.`,
+    alternates: {
+      canonical: `https://www.devis-demenageur-marseille.fr/${zone}`,
+    },
+    openGraph: {
+      title: `Déménagement ${zoneDisplay} Marseille - Comparez des devis fiables`,
+      description: `Préparez votre dossier en 30 min. Au moins 3 devis personnalisés sous 7 jours pour ${zoneDisplay} (Marseille).`,
+      url: `https://www.devis-demenageur-marseille.fr/${zone}`,
+      type: 'website',
+    },
+  };
+} (marseille).`,
     alternates: {
       canonical: `https://www.marseille-demenageur.fr/${zone}`,
     },

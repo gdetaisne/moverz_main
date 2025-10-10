@@ -37,8 +37,19 @@ interface LocalPageProps {
 
 export function generateLocalPageMetadata(zone: string, zoneDisplay: string): Metadata {
   return {
-    title: `Déménageur ${zoneDisplay} — Comparez des devis fiables | Moverz`,
-    description: `Préparez votre dossier en 30 min. Au moins 3 devis personnalisés sous 7 jours pour ${zoneDisplay} (strasbourg).`,
+    title: `Déménagement ${zoneDisplay} Strasbourg - Tarifs & Devis Gratuit | Moverz`,
+    description: `Déménageur local ${zoneDisplay} à Strasbourg : tarifs détaillés, disponibilités immédiates. Devis personnalisé gratuit sous 7j. Équipe locale expérimentée. Réservation en ligne simple.`,
+    alternates: {
+      canonical: `https://www.devis-demenageur-strasbourg.fr/${zone}`,
+    },
+    openGraph: {
+      title: `Déménagement ${zoneDisplay} Strasbourg - Comparez des devis fiables`,
+      description: `Préparez votre dossier en 30 min. Au moins 3 devis personnalisés sous 7 jours pour ${zoneDisplay} (Strasbourg).`,
+      url: `https://www.devis-demenageur-strasbourg.fr/${zone}`,
+      type: 'website',
+    },
+  };
+} (strasbourg).`,
     alternates: {
       canonical: `https://www.strasbourg-demenageur.fr/${zone}`,
     },

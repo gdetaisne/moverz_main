@@ -53,7 +53,7 @@ function cleanSlug(originalSlug: string, category: string): string {
   let cleanSlug = originalSlug;
   
   // Patterns de nettoyage spécifiques (ordre important!)
-  const cleanPatterns = [
+    const cleanPatterns = [
     // D'abord, retirer les préfixes de catégorie complets
     { from: /^demenagement-etudiant-bordeaux-/, to: '' },
     { from: /^demenagement-entreprise-bordeaux-/, to: '' },
@@ -79,9 +79,9 @@ function cleanSlug(originalSlug: string, category: string): string {
     { from: /-bordeaux-/, to: '-' },
     // Retirer "-bordeaux" en fin
     { from: /-bordeaux$/, to: '' },
-    // Retirer les doublons et simplifications
+    // Simplifications uniformes
     { from: /-guide-complet$/, to: '-guide' },
-    { from: /-reperes-2025$/, to: '-2025' }
+    { from: /-reperes-2025$/, to: '' },  // Retirer complètement pour éviter duplicates
   ];
 
   cleanPatterns.forEach(pattern => {

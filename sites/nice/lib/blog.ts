@@ -53,35 +53,35 @@ function cleanSlug(originalSlug: string, category: string): string {
   let cleanSlug = originalSlug;
   
   // Patterns de nettoyage spécifiques (ordre important!)
-  const cleanPatterns = [
+    const cleanPatterns = [
     // D'abord, retirer les préfixes de catégorie complets
-    { from: /^demenagement-etudiant-nice-/, to: '' },
-    { from: /^demenagement-entreprise-nice-/, to: '' },
-    { from: /^demenagement-piano-nice-/, to: '' },
-    { from: /^demenagement-international-nice-/, to: '' },
-    { from: /^demenagement-longue-distance-nice-/, to: '' },
-    { from: /^demenagement-pas-cher-nice-/, to: '' },
-    { from: /^demenagement-urgent-nice-/, to: '' },
-    { from: /^devis-demenagement-nice-/, to: '' },
-    { from: /^garde-meuble-nice-/, to: '' },
-    { from: /^prix-demenagement-nice-/, to: '' },
-    { from: /^prix-demenagement-piano-nice-/, to: '' },
-    { from: /^prix-garde-meuble-nice-/, to: '' },
+    { from: /^demenagement-etudiant-bordeaux-/, to: '' },
+    { from: /^demenagement-entreprise-bordeaux-/, to: '' },
+    { from: /^demenagement-piano-bordeaux-/, to: '' },
+    { from: /^demenagement-international-bordeaux-/, to: '' },
+    { from: /^demenagement-longue-distance-bordeaux-/, to: '' },
+    { from: /^demenagement-pas-cher-bordeaux-/, to: '' },
+    { from: /^demenagement-urgent-bordeaux-/, to: '' },
+    { from: /^devis-demenagement-bordeaux-/, to: '' },
+    { from: /^garde-meuble-bordeaux-/, to: '' },
+    { from: /^prix-demenagement-bordeaux-/, to: '' },
+    { from: /^prix-demenagement-piano-bordeaux-/, to: '' },
+    { from: /^prix-garde-meuble-bordeaux-/, to: '' },
     // Ensuite, retirer les patterns partiels en début
-    { from: /^stockage-etudiant-nice/, to: 'stockage-etudiant' },
-    { from: /^cartons-gratuits-nice/, to: 'cartons-gratuits' },
-    { from: /^camion-demenagement-etudiant-nice/, to: 'camion-demenagement-etudiant' },
-    { from: /^assurance-demenagement-international-nice/, to: 'assurance-demenagement-international' },
-    { from: /^prix-demenagement-international-nice/, to: 'prix-demenagement-international' },
-    { from: /^emballage-demenagement-international-nice/, to: 'emballage-demenagement-international' },
-    { from: /^formalites-douanieres-demenagement-international-nice/, to: 'formalites-douanieres-demenagement-international' },
-    // Retirer "-nice" en milieu de slug
-    { from: /-nice-/, to: '-' },
-    // Retirer "-nice" en fin
-    { from: /-nice$/, to: '' },
-    // Retirer les doublons et simplifications
+    { from: /^stockage-etudiant-bordeaux/, to: 'stockage-etudiant' },
+    { from: /^cartons-gratuits-bordeaux/, to: 'cartons-gratuits' },
+    { from: /^camion-demenagement-etudiant-bordeaux/, to: 'camion-demenagement-etudiant' },
+    { from: /^assurance-demenagement-international-bordeaux/, to: 'assurance-demenagement-international' },
+    { from: /^prix-demenagement-international-bordeaux/, to: 'prix-demenagement-international' },
+    { from: /^emballage-demenagement-international-bordeaux/, to: 'emballage-demenagement-international' },
+    { from: /^formalites-douanieres-demenagement-international-bordeaux/, to: 'formalites-douanieres-demenagement-international' },
+    // Retirer "-bordeaux" en milieu de slug
+    { from: /-bordeaux-/, to: '-' },
+    // Retirer "-bordeaux" en fin
+    { from: /-bordeaux$/, to: '' },
+    // Simplifications uniformes
     { from: /-guide-complet$/, to: '-guide' },
-    { from: /-reperes-2025$/, to: '-2025' }
+    { from: /-reperes-2025$/, to: '' },  // Retirer complètement pour éviter duplicates
   ];
 
   cleanPatterns.forEach(pattern => {

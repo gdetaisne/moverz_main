@@ -53,35 +53,35 @@ function cleanSlug(originalSlug: string, category: string): string {
   let cleanSlug = originalSlug;
   
   // Patterns de nettoyage spécifiques (ordre important!)
-  const cleanPatterns = [
+    const cleanPatterns = [
     // D'abord, retirer les préfixes de catégorie complets
-    { from: /^demenagement-etudiant-strasbourg-/, to: '' },
-    { from: /^demenagement-entreprise-strasbourg-/, to: '' },
-    { from: /^demenagement-piano-strasbourg-/, to: '' },
-    { from: /^demenagement-international-strasbourg-/, to: '' },
-    { from: /^demenagement-longue-distance-strasbourg-/, to: '' },
-    { from: /^demenagement-pas-cher-strasbourg-/, to: '' },
-    { from: /^demenagement-urgent-strasbourg-/, to: '' },
-    { from: /^devis-demenagement-strasbourg-/, to: '' },
-    { from: /^garde-meuble-strasbourg-/, to: '' },
-    { from: /^prix-demenagement-strasbourg-/, to: '' },
-    { from: /^prix-demenagement-piano-strasbourg-/, to: '' },
-    { from: /^prix-garde-meuble-strasbourg-/, to: '' },
+    { from: /^demenagement-etudiant-bordeaux-/, to: '' },
+    { from: /^demenagement-entreprise-bordeaux-/, to: '' },
+    { from: /^demenagement-piano-bordeaux-/, to: '' },
+    { from: /^demenagement-international-bordeaux-/, to: '' },
+    { from: /^demenagement-longue-distance-bordeaux-/, to: '' },
+    { from: /^demenagement-pas-cher-bordeaux-/, to: '' },
+    { from: /^demenagement-urgent-bordeaux-/, to: '' },
+    { from: /^devis-demenagement-bordeaux-/, to: '' },
+    { from: /^garde-meuble-bordeaux-/, to: '' },
+    { from: /^prix-demenagement-bordeaux-/, to: '' },
+    { from: /^prix-demenagement-piano-bordeaux-/, to: '' },
+    { from: /^prix-garde-meuble-bordeaux-/, to: '' },
     // Ensuite, retirer les patterns partiels en début
-    { from: /^stockage-etudiant-strasbourg/, to: 'stockage-etudiant' },
-    { from: /^cartons-gratuits-strasbourg/, to: 'cartons-gratuits' },
-    { from: /^camion-demenagement-etudiant-strasbourg/, to: 'camion-demenagement-etudiant' },
-    { from: /^assurance-demenagement-international-strasbourg/, to: 'assurance-demenagement-international' },
-    { from: /^prix-demenagement-international-strasbourg/, to: 'prix-demenagement-international' },
-    { from: /^emballage-demenagement-international-strasbourg/, to: 'emballage-demenagement-international' },
-    { from: /^formalites-douanieres-demenagement-international-strasbourg/, to: 'formalites-douanieres-demenagement-international' },
-    // Retirer "-strasbourg" en milieu de slug
-    { from: /-strasbourg-/, to: '-' },
-    // Retirer "-strasbourg" en fin
-    { from: /-strasbourg$/, to: '' },
-    // Retirer les doublons et simplifications
+    { from: /^stockage-etudiant-bordeaux/, to: 'stockage-etudiant' },
+    { from: /^cartons-gratuits-bordeaux/, to: 'cartons-gratuits' },
+    { from: /^camion-demenagement-etudiant-bordeaux/, to: 'camion-demenagement-etudiant' },
+    { from: /^assurance-demenagement-international-bordeaux/, to: 'assurance-demenagement-international' },
+    { from: /^prix-demenagement-international-bordeaux/, to: 'prix-demenagement-international' },
+    { from: /^emballage-demenagement-international-bordeaux/, to: 'emballage-demenagement-international' },
+    { from: /^formalites-douanieres-demenagement-international-bordeaux/, to: 'formalites-douanieres-demenagement-international' },
+    // Retirer "-bordeaux" en milieu de slug
+    { from: /-bordeaux-/, to: '-' },
+    // Retirer "-bordeaux" en fin
+    { from: /-bordeaux$/, to: '' },
+    // Simplifications uniformes
     { from: /-guide-complet$/, to: '-guide' },
-    { from: /-reperes-2025$/, to: '-2025' }
+    { from: /-reperes-2025$/, to: '' },  // Retirer complètement pour éviter duplicates
   ];
 
   cleanPatterns.forEach(pattern => {
