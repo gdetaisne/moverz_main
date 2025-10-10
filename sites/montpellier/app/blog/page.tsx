@@ -1,6 +1,22 @@
+import type { Metadata } from 'next'
 import { getAllBlogPosts, getPilierPosts } from '@/lib/blog';
 import Link from 'next/link';
 import Breadcrumbs from '@/components/Breadcrumbs';
+
+export const metadata: Metadata = {
+  title: "Blog Déménagement Montpellier - Guides & Conseils Experts | Moverz",
+  description: "Guides complets et conseils d'experts pour réussir votre déménagement à Montpellier. Astuces budget, checklist, comparatifs, conseils pratiques. Articles rédigés par des professionnels.",
+  alternates: {
+    canonical: `https://www.devis-demenageur-montpellier.fr/blog`,
+  },
+  openGraph: {
+    title: "Blog Déménagement Montpellier - Tous nos guides pratiques",
+    description: "Conseils d'experts, guides détaillés et astuces pour déménager sereinement à Montpellier.",
+    url: `https://www.devis-demenageur-montpellier.fr/blog`,
+    type: 'website',
+  },
+}
+
 
 // Catégories du blog
 const blogCategories = [

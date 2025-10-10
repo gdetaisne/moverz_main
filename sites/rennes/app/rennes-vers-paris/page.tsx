@@ -12,7 +12,7 @@ const parisData = {
     {
       type: "Studio/T1",
       prix: "800-1200€",
-      description: "Volume : 10-15 m³"
+      description: "Déménagement rennes → Paris : 580 km, 6h00. Studio/T1 (10-15 m³) dès 800-1200€. Devis gratuit sous 7j. Équipe pro, emballage inclus."
     },
     {
       type: "T2/T3",

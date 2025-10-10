@@ -12,7 +12,7 @@ const toulouseData = {
     {
       type: "Studio/T1",
       prix: "400-600€",
-      description: "Volume : 10-15 m³"
+      description: "Déménagement lille → Toulouse : 245 km, 2h30. Studio/T1 (10-15 m³) dès 400-600€. Devis gratuit sous 7j. Équipe pro, emballage inclus."
     },
     {
       type: "T2/T3",

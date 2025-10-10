@@ -13,7 +13,11 @@ const corridorData = {
   tempsMoyen: "1h45-2h",
   periodeConseillee: "Toute l'année",
   prixIndicatifs: [
-    { type: "Studio/T1", prix: "450-900€", description: "Volume : 10-15 m³" },
+    {
+      type: "Studio/T1",
+      prix: "450-900€",
+      description: "Déménagement montpellier → Marseille : 660 km, 7h00. Studio/T1 (10-15 m³) dès 450-900€. Devis gratuit sous 7j. Équipe pro, emballage inclus."
+    },
     { type: "T2/T3", prix: "700-1300€", description: "Volume : 20-35 m³" },
     { type: "T4/Maison", prix: "1300-2500€", description: "Volume : 40-80 m³" }
   ],

@@ -1,0 +1,571 @@
+🚀 Démarrage de l'audit SEO global...
+
+
+🔍 Analyse de bordeaux...
+   ✅ 28 pages analysées
+
+🔍 Analyse de lille...
+   ✅ 28 pages analysées
+
+🔍 Analyse de lyon...
+   ✅ 27 pages analysées
+
+🔍 Analyse de marseille...
+   ✅ 28 pages analysées
+
+🔍 Analyse de montpellier...
+   ✅ 25 pages analysées
+
+🔍 Analyse de nantes...
+   ✅ 27 pages analysées
+
+🔍 Analyse de nice...
+   ✅ 28 pages analysées
+
+🔍 Analyse de rennes...
+   ✅ 28 pages analysées
+
+🔍 Analyse de rouen...
+   ✅ 28 pages analysées
+
+🔍 Analyse de strasbourg...
+   ✅ 28 pages analysées
+
+🔍 Analyse de toulouse...
+   ✅ 27 pages analysées
+
+
+================================================================================
+📊 RAPPORT D'AUDIT SEO GLOBAL - TOUS SITES
+================================================================================
+
+🎯 RÉSUMÉ GÉNÉRAL
+────────────────────────────────────────────────────────────────────────────────
+Total de pages analysées: 302
+Pages avec problèmes: 295
+Issues critiques: 421
+Warnings: 296
+
+
+🚨 TITLES DUPLIQUÉS (critique pour SEO)
+────────────────────────────────────────────────────────────────────────────────
+⛔ 1 titles dupliqués détectés
+
+
+1. Title: "Article non trouvé"
+   Utilisé sur 11 pages:
+   • bordeaux: /blog/[category]/[slug]
+     bordeaux/app/blog/[category]/[slug]/page.tsx
+   • lille: /blog/[category]/[slug]
+     lille/app/blog/[category]/[slug]/page.tsx
+   • lyon: /blog/[category]/[slug]
+     lyon/app/blog/[category]/[slug]/page.tsx
+   • marseille: /blog/[category]/[slug]
+     marseille/app/blog/[category]/[slug]/page.tsx
+   • montpellier: /blog/[category]/[slug]
+     montpellier/app/blog/[category]/[slug]/page.tsx
+   • nantes: /blog/[category]/[slug]
+     nantes/app/blog/[category]/[slug]/page.tsx
+   • nice: /blog/[category]/[slug]
+     nice/app/blog/[category]/[slug]/page.tsx
+   • rennes: /blog/[category]/[slug]
+     rennes/app/blog/[category]/[slug]/page.tsx
+   • rouen: /blog/[category]/[slug]
+     rouen/app/blog/[category]/[slug]/page.tsx
+   • strasbourg: /blog/[category]/[slug]
+     strasbourg/app/blog/[category]/[slug]/page.tsx
+   • toulouse: /blog/[category]/[slug]
+     toulouse/app/blog/[category]/[slug]/page.tsx
+
+
+⚠️  META DESCRIPTIONS DUPLIQUÉES
+────────────────────────────────────────────────────────────────────────────────
+⚠️  2 descriptions dupliquées détectées
+
+
+1. Description: "Volume : 10-15 m³..."
+   Utilisée sur 57 pages:
+   • bordeaux: /bordeaux-vers-espagne
+   • bordeaux: /bordeaux-vers-lyon
+   • bordeaux: /bordeaux-vers-marseille
+   • bordeaux: /bordeaux-vers-nantes
+   • bordeaux: /bordeaux-vers-paris
+   ... et 52 autres pages
+
+2. Description: "Guides et astuces pour déménager à petit budget quand on est étudiant..."
+   Utilisée sur 11 pages:
+   • bordeaux: /blog
+   • lille: /blog
+   • lyon: /blog
+   • marseille: /blog
+   • montpellier: /blog
+   ... et 6 autres pages
+
+
+📍 RAPPORT DÉTAILLÉ PAR VILLE
+────────────────────────────────────────────────────────────────────────────────
+
+BORDEAUX - 28 pages
+  Issues:
+    • Titles manquants: 18
+    • Descriptions manquantes: 12
+    • H1 non détectés: 14
+    • Titles trop courts: 7
+    • Titles trop longs: 1
+    • Descriptions trop courtes: 14
+    • Descriptions trop longues: 1
+
+  📄 Pages avec problèmes (27):
+
+    /blog/[category]/[slug]
+    Title: Article non trouvé
+    ⛔ Meta description manquante
+    ⚠️  Title trop court (18 chars): "Article non trouvé"
+
+    /blog/[category]
+    Title: ❌ MANQUANT
+    ⛔ Title manquant
+    ⛔ Meta description manquante
+
+    /blog
+    Title: ❌ MANQUANT
+    ⛔ Title manquant
+    ⚠️  Description trop courte (69 chars)
+
+    /bordeaux/bastide
+    Title: Bastide → Paris
+    ⚠️  Title trop court (15 chars): "Bastide → Paris"
+    ⚠️  Description trop courte (85 chars)
+    ⚠️  H1 non détecté (peut être dynamique)
+
+    /bordeaux/cauderan
+    Title: Caudéran → Paris
+    ⚠️  Title trop court (16 chars): "Caudéran → Paris"
+    ⚠️  Description trop courte (78 chars)
+    ⚠️  H1 non détecté (peut être dynamique)
+
+    ... et 22 autres pages avec problèmes
+
+LILLE - 28 pages
+  Issues:
+    • Titles manquants: 23
+    • Descriptions manquantes: 17
+    • H1 non détectés: 14
+    • Titles trop courts: 2
+    • Titles trop longs: 1
+    • Descriptions trop courtes: 10
+    • Descriptions trop longues: 1
+
+  📄 Pages avec problèmes (28):
+
+    /blog/[category]/[slug]
+    Title: Article non trouvé
+    ⛔ Meta description manquante
+    ⚠️  Title trop court (18 chars): "Article non trouvé"
+
+    /blog/[category]
+    Title: ❌ MANQUANT
+    ⛔ Title manquant
+    ⛔ Meta description manquante
+
+    /blog
+    Title: ❌ MANQUANT
+    ⛔ Title manquant
+    ⚠️  Description trop courte (69 chars)
+
+    /comment-ca-marche
+    Title: ❌ MANQUANT
+    ⛔ Title manquant
+    ⛔ Meta description manquante
+
+    /contact
+    Title: Contact Déménagement lille | Devis Gratuits | Moverz
+    ⚠️  Description trop courte (102 chars)
+
+    ... et 23 autres pages avec problèmes
+
+LYON - 27 pages
+  Issues:
+    • Titles manquants: 22
+    • Descriptions manquantes: 17
+    • H1 non détectés: 13
+    • Titles trop courts: 2
+    • Titles trop longs: 1
+    • Descriptions trop courtes: 10
+    • Descriptions trop longues: 0
+
+  📄 Pages avec problèmes (27):
+
+    /blog/[category]/[slug]
+    Title: Article non trouvé
+    ⛔ Meta description manquante
+    ⚠️  Title trop court (18 chars): "Article non trouvé"
+
+    /blog/[category]
+    Title: ❌ MANQUANT
+    ⛔ Title manquant
+    ⛔ Meta description manquante
+
+    /blog
+    Title: ❌ MANQUANT
+    ⛔ Title manquant
+    ⚠️  Description trop courte (69 chars)
+
+    /comment-ca-marche
+    Title: ❌ MANQUANT
+    ⛔ Title manquant
+    ⛔ Meta description manquante
+
+    /contact
+    Title: Contact Déménagement lyon | Devis Gratuits | Moverz
+    ⚠️  Description trop courte (101 chars)
+
+    ... et 22 autres pages avec problèmes
+
+MARSEILLE - 28 pages
+  Issues:
+    • Titles manquants: 23
+    • Descriptions manquantes: 17
+    • H1 non détectés: 14
+    • Titles trop courts: 2
+    • Titles trop longs: 1
+    • Descriptions trop courtes: 9
+    • Descriptions trop longues: 1
+
+  📄 Pages avec problèmes (27):
+
+    /blog/[category]/[slug]
+    Title: Article non trouvé
+    ⛔ Meta description manquante
+    ⚠️  Title trop court (18 chars): "Article non trouvé"
+
+    /blog/[category]
+    Title: ❌ MANQUANT
+    ⛔ Title manquant
+    ⛔ Meta description manquante
+
+    /blog
+    Title: ❌ MANQUANT
+    ⛔ Title manquant
+    ⚠️  Description trop courte (69 chars)
+
+    /bordeaux-vers-marseille
+    Title: ❌ MANQUANT
+    ⛔ Title manquant
+    ⚠️  Description trop courte (17 chars)
+    ⚠️  H1 non détecté (peut être dynamique)
+
+    /comment-ca-marche
+    Title: ❌ MANQUANT
+    ⛔ Title manquant
+    ⛔ Meta description manquante
+
+    ... et 22 autres pages avec problèmes
+
+MONTPELLIER - 25 pages
+  Issues:
+    • Titles manquants: 17
+    • Descriptions manquantes: 17
+    • H1 non détectés: 11
+    • Titles trop courts: 2
+    • Titles trop longs: 0
+    • Descriptions trop courtes: 3
+    • Descriptions trop longues: 2
+
+  📄 Pages avec problèmes (24):
+
+    /blog/[category]/[slug]
+    Title: Article non trouvé
+    ⛔ Meta description manquante
+    ⚠️  Title trop court (18 chars): "Article non trouvé"
+
+    /blog/[category]
+    Title: ❌ MANQUANT
+    ⛔ Title manquant
+    ⛔ Meta description manquante
+
+    /blog
+    Title: ❌ MANQUANT
+    ⛔ Title manquant
+    ⚠️  Description trop courte (69 chars)
+
+    /comment-ca-marche
+    Title: ❌ MANQUANT
+    ⛔ Title manquant
+    ⛔ Meta description manquante
+
+    /contact
+    Title: Contact Déménagement Montpellier | Devis Gratuits | Moverz
+    ⚠️  Description trop courte (108 chars)
+
+    ... et 19 autres pages avec problèmes
+
+NANTES - 27 pages
+  Issues:
+    • Titles manquants: 22
+    • Descriptions manquantes: 17
+    • H1 non détectés: 13
+    • Titles trop courts: 2
+    • Titles trop longs: 1
+    • Descriptions trop courtes: 8
+    • Descriptions trop longues: 1
+
+  📄 Pages avec problèmes (26):
+
+    /blog/[category]/[slug]
+    Title: Article non trouvé
+    ⛔ Meta description manquante
+    ⚠️  Title trop court (18 chars): "Article non trouvé"
+
+    /blog/[category]
+    Title: ❌ MANQUANT
+    ⛔ Title manquant
+    ⛔ Meta description manquante
+
+    /blog
+    Title: ❌ MANQUANT
+    ⛔ Title manquant
+    ⚠️  Description trop courte (69 chars)
+
+    /comment-ca-marche
+    Title: ❌ MANQUANT
+    ⛔ Title manquant
+    ⛔ Meta description manquante
+
+    /contact
+    Title: Contact Déménagement nantes | Devis Gratuits | Moverz
+    ⚠️  Description trop courte (103 chars)
+
+    ... et 21 autres pages avec problèmes
+
+NICE - 28 pages
+  Issues:
+    • Titles manquants: 23
+    • Descriptions manquantes: 17
+    • H1 non détectés: 14
+    • Titles trop courts: 2
+    • Titles trop longs: 1
+    • Descriptions trop courtes: 10
+    • Descriptions trop longues: 1
+
+  📄 Pages avec problèmes (28):
+
+    /blog/[category]/[slug]
+    Title: Article non trouvé
+    ⛔ Meta description manquante
+    ⚠️  Title trop court (18 chars): "Article non trouvé"
+
+    /blog/[category]
+    Title: ❌ MANQUANT
+    ⛔ Title manquant
+    ⛔ Meta description manquante
+
+    /blog
+    Title: ❌ MANQUANT
+    ⛔ Title manquant
+    ⚠️  Description trop courte (69 chars)
+
+    /comment-ca-marche
+    Title: ❌ MANQUANT
+    ⛔ Title manquant
+    ⛔ Meta description manquante
+
+    /contact
+    Title: Contact Déménagement nice | Devis Gratuits | Moverz
+    ⚠️  Description trop courte (101 chars)
+
+    ... et 23 autres pages avec problèmes
+
+RENNES - 28 pages
+  Issues:
+    • Titles manquants: 23
+    • Descriptions manquantes: 17
+    • H1 non détectés: 14
+    • Titles trop courts: 2
+    • Titles trop longs: 1
+    • Descriptions trop courtes: 9
+    • Descriptions trop longues: 1
+
+  📄 Pages avec problèmes (27):
+
+    /blog/[category]/[slug]
+    Title: Article non trouvé
+    ⛔ Meta description manquante
+    ⚠️  Title trop court (18 chars): "Article non trouvé"
+
+    /blog/[category]
+    Title: ❌ MANQUANT
+    ⛔ Title manquant
+    ⛔ Meta description manquante
+
+    /blog
+    Title: ❌ MANQUANT
+    ⛔ Title manquant
+    ⚠️  Description trop courte (69 chars)
+
+    /comment-ca-marche
+    Title: ❌ MANQUANT
+    ⛔ Title manquant
+    ⛔ Meta description manquante
+
+    /contact
+    Title: Contact Déménagement rennes | Devis Gratuits | Moverz
+    ⚠️  Description trop courte (103 chars)
+
+    ... et 22 autres pages avec problèmes
+
+ROUEN - 28 pages
+  Issues:
+    • Titles manquants: 23
+    • Descriptions manquantes: 17
+    • H1 non détectés: 14
+    • Titles trop courts: 2
+    • Titles trop longs: 1
+    • Descriptions trop courtes: 10
+    • Descriptions trop longues: 1
+
+  📄 Pages avec problèmes (28):
+
+    /blog/[category]/[slug]
+    Title: Article non trouvé
+    ⛔ Meta description manquante
+    ⚠️  Title trop court (18 chars): "Article non trouvé"
+
+    /blog/[category]
+    Title: ❌ MANQUANT
+    ⛔ Title manquant
+    ⛔ Meta description manquante
+
+    /blog
+    Title: ❌ MANQUANT
+    ⛔ Title manquant
+    ⚠️  Description trop courte (69 chars)
+
+    /comment-ca-marche
+    Title: ❌ MANQUANT
+    ⛔ Title manquant
+    ⛔ Meta description manquante
+
+    /contact
+    Title: Contact Déménagement rouen | Devis Gratuits | Moverz
+    ⚠️  Description trop courte (102 chars)
+
+    ... et 23 autres pages avec problèmes
+
+STRASBOURG - 28 pages
+  Issues:
+    • Titles manquants: 23
+    • Descriptions manquantes: 17
+    • H1 non détectés: 14
+    • Titles trop courts: 2
+    • Titles trop longs: 1
+    • Descriptions trop courtes: 9
+    • Descriptions trop longues: 1
+
+  📄 Pages avec problèmes (27):
+
+    /blog/[category]/[slug]
+    Title: Article non trouvé
+    ⛔ Meta description manquante
+    ⚠️  Title trop court (18 chars): "Article non trouvé"
+
+    /blog/[category]
+    Title: ❌ MANQUANT
+    ⛔ Title manquant
+    ⛔ Meta description manquante
+
+    /blog
+    Title: ❌ MANQUANT
+    ⛔ Title manquant
+    ⚠️  Description trop courte (69 chars)
+
+    /comment-ca-marche
+    Title: ❌ MANQUANT
+    ⛔ Title manquant
+    ⛔ Meta description manquante
+
+    /contact
+    Title: Contact Déménagement strasbourg | Devis Gratuits | Moverz
+    ⚠️  Description trop courte (107 chars)
+
+    ... et 22 autres pages avec problèmes
+
+TOULOUSE - 27 pages
+  Issues:
+    • Titles manquants: 22
+    • Descriptions manquantes: 17
+    • H1 non détectés: 13
+    • Titles trop courts: 2
+    • Titles trop longs: 1
+    • Descriptions trop courtes: 8
+    • Descriptions trop longues: 1
+
+  📄 Pages avec problèmes (26):
+
+    /blog/[category]/[slug]
+    Title: Article non trouvé
+    ⛔ Meta description manquante
+    ⚠️  Title trop court (18 chars): "Article non trouvé"
+
+    /blog/[category]
+    Title: ❌ MANQUANT
+    ⛔ Title manquant
+    ⛔ Meta description manquante
+
+    /blog
+    Title: ❌ MANQUANT
+    ⛔ Title manquant
+    ⚠️  Description trop courte (69 chars)
+
+    /comment-ca-marche
+    Title: ❌ MANQUANT
+    ⛔ Title manquant
+    ⛔ Meta description manquante
+
+    /contact
+    Title: Contact Déménagement toulouse | Devis Gratuits | Moverz
+    ⚠️  Description trop courte (105 chars)
+
+    ... et 21 autres pages avec problèmes
+
+
+💡 RECOMMANDATIONS PRIORITAIRES
+────────────────────────────────────────────────────────────────────────────────
+1. 🚨 CRITIQUE: Corriger tous les titles dupliqués
+   Chaque page doit avoir un title unique et descriptif.
+   → 1 titles à corriger
+
+2. ⚠️  IMPORTANT: Corriger les descriptions dupliquées
+   Chaque page devrait avoir une description unique.
+   → 2 descriptions à corriger
+
+3. 🚨 CRITIQUE: Ajouter les titles manquants
+   → 239 pages sans title
+
+4. ⚠️  IMPORTANT: Ajouter les descriptions manquantes
+   → 182 pages sans description
+
+
+================================================================================
+📝 Rapport complet sauvegardé dans: AUDIT_SEO_RAPPORT.json
+================================================================================
+
+✅ Fichiers générés:
+   • AUDIT_SEO_RAPPORT.json (données complètes)
+   • AUDIT_SEO_DUPLICATES.csv (pour Excel/Google Sheets)
+/Users/guillaumestehelin/moverz_main/audit-seo-global.js:420
+process.exit(duplicateTitles.length > 0 ? 1 : 0);
+             ^
+
+ReferenceError: duplicateTitles is not defined
+    at Object.<anonymous> (/Users/guillaumestehelin/moverz_main/audit-seo-global.js:420:14)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Module._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:152:5)
+    at node:internal/main/run_main_module:33:47
+
+Node.js v24.2.0

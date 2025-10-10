@@ -1,6 +1,22 @@
+import type { Metadata } from 'next'
 import { getAllBlogPosts, getPilierPosts } from '@/lib/blog';
 import Link from 'next/link';
 import Breadcrumbs from '@/components/Breadcrumbs';
+
+export const metadata: Metadata = {
+  title: "Blog Déménagement Lyon - Guides & Conseils Experts | Moverz",
+  description: "Guides complets et conseils d'experts pour réussir votre déménagement à Lyon. Astuces budget, checklist, comparatifs, conseils pratiques. Articles rédigés par des professionnels.",
+  alternates: {
+    canonical: `https://www.devis-demenageur-lyon.fr/blog`,
+  },
+  openGraph: {
+    title: "Blog Déménagement Lyon - Tous nos guides pratiques",
+    description: "Conseils d'experts, guides détaillés et astuces pour déménager sereinement à Lyon.",
+    url: `https://www.devis-demenageur-lyon.fr/blog`,
+    type: 'website',
+  },
+}
+
 
 // Catégories du blog
 const blogCategories = [

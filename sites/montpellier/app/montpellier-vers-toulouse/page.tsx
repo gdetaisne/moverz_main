@@ -13,7 +13,11 @@ const corridorData = {
   tempsMoyen: "2h30-3h",
   periodeConseillee: "Toute l'année",
   prixIndicatifs: [
-    { type: "Studio/T1", prix: "500-1000€", description: "Volume : 10-15 m³" },
+    {
+      type: "Studio/T1",
+      prix: "500-1000€",
+      description: "Déménagement montpellier → Toulouse : 245 km, 2h30. Studio/T1 (10-15 m³) dès 500-1000€. Devis gratuit sous 7j. Équipe pro, emballage inclus."
+    },
     { type: "T2/T3", prix: "800-1500€", description: "Volume : 20-35 m³" },
     { type: "T4/Maison", prix: "1500-2800€", description: "Volume : 40-80 m³" }
   ],

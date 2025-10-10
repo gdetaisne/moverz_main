@@ -13,7 +13,11 @@ const corridorData = {
   tempsMoyen: "3-4h",
   periodeConseillee: "Toute l'année",
   prixIndicatifs: [
-    { type: "Studio/T1", prix: "600-1200€", description: "Volume : 10-15 m³" },
+    {
+      type: "Studio/T1",
+      prix: "600-1200€",
+      description: "Déménagement montpellier → Lyon : 550 km, 5h30. Studio/T1 (10-15 m³) dès 600-1200€. Devis gratuit sous 7j. Équipe pro, emballage inclus."
+    },
     { type: "T2/T3", prix: "1000-1800€", description: "Volume : 20-35 m³" },
     { type: "T4/Maison", prix: "1800-3200€", description: "Volume : 40-80 m³" }
   ],

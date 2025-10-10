@@ -12,7 +12,7 @@ const marseilleData = {
     {
       type: "Studio/T1",
       prix: "900-1300€",
-      description: "Volume : 10-15 m³"
+      description: "Déménagement toulouse → Marseille : 660 km, 7h00. Studio/T1 (10-15 m³) dès 900-1300€. Devis gratuit sous 7j. Équipe pro, emballage inclus."
     },
     {
       type: "T2/T3",

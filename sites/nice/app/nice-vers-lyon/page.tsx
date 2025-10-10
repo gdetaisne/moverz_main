@@ -12,7 +12,7 @@ const lyonData = {
     {
       type: "Studio/T1",
       prix: "750-1100€",
-      description: "Volume : 10-15 m³"
+      description: "Déménagement nice → Lyon : 550 km, 5h30. Studio/T1 (10-15 m³) dès 750-1100€. Devis gratuit sous 7j. Équipe pro, emballage inclus."
     },
     {
       type: "T2/T3",

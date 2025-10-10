@@ -12,7 +12,7 @@ const nantesData = {
     {
       type: "Studio/T1",
       prix: "500-750€",
-      description: "Volume : 10-15 m³"
+      description: "Déménagement rouen → Nantes : 345 km, 3h30. Studio/T1 (10-15 m³) dès 500-750€. Devis gratuit sous 7j. Équipe pro, emballage inclus."
     },
     {
       type: "T2/T3",
