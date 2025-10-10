@@ -1,0 +1,93 @@
+{
+  "sites": {
+    "bordeaux": {
+      "city": "bordeaux",
+      "issues": [],
+      "warnings": [],
+      "ready": true
+    },
+    "lille": {
+      "city": "lille",
+      "issues": [],
+      "warnings": [
+        "⚠️  Dossier content/ non copié (nécessaire pour blog)"
+      ],
+      "ready": true
+    },
+    "lyon": {
+      "city": "lyon",
+      "issues": [],
+      "warnings": [
+        "⚠️  Dossier content/ non copié (nécessaire pour blog)"
+      ],
+      "ready": true
+    },
+    "marseille": {
+      "city": "marseille",
+      "issues": [],
+      "warnings": [
+        "⚠️  Dossier content/ non copié (nécessaire pour blog)"
+      ],
+      "ready": true
+    },
+    "montpellier": {
+      "city": "montpellier",
+      "issues": [],
+      "warnings": [],
+      "ready": true
+    },
+    "nantes": {
+      "city": "nantes",
+      "issues": [],
+      "warnings": [
+        "⚠️  Dossier content/ non copié (nécessaire pour blog)"
+      ],
+      "ready": true
+    },
+    "nice": {
+      "city": "nice",
+      "issues": [],
+      "warnings": [
+        "⚠️  Dossier content/ non copié (nécessaire pour blog)"
+      ],
+      "ready": true
+    },
+    "rennes": {
+      "city": "rennes",
+      "issues": [],
+      "warnings": [
+        "⚠️  Dossier content/ non copié (nécessaire pour blog)"
+      ],
+      "ready": true
+    },
+    "rouen": {
+      "city": "rouen",
+      "issues": [],
+      "warnings": [
+        "⚠️  Dossier content/ non copié (nécessaire pour blog)"
+      ],
+      "ready": true
+    },
+    "strasbourg": {
+      "city": "strasbourg",
+      "issues": [],
+      "warnings": [
+        "⚠️  Dossier content/ non copié (nécessaire pour blog)"
+      ],
+      "ready": true
+    },
+    "toulouse": {
+      "city": "toulouse",
+      "issues": [],
+      "warnings": [
+        "⚠️  Dossier content/ non copié (nécessaire pour blog)"
+      ],
+      "ready": true
+    }
+  },
+  "summary": {
+    "ready": 11,
+    "warnings": 9,
+    "errors": 0
+  }
+}

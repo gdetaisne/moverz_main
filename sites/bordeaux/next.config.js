@@ -1,5 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  // CRITICAL: Standalone output pour Docker/CapRover
+  output: 'standalone',
+  
   // Optimisations pour build CapRover
   typescript: {
     ignoreBuildErrors: true, // Skip type-check en production (fait en dev)
