@@ -10,8 +10,7 @@ const nextConfig = {
   },
   eslint: {
     ignoreDuringBuilds: true, // Skip ESLint en production (fait en dev)
-  },
-  
+  },  
   // Headers de sécurité gérés par middleware.js
 
   // Configuration de sécurité supplémentaire
@@ -37,4 +36,4 @@ const nextConfig = {
   }
 };
 
-module.exports = nextConfig;
+export default nextConfig;
