@@ -2,6 +2,7 @@ import type { Metadata, Viewport } from "next";
 import "./globals.css";
 import { Inter } from "next/font/google";
 import Link from "next/link";
+import Script from "next/script";
 import Header from "@/components/Header";
 import StructuredData from "@/components/StructuredData";
 import GoogleAnalytics from "@/components/GoogleAnalytics";
@@ -68,6 +69,19 @@ export default function RootLayout({
 }) {
   return (
     <html lang="fr" className="h-full">
+      <head>
+        <Script 
+          async 
+          src="https://plausible.io/js/pa-dkllRxPvwLXCFTjJ29RRI.js"
+          strategy="afterInteractive"
+        />
+        <Script id="plausible-init" strategy="afterInteractive">
+          {`
+            window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
+            plausible.init()
+          `}
+        </Script>
+      </head>
       <body className={`${inter.className} min-h-screen bg-[#04163a] text-white`}>        
         <GoogleAnalytics />
         <StructuredData />
