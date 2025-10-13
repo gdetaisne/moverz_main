@@ -230,3 +230,4 @@ Pour formalités détaillées par destination, consultez [Lyon-Suisse](/blog/dem
 4. Union Européenne - Libre circulation biens personnels (2025)
 5. Consulats Lyon - Sites officiels (2025)
 
+

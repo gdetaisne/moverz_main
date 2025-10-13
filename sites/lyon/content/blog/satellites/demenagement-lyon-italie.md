@@ -199,3 +199,4 @@ Pour explorer d'autres destinations internationales depuis Lyon (Suisse, Allemag
 3. Consulat Italie Lyon - Formalités résidence (conslione.esteri.it, 2025)
 4. Union Européenne - Libre circulation biens personnels (2025)
 
+

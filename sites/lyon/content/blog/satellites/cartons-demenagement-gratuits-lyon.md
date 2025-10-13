@@ -269,3 +269,4 @@ Pour compléter votre préparation économique, consultez [notre guide complet d
 2. Commerces Lyon (Cultura, Fnac, Boulanger) - Disponibilité cartons 2025
 3. Marketplace Facebook Lyon, Leboncoin - Offres cartons gratuits octobre 2025
 
+

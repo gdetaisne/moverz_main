@@ -256,3 +256,4 @@ Pour compléter votre préparation, consultez [notre guide complet du déménage
 3. Universités Lyon 1, Lyon 2, Lyon 3 - Services sociaux étudiants (2025)
 4. Action Logement - Mobili-Pass (actionlogement.fr, 2025)
 
+

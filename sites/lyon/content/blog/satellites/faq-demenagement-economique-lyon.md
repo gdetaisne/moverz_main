@@ -193,3 +193,4 @@ Pour approfondir chaque thème, consultez nos guides détaillés : [prix Lyon 20
 2. Marché déménagement Lyon - Tarifs, aides, ressources (2025)
 3. CROUS Auvergne-Rhône-Alpes, CAF Rhône, Action Logement (2025)
 
+

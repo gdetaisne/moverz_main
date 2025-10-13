@@ -232,3 +232,4 @@ Pour comparer toutes les options économiques selon votre situation, consultez [
 2. Marché déménagement Lyon - Tarifs groupage vs direct (2025)
 3. Fiche locale Lyon - Distances destinations principales (2025)
 
+

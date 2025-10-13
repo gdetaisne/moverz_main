@@ -179,3 +179,4 @@ Pour planifier précisément votre budget selon la période choisie, consultez [
 2. Marché déménagement Lyon - Variations tarifaires annuelles (2025)
 3. Données étudiants Lyon (170 000) - Universités Lyon, CROUS (2025)
 
+

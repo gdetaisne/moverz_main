@@ -1,292 +1,163 @@
 ---
-title: "Aides Financières pour Déménager à Lyon en 2025"
-meta_title: "Aides Déménagement Lyon 2025 | CROUS, CAF, Action Logement"
-meta_description: "Aides déménagement Lyon 2025 : CROUS 200-300€, CAF jusqu'à 1000€, Mobili-Pass 3500€, aides universités. Conditions, démarches, cumul possible."
-slug: "aides-financieres-demenagement-lyon"
-category: "demenagement-lyon-pas-cher"
+title: "Aide Financière Déménagement Lyon : CAF FSL Action Logement 2025"
+meta_title: "Aide Financière Lyon | CAF 1000€ FSL 500€ Action Logement"
+meta_description: "Aides financières déménagement Lyon : CAF prime 1000€, FSL 150-500€, Action Logement Mobili-Pass 3500€, APA seniors. Conditions, dossiers."
+slug: "aide-financiere-demenagement-lyon"
+category: "aide-demenagement-lyon"
 type: "satellite"
-pilier_parent: "demenagement-lyon-pas-cher-guide-complet"
+pilier_parent: "aide-demenagement-lyon"
 keywords:
-  - "aides déménagement lyon"
-  - "aide financière déménagement"
-  - "caf lyon déménagement"
-  - "mobili-pass lyon"
-word_count: 1340
-publish_date: "2025-10-15"
+  - "aide financière déménagement lyon"
+  - "prime déménagement caf lyon"
+  - "fsl lyon déménagement"
+word_count: 1400
+publish_date: "2025-10-18"
 author: "Équipe Moverz Lyon"
 ---
 
-# Aides Financières pour Déménager à Lyon en 2025
+# Aides Financières Déménagement Lyon : Guide Complet 2025
 
-Déménager à Lyon représente un investissement conséquent (400-900€ formule économique selon logement), mais plusieurs dispositifs d'aides financières méconnus permettent d'alléger la facture de 200 à 3500€ selon votre situation. Action Logement propose le Mobili-Pass (prêt jusqu'à 3500€ à 1% pour salariés et alternants), la CAF du Rhône verse une prime déménagement jusqu'à 1000€ pour les familles avec enfants, le CROUS Auvergne-Rhône-Alpes accorde des aides ponctuelles de 200-300€ aux étudiants boursiers, et Pôle Emploi finance l'aide à la mobilité pour les demandeurs d'emploi. Ces aides sont cumulables sous conditions, permettant de couvrir 50 à 80% du coût total.
+Les aides financières déménagement Lyon permettent économiser 150-3500€ coût total déménagement (vs 400-2000€ facture déménageur standard T2-T3) : prime déménagement CAF 1000€ (familles 3+ enfants, RSA/ASS, enfant né/adopté 21 derniers mois, conditions strictes), Fonds Solidarité Logement FSL Métropole Lyon 150-500€ (situations précaires, impayés loyers, expulsion, RSA/ressources <plafonds), Mobili-Pass Action Logement 3500€ prêt 1% remboursable 36 mois (salariés secteur privé entreprises 10+ salariés, mutation professionnelle >70 km, primo-accédants), APA Allocation Personnalisée Autonomie 150-500€ (seniors 60+ dépendants GIR 1-4, déménagement logement adapté), aides caisses retraite 100-300€ (CARSAT, AGIRC-ARRCO, dossiers 2-3 mois avant), et mutuelles seniors/employeurs remboursements partiels 50-150€ selon contrats garanties "mobilité/déménagement".
 
-Lyon accueillant 170 000 étudiants et étant la 3ème ville de France (522 000 habitants, métropole 1,4M), les organismes locaux sont habitués aux demandes d'aides déménagement et traitent les dossiers rapidement (1 à 3 semaines généralement). Les services sociaux des universités Lyon 1, Lyon 2, Lyon 3, INSA et EM Lyon complètent le dispositif CROUS avec des fonds de solidarité internes (100-400€ selon établissement). Les travailleurs du secteur privé (y compris alternants) bénéficient du réseau Action Logement implanté à Lyon (bureaux Part-Dieu), facilitant les démarches.
+Les conditions CAF prime déménagement exigent cumulativement : bénéficiaire RSA ou allocation ASS chômage, famille 3+ enfants à charge (nés/adoptés), enfant né/adopté/recueilli depuis adoption dans 21 mois précédant déménagement (condition déclenchante cruciale), déménagement entre 1er jour mois civil naissance/adoption et dernier jour 21ème mois (fenêtre temporelle stricte 630j), nouveau logement décent surface minimum réglementaire (16m² personne 1, +9m²/personne supplémentaire soit 43m² minimum famille 4 personnes), APL Aide Personnalisée Logement accordée nouveau logement (pré-requis obligatoire). Le montant prime atteint jusqu'à 1000€ forfait plafonné (vs déménagement T3 coûtant 800-1500€ = couverture 65-125% frais), versé sous 2-4 mois instruction dossier CAF Rhône après justificatifs complets (devis déménageur accepté, bail signé, attestation APL nouveau logement, livret famille à jour).
 
-Ce guide détaille les conditions d'éligibilité précises de chaque aide, explique les démarches pas à pas avec contacts directs Lyon, révèle les stratégies de cumul optimales, et donne les délais réalistes d'obtention. Pour compléter votre financement, consultez [notre guide des solutions économiques Lyon](/blog/demenagement-lyon-pas-cher/demenagement-lyon-pas-cher-guide-complet) pour réduire le coût global.
+Ce guide détaille toutes aides financières Lyon (CAF 1000€, FSL 150-500€, Action Logement 3500€, APA 150-500€, caisses retraite 100-300€), présente conditions précises éligibilité chaque dispositif, explique démarches dossiers (pièces justificatives, délais instruction 1-4 mois, contacts organismes), calcule cumuls possibles (CAF + FSL + caisse retraite = 1250-1800€ maximum familles précaires, vs Action Logement non-cumulable aide CAF), révèle pièges éviter (délais serrés enfant 21 mois CAF, refus FSL si non-justification besoin urgent logement), et conseille alternatives (négociation employeur prime mobilité 500-2000€, prêt personnel banque taux 3-5% si urgence). Pour aides manutentionnaires, consultez [manutentionnaire Lyon](/blog/aide-demenagement-lyon/manutentionnaire-demenagement-lyon).
 
-## Action Logement : Mobili-Pass (Jusqu'à 3500€)
+## Prime Déménagement CAF Lyon
 
-Action Logement, anciennement "1% Logement", constitue le dispositif d'aide le plus généreux pour les salariés du secteur privé déménageant à Lyon.
+**Montant** : Jusqu'à 1000€ forfait (plafonné, pas remboursement frais réels)
 
-### Conditions d'Éligibilité
+**Conditions cumulatives obligatoires** :
+1. Bénéficiaire RSA ou ASS (allocation solidarité spécifique chômage)
+2. Famille 3+ enfants à charge (nés, adoptés, recueillis adoption)
+3. Enfant né/adopté/recueilli depuis <21 mois (630 jours fenêtre)
+4. Déménagement effectué entre 1er jour mois civil naissance et fin 21ème mois
+5. Nouveau logement décent (surface minimum 16m² + 9m²/personne supplémentaire = 43m² min famille 4)
+6. APL accordée nouveau logement (aide personnalisée logement obligatoire pré-requis)
 
-**Mobili-Pass** finance le déménagement, le dépôt de garantie, les loyers impayés, et l'installation dans le nouveau logement pour les salariés et alternants du secteur privé.
+**Pièces justificatives** :
+- Livret famille à jour (attestation naissances/adoptions)
+- Notification RSA ou ASS CAF/Pôle Emploi
+- Devis déménageur détaillé (accepté, facture finale après déménagement)
+- Bail nouveau logement signé (adresse, surface, loyer)
+- Attestation APL nouveau logement CAF
+- RIB (virement prime)
 
-**Qui peut en bénéficier :**
-- Salariés entreprise privée (CDI, CDD 6+ mois, intérim 6+ mois)
-- Alternants (contrat apprentissage ou professionnalisation)
-- Entreprise employeur cotise à Action Logement (10+ salariés généralement)
-- Déménagement lié rapprochement lieu travail (distance 70+ km ou 1h30+ trajet)
+**Délais** : Dossier déposer sous 6 mois après déménagement (délai rigueur), instruction CAF 2-4 mois, virement 1-2 semaines post-accord
 
-**Ne sont PAS éligibles :** Fonctionnaires, agents publics, professions libérales indépendantes, étudiants hors alternance, chômeurs (sauf mutation pour prise de poste).
+**Démarches** : CAF Rhône Lyon (84 Rue Marius Berliet 69007, accueil sur RDV), dossier online caf.fr rubrique "Mes démarches > Demander une prestation > Prime déménagement", ou courrier recommandé AR
 
-**Montant :** Prêt jusqu'à 3500€, taux 1% intérêt, remboursement sur 36 mois maximum (soit 100€/mois environ pour 3500€).
+**Piège** : Condition enfant <21 mois stricte (si bébé né janvier 2024, déménagement effectué avant octobre 2025 dernier délai 21 mois, sinon inéligibilité totale même autres conditions remplies)
 
-**Utilisation :** Frais déménagement (déménageur professionnel, location camion, cartons), dépôt de garantie nouveau logement (max 2 mois loyer), frais agence, loyers impayés ancien logement si difficultés, installation (connexions, équipements).
+## FSL Fonds Solidarité Logement Lyon
 
-### Démarches Mobili-Pass Lyon
+**Montant** : 150-500€ selon situation (aide exceptionnelle non-remboursable)
 
-**Étape 1 : Vérifier éligibilité entreprise**  
-Demander service RH/comptabilité si entreprise cotise Action Logement. La majorité des entreprises 10+ salariés cotisent.
+**Conditions** :
+- Ressources <plafonds FSL (RSA, revenus mensuels <1200€ personne seule, <2000€ couple, variables composition famille)
+- Situation précaire justifiée : impayés loyers risque expulsion, hébergement précaire (hôtel social, famille, sans-abri), logement insalubre/indécent nécessitant déménagement urgent, accès 1er logement autonome (jeunes 18-25 ans, sortie foyer)
+- Déménagement améliorant situation logement (vs déménagement confort personnel non-éligible)
+- Résidence Métropole Lyon (69 communes)
 
-**Étape 2 : Demande en ligne**  
-Se connecter sur actionlogement.fr, créer compte personnel, remplir formulaire Mobili-Pass (identité, situation professionnelle, motif déménagement, montant souhaité).
-
-**Étape 3 : Justificatifs**
-- Contrat de travail ou alternance (copie)
-- Bulletin salaire récent (3 derniers mois)
-- Nouveau bail Lyon (ou promesse bail)
-- Justificatif distance (attestation employeur ou calcul trajet)
-- Devis déménagement Lyon (si financement déménagement)
-- RIB
-- Pièce identité
-
-**Étape 4 : Accord employeur**  
-Action Logement contacte l'employeur pour validation (accord formel requis). Délai : 5-10 jours.
-
-**Étape 5 : Décision**  
-Commission Action Logement étudie dossier sous 2-3 semaines. Si accord, prêt versé sous 1 semaine sur compte bancaire.
-
-**Contact Action Logement Lyon :**  
-Bureau : 42 Rue de la Part-Dieu, 69003 Lyon  
-Tel : 04 72 68 XX XX (standard)  
-Site : actionlogement.fr  
-Horaires : Lundi-vendredi 9h-12h30 / 14h-17h30
-
-**Délai total :** 4-6 semaines entre demande et versement.
-
-**Remboursement :** Mensualités prélevées automatiquement sur compte. Modulation possible selon situation (report 3-6 mois si difficultés).
-
-### Astuce Mobili-Pass
-
-Demander le montant maximum (3500€) même si besoin inférieur : prêt à 1% = quasi-gratuit (inflation 2-3% annuelle), somme non utilisée remboursable sans pénalité. Utiliser excédent pour meubler, équiper logement Lyon (électroménager, literie).
-
-## CAF Rhône : Prime Déménagement (Jusqu'à 1000€)
-
-La Caisse d'Allocations Familiales du Rhône verse une prime déménagement aux familles sous conditions strictes.
-
-### Conditions d'Éligibilité CAF
-
-**Qui peut en bénéficier :**
-- Avoir au moins 1 enfant à charge (né ou à naître)
-- Percevoir APL (Aide Personnalisée Logement) ou ALF (Allocation Logement Familiale)
-- Déménager entre 3ème mois de grossesse et 2 ans de l'enfant
-- Nouveau logement respecter normes décence (surface minimale, fenêtres, sanitaires)
-- Famille (composition + ressources) éligible APL/ALF
-
-**Montant 2025 :**
-- 995,54€ pour 3 enfants et plus à charge
-- Montant dégressif pour 1-2 enfants (consulter caf.fr simulateur)
-
-**Ne concerne PAS :** Étudiants célibataires sans enfant, couples sans enfant, célibataires sans enfant. Ces profils accèdent aux APL (réduction loyer mensuel) mais pas à la prime déménagement.
-
-### Démarches CAF Lyon
-
-**Étape 1 : Vérifier éligibilité**  
-Simulateur en ligne caf.fr > Mes services > Prime de déménagement (saisir situation familiale, ressources, dates).
-
-**Étape 2 : Demande en ligne**  
-Se connecter espace personnel caf.fr (ou créer compte si 1er contact), rubrique "Mes démarches" > "Demander une prime de déménagement".
-
-**Étape 3 : Justificatifs**
-- Bail nouveau logement Lyon
-- Quittance loyer ancien logement (dernier mois)
-- Facture déménagement (déménageur professionnel) OU attestation sur l'honneur déménagement réalisé (si DIY)
-- Acte naissance enfant(s)
-- Attestation APL/ALF
-
-**Délai :** Demande à effectuer dans les 6 mois suivant déménagement (date nouveau bail). Versement sous 4-6 semaines après validation dossier complet.
-
-**Contact CAF Rhône Lyon :**  
-Agences Lyon : 
-- CAF Lyon Gerland : 39 Rue Pierre Baizet, 69009
-- CAF Lyon Part-Dieu : 119 Avenue Maréchal de Saxe, 69003  
-Tel : 3230 (service vocal, gratuit)  
-Site : caf.fr  
-Rendez-vous : Prendre RDV en ligne (démarches complexes) ou passer accueil libre documentation
-
-**Cumul APL + Prime :** Les APL réduisent loyer mensuel Lyon (100-250€/mois selon ressources, logement, famille). Prime déménagement = bonus ponctuel additionnel, non déductible APL.
-
-## CROUS Auvergne-Rhône-Alpes : Aides Étudiantes (200-300€)
-
-Le CROUS (Centre Régional Œuvres Universitaires Scolaires) Auvergne-Rhône-Alpes gère les aides sociales pour les 170 000 étudiants lyonnais.
-
-### Aide Ponctuelle Spécifique Déménagement
-
-**Qui peut en bénéficier :**
-- Étudiant inscrit établissement supérieur Lyon (Lyon 1, Lyon 2, Lyon 3, INSA, EM Lyon, Sciences Po Lyon, etc.)
-- Boursier CROUS ou non-boursier en difficulté financière justifiée
-- Âge < 28 ans (sauf situation exceptionnelle)
-- Difficulté ponctuelle liée déménagement (frais imprévus, loyers cumulés, caution non récupérée, etc.)
-
-**Montant :** 100-500€ selon situation, commission sociale CROUS décide au cas par cas. Moyenne déménagement : 200-300€.
-
-**Délai :** Versement sous 48-72h après validation commission (urgence sociale prioritaire).
-
-### Démarches CROUS Lyon
-
-**Étape 1 : Rendez-vous assistant social**  
-Prendre RDV service social CROUS de votre établissement (liste sur crous-lyon.fr > Vie étudiante > Aides sociales).
-
-**Campus Lyon 1 Doua :** Assistant social bâtiment [X], tel 04 72 44 XX XX  
-**Campus Lyon 2 Berges du Rhône / Porte des Alpes :** Assistant social Maison étudiants, tel 04 78 77 XX XX  
-**Campus Lyon 3 Manufacture Tabacs :** Service vie étudiante, tel 04 78 78 XX XX
-
-**Étape 2 : Préparer justificatifs**
-- Certificat scolarité 2024-2025
-- Notification bourse (si boursier)
-- Relevés bancaires 3 derniers mois
-- Devis ou facture déménagement Lyon
+**Pièces** :
+- Justificatifs ressources 3 derniers mois (bulletins salaire, notification RSA, Pôle Emploi)
+- Justificatif situation : commandement quitter lieux expulsion, certificat hébergement précaire, rapport insalubrité ARS, attestation foyer/CHRS sortie
+- Devis déménageur 2-3 comparatifs (preuve recherche coût optimal)
 - Bail nouveau logement
-- Justificatif difficulté (loyers cumulés, caution non restituée, frais imprévus, etc.)
+- Avis imposition N-1
 
-**Étape 3 : Entretien assistant social**  
-Expliquer situation, montrer justificatifs, assistant social rédige rapport pour commission.
+**Démarches** : CCAS (Centre Communal Action Sociale) mairie arrondissement Lyon résidence (Lyon 3ème CCAS 12 Rue François Dauphin, rendez-vous assistante sociale), ou Maison Métropole Solidarités (MMS) quartier
 
-**Étape 4 : Commission sociale**  
-Réunion commission sous 1 semaine, décision notifiée par email/courrier. Si accord, virement sous 48-72h.
+**Délais** : Instruction 4-8 semaines commission FSL mensuelle, virement 2-4 semaines post-accord
 
-**Contact CROUS Auvergne-Rhône-Alpes :**  
-Siège : 59 Rue de la Madeleine, 69365 Lyon Cedex 07  
-Tel : 04 72 80 17 70  
-Site : crous-lyon.fr  
-Email : social@crous-lyon.fr
+**Cumul** : Cumulable prime CAF si éligibilité (CAF 1000€ + FSL 300€ = 1300€)
 
-**Cumul :** Aide CROUS + fonds solidarité université (voir section suivante) = possible si dossiers distincts et besoins cumulés justifiés.
+## Mobili-Pass Action Logement
 
-## Universités Lyon : Fonds de Solidarité (100-400€)
+**Montant** : Prêt jusqu'à 3500€ taux 1%, remboursement 36 mois (97€/mois sur 3 ans)
 
-Les établissements d'enseignement supérieur Lyon disposent de fonds internes pour étudiants en difficulté.
+**Conditions** :
+- Salarié secteur privé entreprise 10+ salariés (CDD 6+ mois ou CDI)
+- Mobilité professionnelle mutation >70 km domicile-travail (Lyon → Paris, Lyon → Marseille éligibles)
+- Primo-accédant achat résidence principale (ou locataire sous conditions)
+- Revenus <plafonds (variables composition famille, ~30 000€ annuels personne seule)
 
-### Lyon 1 (Claude Bernard)
+**Usage prêt** : Frais déménagement (déménageur, location camion, garde-meuble temporaire), caution/dépôt garantie nouveau logement, frais agence
 
-**Fonds :** Aide d'urgence FSDIE (Fonds Solidarité Développement Initiatives Étudiantes)  
-**Montant :** 100-350€ selon situation  
-**Contact :** Service vie étudiante campus Doua, 43 Boulevard 11 Novembre 1918, 69100 Villeurbanne, tel 04 72 44 80 00  
-**Démarche :** RDV assistant social → dossier → commission mensuelle → décision sous 2-3 semaines
+**Démarches** : Dossier online actionlogement.fr rubrique "Aides et services > Mobili-Pass", justificatifs emploi (contrat travail, bulletins salaire 3 mois), justificatif mobilité (attestation employeur mutation, nouveau contrat ville éloignée), délai instruction 2-6 semaines
 
-### Lyon 2 (Lumière)
+**Remboursement** : Prélèvement mensuel automatique 97€×36 mois = 3492€ remboursés (dont 492€ intérêts 1%), coût réel crédit faible
 
-**Fonds :** Aide sociale ponctuelle  
-**Montant :** 100-300€  
-**Contact :** Service social étudiant campus Berges du Rhône, 86 Rue Pasteur, 69007 Lyon, tel 04 78 77 23 23  
-**Démarche :** RDV → dossier → commission bimensuelle
+**Non-cumulable** : Prime CAF déménagement (choix entre Mobili-Pass ou CAF selon éligibilité/montant)
 
-### Lyon 3 (Jean Moulin)
+## APA Seniors Déménagement
 
-**Fonds :** Fonds social + aide urgence  
-**Montant :** 100-400€  
-**Contact :** Maison étudiant campus Manufacture Tabacs, 18 Rue Chevreul, 69007 Lyon, tel 04 78 78 78 78  
-**Démarche :** RDV → dossier → commission mensuelle
+**Montant** : 150-500€ aide exceptionnelle (selon plan aide APA, niveau GIR)
 
-### INSA Lyon, EM Lyon, Sciences Po Lyon
+**Conditions** :
+- Âge 60+ ans
+- Dépendance reconnue GIR 1-4 (perte autonomie significative)
+- Déménagement vers logement adapté sécurisé (résidence seniors, EHPAD, logement équipé rampes/ascenseurs/téléalarme)
+- Bénéficiaire APA (Allocation Personnalisée Autonomie) déjà attribuée
 
-**Dispositifs internes :** Chaque école a fonds propres. Se renseigner service vie étudiante école.
+**Démarches** : CCAS mairie ou MMS Métropole Lyon, dossier APA révision plan aide mention "déménagement logement adapté nécessaire santé/sécurité", certificat médical justifiant besoin logement adapté, commission APA décision 4-8 semaines
 
-**Délai global :** 2-4 semaines entre demande et versement (délai commission).
+**Cumul** : Cumulable aides caisses retraite (APA 300€ + CARSAT 200€ = 500€)
 
-**Justificatifs :** Certificat scolarité, relevés bancaires, devis/facture déménagement, justificatif difficulté.
+## Caisses Retraite et Mutuelles
 
-## Pôle Emploi : Aide Mobilité (Demandeurs Emploi)
+**CARSAT Rhône-Alpes** : 100-300€ aide mobilité retraités (ressources <1500€/mois, dossier 2-3 mois avant, formulaire carsat-ra.fr)
 
-Pôle Emploi Auvergne-Rhône-Alpes finance la mobilité géographique pour prise/reprise emploi.
+**AGIRC-ARRCO** : 100-250€ aide déménagement cadres retraités (anciens salariés secteur privé, conditions ressources)
 
-### Conditions
+**Mutuelles seniors** : 50-150€ remboursements partiels (vérifier contrat garanties "aide domicile" ou "services", justificatif facture déménageur)
 
-**Qui :** Demandeur emploi inscrit Pôle Emploi, déménagement pour :
-- Prise de poste (CDI, CDD 3+ mois, alternance)
-- Formation qualifiante éloignée domicile
-- Rapprochement bassin emploi
+**Employeurs** : Prime mobilité négociable 500-2000€ (mutation professionnelle imposée employeur, négociation contrat/avenant)
 
-**Montant :** Variable selon distance, situation (300-1500€ en moyenne).
+## Calcul Cumuls Possibles
 
-**Démarche :** RDV conseiller Pôle Emploi Lyon (agences Villeurbanne, Part-Dieu, Jean Macé, Gerland), présenter offre emploi + justificatifs déménagement, demande aide mobilité.
+**Famille précaire 4 personnes (3 enfants, RSA, bébé 18 mois)** :
+- Prime CAF : 1000€
+- FSL : 300€ (situation précaire justifiée)
+- Total : **1300€** (vs déménagement T3 1200€ = couverture 108%)
 
-**Contact :** pole-emploi.fr > agences Lyon, ou tel 3949.
+**Salarié mutation Lyon → Paris** :
+- Mobili-Pass : 3500€ prêt (remboursement 97€/mois × 36)
+- Prime employeur négociée : 1000€
+- Total : **4500€** aide (dont 3500€ remboursable)
 
-## Stratégie Cumul Aides
-
-**Étudiant boursier Lyon déménageant septembre :**
-- CROUS : 250€ (aide ponctuelle)
-- Université Lyon 2 : 200€ (fonds social)
-- **Total : 450€** (couvre 60-90% déménagement studio formule éco 500€)
-
-**Alternant Lyon déménageant pour rapprochement entreprise :**
-- Mobili-Pass : 3500€ (prêt 1%)
-- **Total : 3500€** (couvre intégralement déménagement + dépôt garantie + installation)
-
-**Famille 3 enfants déménageant Lyon :**
-- CAF : 995€ (prime)
-- Action Logement (si salarié privé) : 3500€
-- **Total : 4495€** (large couverture déménagement + frais annexes)
+**Senior 75 ans GIR 3 dépendance** :
+- APA : 300€
+- CARSAT : 200€
+- Mutuelle : 100€
+- Total : **600€** (vs déménagement F2→studio adapté 500€ = couverture 120%)
 
 ## Questions Fréquentes
 
-### Quelles aides existent pour déménager à Lyon ?
+### Conditions prime déménagement CAF Lyon ?
 
-**Action Logement Mobili-Pass (3500€ prêt 1% salariés privés/alternants), CAF Rhône prime déménagement (995€ familles 3+ enfants), CROUS Auvergne-Rhône-Alpes aide ponctuelle (200-300€ étudiants boursiers), universités Lyon 1/2/3 fonds solidarité (100-400€), Pôle Emploi aide mobilité (300-1500€ demandeurs emploi).** Aides cumulables sous conditions. Délais : 2-6 semaines selon dispositif. Contacts directs Lyon disponibles (Action Logement Part-Dieu, CAF Gerland/Part-Dieu, CROUS Madeleine).
+**Prime CAF 1000€ si conditions cumulatives : (1) RSA ou ASS, (2) famille 3+ enfants, (3) enfant né/adopté <21 mois, (4) déménagement effectué avant fin 21ème mois enfant, (5) nouveau logement décent 43m² min famille 4, (6) APL accordée nouveau logement. Pièces : livret famille, notification RSA, devis déménageur, bail, attestation APL. Délais : dossier sous 6 mois post-déménagement, instruction CAF 2-4 mois, virement 1-2 semaines.** Piège : condition 21 mois stricte (bébé né janvier 2024 = déménagement avant octobre 2025, sinon inéligible). Cumulable FSL (total 1300€). [Détails étudiant →](/blog/demenagement-lyon-pas-cher/demenagement-etudiant-lyon-pas-cher)
 
-### Comment obtenir le Mobili-Pass pour déménager à Lyon ?
+### FSL Lyon montant et conditions ?
 
-**Salariés secteur privé et alternants : demande en ligne actionlogement.fr, justificatifs (contrat travail, bulletins salaire, bail Lyon, distance 70+ km), accord employeur requis. Montant jusqu'à 3500€ prêt 1%, remboursement 36 mois max (100€/mois).** Délai : 4-6 semaines demande → versement. Contact : bureau Action Logement 42 Rue Part-Dieu, 69003 Lyon, tel 04 72 68 XX XX. Éligibilité : entreprise cotise Action Logement (10+ salariés généralement), déménagement lié travail.
+**FSL Métropole Lyon : 150-500€ aide exceptionnelle déménagement situations précaires (impayés loyers/expulsion, hébergement précaire, logement insalubre, 1er logement autonome jeunes 18-25 ans). Conditions : ressources <plafonds (RSA, <1200€/mois seul, <2000€ couple), résidence 69 communes métropole, déménagement améliore situation. Dossier CCAS mairie arrondissement ou MMS, justificatifs ressources 3 mois + situation précaire, 2-3 devis déménageurs, instruction 4-8 semaines commission mensuelle.** Cumulable prime CAF si éligibilité (1300€ total). Contact : CCAS Lyon 3ème 04.xx.xx.xx.xx, MMS Guillotière 04.yy.yy.yy.yy.
 
-### La CAF Lyon aide-t-elle pour un déménagement ?
+### Action Logement Mobili-Pass Lyon ?
 
-**Oui, CAF Rhône verse prime déménagement 995€ (3+ enfants) pour familles avec enfants à charge, percevant APL/ALF, déménageant entre 3ème mois grossesse et 2 ans enfant.** Étudiants célibataires sans enfant NON éligibles prime (mais APL réduit loyer mensuel Lyon 100-250€/mois). Démarche : demande en ligne caf.fr dans 6 mois après déménagement, justificatifs (bail, facture déménagement, acte naissance). Délai : 4-6 semaines. Contact : CAF Gerland ou Part-Dieu, tel 3230.
-
-### Existe-t-il des aides déménagement pour étudiants Lyon ?
-
-**Oui, CROUS Auvergne-Rhône-Alpes aide ponctuelle 200-300€ étudiants boursiers ou difficulté financière (<28 ans). Universités Lyon 1/2/3 fonds solidarité 100-400€. Alternants étudiants : Mobili-Pass 3500€.** Démarche CROUS : RDV assistant social établissement, dossier justificatifs, commission sous 1 semaine, virement 48-72h. Contact : crous-lyon.fr, tel 04 72 80 17 70. Cumul CROUS + université possible = 300-700€ total. Compléter avec [solutions économiques DIY Lyon](/blog/demenagement-lyon-pas-cher/demenagement-lyon-pas-cher-guide-complet).
-
-### Peut-on cumuler plusieurs aides déménagement ?
-
-**Oui, cumul possible : étudiant (CROUS 250€ + université 200€ = 450€), alternant (Mobili-Pass 3500€ + CROUS 250€ = 3750€ si éligible), famille salariée (CAF 995€ + Mobili-Pass 3500€ = 4495€).** Vérifier règles cumul chaque dispositif (généralement autorisé si organismes différents). Mobili-Pass + CAF : cumulables. CROUS + université : possible si dossiers distincts. Délais décalés : demander Mobili-Pass 6 semaines avant, CROUS 2 semaines avant, CAF après déménagement (6 mois délai).
-
-### Quels justificatifs fournir pour aides déménagement Lyon ?
-
-**Documents communs : bail nouveau logement Lyon, justificatif identité, RIB. Spécifiques Mobili-Pass : contrat travail, bulletins salaire, accord employeur. CAF : acte naissance enfants, attestation APL, facture déménagement. CROUS : certificat scolarité, notification bourse, relevés bancaires. Universités : mêmes + justificatif difficulté.** Devis/facture déménageur professionnel renforce dossiers (preuve coût réel). DIY : attestation sur l'honneur + justificatifs location camion acceptés CAF/CROUS.
-
-### Combien de temps pour recevoir les aides Lyon ?
-
-**Mobili-Pass : 4-6 semaines (demande → accord → versement). CAF : 4-6 semaines après demande post-déménagement. CROUS : 1-2 semaines (urgence sociale, commission rapide, virement 48-72h validation). Universités : 2-4 semaines (commission mensuelle). Pôle Emploi : 2-3 semaines.** Anticiper demandes : Mobili-Pass 2 mois avant déménagement, CROUS/universités 3-4 semaines avant, CAF juste après (6 mois délai). Prévoir trésorerie initiale (aides remboursent généralement a posteriori, sauf CROUS urgence).
+**Prêt 3500€ taux 1% remboursement 36 mois (97€/mois) salariés secteur privé entreprises 10+ salariés, mobilité >70 km (mutation Lyon → Paris/Marseille), primo-accédants ou locataires sous conditions revenus <plafonds. Usage : frais déménagement + caution nouveau logement. Dossier online actionlogement.fr, justificatifs emploi + mutation, délai 2-6 semaines. Remboursement : 3492€ total dont 492€ intérêts (coût faible).** Non-cumulable prime CAF (choisir selon montant/remboursable). Salariés public inéligibles (Action Logement réservé privé). Alternative fonction publique : indemnité forfaitaire mutations IFSE (État verse directement).
 
 ---
 
 ## Conclusion
 
-Les aides financières déménagement Lyon couvrent 200 à 3500€ selon profil, allégeant significativement la facture (400-900€ formule économique). Le Mobili-Pass Action Logement (3500€ prêt 1%) constitue l'aide la plus généreuse pour salariés privés et alternants, cumulable avec d'autres dispositifs. Les étudiants accèdent au CROUS (200-300€) et fonds universitaires (100-400€), totalisant 300-700€. Les familles combinent CAF (995€) et Mobili-Pass si éligibles (4495€ total).
+Aides financières déménagement Lyon économisent 150-3500€ : prime CAF 1000€ (familles 3+ enfants RSA, enfant <21 mois, conditions strictes 6 cumulatives), FSL 150-500€ (situations précaires impayés/expulsion/insalubrité, ressources faibles, cumulable CAF = 1300€), Mobili-Pass 3500€ prêt 1% salariés privés mutations >70 km (remboursable 97€/mois × 36, non-cumulable CAF), APA 150-500€ seniors 60+ GIR 1-4 (déménagement logement adapté, cumulable caisses retraite 100-300€ = 600€ total), mutuelles/employeurs 50-2000€ (négociables).
 
-Anticiper les demandes 4-6 semaines avant le déménagement sécurise les délais d'instruction et de versement. Multiplier les dossiers auprès de plusieurs organismes (CROUS + université, Action Logement + CAF) maximise les chances d'obtention et les montants cumulés. Lyon disposant de bureaux locaux Action Logement (Part-Dieu), CAF (Gerland, Part-Dieu), et CROUS (Madeleine), les démarches physiques restent possibles si difficultés en ligne.
-
-Pour compléter le financement du déménagement, consultez [toutes nos solutions économiques Lyon](/blog/demenagement-lyon-pas-cher/demenagement-lyon-pas-cher-guide-complet) (DIY, formule éco, groupage) et [les prix réels Lyon 2025](/blog/demenagement-lyon-pas-cher/prix-demenagement-pas-cher-lyon-2025) pour budgétiser précisément. Bon déménagement et bonne installation à Lyon !
+Démarches : CAF Rhône dossier online/courrier (justificatifs complets, délais 2-4 mois), CCAS/MMS FSL (RDV assistante sociale, commission 4-8 semaines), Action Logement online (2-6 semaines), APA révision plan (4-8 semaines). Cumuls maximum : famille précaire 1300€ (CAF + FSL), senior 600€ (APA + retraite). Consultez [manutentionnaire](/blog/aide-demenagement-lyon/manutentionnaire-demenagement-lyon), [prix](/blog/demenagement-lyon-pas-cher/prix-demenagement-lyon). Bonnes aides !
 
 ---
 
 ## Sources
 
-1. Action Logement - Mobili-Pass (actionlogement.fr, 2025)
-2. CAF Rhône - Prime déménagement (caf.fr, 2025)
-3. CROUS Auvergne-Rhône-Alpes - Aides sociales (crous-lyon.fr, 2025)
-4. Universités Lyon 1/2/3 - Fonds solidarité étudiants (2025)
-5. Pôle Emploi Auvergne-Rhône-Alpes - Aide mobilité (pole-emploi.fr, 2025)
-
+1. CAF Rhône - Prime déménagement conditions (2025)
+2. Métropole Lyon - FSL dispositif (oct. 2025)
+3. Action Logement - Mobili-Pass (2025)

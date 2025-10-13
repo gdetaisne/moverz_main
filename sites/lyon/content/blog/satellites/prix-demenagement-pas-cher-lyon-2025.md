@@ -191,3 +191,4 @@ Avant de décider, [comparez toutes les options économiques disponibles à Lyon
 2. INSEE Lyon - Statistiques logement Lyon (2025)
 3. Marché déménagement Lyon - Tarifs déménageurs Lyon 2025 (oct. 2025)
 
+
