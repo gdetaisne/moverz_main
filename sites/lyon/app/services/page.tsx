@@ -71,7 +71,7 @@ export default function ServicesPage() {
                       <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                     </svg>
                   </div>
-                  <span className="text-white/90 text-sm">Estimation IA gratuite</span>
+                  <span className="text-white/90 text-sm">Chargement, déchargement et transport</span>
                 </div>
                 <div className="flex items-center gap-3">
                   <div className="w-5 h-5 rounded-full bg-[#6bcfcf] flex items-center justify-center">
@@ -79,7 +79,7 @@ export default function ServicesPage() {
                       <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                     </svg>
                   </div>
-                  <span className="text-white/90 text-sm">Fourniture de cartons</span>
+                  <span className="text-white/90 text-sm">Mobilier et cartons</span>
                 </div>
                 <div className="flex items-center gap-3">
                   <div className="w-5 h-5 rounded-full bg-[#6bcfcf] flex items-center justify-center">
@@ -134,7 +134,7 @@ export default function ServicesPage() {
                       <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                     </svg>
                   </div>
-                  <span className="text-white/90 text-sm">Estimation IA gratuite</span>
+                  <span className="text-white/90 text-sm">Chargement et déplacement des meubles</span>
                 </div>
                 <div className="flex items-center gap-3">
                   <div className="w-5 h-5 rounded-full bg-[#6bcfcf] flex items-center justify-center">
@@ -142,7 +142,7 @@ export default function ServicesPage() {
                       <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                     </svg>
                   </div>
-                  <span className="text-white/90 text-sm">Emballage de base</span>
+                  <span className="text-white/90 text-sm">Objets précieux et fragiles</span>
                 </div>
                 <div className="flex items-center gap-3">
                   <div className="w-5 h-5 rounded-full bg-[#6bcfcf] flex items-center justify-center">
@@ -150,7 +150,7 @@ export default function ServicesPage() {
                       <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                     </svg>
                   </div>
-                  <span className="text-white/90 text-sm">Démontage/Remontage</span>
+                  <span className="text-white/90 text-sm">Montage et démontage mobilier</span>
                 </div>
                 <div className="flex items-center gap-3">
                   <div className="w-5 h-5 rounded-full bg-[#6bcfcf] flex items-center justify-center">
@@ -199,7 +199,7 @@ export default function ServicesPage() {
                       <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                     </svg>
                   </div>
-                  <span className="text-white/90 text-sm">Estimation IA gratuite</span>
+                  <span className="text-white/90 text-sm">Transport et chargement des meubles</span>
                 </div>
                 <div className="flex items-center gap-3">
                   <div className="w-5 h-5 rounded-full bg-[#6bcfcf] flex items-center justify-center">
@@ -207,7 +207,7 @@ export default function ServicesPage() {
                       <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                     </svg>
                   </div>
-                  <span className="text-white/90 text-sm">Emballage complet</span>
+                  <span className="text-white/90 text-sm font-semibold">Objets fragiles</span>
                 </div>
                 <div className="flex items-center gap-3">
                   <div className="w-5 h-5 rounded-full bg-[#6bcfcf] flex items-center justify-center">
@@ -215,7 +215,15 @@ export default function ServicesPage() {
                       <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                     </svg>
                   </div>
-                  <span className="text-white/90 text-sm">Déballage inclus</span>
+                  <span className="text-white/90 text-sm">Emballage de vos biens</span>
+                </div>
+                <div className="flex items-center gap-3">
+                  <div className="w-5 h-5 rounded-full bg-[#6bcfcf] flex items-center justify-center">
+                    <svg className="w-3 h-3 text-[#04163a]" fill="currentColor" viewBox="0 0 20 20">
+                      <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
+                    </svg>
+                  </div>
+                  <span className="text-white/90 text-sm">Montage et démontage mobilier</span>
                 </div>
                 <div className="flex items-center gap-3">
                   <div className="w-5 h-5 rounded-full bg-[#6bcfcf] flex items-center justify-center">
@@ -224,14 +232,6 @@ export default function ServicesPage() {
                     </svg>
                   </div>
                   <span className="text-white/90 text-sm">Assurance tous risques</span>
-                </div>
-                <div className="flex items-center gap-3">
-                  <div className="w-5 h-5 rounded-full bg-[#6bcfcf] flex items-center justify-center">
-                    <svg className="w-3 h-3 text-[#04163a]" fill="currentColor" viewBox="0 0 20 20">
-                      <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
-                    </svg>
-                  </div>
-                  <span className="text-white/90 text-sm">Garde-meuble</span>
                 </div>
                 <div className="flex items-center gap-3">
                   <div className="w-5 h-5 rounded-full bg-[#6bcfcf] flex items-center justify-center">
