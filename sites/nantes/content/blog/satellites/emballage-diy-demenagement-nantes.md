@@ -259,3 +259,5 @@ Taux casse DIY vaisselle méthodique : 3-6% (vs pros 2-4%, écart faible si soig
 **Total matériel neuf** : 50-150€ (vs économie emballage pros 300€ = gain net 150-250€). Réutilisations ultérieures (déménagements futurs, stockage cave, ventes Leboncoin cartons 0,50-1€/unité récupération 30-50€) = amortissements matériels 2-3 déménagements.
 
 Fausse économie : Zéro achats matériel = emballages ficelle/journaux/couvertures uniquement (économie 100€ matériels mais casse +15-25% = 200-400€ réparations > 100€ économie = perte nette 100-300€).
+
+

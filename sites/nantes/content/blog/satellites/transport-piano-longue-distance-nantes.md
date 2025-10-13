@@ -214,3 +214,5 @@ Timing : **J+21-28 post-arrivée Paris** (bois stabilise humidité parisienne 2-
 Budget total Nantes-Paris piano : Transport 550€ + assurance ad valorem 300€ + accordage Paris J+28 = 120€ = **970€ complet** (vs local Nantes 12 km : 350€ transport + 180€ assurance + 90€ accordage = 620€, longue distance +56% coûts cumulés).
 
 
+
+

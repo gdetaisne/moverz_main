@@ -142,3 +142,4 @@ Cette autonomie d'accès explique le succès du self-stockage auprès des Nantai
 Un Nantais en transition entre deux logements (décalage d'un mois) louera un box de 7-10m² chez Homebox Carquefou ou Box du Grand Ouest Sautron (107-150€/mois). L'accès 7j/7 permet de récupérer progressivement le mobilier selon l'avancement de l'aménagement. Le garde-meuble traditionnel, avec accès sur rendez-vous, complique cette récupération fractionnée – d'où sa faible présence sur ce segment à Nantes.
 
 
+

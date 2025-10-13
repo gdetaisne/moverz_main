@@ -139,3 +139,5 @@ Vous payez uniquement : les mois effectifs jusqu'à la résiliation (respectant 
 Délai traitement : 24-48h confirmation par l'acteur, restitution caution éventuelle (si appliquée) sous 15-30 jours post-état des lieux. Aucune paperasse complexe, aucun justificatif (vs résiliation bail habitation nécessitant nouveau logement, employeur, etc.). Le self-stockage reste un service commercial flexible : vous partez quand vous voulez sans justifier vos raisons. Homebox et Box du Grand Ouest traitent 50-100 résiliations mensuelles à Nantes, process rodé et fluide.
 
 
+
+

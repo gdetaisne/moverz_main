@@ -196,3 +196,5 @@ Photos minimales : (1) **4 angles piano** (face/dos/côtés = vues complètes é
 Stockage : Cloud instantané (Google Photos upload automatique = sauvegardes vs smartphone perdu/volé déménagement), email vous-même (horodatage serveurs Gmail = preuves tiers juridiques litiges). Post-déménagement : Photos réception (états arrivée vs avant = comparaisons), notations bordereau livraison présence porteurs (dégâts constatés signés = preuves irréfutables vs réclamations tardives 48h refusées 80% assurances).
 
 
+
+

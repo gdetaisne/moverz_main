@@ -160,3 +160,5 @@ Optionnel : cadeaux symboliques 30-50€/personne (bons Ikea, bouteilles vin, li
 Horaires récupération : dès 7h-8h samedi (anticiper). Restitution : avant fermeture 20h-21h. Tarifs : 12m³ 70-80€/jour, 20m³ 95-110€/jour. Caution CB 500-800€. Réservez 7-15j avant (disponibilité, surtout haute saison juin-sept). Agence Centre avantage : proche si vous habitez Bouffay/Graslin (10 min trajets). Aéroport avantage : parc véhicules large (50+ utilitaires, disponibilité meilleure), parking aisé récupération. Depuis Doulon : Aéroport 20 min rocade Sud, Centre 15 min (choisissez selon votre trajet déménagement).
 
 
+
+

@@ -185,3 +185,5 @@ Vérification fiabilité : Avis Google >4/5 étoiles (50+ avis mini), adresse ph
 **Aide employeur** : Grandes entreprises Nantes (Airbus, STX France, Centrale Nantes si enseignant/chercheur) remboursent parfois 500-2000€ déménagement si mutation/embauche. Vérifier service RH. **Pôle Emploi** : aide mobilité 1000-5000€ si reprise emploi Nantes nécessitant déménagement >50 km (conditions strictes). Réalité : <10% déménagements Nantes bénéficient aides (conditions restrictives). Majorité financent sur fonds propres, d'où importance astuces économie 300-700€ (concrètes vs aides hypothétiques longues démarches).
 
 
+
+

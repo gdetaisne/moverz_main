@@ -185,3 +185,5 @@ Ces gros meubles nécessitent 2-3 porteurs (canapé escalier = impossible seul, 
 Privilégiez DIY : Île de Nantes, Doulon-Bottière, Bellevue rénové, Nantes Erdre, Malakoff, Breil = rues larges, ascenseurs, parkings. Si contraint centre historique, hybridez : pro pour segment compliqué (Bouffay → périphérie 300€), DIY pour segment facile (périphérie → Doulon 100€). Économie 200€ vs tout pro 650€, effort divisé par deux vs tout DIY.
 
 
+
+

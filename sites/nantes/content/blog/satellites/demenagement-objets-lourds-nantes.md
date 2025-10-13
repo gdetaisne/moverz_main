@@ -237,3 +237,5 @@ Ad valorem obligatoire : Piano 15k€ × 2,5% = 375€ surprime, franchise 400�
 Souscription : Alliance LG/AGS exigent ad valorem >10k€ (refusent couvrir générique responsabilités), 95-98% clients souscrivent (vs généralistes parfois omettent informations = clients découvrent sous-assurances APRÈS sinistres). Franchises majorées 400-800€ (vs 250-500€ mobilier), mais indemnisations réelles vs génériques nulles >750€.
 
 Exceptions : Objets <3000€ (spas gonflables, coffres domestiques basiques, pianos numériques) = ad valorem optionnelle (calculs coûts/bénéfices : surprime 60-90€ vs sous-assurance -2250€ = rentable mais montants faibles acceptables auto-assurance certains clients budgets serrés).
+
+

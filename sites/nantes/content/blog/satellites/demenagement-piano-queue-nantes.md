@@ -225,3 +225,5 @@ Vérification préalable : Mesurez ascenseur (largeur/profondeur/hauteur libres 
 Statistiques Nantes : Île Nantes 85-90% OK (récents 2000-2020), Centre 1970-2000 = 40-50% OK (mixte standards/larges), Centre <1970 = 10-20% OK (majorité sans ascenseurs ou étroits <110 cm).
 
 
+
+

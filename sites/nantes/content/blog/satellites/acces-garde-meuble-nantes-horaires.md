@@ -165,3 +165,5 @@ Oui pour le garde-meuble traditionnel (rare à Nantes), où le déménageur doit
 Box du Grand Ouest Sautron (107€ pour 7m², oct. 2025) et Locakase (6h-22h) affichent des prix similaires. La différence tarifaire reflète principalement taille box, localisation (centre vs périphérie -10-15%), et services additionnels (prêt matériel, assurance incluse), rarement les horaires. L'accès étendu est devenu standard marché self-stockage : l'offrir ne coûte rien de plus à l'exploitant (automatisation), c'est un argument commercial vs différenciateur tarifaire.
 
 
+
+

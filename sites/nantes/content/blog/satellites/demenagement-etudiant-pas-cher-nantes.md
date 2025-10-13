@@ -191,3 +191,5 @@ Bonus : Libération loyer CROUS juillet-août (2 × 230€ = 460€ économie) v
 **À éviter absolument** : 25 août-10 septembre = pic rentrée 55 000 étudiants (+20-30% tarifs = 300-325€ vs 250€, saturation déménageurs réservation 6-8 semaines avant, stress). Si contraint déménager début septembre (nouveau logement disponible que 1er sept), réservez dès mi-juillet minimum + acceptez surcoût 50-75€. Alternative : stockez chez ami nantais 1-2 semaines (gratuit) en attendant 15 sept (pic passé, tarifs rebaissent).
 
 
+
+

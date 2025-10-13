@@ -248,3 +248,5 @@ Raisons : Hub logistique efficace (port Singapour top 3 mondial, coûts portuair
 Ajoutez pré-acheminement Nantes-Le Havre (1-2j), post-acheminement port Asie-domicile (3-8j selon ville), douanes (2-10j selon pays) = **total porte-à-porte 35-60 jours** (5-9 semaines selon destination/douanes). Variables : Météo (tempêtes Pacifique hiver +3-5j retards 15% traversées), escales (certains navires Hong Kong/Singapour/Shanghai multiples = +5j vs direct), grèves ports (rares mais bloquent 1-3 sem. si mal timing). AGS garantit fourchettes contractuelles (35-55j Shanghai, pénalités retards >60j = indemnité 200-500€), sécurité vs partenaires "45-60j peut-être" imprécis.
 
 
+
+

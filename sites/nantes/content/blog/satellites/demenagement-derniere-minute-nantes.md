@@ -209,3 +209,5 @@ Acceptable si : Étudiant jeune récupération rapide, studio minimaliste <15m³
 **Observation** : 15-25% urgences absolues Nantes (refus tous déménageurs) = solutions alternatives forcées (DIY 60%, hôtel temporaire 25%, stockage+minimum 15%). Taux succès : 90-95% (vs abandons résignations 5-10% = dorment sols amis/famille indefinitely = non-solutions).
 
 Prévention : Identifiez signaux avant-coureurs (retards loyers = procédures 6-12 mois prévisibles, mutations emplois rumeurs 1-2 mois, tensions couples = anticipez séparations possibles, surveillances logements opportunités dès -8 sem. vs -1 sem.) = planifications préventives économisant 300-800€ urgences systématiques.
+
+

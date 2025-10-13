@@ -255,3 +255,5 @@ Master 14m³ limite : Studios minimalistes 15-18m³ (célibataires, meubles comp
 **Cartes bancaires** : Gold/Platinum (Visa Premier, Mastercard Gold) incluent assurances locations (CDW franchises réduites 0-300€, assistances). Vérifications : Appelez banques confirmant couvertures utilitaires déménagements (certaines excluent >12m³, ou France uniquement vs Europe). Si couvertes carte = skip rachat franchise Europcar +25€ économie.
 
 Obligatoire : CDW minimale (incluse loueurs, vs refuser = impossible légalement). Rachat franchise : Optionnel 40-50% clients souscrivent (sécurités vs 20-30€), 50-60% acceptent franchises standards (économies vs risques 5-8% calculés acceptables 15-24€ espérances < 25€ surcoûts).
+
+

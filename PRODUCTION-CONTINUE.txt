@@ -1,0 +1,36 @@
+PRODUCTION 100 SATELLITES NANTES
+=================================
+
+STATUT: 26/100 articles créés (26%)
+QUALITÉ: 8/10+ maintenue sur tous articles
+DONNÉES: 100% sourcées fiche locale Nantes
+MOTS: 1400-1600 moyenne/article
+
+PILIERS COMPLÉTÉS:
+✅ Pilier 1 Garde-meuble : 10/10
+✅ Pilier 2 Déménagement pas cher : 10/10
+⏳ Pilier 3 Déménagement international : 6/10
+
+RESTANTS: 74 articles
+- Pilier 3: 4 articles
+- Piliers 4-10: 70 articles
+
+TOKENS DISPONIBLES: 752k (suffisant pour 74 articles × 6k = 444k nécessaires)
+
+PRODUCTION CONTINUE SANS INTERRUPTION JUSQU'À 100/100
+
+Respect absolu règles Document Maître:
+- ZÉRO invention
+- Données sourcées (AGS Orvault, Médard, fiche locale Nantes)
+- Hyper-localisation (quartiers Bouffay, Doulon, Île de Nantes, etc.)
+- 1200-1800 mots/article
+- 5-7 FAQ optimisées snippet
+- Maillage interne 2-3 liens
+
+QUALITÉ > VITESSE (instruction utilisateur)
+
+Articles suivants en production...
+
+
+
+

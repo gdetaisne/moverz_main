@@ -252,3 +252,5 @@ Incidents possibles : Tempêtes retards 2-5 jours (vs prévu, mais arrivée fina
 AGS Nantes propose sur demande (15-20% clients corporate). Organisation : Inventaire séparé (liste A aérien urgent, liste B maritime suiveur), 2 enlèvements Nantes (aérien J-10, maritime J-30), 2 livraisons destination (aérien J+0, maritime J+25). Coordination complexe mais faisable (AGS expertise). Pour qui : Cadres expats budgets >15k€ total, confort installation prioritaire (vous arrivez destination J-5, affaires aériennes J+0 = installation immédiate studio, maritime J+25 = complément ameublement). Économie vs tout aérien : 14-18k€. Surcoût vs tout maritime : 1-5k€ = prix confort installation échelonnée.
 
 
+
+

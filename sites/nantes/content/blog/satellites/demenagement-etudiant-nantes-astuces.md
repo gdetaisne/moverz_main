@@ -265,3 +265,5 @@ Mois chers : Juillet +15-25% (vacances familles, étudiants retours régions = d
 
 **Faisabilité** : 25-35% étudiants trouvent colocataires groupages (efforts recherches 2-4 sem., vs 65-75% déménagent seuls impossibilités synchronisations dates/destinations/confiances mobiliers partagés camions).
 
+
+

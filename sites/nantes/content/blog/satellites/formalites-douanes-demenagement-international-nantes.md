@@ -187,3 +187,5 @@ Exigences : USA/UK/Asie demandent **description EN précise** (marque, modèle, 
 Nantes : AGS/Demidov sous-traitent traducteurs assermentés partenaires Paris/Nantes (agrément ambassades USA/Chine/Japon). Délai : 5-10 jours (selon charge traducteur). Inclus parfois assistance douanes AGS (bundle 500€ inclut inventaire + traduction + formulaires vs séparé inventaire 300€ + traduction 200€ = 500€ identique). Vérifiez devis : "Assistance douanes 600€" = probablement tout inclus (inventaire multilingue certifié + formulaires + interfaces).
 
 
+
+

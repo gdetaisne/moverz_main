@@ -180,3 +180,5 @@ Réponse Nantes acteurs : Oui si disponibilité équipe (pas garanti 1 semaine a
 En formule éco : la veille ou matin du déménagement (si 8h arrivée pros), vous démontez lits, tables, armoires Ikea/Conforama, bibliothèques. Pieds séparés, visserie dans sachets scotchés sur meubles, plateaux empilables. Déménageurs chargent meubles démontés (gain place camion). À l'arrivée nouveau logement (Doulon, Île de Nantes), déménageurs déchargent et partent, vous remontez dans après-midi/jours suivants. Durée démontage T2 : 3-4h. Remontage : 4-6h (toujours plus long, recherche notice, visserie, ajustements). Total : 7-10h vs 100-200€ économie formule éco vs standard.
 
 
+
+

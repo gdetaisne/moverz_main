@@ -172,3 +172,5 @@ Luthiers spécialisés anciens (Maison Piano Nantes, 2-4 acteurs) : Accordent di
 Timing : J+28 post-transport (stabilisation bois 2-4 sem., identique modernes), mais diapason spécifique impératif (vs modernes 442 Hz standards). Clients jouant avec orchestres modernes 442 Hz : Dilemme (maintenir 438 Hz authentique = désaccords -8 cents vs orchestre gênants, ou réaccorder 442 Hz = risques cadres +8-12%). Compromis : 440 Hz (écarts ±4 cents vs 438/442 tolérables 70-80% oreilles non-absolues).
 
 
+
+

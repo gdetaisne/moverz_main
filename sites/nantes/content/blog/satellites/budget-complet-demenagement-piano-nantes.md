@@ -229,3 +229,5 @@ Raisons : Camion déjà mobilisé (marginal +0€ vs dédié piano 200€), port
 
 Non-recommandé : Piano ajouté déménagement généraliste non-spécialisé (Demidov/autres mobilier uniquement) = économies 100-200€ annulées risques dégâts 300-800€ (porteurs non-formés pianos = rayures 18-25% vs spécialisés 3-5%). Optimal : Forfait Alliance LG "déménagement complet T2 + piano spécialisé" = économie -200€ + sécurité spécialistes (vs piano séparé isolé +200€, ou généraliste -100€ mais risques +500€).
 
+
+

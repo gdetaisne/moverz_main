@@ -207,3 +207,5 @@ Critères choix : (1) Références conservatoire/orchestres Nantes (garanties co
 Évitez : Accordeurs annonces Leboncoin 50-70€ (90% amateurs autodidactes, précisions ±3-5 cents médiocres vs ±0,5-1 cent pros, zéro garanties), accordages DIY kits 30€ (leviers manivelles, diapasons électroniques, tutoriels YouTube = résultats catastrophiques 80-95% débutants, désaccordages aggravés vs améliorés, casses cordes 10-20% = réparations luthiers 200-400€ > économies 45€ tentées).
 
 
+
+

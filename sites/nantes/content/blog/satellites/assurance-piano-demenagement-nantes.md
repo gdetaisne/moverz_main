@@ -211,3 +211,5 @@ Conditions couverture : Déménageur certifié nacelles (Alliance LG, AGS autori
 **Prévention** : Photos avant déménagement (horodatées 15-20 photos), expertises luthiers préalables pianos >20k€ anciens (certificats états), clauses contrats détaillées (ad valorem explicite "piano Yamaha U3 n°série XXX valeur 8000€ facture 2018 jointe" vs vague "piano droit" = preuves litiges).
 
 
+
+

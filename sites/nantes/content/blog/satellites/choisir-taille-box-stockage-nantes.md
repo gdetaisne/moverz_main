@@ -201,3 +201,4 @@ Procédure : vous signalez votre besoin (agrandissement ou réduction), l'exploi
 Privilégiez un seul grand sauf si : vous avez besoin de deux emplacements géographiques distincts (centre + périphérie), ou vous partagez avec une autre personne gérant séparément ses affaires. À Nantes, la concentration des acteurs en périphérie (Carquefou, Sautron) favorise la solution unique optimisée.
 
 
+

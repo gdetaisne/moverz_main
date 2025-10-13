@@ -263,3 +263,5 @@ Vérifications devis : Demandez explicitement "démontage/remontage lit Ikea Mal
 DIY montage : Visseries rangées sachets ziplock étiquetés "Lit Malm pieds 4 vis" (vs mélangées = recherches 15-45 min. rallongent), notices conservées (téléchargeables Ikea.fr si perdues), outils (tournevis cruciformes/plats, clés Allen 4-6 mm Ikea fournies meubles).
 
 
+
+

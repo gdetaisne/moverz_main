@@ -239,3 +239,5 @@ Inconvénients Canada : Climat (Montréal/Toronto hivers -15-25°C vs NYC -5-10�
 Urgences (<3 mois) : Aérien uniquement (délai 2-3 sem., coût 25-30k€ T2 vs maritime 10-12k€, surcoût +15-18k€ pour gagner 4-6 sem.). Mutations corporate urgentes (employeur paie) : aérien acceptable. Mutations perso (vous payez) : refusez urgence <3 mois (impossible maritime = surcoût aérien 18k€ ruineux), négociez report départ employeur (vs AGS Orvault : "20% clients USA tentent process 3 mois = rush, 70% réussissent avec stress maximal + surcoûts urgence +2-3k€, 30% échouent = retard arrivée ou aérien forcé. Minimum vital 4 mois, sécurité 5-6 mois").
 
 
+
+

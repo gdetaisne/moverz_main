@@ -173,3 +173,5 @@ Cas limite : salariés 1800-2200€ net avec congés abondants (RTT 12-15 jours/
 Différence possible : fraîcheur équipes. Mardi matin = équipe reposée (week-end repos + lundi souvent calme). Samedi après-midi = équipe ayant déjà fait déménagement samedi matin (fatigue, précipitation possible). Mais pros gèrent rotation : équipe samedi matin ≠ équipe samedi après-midi souvent. Qualité prestation identique (assurance, techniques, sécurité) quel que soit jour. Seul le prix varie, jamais le professionnalisme des acteurs nantais certifiés.
 
 
+
+

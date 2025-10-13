@@ -223,3 +223,5 @@ Résidence UK (emploi, études, famille, >6 mois) : Skilled Worker Visa (emploi)
 **Différence nette** : Quasi nulle (35 min vs 90 min traversée = négligeable sur 10-15j total, douanes identiques Douvres/Folkestone). Déménageurs Nantes (AGS) choisissent selon planning (ferry départ 14h disponible vs Eurotunnel 16h, ils prennent ferry). Client : pas choix direct (déménageur gère logistique optimale). Météo hiver (nov-mars) : Eurotunnel léger avantage (zéro annulation vs ferry 5-8%), mais déménageurs anticipent (réservent ferry + Eurotunnel backup si tempête annoncée).
 
 
+
+

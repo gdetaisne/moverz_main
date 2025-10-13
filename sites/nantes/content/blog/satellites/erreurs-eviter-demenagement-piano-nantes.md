@@ -214,3 +214,5 @@ Prévention : Budgetez totaux réalistes dès départ (transport 450€ + assura
 Total erreurs cumulées pire scénario : 7000€ (casse non assurée) + 3000€ (meublé) + 500€ (dégâts généraliste) = **10 500€ pertes** vs prévenir 180€ (ad valorem) + sync gratuit + 200€ (spécialisé surcoût) = **380€ préventions** (économie 10 120€ = ×26 ROI préventions).
 
 
+
+

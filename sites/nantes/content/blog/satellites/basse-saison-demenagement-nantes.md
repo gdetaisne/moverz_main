@@ -134,3 +134,5 @@ Technique : Comparez 3-4 devis, mentionnez concurrence. "Médard m'a proposé 45
 Précautions : Bâches plastique (20€, protègent chargement camion ouvert/affaires extérieur temporaire), vêtements chauds imperméables (0€ si vous possédez), lampes frontales si déchargement après 17h hiver (15€, éclairage mains libres). Temps ajouté : +20-30% manutention (sols glissants prudence, protections supplémentaires) = 5-6h vs 4-5h été pour chargement T2. Mais économie 70€ + disponibilité excellent compensent largement. Évitez jours pluie battante (consultez météo 48h avant, reportez si possible flexibilité = déménageurs basse saison acceptent reports courts vs haute refuse).
 
 
+
+

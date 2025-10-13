@@ -154,3 +154,5 @@ Sont exclus : objets de valeur non déclarés (bijoux >500€, œuvres d'art), d
 Concrètement : si un dégât des eaux endommage vos biens pour 2000€, vous payez la franchise de 200€, l'assurance indemnise les 1800€ restants (valeur de remplacement ou valeur vénale selon contrat). Pour un sinistre à 500€, vous payez 200€ de franchise, l'assurance couvre 300€. En dessous de la franchise, vous n'êtes pas indemnisé. Cette franchise explique pourquoi l'assurance vaut surtout pour les biens >3000€ : pour 1000€ de stockage (quelques cartons), l'assurance à 15€/mois (180€/an) + franchise 200€ coûte presque autant que le remplacement direct.
 
 
+
+

@@ -243,3 +243,5 @@ Accordage J+3 (immédiat post-déménagement) = instable (piano ré-désaccorde 
 Tarifs luthiers Nantes : 80-120€ accordage standard (Alliance LG partenaire +90€ inclus forfait déménagement+accordage 440€ clés en main). Désaccordage sévère (généralistes malmenés) : 120-180€ (passes multiples cordes endommagées).
 
 
+
+

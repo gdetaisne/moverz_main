@@ -148,3 +148,5 @@ T2 30m³ Nantes-New York : maritime 10 000€ (333€/m³, 6 semaines) vs aérie
 Risques spécifiques international : tempêtes maritimes (conteneurs perdus mer, rare <0,1% mais existe), confiscations douanes (erreur documentaire, produits interdits non déclarés), casse manutentions multiples (Nantes-port-navire-port destination-domicile = 6-10 manipulations vs 2 local), vols ports (rares mais possibles). Assurance tous risques AGS/Demidov : franchise 500-1000€, couvre tout sauf faute intentionnelle client (fausses déclarations douanes). Pour T2 10 000€ Nantes-NY, assurance 300-500€ = 3-5% patrimoine mobilier, indispensable (vs local 15 000€ mobilier sur 15 km Nantes = risque moindre, assurance +25€ discutable).
 
 
+
+

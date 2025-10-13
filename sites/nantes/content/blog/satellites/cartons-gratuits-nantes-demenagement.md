@@ -142,3 +142,5 @@ Avantages anticipation : zéro stress (si quantité insuffisante, temps complét
 Meilleurs timing : Mardi-vendredi 9h-11h (réappro nuit, cartons frais empilés), samedi matin 8h-10h (réappro semaine, stock maxi). Évitez dimanche/lundi (stock bas, pas livraison dimanche). Si refus Leclerc Paridis, tentez Carrefour Atlantis (concurrent = politiques différentes), ou Auchan, ou Lidl. Sur 5 supermarchés contactés Nantes métropole, 4-5 fourniront cartons. Quantité totale obtenue : 60-100 cartons (surplus utilisable déménagements futurs amis/revente Leboncoin).
 
 
+
+

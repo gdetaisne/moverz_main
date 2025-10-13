@@ -184,3 +184,5 @@ Organisation : séparez virtuellement box (gauche/droite), étiquetez cartons no
 Réserver tôt garantit : disponibilité taille souhaitée (1-5m²), tarif standard (vs majorations période tendue), choix acteur optimal (Homebox campus Tertre si vous logez Doulon). Vous payez généralement 1er mois dès réservation (22-77€), bloquant le box jusqu'à votre arrivée fin juin. Coût anticipation : 0€ (vous auriez payé ce mois de toute façon). Gain : sérénité et prix maîtrisé vs stress dernière minute 28 août cherchant box 1,5m² introuvable (tout plein rentrée).
 
 
+
+

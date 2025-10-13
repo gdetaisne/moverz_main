@@ -229,3 +229,5 @@ Sécurité AGS Nantes groupages : Étiquetage triple (couleur client A rouge, nu
 Parfois AGS informe génériquement : "Conteneur 20 avril NY inclut 3 clients France (vous 30m³ Nantes, Paris 18m³, Lyon 15m³)". Zéro détails identités/contenus. Rencontre possible port arrivée si livraisons simultanées (2-3 camions déchargent même jour), mais rare (livraisons échelonnées adresses différentes NYC). Réseau social expatriés : Certains clients groupage se contactent après via groupes Facebook "Français NYC" ("Qui a déménagé avec AGS mars-avril ? On a peut-être partagé conteneur !" = anecdotique convivial mais zéro impact pratique).
 
 
+
+

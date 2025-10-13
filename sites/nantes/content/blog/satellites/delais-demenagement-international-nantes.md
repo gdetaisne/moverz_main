@@ -268,3 +268,5 @@ Incompressibles : Visa Chine (consulat Paris bureaucratie célèbre lente, spons
 **Surcoût** : Aérien T2 30m³ = 30m³ × 900€/m³ = **27 000€** (vs maritime 10-12k€ = +15-17k€ surcoût, ×2,5 prix). Aberrant sauf urgences absolues (mutation annoncée 3 sem. avant, corporate paie, VIP). **Aérien partial** (5m³ essentiels aérien 4500€, 25m³ maritime 9000€ = total 13 500€) = compromis (+1500€ vs maritime pur, essentiels J+12, reste J+40).
 
 
+
+

@@ -207,3 +207,5 @@ T2 formule éco : 450€ mardi-jeudi vs 495-520€ samedi = économie **45-70€
 **Réalité Nantes** : <10% déménagements bénéficient aides publiques (conditions restrictives). Majorité financent sur fonds propres, d'où importance formule économique (450€ vs 800€ = 350€ économie directe sans paperasse CAF/employeur).
 
 
+
+

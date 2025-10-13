@@ -282,3 +282,5 @@ Surprime étages : +0,5-1% additionnels (8000€ × 0,8% = 64€ sur 160€ surp
 Souscription : Obligatoire étages >3 (Alliance LG/AGS exigent ad valorem, refusent couvrir sinon). Étages 1-2 : Recommandée pianos >5000€, optionnelle <5000€.
 
 
+
+

@@ -247,3 +247,5 @@ Retards <30 jours : aucune indemnité (tolérances normales, maritime J+30 à J+
 **Nantes** : 90% clients privilégient assurance déménageur (AGS/Demidov intégrée) pour simplicité vs 10% comparent assureurs tiers (économie 100€ possible mais complexité). Recommandation : Intégrée sauf si vous êtes expert assurances (comprenez clauses, capable gérer sinistre multi-interlocuteurs) ET économie >200€ justifie efforts.
 
 
+
+
