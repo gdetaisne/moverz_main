@@ -418,3 +418,4 @@ sources:
 
 **Sauvegarde :** `seo-briefs/lyon/satellites/demenagement-pas-cher/brief-satellite-01-prix-demenagement-pas-cher-lyon-2025.md` ✅
 
+
