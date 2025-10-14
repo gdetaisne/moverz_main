@@ -6,13 +6,13 @@ RUN echo "FORCE REBUILD toulouse $(date +%s)" > /tmp/force-rebuild-$(date +%s).t
 
 # Install dependencies
 FROM base AS deps
-COPY sites/toulouse/package.json ./package.json
+COPY package.json ./
 RUN npm install --production=false
 
 # Build application
 FROM base AS builder
 COPY --from=deps /app/node_modules ./node_modules
-COPY sites/toulouse/. .
+COPY . .
 ENV NEXT_TELEMETRY_DISABLED=1
 RUN npm run build
 
