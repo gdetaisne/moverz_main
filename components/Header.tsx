@@ -41,12 +41,12 @@ export default function Header() {
   };
 
   const zonesItems = [
-    { href: '/nice', label: 'Nice' },
-    { href: '/nice/vieux-nice', label: 'Vieux Nice' },
-    { href: '/nice/promenade-anglais', label: 'Promenade des Anglais' },
-    { href: '/nice/cimiez', label: 'Cimiez' },
-    { href: '/nice/liberation', label: 'Libération' },
-    { href: '/nice/port', label: 'Port' },  ];
+    { href: '/rennes', label: 'Rennes' },
+    { href: '/rennes/centre-ville', label: 'Centre-ville' },
+    { href: '/rennes/thabor', label: 'Thabor' },
+    { href: '/rennes/villejean', label: 'Villejean' },
+    { href: '/rennes/beaulieu', label: 'Beaulieu' },
+    { href: '/rennes/cleunay', label: 'Cleunay' },  ];
 
 
   return (
@@ -66,7 +66,7 @@ export default function Header() {
           <div className="text-white font-semibold tracking-tight text-sm md:text-base leading-tight flex flex-col">
             <span>Devis</span>
             <span>Déménageur</span>
-            <span>Nice</span>
+            <span>Rennes</span>
           </div>
         </Link>
 
@@ -136,34 +136,34 @@ export default function Header() {
                   Destinations fréquentes
                 </div>
                 <Link
-                  href="/nice-vers-paris"
+                  href="/rennes-vers-paris"
                   className="block px-4 py-2 text-gray-800 hover:bg-white/50 transition-colors"
                   onClick={() => {
                     setIsZonesDropdownOpen(false);
                     trackClick('corridor-paris');
                   }}
                 >
-                  Nice → Paris
+                  Rennes → Paris
                 </Link>
                 <Link
-                  href="/nice-vers-lyon"
+                  href="/rennes-vers-lyon"
                   className="block px-4 py-2 text-gray-800 hover:bg-white/50 transition-colors"
                   onClick={() => {
                     setIsZonesDropdownOpen(false);
                     trackClick('corridor-lyon');
                   }}
                 >
-                  Nice → Lyon
+                  Rennes → Lyon
                 </Link>
                 <Link
-                  href="/nice-vers-toulouse"
+                  href="/rennes-vers-toulouse"
                   className="block px-4 py-2 text-gray-800 hover:bg-white/50 transition-colors"
                   onClick={() => {
                     setIsZonesDropdownOpen(false);
                     trackClick('corridor-toulouse');
                   }}
                 >
-                  Nice → Toulouse
+                  Rennes → Toulouse
                 </Link>
               </div>
             )}

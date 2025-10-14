@@ -26,17 +26,17 @@ const categoryLabels: { [key: string]: string } = {
 };
 
 const categoryDescriptions: { [key: string]: string } = {
-  'etudiant': 'Tous nos guides et conseils pour réussir votre déménagement étudiant à nice : astuces budget, aides financières, et solutions pratiques.',
-  'entreprise': 'Guides complets pour organiser votre déménagement d\'entreprise à nice : planification, logistique, et conseils professionnels.',
-  'piano': 'Conseils d\'experts pour déménager votre piano à nice en toute sécurité : tarifs, techniques, et précautions.',
-  'international': 'Tout savoir sur le déménagement international depuis nice : formalités, transport, et organisation.',
-  'longue-distance': 'Guides pratiques pour vos déménagements longue distance depuis nice : préparation, coûts, et astuces.',
-  'pas-cher': 'Astuces et conseils pour déménager à petit prix à nice sans compromettre la qualité.',
-  'urgent': 'Solutions et conseils pour organiser un déménagement urgent à nice dans les meilleures conditions.',
-  'devis': 'Guides pour comprendre et obtenir les meilleurs devis de déménagement à nice.',
-  'garde-meuble': 'Tout savoir sur les solutions de garde-meuble à nice : tarifs, options, et conseils.',
-  'prix': 'Guides détaillés sur les prix de déménagement à nice pour tous types de projets.',
-  'prix-piano': 'Informations complètes sur les tarifs de déménagement de piano à nice.'
+  'etudiant': 'Tous nos guides et conseils pour réussir votre déménagement étudiant à rennes : astuces budget, aides financières, et solutions pratiques.',
+  'entreprise': 'Guides complets pour organiser votre déménagement d\'entreprise à rennes : planification, logistique, et conseils professionnels.',
+  'piano': 'Conseils d\'experts pour déménager votre piano à rennes en toute sécurité : tarifs, techniques, et précautions.',
+  'international': 'Tout savoir sur le déménagement international depuis rennes : formalités, transport, et organisation.',
+  'longue-distance': 'Guides pratiques pour vos déménagements longue distance depuis rennes : préparation, coûts, et astuces.',
+  'pas-cher': 'Astuces et conseils pour déménager à petit prix à rennes sans compromettre la qualité.',
+  'urgent': 'Solutions et conseils pour organiser un déménagement urgent à rennes dans les meilleures conditions.',
+  'devis': 'Guides pour comprendre et obtenir les meilleurs devis de déménagement à rennes.',
+  'garde-meuble': 'Tout savoir sur les solutions de garde-meuble à rennes : tarifs, options, et conseils.',
+  'prix': 'Guides détaillés sur les prix de déménagement à rennes pour tous types de projets.',
+  'prix-piano': 'Informations complètes sur les tarifs de déménagement de piano à rennes.'
 };
 
 export async function generateMetadata({ params }: CategoryPageProps): Promise<Metadata> {
@@ -44,7 +44,7 @@ export async function generateMetadata({ params }: CategoryPageProps): Promise<M
   const categoryDescription = categoryDescriptions[params.category] || `Découvrez tous nos articles sur ${categoryLabel.toLowerCase()}.`;
   
   return {
-    title: `${categoryLabel} - Blog Déménagement nice`,
+    title: `${categoryLabel} - Blog Déménagement rennes`,
     description: categoryDescription,
   };
 }
@@ -253,10 +253,10 @@ export default function CategoryPage({ params }: CategoryPageProps) {
         <div className="container">
           <div className="bg-gradient-to-r from-[#2b7a78] to-[#6bcfcf] rounded-2xl p-8 md:p-12 text-center text-white">
             <h2 className="text-2xl md:text-3xl font-bold mb-4">
-              Prêt à déménager à nice ?
+              Prêt à déménager à rennes ?
             </h2>
             <p className="text-lg text-white/90 mb-8 max-w-2xl mx-auto">
-              Notre équipe de déménageurs professionnels à nice est à votre disposition 
+              Notre équipe de déménageurs professionnels à rennes est à votre disposition 
               pour vous accompagner dans votre projet.
             </p>
             <Link 

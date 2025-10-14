@@ -1,8 +1,8 @@
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Contact Déménagement nice | Devis Gratuits | Moverz',
-  description: 'Contactez nos experts déménageurs à nice. Estimation gratuite en 30 min, 5 devis précis sous 7 jours.',
+  title: 'Contact Déménagement rennes | Devis Gratuits | Moverz',
+  description: 'Contactez nos experts déménageurs à rennes. Estimation gratuite en 30 min, 5 devis précis sous 7 jours.',
 };
 
 export default function ContactPage() {
@@ -14,7 +14,7 @@ export default function ContactPage() {
         <div className="absolute inset-0">
           <img 
             src="https://images.unsplash.com/photo-1423666639041-f56000c27a9a?q=80&w=2000&auto=format&fit=crop"
-            alt="Contactez notre équipe de déménagement à nice"
+            alt="Contactez notre équipe de déménagement à rennes"
             className="w-full h-full object-cover"
           />
           <div className="absolute inset-0 bg-gradient-to-br from-[#04163a]/95 via-[#2b7a78]/85 to-[#04163a]/90"></div>

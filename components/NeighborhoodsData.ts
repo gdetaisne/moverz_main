@@ -1,28 +1,28 @@
 export type Item = { slug: string; title: string };
 
 export const QUARTIERS: Item[] = [
-  { slug: "vieux-nice",      title: "Vieux Nice" },
-  { slug: "promenade-anglais",      title: "Promenade des Anglais" },
-  { slug: "cimiez",      title: "Cimiez" },
-  { slug: "liberation",      title: "Libération" },
-  { slug: "port",      title: "Port" },
-  { slug: "mantega",      title: "Mantega" },
-  { slug: "fabron",      title: "Fabron" },
-  { slug: "pasteur",      title: "Pasteur" },
-  { slug: "garibaldi",      title: "Garibaldi" },
-  { slug: "saint-roch",     title: "Saint-Roch" },
+  { slug: "centre-ville",      title: "Centre-ville" },
+  { slug: "thabor",      title: "Thabor" },
+  { slug: "villejean",      title: "Villejean" },
+  { slug: "beaulieu",      title: "Beaulieu" },
+  { slug: "cleunay",      title: "Cleunay" },
+  { slug: "saint-helier",      title: "Saint-Hélier" },
+  { slug: "brequigny",      title: "Bréquigny" },
+  { slug: "blosne",      title: "Le Blosne" },
+  { slug: "maurepas",      title: "Maurepas" },
+  { slug: "longchamp",     title: "Longchamp" },
 ];
 
 export const COMMUNES: Item[] = [
-  { slug: "cannes",       title: "Cannes" },
-  { slug: "antibes",       title: "Antibes" },
-  { slug: "grasse",       title: "Grasse" },
-  { slug: "menton",       title: "Menton" },
-  { slug: "monaco",       title: "Monaco" },
+  { slug: "saint-gregoire",       title: "Saint-Grégoire" },
+  { slug: "cesson-sevigne",       title: "Cesson-Sévigné" },
+  { slug: "pace",       title: "Pacé" },
+  { slug: "betton",       title: "Betton" },
+  { slug: "montgermont",       title: "Montgermont" },
 ];
 
 export function urlForQuartier(slug: string) {
-  return `/devis-demenagement-Nice-${slug}/`;
+  return `/devis-demenagement-Rennes-${slug}/`;
 }
 export function urlForCommune(slug: string) {
   return `/devis-demenagement-${slug}/`;
