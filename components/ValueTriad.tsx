@@ -14,7 +14,7 @@ export default function ValueTriad() {
     },
     {
       title: "Experts locaux",
-      description: "Déménageurs qualifiés (ex. Lille & Gironde)"
+      description: "Déménageurs qualifiés (ex. Lyon & Gironde)"
     }
   ];
 

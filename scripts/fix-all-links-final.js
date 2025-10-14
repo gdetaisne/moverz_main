@@ -4,24 +4,24 @@ const path = require('path');
 // Tous les mappings de liens à corriger
 const linkMappings = {
   // Self-stockage
-  '/blog/garde-meuble/self-stockage-lille-mode-emploi-prix': '/blog/garde-meuble/self-stockage-mode-emploi-prix',
+  '/blog/garde-meuble/self-stockage-lyon-mode-emploi-prix': '/blog/garde-meuble/self-stockage-mode-emploi-prix',
   
   // Etudiant
-  '/blog/etudiant/cartons-gratuits-lille': '/blog/etudiant/cartons-gratuits',
-  '/blog/etudiant/stockage-etudiant-lille': '/blog/etudiant/stockage-etudiant',
-  '/blog/etudiant/camion-demenagement-etudiant-lille': '/blog/etudiant/camion-demenagement-etudiant',
+  '/blog/etudiant/cartons-gratuits-lyon': '/blog/etudiant/cartons-gratuits',
+  '/blog/etudiant/stockage-etudiant-lyon': '/blog/etudiant/stockage-etudiant',
+  '/blog/etudiant/camion-demenagement-etudiant-lyon': '/blog/etudiant/camion-demenagement-etudiant',
   
   // Urgent
-  '/blog/urgent/demenager-48h-lille-realites-solutions': '/blog/urgent/demenager-48h-realites-solutions',
+  '/blog/urgent/demenager-48h-lyon-realites-solutions': '/blog/urgent/demenager-48h-realites-solutions',
   
   // Prix garde-meuble
-  '/blog/prix/prix-garde-meuble-lille-solutions-tarifs': '/blog/prix/prix-garde-meuble-solutions-tarifs',
+  '/blog/prix/prix-garde-meuble-lyon-solutions-tarifs': '/blog/prix/prix-garde-meuble-solutions-tarifs',
   
   // International
-  '/blog/international/assurance-demenagement-international-lille': '/blog/international/assurance-demenagement-international',
-  '/blog/international/prix-demenagement-international-lille': '/blog/international/prix-demenagement-international',
-  '/blog/international/emballage-demenagement-international-lille': '/blog/international/emballage-demenagement-international',
-  '/blog/international/formalites-douanieres-demenagement-international-lille': '/blog/international/formalites-douanieres-demenagement-international',
+  '/blog/international/assurance-demenagement-international-lyon': '/blog/international/assurance-demenagement-international',
+  '/blog/international/prix-demenagement-international-lyon': '/blog/international/prix-demenagement-international',
+  '/blog/international/emballage-demenagement-international-lyon': '/blog/international/emballage-demenagement-international',
+  '/blog/international/formalites-douanieres-demenagement-international-lyon': '/blog/international/formalites-douanieres-demenagement-international',
 };
 
 function fixLinksInFile(filePath) {

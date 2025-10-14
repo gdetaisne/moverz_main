@@ -5,7 +5,7 @@ Disallow: /api/
 Disallow: /admin/
 
 # Host
-Host: https://www.devis-demenageur-lille.fr
+Host: https://www.devis-demenageur-lyon.fr
 
 # Sitemaps
-Sitemap: https://www.devis-demenageur-lille.fr/sitemap.xml
+Sitemap: https://www.devis-demenageur-lyon.fr/sitemap.xml

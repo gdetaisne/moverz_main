@@ -62,35 +62,70 @@ export default function InventaireIAPage() {
 
       {/* Main content */}
       <div className="container max-w-7xl mx-auto px-4 md:px-6 py-8">
-        <div className="bg-white/5 backdrop-blur rounded-2xl shadow-marketing-xl overflow-hidden border border-white/10">
-          <div className="p-8 text-center">
-            <div className="mb-6">
-              <div className="w-16 h-16 bg-[#6bcfcf]/20 rounded-full flex items-center justify-center mx-auto mb-4">
-                <span className="text-2xl">🤖</span>
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
+          
+          {/* Bloc 1: Estimation rapide */}
+          <div className="bg-white/5 backdrop-blur rounded-2xl shadow-marketing-xl overflow-hidden border border-white/10">
+            <div className="p-8 text-center">
+              <div className="mb-6">
+                <div className="w-16 h-16 bg-[#6bcfcf]/20 rounded-full flex items-center justify-center mx-auto mb-4">
+                  <span className="text-2xl">💰</span>
+                </div>
+                <h2 className="text-2xl font-bold text-white mb-2">
+                  Estimer rapidement le coût de mon déménagement
+                </h2>
+                <p className="text-white/80 mb-6">
+                  Obtenez une estimation personnalisée en quelques clics grâce à notre calculateur intelligent.
+                </p>
               </div>
-              <h2 className="text-2xl font-bold text-white mb-2">
-                Inventaire IA en cours de développement
-              </h2>
-              <p className="text-white/80 mb-6">
-                Notre outil d'analyse automatique des objets sera bientôt disponible.
-              </p>
-            </div>
-            
-            <div className="space-y-4">
-              <a 
-                href="https://movers-test.gslv.cloud/" 
-                target="_blank" 
-                rel="noopener noreferrer"
-                className="inline-flex h-11 items-center justify-center rounded-2xl bg-[#6bcfcf] px-6 text-sm font-medium text-white shadow-marketing-xl hover:brightness-110 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white/50 transition duration-300"
-              >
-                Accéder à l'outil (nouvelle fenêtre)
-              </a>
               
-              <div className="text-sm text-white/60">
-                <p>Ou contactez-nous pour une démonstration personnalisée</p>
+              <div className="space-y-4">
+                <a 
+                  href="/estimation-rapide/" 
+                  className="inline-flex h-11 items-center justify-center rounded-2xl bg-[#6bcfcf] px-6 text-sm font-medium text-white shadow-marketing-xl hover:brightness-110 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white/50 transition duration-300"
+                >
+                  Calculer mon devis gratuit
+                </a>
+                
+                <div className="text-sm text-white/60">
+                  <p>Estimation en 2 minutes • 100% gratuit</p>
+                </div>
               </div>
             </div>
           </div>
+
+          {/* Bloc 2: Inventaire IA */}
+          <div className="bg-white/5 backdrop-blur rounded-2xl shadow-marketing-xl overflow-hidden border border-white/10">
+            <div className="p-8 text-center">
+              <div className="mb-6">
+                <div className="w-16 h-16 bg-[#6bcfcf]/20 rounded-full flex items-center justify-center mx-auto mb-4">
+                  <span className="text-2xl">🤖</span>
+                </div>
+                <h2 className="text-2xl font-bold text-white mb-2">
+                  Inventaire IA
+                </h2>
+                <p className="text-white/80 mb-6">
+                  Analyse automatique de vos objets pour un inventaire précis et optimisé.
+                </p>
+              </div>
+              
+              <div className="space-y-4">
+                <a 
+                  href="https://movers-test.gslv.cloud/" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="inline-flex h-11 items-center justify-center rounded-2xl bg-[#6bcfcf] px-6 text-sm font-medium text-white shadow-marketing-xl hover:brightness-110 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white/50 transition duration-300"
+                >
+                  Accéder à l'outil (nouvelle fenêtre)
+                </a>
+                
+                <div className="text-sm text-white/60">
+                  <p>Version beta disponible</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
         </div>
       </div>
 
@@ -156,7 +191,7 @@ export default function InventaireIAPage() {
             Commencez dès maintenant votre analyse automatique
           </p>
           <a 
-            href="/devis-demenagement-lille/" 
+            href="/devis-demenagement-lyon/" 
             className="inline-flex h-11 items-center justify-center rounded-2xl bg-[#2b7a78] px-5 text-sm font-medium text-white shadow-marketing-xl hover:brightness-110 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white/50 transition duration-300"
           >
             Créer mon dossier

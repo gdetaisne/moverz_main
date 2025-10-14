@@ -2,7 +2,7 @@ import { MetadataRoute } from 'next'
 import { getAllBlogPosts } from '@/lib/blog'
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://devis-demenageur-lille.fr'
+  const baseUrl = 'https://devis-demenageur-lyon.fr'
   
   // Récupérer tous les articles de blog
   const blogPosts = getAllBlogPosts()
@@ -22,55 +22,55 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/services/demenagement-economique-lille`,
+      url: `${baseUrl}/services/demenagement-economique-lyon`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.7,
     },
     {
-      url: `${baseUrl}/services/demenagement-standard-lille`,
+      url: `${baseUrl}/services/demenagement-standard-lyon`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.7,
     },
     {
-      url: `${baseUrl}/services/demenagement-premium-lille`,
+      url: `${baseUrl}/services/demenagement-premium-lyon`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.7,
     },
     {
-      url: `${baseUrl}/lille`,
+      url: `${baseUrl}/lyon`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.9,
     },
     {
-      url: `${baseUrl}/lille/chartrons`,
+      url: `${baseUrl}/lyon/chartrons`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/lille/cauderan`,
+      url: `${baseUrl}/lyon/cauderan`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/lille/bastide`,
+      url: `${baseUrl}/lyon/bastide`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/lille/merignac`,
+      url: `${baseUrl}/lyon/merignac`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/lille/pessac`,
+      url: `${baseUrl}/lyon/pessac`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
@@ -101,37 +101,37 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
     // Pages corridors
     {
-      url: `${baseUrl}/lille-vers-paris`,
+      url: `${baseUrl}/lyon-vers-paris`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/lille-vers-lyon`,
+      url: `${baseUrl}/lyon-vers-lyon`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/lille-vers-toulouse`,
+      url: `${baseUrl}/lyon-vers-toulouse`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/lille-vers-nantes`,
+      url: `${baseUrl}/lyon-vers-nantes`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/lille-vers-marseille`,
+      url: `${baseUrl}/lyon-vers-marseille`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/lille-vers-espagne`,
+      url: `${baseUrl}/lyon-vers-espagne`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,

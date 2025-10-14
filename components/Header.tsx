@@ -41,12 +41,13 @@ export default function Header() {
   };
 
   const zonesItems = [
-    { href: '/lille', label: 'Lille' },
-    { href: '/lille/vieux-lille', label: 'Vieux Lille' },
-    { href: '/lille/centre', label: 'Centre' },
-    { href: '/lille/wazemmes', label: 'Wazemmes' },
-    { href: '/lille/moulins', label: 'Moulins' },
-    { href: '/lille/lomme', label: 'Lomme' },  ];
+    { href: '/lyon', label: 'Lyon' },
+    { href: '/lyon/presquile', label: 'La Presqu\'île' },
+    { href: '/lyon/croix-rousse', label: 'La Croix-Rousse' },
+    { href: '/lyon/vieux-lyon', label: 'Vieux Lyon' },
+    { href: '/lyon/part-dieu', label: 'Part-Dieu' },
+    { href: '/lyon/confluence', label: 'Confluence' },
+  ];
 
 
   return (
@@ -66,7 +67,7 @@ export default function Header() {
           <div className="text-white font-semibold tracking-tight text-sm md:text-base leading-tight flex flex-col">
             <span>Devis</span>
             <span>Déménageur</span>
-            <span>Lille</span>
+            <span>Lyon</span>
           </div>
         </Link>
 
@@ -136,34 +137,34 @@ export default function Header() {
                   Destinations fréquentes
                 </div>
                 <Link
-                  href="/lille-vers-paris"
+                  href="/Lyon-vers-paris"
                   className="block px-4 py-2 text-gray-800 hover:bg-white/50 transition-colors"
                   onClick={() => {
                     setIsZonesDropdownOpen(false);
                     trackClick('corridor-paris');
                   }}
                 >
-                  Lille → Paris
+                  Lyon → Paris
                 </Link>
                 <Link
-                  href="/lille-vers-lyon"
+                  href="/Lyon-vers-Lyon"
                   className="block px-4 py-2 text-gray-800 hover:bg-white/50 transition-colors"
                   onClick={() => {
                     setIsZonesDropdownOpen(false);
-                    trackClick('corridor-lyon');
+                    trackClick('corridor-Lyon');
                   }}
                 >
-                  Lille → Lyon
+                  Lyon → Lyon
                 </Link>
                 <Link
-                  href="/lille-vers-toulouse"
+                  href="/Lyon-vers-toulouse"
                   className="block px-4 py-2 text-gray-800 hover:bg-white/50 transition-colors"
                   onClick={() => {
                     setIsZonesDropdownOpen(false);
                     trackClick('corridor-toulouse');
                   }}
                 >
-                  Lille → Toulouse
+                  Lyon → Toulouse
                 </Link>
               </div>
             )}
