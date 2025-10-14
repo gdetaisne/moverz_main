@@ -51,7 +51,14 @@ echo "📤 Push vers GitHub..."
 git push
 
 echo ""
-echo "🎉 DÉPLOIEMENT PRÊT !"
+echo "🧹 Nettoyage post-déploiement..."
+# Supprimer le captain-definition temporaire pour éviter la pollution
+git rm captain-definition
+git commit -m "🧹 Nettoyage: suppression captain-definition temporaire post-déploiement $SITE"
+git push
+
+echo ""
+echo "🎉 DÉPLOIEMENT PRÊT ET NETTOYÉ !"
 echo ""
 echo "📋 Maintenant dans CapRover pour $APP_NAME:"
 echo "  1. Va dans l'onglet 'Déploiement'"

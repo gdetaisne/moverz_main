@@ -12,7 +12,21 @@ RUN npm install --production=false
 # Build application
 FROM base AS builder
 COPY --from=deps /app/node_modules ./node_modules
-COPY . .
+COPY sites/strasbourg/app ./app
+COPY sites/strasbourg/components ./components
+COPY sites/strasbourg/lib ./lib
+COPY sites/strasbourg/public ./public
+COPY sites/strasbourg/content ./content
+COPY sites/strasbourg/scripts ./scripts
+COPY sites/strasbourg/package.json ./package.json
+COPY sites/strasbourg/tsconfig.json ./tsconfig.json
+COPY sites/strasbourg/next.config.mjs ./next.config.mjs
+COPY sites/strasbourg/next-sitemap.config.js ./next-sitemap.config.js
+COPY sites/strasbourg/postcss.config.cjs ./postcss.config.cjs
+COPY sites/strasbourg/middleware.js ./middleware.js
+COPY sites/strasbourg/tailwind.config.ts ./tailwind.config.ts
+COPY sites/strasbourg/components.json ./components.json
+COPY sites/strasbourg/next-env.d.ts ./next-env.d.ts
 ENV NEXT_TELEMETRY_DISABLED=1
 RUN npm run build
 
