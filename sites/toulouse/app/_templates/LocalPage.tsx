@@ -39,6 +39,7 @@ export function generateLocalPageMetadata(zone: string, zoneDisplay: string): Me
   return {
     title: `Déménagement ${zoneDisplay} Toulouse - Tarifs & Devis Gratuit | Moverz`,
     description: `Déménageur local ${zoneDisplay} à Toulouse : tarifs détaillés, disponibilités immédiates. Devis personnalisé gratuit sous 7j. Équipe locale expérimentée. Réservation en ligne simple.`,
+  };
 }
 
 export function generateLocalPageJsonLd(zone: string, zoneDisplay: string) {
