@@ -1,8 +1,7 @@
-# Force rebuild - Next.js production build v3 - FORCE FULL REBUILD
+# Dockerfile spécifique pour Nantes
 FROM node:20-alpine AS base
 RUN apk add --no-cache libc6-compat
 WORKDIR /app
-# SUPER Cache buster - forces rebuild of ALL layers
 RUN echo "FORCE REBUILD $(date +%s)" > /tmp/force-rebuild-$(date +%s).txt
 
 # Install dependencies
@@ -33,7 +32,7 @@ COPY --from=builder --chown=nextjs:nodejs /app/package.json ./package.json
 COPY --from=builder --chown=nextjs:nodejs /app/node_modules ./node_modules
 COPY --from=builder --chown=nextjs:nodejs /app/.next ./.next
 
-# Copy public directory if it exists
+# Copy public directory
 RUN mkdir -p ./public
 COPY --from=builder --chown=nextjs:nodejs /app/public ./public
 
