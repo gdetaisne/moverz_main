@@ -267,3 +267,5 @@ Budgets réalistes : **étudiant boursier** revenus 700-800€/mois (bourse 300-
 Consultez notre [guide petit déménagement Lille](/blog/petit-demenagement-lille/petit-demenagement-lille-studio-t1), notre [guide déménagement pas cher](/blog/demenagement-pas-cher-lille/demenagement-pas-cher-lille-guide), notre [article DIY budget mini](/blog/demenagement-pas-cher-lille/diy-demenagement-lille-budget-mini) et notre [guide location camion](/blog/location-camion-lille/location-camion-demenagement-lille-guide).
 
 
+
+

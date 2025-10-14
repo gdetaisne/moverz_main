@@ -198,3 +198,5 @@ Vérification avant déménagement : demandez attestation assurance (document of
 Consultez notre [guide déménagement piano Lille](/blog/demenagement-piano-lille/demenagement-piano-lille-prix), notre [guide spécialistes](/blog/demenagement-piano-lille/specialistes-piano-lille), notre [guide droit vs queue](/blog/demenagement-piano-lille/piano-droit-queue-transport-differences) et notre [guide monte-piano](/blog/demenagement-piano-lille/monte-piano-specialiste-lille).
 
 
+
+

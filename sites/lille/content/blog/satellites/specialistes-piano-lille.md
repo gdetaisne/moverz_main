@@ -201,3 +201,5 @@ Statistiques Monte-Piano Lille : 60-70% droits (Yamaha U1/U3 Kawai K-300 particu
 Consultez notre [guide déménagement piano Lille](/blog/demenagement-piano-lille/demenagement-piano-lille-prix), notre [guide monte-piano](/blog/demenagement-piano-lille/monte-piano-specialiste-lille), notre [guide droit vs queue](/blog/demenagement-piano-lille/piano-droit-queue-transport-differences) et notre [guide assurance](/blog/demenagement-piano-lille/assurance-piano-demenagement-lille).
 
 
+
+

@@ -219,3 +219,5 @@ Spécificités prestation seniors : rythme lent 8-12h (vs standard 6-8h, pauses 
 Consultez notre [guide petit déménagement Lille](/blog/petit-demenagement-lille/petit-demenagement-lille-studio-t1), notre [guide déménageur Lille](/blog/demenageur-lille/demenageur-lille-expert), notre [article tri déménagement](/blog/demenagement-pas-cher-lille/desencombrement-avant-demenagement-economie) et notre [guide garde-meuble](/blog/garde-meuble-lille/garde-meuble-lille-guide).
 
 
+
+

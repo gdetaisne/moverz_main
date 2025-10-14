@@ -193,3 +193,5 @@ Solutions selon budget : <100€ = DIY Kangou/Berlingo obligatoire aide ami (60-
 Consultez notre [guide petit déménagement Lille](/blog/petit-demenagement-lille/petit-demenagement-lille-studio-t1), notre [guide déménagement étudiant](/blog/petit-demenagement-lille/demenagement-chambre-etudiant-lille), notre [guide transport meubles](/blog/petit-demenagement-lille/transport-meubles-lille-sans-demenageur) et notre [guide location camion](/blog/location-camion-lille/location-camion-demenagement-lille-guide).
 
 
+
+

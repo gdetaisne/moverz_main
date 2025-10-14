@@ -189,3 +189,5 @@ Assurance piano : incluse forfait déménagement spécialiste (15-50k€ selon d
 Consultez notre [guide déménagement piano Lille](/blog/demenagement-piano-lille/demenagement-piano-lille-guide), notre [guide monte-piano](/blog/demenagement-piano-lille/monte-piano-specialiste-lille), notre [article piano droit vs queue](/blog/demenagement-piano-lille/piano-droit-queue-transport-differences) et notre [guide déménageur Lille](/blog/demenageur-lille/demenageur-lille-expert).
 
 
+
+

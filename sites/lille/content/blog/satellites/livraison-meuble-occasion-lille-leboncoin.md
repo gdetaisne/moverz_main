@@ -224,3 +224,5 @@ Cas d'usage : **achat IKEA Lezennes** canapé KLIPPAN 150€ → Wazemmes 12 km 
 Consultez notre [guide transport meubles Lille](/blog/petit-demenagement-lille/transport-meubles-lille-sans-demenageur), notre [guide petit déménagement](/blog/petit-demenagement-lille/petit-demenagement-lille-studio-t1), notre [guide location camion](/blog/location-camion-lille/location-camion-demenagement-lille-guide) et notre [article DIY](/blog/demenagement-pas-cher-lille/diy-demenagement-lille-budget-mini).
 
 
+
+

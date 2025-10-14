@@ -196,3 +196,5 @@ Risques blessure solo : lombalgie 15-20% portage incorrect (dos courbé cartons 
 Consultez notre [guide aide déménagement Lille](/blog/aide-demenagement-lille/aide-demenagement-particuliers-lille), notre [guide DIY](/blog/demenagement-pas-cher-lille/diy-demenagement-lille-budget-mini), notre [guide porteurs](/blog/aide-demenagement-lille/porteurs-heure-demenagement-lille) et notre [guide déménageur Lille](/blog/demenageur-lille/demenageur-lille-expert).
 
 
+
+

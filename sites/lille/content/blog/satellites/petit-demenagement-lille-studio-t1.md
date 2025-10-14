@@ -253,3 +253,5 @@ Volume moyen : studio étudiant 15m³ (10-15 cartons + lit + bureau + chaise + o
 Consultez notre [guide déménageur Lille](/blog/demenageur-lille/demenageur-lille-expert), notre [guide location camion](/blog/location-camion-lille/location-camion-demenagement-lille-guide), notre [article déménagement pas cher](/blog/demenagement-pas-cher-lille/demenagement-pas-cher-lille-guide) et notre [guide déménagement étudiant](/blog/demenagement-pas-cher-lille/diy-demenagement-lille-budget-mini).
 
 
+
+

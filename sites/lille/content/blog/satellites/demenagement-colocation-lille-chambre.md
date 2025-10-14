@@ -194,3 +194,5 @@ Rotation élevée colocs : durée moyenne 1-2 ans Lille (vs studio 2-3 ans), 40-
 Consultez notre [guide petit déménagement Lille](/blog/petit-demenagement-lille/petit-demenagement-lille-studio-t1), notre [guide déménagement étudiant](/blog/petit-demenagement-lille/demenagement-chambre-etudiant-lille), notre [guide transport meubles](/blog/petit-demenagement-lille/transport-meubles-lille-sans-demenageur) et notre [guide DIY](/blog/demenagement-pas-cher-lille/diy-demenagement-lille-budget-mini).
 
 
+
+
