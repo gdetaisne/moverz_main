@@ -35,7 +35,8 @@ COPY --from=builder --chown=nextjs:nodejs /app/.next ./.next
 # Copy public directory
 RUN mkdir -p ./public
 COPY --from=builder --chown=nextjs:nodejs /app/public ./public
-
+# Copy content directory (CRITICAL: blog articles)
+COPY --from=builder --chown=nextjs:nodejs /app/content ./content
 USER nextjs
 EXPOSE 3000
 
