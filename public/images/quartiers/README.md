@@ -1,4 +1,4 @@
-# 🏘️ Quartiers strasbourg Images
+# 🏘️ Quartiers toulouse Images
 
 ## Images Suggérées
 
@@ -15,7 +15,7 @@
 - **Format**: 16:9 ou 4:3
 - **Dimensions**: 1600x900px
 - **Contenu**: Rues pavées centre historique, accès limité
-- **Alt**: `"Saint-Pierre — rues pavées, accès camion limité, centre historique strasbourg"`
+- **Alt**: `"Saint-Pierre — rues pavées, accès camion limité, centre historique toulouse"`
 
 #### `cauderan.jpg`
 - **Format**: 16:9 ou 4:3
@@ -43,12 +43,12 @@
 
 ## Utilisé Dans
 - `app/_templates/LocalPage.tsx` (pages quartiers)
-- `app/strasbourg/[quartier]/page.tsx`
+- `app/toulouse/[quartier]/page.tsx`
 
 ## Comment Ajouter
 ```tsx
 const quartierData = {
-  zone: "strasbourg/nom-quartier",
+  zone: "toulouse/nom-quartier",
   zoneDisplay: "Nom Quartier",
   coverImage: "/images/quartiers/nom-quartier.jpg", // ← Ajouter ici
   // ... autres props
@@ -56,10 +56,10 @@ const quartierData = {
 ```
 
 ## Sources d'Images
-- **Unsplash**: `"strasbourg architecture"`, `"strasbourg street"`
+- **Unsplash**: `"toulouse architecture"`, `"toulouse street"`
 - **Pexels**: `"french architecture"`, `"european street"`
-- **Flickr**: Recherche géolocalisée strasbourg
-- **Wikimedia Commons**: Photos libres quartiers strasbourg
+- **Flickr**: Recherche géolocalisée toulouse
+- **Wikimedia Commons**: Photos libres quartiers toulouse
 
 ## Guidelines
 - Montrer les spécificités d'accès (étroit/large, parking, etc.)

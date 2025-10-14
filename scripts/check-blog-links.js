@@ -4,17 +4,17 @@ const matter = require('gray-matter');
 
 // Mapping des catégories
 const categoryMapping = {
-  'demenagement-etudiant-strasbourg': 'etudiant',
-  'demenagement-entreprise-strasbourg': 'entreprise',
-  'demenagement-piano-strasbourg': 'piano',
-  'demenagement-international-strasbourg': 'international',
-  'demenagement-longue-distance-strasbourg': 'longue-distance',
-  'demenagement-pas-cher-strasbourg': 'pas-cher',
-  'demenagement-urgent-strasbourg': 'urgent',
-  'devis-demenagement-strasbourg': 'devis',
-  'garde-meuble-strasbourg': 'garde-meuble',
-  'prix-demenagement-strasbourg': 'prix',
-  'prix-demenagement-piano-strasbourg': 'prix-piano',
+  'demenagement-etudiant-toulouse': 'etudiant',
+  'demenagement-entreprise-toulouse': 'entreprise',
+  'demenagement-piano-toulouse': 'piano',
+  'demenagement-international-toulouse': 'international',
+  'demenagement-longue-distance-toulouse': 'longue-distance',
+  'demenagement-pas-cher-toulouse': 'pas-cher',
+  'demenagement-urgent-toulouse': 'urgent',
+  'devis-demenagement-toulouse': 'devis',
+  'garde-meuble-toulouse': 'garde-meuble',
+  'prix-demenagement-toulouse': 'prix',
+  'prix-demenagement-piano-toulouse': 'prix-piano',
 };
 
 // Clean slug function
@@ -22,17 +22,17 @@ function cleanSlug(slug, category) {
   let clean = slug;
   
   const categoryPatterns = [
-    'demenagement-etudiant-strasbourg-',
-    'demenagement-entreprise-strasbourg-',
-    'demenagement-piano-strasbourg-',
-    'demenagement-international-strasbourg-',
-    'demenagement-longue-distance-strasbourg-',
-    'demenagement-pas-cher-strasbourg-',
-    'demenagement-urgent-strasbourg-',
-    'devis-demenagement-strasbourg-',
-    'garde-meuble-strasbourg-',
-    'prix-demenagement-strasbourg-',
-    'prix-demenagement-piano-strasbourg-',
+    'demenagement-etudiant-toulouse-',
+    'demenagement-entreprise-toulouse-',
+    'demenagement-piano-toulouse-',
+    'demenagement-international-toulouse-',
+    'demenagement-longue-distance-toulouse-',
+    'demenagement-pas-cher-toulouse-',
+    'demenagement-urgent-toulouse-',
+    'devis-demenagement-toulouse-',
+    'garde-meuble-toulouse-',
+    'prix-demenagement-toulouse-',
+    'prix-demenagement-piano-toulouse-',
   ];
   
   categoryPatterns.forEach(pattern => {
@@ -41,7 +41,7 @@ function cleanSlug(slug, category) {
     }
   });
   
-  clean = clean.replace(/-strasbourg$/i, '');
+  clean = clean.replace(/-toulouse$/i, '');
   clean = clean.replace(/-guide-complet$/i, '-guide');
   clean = clean.replace(/-reperes-2025$/i, '-2025');
   
