@@ -2,7 +2,7 @@
 FROM node:20-alpine AS base
 RUN apk add --no-cache libc6-compat
 WORKDIR /app
-RUN echo "FORCE REBUILD strasbourg $(date +%s)" > /tmp/force-rebuild-$(date +%s).txt
+RUN echo "FORCE REBUILD strasbourg COMPLETE-$(date +%s)" > /tmp/force-rebuild-$(date +%s).txt
 
 # Install dependencies
 FROM base AS deps

@@ -33,13 +33,13 @@ interface LocalPageProps {
     question: string;
     answer: string;
   }>;
-}
+  };
 
 export function generateLocalPageMetadata(zone: string, zoneDisplay: string): Metadata {
   return {
     title: `Déménagement ${zoneDisplay} Rennes - Tarifs & Devis Gratuit | Moverz`,
-    description: `Déménageur local ${zoneDisplay} à Rennes : tarifs détaillés, disponibilités immédiates. Devis personnalisé gratuit sous 7j. Équipe locale expérimentée. Réservation en ligne simple.`,
-}
+    description: `.*`,
+  };
 
 export function generateLocalPageJsonLd(zone: string, zoneDisplay: string) {
   return {
@@ -53,7 +53,7 @@ export function generateLocalPageJsonLd(zone: string, zoneDisplay: string) {
     "areaServed": `rennes — ${zoneDisplay}`,
     "serviceType": "Mise en relation et comparaison de devis"
   };
-}
+  };
 
 export default function LocalPage({
   zone,
@@ -339,4 +339,4 @@ export default function LocalPage({
       </div>
     </>
   );
-}
+  };
