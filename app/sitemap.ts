@@ -2,7 +2,7 @@ import { MetadataRoute } from 'next'
 import { getAllBlogPosts } from '@/lib/blog'
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://devis-demenageur-marseille.fr'
+  const baseUrl = 'https://devis-demenageur-montpellier.fr'
   
   // Récupérer tous les articles de blog
   const blogPosts = getAllBlogPosts()
@@ -22,55 +22,55 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/services/demenagement-economique-marseille`,
+      url: `${baseUrl}/services/demenagement-economique-montpellier`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.7,
     },
     {
-      url: `${baseUrl}/services/demenagement-standard-marseille`,
+      url: `${baseUrl}/services/demenagement-standard-montpellier`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.7,
     },
     {
-      url: `${baseUrl}/services/demenagement-premium-marseille`,
+      url: `${baseUrl}/services/demenagement-premium-montpellier`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.7,
     },
     {
-      url: `${baseUrl}/marseille`,
+      url: `${baseUrl}/montpellier`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.9,
     },
     {
-      url: `${baseUrl}/marseille/chartrons`,
+      url: `${baseUrl}/montpellier/chartrons`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/marseille/cauderan`,
+      url: `${baseUrl}/montpellier/cauderan`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/marseille/bastide`,
+      url: `${baseUrl}/montpellier/bastide`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/marseille/merignac`,
+      url: `${baseUrl}/montpellier/merignac`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/marseille/pessac`,
+      url: `${baseUrl}/montpellier/pessac`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
@@ -101,37 +101,37 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
     // Pages corridors
     {
-      url: `${baseUrl}/marseille-vers-paris`,
+      url: `${baseUrl}/montpellier-vers-paris`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/marseille-vers-lyon`,
+      url: `${baseUrl}/montpellier-vers-lyon`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/marseille-vers-toulouse`,
+      url: `${baseUrl}/montpellier-vers-toulouse`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/marseille-vers-nantes`,
+      url: `${baseUrl}/montpellier-vers-nantes`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/marseille-vers-marseille`,
+      url: `${baseUrl}/montpellier-vers-montpellier`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/marseille-vers-espagne`,
+      url: `${baseUrl}/montpellier-vers-espagne`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,

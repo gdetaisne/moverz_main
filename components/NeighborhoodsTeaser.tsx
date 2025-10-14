@@ -3,18 +3,18 @@ import Link from "next/link";
 export default function NeighborhoodsTeaser() {
   // Quartiers populaires avec liens vers les pages zones desservies
   const picks = [
-    { title: "Le Vieux-Port", href: "/Marseille/le-vieux-port" },
-    { title: "La Plaine", href: "/Marseille/la-plaine" },
-    { title: "Le Panier", href: "/Marseille/le-panier" },
-    { title: "Endoume", href: "/Marseille/endoume" },
-    { title: "La Joliette", href: "/Marseille/la-joliette" },
+    { title: "Antigone", href: "/montpellier/antigone" },
+    { title: "Beaux-Arts", href: "/montpellier/beaux-arts" },
+    { title: "Comédie", href: "/montpellier/comedie" },
+    { title: "Port Marianne", href: "/montpellier/port-marianne" },
+    { title: "Écusson", href: "/montpellier/ecusson" },
   ];
   
   return (
     <div>
       <div className="flex items-end justify-between">
         <h2 className="text-2xl md:text-3xl font-semibold text-white">Zones couvertes</h2>
-        <Link href="/quartiers-Marseille" className="text-sm text-[#6bcfcf] underline">Voir tous les quartiers</Link>
+        <Link href="/quartiers-montpellier" className="text-sm text-[#6bcfcf] underline">Voir tous les quartiers</Link>
       </div>
       <div className="mt-6 grid gap-4 md:grid-cols-5">
         {picks.map((p) => (

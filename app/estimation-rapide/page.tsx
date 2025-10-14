@@ -45,14 +45,14 @@ const LOGEMENTS: Record<LogementType, LogementConfig> = {
 // Base de données des villes françaises principales
 const VILLES_FRANCAISES: Ville[] = [
   { nom: "Paris", latitude: 48.8566, longitude: 2.3522, population: 2161000 },
-  { nom: "Marseille", latitude: 43.2965, longitude: 5.3698, population: 870000 },
+  { nom: "Montpellier", latitude: 43.2965, longitude: 5.3698, population: 870000 },
   { nom: "Lyon", latitude: 45.7640, longitude: 4.8357, population: 515000 },
   { nom: "Toulouse", latitude: 43.6047, longitude: 1.4442, population: 470000 },
   { nom: "Nice", latitude: 43.7102, longitude: 7.2620, population: 340000 },
   { nom: "Nantes", latitude: 47.2184, longitude: -1.5536, population: 310000 },
   { nom: "Montpellier", latitude: 43.6110, longitude: 3.8767, population: 290000 },
   { nom: "Strasbourg", latitude: 48.5734, longitude: 7.7521, population: 280000 },
-  { nom: "Marseille", latitude: 44.8378, longitude: -0.5792, population: 250000 },
+  { nom: "Montpellier", latitude: 44.8378, longitude: -0.5792, population: 250000 },
   { nom: "Lille", latitude: 50.6292, longitude: 3.0573, population: 230000 },
   { nom: "Rennes", latitude: 48.1173, longitude: -1.6778, population: 220000 },
   { nom: "Reims", latitude: 49.2583, longitude: 4.0317, population: 180000 },
@@ -244,7 +244,7 @@ export default function EstimationRapide() {
                 onChange={(e) => setVilleDepart(e.target.value)}
                 onFocus={() => setShowSuggestionsDepart(true)}
                 onBlur={() => setTimeout(() => setShowSuggestionsDepart(false), 200)}
-                placeholder="Ex: Marseille"
+                placeholder="Ex: Montpellier"
                 className="w-full px-4 py-3 rounded-xl bg-white/10 border border-white/20 text-white placeholder-white/60 focus:outline-none focus:ring-2 focus:ring-brand-soft focus:border-transparent"
               />
               {showSuggestionsDepart && suggestionsDepart.length > 0 && (
@@ -366,7 +366,7 @@ export default function EstimationRapide() {
                     {formaterPrix(resultats.prixEco.max)}
                   </span>
                 </div>
-                <p className="text-white/70 text-sm mb-6">Local Marseille</p>
+                <p className="text-white/70 text-sm mb-6">Local Montpellier</p>
                 
                 <button className="w-full bg-green-500 hover:bg-green-600 text-white font-medium py-3 px-6 rounded-xl transition-colors">
                   Découvrir cette formule
@@ -419,7 +419,7 @@ export default function EstimationRapide() {
                     {formaterPrix(resultats.prixStandard.max)}
                   </span>
                 </div>
-                <p className="text-white/70 text-sm mb-6">Local Marseille</p>
+                <p className="text-white/70 text-sm mb-6">Local Montpellier</p>
                 
                 <button className="w-full bg-blue-500 hover:bg-blue-600 text-white font-medium py-3 px-6 rounded-xl transition-colors">
                   Découvrir cette formule
@@ -473,7 +473,7 @@ export default function EstimationRapide() {
                     {formaterPrix(resultats.prixPremium.max)}
                   </span>
                 </div>
-                <p className="text-white/70 text-sm mb-6">Local Marseille</p>
+                <p className="text-white/70 text-sm mb-6">Local Montpellier</p>
                 
                 <button className="w-full bg-purple-500 hover:bg-purple-600 text-white font-medium py-3 px-6 rounded-xl transition-colors">
                   Découvrir cette formule

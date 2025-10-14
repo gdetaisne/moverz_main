@@ -41,12 +41,12 @@ export default function Header() {
   };
 
   const zonesItems = [
-    { href: '/marseille', label: 'Marseille' },
-    { href: '/marseille/vieux-port', label: 'Le Vieux-Port' },
-    { href: '/marseille/plaine', label: 'La Plaine' },
-    { href: '/marseille/panier', label: 'Le Panier' },
-    { href: '/marseille/endoume', label: 'Endoume' },
-    { href: '/marseille/joliette', label: 'La Joliette' },
+    { href: '/montpellier', label: 'Montpellier' },
+    { href: '/montpellier/antigone', label: 'Antigone' },
+    { href: '/montpellier/beaux-arts', label: 'Beaux-Arts' },
+    { href: '/montpellier/comedie', label: 'Comédie' },
+    { href: '/montpellier/port-marianne', label: 'Port Marianne' },
+    { href: '/montpellier/ecusson', label: 'Écusson' },
   ];
 
 
@@ -67,7 +67,7 @@ export default function Header() {
           <div className="text-white font-semibold tracking-tight text-sm md:text-base leading-tight flex flex-col">
             <span>Devis</span>
             <span>Déménageur</span>
-            <span>Marseille</span>
+            <span>Montpellier</span>
           </div>
         </Link>
 
@@ -137,34 +137,34 @@ export default function Header() {
                   Destinations fréquentes
                 </div>
                 <Link
-                  href="/Marseille-vers-paris"
+                  href="/montpellier-vers-paris"
                   className="block px-4 py-2 text-gray-800 hover:bg-white/50 transition-colors"
                   onClick={() => {
                     setIsZonesDropdownOpen(false);
                     trackClick('corridor-paris');
                   }}
                 >
-                  Marseille → Paris
+                  Montpellier → Paris
                 </Link>
                 <Link
-                  href="/Marseille-vers-lyon"
+                  href="/montpellier-vers-lyon"
                   className="block px-4 py-2 text-gray-800 hover:bg-white/50 transition-colors"
                   onClick={() => {
                     setIsZonesDropdownOpen(false);
                     trackClick('corridor-lyon');
                   }}
                 >
-                  Marseille → Lyon
+                  Montpellier → Lyon
                 </Link>
                 <Link
-                  href="/Marseille-vers-toulouse"
+                  href="/montpellier-vers-toulouse"
                   className="block px-4 py-2 text-gray-800 hover:bg-white/50 transition-colors"
                   onClick={() => {
                     setIsZonesDropdownOpen(false);
                     trackClick('corridor-toulouse');
                   }}
                 >
-                  Marseille → Toulouse
+                  Montpellier → Toulouse
                 </Link>
               </div>
             )}

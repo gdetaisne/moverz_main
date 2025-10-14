@@ -4,15 +4,15 @@ import Link from 'next/link';
 import Breadcrumbs from '@/components/Breadcrumbs';
 
 export const metadata: Metadata = {
-  title: "Blog Déménagement Marseille - Guides & Conseils Experts | Moverz",
-  description: "Guides complets et conseils d'experts pour réussir votre déménagement à Marseille. Astuces budget, checklist, comparatifs, conseils pratiques. Articles rédigés par des professionnels.",
+  title: "Blog Déménagement Montpellier - Guides & Conseils Experts | Moverz",
+  description: "Guides complets et conseils d'experts pour réussir votre déménagement à Montpellier. Astuces budget, checklist, comparatifs, conseils pratiques. Articles rédigés par des professionnels.",
   alternates: {
-    canonical: `https://www.devis-demenageur-marseille.fr/blog`,
+    canonical: `https://www.devis-demenageur-montpellier.fr/blog`,
   },
   openGraph: {
-    title: "Blog Déménagement Marseille - Tous nos guides pratiques",
-    description: "Conseils d'experts, guides détaillés et astuces pour déménager sereinement à Marseille.",
-    url: `https://www.devis-demenageur-marseille.fr/blog`,
+    title: "Blog Déménagement Montpellier - Tous nos guides pratiques",
+    description: "Conseils d'experts, guides détaillés et astuces pour déménager sereinement à Montpellier.",
+    url: `https://www.devis-demenageur-montpellier.fr/blog`,
     type: 'website',
   },
 }
@@ -65,7 +65,7 @@ const blogCategories = [
   { 
     slug: 'longue-distance', 
     name: 'Longue Distance', 
-    description: 'Déménager de Marseille vers toute la France',
+    description: 'Déménager de Montpellier vers toute la France',
     icon: '🚛',
     color: 'from-indigo-500 to-purple-500'
   },
@@ -79,7 +79,7 @@ const blogCategories = [
   { 
     slug: 'international', 
     name: 'International', 
-    description: 'Déménager à l\'étranger depuis Marseille',
+    description: 'Déménager à l\'étranger depuis Montpellier',
     icon: '🌍',
     color: 'from-blue-600 to-indigo-600'
   },
@@ -130,10 +130,10 @@ export default function BlogPage() {
             </div>
 
             <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold tracking-tight mb-6">
-              Blog Déménagement Marseille
+              Blog Déménagement Montpellier
             </h1>
             <p className="text-lg md:text-xl text-white/90 max-w-3xl mx-auto">
-              Conseils, guides et astuces pour réussir votre déménagement à Marseille. 
+              Conseils, guides et astuces pour réussir votre déménagement à Montpellier. 
               Que vous soyez étudiant, famille ou professionnel, trouvez tous les conseils dont vous avez besoin.
             </p>
           </div>

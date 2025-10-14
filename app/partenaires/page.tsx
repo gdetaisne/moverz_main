@@ -6,15 +6,15 @@ import PartnerCard from "@/components/PartnerCard";
 import PartnersList from "@/components/PartnersList";
 
 export const metadata: Metadata = {
-  title: "Partenaires déménageurs - Déménageurs Marseille (IA)",
-  description: "Découvrez nos partenaires déménageurs certifiés à Marseille. Qualité garantie, tarifs transparents, service client premium.",
+  title: "Partenaires déménageurs - Déménageurs Montpellier (IA)",
+  description: "Découvrez nos partenaires déménageurs certifiés à Montpellier. Qualité garantie, tarifs transparents, service client premium.",
   alternates: {
-    canonical: "https://www.marseille-demenageur.fr/partenaires/",
+    canonical: "https://www.montpellier-demenageur.fr/partenaires/",
   },
   openGraph: {
-    title: "Partenaires déménageurs - Déménageurs Marseille (IA)",
-    description: "Découvrez nos partenaires déménageurs certifiés à Marseille. Qualité garantie, tarifs transparents, service client premium.",
-    url: "https://www.marseille-demenageur.fr/partenaires/",
+    title: "Partenaires déménageurs - Déménageurs Montpellier (IA)",
+    description: "Découvrez nos partenaires déménageurs certifiés à Montpellier. Qualité garantie, tarifs transparents, service client premium.",
+    url: "https://www.montpellier-demenageur.fr/partenaires/",
     type: "website",
   },
 };
@@ -35,15 +35,15 @@ const partners = [
     specialties: ["Déménagements locaux", "Gironde et Nouvelle-Provence-Alpes-Côte d'Azur"],
   },
   {
-    name: "Déménageur Marseille Express",
-    city: "Marseille",
+    name: "Déménageur Montpellier Express",
+    city: "Montpellier",
     rating: 4.8,
     reviews: 69,
     specialties: ["Déménagements particuliers", "Déménagements professionnels"],
   },
   {
-    name: "Méditerranée Déménagements Marseille",
-    city: "Marseille",
+    name: "Méditerranée Déménagements Montpellier",
+    city: "Montpellier",
     rating: 4.5,
     reviews: 66,
     specialties: ["Garde-meuble", "Stockage d'archives"],
@@ -64,126 +64,126 @@ const partners = [
   },
   {
     name: "Alex Déménagement",
-    city: "Marseille",
+    city: "Montpellier",
     rating: 4.7,
     reviews: 45,
     specialties: ["Déménagements express", "Emballage professionnel"],
   },
   {
-    name: "Marseille Déménagement",
-    city: "Marseille",
+    name: "Montpellier Déménagement",
+    city: "Montpellier",
     rating: 4.0,
     reviews: 32,
     specialties: ["Déménagements résidentiels", "Déménagements commerciaux"],
   },
   {
     name: "Hontas Déménagements",
-    city: "Marseille",
+    city: "Montpellier",
     rating: 4.0,
     reviews: 1,
     specialties: ["Déménagements longue distance", "Équipe professionnelle"],
   },
   {
     name: "Déménageurs Bretons",
-    city: "Marseille",
+    city: "Montpellier",
     rating: 5.0,
     reviews: 1,
     specialties: ["Déménagements complets", "Services nationaux"],
   },
   {
     name: "SAM'DÉMÉNAGE",
-    city: "Marseille",
+    city: "Montpellier",
     rating: 4.6,
     reviews: 28,
     specialties: ["Déménagements efficaces", "Équipe bienveillante"],
   },
   {
     name: "Rachid Chaty (GÈRE FOR YOU)",
-    city: "Marseille",
+    city: "Montpellier",
     rating: 4.8,
     reviews: 15,
     specialties: ["Manutention", "Nettoyage avant état des lieux"],
   },
   {
     name: "Ben Ben",
-    city: "Marseille",
+    city: "Montpellier",
     rating: 4.9,
     reviews: 12,
     specialties: ["Aide au déménagement", "Livraison", "Retrait de colis"],
   },
   {
     name: "Phone Course",
-    city: "Marseille",
+    city: "Montpellier",
     rating: 4.5,
     reviews: 8,
     specialties: ["Transport routier", "Livraison"],
   },
   {
     name: "Burdigala Déménagement",
-    city: "Marseille",
+    city: "Montpellier",
     rating: 4.3,
     reviews: 6,
     specialties: ["Déménagements locaux", "Services adaptés"],
   },
   {
     name: "Larnaudie Déménagements",
-    city: "Marseille",
+    city: "Montpellier",
     rating: 4.7,
     reviews: 5,
     specialties: ["Déménagements familiaux", "Garde-meuble"],
   },
   {
     name: "Déménagements Grée",
-    city: "Marseille",
+    city: "Montpellier",
     rating: 4.4,
     reviews: 4,
     specialties: ["Services personnalisés", "Particuliers et professionnels"],
   },
   {
     name: "Air Déménagement",
-    city: "Marseille",
+    city: "Montpellier",
     rating: 4.6,
     reviews: 3,
     specialties: ["Solutions adaptées", "Besoins spécifiques"],
   },
   {
     name: "Alexandre Meigne-Sakr",
-    city: "Marseille",
+    city: "Montpellier",
     rating: 4.8,
     reviews: 2,
     specialties: ["Services sur mesure", "Déménagements particuliers"],
   },
   {
     name: "Alain Lagache",
-    city: "Marseille",
+    city: "Montpellier",
     rating: 4.5,
     reviews: 2,
     specialties: ["Déménagements locaux", "Services de qualité"],
   },
   {
     name: "A À Z Service",
-    city: "Marseille",
+    city: "Montpellier",
     rating: 4.2,
     reviews: 1,
     specialties: ["Déménagements", "Nettoyage"],
   },
   {
     name: "Sédégo",
-    city: "Marseille",
+    city: "Montpellier",
     rating: 4.0,
     reviews: 1,
     specialties: ["Solutions adaptées", "Services complets"],
   },
   {
     name: "Transport Joël Latrille",
-    city: "Marseille",
+    city: "Montpellier",
     rating: 4.3,
     reviews: 1,
     specialties: ["Transport", "Déménagements professionnels"],
   },
   {
     name: "Adema",
-    city: "Marseille",
+    city: "Montpellier",
     rating: 4.1,
     reviews: 1,
     specialties: ["Services complets", "Particuliers et professionnels"],
@@ -236,7 +236,7 @@ export default function PartenairesPage() {
         <div className="absolute inset-0">
           <img 
             src="https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=2000&auto=format&fit=crop"
-            alt="Partenaires déménageurs certifiés à Marseille"
+            alt="Partenaires déménageurs certifiés à Montpellier"
             className="w-full h-full object-cover"
           />
           <div className="absolute inset-0 bg-gradient-to-br from-[#04163a]/95 via-[#2b7a78]/88 to-[#04163a]/92"></div>
@@ -318,7 +318,7 @@ export default function PartenairesPage() {
               Devenir partenaire Moverz
             </h2>
             <p className="text-white/80 mb-6 max-w-2xl mx-auto">
-              Vous êtes déménageur à Marseille et souhaitez rejoindre notre réseau ? 
+              Vous êtes déménageur à Montpellier et souhaitez rejoindre notre réseau ? 
               Bénéficiez de notre technologie IA et de notre visibilité en ligne.
             </p>
             <a 
