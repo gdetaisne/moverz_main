@@ -6,219 +6,219 @@ import PartnerCard from "@/components/PartnerCard";
 import PartnersList from "@/components/PartnersList";
 
 export const metadata: Metadata = {
-  title: "Partenaires déménageurs - Déménageurs rennes (IA)",
-  description: "Découvrez nos partenaires déménageurs certifiés à rennes. Qualité garantie, tarifs transparents, service client premium.",
+  title: "Partenaires déménageurs - Déménageurs rouen (IA)",
+  description: "Découvrez nos partenaires déménageurs certifiés à rouen. Qualité garantie, tarifs transparents, service client premium.",
   alternates: {
-    canonical: "https://www.rennes-demenageur.fr/partenaires/",
+    canonical: "https://www.rouen-demenageur.fr/partenaires/",
   },
   openGraph: {
-    title: "Partenaires déménageurs - Déménageurs rennes (IA)",
-    description: "Découvrez nos partenaires déménageurs certifiés à rennes. Qualité garantie, tarifs transparents, service client premium.",
-    url: "https://www.rennes-demenageur.fr/partenaires/",
+    title: "Partenaires déménageurs - Déménageurs rouen (IA)",
+    description: "Découvrez nos partenaires déménageurs certifiés à rouen. Qualité garantie, tarifs transparents, service client premium.",
+    url: "https://www.rouen-demenageur.fr/partenaires/",
     type: "website",
   },
 };
 
 const partners = [
   {
-    name: "Déménageurs Bretagne Pro",
-    city: "Bruz",
+    name: "Déménageurs Normandie Pro",
+    city: "Mont-Saint-Aignan",
     rating: 4.8,
     reviews: 366,
     specialties: ["Déménagements sur mesure", "Service personnalisé"],
   },
   {
-    name: "Les Déménageurs Rennais",
-    city: "Cesson-Sévigné",
+    name: "Les Déménageurs Rouennais",
+    city: "Bois-Guillaume",
     rating: 4.8,
     reviews: 69,
-    specialties: ["Déménagements locaux", "Gironde et Bretagne"],
+    specialties: ["Déménagements locaux", "Normandie et Île-de-France"],
   },
   {
-    name: "Déménageur Rennes Express",
-    city: "Rennes",
+    name: "Déménageur Rouen Express",
+    city: "Rouen",
     rating: 4.8,
     reviews: 69,
     specialties: ["Déménagements particuliers", "Déménagements professionnels"],
   },
   {
-    name: "Vilaine Déménagements Rennes",
-    city: "Rennes",
+    name: "Seine Déménagements Rouen",
+    city: "Rouen",
     rating: 4.5,
     reviews: 66,
     specialties: ["Garde-meuble", "Stockage d'archives"],
   },
   {
-    name: "Les Déménageurs Bretons",
-    city: "Saint-Grégoire",
+    name: "Les Déménageurs de Haute-Normandie",
+    city: "Bihorel",
     rating: 5.0,
     reviews: 81,
-    specialties: ["Déménagements qualifiés", "Tout le sud-ouest"],
+    specialties: ["Déménagements qualifiés", "Toute la Normandie"],
   },
   {
-    name: "Les Déménageurs de l'Ouest",
-    city: "Pacé",
+    name: "Les Déménageurs du Nord",
+    city: "Le Grand-Quevilly",
     rating: 4.5,
     reviews: 50,
-    specialties: ["Déménagements nationaux", "Réseau national"],
+    specialties: ["Déménagements nationaux", "Réseau Nord"],
   },
   {
     name: "Alex Déménagement",
-    city: "rennes",
+    city: "rouen",
     rating: 4.7,
     reviews: 45,
     specialties: ["Déménagements express", "Emballage professionnel"],
   },
   {
-    name: "rennes Déménagement",
-    city: "rennes",
+    name: "rouen Déménagement",
+    city: "rouen",
     rating: 4.0,
     reviews: 32,
     specialties: ["Déménagements résidentiels", "Déménagements commerciaux"],
   },
   {
     name: "Hontas Déménagements",
-    city: "rennes",
+    city: "rouen",
     rating: 4.0,
     reviews: 1,
     specialties: ["Déménagements longue distance", "Équipe professionnelle"],
   },
   {
     name: "Déménageurs Bretons",
-    city: "rennes",
+    city: "rouen",
     rating: 5.0,
     reviews: 1,
     specialties: ["Déménagements complets", "Services nationaux"],
   },
   {
     name: "SAM'DÉMÉNAGE",
-    city: "rennes",
+    city: "rouen",
     rating: 4.6,
     reviews: 28,
     specialties: ["Déménagements efficaces", "Équipe bienveillante"],
   },
   {
     name: "Rachid Chaty (GÈRE FOR YOU)",
-    city: "rennes",
+    city: "rouen",
     rating: 4.8,
     reviews: 15,
     specialties: ["Manutention", "Nettoyage avant état des lieux"],
   },
   {
     name: "Ben Ben",
-    city: "rennes",
+    city: "rouen",
     rating: 4.9,
     reviews: 12,
     specialties: ["Aide au déménagement", "Livraison", "Retrait de colis"],
   },
   {
     name: "Phone Course",
-    city: "rennes",
+    city: "rouen",
     rating: 4.5,
     reviews: 8,
     specialties: ["Transport routier", "Livraison"],
   },
   {
     name: "Burdigala Déménagement",
-    city: "rennes",
+    city: "rouen",
     rating: 4.3,
     reviews: 6,
     specialties: ["Déménagements locaux", "Services adaptés"],
   },
   {
     name: "Larnaudie Déménagements",
-    city: "rennes",
+    city: "rouen",
     rating: 4.7,
     reviews: 5,
     specialties: ["Déménagements familiaux", "Garde-meuble"],
   },
   {
     name: "Déménagements Grée",
-    city: "rennes",
+    city: "rouen",
     rating: 4.4,
     reviews: 4,
     specialties: ["Services personnalisés", "Particuliers et professionnels"],
   },
   {
     name: "Air Déménagement",
-    city: "rennes",
+    city: "rouen",
     rating: 4.6,
     reviews: 3,
     specialties: ["Solutions adaptées", "Besoins spécifiques"],
   },
   {
     name: "Alexandre Meigne-Sakr",
-    city: "rennes",
+    city: "rouen",
     rating: 4.8,
     reviews: 2,
     specialties: ["Services sur mesure", "Déménagements particuliers"],
   },
   {
     name: "Alain Lagache",
-    city: "rennes",
+    city: "rouen",
     rating: 4.5,
     reviews: 2,
     specialties: ["Déménagements locaux", "Services de qualité"],
   },
   {
     name: "A À Z Service",
-    city: "rennes",
+    city: "rouen",
     rating: 4.2,
     reviews: 1,
     specialties: ["Déménagements", "Nettoyage"],
   },
   {
     name: "Sédégo",
-    city: "rennes",
+    city: "rouen",
     rating: 4.0,
     reviews: 1,
     specialties: ["Solutions adaptées", "Services complets"],
   },
   {
     name: "Transport Joël Latrille",
-    city: "rennes",
+    city: "rouen",
     rating: 4.3,
     reviews: 1,
     specialties: ["Transport", "Déménagements professionnels"],
   },
   {
     name: "Adema",
-    city: "rennes",
+    city: "rouen",
     rating: 4.1,
     reviews: 1,
     specialties: ["Services complets", "Particuliers et professionnels"],
   },
   {
-    name: "Les Déménageurs Girondins",
-    city: "Chantepie",
+    name: "Les Déménageurs Normands",
+    city: "Déville-lès-Rouen",
     rating: 4.4,
     reviews: 8,
     specialties: ["Déménagements locaux", "Services adaptés"],
   },
   {
-    name: "Bouexpress",
-    city: "Thorigné-Fouillard",
+    name: "Express Déménagements Normandie",
+    city: "Sotteville-lès-Rouen",
     rating: 4.6,
     reviews: 6,
     specialties: ["Déménagements rapides", "Satisfaction client"],
   },
   {
     name: "TTD Turbo Transport Déménagement",
-    city: "Betton",
+    city: "Saint-Étienne-du-Rouvray",
     rating: 4.5,
     reviews: 4,
     specialties: ["Solutions rapides", "Particuliers et entreprises"],
   },
   {
-    name: "Déménagement Transport 33",
-    city: "Saint-Jacques-de-la-Lande",
+    name: "Déménagement Transport 76",
+    city: "Elbeuf",
     rating: 4.3,
     reviews: 3,
     specialties: ["Transport", "Services personnalisés"],
   },
   {
-    name: "Transport Gironde",
-    city: "Vern-sur-Seiche",
+    name: "Transport Seine-Maritime",
+    city: "Petit-Couronne",
     rating: 4.2,
     reviews: 2,
     specialties: ["Transport", "Solutions sur mesure"],
@@ -236,7 +236,7 @@ export default function PartenairesPage() {
         <div className="absolute inset-0">
           <img 
             src="https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=2000&auto=format&fit=crop"
-            alt="Partenaires déménageurs certifiés à rennes"
+            alt="Partenaires déménageurs certifiés à rouen"
             className="w-full h-full object-cover"
           />
           <div className="absolute inset-0 bg-gradient-to-br from-[#04163a]/95 via-[#2b7a78]/88 to-[#04163a]/92"></div>
@@ -264,7 +264,7 @@ export default function PartenairesPage() {
             </h1>
             <p className="text-lg md:text-xl text-white/90">
               Nous travaillons exclusivement avec des déménageurs locaux certifiés et expérimentés. 
-              Chaque partenaire est sélectionné pour sa qualité de service, sa transparence tarifaire et sa connaissance du terrain rennais.
+              Chaque partenaire est sélectionné pour sa qualité de service, sa transparence tarifaire et sa connaissance du terrain rouennais.
             </p>
           </div>
         </div>
@@ -304,7 +304,7 @@ export default function PartenairesPage() {
               </div>
               <h3 className="text-xl font-semibold mb-3">Connaissance locale</h3>
               <p className="text-white/80">
-                Expertise du terrain rennais : accès, stationnement, contraintes spécifiques à chaque quartier.
+                Expertise du terrain rouennais : accès, stationnement, contraintes spécifiques à chaque quartier.
               </p>
             </div>
           </div>
@@ -318,7 +318,7 @@ export default function PartenairesPage() {
               Devenir partenaire Moverz
             </h2>
             <p className="text-white/80 mb-6 max-w-2xl mx-auto">
-              Vous êtes déménageur à rennes et souhaitez rejoindre notre réseau ? 
+              Vous êtes déménageur à rouen et souhaitez rejoindre notre réseau ? 
               Bénéficiez de notre technologie IA et de notre visibilité en ligne.
             </p>
             <a 

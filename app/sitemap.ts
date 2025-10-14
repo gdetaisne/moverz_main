@@ -2,7 +2,7 @@ import { MetadataRoute } from 'next'
 import { getAllBlogPosts } from '@/lib/blog'
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://devis-demenageur-rennes.fr'
+  const baseUrl = 'https://devis-demenageur-rouen.fr'
   
   // Récupérer tous les articles de blog
   const blogPosts = getAllBlogPosts()
@@ -22,55 +22,55 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/services/demenagement-economique-rennes`,
+      url: `${baseUrl}/services/demenagement-economique-rouen`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.7,
     },
     {
-      url: `${baseUrl}/services/demenagement-standard-rennes`,
+      url: `${baseUrl}/services/demenagement-standard-rouen`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.7,
     },
     {
-      url: `${baseUrl}/services/demenagement-premium-rennes`,
+      url: `${baseUrl}/services/demenagement-premium-rouen`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.7,
     },
     {
-      url: `${baseUrl}/rennes`,
+      url: `${baseUrl}/rouen`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.9,
     },
     {
-      url: `${baseUrl}/rennes/chartrons`,
+      url: `${baseUrl}/rouen/coteaux-sud`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/rennes/cauderan`,
+      url: `${baseUrl}/rouen/saint-marc`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/rennes/bastide`,
+      url: `${baseUrl}/rouen/bastide`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/rennes/merignac`,
+      url: `${baseUrl}/rouen/merignac`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/rennes/pessac`,
+      url: `${baseUrl}/rouen/pessac`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
@@ -101,37 +101,37 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
     // Pages corridors
     {
-      url: `${baseUrl}/rennes-vers-paris`,
+      url: `${baseUrl}/rouen-vers-paris`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/rennes-vers-lyon`,
+      url: `${baseUrl}/rouen-vers-lyon`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/rennes-vers-toulouse`,
+      url: `${baseUrl}/rouen-vers-toulouse`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/rennes-vers-nantes`,
+      url: `${baseUrl}/rouen-vers-nantes`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/rennes-vers-marseille`,
+      url: `${baseUrl}/rouen-vers-marseille`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/rennes-vers-espagne`,
+      url: `${baseUrl}/rouen-vers-espagne`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,

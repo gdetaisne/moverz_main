@@ -2,33 +2,33 @@ export default function StructuredData() {
   const structuredData = {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
-    "name": "Déménageurs Rennes (IA)",
+    "name": "Déménageurs Rouen (IA)",
     "description": "30 minutes pour votre dossier → 5 devis personnalisés sous 7 jours. Estimation volumétrique à partir de photos, tarifs clairs, conseils locaux.",
-    "url": "https://www.devis-demenageur-rennes.fr",
+    "url": "https://www.devis-demenageur-rouen.fr",
     "telephone": "+33-XXX-XXX-XXX",
     "address": {
       "@type": "PostalAddress",
-      "addressLocality": "Rennes",
-      "addressRegion": "Bretagne",
+      "addressLocality": "Rouen",
+      "addressRegion": "Normandie",
       "addressCountry": "FR"
     },
     "geo": {
       "@type": "GeoCoordinates",
-      "latitude": 48.1173,
-      "longitude": -1.6778
+      "latitude": 49.4432,
+      "longitude": 1.0993
     },
     "areaServed": [
       {
         "@type": "City",
-        "name": "Rennes"
+        "name": "Rouen"
       },
       {
         "@type": "City",
-        "name": "Saint-Malo"
+        "name": "Le Havre"
       },
       {
         "@type": "City",
-        "name": "Brest"
+        "name": "Caen"
       }
     ],
     "priceRange": "€€",
