@@ -1,8 +1,8 @@
-# Dockerfile spécifique pour Nantes
+# Dockerfile spécifique pour Nantes - FORCE REBUILD v2
 FROM node:20-alpine AS base
 RUN apk add --no-cache libc6-compat
 WORKDIR /app
-RUN echo "FORCE REBUILD $(date +%s)" > /tmp/force-rebuild-$(date +%s).txt
+RUN echo "FORCE REBUILD NANTES $(date +%s)" > /tmp/force-rebuild-$(date +%s).txt
 
 # Install dependencies
 FROM base AS deps
