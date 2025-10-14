@@ -6,7 +6,7 @@ RUN echo "FORCE REBUILD strasbourg COMPLETE-$(date +%s)" > /tmp/force-rebuild-$(
 
 # Install dependencies
 FROM base AS deps
-COPY package.json ./
+COPY sites/strasbourg/package.json ./
 RUN npm install --production=false
 
 # Build application
