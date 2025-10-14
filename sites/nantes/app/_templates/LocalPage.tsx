@@ -39,27 +39,6 @@ export function generateLocalPageMetadata(zone: string, zoneDisplay: string): Me
   return {
     title: `Déménagement ${zoneDisplay} Nantes - Tarifs & Devis Gratuit | Moverz`,
     description: `Déménageur local ${zoneDisplay} à Nantes : tarifs détaillés, disponibilités immédiates. Devis personnalisé gratuit sous 7j. Équipe locale expérimentée. Réservation en ligne simple.`,
-    alternates: {
-      canonical: `https://www.devis-demenageur-nantes.fr/${zone}`,
-    },
-    openGraph: {
-      title: `Déménagement ${zoneDisplay} Nantes - Comparez des devis fiables`,
-      description: `Préparez votre dossier en 30 min. Au moins 3 devis personnalisés sous 7 jours pour ${zoneDisplay} (Nantes).`,
-      url: `https://www.devis-demenageur-nantes.fr/${zone}`,
-      type: 'website',
-    },
-  };
-} (nantes).`,
-    alternates: {
-      canonical: `https://www.nantes-demenageur.fr/${zone}`,
-    },
-    openGraph: {
-      title: `Déménageur ${zoneDisplay} — Comparez des devis fiables | Moverz`,
-      description: `Préparez votre dossier en 30 min. Au moins 3 devis personnalisés sous 7 jours pour ${zoneDisplay} (nantes).`,
-      url: `https://www.nantes-demenageur.fr/${zone}`,
-      type: 'website',
-    },
-  };
 }
 
 export function generateLocalPageJsonLd(zone: string, zoneDisplay: string) {

@@ -39,27 +39,6 @@ export function generateLocalPageMetadata(zone: string, zoneDisplay: string): Me
   return {
     title: `Déménagement ${zoneDisplay} Lille - Tarifs & Devis Gratuit | Moverz`,
     description: `Déménageur local ${zoneDisplay} à Lille : tarifs détaillés, disponibilités immédiates. Devis personnalisé gratuit sous 7j. Équipe locale expérimentée. Réservation en ligne simple.`,
-    alternates: {
-      canonical: `https://www.devis-demenageur-lille.fr/${zone}`,
-    },
-    openGraph: {
-      title: `Déménagement ${zoneDisplay} Lille - Comparez des devis fiables`,
-      description: `Préparez votre dossier en 30 min. Au moins 3 devis personnalisés sous 7 jours pour ${zoneDisplay} (Lille).`,
-      url: `https://www.devis-demenageur-lille.fr/${zone}`,
-      type: 'website',
-    },
-  };
-} (lille).`,
-    alternates: {
-      canonical: `https://www.lille-demenageur.fr/${zone}`,
-    },
-    openGraph: {
-      title: `Déménageur ${zoneDisplay} — Comparez des devis fiables | Moverz`,
-      description: `Préparez votre dossier en 30 min. Au moins 3 devis personnalisés sous 7 jours pour ${zoneDisplay} (lille).`,
-      url: `https://www.lille-demenageur.fr/${zone}`,
-      type: 'website',
-    },
-  };
 }
 
 export function generateLocalPageJsonLd(zone: string, zoneDisplay: string) {
