@@ -66,4 +66,3 @@ echo "🔗 Vérifiez sur GitHub:"
 for site in "${SITES[@]}"; do
   echo "   • https://github.com/gdetaisne/dd-$site"
 done
-
