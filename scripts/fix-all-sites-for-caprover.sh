@@ -50,13 +50,19 @@ for site in "${SITES[@]}"; do
   cp -r "sites/$site/content" .
   cp -r "sites/$site/scripts" .
   
-  # 5. Copier les fichiers de configuration
+  # 5. Copier les fichiers de configuration (seulement les fichiers nécessaires)
   echo "   ⚙️  Copie fichiers de config $site → racine"
-  cp sites/$site/*.json . 2>/dev/null || true
-  cp sites/$site/*.js . 2>/dev/null || true
-  cp sites/$site/*.ts . 2>/dev/null || true
-  cp sites/$site/*.mjs . 2>/dev/null || true
-  cp sites/$site/*.cjs . 2>/dev/null || true
+  # Copier uniquement les fichiers de config spécifiques
+  cp sites/$site/package.json . 2>/dev/null || true
+  cp sites/$site/package-lock.json . 2>/dev/null || true
+  cp sites/$site/tsconfig.json . 2>/dev/null || true
+  cp sites/$site/next-env.d.ts . 2>/dev/null || true
+  cp sites/$site/components.json . 2>/dev/null || true
+  cp sites/$site/tailwind.config.ts . 2>/dev/null || true
+  cp sites/$site/next.config.mjs . 2>/dev/null || true
+  cp sites/$site/next-sitemap.config.js . 2>/dev/null || true
+  cp sites/$site/postcss.config.cjs . 2>/dev/null || true
+  cp sites/$site/middleware.js . 2>/dev/null || true
   
   # 6. Corriger le Dockerfile avec cache buster spécifique
   echo "   🐳 Correction Dockerfile $site"
