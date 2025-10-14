@@ -37,26 +37,26 @@ interface LocalPageProps {
 
 export function generateLocalPageMetadata(zone: string, zoneDisplay: string): Metadata {
   return {
-    title: `Déménagement ${zoneDisplay} Rouen - Tarifs & Devis Gratuit | Moverz`,
-    description: `Déménageur local ${zoneDisplay} à Rouen : tarifs détaillés, disponibilités immédiates. Devis personnalisé gratuit sous 7j. Équipe locale expérimentée. Réservation en ligne simple.`,
+    title: `Déménagement ${zoneDisplay} Strasbourg - Tarifs & Devis Gratuit | Moverz`,
+    description: `Déménageur local ${zoneDisplay} à Strasbourg : tarifs détaillés, disponibilités immédiates. Devis personnalisé gratuit sous 7j. Équipe locale expérimentée. Réservation en ligne simple.`,
     alternates: {
-      canonical: `https://www.devis-demenageur-rouen.fr/${zone}`,
+      canonical: `https://www.devis-demenageur-strasbourg.fr/${zone}`,
     },
     openGraph: {
-      title: `Déménagement ${zoneDisplay} Rouen - Comparez des devis fiables`,
-      description: `Préparez votre dossier en 30 min. Au moins 3 devis personnalisés sous 7 jours pour ${zoneDisplay} (Rouen).`,
-      url: `https://www.devis-demenageur-rouen.fr/${zone}`,
+      title: `Déménagement ${zoneDisplay} Strasbourg - Comparez des devis fiables`,
+      description: `Préparez votre dossier en 30 min. Au moins 3 devis personnalisés sous 7 jours pour ${zoneDisplay} (Strasbourg).`,
+      url: `https://www.devis-demenageur-strasbourg.fr/${zone}`,
       type: 'website',
     },
   };
-} (rouen).`,
+} (strasbourg).`,
     alternates: {
-      canonical: `https://www.rouen-demenageur.fr/${zone}`,
+      canonical: `https://www.strasbourg-demenageur.fr/${zone}`,
     },
     openGraph: {
       title: `Déménageur ${zoneDisplay} — Comparez des devis fiables | Moverz`,
-      description: `Préparez votre dossier en 30 min. Au moins 3 devis personnalisés sous 7 jours pour ${zoneDisplay} (rouen).`,
-      url: `https://www.rouen-demenageur.fr/${zone}`,
+      description: `Préparez votre dossier en 30 min. Au moins 3 devis personnalisés sous 7 jours pour ${zoneDisplay} (strasbourg).`,
+      url: `https://www.strasbourg-demenageur.fr/${zone}`,
       type: 'website',
     },
   };
@@ -71,7 +71,7 @@ export function generateLocalPageJsonLd(zone: string, zoneDisplay: string) {
       "@type": "Organization",
       "name": "Moverz"
     },
-    "areaServed": `rouen — ${zoneDisplay}`,
+    "areaServed": `strasbourg — ${zoneDisplay}`,
     "serviceType": "Mise en relation et comparaison de devis"
   };
 }
@@ -125,7 +125,7 @@ export default function LocalPage({
                     <span className="text-4xl">📍</span>
                     <div className="text-left">
                       <div className="text-white font-bold text-2xl">{zoneDisplay}</div>
-                      <div className="text-white/80 text-sm">rouen</div>
+                      <div className="text-white/80 text-sm">strasbourg</div>
                     </div>
                   </div>
                 </div>
@@ -259,7 +259,7 @@ export default function LocalPage({
             Destinations couvertes
           </h2>
           <div className="flex flex-wrap justify-center gap-3">
-            {['rouen intra-muros', 'Gironde', 'Pays de la Loire', 'France entière', 'Europe'].map((dest) => (
+            {['strasbourg intra-muros', 'Gironde', 'Pays de la Loire', 'France entière', 'Europe'].map((dest) => (
               <span key={dest} className="bg-[#6bcfcf]/20 text-[#6bcfcf] px-4 py-2 rounded-full text-sm">
                 {dest}
               </span>

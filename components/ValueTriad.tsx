@@ -14,7 +14,7 @@ export default function ValueTriad() {
     },
     {
       title: "Experts locaux",
-      description: "Déménageurs qualifiés (ex. Rouen & Gironde)"
+      description: "Déménageurs qualifiés (ex. Strasbourg & Gironde)"
     }
   ];
 
