@@ -12,7 +12,7 @@ const marseilleData = {
     {
       type: "Studio/T1",
       prix: "900-1300€",
-      description: "Déménagement bordeaux → Marseille : 660 km, 7h00. Studio/T1 (10-15 m³) dès 900-1300€. Devis gratuit sous 7j. Équipe pro, emballage inclus."
+      description: "Déménagement marseille → Marseille : 660 km, 7h00. Studio/T1 (10-15 m³) dès 900-1300€. Devis gratuit sous 7j. Équipe pro, emballage inclus."
     },
     {
       type: "T2/T3",
@@ -36,7 +36,7 @@ const marseilleData = {
   ],
   faq: [
     {
-      question: "Quels sont les délais pour un déménagement bordeaux → Marseille ?",
+      question: "Quels sont les délais pour un déménagement Marseille → Marseille ?",
       answer: "Nos partenaires déménageurs peuvent généralement intervenir sous 7 jours. Pour les déménagements urgents, certains peuvent se libérer en 48h selon la période."
     },
     {
@@ -44,7 +44,7 @@ const marseilleData = {
       answer: "Nos déménageurs connaissent parfaitement les contraintes marseillaises : créneaux autorisés, zones de déchargement, contraintes de circulation. Ils s'adaptent aux spécificités de chaque arrondissement."
     },
     {
-      question: "Quels sont les tarifs pour bordeaux → Marseille ?",
+      question: "Quels sont les tarifs pour Marseille → Marseille ?",
       answer: "Les tarifs varient selon le volume et les contraintes d'accès marseillaises. Comptez 900-1300€ pour un studio, 1300-2000€ pour un T2/T3, 2000-3200€ pour une maison."
     },
     {

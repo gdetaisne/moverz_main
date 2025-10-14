@@ -2,33 +2,33 @@ export default function StructuredData() {
   const structuredData = {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
-    "name": "Déménageurs Lyon (IA)",
+    "name": "Déménageurs Marseille (IA)",
     "description": "30 minutes pour votre dossier → 5 devis personnalisés sous 7 jours. Estimation volumétrique à partir de photos, tarifs clairs, conseils locaux.",
-    "url": "https://www.devis-demenageur-lyon.fr",
+    "url": "https://www.devis-demenageur-marseille.fr",
     "telephone": "+33-XXX-XXX-XXX",
     "address": {
       "@type": "PostalAddress",
-      "addressLocality": "Lyon",
-      "addressRegion": "Auvergne-Rhône-Alpes",
+      "addressLocality": "Marseille",
+      "addressRegion": "Provence-Alpes-Côte d'Azur",
       "addressCountry": "FR"
     },
     "geo": {
       "@type": "GeoCoordinates",
-      "latitude": 45.7640,
-      "longitude": 4.8357
+      "latitude": 43.2965,
+      "longitude": 5.3698
     },
     "areaServed": [
       {
         "@type": "City",
-        "name": "Lyon"
+        "name": "Marseille"
       },
       {
         "@type": "City",
-        "name": "Villeurbanne"
+        "name": "Aix-en-Provence"
       },
       {
         "@type": "City",
-        "name": "Vénissieux"
+        "name": "Aubagne"
       }
     ],
     "priceRange": "€€",
