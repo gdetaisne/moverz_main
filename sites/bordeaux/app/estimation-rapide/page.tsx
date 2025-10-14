@@ -742,7 +742,7 @@ export default function EstimationRapide() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
             <a 
-              href="/devis-demenagement-bordeaux/" 
+              href="https://movers-test.gslv.cloud/" 
               className="inline-flex h-12 items-center justify-center rounded-2xl bg-white px-8 text-lg font-semibold text-[#2b7a78] shadow-xl hover:bg-white/90 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white/50 transition duration-300"
             >
               Demander mes devis gratuits
