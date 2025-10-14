@@ -1,4 +1,4 @@
-# 🏘️ Quartiers nantes Images
+# 🏘️ Quartiers bordeaux Images
 
 ## Images Suggérées
 
@@ -15,7 +15,7 @@
 - **Format**: 16:9 ou 4:3
 - **Dimensions**: 1600x900px
 - **Contenu**: Rues pavées centre historique, accès limité
-- **Alt**: `"Saint-Pierre — rues pavées, accès camion limité, centre historique nantes"`
+- **Alt**: `"Saint-Pierre — rues pavées, accès camion limité, centre historique bordeaux"`
 
 #### `cauderan.jpg`
 - **Format**: 16:9 ou 4:3
@@ -43,12 +43,12 @@
 
 ## Utilisé Dans
 - `app/_templates/LocalPage.tsx` (pages quartiers)
-- `app/nantes/[quartier]/page.tsx`
+- `app/bordeaux/[quartier]/page.tsx`
 
 ## Comment Ajouter
 ```tsx
 const quartierData = {
-  zone: "nantes/nom-quartier",
+  zone: "bordeaux/nom-quartier",
   zoneDisplay: "Nom Quartier",
   coverImage: "/images/quartiers/nom-quartier.jpg", // ← Ajouter ici
   // ... autres props
@@ -56,10 +56,10 @@ const quartierData = {
 ```
 
 ## Sources d'Images
-- **Unsplash**: `"nantes architecture"`, `"nantes street"`
+- **Unsplash**: `"bordeaux architecture"`, `"bordeaux street"`
 - **Pexels**: `"french architecture"`, `"european street"`
-- **Flickr**: Recherche géolocalisée nantes
-- **Wikimedia Commons**: Photos libres quartiers nantes
+- **Flickr**: Recherche géolocalisée bordeaux
+- **Wikimedia Commons**: Photos libres quartiers bordeaux
 
 ## Guidelines
 - Montrer les spécificités d'accès (étroit/large, parking, etc.)

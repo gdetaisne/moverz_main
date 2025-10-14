@@ -41,12 +41,13 @@ export default function Header() {
   };
 
   const zonesItems = [
-    { href: '/nantes', label: 'Nantes' },
-    { href: '/nantes/centre-ville', label: 'Centre-ville' },
-    { href: '/nantes/ile-nantes', label: 'Ile de Nantes' },
-    { href: '/nantes/malakoff', label: 'Malakoff' },
-    { href: '/nantes/dervallieres', label: 'Dervallières' },
-    { href: '/nantes/beaulieu', label: 'Beaulieu' },  ];
+    { href: '/bordeaux', label: 'bordeaux' },
+    { href: '/bordeaux/chartrons', label: 'Chartrons' },
+    { href: '/bordeaux/cauderan', label: 'Caudéran' },
+    { href: '/bordeaux/bastide', label: 'Bastide' },
+    { href: '/bordeaux/merignac', label: 'Mérignac' },
+    { href: '/bordeaux/pessac', label: 'Pessac' },
+  ];
 
 
   return (
@@ -66,7 +67,7 @@ export default function Header() {
           <div className="text-white font-semibold tracking-tight text-sm md:text-base leading-tight flex flex-col">
             <span>Devis</span>
             <span>Déménageur</span>
-            <span>Nantes</span>
+            <span>Bordeaux</span>
           </div>
         </Link>
 
@@ -136,34 +137,34 @@ export default function Header() {
                   Destinations fréquentes
                 </div>
                 <Link
-                  href="/nantes-vers-paris"
+                  href="/bordeaux-vers-paris"
                   className="block px-4 py-2 text-gray-800 hover:bg-white/50 transition-colors"
                   onClick={() => {
                     setIsZonesDropdownOpen(false);
                     trackClick('corridor-paris');
                   }}
                 >
-                  Nantes → Paris
+                  bordeaux → Paris
                 </Link>
                 <Link
-                  href="/nantes-vers-lyon"
+                  href="/bordeaux-vers-lyon"
                   className="block px-4 py-2 text-gray-800 hover:bg-white/50 transition-colors"
                   onClick={() => {
                     setIsZonesDropdownOpen(false);
                     trackClick('corridor-lyon');
                   }}
                 >
-                  Nantes → Lyon
+                  bordeaux → Lyon
                 </Link>
                 <Link
-                  href="/nantes-vers-toulouse"
+                  href="/bordeaux-vers-toulouse"
                   className="block px-4 py-2 text-gray-800 hover:bg-white/50 transition-colors"
                   onClick={() => {
                     setIsZonesDropdownOpen(false);
                     trackClick('corridor-toulouse');
                   }}
                 >
-                  Nantes → Toulouse
+                  bordeaux → Toulouse
                 </Link>
               </div>
             )}
@@ -199,7 +200,7 @@ export default function Header() {
             className="hidden sm:inline-flex h-11 items-center justify-center rounded-2xl bg-[#2b7a78] px-5 text-sm font-medium text-white shadow-marketing-xl hover:brightness-110 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white/50 transition duration-300"
             onClick={() => trackClick('cta-header')}
           >
-            Obtenir 5 devis gratuits
+            Obtenez vos devis précis gratuitement
           </Link>
           
           {/* Mobile Menu Button */}
@@ -312,7 +313,7 @@ export default function Header() {
                   trackClick('mobile-cta');
                 }}
               >
-                Obtenir 5 devis gratuits
+                Obtenez vos devis précis gratuitement
               </Link>
             </div>
           </div>

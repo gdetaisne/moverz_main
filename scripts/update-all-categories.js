@@ -4,17 +4,17 @@ const matter = require('gray-matter');
 
 // Mapping des dossiers vers les catégories attendues
 const folderToCategoryMapping = {
-  'demenagement-etudiant-nantes': 'demenagement-etudiant-nantes',
-  'demenagement-entreprise-nantes': 'demenagement-entreprise-nantes',
-  'demenagement-piano-nantes': 'demenagement-piano-nantes',
-  'demenagement-international-nantes': 'demenagement-international-nantes',
-  'demenagement-longue-distance-nantes': 'demenagement-longue-distance-nantes',
-  'demenagement-pas-cher-nantes': 'demenagement-pas-cher-nantes',
-  'demenagement-urgent-nantes': 'demenagement-urgent-nantes',
-  'devis-demenagement-nantes': 'devis-demenagement-nantes',
-  'garde-meuble-nantes': 'garde-meuble-nantes',
-  'prix-demenagement-nantes': 'prix-demenagement-nantes',
-  'prix-demenagement-piano-nantes': 'prix-demenagement-piano-nantes',
+  'demenagement-etudiant-bordeaux': 'demenagement-etudiant-bordeaux',
+  'demenagement-entreprise-bordeaux': 'demenagement-entreprise-bordeaux',
+  'demenagement-piano-bordeaux': 'demenagement-piano-bordeaux',
+  'demenagement-international-bordeaux': 'demenagement-international-bordeaux',
+  'demenagement-longue-distance-bordeaux': 'demenagement-longue-distance-bordeaux',
+  'demenagement-pas-cher-bordeaux': 'demenagement-pas-cher-bordeaux',
+  'demenagement-urgent-bordeaux': 'demenagement-urgent-bordeaux',
+  'devis-demenagement-bordeaux': 'devis-demenagement-bordeaux',
+  'garde-meuble-bordeaux': 'garde-meuble-bordeaux',
+  'prix-demenagement-bordeaux': 'prix-demenagement-bordeaux',
+  'prix-demenagement-piano-bordeaux': 'prix-demenagement-piano-bordeaux',
 };
 
 function updateArticle(filePath, categoryFolder) {
@@ -87,7 +87,7 @@ console.log('\n' + '═'.repeat(60));
 console.log(`✅ Completed! Updated ${totalUpdated} articles`);
 console.log('\n📊 Category mapping:');
 Object.entries(folderToCategoryMapping).forEach(([folder, category]) => {
-  const cleanCat = category.replace('demenagement-', '').replace('-nantes', '').replace('devis-', '').replace('garde-meuble', 'garde-meuble').replace('prix-', 'prix/');
+  const cleanCat = category.replace('demenagement-', '').replace('-bordeaux', '').replace('devis-', '').replace('garde-meuble', 'garde-meuble').replace('prix-', 'prix/');
   console.log(`  ${folder} → ${cleanCat}`);
 });
 

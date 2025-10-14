@@ -1,9 +1,8 @@
-# Force rebuild - Next.js production build v3 - FORCE FULL REBUILD
+# Dockerfile spécifique pour bordeaux - FORCE REBUILD v3
 FROM node:20-alpine AS base
 RUN apk add --no-cache libc6-compat
 WORKDIR /app
-# SUPER Cache buster - forces rebuild of ALL layers
-RUN echo "FORCE REBUILD $(date +%s)" > /tmp/force-rebuild-$(date +%s).txt
+RUN echo "FORCE REBUILD bordeaux $(date +%s)" > /tmp/force-rebuild-$(date +%s).txt
 
 # Install dependencies
 FROM base AS deps
@@ -29,19 +28,15 @@ ENV PORT=3000
 ENV NEXT_TELEMETRY_DISABLED=1
 
 # Copy built application
-COPY --from=builder --chown=nextjs:nodejs /app/.next/standalone ./
-COPY --from=builder --chown=nextjs:nodejs /app/.next/static ./.next/static
+COPY --from=builder --chown=nextjs:nodejs /app/package.json ./package.json
+COPY --from=builder --chown=nextjs:nodejs /app/node_modules ./node_modules
+COPY --from=builder --chown=nextjs:nodejs /app/.next ./.next
 
-# Copy public directory if it exists
+# Copy public directory
 RUN mkdir -p ./public
 COPY --from=builder --chown=nextjs:nodejs /app/public ./public
-
-# Copy content directory (blog markdown files)
-COPY --from=builder --chown=nextjs:nodejs /app/content ./content
 
 USER nextjs
 EXPOSE 3000
 
-CMD ["dumb-init", "node", "server.js"]
-
-
+CMD ["dumb-init", "node_modules/.bin/next", "start"]

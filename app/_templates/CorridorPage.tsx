@@ -21,15 +21,15 @@ interface CorridorPageProps {
 
 export function generateCorridorPageMetadata(destination: string): Metadata {
   return {
-    title: `Déménagement nantes → ${destination} — Comparez des devis | Moverz`,
-    description: `Un seul dossier, 20 déménageurs qualifiés. 3 devis sous 7 jours pour nantes → ${destination}.`,
+    title: `Déménagement bordeaux → ${destination} — Comparez des devis | Moverz`,
+    description: `Un seul dossier, 20 déménageurs qualifiés. 3 devis sous 7 jours pour bordeaux → ${destination}.`,
     alternates: {
-      canonical: `https://www.nantes-demenageur.fr/nantes-vers-${destination.toLowerCase()}`,
+      canonical: `https://www.devis-demenageur-bordeaux.fr/bordeaux-vers-${destination.toLowerCase()}`,
     },
     openGraph: {
-      title: `Déménagement nantes → ${destination} — Comparez des devis | Moverz`,
-      description: `Un seul dossier, 20 déménageurs qualifiés. 3 devis sous 7 jours pour nantes → ${destination}.`,
-      url: `https://www.nantes-demenageur.fr/nantes-vers-${destination.toLowerCase()}`,
+      title: `Déménagement bordeaux → ${destination} — Comparez des devis | Moverz`,
+      description: `Un seul dossier, 20 déménageurs qualifiés. 3 devis sous 7 jours pour bordeaux → ${destination}.`,
+      url: `https://www.devis-demenageur-bordeaux.fr/bordeaux-vers-${destination.toLowerCase()}`,
       type: 'website',
     },
   };
@@ -39,12 +39,12 @@ export function generateCorridorPageJsonLd(destination: string) {
   return {
     "@context": "https://schema.org",
     "@type": "Service",
-    "name": `Déménagement nantes → ${destination} — comparaison de devis`,
+    "name": `Déménagement bordeaux → ${destination} — comparaison de devis`,
     "provider": {
       "@type": "Organization",
       "name": "Moverz"
     },
-    "areaServed": `nantes → ${destination}`,
+    "areaServed": `bordeaux → ${destination}`,
     "serviceType": "Mise en relation et comparaison de devis"
   };
 }
@@ -74,7 +74,7 @@ export default function CorridorPage({
           <div className="container max-w-7xl mx-auto px-4 md:px-6 py-12">
             <div className="text-center">
               <h1 className="text-3xl md:text-5xl font-bold text-white mb-6">
-                Déménagement nantes → {destination} : comparez des devis fiables
+                Déménagement bordeaux → {destination} : comparez des devis fiables
               </h1>
               <p className="text-xl text-white/80 mb-8 max-w-3xl mx-auto">
                 30 min pour préparer votre dossier • ≥ 3 devis personnalisés sous 7 jours
@@ -115,7 +115,7 @@ export default function CorridorPage({
         {/* Prix indicatifs corridor */}
         <div className="container max-w-6xl mx-auto px-4 md:px-6 py-12">
           <h2 className="text-2xl font-bold text-white mb-8 text-center">
-            Prix indicatifs nantes → {destination}
+            Prix indicatifs bordeaux → {destination}
           </h2>
           <div className="grid md:grid-cols-3 gap-6">
             {prixIndicatifs.map((prix, index) => (
@@ -200,17 +200,17 @@ export default function CorridorPage({
         <div className="container max-w-4xl mx-auto px-4 md:px-6 py-12">
           <div className="bg-white/5 backdrop-blur rounded-2xl p-8 border border-white/10 text-center">
             <h2 className="text-xl font-semibold text-white mb-4">
-              Vous déménagez depuis nantes ?
+              Vous déménagez depuis bordeaux ?
             </h2>
             <div className="flex flex-wrap justify-center gap-4">
               <Link
-                href="/nantes"
+                href="/bordeaux"
                 className="bg-[#6bcfcf]/20 text-[#6bcfcf] px-6 py-3 rounded-full hover:bg-[#6bcfcf]/30 transition-colors"
               >
-                Voir nantes
+                Voir bordeaux
               </Link>
               <Link
-                href="/services/demenagement-standard-nantes"
+                href="/services/demenagement-standard-bordeaux"
                 className="bg-[#6bcfcf]/20 text-[#6bcfcf] px-6 py-3 rounded-full hover:bg-[#6bcfcf]/30 transition-colors"
               >
                 Service Standard
@@ -222,7 +222,7 @@ export default function CorridorPage({
         {/* FAQ corridor */}
         <div className="container max-w-4xl mx-auto px-4 md:px-6 py-12">
           <h2 className="text-2xl font-bold text-white mb-8 text-center">
-            FAQ nantes → {destination}
+            FAQ bordeaux → {destination}
           </h2>
           <div className="space-y-6">
             {faq.map((item, index) => (
