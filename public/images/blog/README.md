@@ -2,15 +2,15 @@
 
 ## Images Requises
 
-### `cover-guide-marseille.jpg`
+### `cover-guide-nice.jpg`
 - **Format**: 16:9
 - **Dimensions**: 1600x900px
 - **Poids max**: 120KB
 - **Contenu**: 
-  - Vue panoramique Marseille (Place de la Bourse, quais)
+  - Vue panoramique nice (Place de la Bourse, quais)
   - Ambiance moderne, dynamique
-  - Identifiable comme Marseille
-- **Alt**: `"Guide déménagement Marseille 2024 — conseils et astuces"`
+  - Identifiable comme nice
+- **Alt**: `"Guide déménagement nice 2024 — conseils et astuces"`
 
 ### `cover-quartiers.jpg`
 - **Format**: 16:9
@@ -20,7 +20,7 @@
   - Collage ou mosaïque de quartiers bordelais
   - OU rue typique représentative
   - Architecture variée
-- **Alt**: `"Quartiers de Marseille — guide pratique déménagement"`
+- **Alt**: `"Quartiers de nice — guide pratique déménagement"`
 
 ### `cover-estimation.jpg`
 - **Format**: 16:9
@@ -59,7 +59,7 @@ Créer des covers par catégorie pour cohérence :
 - "Facebook Cover" (resize)
 
 ## Sources
-- **Unsplash**: `"marseille city"`, `"moving boxes"`, `"packing"`
+- **Unsplash**: `"nice city"`, `"moving boxes"`, `"packing"`
 - **Pexels**: `"relocation"`, `"cardboard boxes"`, `"apartment"`
 - **Pixabay**: `"déménagement"`, `"cartons"`
 
@@ -70,7 +70,7 @@ cover-[categorie]-[theme].jpg
 ```
 
 Exemples:
-- `cover-demenagement-etudiant-marseille.jpg`
+- `cover-demenagement-etudiant-nice.jpg`
 - `cover-prix-demenagement-2025.jpg`
 - `cover-garde-meuble-conseils.jpg`
 

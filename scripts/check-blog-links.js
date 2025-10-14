@@ -4,17 +4,17 @@ const matter = require('gray-matter');
 
 // Mapping des catégories
 const categoryMapping = {
-  'demenagement-etudiant-marseille': 'etudiant',
-  'demenagement-entreprise-marseille': 'entreprise',
-  'demenagement-piano-marseille': 'piano',
-  'demenagement-international-marseille': 'international',
-  'demenagement-longue-distance-marseille': 'longue-distance',
-  'demenagement-pas-cher-marseille': 'pas-cher',
-  'demenagement-urgent-marseille': 'urgent',
-  'devis-demenagement-marseille': 'devis',
-  'garde-meuble-marseille': 'garde-meuble',
-  'prix-demenagement-marseille': 'prix',
-  'prix-demenagement-piano-marseille': 'prix-piano',
+  'demenagement-etudiant-nice': 'etudiant',
+  'demenagement-entreprise-nice': 'entreprise',
+  'demenagement-piano-nice': 'piano',
+  'demenagement-international-nice': 'international',
+  'demenagement-longue-distance-nice': 'longue-distance',
+  'demenagement-pas-cher-nice': 'pas-cher',
+  'demenagement-urgent-nice': 'urgent',
+  'devis-demenagement-nice': 'devis',
+  'garde-meuble-nice': 'garde-meuble',
+  'prix-demenagement-nice': 'prix',
+  'prix-demenagement-piano-nice': 'prix-piano',
 };
 
 // Clean slug function
@@ -22,17 +22,17 @@ function cleanSlug(slug, category) {
   let clean = slug;
   
   const categoryPatterns = [
-    'demenagement-etudiant-marseille-',
-    'demenagement-entreprise-marseille-',
-    'demenagement-piano-marseille-',
-    'demenagement-international-marseille-',
-    'demenagement-longue-distance-marseille-',
-    'demenagement-pas-cher-marseille-',
-    'demenagement-urgent-marseille-',
-    'devis-demenagement-marseille-',
-    'garde-meuble-marseille-',
-    'prix-demenagement-marseille-',
-    'prix-demenagement-piano-marseille-',
+    'demenagement-etudiant-nice-',
+    'demenagement-entreprise-nice-',
+    'demenagement-piano-nice-',
+    'demenagement-international-nice-',
+    'demenagement-longue-distance-nice-',
+    'demenagement-pas-cher-nice-',
+    'demenagement-urgent-nice-',
+    'devis-demenagement-nice-',
+    'garde-meuble-nice-',
+    'prix-demenagement-nice-',
+    'prix-demenagement-piano-nice-',
   ];
   
   categoryPatterns.forEach(pattern => {
@@ -41,7 +41,7 @@ function cleanSlug(slug, category) {
     }
   });
   
-  clean = clean.replace(/-marseille$/i, '');
+  clean = clean.replace(/-nice$/i, '');
   clean = clean.replace(/-guide-complet$/i, '-guide');
   clean = clean.replace(/-reperes-2025$/i, '-2025');
   

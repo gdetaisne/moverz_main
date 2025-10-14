@@ -37,26 +37,26 @@ interface LocalPageProps {
 
 export function generateLocalPageMetadata(zone: string, zoneDisplay: string): Metadata {
   return {
-    title: `Déménagement ${zoneDisplay} Montpellier - Tarifs & Devis Gratuit | Moverz`,
-    description: `Déménageur local ${zoneDisplay} à Montpellier : tarifs détaillés, disponibilités immédiates. Devis personnalisé gratuit sous 7j. Équipe locale expérimentée. Réservation en ligne simple.`,
+    title: `Déménagement ${zoneDisplay} Nice - Tarifs & Devis Gratuit | Moverz`,
+    description: `Déménageur local ${zoneDisplay} à Nice : tarifs détaillés, disponibilités immédiates. Devis personnalisé gratuit sous 7j. Équipe locale expérimentée. Réservation en ligne simple.`,
     alternates: {
-      canonical: `https://www.devis-demenageur-montpellier.fr/${zone}`,
+      canonical: `https://www.devis-demenageur-nice.fr/${zone}`,
     },
     openGraph: {
-      title: `Déménagement ${zoneDisplay} Montpellier - Comparez des devis fiables`,
-      description: `Préparez votre dossier en 30 min. Au moins 3 devis personnalisés sous 7 jours pour ${zoneDisplay} (Montpellier).`,
-      url: `https://www.devis-demenageur-montpellier.fr/${zone}`,
+      title: `Déménagement ${zoneDisplay} Nice - Comparez des devis fiables`,
+      description: `Préparez votre dossier en 30 min. Au moins 3 devis personnalisés sous 7 jours pour ${zoneDisplay} (Nice).`,
+      url: `https://www.devis-demenageur-nice.fr/${zone}`,
       type: 'website',
     },
   };
-} (montpellier).`,
+} (nice).`,
     alternates: {
-      canonical: `https://www.montpellier-demenageur.fr/${zone}`,
+      canonical: `https://www.nice-demenageur.fr/${zone}`,
     },
     openGraph: {
       title: `Déménageur ${zoneDisplay} — Comparez des devis fiables | Moverz`,
-      description: `Préparez votre dossier en 30 min. Au moins 3 devis personnalisés sous 7 jours pour ${zoneDisplay} (montpellier).`,
-      url: `https://www.montpellier-demenageur.fr/${zone}`,
+      description: `Préparez votre dossier en 30 min. Au moins 3 devis personnalisés sous 7 jours pour ${zoneDisplay} (nice).`,
+      url: `https://www.nice-demenageur.fr/${zone}`,
       type: 'website',
     },
   };
@@ -71,7 +71,7 @@ export function generateLocalPageJsonLd(zone: string, zoneDisplay: string) {
       "@type": "Organization",
       "name": "Moverz"
     },
-    "areaServed": `montpellier — ${zoneDisplay}`,
+    "areaServed": `nice — ${zoneDisplay}`,
     "serviceType": "Mise en relation et comparaison de devis"
   };
 }
@@ -125,7 +125,7 @@ export default function LocalPage({
                     <span className="text-4xl">📍</span>
                     <div className="text-left">
                       <div className="text-white font-bold text-2xl">{zoneDisplay}</div>
-                      <div className="text-white/80 text-sm">montpellier</div>
+                      <div className="text-white/80 text-sm">nice</div>
                     </div>
                   </div>
                 </div>
@@ -259,7 +259,7 @@ export default function LocalPage({
             Destinations couvertes
           </h2>
           <div className="flex flex-wrap justify-center gap-3">
-            {['montpellier intra-muros', 'Gironde', 'Pays de la Loire', 'France entière', 'Europe'].map((dest) => (
+            {['nice intra-muros', 'Gironde', 'Pays de la Loire', 'France entière', 'Europe'].map((dest) => (
               <span key={dest} className="bg-[#6bcfcf]/20 text-[#6bcfcf] px-4 py-2 rounded-full text-sm">
                 {dest}
               </span>

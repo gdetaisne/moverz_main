@@ -10,12 +10,12 @@ export default function QuartierTemplate(props: {
   parentLink?: string; // lien vers la page mère devis
   coverImage?: string; // image du quartier (optionnelle)
 }) {
-  const { title, intro, priceRows, parentLink = "/devis-demenagement-Marseille/", coverImage } = props;
+  const { title, intro, priceRows, parentLink = "/devis-demenagement-Nice/", coverImage } = props;
   return (
     <main className="section">
       <div className="container">
         <h1 className="text-3xl md:text-4xl font-semibold">
-          Devis de déménagement – {title} (Marseille)
+          Devis de déménagement – {title} (Nice)
         </h1>
         <p className="mt-2 text-white/75">
           Calculez votre volume en m³ avec notre outil photo IA et obtenez un devis instantané.
@@ -76,7 +76,7 @@ export default function QuartierTemplate(props: {
                 Créer mon dossier
               </a>
               <a href={parentLink} className="inline-flex h-11 items-center justify-center rounded-2xl border border-white/30 px-5 text-sm font-medium hover:bg-white/15 transition duration-300">
-                Revenir à la page Devis Marseille
+                Revenir à la page Devis Nice
               </a>
             </div>
           </div>
@@ -88,7 +88,7 @@ export default function QuartierTemplate(props: {
               <li>• Anticipez l’autorisation de stationnement si les accès sont limités.</li>
               <li>• Mentionnez étage, ascenseur, portage & objets lourds (piano, frigo US…).</li>
             </ul>
-            <a href="/estimation-demenagement-Marseille/" className="mt-4 inline-flex h-11 items-center justify-center rounded-2xl bg-[#2b7a78] px-5 text-sm font-medium text-white shadow-marketing-xl hover:brightness-110 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white/50 transition duration-300">
+            <a href="/estimation-demenagement-Nice/" className="mt-4 inline-flex h-11 items-center justify-center rounded-2xl bg-[#2b7a78] px-5 text-sm font-medium text-white shadow-marketing-xl hover:brightness-110 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white/50 transition duration-300">
               Estimation instantanée
             </a>
           </aside>
