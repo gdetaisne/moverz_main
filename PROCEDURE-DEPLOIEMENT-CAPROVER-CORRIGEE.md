@@ -17,9 +17,21 @@ Déployer un site spécifique (ex: Nantes) sur CapRover via son repo GitHub indi
 **Problème** : CapRover utilise des caches Docker même après modifications.
 **Solution** : Modifier le cache buster dans le Dockerfile.
 
-### Erreur 4: Erreurs de syntaxe dans le code
-**Problème** : Duplications et lignes orphelines dans les fichiers TSX.
-**Solution** : Vérifier et corriger les erreurs de syntaxe.
+### Erreur 4: "module is not defined in ES module scope"
+**Problème** : Fichiers `.js` obsolètes (`next.config.js`, `postcss.config.js`) utilisant syntaxe CommonJS alors que `package.json` déclare `"type": "module"`.
+**Solution** : Supprimer les fichiers `.js`, utiliser uniquement `.mjs` (ES modules) ou `.cjs` (CommonJS explicite).
+
+### Erreur 5: Erreurs de syntaxe TypeScript/React
+**Problème** : Duplications et lignes orphelines dans `LocalPage.tsx` (ex: `} (ville).\`,`).
+**Solution** : Supprimer les lignes orphelines entre les fonctions.
+
+### Erreur 6: "unknown escape sequence" YAML
+**Problème** : Échappements `\:` invalides dans les titres YAML des frontmatters Markdown.
+**Solution** : Remplacer tous les `\:` par `:` (YAML n'a pas besoin d'échapper les deux-points dans les chaînes entre guillemets).
+
+### Erreur 7: "can not read a block mapping entry" YAML
+**Problème** : Guillemets fermants cassés avec backslash orphelin (ex: `title: "Prix Marseille\"`).
+**Solution** : Remplacer tous les `\"` finaux par `"` (guillemet fermant propre).
 
 ## 📋 Procédure Complète
 
@@ -116,7 +128,20 @@ cd /Users/guillaumestehelin/moverz_main-5
 # Cela crée automatiquement le bon captain-definition
 ```
 
-### Étape 5: Vérification des Erreurs de Syntaxe
+### Étape 5: Correction des Problèmes YAML dans les Frontmatters
+```bash
+# 1. Corriger les échappements \: invalides
+find content/blog -name "*.md" -type f -exec sed -i '' 's/\\:/:/g' {} +
+
+# 2. Corriger les guillemets cassés \" à la fin des titres
+find content/blog -name "*.md" -type f -exec sed -i '' 's/\\"$/"/g' {} +
+
+# 3. Vérifier qu'il n'y a plus d'erreurs
+grep -r '\\:' content/blog/ && echo "⚠️ Encore des \\: à corriger" || echo "✅ Plus de \\:"
+grep -r '\\"$' content/blog/ && echo "⚠️ Encore des \\\" à corriger" || echo "✅ Plus de \\\"" 
+```
+
+### Étape 6: Vérification des Erreurs de Syntaxe TypeScript/React
 ```bash
 # 1. Vérifier les erreurs TypeScript/React
 npm run build 2>&1 | grep -i error
@@ -124,7 +149,7 @@ npm run build 2>&1 | grep -i error
 # 2. Corriger les erreurs trouvées (ex: duplications dans LocalPage.tsx)
 ```
 
-### Étape 6: Commit et Push
+### Étape 7: Commit et Push
 ```bash
 # 1. Ajouter tous les fichiers
 git add .
@@ -143,7 +168,7 @@ git commit -m "feat([ville]): Déploiement CapRover - fichiers copiés et corrig
 git push origin main --force
 ```
 
-### Étape 7: Déploiement CapRover
+### Étape 8: Déploiement CapRover
 1. Aller sur CapRover dashboard
 2. Sélectionner l'app `dd-[ville]`
 3. Aller dans l'onglet "Déploiement"
