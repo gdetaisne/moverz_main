@@ -3,13 +3,13 @@ import Image from "next/image";
 export default function BlogTeaser() {
   const articles = [
     {
-      title: "Guide déménagement bordeaux 2024",
+      title: "Guide déménagement Lille 2024",
       excerpt: "Tout savoir pour déménager sereinement dans la métropole.",
       cover: "https://images.unsplash.com/photo-1559564484-e48d68ea2c8f?w=1600&h=900&fit=crop&q=80",
       href: "/blog/"
     },
     {
-      title: "Quartiers de bordeaux : guide pratique",
+      title: "Quartiers de Lille : guide pratique",
       excerpt: "Chartrons, Saint-Pierre, Caudéran... découvrez les spécificités.",
       cover: "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=1600&h=900&fit=crop&q=80",
       href: "/blog/"
@@ -32,7 +32,7 @@ export default function BlogTeaser() {
             <div className="relative w-full aspect-video">
               <Image 
                 src={article.cover}
-                alt={`${article.title} — Guide déménagement bordeaux`}
+                alt={`${article.title} — Guide déménagement Lille`}
                 fill
                 sizes="(min-width: 768px) 33vw, 100vw"
                 className="object-cover group-hover:scale-105 transition-transform duration-300"

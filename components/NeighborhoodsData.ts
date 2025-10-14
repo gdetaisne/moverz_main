@@ -1,31 +1,29 @@
 export type Item = { slug: string; title: string };
 
 export const QUARTIERS: Item[] = [
-  { slug: "chartrons",      title: "Chartrons" },
-  { slug: "cauderan",       title: "Caudéran" },
-  { slug: "bastide",        title: "Bastide" },
-  { slug: "saint-pierre",   title: "Saint-Pierre" },
-  { slug: "meriadeck",      title: "Mériadeck" },
-  { slug: "nansouty",       title: "Nansouty" },
-  { slug: "saint-augustin", title: "Saint-Augustin" },
-  { slug: "victoire",       title: "Victoire" },
-  { slug: "lac",            title: "Lac" },
-  { slug: "saint-seurin",   title: "Saint-Seurin" },
+  { slug: "vieux-lille",      title: "Vieux Lille" },
+  { slug: "centre",      title: "Centre" },
+  { slug: "wazemmes",      title: "Wazemmes" },
+  { slug: "moulins",      title: "Moulins" },
+  { slug: "lomme",      title: "Lomme" },
+  { slug: "saint-maurice",      title: "Saint-Maurice" },
+  { slug: "fives",      title: "Fives" },
+  { slug: "hellemmes",      title: "Hellemmes" },
+  { slug: "faubourg-bethune",      title: "Faubourg de Béthune" },
+  { slug: "vauban",     title: "Vauban" },
 ];
 
 export const COMMUNES: Item[] = [
-  { slug: "merignac",           title: "Mérignac" },
-  { slug: "pessac",             title: "Pessac" },
-  { slug: "talence",            title: "Talence" },
-  { slug: "begles",             title: "Bègles" },
-  { slug: "villenave-d-ornon",  title: "Villenave-d’Ornon" },
+  { slug: "roubaix",       title: "Roubaix" },
+  { slug: "tourcoing",       title: "Tourcoing" },
+  { slug: "villeneuve-d-ascq",       title: "Villeneuve-d'Ascq" },
+  { slug: "lambersart",       title: "Lambersart" },
+  { slug: "marcq-en-baroeul",       title: "Marcq-en-Barœul" },
 ];
 
 export function urlForQuartier(slug: string) {
-  return `/devis-demenagement-bordeaux-${slug}/`;
+  return `/devis-demenagement-Lille-${slug}/`;
 }
 export function urlForCommune(slug: string) {
   return `/devis-demenagement-${slug}/`;
 }
-
-

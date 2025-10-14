@@ -41,13 +41,12 @@ export default function Header() {
   };
 
   const zonesItems = [
-    { href: '/bordeaux', label: 'bordeaux' },
-    { href: '/bordeaux/chartrons', label: 'Chartrons' },
-    { href: '/bordeaux/cauderan', label: 'Caudéran' },
-    { href: '/bordeaux/bastide', label: 'Bastide' },
-    { href: '/bordeaux/merignac', label: 'Mérignac' },
-    { href: '/bordeaux/pessac', label: 'Pessac' },
-  ];
+    { href: '/lille', label: 'Lille' },
+    { href: '/lille/vieux-lille', label: 'Vieux Lille' },
+    { href: '/lille/centre', label: 'Centre' },
+    { href: '/lille/wazemmes', label: 'Wazemmes' },
+    { href: '/lille/moulins', label: 'Moulins' },
+    { href: '/lille/lomme', label: 'Lomme' },  ];
 
 
   return (
@@ -67,7 +66,7 @@ export default function Header() {
           <div className="text-white font-semibold tracking-tight text-sm md:text-base leading-tight flex flex-col">
             <span>Devis</span>
             <span>Déménageur</span>
-            <span>Bordeaux</span>
+            <span>Lille</span>
           </div>
         </Link>
 
@@ -137,34 +136,34 @@ export default function Header() {
                   Destinations fréquentes
                 </div>
                 <Link
-                  href="/bordeaux-vers-paris"
+                  href="/lille-vers-paris"
                   className="block px-4 py-2 text-gray-800 hover:bg-white/50 transition-colors"
                   onClick={() => {
                     setIsZonesDropdownOpen(false);
                     trackClick('corridor-paris');
                   }}
                 >
-                  bordeaux → Paris
+                  Lille → Paris
                 </Link>
                 <Link
-                  href="/bordeaux-vers-lyon"
+                  href="/lille-vers-lyon"
                   className="block px-4 py-2 text-gray-800 hover:bg-white/50 transition-colors"
                   onClick={() => {
                     setIsZonesDropdownOpen(false);
                     trackClick('corridor-lyon');
                   }}
                 >
-                  bordeaux → Lyon
+                  Lille → Lyon
                 </Link>
                 <Link
-                  href="/bordeaux-vers-toulouse"
+                  href="/lille-vers-toulouse"
                   className="block px-4 py-2 text-gray-800 hover:bg-white/50 transition-colors"
                   onClick={() => {
                     setIsZonesDropdownOpen(false);
                     trackClick('corridor-toulouse');
                   }}
                 >
-                  bordeaux → Toulouse
+                  Lille → Toulouse
                 </Link>
               </div>
             )}
@@ -200,7 +199,7 @@ export default function Header() {
             className="hidden sm:inline-flex h-11 items-center justify-center rounded-2xl bg-[#2b7a78] px-5 text-sm font-medium text-white shadow-marketing-xl hover:brightness-110 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white/50 transition duration-300"
             onClick={() => trackClick('cta-header')}
           >
-            Obtenez vos devis précis gratuitement
+            Obtenir 5 devis gratuits
           </Link>
           
           {/* Mobile Menu Button */}
@@ -313,7 +312,7 @@ export default function Header() {
                   trackClick('mobile-cta');
                 }}
               >
-                Obtenez vos devis précis gratuitement
+                Obtenir 5 devis gratuits
               </Link>
             </div>
           </div>

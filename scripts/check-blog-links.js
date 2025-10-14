@@ -4,17 +4,17 @@ const matter = require('gray-matter');
 
 // Mapping des catégories
 const categoryMapping = {
-  'demenagement-etudiant-bordeaux': 'etudiant',
-  'demenagement-entreprise-bordeaux': 'entreprise',
-  'demenagement-piano-bordeaux': 'piano',
-  'demenagement-international-bordeaux': 'international',
-  'demenagement-longue-distance-bordeaux': 'longue-distance',
-  'demenagement-pas-cher-bordeaux': 'pas-cher',
-  'demenagement-urgent-bordeaux': 'urgent',
-  'devis-demenagement-bordeaux': 'devis',
-  'garde-meuble-bordeaux': 'garde-meuble',
-  'prix-demenagement-bordeaux': 'prix',
-  'prix-demenagement-piano-bordeaux': 'prix-piano',
+  'demenagement-etudiant-lille': 'etudiant',
+  'demenagement-entreprise-lille': 'entreprise',
+  'demenagement-piano-lille': 'piano',
+  'demenagement-international-lille': 'international',
+  'demenagement-longue-distance-lille': 'longue-distance',
+  'demenagement-pas-cher-lille': 'pas-cher',
+  'demenagement-urgent-lille': 'urgent',
+  'devis-demenagement-lille': 'devis',
+  'garde-meuble-lille': 'garde-meuble',
+  'prix-demenagement-lille': 'prix',
+  'prix-demenagement-piano-lille': 'prix-piano',
 };
 
 // Clean slug function
@@ -22,17 +22,17 @@ function cleanSlug(slug, category) {
   let clean = slug;
   
   const categoryPatterns = [
-    'demenagement-etudiant-bordeaux-',
-    'demenagement-entreprise-bordeaux-',
-    'demenagement-piano-bordeaux-',
-    'demenagement-international-bordeaux-',
-    'demenagement-longue-distance-bordeaux-',
-    'demenagement-pas-cher-bordeaux-',
-    'demenagement-urgent-bordeaux-',
-    'devis-demenagement-bordeaux-',
-    'garde-meuble-bordeaux-',
-    'prix-demenagement-bordeaux-',
-    'prix-demenagement-piano-bordeaux-',
+    'demenagement-etudiant-lille-',
+    'demenagement-entreprise-lille-',
+    'demenagement-piano-lille-',
+    'demenagement-international-lille-',
+    'demenagement-longue-distance-lille-',
+    'demenagement-pas-cher-lille-',
+    'demenagement-urgent-lille-',
+    'devis-demenagement-lille-',
+    'garde-meuble-lille-',
+    'prix-demenagement-lille-',
+    'prix-demenagement-piano-lille-',
   ];
   
   categoryPatterns.forEach(pattern => {
@@ -41,7 +41,7 @@ function cleanSlug(slug, category) {
     }
   });
   
-  clean = clean.replace(/-bordeaux$/i, '');
+  clean = clean.replace(/-lille$/i, '');
   clean = clean.replace(/-guide-complet$/i, '-guide');
   clean = clean.replace(/-reperes-2025$/i, '-2025');
   

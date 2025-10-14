@@ -4,17 +4,17 @@ const matter = require('gray-matter');
 
 // Mapping des dossiers vers les catégories attendues
 const folderToCategoryMapping = {
-  'demenagement-etudiant-bordeaux': 'demenagement-etudiant-bordeaux',
-  'demenagement-entreprise-bordeaux': 'demenagement-entreprise-bordeaux',
-  'demenagement-piano-bordeaux': 'demenagement-piano-bordeaux',
-  'demenagement-international-bordeaux': 'demenagement-international-bordeaux',
-  'demenagement-longue-distance-bordeaux': 'demenagement-longue-distance-bordeaux',
-  'demenagement-pas-cher-bordeaux': 'demenagement-pas-cher-bordeaux',
-  'demenagement-urgent-bordeaux': 'demenagement-urgent-bordeaux',
-  'devis-demenagement-bordeaux': 'devis-demenagement-bordeaux',
-  'garde-meuble-bordeaux': 'garde-meuble-bordeaux',
-  'prix-demenagement-bordeaux': 'prix-demenagement-bordeaux',
-  'prix-demenagement-piano-bordeaux': 'prix-demenagement-piano-bordeaux',
+  'demenagement-etudiant-lille': 'demenagement-etudiant-lille',
+  'demenagement-entreprise-lille': 'demenagement-entreprise-lille',
+  'demenagement-piano-lille': 'demenagement-piano-lille',
+  'demenagement-international-lille': 'demenagement-international-lille',
+  'demenagement-longue-distance-lille': 'demenagement-longue-distance-lille',
+  'demenagement-pas-cher-lille': 'demenagement-pas-cher-lille',
+  'demenagement-urgent-lille': 'demenagement-urgent-lille',
+  'devis-demenagement-lille': 'devis-demenagement-lille',
+  'garde-meuble-lille': 'garde-meuble-lille',
+  'prix-demenagement-lille': 'prix-demenagement-lille',
+  'prix-demenagement-piano-lille': 'prix-demenagement-piano-lille',
 };
 
 function updateArticle(filePath, categoryFolder) {
@@ -87,7 +87,7 @@ console.log('\n' + '═'.repeat(60));
 console.log(`✅ Completed! Updated ${totalUpdated} articles`);
 console.log('\n📊 Category mapping:');
 Object.entries(folderToCategoryMapping).forEach(([folder, category]) => {
-  const cleanCat = category.replace('demenagement-', '').replace('-bordeaux', '').replace('devis-', '').replace('garde-meuble', 'garde-meuble').replace('prix-', 'prix/');
+  const cleanCat = category.replace('demenagement-', '').replace('-lille', '').replace('devis-', '').replace('garde-meuble', 'garde-meuble').replace('prix-', 'prix/');
   console.log(`  ${folder} → ${cleanCat}`);
 });
 

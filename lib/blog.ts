@@ -4,17 +4,17 @@ import matter from 'gray-matter';
 
 // Mapping des catégories pour URLs courtes
 const CATEGORY_MAPPING = {
-  'demenagement-etudiant-bordeaux': 'etudiant',
-  'demenagement-entreprise-bordeaux': 'entreprise', 
-  'demenagement-piano-bordeaux': 'piano',
-  'demenagement-international-bordeaux': 'international',
-  'demenagement-longue-distance-bordeaux': 'longue-distance',
-  'demenagement-pas-cher-bordeaux': 'pas-cher',
-  'demenagement-urgent-bordeaux': 'urgent',
-  'devis-demenagement-bordeaux': 'devis',
-  'garde-meuble-bordeaux': 'garde-meuble',
-  'prix-demenagement-bordeaux': 'prix',
-  'prix-demenagement-piano-bordeaux': 'prix-piano',
+  'demenagement-etudiant-lille': 'etudiant',
+  'demenagement-entreprise-lille': 'entreprise', 
+  'demenagement-piano-lille': 'piano',
+  'demenagement-international-lille': 'international',
+  'demenagement-longue-distance-lille': 'longue-distance',
+  'demenagement-pas-cher-lille': 'pas-cher',
+  'demenagement-urgent-lille': 'urgent',
+  'devis-demenagement-lille': 'devis',
+  'garde-meuble-lille': 'garde-meuble',
+  'prix-demenagement-lille': 'prix',
+  'prix-demenagement-piano-lille': 'prix-piano',
   // Gestion des catégories avec espaces (fallback)
   'Déménagement entreprise': 'entreprise',
   'Déménagement étudiant': 'etudiant',

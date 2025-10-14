@@ -8,7 +8,7 @@ export default function Hero() {
       <div className="absolute inset-0">
         <Image 
           src="https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?q=80&w=2000&auto=format&fit=crop"
-          alt="Déménagement professionnel à bordeaux"
+          alt="Déménagement professionnel à Lille"
           fill
           priority
           sizes="100vw"
@@ -64,17 +64,17 @@ export default function Hero() {
             <div className="relative h-64 w-full md:h-96 lg:h-[420px] rounded-2xl overflow-hidden bg-white/10 backdrop-blur-sm border border-white/20 shadow-2xl">
               <Image 
                 src="/images/hero/hero-ai-mockup.jpg"
-                alt="Estimation de volume en m³ à partir de photos — déménagement à bordeaux"
+                alt="Estimation de volume en m³ à partir de photos — déménagement à Lille"
                 fill
                 priority
                 sizes="(min-width: 1024px) 50vw, 100vw"
                 className="object-cover"
                 quality={90}
               />
-              {/* Filigrane bordeaux - Place de la Bourse */}
+              {/* Filigrane Lille - Place de la Bourse */}
               <div className="absolute inset-0 bg-gradient-to-t from-[#04163a]/60 to-transparent"></div>
               <div className="absolute bottom-0 left-0 right-0 p-4 text-xs text-white/60">
-                <span className="font-medium">🏛️ bordeaux</span>
+                <span className="font-medium">🏛️ Lille</span>
               </div>
             </div>
             

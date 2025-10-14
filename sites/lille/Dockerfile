@@ -1,7 +1,8 @@
-# Next.js production build optimized for CapRover
+# Dockerfile spécifique pour lille - FORCE REBUILD v3
 FROM node:20-alpine AS base
 RUN apk add --no-cache libc6-compat
 WORKDIR /app
+RUN echo "FORCE REBUILD lille $(date +%s)" > /tmp/force-rebuild-$(date +%s).txt
 
 # Install dependencies
 FROM base AS deps
@@ -26,12 +27,12 @@ ENV NODE_ENV=production
 ENV PORT=3000
 ENV NEXT_TELEMETRY_DISABLED=1
 
-# Copy built application (standalone if exists, otherwise full .next)
+# Copy built application
 COPY --from=builder --chown=nextjs:nodejs /app/package.json ./package.json
 COPY --from=builder --chown=nextjs:nodejs /app/node_modules ./node_modules
 COPY --from=builder --chown=nextjs:nodejs /app/.next ./.next
 
-# Copy public directory if it exists
+# Copy public directory
 RUN mkdir -p ./public
 COPY --from=builder --chown=nextjs:nodejs /app/public ./public
 
@@ -39,5 +40,3 @@ USER nextjs
 EXPOSE 3000
 
 CMD ["dumb-init", "node_modules/.bin/next", "start"]
-
-
