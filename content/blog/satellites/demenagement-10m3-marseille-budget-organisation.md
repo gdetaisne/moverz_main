@@ -1,12 +1,12 @@
 ---
-title: "Déménagement 10m³ Marseille\: Budget et Organisation"
+title: "Déménagement 10m³ Marseille: Budget et Organisation"
 slug: "demenagement-10m3-marseille-budget-organisation"
 category: "demenagement-marseille"
 word_count: 1200
 publish_date: "2025-04-05"
 ---
 
-# Déménagement 10m³ Marseille\: Budget et Organisation
+# Déménagement 10m³ Marseille: Budget et Organisation
 
 *Pilier 6 Petit Déménagement - Studio, étudiant, petits volumes Marseille*
 

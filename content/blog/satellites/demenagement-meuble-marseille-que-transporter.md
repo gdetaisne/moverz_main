@@ -1,12 +1,12 @@
 ---
-title: "Déménagement Meublé Marseille\: Que Transporter 2025"
+title: "Déménagement Meublé Marseille: Que Transporter 2025"
 slug: "demenagement-meuble-marseille-que-transporter"
 category: "demenagement-marseille"
 word_count: 1190
 publish_date: "2025-04-05"
 ---
 
-# Déménagement Meublé Marseille\: Que Transporter 2025
+# Déménagement Meublé Marseille: Que Transporter 2025
 
 *Pilier 6 Petit Déménagement - Studio, étudiant, petits volumes Marseille*
 

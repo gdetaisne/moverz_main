@@ -1,12 +1,12 @@
 ---
-title: "Assurance Location Camion Marseille\: Obligatoire 2025"
+title: "Assurance Location Camion Marseille: Obligatoire 2025"
 slug: "assurance-location-camion-marseille"
 category: "demenagement-marseille"
 word_count: 1210
 publish_date: "2025-04-01"
 ---
 
-# Assurance Location Camion Marseille\: Obligatoire 2025
+# Assurance Location Camion Marseille: Obligatoire 2025
 
 *Pilier 5 Location Camion - Fiche locale Marseille section Location*
 

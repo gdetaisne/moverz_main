@@ -1,12 +1,12 @@
 ---
-title: "Déménagement 1 Pièce Marseille\: Guide Complet 2025"
+title: "Déménagement 1 Pièce Marseille: Guide Complet 2025"
 slug: "demenagement-1-piece-marseille-guide-complet"
 category: "demenagement-marseille"
 word_count: 1200
 publish_date: "2025-04-05"
 ---
 
-# Déménagement 1 Pièce Marseille\: Guide Complet 2025
+# Déménagement 1 Pièce Marseille: Guide Complet 2025
 
 *Pilier 6 Petit Déménagement - Studio, étudiant, petits volumes Marseille*
 

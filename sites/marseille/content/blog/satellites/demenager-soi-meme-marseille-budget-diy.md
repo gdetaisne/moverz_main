@@ -1,5 +1,5 @@
 ---
-title: "Déménager Soi-Même Marseille\: Budget DIY Complet"
+title: "Déménager Soi-Même Marseille: Budget DIY Complet"
 slug: "demenager-soi-meme-marseille-budget-diy"
 category: "demenagement-marseille"
 word_count: 1280
@@ -7,7 +7,7 @@ publish_date: "2025-03-25"
 author: "Équipe Moverz Marseille"
 ---
 
-# Déménager Soi-Même Marseille\: Budget DIY Complet
+# Déménager Soi-Même Marseille: Budget DIY Complet
 
 *Pilier 4 Déménagement Pas Cher - Données fiche locale Marseille*
 

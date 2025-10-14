@@ -1,12 +1,12 @@
 ---
-title: "Location Utilitaire 20m³ Marseille\: Tarifs et Conseils"
+title: "Location Utilitaire 20m³ Marseille: Tarifs et Conseils"
 slug: "location-utilitaire-20m3-marseille-tarifs"
 category: "demenagement-marseille"
 word_count: 1280
 publish_date: "2025-04-01"
 ---
 
-# Location Utilitaire 20m³ Marseille\: Tarifs et Conseils
+# Location Utilitaire 20m³ Marseille: Tarifs et Conseils
 
 *Pilier 5 Location Camion - Fiche locale Marseille section Location*
 

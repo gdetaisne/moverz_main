@@ -1,5 +1,5 @@
 ---
-title: "Formule Économique Déménagement Marseille\: Économiser 200-300€"
+title: "Formule Économique Déménagement Marseille: Économiser 200-300€"
 slug: "formule-economique-demenagement-marseille-economiser"
 category: "demenagement-marseille"
 word_count: 1250
@@ -7,7 +7,7 @@ publish_date: "2025-03-25"
 author: "Équipe Moverz Marseille"
 ---
 
-# Formule Économique Déménagement Marseille\: Économiser 200-300€
+# Formule Économique Déménagement Marseille: Économiser 200-300€
 
 *Pilier 4 Déménagement Pas Cher - Données fiche locale Marseille*
 

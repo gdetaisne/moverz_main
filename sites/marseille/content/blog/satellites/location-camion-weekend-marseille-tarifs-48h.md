@@ -1,12 +1,12 @@
 ---
-title: "Location Camion Weekend Marseille\: Tarifs 48h 2025"
+title: "Location Camion Weekend Marseille: Tarifs 48h 2025"
 slug: "location-camion-weekend-marseille-tarifs-48h"
 category: "demenagement-marseille"
 word_count: 1230
 publish_date: "2025-04-01"
 ---
 
-# Location Camion Weekend Marseille\: Tarifs 48h 2025
+# Location Camion Weekend Marseille: Tarifs 48h 2025
 
 *Pilier 5 Location Camion - Fiche locale Marseille section Location*
 

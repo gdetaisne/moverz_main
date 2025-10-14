@@ -1,12 +1,12 @@
 ---
-title: "Déménagement Chambre Étudiant Marseille\: Solutions 2025"
+title: "Déménagement Chambre Étudiant Marseille: Solutions 2025"
 slug: "demenagement-chambre-etudiant-marseille-solutions"
 category: "demenagement-marseille"
 word_count: 1280
 publish_date: "2025-04-05"
 ---
 
-# Déménagement Chambre Étudiant Marseille\: Solutions 2025
+# Déménagement Chambre Étudiant Marseille: Solutions 2025
 
 *Pilier 6 Petit Déménagement - Studio, étudiant, petits volumes Marseille*
 

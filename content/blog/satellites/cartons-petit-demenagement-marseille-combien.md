@@ -1,12 +1,12 @@
 ---
-title: "Cartons Petit Déménagement Marseille\: Combien Prévoir"
+title: "Cartons Petit Déménagement Marseille: Combien Prévoir"
 slug: "cartons-petit-demenagement-marseille-combien"
 category: "demenagement-marseille"
 word_count: 1140
 publish_date: "2025-04-05"
 ---
 
-# Cartons Petit Déménagement Marseille\: Combien Prévoir
+# Cartons Petit Déménagement Marseille: Combien Prévoir
 
 *Pilier 6 Petit Déménagement - Studio, étudiant, petits volumes Marseille*
 

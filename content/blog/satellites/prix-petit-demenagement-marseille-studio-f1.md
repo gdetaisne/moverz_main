@@ -1,12 +1,12 @@
 ---
-title: "Prix Petit Déménagement Marseille\: Studio F1 Tarifs 2025"
+title: "Prix Petit Déménagement Marseille: Studio F1 Tarifs 2025"
 slug: "prix-petit-demenagement-marseille-studio-f1"
 category: "demenagement-marseille"
 word_count: 1330
 publish_date: "2025-04-05"
 ---
 
-# Prix Petit Déménagement Marseille\: Studio F1 Tarifs 2025
+# Prix Petit Déménagement Marseille: Studio F1 Tarifs 2025
 
 *Pilier 6 Petit Déménagement - Studio, étudiant, petits volumes Marseille*
 

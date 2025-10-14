@@ -1,12 +1,12 @@
 ---
-title: "Déménagement Express Marseille\: Urgence 24-48h 2025"
+title: "Déménagement Express Marseille: Urgence 24-48h 2025"
 slug: "demenagement-express-marseille-urgence-24-48h"
 category: "demenagement-marseille"
 word_count: 1170
 publish_date: "2025-04-05"
 ---
 
-# Déménagement Express Marseille\: Urgence 24-48h 2025
+# Déménagement Express Marseille: Urgence 24-48h 2025
 
 *Pilier 6 Petit Déménagement - Studio, étudiant, petits volumes Marseille*
 
