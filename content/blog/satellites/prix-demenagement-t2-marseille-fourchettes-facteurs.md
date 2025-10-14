@@ -1,5 +1,5 @@
 ---
-title: "Prix Déménagement T2 Marseille\"
+title: "Prix Déménagement T2 Marseille"
 slug: "prix-demenagement-t2-marseille-fourchettes-facteurs"
 category: "demenagement-marseille"
 word_count: 1310

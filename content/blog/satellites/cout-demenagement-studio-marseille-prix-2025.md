@@ -1,5 +1,5 @@
 ---
-title: "Coût Déménagement Studio Marseille\"
+title: "Coût Déménagement Studio Marseille"
 slug: "cout-demenagement-studio-marseille-prix-2025"
 category: "demenagement-marseille"
 word_count: 1260

@@ -1,5 +1,5 @@
 ---
-title: "Tarif Déménagement T3 Marseille\"
+title: "Tarif Déménagement T3 Marseille"
 slug: "tarif-demenagement-t3-marseille-budget-realiste"
 category: "demenagement-marseille"
 word_count: 1300

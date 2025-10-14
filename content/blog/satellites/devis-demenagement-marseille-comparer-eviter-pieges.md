@@ -1,5 +1,5 @@
 ---
-title: "Devis Déménagement Marseille\"
+title: "Devis Déménagement Marseille"
 slug: "devis-demenagement-marseille-comparer-eviter-pieges"
 category: "demenagement-marseille"
 word_count: 1340

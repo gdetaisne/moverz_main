@@ -1,5 +1,5 @@
 ---
-title: "Comparatif Prix Déménageurs Marseille\"
+title: "Comparatif Prix Déménageurs Marseille"
 slug: "comparatif-prix-demenageurs-marseille-moins-cher"
 category: "demenagement-marseille"
 word_count: 1380

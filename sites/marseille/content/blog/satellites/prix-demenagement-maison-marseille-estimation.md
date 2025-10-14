@@ -1,5 +1,5 @@
 ---
-title: "Prix Déménagement Maison Marseille\"
+title: "Prix Déménagement Maison Marseille"
 slug: "prix-demenagement-maison-marseille-estimation"
 category: "demenagement-marseille"
 word_count: 1350
