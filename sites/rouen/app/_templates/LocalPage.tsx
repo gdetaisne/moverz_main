@@ -33,13 +33,14 @@ interface LocalPageProps {
     question: string;
     answer: string;
   }>;
-  };
+}
 
 export function generateLocalPageMetadata(zone: string, zoneDisplay: string): Metadata {
   return {
-    title: `Déménagement ${zoneDisplay} Rouen - Tarifs & Devis Gratuit | Moverz`,
-    description: `.*`,
+    title: `Déménagement ${zoneDisplay} rouen - Tarifs & Devis Gratuit | Moverz`,
+    description: `Déménageur local ${zoneDisplay} à rouen : tarifs détaillés, disponibilités immédiates. Devis personnalisé gratuit sous 7j. Équipe locale expérimentée. Réservation en ligne simple.`,
   };
+}
 
 export function generateLocalPageJsonLd(zone: string, zoneDisplay: string) {
   return {
@@ -50,10 +51,10 @@ export function generateLocalPageJsonLd(zone: string, zoneDisplay: string) {
       "@type": "Organization",
       "name": "Moverz"
     },
-    "areaServed": `rouen — ${zoneDisplay}`,
+    "areaServed": `toulouse — ${zoneDisplay}`,
     "serviceType": "Mise en relation et comparaison de devis"
   };
-  };
+}
 
 export default function LocalPage({
   zone,
@@ -104,7 +105,7 @@ export default function LocalPage({
                     <span className="text-4xl">📍</span>
                     <div className="text-left">
                       <div className="text-white font-bold text-2xl">{zoneDisplay}</div>
-                      <div className="text-white/80 text-sm">rouen</div>
+                      <div className="text-white/80 text-sm">toulouse</div>
                     </div>
                   </div>
                 </div>
@@ -238,7 +239,7 @@ export default function LocalPage({
             Destinations couvertes
           </h2>
           <div className="flex flex-wrap justify-center gap-3">
-            {['rouen intra-muros', 'Gironde', 'Pays de la Loire', 'France entière', 'Europe'].map((dest) => (
+            {['toulouse intra-muros', 'Gironde', 'Pays de la Loire', 'France entière', 'Europe'].map((dest) => (
               <span key={dest} className="bg-[#6bcfcf]/20 text-[#6bcfcf] px-4 py-2 rounded-full text-sm">
                 {dest}
               </span>
@@ -339,4 +340,4 @@ export default function LocalPage({
       </div>
     </>
   );
-  };
+}

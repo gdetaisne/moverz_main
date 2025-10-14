@@ -6,37 +6,41 @@ interface LocalPageProps {
   zone: string;
   zoneDisplay: string;
   description: string;
-  coverImage?: string; // Image du quartier (optionnelle)
-  stats: {
+  coverImage?: string;
+  accessInfo?: string;
+  pricing?: any;
+  destinations?: any[];
+  partners?: any[];
+  stats?: {
     dossiers: string;
     demenageurs: string;
     delai: string;
   };
-  pourquoiMoverz: string;
-  accesStationnement: string;
-  destinationsFrequentes: Array<{
+  pourquoiMoverz?: string;
+  accesStationnement?: string;
+  destinationsFrequentes?: Array<{
     href: string;
     title: string;
     description: string;
   }>;
-  partenaires: Array<{
+  partenaires?: Array<{
     name: string;
     rating: number;
     reviews: number;
     specialties: string[];
   }>;
-  faq: Array<{
+  faq?: Array<{
     question: string;
     answer: string;
   }>;
-  };
+}
 
 export function generateLocalPageMetadata(zone: string, zoneDisplay: string): Metadata {
   return {
-    title: `Déménagement ${zoneDisplay} Bordeaux - Tarifs & Devis Gratuit | Moverz`,
-    description: `.*`,
+    title: `Déménagement ${zoneDisplay} bordeaux - Tarifs & Devis Gratuit | Moverz`,
+    description: `Déménageur local ${zoneDisplay} à bordeaux : tarifs détaillés, disponibilités immédiates. Devis personnalisé gratuit sous 7j. Équipe locale expérimentée. Réservation en ligne simple.`,
   };
-  };
+}
 
 export function generateLocalPageJsonLd(zone: string, zoneDisplay: string) {
   return {
@@ -47,10 +51,10 @@ export function generateLocalPageJsonLd(zone: string, zoneDisplay: string) {
       "@type": "Organization",
       "name": "Moverz"
     },
-    "areaServed": `bordeaux — ${zoneDisplay}`,
+    "areaServed": `toulouse — ${zoneDisplay}`,
     "serviceType": "Mise en relation et comparaison de devis"
   };
-  };
+}
 
 export default function LocalPage({
   zone,
@@ -101,7 +105,7 @@ export default function LocalPage({
                     <span className="text-4xl">📍</span>
                     <div className="text-left">
                       <div className="text-white font-bold text-2xl">{zoneDisplay}</div>
-                      <div className="text-white/80 text-sm">bordeaux</div>
+                      <div className="text-white/80 text-sm">toulouse</div>
                     </div>
                   </div>
                 </div>
@@ -119,6 +123,7 @@ export default function LocalPage({
 
         {/* Stats locales */}
         <div className="container max-w-7xl mx-auto px-4 md:px-6 py-12">
+          {stats && (
           <div className="grid md:grid-cols-3 gap-6">
             <div className="bg-white/5 backdrop-blur rounded-2xl p-6 border border-white/10 text-center">
               <div className="text-3xl font-bold text-[#6bcfcf] mb-2">{stats.dossiers}</div>
@@ -133,9 +138,11 @@ export default function LocalPage({
               <div className="text-white/80">devis sous 7 j</div>
             </div>
           </div>
+          )}
         </div>
 
         {/* Pourquoi Moverz */}
+        {pourquoiMoverz && (
         <div className="container max-w-4xl mx-auto px-4 md:px-6 py-12">
           <div className="bg-white/5 backdrop-blur rounded-2xl p-8 border border-white/10">
             <h2 className="text-2xl font-bold text-white mb-6">
@@ -146,6 +153,7 @@ export default function LocalPage({
             </p>
           </div>
         </div>
+        )}
 
         {/* Parcours J0 → J7 */}
         <div className="container max-w-6xl mx-auto px-4 md:px-6 py-12">
@@ -212,6 +220,7 @@ export default function LocalPage({
         </div>
 
         {/* Accès & stationnement */}
+        {accesStationnement && (
         <div className="container max-w-4xl mx-auto px-4 md:px-6 py-12">
           <div className="bg-white/5 backdrop-blur rounded-2xl p-8 border border-white/10">
             <h2 className="text-2xl font-bold text-white mb-6">
@@ -222,6 +231,7 @@ export default function LocalPage({
             </div>
           </div>
         </div>
+        )}
 
         {/* Destinations couvertes */}
         <div className="container max-w-4xl mx-auto px-4 md:px-6 py-12">
@@ -229,7 +239,7 @@ export default function LocalPage({
             Destinations couvertes
           </h2>
           <div className="flex flex-wrap justify-center gap-3">
-            {['bordeaux intra-muros', 'Gironde', 'Nouvelle-Nouvelle-Aquitaine', 'France entière', 'Europe'].map((dest) => (
+            {['toulouse intra-muros', 'Gironde', 'Pays de la Loire', 'France entière', 'Europe'].map((dest) => (
               <span key={dest} className="bg-[#6bcfcf]/20 text-[#6bcfcf] px-4 py-2 rounded-full text-sm">
                 {dest}
               </span>
@@ -238,6 +248,7 @@ export default function LocalPage({
         </div>
 
         {/* Destinations fréquentes */}
+        {destinationsFrequentes && destinationsFrequentes.length > 0 && (
         <div className="container max-w-6xl mx-auto px-4 md:px-6 py-12">
           <h2 className="text-2xl font-bold text-white mb-8 text-center">
             Destinations fréquentes depuis {zoneDisplay}
@@ -255,8 +266,10 @@ export default function LocalPage({
             ))}
           </div>
         </div>
+        )}
 
         {/* Partenaires */}
+        {partenaires && partenaires.length > 0 && (
         <div className="container max-w-6xl mx-auto px-4 md:px-6 py-12">
           <h2 className="text-2xl font-bold text-white mb-8 text-center">
             Partenaires qui desservent {zoneDisplay}
@@ -288,8 +301,10 @@ export default function LocalPage({
             </Link>
           </div>
         </div>
+        )}
 
         {/* FAQ */}
+        {faq && faq.length > 0 && (
         <div className="container max-w-4xl mx-auto px-4 md:px-6 py-12">
           <h2 className="text-2xl font-bold text-white mb-8 text-center">
             FAQ {zoneDisplay}
@@ -303,6 +318,7 @@ export default function LocalPage({
             ))}
           </div>
         </div>
+        )}
 
         {/* CTA final */}
         <div className="container max-w-4xl mx-auto px-4 md:px-6 py-12">
@@ -324,4 +340,4 @@ export default function LocalPage({
       </div>
     </>
   );
-  };
+}
