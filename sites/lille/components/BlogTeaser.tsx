@@ -1,23 +1,18 @@
-import Image from "next/image";
-
 export default function BlogTeaser() {
   const articles = [
     {
-      title: "Guide déménagement Lille 2024",
+      title: "Guide déménagement Nantes 2024",
       excerpt: "Tout savoir pour déménager sereinement dans la métropole.",
-      cover: "https://images.unsplash.com/photo-1559564484-e48d68ea2c8f?w=1600&h=900&fit=crop&q=80",
       href: "/blog/"
     },
     {
-      title: "Quartiers de Lille : guide pratique",
+      title: "Quartiers de Nantes : guide pratique",
       excerpt: "Chartrons, Saint-Pierre, Caudéran... découvrez les spécificités.",
-      cover: "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=1600&h=900&fit=crop&q=80",
       href: "/blog/"
     },
     {
       title: "Estimation volume : méthodes et astuces",
       excerpt: "Comment bien évaluer ses affaires avant un déménagement.",
-      cover: "https://images.unsplash.com/photo-1600518464441-9154a4dea21b?w=1600&h=900&fit=crop&q=80",
       href: "/blog/"
     }
   ];
@@ -27,25 +22,14 @@ export default function BlogTeaser() {
       <h2 className="text-3xl font-semibold text-center">Ressources</h2>
       <div className="mt-12 grid md:grid-cols-3 gap-6">
         {articles.map((article, i) => (
-          <a key={i} href={article.href} className="card-glass rounded-2xl overflow-hidden hover:bg-white/10 transition-all duration-300 group">
-            {/* Cover Image 16:9 */}
-            <div className="relative w-full aspect-video">
-              <Image 
-                src={article.cover}
-                alt={`${article.title} — Guide déménagement Lille`}
-                fill
-                sizes="(min-width: 768px) 33vw, 100vw"
-                className="object-cover group-hover:scale-105 transition-transform duration-300"
-                quality={85}
-              />
-              <div className="absolute inset-0 bg-gradient-to-t from-[#04163a]/60 to-transparent"></div>
+          <a key={i} href={article.href} className="card-glass rounded-2xl overflow-hidden hover:bg-white/10 transition-all duration-300 group p-6">
+            <div className="w-full h-32 bg-gradient-to-br from-[#6bcfcf]/20 to-[#04163a]/40 rounded-lg mb-4 flex items-center justify-center">
+              <span className="text-[#6bcfcf] text-2xl font-bold">📦</span>
             </div>
-            <div className="p-6">
-              <h3 className="text-xl font-semibold group-hover:text-[#6bcfcf] transition-colors">{article.title}</h3>
-              <p className="mt-2 text-white/80">{article.excerpt}</p>
-              <div className="mt-4 text-[#6bcfcf] font-medium group-hover:text-[#2b7a78] transition-colors">
-                Lire →
-              </div>
+            <h3 className="text-xl font-semibold group-hover:text-[#6bcfcf] transition-colors">{article.title}</h3>
+            <p className="mt-2 text-white/80">{article.excerpt}</p>
+            <div className="mt-4 text-[#6bcfcf] font-medium group-hover:text-[#2b7a78] transition-colors">
+              Lire →
             </div>
           </a>
         ))}
