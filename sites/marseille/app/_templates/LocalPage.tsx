@@ -37,8 +37,8 @@ interface LocalPageProps {
 
 export function generateLocalPageMetadata(zone: string, zoneDisplay: string): Metadata {
   return {
-    title: `Déménagement ${zoneDisplay} marseille - Tarifs & Devis Gratuit | Moverz`,
-    description: `Déménageur local ${zoneDisplay} à marseille : tarifs détaillés, disponibilités immédiates. Devis personnalisé gratuit sous 7j. Équipe locale expérimentée. Réservation en ligne simple.`,
+    title: `Déménagement ${zoneDisplay} Marseille - Tarifs & Devis Gratuit | Moverz`,
+    description: `Déménageur local ${zoneDisplay} à Marseille : tarifs détaillés, disponibilités immédiates. Devis personnalisé gratuit sous 7j. Équipe locale expérimentée. Réservation en ligne simple.`,
   };
 }
 
