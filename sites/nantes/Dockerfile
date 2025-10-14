@@ -28,7 +28,7 @@ ENV NODE_ENV=production
 ENV PORT=3000
 ENV NEXT_TELEMETRY_DISABLED=1
 
-# Copy built application (standalone if exists, otherwise full .next)
+# Copy built application
 COPY --from=builder --chown=nextjs:nodejs /app/package.json ./package.json
 COPY --from=builder --chown=nextjs:nodejs /app/node_modules ./node_modules
 COPY --from=builder --chown=nextjs:nodejs /app/.next ./.next
@@ -41,5 +41,3 @@ USER nextjs
 EXPOSE 3000
 
 CMD ["dumb-init", "node_modules/.bin/next", "start"]
-
-
