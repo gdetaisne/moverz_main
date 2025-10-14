@@ -1,4 +1,7 @@
 {
   "schemaVersion": 2,
-  "dockerfilePath": "./sites/nantes/Dockerfile"
+  "dockerfilePath": "./Dockerfile",
+  "buildArgs": {
+    "SITE_NAME": "nantes"
+  }
 }
