@@ -10,8 +10,8 @@ const inter = Inter({ subsets: ["latin"], display: "swap" });
 
 export const metadata: Metadata = {
   title: {
-    default: "Déménageurs lyon (IA) - 5 devis sous 7 jours",
-    template: "%s | Déménageurs lyon (IA)",
+    default: "Déménageurs Lyon (IA) - 5 devis sous 7 jours",
+    template: "%s | Déménageurs Lyon (IA)",
   },
   description:
     "30 minutes pour votre dossier → 5 devis personnalisés sous 7 jours. Estimation volumétrique à partir de photos, tarifs clairs, conseils locaux.",
@@ -31,21 +31,21 @@ export const metadata: Metadata = {
     type: 'website',
     locale: 'fr_FR',
     url: 'https://devis-demenageur-lyon.fr',
-    siteName: 'Déménageurs lyon (IA)',
-    title: 'Déménageurs lyon (IA) - 5 devis sous 7 jours',
+    siteName: 'Déménageurs Lyon (IA)',
+    title: 'Déménageurs Lyon (IA) - 5 devis sous 7 jours',
     description: '30 minutes pour votre dossier → 5 devis personnalisés sous 7 jours. Estimation volumétrique à partir de photos, tarifs clairs, conseils locaux.',
     images: [
       {
         url: 'https://devis-demenageur-lyon.fr/og-image.jpg',
         width: 1200,
         height: 630,
-        alt: 'Déménageurs lyon (IA) - Devis IA',
+        alt: 'Déménageurs Lyon (IA) - Devis IA',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Déménageurs lyon (IA) - 5 devis sous 7 jours',
+    title: 'Déménageurs Lyon (IA) - 5 devis sous 7 jours',
     description: '30 minutes pour votre dossier → 5 devis personnalisés sous 7 jours. Estimation volumétrique à partir de photos, tarifs clairs, conseils locaux.',
     images: ['https://devis-demenageur-lyon.fr/og-image.jpg'],
   },
@@ -85,7 +85,7 @@ function Footer() {
     <footer className="mt-24 border-t border-white/10 bg-white/5">
       <div className="container max-w-7xl mx-auto px-4 md:px-6 py-14 grid md:grid-cols-4 gap-10">
         <div>
-          <div className="text-lg font-semibold">Déménageurs lyon (IA)</div>
+          <div className="text-lg font-semibold">Déménageurs Lyon (IA)</div>
           <p className="mt-3 text-white/90 max-w-xs">30 minutes pour votre dossier → 5 devis personnalisés sous 7 jours. Simple, précis, transparent.</p>
           <div className="mt-4 inline-flex items-center gap-2 rounded-full border border-white/25 bg-white/10 px-3 py-1 text-xs text-white">
             <span className="inline-block h-2 w-2 rounded-full bg-emerald-400"></span>
@@ -117,7 +117,7 @@ function Footer() {
           </ul>
         </div>
       </div>
-      <div className="pb-10 text-center text-xs text-white/50">© {new Date().getFullYear()} Déménageurs lyon</div>
+      <div className="pb-10 text-center text-xs text-white/50">© {new Date().getFullYear()} Déménageurs Lyon</div>
     </footer>
   );
 }
