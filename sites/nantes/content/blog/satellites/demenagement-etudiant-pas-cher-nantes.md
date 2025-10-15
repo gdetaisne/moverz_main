@@ -11,7 +11,7 @@ publish_date: "2025-02-25"
 author: "Équipe Moverz Nantes"
 ---
 
-Budget étudiant Nantes : 900-1200€/mois (loyer CROUS 230€ + alimentation 250€ + transport 50€ + loisirs 200€ + divers 200€). Un déménagement à 400-600€ formule standard représente 40-50% d'un mois de budget – intenable. Pourtant, chaque année, 15 000-20 000 des 55 000 étudiants nantais (Université de Nantes, Centrale, écoles) déménagent : rentrée septembre (nouveau logement), fin année (retour famille ou nouveau studio), stage autre ville.
+Budget étudiant Nantes : 900-1200€/mois (loyer CROUS 230€ + alimentation 250€ + transport 50€ + loisirs 200€ + divers 200€). Un déménagement à 400-600€ formule standard représente 40-50% d'un mois de budget – intenable. Pourtant, chaque année, 15 000-20 000 des 55 000 étudiants nantais (Université de Nantes, Centrale, écoles) déménagent : rentrée septembre (nouveau logement), fin année (retour famille ou nouveau studio), stage autre ville. Pour une vue d'ensemble complète, consultez notre [guide déménagement pas cher à Nantes](/blog/demenagement-pas-cher-nantes/demenagement-pas-cher-nantes-guide).
 
 La bonne nouvelle : déménager en tant qu'étudiant à Nantes coûte **125€ minimum en DIY** (location utilitaire 70€ + 3 amis gratuits + cartons récup + essence 15€ + remerciements pizza 40€) ou **200-350€ en formule économique professionnelle** (vous emballez, pro transporte). Alternative : **stockage été** (22-66€ pour 3 mois chez Annexx/Homebox vs déménagement aller-retour 250€).
 
@@ -158,6 +158,9 @@ Les 55 000 étudiants nantais disposent d'acteurs adaptés (Homebox Carquefou 10
 
 Notre recommandation finale étudiants Nantes : DIY si studio Doulon/Île de Nantes + 2-3 amis campus dispo (économie 125€ vs 250€ pro = 1 semaine job étudiant SMIC), formule éco pro si centre historique/T1 30m²/amis indispos (sécurité 250€), stockage été si retour famille >200 km (économie 300-400€ vs aller-retour + libération loyer CROUS été). Timing : fin juin (post-examens) vs début septembre (pic tarifs +70€).
 
+
+Pour aller plus loin, explorez notre [guide déménagement pas cher à Nantes](/blog/demenagement-pas-cher-nantes/demenagement-pas-cher-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement pas cher 2025](/blog/demenagement-pas-cher-nantes/satellites/prix-demenagement-pas-cher-nantes-2025) et [astuces pour réduire les coûts](/blog/demenagement-pas-cher-nantes/satellites/astuces-reduire-cout-demenagement-nantes).
+
 ## Questions Fréquentes
 
 ### Combien coûte un déménagement étudiant à Nantes ?
@@ -189,7 +192,4 @@ Bonus : Libération loyer CROUS juillet-août (2 × 230€ = 460€ économie) v
 **Fin juin (25-30 juin)** = optimal. Tarifs standards (250€ studio éco), disponibilité déménageurs OK (réservation 2-3 semaines), météo clémente (20-25°C Nantes fin juin), après examens (20-25 juin libération).
 
 **À éviter absolument** : 25 août-10 septembre = pic rentrée 55 000 étudiants (+20-30% tarifs = 300-325€ vs 250€, saturation déménageurs réservation 6-8 semaines avant, stress). Si contraint déménager début septembre (nouveau logement disponible que 1er sept), réservez dès mi-juillet minimum + acceptez surcoût 50-75€. Alternative : stockez chez ami nantais 1-2 semaines (gratuit) en attendant 15 sept (pic passé, tarifs rebaissent).
-
-
-
 

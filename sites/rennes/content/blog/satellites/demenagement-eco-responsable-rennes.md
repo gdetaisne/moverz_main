@@ -37,11 +37,19 @@ Déménagement éco-responsable Rennes : **cartons réutilisables** (Locakase pr
 
 ## FAQ
 
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide aide au déménagement à Rennes](/blog/demenagement-rennes/aide-demenagement-rennes).
+
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide aide au déménagement à Rennes](/blog/demenagement-rennes/aide-demenagement-rennes).
+
 **Cartons réutilisables où Rennes ?**
 Locakase (location 1-2€/pièce), Homebox. Retour après déménagement.
 
 **Emmaüs enlève gratuitement ?**
 Oui (meubles volumineux), sur RDV. Économie déchetterie + geste solidaire.
+
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [aides financières et pratiques déménagement Rennes](/blog/demenagement-rennes/aide-demenagement-rennes).
+
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [aides financières et pratiques déménagement Rennes](/blog/demenagement-rennes/aide-demenagement-rennes).
 
 ---
 **Sources :** Locakase, Emmaüs Rennes

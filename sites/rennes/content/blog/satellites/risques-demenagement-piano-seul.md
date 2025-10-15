@@ -12,9 +12,11 @@ publish_date: "2025-12-09"
 author: "Équipe Moverz Rennes"
 ---
 
-Déménager piano seul ou avec amis non formés à Rennes = **risques majeurs** : casse piano (réparations 2-10k€), blessures dos/membres (250-600kg charge instable), chute escaliers Thabor (3-5 étages sans ascenseur). **Coût réparations >> économie** (200-800€ pros vs 2-10k€ dégâts). Déménageurs spécialisés (ABC Lemarié, Eurodem) obligatoires.
+Déménager piano seul ou avec amis non formés à Rennes = **risques majeurs** : casse piano (réparations 2-10k€), blessures dos/membres (250-600kg charge instable), chute escaliers Thabor (3-5 étages sans ascenseur). **Coût réparations >> économie** (200-800€ pros vs 2-10k€ dégâts). Déménageurs spécialisés (ABC Lemarié, Eurodem) obligatoires. Ces éléments s'inscrivent dans le contexte plus large de notre [déménagement piano professionnel à Rennes](/blog/demenagement-rennes/demenagement-piano-rennes).
 
 ## Risques Matériels
+
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide complet du déménagement de piano à Rennes](/blog/demenagement-rennes/demenagement-piano-rennes).
 
 **Casse piano (2-10k€) :**
 - Chute escaliers : cadre fissuré, mécanique détruite = 5-10k€
@@ -50,6 +52,8 @@ Non, 300kg + technique requise. Risque casse 5k€ >> économie 300€.
 
 **Que faire si budget serré ?**
 Négocier déménageurs (-10-15% basse saison), demander devis 3-4 acteurs. Jamais seul (risque trop élevé).
+
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [transport sécurisé de piano à Rennes](/blog/demenagement-rennes/demenagement-piano-rennes).
 
 ---
 **Sources :** ABC Lemarié, retours expérience terrain

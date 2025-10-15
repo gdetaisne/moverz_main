@@ -12,9 +12,11 @@ publish_date: "2025-12-07"
 author: "Équipe Moverz Rennes"
 ---
 
-Préparer piano pour déménagement Rennes : **déménageurs professionnels gèrent tout** (ABC Lemarié, Eurodem 35), mais quelques étapes client utiles. Fermer et verrouiller couvercle (éviter ouverture intempestive chocs), vider partitions/métronome (intérieur piano), photographier état (assurance). **Ne jamais démonter soi-même** pieds piano queue (technique spécialisée, risque casse mécanisme = réparations 1-5k€).
+Préparer piano pour déménagement Rennes : **déménageurs professionnels gèrent tout** (ABC Lemarié, Eurodem 35), mais quelques étapes client utiles. Fermer et verrouiller couvercle (éviter ouverture intempestive chocs), vider partitions/métronome (intérieur piano), photographier état (assurance). **Ne jamais démonter soi-même** pieds piano queue (technique spécialisée, risque casse mécanisme = réparations 1-5k€). Ces éléments s'inscrivent dans le contexte plus large de notre [déménagement piano professionnel à Rennes](/blog/demenagement-rennes/demenagement-piano-rennes).
 
 ## Checklist Propriétaire
+
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide complet du déménagement de piano à Rennes](/blog/demenagement-rennes/demenagement-piano-rennes).
 
 ✅ **Fermer couvercle** piano droit/queue, verrouiller si serrure (clés conservées).
 
@@ -49,6 +51,8 @@ Fermer couvercle, vider intérieur, photos état, libérer accès. Déménageurs
 
 **Peut-on démonter pieds piano queue soi-même ?**
 Non, technique spécialisée requise. Déménageurs formés le font (inclus tarif 400-800€). Risque casse mécanique si bricolage.
+
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [transport sécurisé de piano à Rennes](/blog/demenagement-rennes/demenagement-piano-rennes).
 
 ---
 **Sources :** ABC Lemarié, pratiques déménagement piano

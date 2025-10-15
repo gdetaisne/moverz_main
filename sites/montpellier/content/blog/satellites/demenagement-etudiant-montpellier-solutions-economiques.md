@@ -17,6 +17,10 @@ author: "Équipe Moverz Montpellier"
 
 # Déménagement Étudiant à Montpellier : Toutes les Solutions Économiques
 
+
+Pour comprendre tous les aspects du petit déménagement à Montpellier, consultez notre [guide petit déménagement Montpellier](/blog/petit-demenagement-montpellier/petit-demenagement-montpellier).
+
+
 Les 70 000 étudiants montpelliérains disposent de trois solutions principales pour déménager à petit prix : le DIY (50-100€), le groupage (150-300€), ou le déménageur formule économique (250-400€). Le choix dépend du budget disponible, du réseau d'amis mobilisable, et des contraintes du logement (étages, quartier).
 
 Dans les quartiers étudiants de Boutonnet (proximité Université Paul-Valéry, 40% d'étudiants), des Hôpitaux-Facultés (25 000 étudiants en médecine/pharmacie/sciences), des Beaux-Arts (ambiance bohème, jeune, culturelle), et des Près d'Arènes (loyers plus accessibles, gentrification en cours), le déménagement étudiant représente la norme. La saturation fin août (rentrée universitaire) génère surcoûts de +30-40% et nécessite réservation 3-4 semaines avant minimum.

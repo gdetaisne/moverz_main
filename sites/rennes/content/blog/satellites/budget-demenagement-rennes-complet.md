@@ -43,6 +43,10 @@ Budget total déménagement T2 Rennes : **800-1500€** incluant **transport** (
 
 ## FAQ
 
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide aide au déménagement à Rennes](/blog/demenagement-rennes/aide-demenagement-rennes).
+
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide aide au déménagement à Rennes](/blog/demenagement-rennes/aide-demenagement-rennes).
+
 **Budget total T2 Rennes ?**
 650-900€ (déménageur eco 500€ + annexes 150-250€). Auto : 250€.
 
@@ -51,6 +55,10 @@ Cartons 0-60€, La Poste 30-50€, compteurs 50-100€, garde-meuble optionnel 
 
 **Budget étudiant minimum ?**
 180-250€ (auto 150€ + cartons gratuits + démarches DIY).
+
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [aides financières et pratiques déménagement Rennes](/blog/demenagement-rennes/aide-demenagement-rennes).
+
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [aides financières et pratiques déménagement Rennes](/blog/demenagement-rennes/aide-demenagement-rennes).
 
 ---
 **Sources :** Fiche Rennes, CAF, Enedis, SAUR, La Poste

@@ -12,9 +12,11 @@ publish_date: "2025-11-30"
 author: "Équipe Moverz Rennes"
 ---
 
-Piano à queue (300-600kg, longueur 1,5-2,7m) nécessite **3-4 déménageurs spécialisés** à Rennes : démontage pieds obligatoire (technique spécifique), protection caisse renforcée, monte-meuble recommandé dès 2ème étage (risque casse élevé escaliers). Prix Rennes : **demi-queue 400-600€**, **queue concert 600-800€** (ABC Lemarié, Eurodem, spécialistes). Assurance tous risques obligatoire (valeur piano 15-50k€).
+Piano à queue (300-600kg, longueur 1,5-2,7m) nécessite **3-4 déménageurs spécialisés** à Rennes : démontage pieds obligatoire (technique spécifique), protection caisse renforcée, monte-meuble recommandé dès 2ème étage (risque casse élevé escaliers). Prix Rennes : **demi-queue 400-600€**, **queue concert 600-800€** (ABC Lemarié, Eurodem, spécialistes). Assurance tous risques obligatoire (valeur piano 15-50k€). Ces éléments s'inscrivent dans le contexte plus large de notre [déménagement piano professionnel à Rennes](/blog/demenagement-rennes/demenagement-piano-rennes).
 
 ## Démontage Pieds
+
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide complet du déménagement de piano à Rennes](/blog/demenagement-rennes/demenagement-piano-rennes).
 
 Piano queue = pieds démontables (3-4 vis massives). **Technicien piano recommandé** démontage/remontage (100-200€ Rennes) ou déménageurs formés (inclus si spécialisés).
 
@@ -59,6 +61,8 @@ Piano queue Rennes : 400-800€ (demi-queue 400-600€, concert 600-800€). Dé
 
 **Monte-meuble nécessaire ?**
 Dès 2ème étage recommandé (poids 400kg + longueur). +200-350€.
+
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [transport sécurisé de piano à Rennes](/blog/demenagement-rennes/demenagement-piano-rennes).
 
 ---
 **Sources :** ABC Lemarié, spécialistes piano

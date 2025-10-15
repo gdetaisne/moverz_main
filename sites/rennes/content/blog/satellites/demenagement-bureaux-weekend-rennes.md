@@ -27,11 +27,19 @@ Déménagement bureaux weekend Rennes (samedi 20h → dimanche 18h) préserve co
 
 ## FAQ
 
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide déménagement d'entreprise à Rennes](/blog/demenagement-rennes/demenagement-d-entreprise-rennes).
+
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide déménagement d'entreprise à Rennes](/blog/demenagement-rennes/demenagement-d-entreprise-rennes).
+
 **Bureaux opérationnels lundi ?**
 Oui si déménagement weekend (samedi soir → dimanche). Planning strict, coordination IT/déménageurs.
 
 **Surcoût weekend entreprise ?**
 +15-20% (majorations). 5000€ → 5750-6000€.
+
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [transfert de locaux professionnels à Rennes](/blog/demenagement-rennes/demenagement-d-entreprise-rennes).
+
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [transfert de locaux professionnels à Rennes](/blog/demenagement-rennes/demenagement-d-entreprise-rennes).
 
 ---
 **Sources :** ABC Lemarié, déménagements PME

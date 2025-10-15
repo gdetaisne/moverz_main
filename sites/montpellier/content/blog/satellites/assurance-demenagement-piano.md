@@ -17,6 +17,10 @@ author: "Équipe Moverz Montpellier"
 
 # Assurance Déménagement Piano : Guide Couverture Complète
 
+
+Pour comprendre tous les aspects du déménagement piano Montpellier, consultez notre [guide transport piano à Montpellier](/blog/demenagement-piano-montpellier/demenagement-piano-montpellier).
+
+
 L'assurance tous risques pour un piano coûte 100-300€ selon la valeur de l'instrument (2 000-50 000€), avec une franchise de 150-500€ en cas de sinistre. Cette dépense, bien que significative, protège un investissement souvent considérable et irremplaçable pour les musiciens montpelliérains.
 
 Un piano droit d'étude vaut 2 000-8 000€, un piano droit de qualité 8 000-20 000€, et un piano à queue peut atteindre 50 000€ et plus pour les instruments de concert. L'assurance de base des déménageurs (2-5€/kg) offrirait une indemnisation dérisoire de 400-3 000€ maximum, largement insuffisante.

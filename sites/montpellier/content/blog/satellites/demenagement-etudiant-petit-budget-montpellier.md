@@ -17,6 +17,10 @@ author: "Équipe Moverz Montpellier"
 
 # Déménagement Étudiant Petit Budget à Montpellier : Solutions
 
+
+Pour comprendre tous les aspects du petit déménagement à Montpellier, consultez notre [guide petit déménagement Montpellier](/blog/petit-demenagement-montpellier/petit-demenagement-montpellier).
+
+
 Un étudiant montpelliérain peut déménager pour 50-100€ en DIY total (Kangou 40-60€ + cartons gratuits + aide amis), 150-300€ en groupage, ou 250-400€ avec déménageur économique. Face à ces options, 80-90% des 70 000 étudiants de Montpellier privilégient le DIY malgré la fatigue, l'économie de 200-350€ étant décisive sur un budget étudiant mensuel de 600-900€ (loyer + vie quotidienne).
 
 Les quartiers étudiants montpelliérains (Boutonnet avec ses résidences CROUS et colocations, Hôpitaux-Facultés et ses 25 000 étudiants en médecine/sciences, Beaux-Arts et son ambiance bohème, Près d'Arènes aux loyers plus abordables) voient circuler des milliers de déménagements étudiants chaque année, particulièrement fin août-début septembre (rentrée) et fin juin (fins de bail annuels).

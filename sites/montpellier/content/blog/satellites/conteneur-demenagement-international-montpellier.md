@@ -17,6 +17,10 @@ author: "Équipe Moverz Montpellier"
 
 # Conteneur Déménagement International Depuis Montpellier : FCL vs LCL
 
+
+Pour comprendre tous les aspects du déménagement international Montpellier, consultez notre [guide déménagement international depuis Montpellier](/blog/demenagement-international-montpellier/demenagement-international-montpellier).
+
+
 Le choix entre un conteneur complet (FCL) et un groupage (LCL) détermine une part importante de votre budget de déménagement international. Un conteneur 20 pieds (33m³) coûte 3 000-6 000€ vers l'Europe et 4 000-10 000€ vers l'Amérique ou l'Asie, tandis que le groupage LCL se facture 80-150€ par mètre cube selon la destination.
 
 Pour les Montpelliérains s'expatriant, comprendre les volumes adaptés à chaque solution évite de payer pour de l'espace vide ou au contraire de se retrouver en surcharge. Un T2 d'Antigone (35-40m³) nécessite généralement un conteneur 20 pieds, alors qu'un studio de Boutonnet (15m³) optimise son coût en groupage LCL.

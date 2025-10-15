@@ -11,7 +11,7 @@ publish_date: "2025-03-19"
 author: "Équipe Moverz Nantes"
 ---
 
-Votre Renault Clio 2019 achetée à Nantes (12 000€ valeur actuelle) : l'emmener à Londres, New York ou Sydney lors de votre mutation, ou vendre en France et racheter sur place ? Cette décision financière se complique : exporter coûte 1500-5000€ (selon destination, transport maritime, formalités), vendre récupère 10 000-11 000€ (décote -10-15% vente rapide pré-départ), acheter destination UK occasion similaire = 12 000-14 000£ (13 800-16 100€). Bilan export : 12 000€ (valeur actuelle) + 2500€ (export USA) = 14 500€ conservée, vs vendre 11 000€ + acheter USA 15 000$ (13 800€) = 24 800€ total. **Export économise 10 300€** (vs vendre/racheter).
+Votre Renault Clio 2019 achetée à Nantes (12 000€ valeur actuelle) : l'emmener à Londres, New York ou Sydney lors de votre mutation, ou vendre en France et racheter sur place ? Cette décision financière se complique : exporter coûte 1500-5000€ (selon destination, transport maritime, formalités), vendre récupère 10 000-11 000€ (décote -10-15% vente rapide pré-départ), acheter destination UK occasion similaire = 12 000-14 000£ (13 800-16 100€). Bilan export : 12 000€ (valeur actuelle) + 2500€ (export USA) = 14 500€ conservée, vs vendre 11 000€ + acheter USA 15 000$ (13 800€) = 24 800€ total. **Export économise 10 300€** (vs vendre/racheter). Pour une vue d'ensemble complète, consultez notre [guide déménagement international depuis Nantes](/blog/demenagement-international-nantes/demenagement-international-nantes-guide).
 
 Mais ces calculs cachent complications : formalités export (carte grise exportation, certificat non-gage, dédouanement, délais 2-4 semaines), normes destination (USA EPA standards strictissimes, conversions 3000-8000$ parfois nécessaires, vs Europe reconnaissance mutuelle CE simple), et timing (voiture arrive 3-6 semaines après vous = location temporaire 1500-3000€ comblant écart).
 
@@ -179,6 +179,9 @@ Les formalités Nantes (carte grise export préfecture Loire-Atlantique 1-2 sem.
 
 Notre recommandation Nantes : **Vendez systématiquement** sauf (1) Destination UE Allemagne/Benelux/Espagne + véhicule récent <5 ans valeur >12k€ (export économise 2-4k€ vs racheter, CE zéro conversion), (2) USA/Canada + véhicule premium >25k€ + conversions vérifiées <4k€ (export économise 8-12k€ vs racheter US premium 35-45k$), (3) Collection classique >25 ans (exemptions normes, valeur sentimentale >financière). Pour 80-85% cas Nantes internationaux : vendre FR (Leboncoin 2-4 sem., mandataire 48h décote -15%) + acheter destination occasion ou louer 6-12 mois test = solution optimale (économie 5-15k€ vs export + flexibilité + véhicule adapté conduite locale UK droite, USA automatiques vs FR manuelles, garanties locales).
 
+
+Pour aller plus loin, explorez notre [guide déménagement international depuis Nantes](/blog/demenagement-international-nantes/demenagement-international-nantes-guide) ainsi que nos guides complémentaires : [déménagement vers USA et Canada](/blog/demenagement-international-nantes/satellites/demenagement-nantes-usa-canada) et [déménagement vers UK post-Brexit](/blog/demenagement-international-nantes/satellites/demenagement-nantes-uk-post-brexit).
+
 ## Questions Fréquentes
 
 ### Combien coûte exporter voiture Nantes-USA ?
@@ -216,7 +219,4 @@ Vérification : AGS partenaires US testent VIN (Vehicle Identification Number, c
 Collection Nantes (Renault 5 Alpine 1985, Peugeot 205 GTI 1988, autres classiques français 1970-90 prisés USA collectionneurs) : Export 3000€ transport + 300$ taxes US = 3276€ total. Valeur collection USA (marché) : Renault 5 Alpine 12-18k$ (11-16,5k€ vs France 8-12k€, prime USA rareté +30-40%). Exportez (valeur 10k€ France + 3,3k€ export = 13,3k€), vendez US 15k$ (13,8k€) = gain 500€. Ou conservez (passion collection >finance).
 
 **AGS Nantes** : "5-10 exports classiques/an (collectionneurs américains francophones, Nantais amateurs automobiles muté USA souhaitant garder Alpine/205 GTI sentimentale). Process simplifié >25 ans (zéro conversions = coûts transport uniquement 3-3,5k€)."
-
-
-
 

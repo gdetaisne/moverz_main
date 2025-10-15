@@ -11,7 +11,7 @@ publish_date: "2025-04-25"
 author: "Équipe Moverz Nantes"
 ---
 
-Achat canapé 3 places Leboncoin Nantes (vendeur Orvault 15 km, canapé 2,20×0,90×0,85 m = 1,7m³, 85 kg, prix 300€ vs neuf 1200€ économie 900€) → transport domicile Île Nantes : **coût 120-250€** selon solutions (location utilitaire Master +ami 50€ essence/location ÷2 = 65€ si partagé vs 130€ seul, petit transporteur Nantes 100-180€, déménageur professionnel refuse 60-80% meubles isolés "minimum 300€" vs accepte 150-250€ forfaits ponctuels). **Bilan achat+transport** : 300€ + 150€ = 450€ total (vs neuf 1200€ = économie 750€ = 63%), rentabilité excellente justifie efforts transport.
+Achat canapé 3 places Leboncoin Nantes (vendeur Orvault 15 km, canapé 2,20×0,90×0,85 m = 1,7m³, 85 kg, prix 300€ vs neuf 1200€ économie 900€) → transport domicile Île Nantes : **coût 120-250€** selon solutions (location utilitaire Master +ami 50€ essence/location ÷2 = 65€ si partagé vs 130€ seul, petit transporteur Nantes 100-180€, déménageur professionnel refuse 60-80% meubles isolés "minimum 300€" vs accepte 150-250€ forfaits ponctuels). **Bilan achat+transport** : 300€ + 150€ = 450€ total (vs neuf 1200€ = économie 750€ = 63%), rentabilité excellente justifie efforts transport. Pour une vue d'ensemble complète, consultez notre [guide petit déménagement à Nantes](/blog/petit-demenagement-nantes/petit-demenagement-nantes-guide).
 
 À Nantes, **marché occasion mobilier dynamique** (Leboncoin 800-1500 annonces meubles/jour métropole, vs Paris 3000-5000 mais population ×4 = densités équivalentes, rotations étudiants 35 000 + jeunes actifs 25-35 ans 120 000 = 155 000 personnes renouvelant mobiliers annuellement 20-30% = 31-47 000 transactions dont 60-70% = 18-33 000 nécessitent transports). Les solutions transport meuble seul : **(1) Location utilitaire+ami** 50-130€ (Kangoo 6m³ petits 50-80€, Master 14m³ grands 85-150€, essence 15-30€, ami aide chargement vs seul impossible canapés >60 kg), **(2) Petits transporteurs** Nantes Location Véhicules, Move Express forfaits ponctuels 80-250€ (canapé 100-180€, lit 80-150€, armoire 150-300€), **(3) Déménageurs pros** Alliance LG/Demidov minimums 200-400€ (refus fréquents <300€ "non rentable" ou acceptent forfaits ponctuels clients réguliers fidélités), **(4) Livraisons Leboncoin+ **25-80€ (service intégré Leboncoin, transporteurs partenaires, zones Nantes métropole <20 km).
 
@@ -117,6 +117,9 @@ La rentabilité occasions Leboncoin (canapé 300€ + transport 150€ = 450€ 
 
 Notre recommandation finale Nantes meuble seul : **Leboncoin+ livraisons** petits meubles <50 kg lits/chaises (25-60€ pratique tracking vs DIY économie 40€ négligeable efforts 2h), **DIY couple** meubles moyens canapés/armoires démontées (65-150€ location+essence vs transporteurs 150-300€ = économie 85-150€ efforts 3-5h acceptables), **transporteurs pros** meubles lourds >150 kg pianos/coffres (150-600€ vs DIY impossible dangers, sécurités matériel spécialisé).
 
+
+Pour aller plus loin, explorez notre [guide petit déménagement à Nantes](/blog/petit-demenagement-nantes/petit-demenagement-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement studio](/blog/petit-demenagement-nantes/satellites/demenagement-studio-nantes-prix) et [prix déménagement T1](/blog/petit-demenagement-nantes/satellites/demenagement-t1-nantes-prix).
+
 ## Questions Fréquentes
 
 ### Combien coûte transporter canapé Leboncoin Nantes ?
@@ -166,5 +169,4 @@ Transport déménageur/DIY : Démontée = camion Kangoo 6m³ suffit (vs entière
 Risque démontage : Vis perdues 25-40% amateurs (rachats Ikea 15-50€ sets visserie, vs transporteurs pros rangent sachets 95% vis conservées). Photos assemblage : Smartphone 10-15 photos étapes = remontages guidés (vs mémoire erreurs 50-70% après 3-6 mois stockages démontées).
 
 Conclusion : Démontez systématiquement (économies véhicules + passages facilités), photographiez étapes (remontages simplifiés), rangez visseries étiquetées (évitez pertes 25-40%).
-
 

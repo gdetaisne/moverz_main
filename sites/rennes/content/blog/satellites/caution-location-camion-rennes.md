@@ -12,9 +12,11 @@ publish_date: "2025-11-12"
 author: "Équipe Moverz Rennes"
 ---
 
-La caution location camion à Rennes varie de 300 à 800€ selon l'agence et le véhicule : Leclerc 300-500€, Europcar/Sixt 800€. C'est une **empreinte bancaire CB** (non débitée immédiatement), restituée sous 7-15 jours si restitution conforme (plein essence, camion propre, aucun dégât). Prévoyez carte bancaire avec plafond suffisant disponible (300-800€ bloqués temporairement).
+La caution location camion à Rennes varie de 300 à 800€ selon l'agence et le véhicule : Leclerc 300-500€, Europcar/Sixt 800€. C'est une **empreinte bancaire CB** (non débitée immédiatement), restituée sous 7-15 jours si restitution conforme (plein essence, camion propre, aucun dégât). Prévoyez carte bancaire avec plafond suffisant disponible (300-800€ bloqués temporairement). Ces éléments s'inscrivent dans le contexte plus large de notre [louer un camion pour déménager à Rennes](/blog/demenagement-rennes/location-camion-demenagement-rennes).
 
 ## Montants Caution Par Agence
+
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide location camion déménagement Rennes](/blog/demenagement-rennes/location-camion-demenagement-rennes).
 
 **Leclerc Rennes (Pacé, Cesson) :**
 - 12-20m³ : 300-400€
@@ -68,6 +70,8 @@ Bloquée (empreinte CB pré-autorisation), pas débitée. Libérée 7-15j après
 
 **Que faire si pas de CB ?**
 Impossible louer (empreinte CB obligatoire toutes agences). Carte prépayée refusée. CB classique requise.
+
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [location véhicule utilitaire Rennes](/blog/demenagement-rennes/location-camion-demenagement-rennes).
 
 ---
 **Sources :** Leclerc, Europcar, CGV location

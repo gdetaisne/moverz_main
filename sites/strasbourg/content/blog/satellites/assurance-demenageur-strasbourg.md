@@ -10,7 +10,7 @@ publish_date: "2025-02-16"
 author: "Équipe Moverz Strasbourg"
 ---
 
-Votre déménageur casse un meuble ou endommage l'immeuble : qui paie ? Assurance déménagement = double niveau : **Responsabilité Civile** (RC, obligatoire, couvre immeuble/tiers) et **Ad Valorem** (optionnelle, couvre vos biens). Avec biens T2 Strasbourg valant 8 000-15 000€ (prix immo 3 400€/m² = mobilier qualité), comprendre couvertures devient vital.
+Votre déménageur casse un meuble ou endommage l'immeuble : qui paie ? Assurance déménagement = double niveau : **Responsabilité Civile** (RC, obligatoire, couvre immeuble/tiers) et **Ad Valorem** (optionnelle, couvre vos biens). Avec biens T2 Strasbourg valant 8 000-15 000€ (prix immo 3 400€/m² = mobilier qualité), comprendre couvertures devient vital. Pour une vue complète, consultez notre [guide déménageur professionnel à Strasbourg](/blog/demenagement-strasbourg/demenageur-strasbourg).
 
 Ce guide détaille : RC vs ad valorem différences, que couvre chacune (dommages immeuble, casse meubles, vol), coûts (RC incluse, ad valorem 2-5% valeur déclarée = 200-750€ pour T2 10 000€), franchise (150-300€ généralement), vérifications devis obligatoires, et risques immeubles anciens Strasbourg (escaliers étroits Krutenau, rues Grande Île).
 

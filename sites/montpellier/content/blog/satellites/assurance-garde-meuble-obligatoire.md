@@ -17,6 +17,10 @@ author: "Équipe Moverz Montpellier"
 
 # Assurance Garde-Meuble : Est-elle Obligatoire ?
 
+
+Pour comprendre tous les aspects du garde-meuble à Montpellier, consultez notre [guide complet du garde-meuble à Montpellier](/blog/garde-meuble-montpellier/garde-meuble-montpellier-guide-complet).
+
+
 Une assurance de base est généralement incluse par les garde-meubles montpelliérains (HOMEBOX, Annexx, RESOTAINER), couvrant 1 000-3 000€ selon acteur. L'assurance complémentaire optionnelle coûte 5-15€/mois et élève la couverture à 10 000-30 000€, avec une franchise de 150-300€ en cas de sinistre.
 
 Pour un Montpelliérain stockant le contenu de son T2 d'Antigone (valeur mobilier 12 000-18 000€) durant 6 mois entre deux logements, l'assurance de base (2 000€) est largement insuffisante. L'assurance complémentaire (60-90€ pour 6 mois) devient indispensable pour protéger son investissement.

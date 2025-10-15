@@ -24,11 +24,19 @@ Assurance tous risques déménagement international depuis Rennes **obligatoire*
 
 ## FAQ
 
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide déménagement international depuis Rennes](/blog/demenagement-rennes/demenagement-international-rennes).
+
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide déménagement international depuis Rennes](/blog/demenagement-rennes/demenagement-international-rennes).
+
 **Combien coûte assurance internationale ?**
 +3-5% valeur mobilier. 20k€ affaires = +600-1000€.
 
 **Obligatoire ?**
 Vivement recommandé (risques élevés maritime/douane). Transit aires incluent généralement.
+
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [expatriation et déménagement international Rennes](/blog/demenagement-rennes/demenagement-international-rennes).
+
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [expatriation et déménagement international Rennes](/blog/demenagement-rennes/demenagement-international-rennes).
 
 ---
 **Sources :** Transitaires, assurances internationales

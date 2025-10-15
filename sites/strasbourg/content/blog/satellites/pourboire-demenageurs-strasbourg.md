@@ -10,7 +10,7 @@ publish_date: "2025-02-24"
 author: "Équipe Moverz Strasbourg"
 ---
 
-Faut-il donner pourboire aux déménageurs à Strasbourg ? Combien ? L'Alsace perpétue tradition pourboire (restaurants, taxis, services), mais déménagement = usage moins codifié. Entre étudiants budget serré (68 000) et familles aisées Robertsau, pratiques varient.
+Faut-il donner pourboire aux déménageurs à Strasbourg ? Combien ? L'Alsace perpétue tradition pourboire (restaurants, taxis, services), mais déménagement = usage moins codifié. Entre étudiants budget serré (68 000) et familles aisées Robertsau, pratiques varient. Pour une vue complète, consultez notre [guide déménageur professionnel à Strasbourg](/blog/demenagement-strasbourg/demenageur-strasbourg).
 
 Guide : usage Alsace/Strasbourg (60-70% clients donnent pourboire vs 40-50% moyenne France), montants (5-10€/déménageur si satisfait, 10-20€ si excellent, T2 = 2-3 déménageurs = 10-30€ total), alternatives (café/repas offerts), et quand refuser (service médiocre, casse, retards).
 

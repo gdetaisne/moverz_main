@@ -17,6 +17,10 @@ author: "Équipe Moverz Montpellier"
 
 # Accorder Votre Piano Après le Déménagement : Guide Complet
 
+
+Pour comprendre tous les aspects du déménagement piano Montpellier, consultez notre [guide transport piano à Montpellier](/blog/demenagement-piano-montpellier/demenagement-piano-montpellier).
+
+
 Un accordage de piano après déménagement coûte 80-150€ à Montpellier et doit intervenir 2-3 semaines après l'installation, le temps que l'instrument s'acclimate à son nouvel environnement. Accorder immédiatement est inutile : le piano se désaccorderait à nouveau en s'adaptant à la température et l'humidité de votre nouveau logement montpelliérain.
 
 Que vous déménagiez votre piano d'un appartement de l'Écusson vers Antigone, d'une maison de Croix d'Argent vers Port Marianne, ou que vous le transportiez sur longue distance (Montpellier-Paris), le désaccordage est inévitable. Vibrations du transport, changements de température, manipulations contribuent tous à détendre ou tendre les 220-230 cordes de l'instrument.

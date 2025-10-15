@@ -17,6 +17,10 @@ author: "Équipe Moverz Montpellier"
 
 # Déménagement Archives et Documents Entreprise
 
+
+Pour comprendre tous les aspects du déménagement entreprise à Montpellier, consultez notre [guide déménagement entreprise Montpellier](/blog/demenagement-entreprise-montpellier/demenagement-entreprise-montpellier).
+
+
 Déménager archives entreprise (cartons documents, dossiers clients, comptabilité) nécessite tri préalable : conservation obligatoire (délais légaux 5-10 ans selon types), numérisation éventuelle, destruction sécurisée RGPD pour documents périmés. Une PME montpelliéraine stockant 50-100 cartons archives paie 500-2 000€ pour tri + destruction sécurisée + numérisation partielle.
 
 Entreprises de Port Marianne, Antigone respectant RGPD doivent détruire documents confidentiels (données clients, RH, financier) via prestataire certifié (broyage sécurisé). Jeter à poubelle = risque amende 20 000-300 000€ CNIL.

@@ -11,7 +11,7 @@ publish_date: "2025-03-26"
 author: "Équipe Moverz Nantes"
 ---
 
-Votre piano droit Yamaha U3 (valeur 8000€ occasion 2018, facture achat justificative) déménagement Nantes Centre → Carquefou : assurance incluse déménageur généraliste couvre **750€** (calcul 1m³ piano × 750€/m³ assurance standard mobilier = sous-évaluation 90% vs valeur réelle). Casse totale (chute escalier 3ème étage, marteaux/cordes endommagées irréparables = perte totale piano) : Indemnisation 750€ (vs 8000€ valeur) = **perte nette 7250€** (91% valeur non couverte).
+Votre piano droit Yamaha U3 (valeur 8000€ occasion 2018, facture achat justificative) déménagement Nantes Centre → Carquefou : assurance incluse déménageur généraliste couvre **750€** (calcul 1m³ piano × 750€/m³ assurance standard mobilier = sous-évaluation 90% vs valeur réelle). Casse totale (chute escalier 3ème étage, marteaux/cordes endommagées irréparables = perte totale piano) : Indemnisation 750€ (vs 8000€ valeur) = **perte nette 7250€** (91% valeur non couverte). Pour une vue d'ensemble complète, consultez notre [guide déménagement piano à Nantes](/blog/demenagement-piano-nantes/demenagement-piano-nantes-guide).
 
 Alternative : **Assurance ad valorem** (valeur déclarée spécifique pianos) : Vous déclarez 8000€ facture, surprime +2% = 160€ (sur déménagement 380€ Alliance LG = total 540€ TTC), franchise 300€. Casse totale : Indemnisation 8000€ - 300€ franchise = **7700€ récupérés** (96% valeur vs 9% assurance générique = sécurité +6950€).
 
@@ -168,6 +168,9 @@ Alliance LG et AGS Nantes proposent systématiquement ad valorem pianos >3000€
 
 Notre recommandation finale Nantes : Souscrivez ad valorem **obligatoirement pianos >5000€** (Yamaha U3 8k€, demi-queues 15-25k€, queues concert 30-60k€ = valeurs sous-assurance générique catastrophique perte 90-95%), acceptez surprimes 1,5-2,5% (200-1000€ = tranquillité casse totale récupération 96-98% valeurs vs 5-10% assurances génériques), photographiez pianos avant/après (preuves états vs litiges assureurs 20-30% sinistres), et expertisez luthiers préalablement pianos >20k€ anciens >30 ans (certificats états évitent réclamations assureurs "vices préexistants" refusant indemnisations 15-25% cas).
 
+
+Pour aller plus loin, explorez notre [guide déménagement piano à Nantes](/blog/demenagement-piano-nantes/demenagement-piano-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement piano](/blog/demenagement-piano-nantes/satellites/demenagement-piano-nantes-prix) et [déménagement piano à queue](/blog/demenagement-piano-nantes/satellites/demenagement-piano-queue-nantes).
+
 ## Questions Fréquentes
 
 ### Assurance piano déménagement couvre-t-elle désaccordage ?
@@ -209,7 +212,4 @@ Conditions couverture : Déménageur certifié nacelles (Alliance LG, AGS autori
 4. **Assurance protection juridique** : Si souscrite carte bancaire gold/platinum (Visa Premier, Mastercard Gold inclut 15-30k€ frais justice = avocat gratuit client), activez (vs payer avocat 2000€). 30-40% Français cartes premium ignorent protection juridique incluse = gaspillent.
 
 **Prévention** : Photos avant déménagement (horodatées 15-20 photos), expertises luthiers préalables pianos >20k€ anciens (certificats états), clauses contrats détaillées (ad valorem explicite "piano Yamaha U3 n°série XXX valeur 8000€ facture 2018 jointe" vs vague "piano droit" = preuves litiges).
-
-
-
 

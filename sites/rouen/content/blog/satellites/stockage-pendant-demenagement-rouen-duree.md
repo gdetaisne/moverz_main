@@ -158,7 +158,7 @@ Plusieurs stratégies permettent de minimiser la durée réelle de stockage et r
 
 **Stockez le strict nécessaire** : Ne stockez pas vos affaires complètes si une partie peut rester à l'ancien logement (accord vendeur/propriétaire quelques jours supplémentaires) ou être temporairement chez proches Rouen. Un T2 rouennais peut parfois se réduire à un box 5m² (110€/mois au lieu de 10m² à 170€) si vous ne stockez que chambre + séjour en laissant cuisine en place. Économie : 60€/mois soit 180€ sur 3 mois.
 
-**Privilégiez périphérie Rouen** : Sotteville (Normandie Stockage 150€/mois pour 10m²) vs centre Saint-Sever (Une Pièce en Plus 170€/mois). Économie : 20€/mois × 3 mois = 60€. Pour 6 allers-retours (dépôt, 4 récupérations affaires, vidage final), trajets supplémentaires = 30km × 0,60€ = 18€ essence. Net : économie 42€, acceptable.
+**Privilégiez périphérie Rouen** : Sotteville (Normandie Stockage 150€/mois pour 10m²) vs centre Saint-Sever (Une Pièce en Plus 170€/mois). Économie : 20€/mois × 3 mois = 60€. Pour 6 allers-retours (dépôt, 4 récupérations affaires, vidage final), trajets supplémentaires = 30km × 0,60€ = 18€ essence. Net : économie 42€, acceptable. Pour comparer toutes les solutions, consultez notre [guide complet du garde-meuble à Rouen](/blog/garde-meuble-rouen/garde-meuble-rouen-guide-complet).
 
 **Négociez engagement moyen** si durée certaine 3-4 mois : certains acteurs rouennais (Normandie Stockage, Box & Go) proposent remises **-5-8% sur engagement 3 mois**. Sur 3 mois à 150€, remise 7% = 139€/mois × 3 = 417€ vs 450€ sans engagement. Économie : 33€ pour engagement ferme 3 mois. Intéressant si durée certaine, risqué si incertitude (prolongation casse la remise).
 

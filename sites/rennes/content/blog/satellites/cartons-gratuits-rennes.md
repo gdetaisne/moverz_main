@@ -12,9 +12,11 @@ publish_date: "2025-10-27"
 author: "Équipe Moverz Rennes"
 ---
 
-Les cartons représentent 30-60€ de budget déménagement (40-50 cartons neufs × 1-1,5€). À Rennes, récupérer des cartons gratuits dans les supermarchés (Leclerc Pacé, Carrefour Cesson, Intermarché), commerces de centre-ville et associations permet d'économiser cette somme intégralement. Avec 70 000 étudiants et 12 000-15 000 déménagements/an, la demande en cartons est forte août-septembre : anticiper est essentiel.
+Les cartons représentent 30-60€ de budget déménagement (40-50 cartons neufs × 1-1,5€). À Rennes, récupérer des cartons gratuits dans les supermarchés (Leclerc Pacé, Carrefour Cesson, Intermarché), commerces de centre-ville et associations permet d'économiser cette somme intégralement. Avec 70 000 étudiants et 12 000-15 000 déménagements/an, la demande en cartons est forte août-septembre : anticiper est essentiel. Ces éléments s'inscrivent dans le contexte plus large de notre [solutions pas chères pour déménager à Rennes](/blog/demenagement-rennes/demenagement-pas-cher-rennes).
 
 ## Supermarchés Rennes (Meilleure Source)
+
+Pour comprendre tous les aspects de ce sujet, consultez notre [déménagement économique à Rennes](/blog/demenagement-rennes/demenagement-pas-cher-rennes).
 
 **Leclerc Pacé (ZAC Espace Performance, 35740)**
 - Cartons alimentaires : fruits/légumes (solides, tailles moyennes)
@@ -101,6 +103,8 @@ Leclerc Pacé/Cesson (meilleur), Carrefour, Intermarché, commerces centre (rue 
 
 **Cartons gratuits solides ?**
 Oui : alimentaires (fruits), textiles, pharmacie. Vérifier fond, scotcher double si faible.
+
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [réduire le coût de votre déménagement rennais](/blog/demenagement-rennes/demenagement-pas-cher-rennes).
 
 ---
 **Sources :** Expérience terrain Rennes, adresses vérifiées

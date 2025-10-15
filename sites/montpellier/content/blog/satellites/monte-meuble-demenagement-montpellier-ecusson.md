@@ -17,6 +17,10 @@ author: "Équipe Moverz Montpellier"
 
 # Monte-Meuble Déménagement à Montpellier : Écusson et Centre
 
+
+Pour comprendre tous les aspects du déménageur à Montpellier, consultez notre [guide complet déménageur Montpellier](/blog/demenageur-montpellier/demenageur-montpellier).
+
+
 Le monte-meuble (échelle extérieure ou monte-charge) coûte 150-300€ supplémentaires à Montpellier et devient quasi-obligatoire dans l'Écusson au-delà du 2ème étage (immeubles anciens sans ascenseur, escaliers étroits tournants). Hisser canapé, armoire ou frigo par fenêtre évite portage impossible dans cages d'escalier de 80cm large avec virages serrés.
 
 Quartiers concernés Montpellier : Écusson (90% immeubles sans ascenseur), Beaux-Arts, Figuerolles (immeubles XIXe similaires), certaines rues Comédie. Quartiers modernes (Port Marianne, Antigone) avec ascenseurs systématiques : monte-meuble jamais nécessaire.

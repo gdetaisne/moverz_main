@@ -12,9 +12,11 @@ publish_date: "2025-12-06"
 author: "Équipe Moverz Rennes"
 ---
 
-Quartier Thabor-Saint-Hélier Rennes : immeubles bourgeois 1900, 3-5 étages **sans ascenseur fréquemment** (majorité immeubles résidentiels), escaliers étroits 0,8-1m largeur. Déménager piano (250-600kg) nécessite **monte-meuble obligatoire** >2-3ème étage (+150-350€) car portage escaliers dangereux (risque chute piano + blessures). ABC Lemarié, Eurodem équipés monte-meubles spécialisés pianos.
+Quartier Thabor-Saint-Hélier Rennes : immeubles bourgeois 1900, 3-5 étages **sans ascenseur fréquemment** (majorité immeubles résidentiels), escaliers étroits 0,8-1m largeur. Déménager piano (250-600kg) nécessite **monte-meuble obligatoire** >2-3ème étage (+150-350€) car portage escaliers dangereux (risque chute piano + blessures). ABC Lemarié, Eurodem équipés monte-meubles spécialisés pianos. Ces éléments s'inscrivent dans le contexte plus large de notre [déménagement piano professionnel à Rennes](/blog/demenagement-rennes/demenagement-piano-rennes).
 
 ## Contraintes Thabor
+
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide complet du déménagement de piano à Rennes](/blog/demenagement-rennes/demenagement-piano-rennes).
 
 **Immeubles Sans Ascenseur :**
 - 80% immeubles Thabor construits avant 1950
@@ -56,6 +58,8 @@ Piano Thabor sans ascenseur Rennes : monte-meuble obligatoire >2-3ème étage (+
 
 **Monte-meuble combien Thabor ?**
 +150-350€ selon piano/hauteur. Obligatoire >2-3ème (sécurité).
+
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [transport sécurisé de piano à Rennes](/blog/demenagement-rennes/demenagement-piano-rennes).
 
 ---
 **Sources :** Fiche Rennes quartier Thabor, ABC Lemarié

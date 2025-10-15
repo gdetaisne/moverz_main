@@ -32,6 +32,10 @@ Emballage déménagement Rennes efficace : **cartons 50x40x30cm** standards (Lec
 
 ## FAQ
 
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide aide au déménagement à Rennes](/blog/demenagement-rennes/aide-demenagement-rennes).
+
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide aide au déménagement à Rennes](/blog/demenagement-rennes/aide-demenagement-rennes).
+
 **Quelle taille cartons déménagement ?**
 50x40x30cm standard (Leclerc gratuits, optimaux portage + empilement). Éviter trop grands (trop lourds) ou petits (gaspillage).
 
@@ -40,6 +44,10 @@ Petits cartons (30x30x30, 10-15kg max). Gros carton livres = 40kg inportable.
 
 **Vaisselle comment emballer ?**
 Position verticale (debout, papier bulle entre assiettes). Jamais à plat empilées (casse garantie).
+
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [aides financières et pratiques déménagement Rennes](/blog/demenagement-rennes/aide-demenagement-rennes).
+
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [aides financières et pratiques déménagement Rennes](/blog/demenagement-rennes/aide-demenagement-rennes).
 
 ---
 **Sources :** Pratiques emballage, Leclerc, Brico Dépôt

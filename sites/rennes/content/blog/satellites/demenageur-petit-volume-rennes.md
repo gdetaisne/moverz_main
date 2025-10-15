@@ -24,11 +24,19 @@ Déménageurs pros petits volumes Rennes (studio, chambre <20m³) : **200-400€
 
 ## FAQ
 
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide petit déménagement Rennes](/blog/demenagement-rennes/petit-demenagement-rennes).
+
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide petit déménagement Rennes](/blog/demenagement-rennes/petit-demenagement-rennes).
+
 **Prix déménageur studio Rennes ?**
 200-400€ (formule mini). 2 déménageurs, 2-3h, assurance incluse.
 
 **ABC Lemarié fait petits volumes ?**
 Oui, formule mini disponible. Eurodem 35 aussi.
+
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [solutions petit déménagement économique Rennes](/blog/demenagement-rennes/petit-demenagement-rennes).
+
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [solutions petit déménagement économique Rennes](/blog/demenagement-rennes/petit-demenagement-rennes).
 
 ---
 **Sources :** ABC Lemarié, Eurodem

@@ -17,6 +17,10 @@ author: "Équipe Moverz Montpellier"
 
 # Combien Donner Pour Une Aide au Déménagement ?
 
+
+Pour comprendre tous les aspects du aide déménagement particulier Montpellier, consultez notre [guide aide déménagement à Montpellier](/blog/aide-au-demenagement-particulier-montpellier/aide-demenagement-particulier-montpellier).
+
+
 Remercier des amis ayant aidé à déménager à Montpellier implique généralement un repas convivial (10-15€/personne) plus éventuellement un petit cadeau ou dédommagement symbolique (20-50€/personne) selon l'effort fourni et votre relation. Pour 3 amis ayant aidé 3h, comptez 40-60€ de repas plus 60-150€ de cadeaux/dédommagements optionnels, total 100-210€.
 
 Ce montant reste 5-8× moins cher qu'un déménageur professionnel (700-1 200€ pour T2), tout en valorisant votre réseau amical et créant moment convivial. Les usages montpelliérains varient selon contexte : repas seul suffit souvent entre amis proches (culture étudiante des 70K étudiants de Boutonnet/Hôpitaux-Facultés), tandis qu'un dédommagement financier s'ajoute pour aide de connaissances ou effort exceptionnel (4ème étage Écusson sans ascenseur).

@@ -17,6 +17,10 @@ author: "Équipe Moverz Montpellier"
 
 # Préparer Votre Piano Pour le Déménagement : Guide Protection
 
+
+Pour comprendre tous les aspects du déménagement piano Montpellier, consultez notre [guide transport piano à Montpellier](/blog/demenagement-piano-montpellier/demenagement-piano-montpellier).
+
+
 Préparer correctement un piano avant son déménagement évite 90% des risques de dommages. Les trois gestes essentiels sont : fermer et verrouiller le clavier (éviter marteaux qui cognent), protéger les angles et pieds (zones fragiles), et accepter qu'un accordage sera nécessaire après (80-150€, délai 2-3 semaines après installation).
 
 Pour un Montpelliérain déménageant son piano depuis son appartement de l'Écusson, son studio des Beaux-Arts ou sa maison de Croix d'Argent, ces préparations simples maximisent les chances que l'instrument arrive intact. Un piano mal préparé subit vibrations, chocs internes (marteaux, cordes), et risque de casse même avec un déménageur professionnel.

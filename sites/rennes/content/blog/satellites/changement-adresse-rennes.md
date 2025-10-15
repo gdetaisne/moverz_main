@@ -33,11 +33,19 @@ Changement adresse déménagement Rennes simplifiévia service-public.fr : conne
 
 ## FAQ
 
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide aide au déménagement à Rennes](/blog/demenagement-rennes/aide-demenagement-rennes).
+
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide aide au déménagement à Rennes](/blog/demenagement-rennes/aide-demenagement-rennes).
+
 **Service-public.fr prévient tout ?**
 CAF, impôts, Sécu, Pôle Emploi oui. Enedis, eau, La Poste : manuellement.
 
 **Réexpédition courrier combien ?**
 30-80€ (La Poste, 6-12 mois).
+
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [aides financières et pratiques déménagement Rennes](/blog/demenagement-rennes/aide-demenagement-rennes).
+
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [aides financières et pratiques déménagement Rennes](/blog/demenagement-rennes/aide-demenagement-rennes).
 
 ---
 **Sources :** Service-public.fr, La Poste, Enedis

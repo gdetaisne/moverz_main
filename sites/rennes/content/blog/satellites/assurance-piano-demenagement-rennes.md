@@ -12,9 +12,11 @@ publish_date: "2025-12-02"
 author: "Équipe Moverz Rennes"
 ---
 
-Assurance spécifique piano **obligatoire** à Rennes (valeur 10-50k€). Coût : +5-10% valeur instrument (+500-5000€ selon piano). Couvre casse, rayures, dérèglement mécanique, frais réparation/accord. ABC Lemarié et Eurodem 35 incluent assurance spécialisée dans devis piano (200-800€ transport + assurance intégrée ou séparée).
+Assurance spécifique piano **obligatoire** à Rennes (valeur 10-50k€). Coût : +5-10% valeur instrument (+500-5000€ selon piano). Couvre casse, rayures, dérèglement mécanique, frais réparation/accord. ABC Lemarié et Eurodem 35 incluent assurance spécialisée dans devis piano (200-800€ transport + assurance intégrée ou séparée). Ces éléments s'inscrivent dans le contexte plus large de notre [déménagement piano professionnel à Rennes](/blog/demenagement-rennes/demenagement-piano-rennes).
 
 ## Couverture Assurance Piano
+
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide complet du déménagement de piano à Rennes](/blog/demenagement-rennes/demenagement-piano-rennes).
 
 **Inclus :**
 - Casse/fissures (chocs transport, chute)
@@ -50,6 +52,8 @@ Oui, valeur 10-50k€ nécessite couverture spécifique (assurance base 10-20k�
 
 **Combien coûte assurance ?**
 5-10% valeur. Piano 20k€ = +1000-2000€.
+
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [transport sécurisé de piano à Rennes](/blog/demenagement-rennes/demenagement-piano-rennes).
 
 ---
 **Sources :** ABC Lemarié, assurances spécialisées

@@ -17,6 +17,10 @@ author: "Équipe Moverz Montpellier"
 
 # Location Camionnette Pour Petit Déménagement à Montpellier
 
+
+Pour comprendre tous les aspects du petit déménagement à Montpellier, consultez notre [guide petit déménagement Montpellier](/blog/petit-demenagement-montpellier/petit-demenagement-montpellier).
+
+
 Louer une camionnette Kangou, Partner ou Berlingo (3-5m³) coûte 40-60€/jour à Montpellier, idéal pour déménager un studio, une chambre étudiante, ou transporter quelques meubles. Europcar (Aéroport, Gare Saint-Roch, Centre), Sixt (Aéroport, Gare) et Hertz (Aéroport, Centre) proposent tous ces petits utilitaires adaptés aux volumes de 10-20m³.
 
 Pour les 70 000 étudiants montpelliérains déménageant régulièrement entre Boutonnet, Hôpitaux-Facultés et Beaux-Arts, la camionnette représente le véhicule optimal : suffisamment grande pour un studio (2-3 voyages), assez compacte pour les rues étroites de l'Écusson (largeur 2-4m), et économique (40-60€ vs 80-130€ pour un Trafic 12m³).

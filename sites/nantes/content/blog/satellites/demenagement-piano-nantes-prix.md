@@ -11,7 +11,7 @@ publish_date: "2025-03-22"
 author: "Équipe Moverz Nantes"
 ---
 
-Votre piano droit Yamaha 250 kg salon Nantes Centre (appartement 3ème étage sans ascenseur rue Crébillon, escalier tournant 18 marches) vers Doulon pavillon plain-pied : déménageurs généralistes proposent 150-200€ (2 porteurs, sangles basiques, "on fait gaffe promis"), spécialistes pianos 350-420€ (3 porteurs formés pianos, harnais renforcés, protections feutrines intérieures cordes, assurance ad valorem piano 8000€). Différence visible arrivée : généralistes (rayures laque 3 cm côté droit, désaccordage -15 cents cordes medium choc escalier = réparation luthier 300€ + accordage 120€ = 420€ "économie" 200€ annulée par dégâts), spécialistes (zéro rayure, désaccordage -2 cents naturel = accordage 90€ préventif suffisant).
+Votre piano droit Yamaha 250 kg salon Nantes Centre (appartement 3ème étage sans ascenseur rue Crébillon, escalier tournant 18 marches) vers Doulon pavillon plain-pied : déménageurs généralistes proposent 150-200€ (2 porteurs, sangles basiques, "on fait gaffe promis"), spécialistes pianos 350-420€ (3 porteurs formés pianos, harnais renforcés, protections feutrines intérieures cordes, assurance ad valorem piano 8000€). Différence visible arrivée : généralistes (rayures laque 3 cm côté droit, désaccordage -15 cents cordes medium choc escalier = réparation luthier 300€ + accordage 120€ = 420€ "économie" 200€ annulée par dégâts), spécialistes (zéro rayure, désaccordage -2 cents naturel = accordage 90€ préventif suffisant). Pour une vue d'ensemble complète, consultez notre [guide déménagement piano à Nantes](/blog/demenagement-piano-nantes/demenagement-piano-nantes-guide).
 
 À Nantes, trois acteurs spécialisés pianos dominent : **Alliance LG Déménagement** (ZI Route de Paris, équipe dédiée pianos 5 techniciens formés conservatoire Nantes partenariat, 250-750€ selon piano droit/queue/concert), **AGS Déménagement Orvault** (pianos inclus déménagements internationaux conservatoire/orchestres 30-50 pianos/an, 300-900€), **Les Déménageurs Bretons** (antenne Nantes-métropole, pianos courants droits/quart queue 200-600€). Les trois garantissent matériel piano (chariots spéciaux à roulettes caoutchouc anti-vibrations, housses matelassées épaisses 5-8 cm vs 2 cm standards, sangles larges 10 cm répartissant poids vs sangles 5 cm généralistes marquent bois), équipes formées (gestes techniques levage coordonné vs force brute risquée), et assurances ad valorem (valeur déclarée piano 5000-40 000€ couverte franchise 200-500€ vs assurance générique 750€/m³ sous-évaluant pianos).
 
@@ -202,6 +202,9 @@ Les risques généralistes (15-25% pianos rayures/désaccordages sévères/casse
 
 Notre recommandation finale Nantes : Alliance LG pianos >5000€ (Steinway, Yamaha C3/C5 demi-queues, droits premium, sécurité maximale conservatoire), Déménageurs Bretons pianos droits d'étude 2000-4000€ (Yamaha U1, compromis économie-risques modérés), **jamais généralistes** pianos acoustiques (risques 20% dégâts = espérance perte 60-150€ annule économie + stress), et souscrivez assurance ad valorem systématiquement pianos >3000€ (surprime 60-200€ = tranquillité casse 5-25k€).
 
+
+Pour aller plus loin, explorez notre [guide déménagement piano à Nantes](/blog/demenagement-piano-nantes/demenagement-piano-nantes-guide) ainsi que nos guides complémentaires : [déménagement piano à queue](/blog/demenagement-piano-nantes/satellites/demenagement-piano-queue-nantes) et [piano dans les étages sans ascenseur](/blog/demenagement-piano-nantes/satellites/demenagement-piano-etages-sans-ascenseur-nantes).
+
 ## Questions Fréquentes
 
 ### Combien coûte déménager piano droit Nantes ?
@@ -241,7 +244,4 @@ Possibilités : (1) **Ascenseur large** (≥140 cm, immeubles récents Île Nant
 Accordage J+3 (immédiat post-déménagement) = instable (piano ré-désaccorde J+15 en stabilisant), nécessite ré-accordage J+30 = double coût 80+90 = 170€ vs accordage unique J+25 = 90€. Accordage J+21-28 (3-4 sem.) = stable 6-12 mois (vs J+3 stable 2-3 mois seulement).
 
 Tarifs luthiers Nantes : 80-120€ accordage standard (Alliance LG partenaire +90€ inclus forfait déménagement+accordage 440€ clés en main). Désaccordage sévère (généralistes malmenés) : 120-180€ (passes multiples cordes endommagées).
-
-
-
 

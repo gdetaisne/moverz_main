@@ -12,9 +12,11 @@ publish_date: "2025-11-20"
 author: "Équipe Moverz Rennes"
 ---
 
-Les déménageurs professionnels Rennes (ABC Lemarié, Eurodem 35) incluent assurance responsabilité civile professionnelle (plafond 10-20k€). Assurance tous risques optionnelle : +2-3% valeur déclarée (ex : 15k€ mobilier = +300-450€). Couvre casse, vol, perte. Franchise 150-300€. Si valeur <12k€ et mobilier standard, assurance base suffit.
+Les déménageurs professionnels Rennes (ABC Lemarié, Eurodem 35) incluent assurance responsabilité civile professionnelle (plafond 10-20k€). Assurance tous risques optionnelle : +2-3% valeur déclarée (ex : 15k€ mobilier = +300-450€). Couvre casse, vol, perte. Franchise 150-300€. Si valeur <12k€ et mobilier standard, assurance base suffit. Ces éléments s'inscrivent dans le contexte plus large de notre [tarifs déménageur Rennes détaillés](/blog/demenagement-rennes/demenageur-rennes-prix).
 
 ## Assurance Base Incluse
+
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide des prix déménagement à Rennes](/blog/demenagement-rennes/demenageur-rennes-prix).
 
 **Responsabilité déménageur :** Casse/dégât pendant chargement, transport, déchargement = indemnisation.
 
@@ -60,6 +62,8 @@ Oui, responsabilité civile pro (10-20k€ plafond) incluse ABC Lemarié, Eurode
 
 **Franchise déménagement ?**
 150-300€ (montant restant à payer si casse).
+
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [comprendre les coûts de déménagement rennais](/blog/demenagement-rennes/demenageur-rennes-prix).
 
 ---
 **Sources :** ABC Lemarié, Eurodem, CGV déménagement

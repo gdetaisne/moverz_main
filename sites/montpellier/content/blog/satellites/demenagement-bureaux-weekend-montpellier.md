@@ -17,6 +17,10 @@ author: "Équipe Moverz Montpellier"
 
 # Déménagement de Bureaux le Weekend à Montpellier
 
+
+Pour comprendre tous les aspects du déménagement entreprise à Montpellier, consultez notre [guide déménagement entreprise Montpellier](/blog/demenagement-entreprise-montpellier/demenagement-entreprise-montpellier).
+
+
 Déménager les bureaux d'une entreprise montpelliéraine le weekend coûte 20-30% plus cher qu'en semaine (PME 20 postes passe de 5 000€ à 6 000-6 500€), mais garantit zéro interruption d'activité. Les salariés quittent vendredi 18h, le déménagement s'effectue vendredi soir-samedi-dimanche, et lundi 8h les équipes retrouvent leurs postes opérationnels dans les nouveaux locaux.
 
 Pour les entreprises montpelliéraines du secteur tertiaire (Antigone, Port Marianne, Odysseum) qui ne peuvent pas se permettre 2-3 jours d'arrêt complet (perte CA 5 000-20 000€/jour selon activité), ce surcoût de 1 000-2 000€ est largement compensé par la continuité assurée.

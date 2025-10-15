@@ -10,7 +10,7 @@ publish_date: "2025-02-22"
 author: "Équipe Moverz Strasbourg"
 ---
 
-Déménager sans autorisation stationnement à Strasbourg = risque amende 135€ + enlèvement camion (300-500€ fourrière). Grande Île UNESCO, Krutenau, centre = **autorisation obligatoire** mairie. Délai : **10-15 jours ouvrés**. Anticiper 3 semaines sécurité.
+Déménager sans autorisation stationnement à Strasbourg = risque amende 135€ + enlèvement camion (300-500€ fourrière). Grande Île UNESCO, Krutenau, centre = **autorisation obligatoire** mairie. Délai : **10-15 jours ouvrés**. Anticiper 3 semaines sécurité. Pour une vue complète, consultez notre [guide déménageur professionnel à Strasbourg](/blog/demenagement-strasbourg/demenageur-strasbourg).
 
 Ce guide détaille process complet : formulaire télécharger strasbourg.eu, informations fournir (adresse, date, horaires, durée), délai traitement, coût (gratuit ou 20-50€ à vérifier), quartiers nécessitant (Grande Île obligatoire 100%, Krutenau/Neudorf recommandé 60-70%, périphérie rarement), et sanctions si non-respect.
 

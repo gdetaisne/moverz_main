@@ -17,6 +17,24 @@ featured: true
 
 Déménager à Montpellier ou quitter la capitale de l'Hérault représente souvent un coût important et une source de stress. Loyer, caution, frais de déménageur, achat de matériel, démarches administratives... les dépenses s'accumulent rapidement. Heureusement, de nombreuses aides financières, logistiques et humaines existent pour faciliter votre projet de déménagement. Ce guide complet recense toutes les solutions disponibles pour les particuliers à Montpellier : primes et subventions (CAF, Action Logement, Pôle Emploi), aides matérielles, conseils pratiques et accompagnement. Ne payez pas plein pot votre déménagement : explorez toutes les pistes d'aide possibles !
 
+## 📚 Notre Dossier Complet Aide Déménagement Montpellier
+
+**Aide Humaine :**
+- [Aide amis déménagement Montpellier](/blog/aide-au-demenagement-particulier-montpellier/satellites/aide-amis-demenagement-montpellier) - Compensation, organisation, limites
+- [Louer main-d'œuvre déménagement Montpellier](/blog/aide-au-demenagement-particulier-montpellier/satellites/louer-main-oeuvre-demenagement-montpellier) - Manutentionnaires à l'heure
+- [Plateformes entraide déménagement Montpellier](/blog/aide-au-demenagement-particulier-montpellier/satellites/plateformes-entraide-demenagement-montpellier) - Yoojo, Frizbiz, communauté
+- [Trouver aide dernière minute déménagement Montpellier](/blog/aide-au-demenagement-particulier-montpellier/satellites/trouver-aide-derniere-minute-demenagement-montpellier) - Urgence 24-48h
+
+**Organisation et Rémunération :**
+- [Préparer aide amis déménagement](/blog/aide-au-demenagement-particulier-montpellier/satellites/preparer-aide-amis-demenagement) - Matériel, timing, rôles
+- [Combien donner aide déménagement](/blog/aide-au-demenagement-particulier-montpellier/satellites/combien-donner-aide-demenagement) - 50-100€ + repas, compensation éthique
+- [Responsabilité aide non-professionnelle déménagement](/blog/aide-au-demenagement-particulier-montpellier/satellites/responsabilite-aide-non-professionnelle-demenagement) - Assurance, accidents, casse
+
+**Services Spécialisés :**
+- [Aide déménagement personnes âgées Montpellier](/blog/aide-au-demenagement-particulier-montpellier/satellites/aide-demenagement-personnes-agees-montpellier) - Accompagnement seniors, associations
+- [Étudiant aide déménagement job Montpellier](/blog/aide-au-demenagement-particulier-montpellier/satellites/etudiant-aide-demenagement-job-montpellier) - 70 000 étudiants, petits boulots
+- [Déménagement solidaire Montpellier](/blog/aide-au-demenagement-particulier-montpellier/satellites/demenagement-solidaire-montpellier) - Associations, ressourceries, économie sociale
+
 ## Les aides financières nationales et locales
 
 Plusieurs organismes proposent des aides financières pour réduire le coût de votre déménagement à Montpellier.

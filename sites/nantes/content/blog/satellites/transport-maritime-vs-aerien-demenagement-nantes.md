@@ -11,7 +11,7 @@ publish_date: "2025-03-07"
 author: "Équipe Moverz Nantes"
 ---
 
-Votre mutation professionnelle à New York est confirmée pour le 15 avril. Date d'enlèvement à Nantes : quand exactement ? Si vous choisissez le transport maritime (économique, 6 semaines transit), l'enlèvement doit s'effectuer début février pour réception mi-mars (marge avant prise de poste). Si vous optez pour l'aérien (rapide, 10 jours), enlèvement possible fin mars pour réception début avril. Mais le maritime coûte 10 000€ (T2 30m³) contre 30 000€ en aérien – une différence de 20 000€ qui finance six mois de loyer new-yorkais.
+Votre mutation professionnelle à New York est confirmée pour le 15 avril. Date d'enlèvement à Nantes : quand exactement ? Si vous choisissez le transport maritime (économique, 6 semaines transit), l'enlèvement doit s'effectuer début février pour réception mi-mars (marge avant prise de poste). Si vous optez pour l'aérien (rapide, 10 jours), enlèvement possible fin mars pour réception début avril. Mais le maritime coûte 10 000€ (T2 30m³) contre 30 000€ en aérien – une différence de 20 000€ qui finance six mois de loyer new-yorkais. Pour une vue d'ensemble complète, consultez notre [guide déménagement international depuis Nantes](/blog/demenagement-international-nantes/demenagement-international-nantes-guide).
 
 À Nantes, AGS Déménagement Orvault (19 rue Léon Gaumont, réseau mondial 141 pays) propose les deux modes de transport : **maritime** (95% de leurs déménagements internationaux, conteneurs 20-40 pieds au départ du Havre 80 km nord Nantes) et **aérien** (5% des cas, urgences diplomatiques ou VIP, fret via Paris CDG puis redistribution). Demidov et Alliance LG Nantes privilégient également le maritime pour son rapport coût/fiabilité optimal sur 90% des destinations mondiales.
 
@@ -219,6 +219,9 @@ L'aérien (800-1500€/m³, délais 1-2 semaines) justifie uniquement urgences <
 
 Notre recommandation Nantes : Maritime par défaut (AGS Orvault, Demidov, départs Le Havre hebdomadaires), demandez devis comparatif maritime/aérien pour décision éclairée (AGS présente les deux avec délais/prix honnêtes), et envisagez aérien QUE si (urgence <25 jours OU budget corporate >15k€ total OU petit volume <5m³ avec salaire destination >10 000€/mois justifiant démarrage rapide). Pour 85-90% cas Nantes internationaux : maritime économie + fiabilité l'emportent sur rapidité aérienne coûteuse.
 
+
+Pour aller plus loin, explorez notre [guide déménagement international depuis Nantes](/blog/demenagement-international-nantes/demenagement-international-nantes-guide) ainsi que nos guides complémentaires : [déménagement vers USA et Canada](/blog/demenagement-international-nantes/satellites/demenagement-nantes-usa-canada) et [déménagement vers UK post-Brexit](/blog/demenagement-international-nantes/satellites/demenagement-nantes-uk-post-brexit).
+
 ## Questions Fréquentes
 
 ### Maritime ou aérien pour déménagement Nantes-New York ?
@@ -250,7 +253,4 @@ Incidents possibles : Tempêtes retards 2-5 jours (vs prévu, mais arrivée fina
 **Oui, formule "split" ou "mixte"** : Essentiel 3-5m³ aérien (3000-5000€, J+10) + Mobilier 25-30m³ maritime (9000-11 000€, J+35). Total : 12 000-16 000€ vs tout maritime 11 000€ (+1000-5000€) vs tout aérien 30 000€ (-14 000-18 000€).
 
 AGS Nantes propose sur demande (15-20% clients corporate). Organisation : Inventaire séparé (liste A aérien urgent, liste B maritime suiveur), 2 enlèvements Nantes (aérien J-10, maritime J-30), 2 livraisons destination (aérien J+0, maritime J+25). Coordination complexe mais faisable (AGS expertise). Pour qui : Cadres expats budgets >15k€ total, confort installation prioritaire (vous arrivez destination J-5, affaires aériennes J+0 = installation immédiate studio, maritime J+25 = complément ameublement). Économie vs tout aérien : 14-18k€. Surcoût vs tout maritime : 1-5k€ = prix confort installation échelonnée.
-
-
-
 

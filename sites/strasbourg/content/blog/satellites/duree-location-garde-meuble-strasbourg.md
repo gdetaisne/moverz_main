@@ -10,7 +10,7 @@ publish_date: "2025-01-26"
 author: "Équipe Moverz Strasbourg"
 ---
 
-Combien de temps pouvez-vous louer un garde-meuble à Strasbourg ? Existe-t-il une durée minimum ? Peut-on résilier avant terme ? Entre les 68 000 étudiants qui stockent 3-4 mois l'été, les familles en travaux 6 mois, et les expatriés du quartier Robertsau stockant 1-2 ans, les besoins varient considérablement.
+Combien de temps pouvez-vous louer un garde-meuble à Strasbourg ? Existe-t-il une durée minimum ? Peut-on résilier avant terme ? Entre les 68 000 étudiants qui stockent 3-4 mois l'été, les familles en travaux 6 mois, et les expatriés du quartier Robertsau stockant 1-2 ans, les besoins varient considérablement. Pour une vue complète, consultez notre [guide complet garde-meuble Strasbourg](/blog/garde-meuble-strasbourg/garde-meuble-strasbourg-guide-complet).
 
 Ce guide détaille les durées acceptées par Homebox Neudorf, Locakase et autres acteurs strasbourgeois (minimum 1 mois), les remises engagement long (6-12 mois = -10-15%), et les durées types selon profils. Vous découvrirez aussi les conditions de résiliation anticipée et comment planifier la durée optimale pour économiser.
 

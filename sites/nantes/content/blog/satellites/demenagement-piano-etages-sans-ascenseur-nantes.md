@@ -11,7 +11,7 @@ publish_date: "2025-03-24"
 author: "Équipe Moverz Nantes"
 ---
 
-Appartement 4ème étage sans ascenseur rue Crébillon (Nantes Centre, immeuble 1890, escalier tournant étroit 95 cm, 18 marches/étage, hauteur sous-plafond 220 cm, paliers 140×120 cm), piano droit Yamaha U3 (240 kg, 153 cm hauteur, 65 cm profondeur, 151 cm largeur) : comment descendre sans casse ? Trois options réalistes :
+Appartement 4ème étage sans ascenseur rue Crébillon (Nantes Centre, immeuble 1890, escalier tournant étroit 95 cm, 18 marches/étage, hauteur sous-plafond 220 cm, paliers 140×120 cm), piano droit Yamaha U3 (240 kg, 153 cm hauteur, 65 cm profondeur, 151 cm largeur) : comment descendre sans casse ? Trois options réalistes : Pour une vue d'ensemble complète, consultez notre [guide déménagement piano à Nantes](/blog/demenagement-piano-nantes/demenagement-piano-nantes-guide).
 
 **Option 1 : Portage manuel spécialisé** (4-5 porteurs Alliance LG formés conservatoire, sangles renforcées 12 cm, protections murales paliers, descente synchronisée marche par marche 45 min., risques modérés 5-8% rayures mineures coins piano, **tarif 480-600€** vs 280€ plain-pied = +200-320€ surcoût étages). Faisabilité : 75% immeubles Centre acceptables (escaliers ≥90 cm, tournants ≤180°, pianos droits inclinés 35-45° passent), 25% refusés (escaliers <85 cm, tournants 270° impossibles physiquement).
 
@@ -237,6 +237,9 @@ Les quartiers Nantes influencent faisabilités : Centre Bouffay/Crébillon diffi
 
 Notre recommandation finale Nantes étages : Mesurez escaliers précisément AVANT (largeur ≥90 cm, tournants ≤180°, hauteur ≥220 cm = faisabilités 75-85% portages manuels), visites techniques gratuites Alliance LG/AGS systématiques (simulations passages = avis fiables vs estimations 30-40% erreurs), acceptez nacelles uniquement pianos >12k€ valeur (surcoût 700-1200€ justifié sécurité, vs pianos 2000-5000€ privilégiez stockages/ventes alternatives économiques), et prévenez copropriétés 2-3 semaines avant (autorisations syndics, évitements conflits gardiens/résidents jour J).
 
+
+Pour aller plus loin, explorez notre [guide déménagement piano à Nantes](/blog/demenagement-piano-nantes/demenagement-piano-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement piano](/blog/demenagement-piano-nantes/satellites/demenagement-piano-nantes-prix) et [déménagement piano à queue](/blog/demenagement-piano-nantes/satellites/demenagement-piano-queue-nantes).
+
 ## Questions Fréquentes
 
 ### Piano peut-il monter escalier étroit Nantes Centre ?
@@ -280,7 +283,4 @@ Outils : Mètre ruban 5 m (largeur paliers, hauteurs sous-plafond), niveau/éque
 Surprime étages : +0,5-1% additionnels (8000€ × 0,8% = 64€ sur 160€ surprime base = total 224€ surprime). Justification : Risques portage étages 5-8% dégâts (chutes escaliers, rayures tournants serrés) vs plain-pied 2-3%. Assureurs calculent espérances (8000€ × 6% risques = 480€ espérance > 224€ surprime = défavorable assureurs donc facturent).
 
 Souscription : Obligatoire étages >3 (Alliance LG/AGS exigent ad valorem, refusent couvrir sinon). Étages 1-2 : Recommandée pianos >5000€, optionnelle <5000€.
-
-
-
 

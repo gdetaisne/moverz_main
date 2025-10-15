@@ -31,11 +31,19 @@ Aide déménagement Rennes gratuite ou économique (contrepartie 20-50€ repas/
 
 ## FAQ
 
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide aide au déménagement à Rennes](/blog/demenagement-rennes/aide-demenagement-rennes).
+
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide aide au déménagement à Rennes](/blog/demenagement-rennes/aide-demenagement-rennes).
+
 **Associations aident déménagement Rennes ?**
 Croix-Rouge, Secours Populaire (ménages difficulté). CCAS Rennes oriente (Mairie).
 
 **Facebook entraide fiable ?**
 Oui, groupes actifs étudiants/jeunes. Contrepartie repas 20-30€.
+
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [aides financières et pratiques déménagement Rennes](/blog/demenagement-rennes/aide-demenagement-rennes).
+
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [aides financières et pratiques déménagement Rennes](/blog/demenagement-rennes/aide-demenagement-rennes).
 
 ---
 **Sources :** Croix-Rouge, CCAS Rennes

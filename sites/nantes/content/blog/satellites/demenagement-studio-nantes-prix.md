@@ -11,7 +11,7 @@ publish_date: "2025-04-11"
 author: "Équipe Moverz Nantes"
 ---
 
-Studio 25m² Nantes Centre (Bouffay) → Île de Nantes (Beaulieu) : volume **15-20m³** (canapé 2 places, lit 140, bureau, étagères Ikea, 30-50 cartons vaisselle/vêtements/livres), distance **4 km**, durée **3-5h** (emballage 1-2h, chargement 1h, trajet 15 min., déchargement 1h, montage rapide 30-60 min.). Prix **400-900€** selon formules : **Économique 400-600€** (location camion 14m³ + 2 porteurs 3h, emballage client DIY, montage basique), **Standard 600-750€** (camion + 2 porteurs 5h, cartons fournis 40 unités, emballage vaisselle fragiles pros), **Tout compris 750-950€** (3 porteurs, emballage total, démontage/remontage meubles Ikea complet, ménage sortant basique).
+Studio 25m² Nantes Centre (Bouffay) → Île de Nantes (Beaulieu) : volume **15-20m³** (canapé 2 places, lit 140, bureau, étagères Ikea, 30-50 cartons vaisselle/vêtements/livres), distance **4 km**, durée **3-5h** (emballage 1-2h, chargement 1h, trajet 15 min., déchargement 1h, montage rapide 30-60 min.). Prix **400-900€** selon formules : **Économique 400-600€** (location camion 14m³ + 2 porteurs 3h, emballage client DIY, montage basique), **Standard 600-750€** (camion + 2 porteurs 5h, cartons fournis 40 unités, emballage vaisselle fragiles pros), **Tout compris 750-950€** (3 porteurs, emballage total, démontage/remontage meubles Ikea complet, ménage sortant basique). Pour une vue d'ensemble complète, consultez notre [guide petit déménagement à Nantes](/blog/petit-demenagement-nantes/petit-demenagement-nantes-guide).
 
 À Nantes, **60-70% déménagements = studios/T1** (vs 25-30% T2-T3, 5% T4+), reflet démographie jeune métropole (35 000 étudiants Université + Centrale, 45% population <35 ans, rotations locatives élevées 1-3 ans vs
 
@@ -214,6 +214,9 @@ Les surcoûts quartiers Nantes (Centre Bouffay escaliers +80-180€ vs Île Nant
 
 Notre recommandation finale Nantes studios : Formule **standard 600-800€** optimal rapport confort/prix (cartons fournis évitent récupérations 4-6 sem., emballage vaisselle pros 1h évite casses 50-200€, démontages basiques inclus vs DIY risques visseries perdues 30-80€ rachats Ikea), timing **mai-juin ou octobre** (-15-25% = économies 100-200€ vs août +30-50% surcoûts), quartiers **Île de Nantes** (ascenseurs zéro surcoûts escaliers +80-150€ Centre), et comparaisons **3-5 devis** (Alliance LG 650€, Demidov 580€, Bretons 620€, petits locaux 480-550€ = économies 70-170€ vs accepter premier).
 
+
+Pour aller plus loin, explorez notre [guide petit déménagement à Nantes](/blog/petit-demenagement-nantes/petit-demenagement-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement T1](/blog/petit-demenagement-nantes/satellites/demenagement-t1-nantes-prix) et [déménager un meuble seul](/blog/petit-demenagement-nantes/satellites/demenagement-meuble-seul-nantes).
+
 ## Questions Fréquentes
 
 ### Combien coûte déménager studio 25m² Nantes ?
@@ -261,7 +264,4 @@ Volume : 50 cartons × 0,036m³ (40×30×30 cm) = **1,8m³** vs volume réel rem
 Vérifications devis : Demandez explicitement "démontage/remontage lit Ikea Malm + étagère Billy inclus ?" (vs ambiguïtés "montage basique" = clients découvrent jour J porteurs refusent canapé "pas inclus forfait" = litiges). Alliance LG standard : Lit+étagères+bureau+table inclus (meubles simples <15 min. chacun), canapés démontables exclus (facturation +40€ si clients insistent jour J vs refus).
 
 DIY montage : Visseries rangées sachets ziplock étiquetés "Lit Malm pieds 4 vis" (vs mélangées = recherches 15-45 min. rallongent), notices conservées (téléchargeables Ikea.fr si perdues), outils (tournevis cruciformes/plats, clés Allen 4-6 mm Ikea fournies meubles).
-
-
-
 

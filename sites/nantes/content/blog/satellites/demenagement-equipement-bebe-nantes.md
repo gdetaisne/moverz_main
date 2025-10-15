@@ -11,7 +11,7 @@ publish_date: "2025-05-03"
 author: "Équipe Moverz Nantes"
 ---
 
-Déménagement jeunes parents Nantes T2 (bébé 6-18 mois, équipements lit bébé 120×60 cm + table langer + poussette trio + chaise haute + parc + transat + baignoire + jouets 50-80 pièces = **8-12m³** additionnels vs couple sans enfant T2 = 40m³ base + 10m³ bébé = 50m³ total) : **précautions spécifiques** normes sécurité (lit bébé barreaux écartements 4,5-6,5 cm réglementaires NF EN 716 vs démontages/remontages approximatifs = 7-9 cm dangereux coincements têtes bébés 8-12 mois), **protections accrues** (jouets valeur sentimentale >financière, peluches doudous irremplaçables vs mobilier Ikea standard), **priorités chargements** (cartons bébé accessible immédiat arrivée vs cave mobilier adulte reportable 2-3j).
+Déménagement jeunes parents Nantes T2 (bébé 6-18 mois, équipements lit bébé 120×60 cm + table langer + poussette trio + chaise haute + parc + transat + baignoire + jouets 50-80 pièces = **8-12m³** additionnels vs couple sans enfant T2 = 40m³ base + 10m³ bébé = 50m³ total) : **précautions spécifiques** normes sécurité (lit bébé barreaux écartements 4,5-6,5 cm réglementaires NF EN 716 vs démontages/remontages approximatifs = 7-9 cm dangereux coincements têtes bébés 8-12 mois), **protections accrues** (jouets valeur sentimentale >financière, peluches doudous irremplaçables vs mobilier Ikea standard), **priorités chargements** (cartons bébé accessible immédiat arrivée vs cave mobilier adulte reportable 2-3j). Pour une vue d'ensemble complète, consultez notre [guide petit déménagement à Nantes](/blog/petit-demenagement-nantes/petit-demenagement-nantes-guide).
 
 À Nantes, **naissances 6500-7200/an** (vs déménagements familles bébés 0-3 ans = 18-25% = 1200-1800 déménagements/an incluant équipements vs 8000-10 000 totaux métropole) imposent **adaptations déménageurs** (Alliance LG/Demidov formations porteurs manipulations lits bébés normes sécurité, cartons spéciaux "Chambre Bébé Fragile" priorités déchargements premiers installations fonctionnelles J+0 soirs = bébés dorment lits propres vs mobilier adulte campings matelas sols 2-3j acceptables). Les équipements volumineux (poussettes trio 3-en-1 = 1,2-1,8m³ démontées nacelles+coques+châssis, parcs 1×1m pliables 0,3m³, transats balancelles 0,5m³) ajoutent **+8-15m³** (20-30% volumes T2 totaux), surcoûts **+150-350€** (camions 40m³ vs 30m³ = +80-150€, temps +1-2h emballages/démontages délicats = +70-200€).
 
@@ -85,6 +85,9 @@ Les protections spécifiques (doudous sacs étanches identifiés photos vs perdu
 
 Notre recommandation Nantes bébés : **Alliance LG** formations sécurité (remontages lits normes 4,5-6,5 cm précisions ±0,5 cm vs généralistes ±2-3 cm dépassements 20-30%), **cartons priorités** "Bébé Essentiel" (lait, couches, doudous, vêtements 3j accessibles J+0 soirs vs caves = courses urgence évitées), **timing 9-24 mois** (robustesses, adaptabilités 3-7j vs <6 mois 2-4 sem.), **printemps/automne** températures douces 15-22°C (vs août >30°C déshydratations bébés camions non-climatisés).
 
+
+Pour aller plus loin, explorez notre [guide petit déménagement à Nantes](/blog/petit-demenagement-nantes/petit-demenagement-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement studio](/blog/petit-demenagement-nantes/satellites/demenagement-studio-nantes-prix) et [prix déménagement T1](/blog/petit-demenagement-nantes/satellites/demenagement-t1-nantes-prix).
+
 ## Questions Fréquentes
 
 ### Déménagement avec bébé coûte plus cher Nantes ?
@@ -132,5 +135,4 @@ DIY impossible : Parent seul ne peut porter carton 20 kg + surveiller bébé 12 
 Exceptions : Bébés >18 mois autonomies relatives (marchent, comprennent "attends 5 min.", vs 6-12 mois = surveillance constante), chambres minimalistes 6-8m³ (vs T2 complets 50m³ impossibles), aides ponctuelles amis 2-4h (chargements critiques vs 8h complètes).
 
 Recommandation : Déléguez pros (950-1500€ vs DIY impossible = investissement obligatoire sécurité bébé), ou mobilisez famille/amis gardent bébé (vs présent = chaos, dangers, stress).
-
 

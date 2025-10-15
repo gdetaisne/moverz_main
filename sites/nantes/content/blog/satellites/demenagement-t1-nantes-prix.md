@@ -11,7 +11,7 @@ publish_date: "2025-04-23"
 author: "Équipe Moverz Nantes"
 ---
 
-Déménagement T1 35m² Nantes (chambre séparée + séjour-cuisine, mobilier canapé 3 places + lit 140-160 + 6-8 meubles moyens, 50-80 cartons) : volume **25-35m³** (vs studio 15-20m³ = +50-75% volumes, T2 40-55m³), durée **5-8h** (emballage 2-3h si pros, chargement 1,5-2h, trajet 20-40 min., déchargement 1,5-2h, montage 1-2h), prix **600-1200€** selon formules (économique 600-850€ = 2-3 porteurs emballage DIY, standard 850-1100€ = 3 porteurs emballage pros vaisselle, premium 1100-1300€ = 4 porteurs emballage total + ménage).
+Déménagement T1 35m² Nantes (chambre séparée + séjour-cuisine, mobilier canapé 3 places + lit 140-160 + 6-8 meubles moyens, 50-80 cartons) : volume **25-35m³** (vs studio 15-20m³ = +50-75% volumes, T2 40-55m³), durée **5-8h** (emballage 2-3h si pros, chargement 1,5-2h, trajet 20-40 min., déchargement 1,5-2h, montage 1-2h), prix **600-1200€** selon formules (économique 600-850€ = 2-3 porteurs emballage DIY, standard 850-1100€ = 3 porteurs emballage pros vaisselle, premium 1100-1300€ = 4 porteurs emballage total + ménage). Pour une vue d'ensemble complète, consultez notre [guide petit déménagement à Nantes](/blog/petit-demenagement-nantes/petit-demenagement-nantes-guide).
 
 À Nantes, T1 représentent **20-25% déménagements** (vs studios 60-70%, T2 15-20%, T3+ 5%), profil **jeunes couples 25-35 ans** (2 salaires cumulés 3000-5000€ nets vs étudiants studios <1500€, enfants pas encore vs familles T2-T3), localisations **Île Nantes/Chantenay** majoritaires 60-70% (T1 récents 2000-2020 copropriétés modernes 650-900€/mois vs Centre T1 rares anciens 550-750€ surfaces réduites 28-32m²). Les acteurs Nantes (Alliance LG 750-1100€, Demidov 680-950€, Bretons 720-1050€) proposent **forfaits T1 650-1200€** vs calculs volumes 28m³ × 35-45€/m³ = 980-1260€ (forfaits -10-15% simplifications commerciales).
 
@@ -213,6 +213,9 @@ Les surcoûts quartiers (Centre escaliers +100-250€ vs Île Nantes 0-50€, p�
 
 Notre recommandation finale T1 Nantes : Formule **standard 850-1100€** optimal couples actifs (cartons fournis + emballage vaisselle pros = confort, démontages Ikea inclus, temps 7-9h raisonnables vs 6-12h DIY fatigues doubles journées travail), quartiers **Île Nantes** (ascenseurs zéro surcoûts +100-250€ Centre, loyers 650-900€ compétitifs qualité-prix surfaces 34-38m²), timing **mai-juin ou octobre** (-15-20% = économies 130-220€), et comparaisons **4-6 devis** (écarts 150-300€ fréquents Alliance LG 950€ vs Demidov 750€ vs petits locaux 680€).
 
+
+Pour aller plus loin, explorez notre [guide petit déménagement à Nantes](/blog/petit-demenagement-nantes/petit-demenagement-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement studio](/blog/petit-demenagement-nantes/satellites/demenagement-studio-nantes-prix) et [déménager un meuble seul](/blog/petit-demenagement-nantes/satellites/demenagement-meuble-seul-nantes).
+
 ## Questions Fréquentes
 
 ### Combien coûte déménager T1 35m² Nantes ?
@@ -260,5 +263,4 @@ Economies échelles T1 : Couples = 2 revenus 3500-5500€ cumulés (vs studios c
 Rentabilité mutualisation couple : T1 850€ ÷ 2 personnes = **425€/personne** (vs studios 550€/seul = T1 -23% coût per capita, justifie vie commune économies déménagements +autres charges divisées loyers/courses).
 
 Seuil T2 : T1 850€ vs T2 1200€ = +350€ (+41%), justifié volumes +45% (30m³ → 45m³), porteurs +1 (3 → 4), durées +40% (7,5h → 10,5h). Couples envisagent enfants = T2 obligatoire (chambre enfant vs T1 1 chambre = parents cèdent séjour nuits bébé, vs T2 chambre dédiée).
-
 

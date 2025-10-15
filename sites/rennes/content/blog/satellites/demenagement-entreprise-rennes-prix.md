@@ -31,11 +31,19 @@ Déménagement bureaux/entreprise Rennes : **2000-10000€** selon taille (5-50 
 
 ## FAQ
 
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide déménagement d'entreprise à Rennes](/blog/demenagement-rennes/demenagement-d-entreprise-rennes).
+
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide déménagement d'entreprise à Rennes](/blog/demenagement-rennes/demenagement-d-entreprise-rennes).
+
 **Prix 10 postes bureaux Rennes ?**
 4000-6000€ (mobilier + IT + archives, weekend/soirée).
 
 **Déménagement en activité possible ?**
 Oui, weekend/soirée (samedi soir → dimanche, reprise lundi matin normale).
+
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [transfert de locaux professionnels à Rennes](/blog/demenagement-rennes/demenagement-d-entreprise-rennes).
+
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [transfert de locaux professionnels à Rennes](/blog/demenagement-rennes/demenagement-d-entreprise-rennes).
 
 ---
 **Sources :** ABC Lemarié, Eurodem, déménagements entreprise

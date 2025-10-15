@@ -11,7 +11,7 @@ publish_date: "2025-03-03"
 author: "Équipe Moverz Nantes"
 ---
 
-Mutation professionnelle à Londres, expatriation au Canada, retour en France depuis Singapour avec étape Nantes : combien coûte réellement un déménagement international impliquant la métropole nantaise ? Les fourchettes trouvées en ligne (2000-20 000€) désorientent plus qu'elles n'éclairent. La réalité : le prix dépend essentiellement de trois variables (destination, volume, mode transport), créant des écarts de 1 à 10 entre un studio vers Bruxelles (1200 km, 3000€) et une maison vers Sydney (18 000 km, conteneur maritime 40 pieds, 15 000€).
+Mutation professionnelle à Londres, expatriation au Canada, retour en France depuis Singapour avec étape Nantes : combien coûte réellement un déménagement international impliquant la métropole nantaise ? Les fourchettes trouvées en ligne (2000-20 000€) désorientent plus qu'elles n'éclairent. La réalité : le prix dépend essentiellement de trois variables (destination, volume, mode transport), créant des écarts de 1 à 10 entre un studio vers Bruxelles (1200 km, 3000€) et une maison vers Sydney (18 000 km, conteneur maritime 40 pieds, 15 000€). Pour une vue d'ensemble complète, consultez notre [guide déménagement international depuis Nantes](/blog/demenagement-international-nantes/demenagement-international-nantes-guide).
 
 À Nantes, trois acteurs spécialisés proposent des déménagements internationaux : **AGS Déménagement** (19 rue Léon Gaumont, Orvault, réseau mondial 141 pays), **Demidov Déménagement** (accompagnement personnalisé Europe-international), et **Alliance LG** (adaptations chaque destination). Les tarifs observés pour des volumes standards (T2 50m², 30m³) varient de 4000€ (Nantes-Londres routier) à 12 000€ (Nantes-New York maritime conteneur 20 pieds partagé).
 
@@ -115,6 +115,9 @@ Les trois acteurs nantais spécialisés (AGS Orvault réseau 141 pays, Demidov a
 
 Notre recommandation Nantes : Demandez 2-3 devis (AGS + Demidov + comparateur international), précisez destination exacte + volume estimé + date souhaitée, vérifiez inclusions (assurance tous risques international +2-5% indispensable, emballage export si objets fragiles/valeur, garde-meuble Nantes si décalage dates 107-167€/mois), et anticipez 2-3 mois (process long vs local 3 semaines).
 
+
+Pour aller plus loin, explorez notre [guide déménagement international depuis Nantes](/blog/demenagement-international-nantes/demenagement-international-nantes-guide) ainsi que nos guides complémentaires : [déménagement vers USA et Canada](/blog/demenagement-international-nantes/satellites/demenagement-nantes-usa-canada) et [déménagement vers UK post-Brexit](/blog/demenagement-international-nantes/satellites/demenagement-nantes-uk-post-brexit).
+
 ## Questions Fréquentes
 
 ### Combien coûte un déménagement international T2 depuis Nantes ?
@@ -146,7 +149,4 @@ T2 30m³ Nantes-New York : maritime 10 000€ (333€/m³, 6 semaines) vs aérie
 **Assurance RC basique incluse** (responsabilité déménageur si faute prouvée), **assurance tous risques optionnelle +2-5%** du coût déménagement (200-750€ selon prix total). Fortement recommandée international (vs local où optionnel).
 
 Risques spécifiques international : tempêtes maritimes (conteneurs perdus mer, rare <0,1% mais existe), confiscations douanes (erreur documentaire, produits interdits non déclarés), casse manutentions multiples (Nantes-port-navire-port destination-domicile = 6-10 manipulations vs 2 local), vols ports (rares mais possibles). Assurance tous risques AGS/Demidov : franchise 500-1000€, couvre tout sauf faute intentionnelle client (fausses déclarations douanes). Pour T2 10 000€ Nantes-NY, assurance 300-500€ = 3-5% patrimoine mobilier, indispensable (vs local 15 000€ mobilier sur 15 km Nantes = risque moindre, assurance +25€ discutable).
-
-
-
 

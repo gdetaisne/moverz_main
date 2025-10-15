@@ -27,11 +27,19 @@ Rennes→USA/Canada : **maritime 5000-12000€** (conteneur 20 pieds 30-40m³, d
 
 ## FAQ
 
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide déménagement international depuis Rennes](/blog/demenagement-rennes/demenagement-international-rennes).
+
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide déménagement international depuis Rennes](/blog/demenagement-rennes/demenagement-international-rennes).
+
 **Prix Rennes New York ?**
 5000-8000€ maritime (30m³, 8-10 semaines), 18-25k€ aérien (2 semaines).
 
 **Délai Rennes USA ?**
 6-10 semaines maritime (transport + douane), 1-2 semaines aérien.
+
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [expatriation et déménagement international Rennes](/blog/demenagement-rennes/demenagement-international-rennes).
+
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [expatriation et déménagement international Rennes](/blog/demenagement-rennes/demenagement-international-rennes).
 
 ---
 **Sources :** Transitaires internationaux, ABC Lemarié

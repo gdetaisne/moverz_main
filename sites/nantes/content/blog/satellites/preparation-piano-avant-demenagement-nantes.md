@@ -11,7 +11,7 @@ publish_date: "2025-03-28"
 author: "Équipe Moverz Nantes"
 ---
 
-Votre piano Yamaha U3 salon Nantes Centre, déménagement prévu J+7 Alliance LG : que faire AVANT arrivée déménageurs ? Trois erreurs fréquentes clients (constatées Alliance LG 40-60% déménagements pianos Nantes) : **(1) Couvercle ouvert** jour J (porteurs ferment vite sans vérifier intérieur = partitions oubliées, métronome, crayons tombent mécaniques marteaux = coincent 2-5 touches post-déménagement, réparation luthier 150-300€), **(2) Piano chargé objets** (bibelots dessus, vases, photos cadres = porteurs retirent hâte, cassent 20-30% objets fragiles), **(3) Pieds demi-queue non démontés** (porteurs démontent improvisation sans notices = vis perdues, pieds inversés remontage = piano bancal désaccordage accéléré).
+Votre piano Yamaha U3 salon Nantes Centre, déménagement prévu J+7 Alliance LG : que faire AVANT arrivée déménageurs ? Trois erreurs fréquentes clients (constatées Alliance LG 40-60% déménagements pianos Nantes) : **(1) Couvercle ouvert** jour J (porteurs ferment vite sans vérifier intérieur = partitions oubliées, métronome, crayons tombent mécaniques marteaux = coincent 2-5 touches post-déménagement, réparation luthier 150-300€), **(2) Piano chargé objets** (bibelots dessus, vases, photos cadres = porteurs retirent hâte, cassent 20-30% objets fragiles), **(3) Pieds demi-queue non démontés** (porteurs démontent improvisation sans notices = vis perdues, pieds inversés remontage = piano bancal désaccordage accéléré). Pour une vue d'ensemble complète, consultez notre [guide déménagement piano à Nantes](/blog/demenagement-piano-nantes/demenagement-piano-nantes-guide).
 
 La préparation correcte piano (checklist 8 actions J-7 à J-1, durée totale 2-3h réparties) réduit **risques dégâts 15-20% → 3-5%** (Alliance LG constate : pianos préparés méthodiquement = taux incidents 3-5% rayures mineures uniquement, vs non-préparés 18-25% incidents incluant casses mécaniques intérieures 300-800€). Les déménageurs spécialisés (Alliance LG, AGS) fournissent checklist préparation clients (PDF envoyé confirmation devis, rappel J-10 email), mais 50-60% clients omettent/oublient = découvertes dégâts post-livraison (partitions froissées mécaniques, vis pieds perdues, objets cassés dessus piano).
 
@@ -157,6 +157,9 @@ Les erreurs fréquentes éviter (accordage pré-déménagement J-3 inutile 90-12
 
 Notre recommandation finale Nantes : Suivez checklist Alliance LG/AGS (PDF envoyé confirmation devis, 8 actions J-7 à J-1 timing précis), photographiez piano 15-20 photos horodatées avant/après (preuves assurances litiges 20-30% sinistres), présence obligatoire jour J (surveillance emballages, remises clés, validation états), et inspectez réception immédiate présence porteurs (notez bordereau livraison dégâts avant signature "bon pour accord" vs réclamations post-départ refusées assureurs 60-80% cas délais dépassés).
 
+
+Pour aller plus loin, explorez notre [guide déménagement piano à Nantes](/blog/demenagement-piano-nantes/demenagement-piano-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement piano](/blog/demenagement-piano-nantes/satellites/demenagement-piano-nantes-prix) et [déménagement piano à queue](/blog/demenagement-piano-nantes/satellites/demenagement-piano-queue-nantes).
+
 ## Questions Fréquentes
 
 ### Faut-il accorder piano avant déménagement Nantes ?
@@ -194,7 +197,4 @@ Protection permanente sous piano destination : Patins feutre (4 patins autocolla
 Photos minimales : (1) **4 angles piano** (face/dos/côtés = vues complètes états laque), (2) **Coins/angles zooms** (défauts préexistants mineurs 1-3 cm = preuves vs confusions post), (3) **Numéro série** (plaque Yamaha U3 intérieur, identification unique vs erreurs pianos multiples), (4) **Horodatage** (métadonnées EXIF smartphone = date/heure automatiques inviolables vs modifications manuelles).
 
 Stockage : Cloud instantané (Google Photos upload automatique = sauvegardes vs smartphone perdu/volé déménagement), email vous-même (horodatage serveurs Gmail = preuves tiers juridiques litiges). Post-déménagement : Photos réception (états arrivée vs avant = comparaisons), notations bordereau livraison présence porteurs (dégâts constatés signés = preuves irréfutables vs réclamations tardives 48h refusées 80% assurances).
-
-
-
 

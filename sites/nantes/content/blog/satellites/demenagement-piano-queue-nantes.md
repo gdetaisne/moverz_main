@@ -11,7 +11,7 @@ publish_date: "2025-03-30"
 author: "Équipe Moverz Nantes"
 ---
 
-Votre piano demi-queue Yamaha C3 (180 cm longueur, 150 cm largeur, 100 cm hauteur, 310 kg) salon appartement Île de Nantes → pavillon Carquefou : déménagement complexifie vs piano droit (250 kg, 153×131×65 cm). **Démontage pieds obligatoire** (3 pieds 80 cm dévissables, piano sans pieds = 150 cm longueur × 150 cm largeur × 100 cm hauteur transportable portes 90-120 cm Nantes vs 180 cm entier impossible), **équipe 4-5 porteurs spécialisés** (vs 2-3 droits, poids 310 kg + encombrement), **matériel renforcé** (sangles 15 cm larges vs 10 cm droits, housses 10 cm épaisses vs 5-8 cm, chariots capacité 500 kg vs 300 kg), **délais +1-2h** (démontage 20-30 min., transport, remontage destination 30-40 min. vs droits zéro démontage = directs).
+Votre piano demi-queue Yamaha C3 (180 cm longueur, 150 cm largeur, 100 cm hauteur, 310 kg) salon appartement Île de Nantes → pavillon Carquefou : déménagement complexifie vs piano droit (250 kg, 153×131×65 cm). **Démontage pieds obligatoire** (3 pieds 80 cm dévissables, piano sans pieds = 150 cm longueur × 150 cm largeur × 100 cm hauteur transportable portes 90-120 cm Nantes vs 180 cm entier impossible), **équipe 4-5 porteurs spécialisés** (vs 2-3 droits, poids 310 kg + encombrement), **matériel renforcé** (sangles 15 cm larges vs 10 cm droits, housses 10 cm épaisses vs 5-8 cm, chariots capacité 500 kg vs 300 kg), **délais +1-2h** (démontage 20-30 min., transport, remontage destination 30-40 min. vs droits zéro démontage = directs). Pour une vue d'ensemble complète, consultez notre [guide déménagement piano à Nantes](/blog/demenagement-piano-nantes/demenagement-piano-nantes-guide).
 
 À Nantes, Alliance LG et AGS déménagent 30-50 pianos demi-queues/an (Yamaha C3/C5/C7, Kawai GX-2/GX-3, quelques Steinway M/O semi-concerts 15-20 pianos/an), essentiellement **Île de Nantes/périphéries pavillons** (90% demi-queues logements récents ascenseurs larges 140-180 cm ou plain-pied vs 10% Centre Bouffay escaliers = nacelles obligatoires 800-1400€ ou refus). Les queues concert (Steinway D 274 cm, Yamaha CFX 275 cm, conservatoires salles concerts) = 8-15 déménagements/an Nantes métropole (Conservatoire Nantes rue Gaëtan-Rondeau, Auditorium LUMA Île Nantes, prêts/locations événements), nécessitant **équipes 6-8 porteurs + luthiers superviseurs** (démontages complets mécaniques partielles, assurances 40-80k€, 5-8h process complet vs 2-3h demi-queues).
 
@@ -188,6 +188,9 @@ Les contraintes passages (portes ≥120 cm minimales démontés vs <100 cm refus
 
 Notre recommandation finale Nantes demi-queues : Privilégiez Île Nantes/périphéries pavillons (ascenseurs larges 140-180 cm récents 2000-2020, plain-pied, tarifs optimaux 550-750€ vs Centre nacelles 1000-1400€ ou refus), mesurez ascenseurs/portes destination AVANT (largeur/profondeur/hauteur transmises Alliance LG = avis faisabilités fiables), souscrivez assurance ad valorem obligatoire >15k€ (surprime 300-600€ sécurise 15-25k€ valeurs vs générique 750€ catastrophique), et acceptez démontages pieds pros Alliance LG (20-30 min. inclus forfait vs tentatives clients 60-120 min. + risques foirages 300-800€ réparations).
 
+
+Pour aller plus loin, explorez notre [guide déménagement piano à Nantes](/blog/demenagement-piano-nantes/demenagement-piano-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement piano](/blog/demenagement-piano-nantes/satellites/demenagement-piano-nantes-prix) et [piano dans les étages sans ascenseur](/blog/demenagement-piano-nantes/satellites/demenagement-piano-etages-sans-ascenseur-nantes).
+
 ## Questions Fréquentes
 
 ### Combien coûte déménager demi-queue Yamaha C3 Nantes ?
@@ -223,7 +226,4 @@ Franchise : 400-600€ demi-queues (vs 250-400€ droits). Indemnisation casse t
 Vérification préalable : Mesurez ascenseur (largeur/profondeur/hauteur libres hors boutons/miroirs, minimums 3 points étages = détecte variations ±5-10 cm portes paliers). Transmettez Alliance LG (confirme faisabilité vs visite technique si doute). Ascenseurs standards 110×140 cm (normes 1980-2000 non-PMR) : Demi-queues **refusent** (150 cm largeur piano > 110 cm ascenseur, ou 180 cm longueur > 140 cm profondeur = bloqués).
 
 Statistiques Nantes : Île Nantes 85-90% OK (récents 2000-2020), Centre 1970-2000 = 40-50% OK (mixte standards/larges), Centre <1970 = 10-20% OK (majorité sans ascenseurs ou étroits <110 cm).
-
-
-
 

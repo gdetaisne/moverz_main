@@ -18,6 +18,10 @@ author: "Équipe Moverz Montpellier"
 
 # Déménagement Maritime vs Aérien Depuis Montpellier : Le Comparatif
 
+
+Pour comprendre tous les aspects du déménagement international Montpellier, consultez notre [guide déménagement international depuis Montpellier](/blog/demenagement-international-montpellier/demenagement-international-montpellier).
+
+
 Choisir entre le transport maritime et aérien pour votre déménagement international impacte radicalement votre budget et vos délais. Le maritime offre des tarifs de 2 000-8 000€ pour des volumes importants mais nécessite 4 à 12 semaines d'acheminement, tandis que l'aérien livre en 5-15 jours vos affaires mais coûte 3 à 4 fois plus cher à 3-8€ par kilo.
 
 Pour les Montpelliérains expatriés, cette décision dépend de votre situation : un étudiant de Boutonnet partant en échange universitaire privilégiera l'aérien pour 200-300 kg d'essentiel (600-2400€), tandis qu'une famille quittant son T3 d'Antigone pour les États-Unis optera pour le maritime (6000-10000€ pour 40-50m³).

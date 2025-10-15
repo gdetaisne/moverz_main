@@ -17,6 +17,10 @@ author: "Équipe Moverz Montpellier"
 
 # Assurance Déménageur à Montpellier : RC Pro et Tous Risques
 
+
+Pour comprendre tous les aspects du déménageur à Montpellier, consultez notre [guide complet déménageur Montpellier](/blog/demenageur-montpellier/demenageur-montpellier).
+
+
 L'assurance RC professionnelle (obligatoire) couvre dommages causés par déménageur, tandis que tous risques optionnelle (+2-5% valeur biens, soit 240-600€ pour mobilier 12 000€) protège contre tous aléas. Pour T2 montpelliérain d'Antigone vers Port Marianne (mobilier 12 000-18 000€), souscrire tous risques (300-500€) évite perte totale en cas sinistre grave.
 
 RC pro basique indemnise selon faute prouvée déménageur. Tous risques couvre même sans faute (événement imprévu, accident route).

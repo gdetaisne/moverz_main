@@ -11,7 +11,7 @@ publish_date: "2025-03-05"
 author: "Équipe Moverz Nantes"
 ---
 
-Déménager de Nantes vers Londres, New York ou Shanghai ne se résume pas à remplir un conteneur et attendre 6 semaines la livraison. Entre les deux : les formalités douanières, cauchemar administratif pour 60-70% des expatriés selon les retours secteur. Inventaire détaillé multilingue (200-300 lignes pour T2 complet), certificats d'origine, déclarations valeurs, formulaires spécifiques pays (3299 USA, BSF186 Canada, multiples Chine), et délais incompressibles de 4-8 semaines avant même d'embarquer vos affaires.
+Déménager de Nantes vers Londres, New York ou Shanghai ne se résume pas à remplir un conteneur et attendre 6 semaines la livraison. Entre les deux : les formalités douanières, cauchemar administratif pour 60-70% des expatriés selon les retours secteur. Inventaire détaillé multilingue (200-300 lignes pour T2 complet), certificats d'origine, déclarations valeurs, formulaires spécifiques pays (3299 USA, BSF186 Canada, multiples Chine), et délais incompressibles de 4-8 semaines avant même d'embarquer vos affaires. Pour une vue d'ensemble complète, consultez notre [guide déménagement international depuis Nantes](/blog/demenagement-international-nantes/demenagement-international-nantes-guide).
 
 À Nantes, AGS Déménagement Orvault (19 rue Léon Gaumont, réseau 141 pays) et Demidov (accompagnement personnalisé) proposent une assistance complète formalités : compilation documents, traductions certifiées, interfaces douanes françaises et destination. Cette prestation (+200-500€ selon complexité destination, ou incluse formules premium) évite les erreurs retardant livraison de 2-4 semaines (inventaire incomplet = conteneur bloqué douanes New York, redocumentation depuis Nantes, livraison J+35 vs J+30 prévu).
 
@@ -154,6 +154,9 @@ Les formalités douanières d'un déménagement international depuis Nantes néc
 
 Le DIY formalités reste faisable Union Européenne (inventaire FR, documents France accessibles, contrôles légers, économie 200€ vs assistance), mais fortement déconseillé UK/USA/Asie (complexité, langues, risques blocages = surcoûts potentiels 1000-3000€ vs assistance 500-1000€). Notre conseil Nantes : Contactez AGS, Demidov ou Alliance LG **3-4 mois avant départ** international, demandez forfait "assistance douanes incluse" (souvent 0€ supplémentaire si déménagement complet >8000€), et déléguez cette expertise (vs gérer vous-même = 15-25h + stress + risques).
 
+
+Pour aller plus loin, explorez notre [guide déménagement international depuis Nantes](/blog/demenagement-international-nantes/demenagement-international-nantes-guide) ainsi que nos guides complémentaires : [déménagement vers USA et Canada](/blog/demenagement-international-nantes/satellites/demenagement-nantes-usa-canada) et [déménagement vers UK post-Brexit](/blog/demenagement-international-nantes/satellites/demenagement-nantes-uk-post-brexit).
+
 ## Questions Fréquentes
 
 ### Quels documents pour déménagement international depuis Nantes ?
@@ -185,7 +188,4 @@ Exigences : USA/UK/Asie demandent **description EN précise** (marque, modèle, 
 **150-300€ pour inventaire T2** (250-300 lignes FR→EN), **300-600€ FR→mandarin/japonais** (langues complexes, traducteurs rares donc chers). Traduction certifiée assermentée obligatoire (vs Google Translate maison = rejet douanes 100%).
 
 Nantes : AGS/Demidov sous-traitent traducteurs assermentés partenaires Paris/Nantes (agrément ambassades USA/Chine/Japon). Délai : 5-10 jours (selon charge traducteur). Inclus parfois assistance douanes AGS (bundle 500€ inclut inventaire + traduction + formulaires vs séparé inventaire 300€ + traduction 200€ = 500€ identique). Vérifiez devis : "Assistance douanes 600€" = probablement tout inclus (inventaire multilingue certifié + formulaires + interfaces).
-
-
-
 

@@ -12,9 +12,11 @@ publish_date: "2025-11-15"
 author: "Équipe Moverz Rennes"
 ---
 
-Conduire un camion 20-35m³ à Rennes nécessite adaptation vs voiture : gabarit 2-2,5m largeur (vs 1,8m voiture), hauteur 3-3,5m (attention parkings bas, branches), freinage rallongé (3t chargé), visibilité réduite (pas rétroviseur central). Quartiers faciles (Villejean rues larges, rocade), difficiles (centre historique rues <3m, Thabor résidentiel étroit).
+Conduire un camion 20-35m³ à Rennes nécessite adaptation vs voiture : gabarit 2-2,5m largeur (vs 1,8m voiture), hauteur 3-3,5m (attention parkings bas, branches), freinage rallongé (3t chargé), visibilité réduite (pas rétroviseur central). Quartiers faciles (Villejean rues larges, rocade), difficiles (centre historique rues <3m, Thabor résidentiel étroit). Ces éléments s'inscrivent dans le contexte plus large de notre [louer un camion pour déménager à Rennes](/blog/demenagement-rennes/location-camion-demenagement-rennes).
 
 ## Différences vs Voiture
+
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide location camion déménagement Rennes](/blog/demenagement-rennes/location-camion-demenagement-rennes).
 
 **Gabarit :** Largeur 2-2,5m (vs 1,8m voiture). Rues étroites centre Rennes : passages justes.
 
@@ -58,6 +60,8 @@ Difficile : rues <3m, pavées, piétonnes. Autorisation mairie + manœuvres comp
 
 **Vitesse maximum camion chargé ?**
 80-90 km/h (stabilité, freinage). Rocade Rennes 90 = confortable.
+
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [location véhicule utilitaire Rennes](/blog/demenagement-rennes/location-camion-demenagement-rennes).
 
 ---
 **Sources :** Expérience terrain, code route

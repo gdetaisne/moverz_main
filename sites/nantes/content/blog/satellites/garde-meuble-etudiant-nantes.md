@@ -11,7 +11,7 @@ publish_date: "2025-02-07"
 author: "Équipe Moverz Nantes"
 ---
 
-Fin juin approche et vous quittez votre chambre CROUS ou studio nantais pour l'été. Problème : impossible de tout ramener chez vos parents (400 km, voiture pleine), et vous reprenez le même logement début septembre. Payer 300-400€ de loyer juillet-août pour un espace vide ? Trimba ller 30 cartons aller-retour ? Ou trouver une solution de stockage économique adaptée au budget étudiant ?
+Fin juin approche et vous quittez votre chambre CROUS ou studio nantais pour l'été. Problème : impossible de tout ramener chez vos parents (400 km, voiture pleine), et vous reprenez le même logement début septembre. Payer 300-400€ de loyer juillet-août pour un espace vide ? Trimba ller 30 cartons aller-retour ? Ou trouver une solution de stockage économique adaptée au budget étudiant ? Pour une vue d'ensemble complète, consultez notre [guide complet du garde-meuble à Nantes](/blog/garde-meuble-nantes/garde-meuble-nantes-guide-complet).
 
 À Nantes, les 55 000 étudiants (Université de Nantes, Centrale Nantes, écoles supérieures) font face chaque été à cette problématique. Bonne nouvelle : le marché propose des solutions dès **22€ par mois** (Annexx) pour les petits volumes, soit 66€ pour trois mois d'été – contre 900-1200€ de loyer CROUS maintenu inutilement. Homebox Carquefou, à 10 minutes du campus Tertre de Doulon-Bottière, offre également des formules petits box (1-5m²) adaptées aux chambres étudiantes.
 
@@ -151,6 +151,9 @@ Les 55 000 étudiants de la métropole disposent d'options proches de chaque cam
 
 Nos trois conseils clés : réservez mi-juin (éviter saturation rentrée septembre +20-30% demande), optimisez l'empilage vertical (cartons uniformes, démontage meubles), et demandez systématiquement la réduction étudiante (-10% potentiel = économie 18-24€ sur 3 mois). Avec ces précautions, vous stockez sereinement tout l'été pour le prix de deux-trois sorties restaurant, libérant votre budget logement pour vos projets estivaux.
 
+
+Pour aller plus loin, explorez notre [guide complet du garde-meuble à Nantes](/blog/garde-meuble-nantes/garde-meuble-nantes-guide-complet) ainsi que nos guides complémentaires : [prix garde-meuble Nantes 2025](/blog/garde-meuble-nantes/satellites/prix-garde-meuble-nantes-2025) et [garde-meuble pas cher à Nantes](/blog/garde-meuble-nantes/satellites/garde-meuble-pas-cher-nantes).
+
 ## Questions Fréquentes
 
 ### Combien coûte un garde-meuble étudiant pour l'été à Nantes ?
@@ -182,7 +185,4 @@ Organisation : séparez virtuellement box (gauche/droite), étiquetez cartons no
 **Dès mi-juin** (15-20 juin) pour éviter la saturation de rentrée septembre. Les 55 000 étudiants nantais créent un pic de demande fin août-début septembre (+20-30% vs mois normaux).
 
 Réserver tôt garantit : disponibilité taille souhaitée (1-5m²), tarif standard (vs majorations période tendue), choix acteur optimal (Homebox campus Tertre si vous logez Doulon). Vous payez généralement 1er mois dès réservation (22-77€), bloquant le box jusqu'à votre arrivée fin juin. Coût anticipation : 0€ (vous auriez payé ce mois de toute façon). Gain : sérénité et prix maîtrisé vs stress dernière minute 28 août cherchant box 1,5m² introuvable (tout plein rentrée).
-
-
-
 

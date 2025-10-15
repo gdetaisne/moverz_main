@@ -31,11 +31,19 @@ Déménagement colocation Rennes (70 000 étudiants, forte colocation Villejean/
 
 ## FAQ
 
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide aide au déménagement à Rennes](/blog/demenagement-rennes/aide-demenagement-rennes).
+
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide aide au déménagement à Rennes](/blog/demenagement-rennes/aide-demenagement-rennes).
+
 **Partager camion déménagement faisable ?**
 Oui, 20m³ (80€) ÷ 3 colocataires = 27€/personne. Rotation journée (matin/après-midi/soir).
 
 **Budget colocation déménagement ?**
 50-100€/étudiant (camion partagé 30€ + cartons gratuits + essence 10€ + pizza 20€).
+
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [aides financières et pratiques déménagement Rennes](/blog/demenagement-rennes/aide-demenagement-rennes).
+
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [aides financières et pratiques déménagement Rennes](/blog/demenagement-rennes/aide-demenagement-rennes).
 
 ---
 **Sources :** Leclerc, expérience étudiants Rennes

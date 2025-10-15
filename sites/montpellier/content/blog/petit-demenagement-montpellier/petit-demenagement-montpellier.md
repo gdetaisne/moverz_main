@@ -17,6 +17,25 @@ featured: true
 
 Vous déménagez un studio d'étudiant dans le quartier de la Comédie, une chambre meublée à Antigone, quelques meubles d'un appartement partagé aux Beaux-Arts, ou simplement un canapé et des cartons de Celleneuve vers Port Marianne ? Les petits déménagements représentent une part importante des changements de logement à Montpellier, notamment avec les nombreux étudiants de l'Université de Montpellier, les jeunes actifs en mobilité professionnelle, et les seniors souhaitant transférer quelques affaires. Pourtant, trouver une solution adaptée et économique pour ces petits volumes n'est pas toujours évident : les déménageurs classiques sont parfois peu intéressés ou proposent des tarifs disproportionnés, et organiser soi-même peut sembler compliqué. Ce guide complet vous présente toutes les solutions disponibles à Montpellier pour réussir votre petit déménagement de manière simple, rapide et économique.
 
+## 📚 Notre Dossier Complet Petit Déménagement Montpellier
+
+**Par Type :**
+- [Déménagement studio étudiant Montpellier](/blog/petit-demenagement-montpellier/satellites/demenagement-studio-etudiant-montpellier) - 15-25m², solutions 70 000 étudiants
+- [Transport quelques meubles Montpellier](/blog/petit-demenagement-montpellier/satellites/transport-quelques-meubles-montpellier) - Canapé, lit, table uniquement
+- [Déménagement chambre étudiant Montpellier](/blog/petit-demenagement-montpellier/satellites/demenagement-chambre-etudiant-montpellier) - 9-12m², résidence universitaire
+
+**Solutions :**
+- [Déménageur spécialisé petit volume Montpellier](/blog/petit-demenagement-montpellier/satellites/demenageur-specialise-petit-volume-montpellier) - Acteurs adaptés
+- [Location utilitaire 6m³ Montpellier](/blog/petit-demenagement-montpellier/satellites/location-utilitaire-6m3-montpellier) - DIY petit volume
+- [Service coursier déménagement Montpellier](/blog/petit-demenagement-montpellier/satellites/service-coursier-demenagement-montpellier) - Livraison rapide
+
+**Prix et Organisation :**
+- [Prix petit déménagement Montpellier 2025](/blog/petit-demenagement-montpellier/satellites/prix-petit-demenagement-montpellier) - Fourchettes 100-500€
+- [Déménagement rapide dernière minute Montpellier](/blog/petit-demenagement-montpellier/satellites/demenagement-rapide-derniere-minute-montpellier) - 24-48h, urgence
+- [Déménagement colocation Montpellier](/blog/petit-demenagement-montpellier/satellites/demenagement-colocation-montpellier) - Une chambre vers autre coloc
+- [Transport piano droit Montpellier petit budget](/blog/petit-demenagement-montpellier/satellites/transport-piano-droit-montpellier-petit-budget) - Instrument seul
+- [Déménagement seniors Montpellier assistance](/blog/petit-demenagement-montpellier/satellites/demenagement-seniors-montpellier-assistance) - Accompagnement personnes âgées
+
 ## Qu'est-ce qu'un "petit déménagement" ?
 
 Un petit déménagement se définit par un **volume réduit d'affaires à transporter**, généralement **moins de 10 à 15 m³**. Voici les situations les plus courantes.

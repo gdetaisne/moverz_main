@@ -17,6 +17,10 @@ author: "Équipe Moverz Montpellier"
 
 # Check-List Déménagement International : Planning Complet
 
+
+Pour comprendre tous les aspects du déménagement international Montpellier, consultez notre [guide déménagement international depuis Montpellier](/blog/demenagement-international-montpellier/demenagement-international-montpellier).
+
+
 Un déménagement international nécessite d'anticiper 2 à 3 mois minimum pour gérer sereinement toutes les démarches. Entre les documents administratifs, les résiliations de contrats, l'inscription des enfants dans leur nouvelle école, le tri des affaires et l'organisation logistique, les tâches s'accumulent rapidement.
 
 Pour un Montpelliérain quittant son appartement d'Antigone vers le Canada ou sa maison de Croix d'Argent vers l'Australie, cette check-list chronologique évite les oublis coûteux et les urgences de dernière minute.

@@ -16,7 +16,7 @@ publish_date: "2025-01-22"
 author: "Équipe Moverz Strasbourg"
 ---
 
-Vous étudiez à Strasbourg, dans un studio de 15m² à Krutenau ou une chambre de 9m² à la cité U de l'Esplanade, et l'été approche. Retourner chez vos parents 3 mois est économique, mais que faire de vos meubles, cartons de cours et affaires saisonnières ? Sous-louer votre studio implique de vider entièrement, or vous n'avez ni cave ni grenier. Solution : le garde-meuble étudiant.
+Vous étudiez à Strasbourg, dans un studio de 15m² à Krutenau ou une chambre de 9m² à la cité U de l'Esplanade, et l'été approche. Retourner chez vos parents 3 mois est économique, mais que faire de vos meubles, cartons de cours et affaires saisonnières ? Sous-louer votre studio implique de vider entièrement, or vous n'avez ni cave ni grenier. Solution : le garde-meuble étudiant. Pour une vue complète, consultez notre [guide complet garde-meuble Strasbourg](/blog/garde-meuble-strasbourg/garde-meuble-strasbourg-guide-complet).
 
 Strasbourg compte 68 000 étudiants (11% de la population totale de 297 878 habitants), soit la 4ème ville étudiante de France. Chaque année, entre juin et septembre, des milliers d'entre vous stockent temporairement pour éviter de payer un loyer vide l'été (400-500€/mois) ou entre deux logements. Mais avec un budget serré (33% des moins de 30 ans sous le seuil de pauvreté à Strasbourg selon l'INSEE 2021, revenu médian 20 260€/an), chaque euro compte. Combien coûte réellement un garde-meuble étudiant à Strasbourg ? Existe-t-il des tarifs préférentiels ? Peut-on partager un box pour diviser les frais ?
 

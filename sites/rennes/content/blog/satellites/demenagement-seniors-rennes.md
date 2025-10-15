@@ -35,11 +35,19 @@ Déménagement seniors Rennes (+60 ans) : **formule complète clé-en-main** rec
 
 ## FAQ
 
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide aide au déménagement à Rennes](/blog/demenagement-rennes/aide-demenagement-rennes).
+
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide aide au déménagement à Rennes](/blog/demenagement-rennes/aide-demenagement-rennes).
+
 **Aides déménagement seniors Rennes ?**
 CCAS Rennes (300-800€ selon ressources), APA (perte autonomie), caisses retraite. Contact Mairie.
 
 **Formule complète combien ?**
 700-1500€ (T2-T4), zéro effort, tout inclus (emballage, transport, installation).
+
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [aides financières et pratiques déménagement Rennes](/blog/demenagement-rennes/aide-demenagement-rennes).
+
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [aides financières et pratiques déménagement Rennes](/blog/demenagement-rennes/aide-demenagement-rennes).
 
 ---
 **Sources :** CCAS Rennes, ABC Lemarié, Eurodem

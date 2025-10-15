@@ -12,9 +12,11 @@ publish_date: "2025-11-07"
 author: "Équipe Moverz Rennes"
 ---
 
-L'assurance location camion à Rennes est **obligatoire** (responsabilité civile minimum), **incluse** dans le tarif de base chez Leclerc/Europcar/Sixt (franchise 800-1500€). L'assurance tous risques complémentaire (+15-25€/jour, franchise réduite 300-500€) est optionnelle. Vérifiez votre assurance auto personnelle : certaines couvrent locations utilitaires (économie 15-25€/jour).
+L'assurance location camion à Rennes est **obligatoire** (responsabilité civile minimum), **incluse** dans le tarif de base chez Leclerc/Europcar/Sixt (franchise 800-1500€). L'assurance tous risques complémentaire (+15-25€/jour, franchise réduite 300-500€) est optionnelle. Vérifiez votre assurance auto personnelle : certaines couvrent locations utilitaires (économie 15-25€/jour). Ces éléments s'inscrivent dans le contexte plus large de notre [louer un camion pour déménager à Rennes](/blog/demenagement-rennes/location-camion-demenagement-rennes).
 
 ## Assurance Base (Incluse)
+
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide location camion déménagement Rennes](/blog/demenagement-rennes/location-camion-demenagement-rennes).
 
 **Responsabilité civile :** Dommages causés à tiers (obligatoire légalement)
 
@@ -54,6 +56,8 @@ Montant restant à payer si accident responsable. Base : 800-1500€. Tous risqu
 
 **Mon assurance auto couvre location ?**
 Vérifiez contrat (certaines oui pour locations occasionnelles). Appelez assureur avant.
+
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [location véhicule utilitaire Rennes](/blog/demenagement-rennes/location-camion-demenagement-rennes).
 
 ---
 **Sources :** Leclerc, Europcar, conditions générales location

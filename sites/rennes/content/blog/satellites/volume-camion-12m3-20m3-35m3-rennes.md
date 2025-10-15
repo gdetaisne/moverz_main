@@ -12,9 +12,11 @@ publish_date: "2025-11-06"
 author: "Équipe Moverz Rennes"
 ---
 
-Choisir le bon volume de camion à Rennes évite double rotation (perte temps, double essence) ou camion surdimensionné (surcoût 20-40€). Règle : studio/T1 = 12m³ (50-70€/jour Leclerc), T2/petit T3 = 20m³ (80€), T3/T4 = 35m³ (120€). Sous-dimensionner coûte plus cher (2ème rotation + essence 30-50€) que surdimensionner (surcoût 10-20€).
+Choisir le bon volume de camion à Rennes évite double rotation (perte temps, double essence) ou camion surdimensionné (surcoût 20-40€). Règle : studio/T1 = 12m³ (50-70€/jour Leclerc), T2/petit T3 = 20m³ (80€), T3/T4 = 35m³ (120€). Sous-dimensionner coûte plus cher (2ème rotation + essence 30-50€) que surdimensionner (surcoût 10-20€). Ces éléments s'inscrivent dans le contexte plus large de notre [louer un camion pour déménager à Rennes](/blog/demenagement-rennes/location-camion-demenagement-rennes).
 
 ## Correspondances Volume/Logement
+
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide location camion déménagement Rennes](/blog/demenagement-rennes/location-camion-demenagement-rennes).
 
 | Logement | Volume Affaires | Camion Recommandé | Prix Leclerc Rennes |
 |----------|-----------------|-------------------|---------------------|
@@ -48,6 +50,8 @@ Volume camion Rennes : 12m³ studio (50-70€), 20m³ T2/T3 (80€), 35m³ T4/ma
 
 **35m³ pour T3 ?**
 Si mobilier complet + nombreux cartons oui. Si T3 léger, 20m³ peut suffire.
+
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [location véhicule utilitaire Rennes](/blog/demenagement-rennes/location-camion-demenagement-rennes).
 
 ---
 **Sources :** Leclerc, Europcar, standards déménagement

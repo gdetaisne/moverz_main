@@ -17,6 +17,10 @@ author: "Équipe Moverz Montpellier"
 
 # Petit Déménagement DIY à Montpellier : Guide Économique
 
+
+Pour comprendre tous les aspects du petit déménagement à Montpellier, consultez notre [guide petit déménagement Montpellier](/blog/petit-demenagement-montpellier/petit-demenagement-montpellier).
+
+
 Déménager vous-même un studio montpelliérain coûte 80-150€ (location Kangou 40-60€ + carburant 10-20€ + repas amis 30-50€) contre 250-500€ avec un déménageur professionnel. L'économie de 200-400€ justifie largement les 3-4h d'efforts si vous êtes en bonne forme physique et avez 2-3 amis disponibles.
 
 Pour les 70 000 étudiants montpelliérains au budget serré, le DIY représente souvent la seule option viable. Entre les studios de Boutonnet (450-550€/mois de loyer), les chambres des Hôpitaux-Facultés (350-500€), et les petits T1 des Beaux-Arts (500-600€), consacrer 300-400€ à un déménageur équivaudrait à un mois de loyer - inacceptable pour un budget étudiant.

@@ -33,11 +33,19 @@ Petit déménagement Rennes (chambre étudiante, studio <15m³) : **auto 80-120�
 
 ## FAQ
 
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide petit déménagement Rennes](/blog/demenagement-rennes/petit-demenagement-rennes).
+
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide petit déménagement Rennes](/blog/demenagement-rennes/petit-demenagement-rennes).
+
 **Prix chambre étudiant Rennes ?**
 Auto 80-120€, pros 200-350€. Auto économise 60-70%.
 
 **Kangoo suffit ?**
 Oui pour chambre/petit studio <15m³ (lit + bureau + 20 cartons).
+
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [solutions petit déménagement économique Rennes](/blog/demenagement-rennes/petit-demenagement-rennes).
+
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [solutions petit déménagement économique Rennes](/blog/demenagement-rennes/petit-demenagement-rennes).
 
 ---
 **Sources :** Leclerc, fiche Rennes étudiants

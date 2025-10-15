@@ -17,6 +17,10 @@ author: "Équipe Moverz Montpellier"
 
 # Petit Déménagement Rapide à Montpellier : Urgence et Disponibilité
 
+
+Pour comprendre tous les aspects du petit déménagement à Montpellier, consultez notre [guide petit déménagement Montpellier](/blog/petit-demenagement-montpellier/petit-demenagement-montpellier).
+
+
 Un déménagement urgent à Montpellier (demande J+1 ou J+2) génère un surcoût de 30-50% par rapport aux tarifs standards avec réservation 1-2 semaines à l'avance. Un studio qui coûterait 300€ en normal grimpe à 400-450€ en urgence, et une chambre étudiante passe de 200€ à 260-300€.
 
 Ce surcoût s'explique par la réorganisation du planning du déménageur (annulation/décalage d'autres clients), l'impossibilité d'optimiser les trajets, et le risque pris (client payant habituellement mieux = manque à gagner).

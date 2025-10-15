@@ -11,7 +11,7 @@ publish_date: "2025-05-01"
 author: "Équipe Moverz Nantes"
 ---
 
-Déménagement chambre colocation Nantes (12m², mobilier lit 140 + bureau + étagère Billy + 20-35 cartons vêtements/livres/affaires personnelles = **8-15m³** vs studio complet 15-20m³, cuisine/salon communs exclus vs studios incluent) : coût **250-600€** selon solutions (DIY location Kangoo 6m³ + ami 65-110€ si chambre minimaliste, petit transporteur forfait chambre 180-350€, déménageur refuse ponctuels ou accepte 250-450€ minimums). **Groupages 3-4 colocataires** T3-T4 complet (déménagement simultané colocation entière = mobilier commun cuisine 15m³ + 4 chambres 12m³ chacune = 63m³ total, camion 40m³ nécessite 2 rotations ou dédiés, 4 porteurs 10-14h, coûts 1200-2000€ totaux ÷ 4 personnes = **300-500€/colocataire** vs chambres isolées 350-450€ = économie 50-150€ mutualisation).
+Déménagement chambre colocation Nantes (12m², mobilier lit 140 + bureau + étagère Billy + 20-35 cartons vêtements/livres/affaires personnelles = **8-15m³** vs studio complet 15-20m³, cuisine/salon communs exclus vs studios incluent) : coût **250-600€** selon solutions (DIY location Kangoo 6m³ + ami 65-110€ si chambre minimaliste, petit transporteur forfait chambre 180-350€, déménageur refuse ponctuels ou accepte 250-450€ minimums). **Groupages 3-4 colocataires** T3-T4 complet (déménagement simultané colocation entière = mobilier commun cuisine 15m³ + 4 chambres 12m³ chacune = 63m³ total, camion 40m³ nécessite 2 rotations ou dédiés, 4 porteurs 10-14h, coûts 1200-2000€ totaux ÷ 4 personnes = **300-500€/colocataire** vs chambres isolées 350-450€ = économie 50-150€ mutualisation). Pour une vue d'ensemble complète, consultez notre [guide petit déménagement à Nantes](/blog/petit-demenagement-nantes/petit-demenagement-nantes-guide).
 
 À Nantes, **colocations = 18-25% logements étudiants** (vs studios 60-70%, résidences universitaires 10-15%), profil étudiants L2-M2 (20-26 ans, budgets 280-450€/mois chambres vs 420-650€ studios = économies loyers -33-45%), localisations **Chantenay T3-T4** (40-50% colocations, immeubles 1970-2000, loyers 800-1200€ = 200-400€/chambre 3-4 personnes), **Île Nantes T4-T5** (30-35%, récents 2010-2020, 1000-1500€ = 250-375€/chambre), **périphéries pavillons** (15-20%, Carquefou/Orvault, 900-1400€ = 225-350€/chambre jardins). Les déménagements colocations compliquent coordinations (4 colocataires = 4 plannings synchroniser dates ±1 sem. faisabilités 40-60% vs isolées 100%, partages frais négociations équitables 300-500€/personne acceptations 70-80% vs 20-30% litiges inégalités contributions perçues).
 
@@ -109,6 +109,9 @@ Les spécificités (mobiliers communs laissés quote-parts 50-115€/personne < 
 
 Notre recommandation Nantes colocations : **Groupages coordonnés** si fins baux simultanées 3-4 (économies 150-300€ + efforts coordinations 2-4h acceptable vs 4h récupération cartons), **laissez mobiliers communs** (quote-parts 50-115€ < transports 120€ + rachats neufs 25-50€ destinations = économies 45-185€), **DIY chambre minimaliste** si <10m³ (Kangoo 65€ économie 185-385€ vs transporteurs 250-450€), **transporteurs chambres 12-15m³** standards (180-350€ vs DIY Master 14m³ = 90€ économie faible 90-260€ efforts 6-10h parfois non-rentables si salariés valorisent temps 25€/h).
 
+
+Pour aller plus loin, explorez notre [guide petit déménagement à Nantes](/blog/petit-demenagement-nantes/petit-demenagement-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement studio](/blog/petit-demenagement-nantes/satellites/demenagement-studio-nantes-prix) et [prix déménagement T1](/blog/petit-demenagement-nantes/satellites/demenagement-t1-nantes-prix).
+
 ## Questions Fréquentes
 
 ### Combien coûte déménager chambre colocation Nantes ?
@@ -142,5 +145,4 @@ Paradoxe apparent : Groupé 350-450€ > isolés 280-400€ = surcoût +70-50€
 Économie réelle groupé : -50 à -150€ selon négociations (mobiliers communs vendus vs transportés, distances moyennées vs réelles inégales = redistributions solidarités). Avantages non-financiers : Jour unique (vs 4 jours planifications), entraide (vs isolements), convivialités (vs stress).
 
 Faisabilité : 25-35% colocations groupent fins baux (vs 65-75% échelonnées impossibilités synchronisations), économies 150-300€ motivent + logistiques simplifiées.
-
 

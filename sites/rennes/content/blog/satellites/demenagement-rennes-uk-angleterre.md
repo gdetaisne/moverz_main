@@ -24,11 +24,19 @@ Rennes→UK post-Brexit (depuis 2021) : formalités douanières renforcées (sor
 
 ## FAQ
 
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide déménagement international depuis Rennes](/blog/demenagement-rennes/demenagement-international-rennes).
+
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide déménagement international depuis Rennes](/blog/demenagement-rennes/demenagement-international-rennes).
+
 **Brexit complique déménagement ?**
 Oui, formalités douanières renforcées (inventaire détaillé, taxes si <12 mois séjour). Transitaire obligatoire.
 
 **Prix Rennes Londres ?**
 2500-3500€ (30m³), 2-3 semaines délai.
+
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [expatriation et déménagement international Rennes](/blog/demenagement-rennes/demenagement-international-rennes).
+
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [expatriation et déménagement international Rennes](/blog/demenagement-rennes/demenagement-international-rennes).
 
 ---
 **Sources :** Transitaires, douanes UK/France

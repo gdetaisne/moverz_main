@@ -17,6 +17,26 @@ featured: true
 
 Vous partez depuis Montpellier pour une expatriation professionnelle en Allemagne, un projet de vie en Espagne, une opportunité en Guadeloupe ou en outre-mer, ou au contraire vous vous installez dans la capitale de l'Hérault depuis l'étranger ? Le déménagement international représente un projet complexe nécessitant une expertise spécifique, une planification rigoureuse, et une parfaite maîtrise des formalités douanières. Ce guide complet vous accompagne dans toutes les étapes de votre déménagement international depuis ou vers Montpellier.
 
+## 📚 Notre Dossier Complet Déménagement International Montpellier
+
+**Formalités et Organisation :**
+- [Formalités douanières déménagement international](/blog/demenagement-international-montpellier/satellites/formalites-douanieres-demenagement-international) - Documents, déclarations, droits
+- [Checklist déménagement international](/blog/demenagement-international-montpellier/satellites/checklist-demenagement-international) - 3 mois avant, 1 mois, J-jour
+- [Délais déménagement international](/blog/demenagement-international-montpellier/satellites/delais-demenagement-international) - Maritime 4-8 semaines, aérien 1-3 semaines
+
+**Transport et Conteneurs :**
+- [Conteneur déménagement international Montpellier](/blog/demenagement-international-montpellier/satellites/conteneur-demenagement-international-montpellier) - 20 pieds vs 40 pieds, groupage
+- [Déménagement maritime vs aérien comparatif](/blog/demenagement-international-montpellier/satellites/demenagement-maritime-aerien-montpellier-comparatif) - Coûts, délais, avantages
+
+**Destinations et Services :**
+- [Déménagement Europe depuis Montpellier](/blog/demenagement-international-montpellier/satellites/demenagement-europe-montpellier) - Espagne, Allemagne, Italie, UK
+- [Déménagement DOM-TOM depuis Montpellier](/blog/demenagement-international-montpellier/satellites/demenagement-dom-tom-montpellier) - Guadeloupe, Martinique, Réunion, Guyane
+- [Choisir déménageur international Montpellier](/blog/demenagement-international-montpellier/satellites/choisir-demenageur-international-montpellier) - Licences, certifications, avis
+
+**Assurance et Coûts :**
+- [Assurance déménagement international](/blog/demenagement-international-montpellier/satellites/assurance-demenagement-international) - Tous risques vs basique, franchises
+- [Prix déménagement international Montpellier](/blog/demenagement-international-montpellier/satellites/prix-demenagement-international-montpellier) - Fourchettes par destination, volume
+
 ## Pourquoi un déménagement international est-il différent ?
 
 Un déménagement international présente des défis uniques comparé à un déménagement national ou local à Montpellier.

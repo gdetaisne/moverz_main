@@ -10,7 +10,7 @@ publish_date: "2025-02-14"
 author: "Équipe Moverz Strasbourg"
 ---
 
-Déménager au 3ème étage sans ascenseur à Krutenau nécessite monte-meuble. Avec 50-60% du patrimoine strasbourgeois construit avant 1950 (immeubles anciens Grande Île, Krutenau, Neudorf = majorité sans ascenseur), le monte-meuble extérieur devient indispensable.
+Déménager au 3ème étage sans ascenseur à Krutenau nécessite monte-meuble. Avec 50-60% du patrimoine strasbourgeois construit avant 1950 (immeubles anciens Grande Île, Krutenau, Neudorf = majorité sans ascenseur), le monte-meuble extérieur devient indispensable. Pour une vue complète, consultez notre [guide déménageur professionnel à Strasbourg](/blog/demenagement-strasbourg/demenageur-strasbourg).
 
 Ce guide détaille : quand nécessaire (2ème étage+, escaliers étroits <1m), quartiers Strasbourg concernés (Centre UNESCO 100%, Krutenau 80%, Neudorf 50%), surcoût (+100-200€ selon étages), process (autorisation fenêtre, installation 30-60 min), et acteurs strasbourgeois équipés (Seegmuller, IVENS, Lux).
 

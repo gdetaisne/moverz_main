@@ -11,7 +11,7 @@ publish_date: "2025-03-09"
 author: "Équipe Moverz Nantes"
 ---
 
-Votre mobilier nantais complet (T2 50m², valeur 12 000-15 000€) embarque sur un conteneur Le Havre-Shanghai : six semaines de transit maritime, trois manutentions (Nantes-Le Havre, Le Havre-navire, navire-Shanghai-domicile), dix mille kilomètres de traversée avec tempêtes potentielles Pacifique, et douanes chinoises méticuleuses. Sans assurance tous risques, un incident (rare, 2-3% des traversées selon stats secteur, mais non nul) signifie perte totale de 12 000-15 000€ de patrimoine mobilier sans indemnisation.
+Votre mobilier nantais complet (T2 50m², valeur 12 000-15 000€) embarque sur un conteneur Le Havre-Shanghai : six semaines de transit maritime, trois manutentions (Nantes-Le Havre, Le Havre-navire, navire-Shanghai-domicile), dix mille kilomètres de traversée avec tempêtes potentielles Pacifique, et douanes chinoises méticuleuses. Sans assurance tous risques, un incident (rare, 2-3% des traversées selon stats secteur, mais non nul) signifie perte totale de 12 000-15 000€ de patrimoine mobilier sans indemnisation. Pour une vue d'ensemble complète, consultez notre [guide déménagement international depuis Nantes](/blog/demenagement-international-nantes/demenagement-international-nantes-guide).
 
 À Nantes, AGS Déménagement Orvault (19 rue Léon Gaumont, réseau 141 pays) et Demidov recommandent systématiquement l'assurance tous risques internationale : **+2-5% du coût total déménagement**, soit 300-750€ pour un T2 (sur facture 10 000-15 000€). Cette protection couvre tempêtes, naufrages (extrêmement rares, 0,01% mais >0), vols portuaires (incidents occasionnels Shanghai, New York), casse manutentions multiples (taux 5-8% si emballage insuffisant), et confiscations douanes (erreurs documentaires, produits interdits non intentionnels).
 
@@ -212,6 +212,9 @@ Les trois acteurs nantais spécialisés (AGS Orvault inclut parfois formule Prem
 
 Notre recommandation finale Nantes internationaux : Souscrivez TOUJOURS tous risques (400-800€ = 3-5% patrimoine mobilier, ratio excellent), déclarez valeurs honnêtement (facilite sinistres), privilégiez franchise 500€ (prime +80€ vs 1000€ mais sinistres 500-1000€ couverts), et ne tentez JAMAIS économie assurance (500€) vs risque perte totale 15 000€ (espérance 450€ certes, mais variance énorme 0-15k€ = insupportable vs prime fixe 500€ douleur prévisible modérée).
 
+
+Pour aller plus loin, explorez notre [guide déménagement international depuis Nantes](/blog/demenagement-international-nantes/demenagement-international-nantes-guide) ainsi que nos guides complémentaires : [déménagement vers USA et Canada](/blog/demenagement-international-nantes/satellites/demenagement-nantes-usa-canada) et [déménagement vers UK post-Brexit](/blog/demenagement-international-nantes/satellites/demenagement-nantes-uk-post-brexit).
+
 ## Questions Fréquentes
 
 ### L'assurance est-elle obligatoire pour un déménagement international ?
@@ -245,7 +248,4 @@ Retards <30 jours : aucune indemnité (tolérances normales, maritime J+30 à J+
 **Assurance tierce** (Allianz Expat, AXA International, souscription séparée) : +2,5-4% potentiellement (économie 50-150€). Inconvénient : coordination complexe (2 contrats, sinistre = déménageur dit "pas ma faute", assureur dit "prouvez faute déménageur" = ping-pong 2-4 mois).
 
 **Nantes** : 90% clients privilégient assurance déménageur (AGS/Demidov intégrée) pour simplicité vs 10% comparent assureurs tiers (économie 100€ possible mais complexité). Recommandation : Intégrée sauf si vous êtes expert assurances (comprenez clauses, capable gérer sinistre multi-interlocuteurs) ET économie >200€ justifie efforts.
-
-
-
 

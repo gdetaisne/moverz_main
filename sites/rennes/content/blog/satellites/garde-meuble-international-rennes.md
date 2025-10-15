@@ -17,7 +17,7 @@ Expatriation depuis Rennes avec décalage (visas, recherche logement destination
 **Scénario Type :**
 1. Libération logement Rennes (juillet)
 2. Départ expatrié seul USA (août, recherche appartement sur place)
-3. Stockage affaires Locakase 6m² : 70-90€/mois × 3 mois = 210-270€
+3. Stockage affaires Locakase 6m² : 70-90€/mois × 3 mois = 210-270€ Ces éléments s'inscrivent dans le contexte plus large de notre [déménager à l'étranger depuis Rennes](/blog/demenagement-rennes/demenagement-international-rennes).
 4. Adresse USA confirmée (octobre)
 5. Envoi conteneur depuis box Locakase (transitaire récupère)
 
@@ -25,11 +25,15 @@ Expatriation depuis Rennes avec décalage (visas, recherche logement destination
 
 ## FAQ
 
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide déménagement international depuis Rennes](/blog/demenagement-rennes/demenagement-international-rennes).
+
 **Stockage combien avant expatriation ?**
 44-180€/mois Rennes (Locakase, Homebox). 1-6 mois selon délais visas/logement destination.
 
 **Transitaire récupère box ?**
 Oui, coordonnez avec transitaire (empotage conteneur depuis garde-meuble Rennes possible).
+
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [expatriation et déménagement international Rennes](/blog/demenagement-rennes/demenagement-international-rennes).
 
 ---
 **Sources :** Locakase, Homebox, transitaires

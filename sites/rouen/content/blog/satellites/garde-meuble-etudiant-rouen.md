@@ -35,7 +35,7 @@ Le **pic de demande majeur** survient en juin-juillet lorsque les étudiants qui
 
 ### Stages et Césures (3-12 Mois)
 
-Les **stages longs** (4-6 mois) ou **césures à l'étranger** (Erasmus, année gap) nécessitent stocker vos affaires à Rouen pendant votre absence. Plutôt que de résilier votre logement étudiant et tout rapatrier (avec incertitude de retrouver logement équivalent au retour), le stockage maintient vos affaires à Rouen accessibles au retour.
+Les **stages longs** (4-6 mois) ou **césures à l'étranger** (Erasmus, année gap) nécessitent stocker vos affaires à Rouen pendant votre absence. Plutôt que de résilier votre logement étudiant et tout rapatrier (avec incertitude de retrouver logement équivalent au retour), le stockage maintient vos affaires à Rouen accessibles au retour. Pour comprendre tous les types de stockage disponibles, consultez notre [guide complet du garde-meuble à Rouen](/blog/garde-meuble-rouen/garde-meuble-rouen-guide-complet).
 
 Un box de **3m²** (70-100€/mois à Rouen) suffit pour un studio complet avec tri sévère : 15-20 cartons essentiels, lit démonté, quelques meubles légers. Sur 6 mois de stage Paris, budget 420-600€ vs coût double déménagement aller-retour Rouen (600-1000€ minimum).
 

@@ -17,6 +17,10 @@ author: "Équipe Moverz Montpellier"
 
 # Délais Déménagement International : Combien de Temps Prévoir ?
 
+
+Pour comprendre tous les aspects du déménagement international Montpellier, consultez notre [guide déménagement international depuis Montpellier](/blog/demenagement-international-montpellier/demenagement-international-montpellier).
+
+
 Les délais d'un déménagement international varient de 3 jours (routier Europe proche) à 14 semaines (maritime Pacifique), soit un écart de 1 à 12 selon le mode de transport et la destination. Pour un Montpelliérain planifiant son expatriation, anticiper correctement ces délais évite de vivre plusieurs mois sans mobilier ou de devoir repousser son départ professionnel.
 
 Un déménagement de Montpellier vers l'Espagne prend 5-7 jours en routier, idéal pour une mutation rapide. Un envoi vers les États-Unis nécessite 8-10 semaines en maritime, imposant de vivre 2-3 mois avec les bagages d'avion uniquement. Vers l'Australie, comptez 11-13 semaines, soit 3 mois complets sans vos affaires.

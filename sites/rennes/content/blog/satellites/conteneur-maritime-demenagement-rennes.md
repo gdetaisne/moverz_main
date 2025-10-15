@@ -22,11 +22,19 @@ Conteneur maritime déménagement international depuis Rennes : **20 pieds (30m�
 
 ## FAQ
 
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide déménagement international depuis Rennes](/blog/demenagement-rennes/demenagement-international-rennes).
+
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide déménagement international depuis Rennes](/blog/demenagement-rennes/demenagement-international-rennes).
+
 **Conteneur 20 pieds combien m³ ?**
 ~30m³ exploitables (charge max 28 tonnes). T2/T3 typique.
 
 **Prix conteneur Rennes USA ?**
 20 pieds : 5000-8000€ (6-10 semaines). 40 pieds : 10-15k€.
+
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [expatriation et déménagement international Rennes](/blog/demenagement-rennes/demenagement-international-rennes).
+
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [expatriation et déménagement international Rennes](/blog/demenagement-rennes/demenagement-international-rennes).
 
 ---
 **Sources :** Transitaires maritimes

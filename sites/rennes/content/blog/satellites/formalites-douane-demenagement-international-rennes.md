@@ -12,9 +12,11 @@ publish_date: "2025-12-12"
 author: "Équipe Moverz Rennes"
 ---
 
-Douane déménagement international Rennes : **inventaire détaillé** (liste objets + valeurs), **attestation résidence** pays destination, **passeport/visas** valides, **certificat déménagement** (prouve biens personnels, évite droits importation neufs). UK post-Brexit complexe (formalités renforcées). USA : inventaire anglais valorisé. Transitaires internationaux/ABC Lemarié gèrent démarches (inclus service 2000-15000€).
+Douane déménagement international Rennes : **inventaire détaillé** (liste objets + valeurs), **attestation résidence** pays destination, **passeport/visas** valides, **certificat déménagement** (prouve biens personnels, évite droits importation neufs). UK post-Brexit complexe (formalités renforcées). USA : inventaire anglais valorisé. Transitaires internationaux/ABC Lemarié gèrent démarches (inclus service 2000-15000€). Ces éléments s'inscrivent dans le contexte plus large de notre [déménager à l'étranger depuis Rennes](/blog/demenagement-rennes/demenagement-international-rennes).
 
 ## Documents Obligatoires
+
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide déménagement international depuis Rennes](/blog/demenagement-rennes/demenagement-international-rennes).
 
 ✅ Inventaire détaillé (français + anglais si USA/UK)  
 ✅ Valeurs estimées (assurance + douane)  
@@ -42,6 +44,8 @@ Inventaire valorisé, passeport, visa/résidence, certificat déménagement.
 
 **UK post-Brexit difficile ?**
 Oui, formalités renforcées (inventaire détaillé, taxes si <12 mois séjour). Transitaire recommandé.
+
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [expatriation et déménagement international Rennes](/blog/demenagement-rennes/demenagement-international-rennes).
 
 ---
 **Sources :** Douanes France/UK/USA, transitaires

@@ -17,6 +17,29 @@ featured: true
 
 # Déménagement International Nantes : L'Expertise pour Votre Projet d'Expatriation
 
+## 📚 Dans ce dossier : Déménagement International depuis Nantes
+
+Tous nos guides pour déménager à l'étranger depuis Nantes :
+
+### Destinations
+- [Déménagement vers USA et Canada](/blog/demenagement-international-nantes/satellites/demenagement-nantes-usa-canada) : Amérique du Nord
+- [Déménagement vers UK post-Brexit](/blog/demenagement-international-nantes/satellites/demenagement-nantes-uk-post-brexit) : Royaume-Uni
+- [Déménagement vers l'Asie](/blog/demenagement-international-nantes/satellites/demenagement-nantes-asie) : Chine, Japon, Singapour
+
+### Aspects Financiers
+- [Prix déménagement international](/blog/demenagement-international-nantes/satellites/prix-demenagement-international-nantes) : Tarifs 2025
+- [Assurance internationale](/blog/demenagement-international-nantes/satellites/assurance-demenagement-international-nantes) : Protection optimale
+
+### Formalités
+- [Formalités douanières](/blog/demenagement-international-nantes/satellites/formalites-douanes-demenagement-international-nantes) : Documents obligatoires
+- [Délais d'acheminement](/blog/demenagement-international-nantes/satellites/delais-demenagement-international-nantes) : Planification
+
+### Transport
+- [Groupage international](/blog/demenagement-international-nantes/satellites/groupage-international-demenagement-nantes) : Économiser en groupage
+- [Maritime vs Aérien](/blog/demenagement-international-nantes/satellites/transport-maritime-vs-aerien-demenagement-nantes) : Quel mode choisir ?
+- [Expédier un véhicule](/blog/demenagement-international-nantes/satellites/vehicule-demenagement-international-nantes) : Voiture à l'étranger
+
+
 Déménager à l'international depuis ou vers Nantes représente une aventure passionnante mais complexe. Que vous partiez pour une opportunité professionnelle à l'étranger, que vous rentriez en France après une expatriation, ou que vous vous installiez à Nantes depuis un autre pays, ce guide complet vous accompagne dans toutes les étapes de votre projet. De la planification à la livraison finale, découvrez comment organiser sereinement votre déménagement international depuis la capitale des Pays de la Loire.
 
 ## Pourquoi un déménagement international est une démarche unique ?
@@ -397,6 +420,12 @@ Nantes, grâce à sa proximité avec le port de Saint-Nazaire et son aéroport i
 
 ---
 
+
+## 🔗 Pour aller plus loin
+
+**Guides complémentaires utiles :**
+- [Garde-meuble temporaire](/blog/garde-meuble-nantes/garde-meuble-nantes-guide-complet) : Stocker entre deux pays
+- [Déménageur spécialisé](/blog/demenageur-nantes/demenageur-nantes-guide-complet) : Professionnels internationaux
 ## FAQ : Déménagement International depuis Nantes
 
 ### Combien de temps à l'avance organiser son déménagement international depuis Nantes ?

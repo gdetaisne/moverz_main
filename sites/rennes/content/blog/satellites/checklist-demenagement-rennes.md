@@ -43,11 +43,19 @@ Checklist déménagement Rennes complète : **3 mois avant** (préavis bail 3 mo
 
 ## FAQ
 
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide aide au déménagement à Rennes](/blog/demenagement-rennes/aide-demenagement-rennes).
+
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide aide au déménagement à Rennes](/blog/demenagement-rennes/aide-demenagement-rennes).
+
 **Quand commencer préparer déménagement ?**
 3 mois avant (préavis bail), 1 mois organisation (camion, cartons, tri), J-7 emballage.
 
 **Combien temps emballage T2 ?**
 1-2 jours (si organisé pièce par pièce, 40-50 cartons).
+
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [aides financières et pratiques déménagement Rennes](/blog/demenagement-rennes/aide-demenagement-rennes).
+
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [aides financières et pratiques déménagement Rennes](/blog/demenagement-rennes/aide-demenagement-rennes).
 
 ---
 **Sources :** Pratiques déménagement, réglementation

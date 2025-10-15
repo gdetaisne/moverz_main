@@ -11,7 +11,7 @@ publish_date: "2025-03-13"
 author: "Équipe Moverz Nantes"
 ---
 
-L'offre d'emploi New York est signée, ou votre mutation Montréal confirmée par votre employeur nantais (Airbus, STX France, entreprises relations Amérique Nord). Déménager vos affaires de Nantes (323 000 habitants, métropole 656 000) vers un continent à 5500-6000 km représente l'un des projets logistiques les plus complexes : 10 000-15 000€ de budget pour un T2 (30m³ maritime), 8-20 semaines délais visa américain/canadien, formulaires douanes de 6 pages en anglais (3299 USA, BSF186 Canada), 6 semaines transit maritime Nantes-New York, et 12-18 manutentions successives (Nantes-camion-Le Havre-conteneur-navire-NY port-douanes-camion-domicile).
+L'offre d'emploi New York est signée, ou votre mutation Montréal confirmée par votre employeur nantais (Airbus, STX France, entreprises relations Amérique Nord). Déménager vos affaires de Nantes (323 000 habitants, métropole 656 000) vers un continent à 5500-6000 km représente l'un des projets logistiques les plus complexes : 10 000-15 000€ de budget pour un T2 (30m³ maritime), 8-20 semaines délais visa américain/canadien, formulaires douanes de 6 pages en anglais (3299 USA, BSF186 Canada), 6 semaines transit maritime Nantes-New York, et 12-18 manutentions successives (Nantes-camion-Le Havre-conteneur-navire-NY port-douanes-camion-domicile). Pour une vue d'ensemble complète, consultez notre [guide déménagement international depuis Nantes](/blog/demenagement-international-nantes/demenagement-international-nantes-guide).
 
 À Nantes, AGS Déménagement Orvault (19 rue Léon Gaumont, réseau 141 pays incluant bureaux New York, Montréal, Toronto, Los Angeles, Chicago) organise 40-60 déménagements annuels Nantes-Amérique Nord. Demidov Nantes (spécialiste international) et Alliance LG complètent l'offre. Les trois proposent une assistance complète USA/Canada (+500-700€) : formulaires douanes 3299/BSF186 (6 pages techniques anglais), inventaires 300+ lignes conformes exigences US Customs/CBSA canadienne, coordinations visa (partenaires immigration), et continuité via bureaux destination (AGS New York réceptionne conteneur, facilite douanes US).
 
@@ -206,6 +206,9 @@ Les acteurs nantais spécialisés (AGS Orvault réseau USA/Canada bureaux NYC/MT
 
 Notre recommandation finale Nantes-Amérique Nord : Anticipez **5-6 mois** minimum (janvier annonce → juillet arrivée sécurité), déléguez assistance AGS/Demidov formalités (+500-700€ = ROI positif vs DIY risques), choisissez maritime (10-12k€ vs aérien 30k€ absurde), vendez électroménager FR 220V Nantes/rachetez US 110V destination (économie transport 1000-1500€ + appareils neufs garanties locales), et synchronisez arrivée personnelle + conteneur (écart <1 semaine idéal vs 4 semaines = meublé temporaire 2500-3000$).
 
+
+Pour aller plus loin, explorez notre [guide déménagement international depuis Nantes](/blog/demenagement-international-nantes/demenagement-international-nantes-guide) ainsi que nos guides complémentaires : [déménagement vers UK post-Brexit](/blog/demenagement-international-nantes/satellites/demenagement-nantes-uk-post-brexit) et [déménagement vers l'Asie](/blog/demenagement-international-nantes/satellites/demenagement-nantes-asie).
+
 ## Questions Fréquentes
 
 ### Combien coûte un déménagement T2 de Nantes vers New York ?
@@ -237,7 +240,4 @@ Inconvénients Canada : Climat (Montréal/Toronto hivers -15-25°C vs NYC -5-10�
 **5-6 mois complets** sécurité (janvier annonce → juin/juillet arrivée). Visa 12-20 sem., documents douanes 3-6 sem., transport 6-8 sem. = **21-34 semaines** (5-8 mois range, moyenne 24 sem. = 6 mois).
 
 Urgences (<3 mois) : Aérien uniquement (délai 2-3 sem., coût 25-30k€ T2 vs maritime 10-12k€, surcoût +15-18k€ pour gagner 4-6 sem.). Mutations corporate urgentes (employeur paie) : aérien acceptable. Mutations perso (vous payez) : refusez urgence <3 mois (impossible maritime = surcoût aérien 18k€ ruineux), négociez report départ employeur (vs AGS Orvault : "20% clients USA tentent process 3 mois = rush, 70% réussissent avec stress maximal + surcoûts urgence +2-3k€, 30% échouent = retard arrivée ou aérien forcé. Minimum vital 4 mois, sécurité 5-6 mois").
-
-
-
 
