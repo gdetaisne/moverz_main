@@ -1,11 +1,54 @@
 import { MetadataRoute } from 'next'
 import { getAllBlogPosts } from '@/lib/blog'
+import fs from 'fs'
+import path from 'path'
+import matter from 'gray-matter'
+
+// Fonction locale pour lire SEULEMENT les articles de Rennes
+function getRennesBlogPosts() {
+  const blogDirectory = path.join(process.cwd(), 'content/blog')
+  
+  if (!fs.existsSync(blogDirectory)) {
+    console.warn('Blog directory not found:', blogDirectory)
+    return []
+  }
+  
+  const categories = fs.readdirSync(blogDirectory, { withFileTypes: true })
+    .filter(dirent => dirent.isDirectory())
+    .map(dirent => dirent.name)
+
+  const allPosts: any[] = []
+
+  categories.forEach(category => {
+    const categoryPath = path.join(blogDirectory, category)
+    const files = fs.readdirSync(categoryPath)
+      .filter(file => file.endsWith('.md') && file !== 'README.md')
+
+    files.forEach(file => {
+      const filePath = path.join(categoryPath, file)
+      const fileContents = fs.readFileSync(filePath, 'utf8')
+      const { data } = matter(fileContents)
+
+      allPosts.push({
+        slug: data.slug || file.replace('.md', ''),
+        title: data.title,
+        category: category,
+        type: data.type || 'satellite',
+        publish_date: data.publish_date || data.date || new Date().toISOString().split('T')[0],
+        cleanCategory: category.replace('-rennes', ''),
+        cleanSlug: file.replace('.md', '').replace('-rennes', '')
+      })
+    })
+  })
+
+  return allPosts.sort((a, b) => new Date(b.publish_date).getTime() - new Date(a.publish_date).getTime())
+}
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://devis-demenageur-rennes.fr'
   
-  // Récupérer tous les articles de blog
-  const blogPosts = getAllBlogPosts()
+  // Récupérer SEULEMENT les articles de blog de Rennes
+  const blogPosts = getRennesBlogPosts()
   
   // Pages statiques
   const staticPages: MetadataRoute.Sitemap = [
