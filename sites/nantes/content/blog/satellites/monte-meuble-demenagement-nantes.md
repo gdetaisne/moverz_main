@@ -87,7 +87,7 @@ Les locations (Loxam/Kiloutou nacelles CACES R486 obligatoire pros formations 80
 Notre recommandation Nantes : **Diables électriques** objets 80-250 kg étages 3-6 accessibles escaliers ≥85 cm (locations 50-90€ économiques vs portages manuels 4 porteurs 300-450€, sécurités réduisent risques 35-50% → 5-10%), **nacelles extérieures** pianos/objets impossibles escaliers <85 cm ou >250 kg (investissements 500-1000€ obligatoires vs impossibilités alternatives), **déléguez pros** Alliance LG/AGS forfaits monte-meubles intégrés (surcoûts +400-800€ vs manuels mais CACES/autorisations/assurances gérées vs DIY impossibilités réglementaires particuliers nacelles).
 
 
-Pour aller plus loin, explorez notre [guide déménageur professionnel à Nantes](/blog/demenageur-nantes/demenageur-nantes-guide-complet) et notre guide sur [déménagement d'objets lourds](/blog/demenageur-nantes/satellites/demenagement-objets-lourds-nantes).
+Pour aller plus loin, explorez notre [guide déménageur professionnel à Nantes](/blog/demenageur-nantes/demenageur-nantes-guide-complet) et notre guide sur [déménagement d'objets lourds](/blog/demenageur-nantes/demenagement-objets-lourds-nantes).
 
 ## Questions Fréquentes
 

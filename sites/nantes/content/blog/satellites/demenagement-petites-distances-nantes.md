@@ -83,7 +83,7 @@ Les astuces spécifiques (voitures personnelles objets fragiles/précieux 0,3-0,
 Notre recommandation Nantes petites distances : **Négociez forfaits** -10-15% (Alliance LG 950€ → 808-855€ si comparaisons Demidov 850€ présentées = acceptent 70% vs exigent refus 30%), **rotations 2-3** si volumes limites 18-28m³ (Master 14m³ économies 100-180€ vs Ducato 20m³ uniques, mais distances <8 km sinon trajets annulent), **voitures personnelles** objets 800-3000€ valeurs (TV, électronique, précieux = protections optimales vs assurances déménageurs sous-évaluations 225-750€ couvertures pertes 575-2250€), **timing horaires creuses** 10h-15h (trafics fluides vs 8-9h/17-19h périphérique +15-40 min. = temps +0,50-1,30h × 35€ = surcoûts 18-46€ évités).
 
 
-Pour aller plus loin, explorez notre [guide petit déménagement à Nantes](/blog/petit-demenagement-nantes/petit-demenagement-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement studio](/blog/petit-demenagement-nantes/satellites/demenagement-studio-nantes-prix) et [prix déménagement T1](/blog/petit-demenagement-nantes/satellites/demenagement-t1-nantes-prix).
+Pour aller plus loin, explorez notre [guide petit déménagement à Nantes](/blog/petit-demenagement-nantes/petit-demenagement-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement studio](/blog/petit-demenagement-nantes/demenagement-studio-nantes-prix) et [prix déménagement T1](/blog/petit-demenagement-nantes/demenagement-t1-nantes-prix).
 
 ## Questions Fréquentes
 

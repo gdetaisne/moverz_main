@@ -26,8 +26,8 @@ Changer de logement à Nantes ou dans l'agglomération nantaise représente un m
 Pour approfondir certains aspects du déménagement professionnel à Nantes :
 
 ### Services Spécialisés
-- [Monte-meuble déménagement](/blog/demenageur-nantes/satellites/monte-meuble-demenagement-nantes) : Nécessaire pour les étages sans ascenseur
-- [Déménagement objets lourds](/blog/demenageur-nantes/satellites/demenagement-objets-lourds-nantes) : Piano, coffre-fort, aquarium
+- [Monte-meuble déménagement](/blog/demenageur-nantes/monte-meuble-demenagement-nantes) : Nécessaire pour les étages sans ascenseur
+- [Déménagement objets lourds](/blog/demenageur-nantes/demenagement-objets-lourds-nantes) : Piano, coffre-fort, aquarium
 
 ### Guides Complémentaires Utiles
 - [Prix déménagement Nantes](/blog/prix-demenagement-nantes/prix-demenagement-nantes-guide) : Estimation des tarifs

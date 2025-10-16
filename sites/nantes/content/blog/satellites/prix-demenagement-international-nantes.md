@@ -116,7 +116,7 @@ Les trois acteurs nantais spécialisés (AGS Orvault réseau 141 pays, Demidov a
 Notre recommandation Nantes : Demandez 2-3 devis (AGS + Demidov + comparateur international), précisez destination exacte + volume estimé + date souhaitée, vérifiez inclusions (assurance tous risques international +2-5% indispensable, emballage export si objets fragiles/valeur, garde-meuble Nantes si décalage dates 107-167€/mois), et anticipez 2-3 mois (process long vs local 3 semaines).
 
 
-Pour aller plus loin, explorez notre [guide déménagement international depuis Nantes](/blog/demenagement-international-nantes/demenagement-international-nantes-guide) ainsi que nos guides complémentaires : [déménagement vers USA et Canada](/blog/demenagement-international-nantes/satellites/demenagement-nantes-usa-canada) et [déménagement vers UK post-Brexit](/blog/demenagement-international-nantes/satellites/demenagement-nantes-uk-post-brexit).
+Pour aller plus loin, explorez notre [guide déménagement international depuis Nantes](/blog/demenagement-international-nantes/demenagement-international-nantes-guide) ainsi que nos guides complémentaires : [déménagement vers USA et Canada](/blog/demenagement-international-nantes/demenagement-nantes-usa-canada) et [déménagement vers UK post-Brexit](/blog/demenagement-international-nantes/demenagement-nantes-uk-post-brexit).
 
 ## Questions Fréquentes
 

@@ -207,7 +207,7 @@ Les acteurs nantais spécialisés (AGS Orvault réseau USA/Canada bureaux NYC/MT
 Notre recommandation finale Nantes-Amérique Nord : Anticipez **5-6 mois** minimum (janvier annonce → juillet arrivée sécurité), déléguez assistance AGS/Demidov formalités (+500-700€ = ROI positif vs DIY risques), choisissez maritime (10-12k€ vs aérien 30k€ absurde), vendez électroménager FR 220V Nantes/rachetez US 110V destination (économie transport 1000-1500€ + appareils neufs garanties locales), et synchronisez arrivée personnelle + conteneur (écart <1 semaine idéal vs 4 semaines = meublé temporaire 2500-3000$).
 
 
-Pour aller plus loin, explorez notre [guide déménagement international depuis Nantes](/blog/demenagement-international-nantes/demenagement-international-nantes-guide) ainsi que nos guides complémentaires : [déménagement vers UK post-Brexit](/blog/demenagement-international-nantes/satellites/demenagement-nantes-uk-post-brexit) et [déménagement vers l'Asie](/blog/demenagement-international-nantes/satellites/demenagement-nantes-asie).
+Pour aller plus loin, explorez notre [guide déménagement international depuis Nantes](/blog/demenagement-international-nantes/demenagement-international-nantes-guide) ainsi que nos guides complémentaires : [déménagement vers UK post-Brexit](/blog/demenagement-international-nantes/demenagement-nantes-uk-post-brexit) et [déménagement vers l'Asie](/blog/demenagement-international-nantes/demenagement-nantes-asie).
 
 ## Questions Fréquentes
 

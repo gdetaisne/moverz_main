@@ -180,7 +180,7 @@ Les formalités Nantes (carte grise export préfecture Loire-Atlantique 1-2 sem.
 Notre recommandation Nantes : **Vendez systématiquement** sauf (1) Destination UE Allemagne/Benelux/Espagne + véhicule récent <5 ans valeur >12k€ (export économise 2-4k€ vs racheter, CE zéro conversion), (2) USA/Canada + véhicule premium >25k€ + conversions vérifiées <4k€ (export économise 8-12k€ vs racheter US premium 35-45k$), (3) Collection classique >25 ans (exemptions normes, valeur sentimentale >financière). Pour 80-85% cas Nantes internationaux : vendre FR (Leboncoin 2-4 sem., mandataire 48h décote -15%) + acheter destination occasion ou louer 6-12 mois test = solution optimale (économie 5-15k€ vs export + flexibilité + véhicule adapté conduite locale UK droite, USA automatiques vs FR manuelles, garanties locales).
 
 
-Pour aller plus loin, explorez notre [guide déménagement international depuis Nantes](/blog/demenagement-international-nantes/demenagement-international-nantes-guide) ainsi que nos guides complémentaires : [déménagement vers USA et Canada](/blog/demenagement-international-nantes/satellites/demenagement-nantes-usa-canada) et [déménagement vers UK post-Brexit](/blog/demenagement-international-nantes/satellites/demenagement-nantes-uk-post-brexit).
+Pour aller plus loin, explorez notre [guide déménagement international depuis Nantes](/blog/demenagement-international-nantes/demenagement-international-nantes-guide) ainsi que nos guides complémentaires : [déménagement vers USA et Canada](/blog/demenagement-international-nantes/demenagement-nantes-usa-canada) et [déménagement vers UK post-Brexit](/blog/demenagement-international-nantes/demenagement-nantes-uk-post-brexit).
 
 ## Questions Fréquentes
 

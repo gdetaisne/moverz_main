@@ -171,7 +171,7 @@ Le marché nantais offre solutions à tous budgets : Annexx à 22€/mois pour s
 Nos recommandations finales : comparez 3-4 devis formule économique (RingTwice, Médard, Gentlemen), récupérez cartons gratuits supermarchés Nantes (Leclerc, Carrefour) économisant 60-90€, déménagez février-mars mardi-jeudi économisant 100-150€ vs septembre samedi, et calculez votre seuil effort/économie (DIY T2 économise 300€ mais nécessite 12-15h manutention lourde avec 3 amis – rentable si <30 ans et amis disponibles, questionnable si +40 ans ou isolé).
 
 
-Pour aller plus loin, explorez notre [guide déménagement pas cher à Nantes](/blog/demenagement-pas-cher-nantes/demenagement-pas-cher-nantes-guide) ainsi que nos guides complémentaires : [astuces pour réduire les coûts](/blog/demenagement-pas-cher-nantes/satellites/astuces-reduire-cout-demenagement-nantes) et [comparatif des formules économiques](/blog/demenagement-pas-cher-nantes/satellites/comparatif-formules-economiques-nantes).
+Pour aller plus loin, explorez notre [guide déménagement pas cher à Nantes](/blog/demenagement-pas-cher-nantes/demenagement-pas-cher-nantes-guide) ainsi que nos guides complémentaires : [astuces pour réduire les coûts](/blog/demenagement-pas-cher-nantes/astuces-reduire-cout-demenagement-nantes) et [comparatif des formules économiques](/blog/demenagement-pas-cher-nantes/comparatif-formules-economiques-nantes).
 
 ## Questions Fréquentes
 

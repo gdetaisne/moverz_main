@@ -236,7 +236,7 @@ AGS Déménagement Orvault et Demidov Nantes recommandent **rétro-planning depu
 Notre recommandation finale Nantes internationaux : Anticipez **minimum +50% délais transit purs** (transit 40j → planifiez 60j sécurité), déposez visa immédiatement annonce mutation (vs attendre préparatifs déménagement = perte 25-40% temps total process), et acceptez formule express AGS +800-1500€ uniquement si timing corporate critique imposé (vs budgets perso privilégient économie, flexibilité +3-4 sem. acceptable économise 1200€ = 2-3 mois loyer destination).
 
 
-Pour aller plus loin, explorez notre [guide déménagement international depuis Nantes](/blog/demenagement-international-nantes/demenagement-international-nantes-guide) ainsi que nos guides complémentaires : [déménagement vers USA et Canada](/blog/demenagement-international-nantes/satellites/demenagement-nantes-usa-canada) et [déménagement vers UK post-Brexit](/blog/demenagement-international-nantes/satellites/demenagement-nantes-uk-post-brexit).
+Pour aller plus loin, explorez notre [guide déménagement international depuis Nantes](/blog/demenagement-international-nantes/demenagement-international-nantes-guide) ainsi que nos guides complémentaires : [déménagement vers USA et Canada](/blog/demenagement-international-nantes/demenagement-nantes-usa-canada) et [déménagement vers UK post-Brexit](/blog/demenagement-international-nantes/demenagement-nantes-uk-post-brexit).
 
 ## Questions Fréquentes
 

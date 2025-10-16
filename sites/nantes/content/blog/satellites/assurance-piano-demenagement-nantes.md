@@ -169,7 +169,7 @@ Alliance LG et AGS Nantes proposent systématiquement ad valorem pianos >3000€
 Notre recommandation finale Nantes : Souscrivez ad valorem **obligatoirement pianos >5000€** (Yamaha U3 8k€, demi-queues 15-25k€, queues concert 30-60k€ = valeurs sous-assurance générique catastrophique perte 90-95%), acceptez surprimes 1,5-2,5% (200-1000€ = tranquillité casse totale récupération 96-98% valeurs vs 5-10% assurances génériques), photographiez pianos avant/après (preuves états vs litiges assureurs 20-30% sinistres), et expertisez luthiers préalablement pianos >20k€ anciens >30 ans (certificats états évitent réclamations assureurs "vices préexistants" refusant indemnisations 15-25% cas).
 
 
-Pour aller plus loin, explorez notre [guide déménagement piano à Nantes](/blog/demenagement-piano-nantes/demenagement-piano-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement piano](/blog/demenagement-piano-nantes/satellites/demenagement-piano-nantes-prix) et [déménagement piano à queue](/blog/demenagement-piano-nantes/satellites/demenagement-piano-queue-nantes).
+Pour aller plus loin, explorez notre [guide déménagement piano à Nantes](/blog/demenagement-piano-nantes/demenagement-piano-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement piano](/blog/demenagement-piano-nantes/demenagement-piano-nantes-prix) et [déménagement piano à queue](/blog/demenagement-piano-nantes/demenagement-piano-queue-nantes).
 
 ## Questions Fréquentes
 

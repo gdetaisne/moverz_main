@@ -19,7 +19,7 @@ Vous déménagez à Rouen avec un décalage entre la sortie de votre ancien loge
 
 Les situations générant ces décalages sont multiples à Rouen : vente d'un bien avant l'achat du suivant (délai moyen 2 mois entre signature et livraison neuf), travaux du nouveau logement retardant l'emménagement (1-3 mois courants), ou simplement fins de bail décalées (sortie 31 mars, nouvel appartement disponible 1er juin). Ces imprévus nécessitent une solution de stockage temporaire adaptée à la durée réelle.
 
-Ce guide détaille les **durées typiques de stockage pendant déménagement à Rouen**, compare les solutions disponibles (coûts, avantages, contraintes), et vous aide à choisir l'option la plus économique et pratique selon votre situation. Pour comprendre toutes les options, consultez [notre guide complet du garde-meuble à Rouen](/blog/demenagement-rouen/garde-meuble-rouen).
+Ce guide détaille les **durées typiques de stockage pendant déménagement à Rouen**, compare les solutions disponibles (coûts, avantages, contraintes), et vous aide à choisir l'option la plus économique et pratique selon votre situation. Pour comprendre toutes les options, consultez [notre guide complet du garde-meuble à Rouen](/blog/garde-meuble/garde-meuble-rouen-guide-complet).
 
 ## Durées Typiques de Stockage à Rouen
 
@@ -158,7 +158,7 @@ Plusieurs stratégies permettent de minimiser la durée réelle de stockage et r
 
 **Stockez le strict nécessaire** : Ne stockez pas vos affaires complètes si une partie peut rester à l'ancien logement (accord vendeur/propriétaire quelques jours supplémentaires) ou être temporairement chez proches Rouen. Un T2 rouennais peut parfois se réduire à un box 5m² (110€/mois au lieu de 10m² à 170€) si vous ne stockez que chambre + séjour en laissant cuisine en place. Économie : 60€/mois soit 180€ sur 3 mois.
 
-**Privilégiez périphérie Rouen** : Sotteville (Normandie Stockage 150€/mois pour 10m²) vs centre Saint-Sever (Une Pièce en Plus 170€/mois). Économie : 20€/mois × 3 mois = 60€. Pour 6 allers-retours (dépôt, 4 récupérations affaires, vidage final), trajets supplémentaires = 30km × 0,60€ = 18€ essence. Net : économie 42€, acceptable. Pour comparer toutes les solutions, consultez notre [guide complet du garde-meuble à Rouen](/blog/garde-meuble-rouen/garde-meuble-rouen-guide-complet).
+**Privilégiez périphérie Rouen** : Sotteville (Normandie Stockage 150€/mois pour 10m²) vs centre Saint-Sever (Une Pièce en Plus 170€/mois). Économie : 20€/mois × 3 mois = 60€. Pour 6 allers-retours (dépôt, 4 récupérations affaires, vidage final), trajets supplémentaires = 30km × 0,60€ = 18€ essence. Net : économie 42€, acceptable. Pour comparer toutes les solutions, consultez notre [guide complet du garde-meuble à Rouen](/blog/garde-meuble/garde-meuble-rouen-guide-complet).
 
 **Négociez engagement moyen** si durée certaine 3-4 mois : certains acteurs rouennais (Normandie Stockage, Box & Go) proposent remises **-5-8% sur engagement 3 mois**. Sur 3 mois à 150€, remise 7% = 139€/mois × 3 = 417€ vs 450€ sans engagement. Économie : 33€ pour engagement ferme 3 mois. Intéressant si durée certaine, risqué si incertitude (prolongation casse la remise).
 
@@ -168,7 +168,7 @@ La durée de stockage pendant déménagement à Rouen varie selon la situation :
 
 Pour les durées **≥ 1 mois**, le self-stockage (Normandie Stockage 150€/mois, Homebox 160€, Une Pièce en Plus 170€ pour box 10m²) devient nettement plus économique : 320-680€ sur 1-3 mois contre 400-1500€ en stockage déménageur, soit une économie de **200-820€**. L'accès 24/7 pendant toute la période permet de récupérer progressivement vos affaires au fur et à mesure que le nouveau logement se libère.
 
-Anticipez toujours une **marge de 30-50%** sur la durée estimée (travaux, délais administratifs), choisissez des solutions flexibles (self-stockage mensuel résiliable), et résiliez dès que possible pour optimiser les coûts. Découvrez toutes nos [solutions de stockage temporaire à Rouen](/blog/demenagement-rouen/garde-meuble-rouen).
+Anticipez toujours une **marge de 30-50%** sur la durée estimée (travaux, délais administratifs), choisissez des solutions flexibles (self-stockage mensuel résiliable), et résiliez dès que possible pour optimiser les coûts. Découvrez toutes nos [solutions de stockage temporaire à Rouen](/blog/garde-meuble/garde-meuble-rouen-guide-complet).
 
 ## Questions Fréquentes
 

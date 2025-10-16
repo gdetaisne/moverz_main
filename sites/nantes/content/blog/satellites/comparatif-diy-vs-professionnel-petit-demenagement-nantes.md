@@ -149,7 +149,7 @@ Les profils optimaux (DIY si budget <500€ + temps disponible + amis + expérie
 Notre recommandation finale Nantes petits déménagements : **DIY studios SI** budget <500€ + copains disponibles + expérience (économie nette 150-300€ réelle malgré 12h efforts acceptables jeunes 20-28 ans récupérations rapides), **pros T2+ ou salariés >4000€** (temps valorisations 24-35€/h × 15-20h DIY = 360-700€ coûts opportunités > économies 400-700€ brutes = pros économiquement rationnels malgré surcoûts apparents 400-800€).
 
 
-Pour aller plus loin, explorez notre [guide petit déménagement à Nantes](/blog/petit-demenagement-nantes/petit-demenagement-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement studio](/blog/petit-demenagement-nantes/satellites/demenagement-studio-nantes-prix) et [prix déménagement T1](/blog/petit-demenagement-nantes/satellites/demenagement-t1-nantes-prix).
+Pour aller plus loin, explorez notre [guide petit déménagement à Nantes](/blog/petit-demenagement-nantes/petit-demenagement-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement studio](/blog/petit-demenagement-nantes/demenagement-studio-nantes-prix) et [prix déménagement T1](/blog/petit-demenagement-nantes/demenagement-t1-nantes-prix).
 
 ## Questions Fréquentes
 

@@ -18,11 +18,11 @@ Le budget constitue souvent la première préoccupation lorsqu'on envisage un d�
 Découvrez tous nos guides détaillés sur les prix de déménagement à Rouen :
 
 ### Tarifs Détaillés par Type
-- **[Prix Déménageur Rouen 2025](/blog/prix-demenagement-rouen/prix-demenageur-rouen-2025)** : Tarifs complets par volume, distance et formule
+- **[Prix Déménageur Rouen 2025](/blog/prix/prix-demenageur-rouen-2025)** : Tarifs complets par volume, distance et formule
 - **[Coût Déménagement Local Rouen](/blog/prix-demenagement-rouen/cout-demenagement-local-rouen)** : Prix spécifiques agglomération rouennaise
 
 ### Services et Surcoûts
-- **[Monte-Meuble Prix Rouen](/blog/prix-demenagement-rouen/monte-meuble-demenagement-rouen-prix)** : Tarifs équipements spéciaux étages élevés
+- **[Monte-Meuble Prix Rouen](/blog/prix/monte-meuble-demenagement-rouen-prix)** : Tarifs équipements spéciaux étages élevés
 - **[Surcoûts Centre Historique](/blog/prix-demenagement-rouen/surcout-demenagement-centre-historique-rouen)** : Majorations Vieux-Rouen
 
 ### Solutions Économiques
@@ -426,7 +426,7 @@ Exigez un devis détaillé mentionnant explicitement toutes les prestations incl
 
 ### Tarifs et Estimations
 Optimisez votre budget déménagement :
-- **[Prix Déménageur Rouen 2025](/blog/prix-demenagement-rouen/prix-demenageur-rouen-2025)** - Grille tarifaire complète par prestations
+- **[Prix Déménageur Rouen 2025](/blog/prix/prix-demenageur-rouen-2025)** - Grille tarifaire complète par prestations
 - **[Budget Déménagement Planification](/blog/prix-demenagement-rouen/budget-demenagement-rouen-planification)** - Calculateur et postes cachés
 - **[Estimation Prix Rapide](/blog/prix-demenagement-rouen/estimation-prix-demenagement-rouen)** - Outils évaluation en ligne
 
@@ -437,7 +437,7 @@ Optimisez votre budget déménagement :
 
 ### Surcoûts et Services
 Anticipez les majorations :
-- **[Monte-Meuble Prix](/blog/prix-demenagement-rouen/monte-meuble-demenagement-rouen-prix)** - Tarifs équipements spéciaux
+- **[Monte-Meuble Prix](/blog/prix/monte-meuble-demenagement-rouen-prix)** - Tarifs équipements spéciaux
 - **[Surcoûts Centre Historique](/blog/prix-demenagement-rouen/surcout-demenagement-centre-historique-rouen)** - Majorations Vieux-Rouen
 - **[Assurance Déménagement](/blog/prix-demenagement-rouen/assurance-demenagement-rouen-prix)** - Couvertures et garanties
 

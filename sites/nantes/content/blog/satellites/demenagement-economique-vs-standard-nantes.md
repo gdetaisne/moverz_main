@@ -148,7 +148,7 @@ Formule économique domine les studios/T1 (60-70% de parts, étudiants et jeunes
 Notre recommandation Nantes : calculez honnêtement votre valorisation temps (revenus, rareté temps libre, compétences bricolage), comparez 3-4 devis formule éco ET standard (Médard, Gentlemen, RingTwice), et choisissez selon le résultat chiffré. Intuition "je veux économiser" ne suffit pas : si économie 300€ nécessite 15h effort valorisé 25€/h chez vous = perte nette 75€ (300-375). Soyez rationnel, pas émotionnel.
 
 
-Pour aller plus loin, explorez notre [guide déménagement pas cher à Nantes](/blog/demenagement-pas-cher-nantes/demenagement-pas-cher-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement pas cher 2025](/blog/demenagement-pas-cher-nantes/satellites/prix-demenagement-pas-cher-nantes-2025) et [astuces pour réduire les coûts](/blog/demenagement-pas-cher-nantes/satellites/astuces-reduire-cout-demenagement-nantes).
+Pour aller plus loin, explorez notre [guide déménagement pas cher à Nantes](/blog/demenagement-pas-cher-nantes/demenagement-pas-cher-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement pas cher 2025](/blog/demenagement-pas-cher-nantes/prix-demenagement-pas-cher-nantes-2025) et [astuces pour réduire les coûts](/blog/demenagement-pas-cher-nantes/astuces-reduire-cout-demenagement-nantes).
 
 ## Questions Fréquentes
 

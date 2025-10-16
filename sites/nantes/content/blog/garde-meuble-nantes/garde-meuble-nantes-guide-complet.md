@@ -26,24 +26,24 @@ Que vous soyez en plein déménagement, en travaux dans votre logement, ou simpl
 Pour approfondir chaque aspect du stockage à Nantes, consultez nos guides spécialisés :
 
 ### Prix et Tarifs
-- [Prix garde-meuble Nantes 2025](/blog/garde-meuble-nantes/satellites/prix-garde-meuble-nantes-2025) : Tarifs détaillés de 22€ à 167€/mois
-- [Garde-meuble pas cher à Nantes](/blog/garde-meuble-nantes/satellites/garde-meuble-pas-cher-nantes) : Astuces pour économiser
+- [Prix garde-meuble Nantes 2025](/blog/garde-meuble-nantes/prix-garde-meuble-nantes-2025) : Tarifs détaillés de 22€ à 167€/mois
+- [Garde-meuble pas cher à Nantes](/blog/garde-meuble-nantes/garde-meuble-pas-cher-nantes) : Astuces pour économiser
 
 ### Choisir son Box
-- [Choisir la taille de son box de stockage](/blog/garde-meuble-nantes/satellites/choisir-taille-box-stockage-nantes) : Guide des dimensions adaptées
-- [Centre-ville vs Périphérie](/blog/garde-meuble-nantes/satellites/garde-meuble-centre-nantes-peripherie) : Où louer à Nantes ?
-- [Garde-meuble vs Self-stockage](/blog/garde-meuble-nantes/satellites/garde-meuble-vs-self-stockage-nantes) : Quelle différence ?
+- [Choisir la taille de son box de stockage](/blog/garde-meuble-nantes/choisir-taille-box-stockage-nantes) : Guide des dimensions adaptées
+- [Centre-ville vs Périphérie](/blog/garde-meuble-nantes/garde-meuble-centre-nantes-peripherie) : Où louer à Nantes ?
+- [Garde-meuble vs Self-stockage](/blog/garde-meuble-nantes/garde-meuble-vs-self-stockage-nantes) : Quelle différence ?
 
 ### Durée et Contrats
-- [Durée minimum de location](/blog/garde-meuble-nantes/satellites/duree-minimum-garde-meuble-nantes) : Flexibilité des contrats
-- [Garde-meuble courte durée](/blog/garde-meuble-nantes/satellites/garde-meuble-courte-duree-nantes) : Solutions temporaires
+- [Durée minimum de location](/blog/garde-meuble-nantes/duree-minimum-garde-meuble-nantes) : Flexibilité des contrats
+- [Garde-meuble courte durée](/blog/garde-meuble-nantes/garde-meuble-courte-duree-nantes) : Solutions temporaires
 
 ### Accès et Services
-- [Accès et horaires](/blog/garde-meuble-nantes/satellites/acces-garde-meuble-nantes-horaires) : 24/7 ou limité ?
-- [Assurance garde-meuble](/blog/garde-meuble-nantes/satellites/assurance-garde-meuble-nantes) : Protection obligatoire ?
+- [Accès et horaires](/blog/garde-meuble-nantes/acces-garde-meuble-nantes-horaires) : 24/7 ou limité ?
+- [Assurance garde-meuble](/blog/garde-meuble-nantes/assurance-garde-meuble-nantes) : Protection obligatoire ?
 
 ### Solutions Spécifiques
-- [Garde-meuble étudiant](/blog/garde-meuble-nantes/satellites/garde-meuble-etudiant-nantes) : Offres adaptées aux étudiants
+- [Garde-meuble étudiant](/blog/garde-meuble-nantes/garde-meuble-etudiant-nantes) : Offres adaptées aux étudiants
 
 ## Pourquoi avoir besoin d'un garde-meuble à Nantes ?
 

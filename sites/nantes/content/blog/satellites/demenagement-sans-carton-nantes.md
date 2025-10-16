@@ -106,7 +106,7 @@ Les alternatives (bacs 60-80L réutilisables 300-500× locations 2-6€ ZeroWast
 Notre recommandation Nantes : **Mixte optimal** (valises 5 existantes gratuites + sacs Ikea 30 × 1€ = 30€ + cartons 10-15 objets fragiles gratuits récupération ciblée 1-2 visites = économie -30€ vs tout cartons efforts 5h récupération, + écologique -12 kg CO2), **bacs si cadres** temps >25€/h valorisé (surcoût 100€ vs économie temps 125€ = gain net 25€), **cartons gratuits si étudiants** (0€ + temps abondant 5h acceptable vs 170€ bacs surcoûts budgets serrés).
 
 
-Pour aller plus loin, explorez notre [guide petit déménagement à Nantes](/blog/petit-demenagement-nantes/petit-demenagement-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement studio](/blog/petit-demenagement-nantes/satellites/demenagement-studio-nantes-prix) et [prix déménagement T1](/blog/petit-demenagement-nantes/satellites/demenagement-t1-nantes-prix).
+Pour aller plus loin, explorez notre [guide petit déménagement à Nantes](/blog/petit-demenagement-nantes/petit-demenagement-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement studio](/blog/petit-demenagement-nantes/demenagement-studio-nantes-prix) et [prix déménagement T1](/blog/petit-demenagement-nantes/demenagement-t1-nantes-prix).
 
 ## Questions Fréquentes
 

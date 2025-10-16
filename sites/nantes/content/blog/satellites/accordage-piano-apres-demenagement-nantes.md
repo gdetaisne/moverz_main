@@ -165,7 +165,7 @@ Les désaccordages transport (vibrations routes pavées Centre 10-25 Hz + dos-d'
 Notre recommandation finale Nantes : Attendez **J+25** accordage (stabilité 6-12 mois vs J+5 = 2-3 mois instable double coût 180€), choisissez luthiers références conservatoire (Ateliers Piano Services, Maison Piano, garanties qualités oreilles absolues ±0,5-1 cent précisions), contrôlez humidité 50-65% hygromètre 15-25€ (humidificateurs/déshumidificateurs si <45% ou >70%), et budgetez **95€ accordage** systématiquement déménagement piano (vs oublis 25-30% clients = désaccordages permanents 6-18 mois dégradent mécaniques jeux difficultés accrues notes fausses découragement abandon pianos 8-12% cas extrêmes).
 
 
-Pour aller plus loin, explorez notre [guide déménagement piano à Nantes](/blog/demenagement-piano-nantes/demenagement-piano-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement piano](/blog/demenagement-piano-nantes/satellites/demenagement-piano-nantes-prix) et [déménagement piano à queue](/blog/demenagement-piano-nantes/satellites/demenagement-piano-queue-nantes).
+Pour aller plus loin, explorez notre [guide déménagement piano à Nantes](/blog/demenagement-piano-nantes/demenagement-piano-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement piano](/blog/demenagement-piano-nantes/demenagement-piano-nantes-prix) et [déménagement piano à queue](/blog/demenagement-piano-nantes/demenagement-piano-queue-nantes).
 
 ## Questions Fréquentes
 

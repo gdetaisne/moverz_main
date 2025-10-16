@@ -191,7 +191,7 @@ Les techniques spécialisées (levages coordonnés 4-8 porteurs répartitions po
 Notre recommandation finale Nantes objets lourds : **Spécialisés Alliance LG/AGS uniquement** >200 kg (surcoûts +150-400€ = investissements sécurités évitent dégâts 2000-15 000€ réparations/remplacements + accidents corporels porteurs hernies L4-L5 arrêts travail 3-12 mois), **assurances ad valorem systématiques** (surprimes 125-2400€ = tranquillités vs génériques 750€ pertes 4250-59 250€), **vérifications faisabilités préalables** (mesures précises portes/escaliers/accès, transmissions déménageurs confirmations vs estimations clients 35-45% erreurs = découvertes impossibilités jour J +500-800€ annulations), et **préparations minutieuses** (photos 360° preuves, démontages partiels possibles, vidanges spas, autorisations nacelles/copropriétés 5-15j délais).
 
 
-Pour aller plus loin, explorez notre [guide déménageur professionnel à Nantes](/blog/demenageur-nantes/demenageur-nantes-guide-complet) et notre guide sur [monte-meuble pour déménagement](/blog/demenageur-nantes/satellites/monte-meuble-demenagement-nantes).
+Pour aller plus loin, explorez notre [guide déménageur professionnel à Nantes](/blog/demenageur-nantes/demenageur-nantes-guide-complet) et notre guide sur [monte-meuble pour déménagement](/blog/demenageur-nantes/monte-meuble-demenagement-nantes).
 
 ## Questions Fréquentes
 

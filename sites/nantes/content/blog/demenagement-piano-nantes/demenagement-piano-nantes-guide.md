@@ -23,22 +23,22 @@ featured: true
 Tous nos guides pour déménager votre piano en toute sécurité à Nantes :
 
 ### Prix et Budget
-- [Prix déménagement piano Nantes](/blog/demenagement-piano-nantes/satellites/demenagement-piano-nantes-prix) : Tarifs 2025
-- [Budget complet](/blog/demenagement-piano-nantes/satellites/budget-complet-demenagement-piano-nantes) : Tous les coûts à prévoir
-- [Assurance piano](/blog/demenagement-piano-nantes/satellites/assurance-piano-demenagement-nantes) : Protection obligatoire
+- [Prix déménagement piano Nantes](/blog/demenagement-piano-nantes/demenagement-piano-nantes-prix) : Tarifs 2025
+- [Budget complet](/blog/demenagement-piano-nantes/budget-complet-demenagement-piano-nantes) : Tous les coûts à prévoir
+- [Assurance piano](/blog/demenagement-piano-nantes/assurance-piano-demenagement-nantes) : Protection obligatoire
 
 ### Types de Pianos
-- [Déménagement piano à queue](/blog/demenagement-piano-nantes/satellites/demenagement-piano-queue-nantes) : Spécificités
-- [Piano ancien ou de collection](/blog/demenagement-piano-nantes/satellites/piano-ancien-collection-demenagement-nantes) : Précautions particulières
+- [Déménagement piano à queue](/blog/demenagement-piano-nantes/demenagement-piano-queue-nantes) : Spécificités
+- [Piano ancien ou de collection](/blog/demenagement-piano-nantes/piano-ancien-collection-demenagement-nantes) : Précautions particulières
 
 ### Situations Complexes
-- [Piano dans les étages sans ascenseur](/blog/demenagement-piano-nantes/satellites/demenagement-piano-etages-sans-ascenseur-nantes) : Monte-meuble nécessaire ?
-- [Transport piano longue distance](/blog/demenagement-piano-nantes/satellites/transport-piano-longue-distance-nantes) : Hors Nantes
+- [Piano dans les étages sans ascenseur](/blog/demenagement-piano-nantes/demenagement-piano-etages-sans-ascenseur-nantes) : Monte-meuble nécessaire ?
+- [Transport piano longue distance](/blog/demenagement-piano-nantes/transport-piano-longue-distance-nantes) : Hors Nantes
 
 ### Préparation et Précautions
-- [Préparer son piano avant déménagement](/blog/demenagement-piano-nantes/satellites/preparation-piano-avant-demenagement-nantes) : Checklist complète
-- [Erreurs à éviter](/blog/demenagement-piano-nantes/satellites/erreurs-eviter-demenagement-piano-nantes) : Les pièges courants
-- [Accordage après déménagement](/blog/demenagement-piano-nantes/satellites/accordage-piano-apres-demenagement-nantes) : Quand et pourquoi ?
+- [Préparer son piano avant déménagement](/blog/demenagement-piano-nantes/preparation-piano-avant-demenagement-nantes) : Checklist complète
+- [Erreurs à éviter](/blog/demenagement-piano-nantes/erreurs-eviter-demenagement-piano-nantes) : Les pièges courants
+- [Accordage après déménagement](/blog/demenagement-piano-nantes/accordage-piano-apres-demenagement-nantes) : Quand et pourquoi ?
 
 
 Votre piano représente bien plus qu'un simple meuble : c'est un instrument de musique délicat, souvent chargé d'histoire et de valeur sentimentale, nécessitant des précautions exceptionnelles lors d'un déménagement. Que vous possédiez un piano droit, un piano à queue ou un instrument ancien, le transporter à Nantes ou dans l'agglomération nantaise exige expertise technique, matériel spécialisé et savoir-faire professionnel. Ce guide complet vous explique pourquoi et comment confier votre piano à des spécialistes nantais pour un déménagement réussi et sans fausses notes.

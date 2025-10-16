@@ -220,7 +220,7 @@ L'aérien (800-1500€/m³, délais 1-2 semaines) justifie uniquement urgences <
 Notre recommandation Nantes : Maritime par défaut (AGS Orvault, Demidov, départs Le Havre hebdomadaires), demandez devis comparatif maritime/aérien pour décision éclairée (AGS présente les deux avec délais/prix honnêtes), et envisagez aérien QUE si (urgence <25 jours OU budget corporate >15k€ total OU petit volume <5m³ avec salaire destination >10 000€/mois justifiant démarrage rapide). Pour 85-90% cas Nantes internationaux : maritime économie + fiabilité l'emportent sur rapidité aérienne coûteuse.
 
 
-Pour aller plus loin, explorez notre [guide déménagement international depuis Nantes](/blog/demenagement-international-nantes/demenagement-international-nantes-guide) ainsi que nos guides complémentaires : [déménagement vers USA et Canada](/blog/demenagement-international-nantes/satellites/demenagement-nantes-usa-canada) et [déménagement vers UK post-Brexit](/blog/demenagement-international-nantes/satellites/demenagement-nantes-uk-post-brexit).
+Pour aller plus loin, explorez notre [guide déménagement international depuis Nantes](/blog/demenagement-international-nantes/demenagement-international-nantes-guide) ainsi que nos guides complémentaires : [déménagement vers USA et Canada](/blog/demenagement-international-nantes/demenagement-nantes-usa-canada) et [déménagement vers UK post-Brexit](/blog/demenagement-international-nantes/demenagement-nantes-uk-post-brexit).
 
 ## Questions Fréquentes
 

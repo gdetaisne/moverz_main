@@ -97,7 +97,7 @@ Les locations Loxam/Kiloutou Nantes (disponibilités 50-85% stocks variables dia
 Notre recommandation Nantes : **Diable location 45€ obligatoire** électroménager >60 kg (économise dos + sécurise vs portages manuels chutes 15-25%), **sangles achat 30€** réutilisations multiples (déménagements 3-8× vies + bricolages = amortissements rapides 12-24 mois), **chariot optionnel** si >50 cartons (économie temps rotations -30% vs achats 80€ non-rentables <5 usages), **couvertures domestiques** gratuites (vs dédiées achats 100€ inutiles 90% cas films plastiques 20€ suffisent).
 
 
-Pour aller plus loin, explorez notre [guide petit déménagement à Nantes](/blog/petit-demenagement-nantes/petit-demenagement-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement studio](/blog/petit-demenagement-nantes/satellites/demenagement-studio-nantes-prix) et [prix déménagement T1](/blog/petit-demenagement-nantes/satellites/demenagement-t1-nantes-prix).
+Pour aller plus loin, explorez notre [guide petit déménagement à Nantes](/blog/petit-demenagement-nantes/petit-demenagement-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement studio](/blog/petit-demenagement-nantes/demenagement-studio-nantes-prix) et [prix déménagement T1](/blog/petit-demenagement-nantes/demenagement-t1-nantes-prix).
 
 ## Questions Fréquentes
 

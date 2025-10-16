@@ -189,7 +189,7 @@ Les contraintes passages (portes ≥120 cm minimales démontés vs <100 cm refus
 Notre recommandation finale Nantes demi-queues : Privilégiez Île Nantes/périphéries pavillons (ascenseurs larges 140-180 cm récents 2000-2020, plain-pied, tarifs optimaux 550-750€ vs Centre nacelles 1000-1400€ ou refus), mesurez ascenseurs/portes destination AVANT (largeur/profondeur/hauteur transmises Alliance LG = avis faisabilités fiables), souscrivez assurance ad valorem obligatoire >15k€ (surprime 300-600€ sécurise 15-25k€ valeurs vs générique 750€ catastrophique), et acceptez démontages pieds pros Alliance LG (20-30 min. inclus forfait vs tentatives clients 60-120 min. + risques foirages 300-800€ réparations).
 
 
-Pour aller plus loin, explorez notre [guide déménagement piano à Nantes](/blog/demenagement-piano-nantes/demenagement-piano-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement piano](/blog/demenagement-piano-nantes/satellites/demenagement-piano-nantes-prix) et [piano dans les étages sans ascenseur](/blog/demenagement-piano-nantes/satellites/demenagement-piano-etages-sans-ascenseur-nantes).
+Pour aller plus loin, explorez notre [guide déménagement piano à Nantes](/blog/demenagement-piano-nantes/demenagement-piano-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement piano](/blog/demenagement-piano-nantes/demenagement-piano-nantes-prix) et [piano dans les étages sans ascenseur](/blog/demenagement-piano-nantes/demenagement-piano-etages-sans-ascenseur-nantes).
 
 ## Questions Fréquentes
 

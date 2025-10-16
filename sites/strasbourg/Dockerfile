@@ -2,31 +2,17 @@
 FROM node:20-alpine AS base
 RUN apk add --no-cache libc6-compat
 WORKDIR /app
-RUN echo "FORCE REBUILD strasbourg COMPLETE-$(date +%s)" > /tmp/force-rebuild-$(date +%s).txt
+RUN echo "FORCE REBUILD strasbourg COMPLETE-1760519777-$(date +%s)" > /tmp/force-rebuild-$(date +%s).txt
 
 # Install dependencies
 FROM base AS deps
-COPY sites/strasbourg/package.json ./
+COPY package.json ./
 RUN npm install --production=false
 
 # Build application
 FROM base AS builder
 COPY --from=deps /app/node_modules ./node_modules
-COPY sites/strasbourg/app ./app
-COPY sites/strasbourg/components ./components
-COPY sites/strasbourg/lib ./lib
-COPY sites/strasbourg/public ./public
-COPY sites/strasbourg/content ./content
-COPY sites/strasbourg/scripts ./scripts
-COPY sites/strasbourg/package.json ./package.json
-COPY sites/strasbourg/tsconfig.json ./tsconfig.json
-COPY sites/strasbourg/next.config.mjs ./next.config.mjs
-COPY sites/strasbourg/next-sitemap.config.js ./next-sitemap.config.js
-COPY sites/strasbourg/postcss.config.cjs ./postcss.config.cjs
-COPY sites/strasbourg/middleware.js ./middleware.js
-COPY sites/strasbourg/tailwind.config.ts ./tailwind.config.ts
-COPY sites/strasbourg/components.json ./components.json
-COPY sites/strasbourg/next-env.d.ts ./next-env.d.ts
+COPY . .
 ENV NEXT_TELEMETRY_DISABLED=1
 RUN npm run build
 
@@ -49,10 +35,8 @@ COPY --from=builder --chown=nextjs:nodejs /app/.next ./.next
 # Copy public directory
 RUN mkdir -p ./public
 COPY --from=builder --chown=nextjs:nodejs /app/public ./public
-
 # Copy content directory (CRITICAL: blog articles)
 COPY --from=builder --chown=nextjs:nodejs /app/content ./content
-
 USER nextjs
 EXPOSE 3000
 

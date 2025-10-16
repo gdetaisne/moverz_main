@@ -159,7 +159,7 @@ Les 55 000 étudiants nantais disposent d'acteurs adaptés (Homebox Carquefou 10
 Notre recommandation finale étudiants Nantes : DIY si studio Doulon/Île de Nantes + 2-3 amis campus dispo (économie 125€ vs 250€ pro = 1 semaine job étudiant SMIC), formule éco pro si centre historique/T1 30m²/amis indispos (sécurité 250€), stockage été si retour famille >200 km (économie 300-400€ vs aller-retour + libération loyer CROUS été). Timing : fin juin (post-examens) vs début septembre (pic tarifs +70€).
 
 
-Pour aller plus loin, explorez notre [guide déménagement pas cher à Nantes](/blog/demenagement-pas-cher-nantes/demenagement-pas-cher-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement pas cher 2025](/blog/demenagement-pas-cher-nantes/satellites/prix-demenagement-pas-cher-nantes-2025) et [astuces pour réduire les coûts](/blog/demenagement-pas-cher-nantes/satellites/astuces-reduire-cout-demenagement-nantes).
+Pour aller plus loin, explorez notre [guide déménagement pas cher à Nantes](/blog/demenagement-pas-cher-nantes/demenagement-pas-cher-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement pas cher 2025](/blog/demenagement-pas-cher-nantes/prix-demenagement-pas-cher-nantes-2025) et [astuces pour réduire les coûts](/blog/demenagement-pas-cher-nantes/astuces-reduire-cout-demenagement-nantes).
 
 ## Questions Fréquentes
 

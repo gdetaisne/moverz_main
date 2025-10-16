@@ -238,7 +238,7 @@ Les quartiers Nantes influencent faisabilités : Centre Bouffay/Crébillon diffi
 Notre recommandation finale Nantes étages : Mesurez escaliers précisément AVANT (largeur ≥90 cm, tournants ≤180°, hauteur ≥220 cm = faisabilités 75-85% portages manuels), visites techniques gratuites Alliance LG/AGS systématiques (simulations passages = avis fiables vs estimations 30-40% erreurs), acceptez nacelles uniquement pianos >12k€ valeur (surcoût 700-1200€ justifié sécurité, vs pianos 2000-5000€ privilégiez stockages/ventes alternatives économiques), et prévenez copropriétés 2-3 semaines avant (autorisations syndics, évitements conflits gardiens/résidents jour J).
 
 
-Pour aller plus loin, explorez notre [guide déménagement piano à Nantes](/blog/demenagement-piano-nantes/demenagement-piano-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement piano](/blog/demenagement-piano-nantes/satellites/demenagement-piano-nantes-prix) et [déménagement piano à queue](/blog/demenagement-piano-nantes/satellites/demenagement-piano-queue-nantes).
+Pour aller plus loin, explorez notre [guide déménagement piano à Nantes](/blog/demenagement-piano-nantes/demenagement-piano-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement piano](/blog/demenagement-piano-nantes/demenagement-piano-nantes-prix) et [déménagement piano à queue](/blog/demenagement-piano-nantes/demenagement-piano-queue-nantes).
 
 ## Questions Fréquentes
 

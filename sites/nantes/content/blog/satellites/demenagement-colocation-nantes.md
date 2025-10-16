@@ -110,7 +110,7 @@ Les spécificités (mobiliers communs laissés quote-parts 50-115€/personne < 
 Notre recommandation Nantes colocations : **Groupages coordonnés** si fins baux simultanées 3-4 (économies 150-300€ + efforts coordinations 2-4h acceptable vs 4h récupération cartons), **laissez mobiliers communs** (quote-parts 50-115€ < transports 120€ + rachats neufs 25-50€ destinations = économies 45-185€), **DIY chambre minimaliste** si <10m³ (Kangoo 65€ économie 185-385€ vs transporteurs 250-450€), **transporteurs chambres 12-15m³** standards (180-350€ vs DIY Master 14m³ = 90€ économie faible 90-260€ efforts 6-10h parfois non-rentables si salariés valorisent temps 25€/h).
 
 
-Pour aller plus loin, explorez notre [guide petit déménagement à Nantes](/blog/petit-demenagement-nantes/petit-demenagement-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement studio](/blog/petit-demenagement-nantes/satellites/demenagement-studio-nantes-prix) et [prix déménagement T1](/blog/petit-demenagement-nantes/satellites/demenagement-t1-nantes-prix).
+Pour aller plus loin, explorez notre [guide petit déménagement à Nantes](/blog/petit-demenagement-nantes/petit-demenagement-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement studio](/blog/petit-demenagement-nantes/demenagement-studio-nantes-prix) et [prix déménagement T1](/blog/petit-demenagement-nantes/demenagement-t1-nantes-prix).
 
 ## Questions Fréquentes
 

@@ -155,7 +155,7 @@ Les formalités douanières d'un déménagement international depuis Nantes néc
 Le DIY formalités reste faisable Union Européenne (inventaire FR, documents France accessibles, contrôles légers, économie 200€ vs assistance), mais fortement déconseillé UK/USA/Asie (complexité, langues, risques blocages = surcoûts potentiels 1000-3000€ vs assistance 500-1000€). Notre conseil Nantes : Contactez AGS, Demidov ou Alliance LG **3-4 mois avant départ** international, demandez forfait "assistance douanes incluse" (souvent 0€ supplémentaire si déménagement complet >8000€), et déléguez cette expertise (vs gérer vous-même = 15-25h + stress + risques).
 
 
-Pour aller plus loin, explorez notre [guide déménagement international depuis Nantes](/blog/demenagement-international-nantes/demenagement-international-nantes-guide) ainsi que nos guides complémentaires : [déménagement vers USA et Canada](/blog/demenagement-international-nantes/satellites/demenagement-nantes-usa-canada) et [déménagement vers UK post-Brexit](/blog/demenagement-international-nantes/satellites/demenagement-nantes-uk-post-brexit).
+Pour aller plus loin, explorez notre [guide déménagement international depuis Nantes](/blog/demenagement-international-nantes/demenagement-international-nantes-guide) ainsi que nos guides complémentaires : [déménagement vers USA et Canada](/blog/demenagement-international-nantes/demenagement-nantes-usa-canada) et [déménagement vers UK post-Brexit](/blog/demenagement-international-nantes/demenagement-nantes-uk-post-brexit).
 
 ## Questions Fréquentes
 

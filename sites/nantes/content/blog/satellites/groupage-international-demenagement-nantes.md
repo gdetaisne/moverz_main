@@ -197,7 +197,7 @@ AGS Déménagement Orvault et Demidov Nantes organisent ces groupages en mutuali
 Notre recommandation Nantes : Groupage par défaut si timing flexible >4 mois anticipation (économie 1500-3500€ T2-T3 finance 2-4 mois loyer destination ou mobilier neuf), dédié si timing serré <8 semaines ou corporate paie (surcoût 2000€ négligeable budget entreprise, rapidité +3 sem. prioritaire), et calculez impact meublé temporaire destination (groupage +3 sem. = +3 sem. meublé 3000-4500$ annulant économie 2000€ sauf si vous synchronisez arrivée personnelle avec conteneur retardé).
 
 
-Pour aller plus loin, explorez notre [guide déménagement international depuis Nantes](/blog/demenagement-international-nantes/demenagement-international-nantes-guide) ainsi que nos guides complémentaires : [déménagement vers USA et Canada](/blog/demenagement-international-nantes/satellites/demenagement-nantes-usa-canada) et [déménagement vers UK post-Brexit](/blog/demenagement-international-nantes/satellites/demenagement-nantes-uk-post-brexit).
+Pour aller plus loin, explorez notre [guide déménagement international depuis Nantes](/blog/demenagement-international-nantes/demenagement-international-nantes-guide) ainsi que nos guides complémentaires : [déménagement vers USA et Canada](/blog/demenagement-international-nantes/demenagement-nantes-usa-canada) et [déménagement vers UK post-Brexit](/blog/demenagement-international-nantes/demenagement-nantes-uk-post-brexit).
 
 ## Questions Fréquentes
 

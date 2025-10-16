@@ -86,7 +86,7 @@ Les protections spécifiques (doudous sacs étanches identifiés photos vs perdu
 Notre recommandation Nantes bébés : **Alliance LG** formations sécurité (remontages lits normes 4,5-6,5 cm précisions ±0,5 cm vs généralistes ±2-3 cm dépassements 20-30%), **cartons priorités** "Bébé Essentiel" (lait, couches, doudous, vêtements 3j accessibles J+0 soirs vs caves = courses urgence évitées), **timing 9-24 mois** (robustesses, adaptabilités 3-7j vs <6 mois 2-4 sem.), **printemps/automne** températures douces 15-22°C (vs août >30°C déshydratations bébés camions non-climatisés).
 
 
-Pour aller plus loin, explorez notre [guide petit déménagement à Nantes](/blog/petit-demenagement-nantes/petit-demenagement-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement studio](/blog/petit-demenagement-nantes/satellites/demenagement-studio-nantes-prix) et [prix déménagement T1](/blog/petit-demenagement-nantes/satellites/demenagement-t1-nantes-prix).
+Pour aller plus loin, explorez notre [guide petit déménagement à Nantes](/blog/petit-demenagement-nantes/petit-demenagement-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement studio](/blog/petit-demenagement-nantes/demenagement-studio-nantes-prix) et [prix déménagement T1](/blog/petit-demenagement-nantes/demenagement-t1-nantes-prix).
 
 ## Questions Fréquentes
 

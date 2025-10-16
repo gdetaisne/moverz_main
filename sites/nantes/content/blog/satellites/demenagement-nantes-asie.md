@@ -212,7 +212,7 @@ Les acteurs nantais spécialisés (AGS Orvault réseau Asie bureaux Shanghai/Tok
 Notre recommandation finale Nantes-Asie : Anticipez **6-7 mois** minimum (janvier annonce → juillet arrivée), déléguez assistance AGS/Demidov (+700-1000€ = sécurité vs DIY erreurs 60-70%), privilégiez Singapour si choix destination (efficacité, anglais, -10% coûts vs Tokyo, +2% vs Shanghai mais zéro censure), vendez électronique/bibliothèques lourdes Nantes/rachetez Asie (économie transport 1000-2000€), et souscrivez assurance tous risques obligatoire (+5% = 600-800€, Asie risques portuaires supérieurs Europe 0,8% vs 0,3% incidents).
 
 
-Pour aller plus loin, explorez notre [guide déménagement international depuis Nantes](/blog/demenagement-international-nantes/demenagement-international-nantes-guide) ainsi que nos guides complémentaires : [déménagement vers USA et Canada](/blog/demenagement-international-nantes/satellites/demenagement-nantes-usa-canada) et [déménagement vers UK post-Brexit](/blog/demenagement-international-nantes/satellites/demenagement-nantes-uk-post-brexit).
+Pour aller plus loin, explorez notre [guide déménagement international depuis Nantes](/blog/demenagement-international-nantes/demenagement-international-nantes-guide) ainsi que nos guides complémentaires : [déménagement vers USA et Canada](/blog/demenagement-international-nantes/demenagement-nantes-usa-canada) et [déménagement vers UK post-Brexit](/blog/demenagement-international-nantes/demenagement-nantes-uk-post-brexit).
 
 ## Questions Fréquentes
 

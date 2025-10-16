@@ -118,7 +118,7 @@ La rentabilité occasions Leboncoin (canapé 300€ + transport 150€ = 450€ 
 Notre recommandation finale Nantes meuble seul : **Leboncoin+ livraisons** petits meubles <50 kg lits/chaises (25-60€ pratique tracking vs DIY économie 40€ négligeable efforts 2h), **DIY couple** meubles moyens canapés/armoires démontées (65-150€ location+essence vs transporteurs 150-300€ = économie 85-150€ efforts 3-5h acceptables), **transporteurs pros** meubles lourds >150 kg pianos/coffres (150-600€ vs DIY impossible dangers, sécurités matériel spécialisé).
 
 
-Pour aller plus loin, explorez notre [guide petit déménagement à Nantes](/blog/petit-demenagement-nantes/petit-demenagement-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement studio](/blog/petit-demenagement-nantes/satellites/demenagement-studio-nantes-prix) et [prix déménagement T1](/blog/petit-demenagement-nantes/satellites/demenagement-t1-nantes-prix).
+Pour aller plus loin, explorez notre [guide petit déménagement à Nantes](/blog/petit-demenagement-nantes/petit-demenagement-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement studio](/blog/petit-demenagement-nantes/demenagement-studio-nantes-prix) et [prix déménagement T1](/blog/petit-demenagement-nantes/demenagement-t1-nantes-prix).
 
 ## Questions Fréquentes
 

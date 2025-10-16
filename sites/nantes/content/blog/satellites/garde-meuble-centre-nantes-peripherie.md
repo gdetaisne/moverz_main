@@ -121,7 +121,7 @@ Pour la majorité des cas (stockage 3 mois+, accès mensuel, budget optimisé), 
 Exception justifiant le centre : pas de véhicule ET besoin d'accès 2-3 fois par semaine minimum (stockage très temporaire, rotation fréquente). MondialBox accessible tram ligne 1 évite alors les coûts cumulés taxi/covoiturage vers périphérie, malgré surcoût loyer +10-20€/mois.
 
 
-Pour aller plus loin, explorez notre [guide complet du garde-meuble à Nantes](/blog/garde-meuble-nantes/garde-meuble-nantes-guide-complet) ainsi que nos guides complémentaires : [prix garde-meuble Nantes 2025](/blog/garde-meuble-nantes/satellites/prix-garde-meuble-nantes-2025) et [garde-meuble pas cher à Nantes](/blog/garde-meuble-nantes/satellites/garde-meuble-pas-cher-nantes).
+Pour aller plus loin, explorez notre [guide complet du garde-meuble à Nantes](/blog/garde-meuble-nantes/garde-meuble-nantes-guide-complet) ainsi que nos guides complémentaires : [prix garde-meuble Nantes 2025](/blog/garde-meuble-nantes/prix-garde-meuble-nantes-2025) et [garde-meuble pas cher à Nantes](/blog/garde-meuble-nantes/garde-meuble-pas-cher-nantes).
 
 ## Questions Fréquentes
 
