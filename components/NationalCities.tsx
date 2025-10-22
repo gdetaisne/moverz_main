@@ -3,16 +3,17 @@ import Link from "next/link";
 
 export default function NationalCities() {
   const nationalCities = [
-    { name: "Bordeaux", href: "/bordeaux" },
-    { name: "Lyon", href: "/lyon" },
-    { name: "Toulouse", href: "/toulouse" },
-    { name: "Nantes", href: "/nantes" },
-    { name: "Lille", href: "/lille" },
-    { name: "Marseille", href: "/marseille" },
-    { name: "Strasbourg", href: "/strasbourg" },
-    { name: "Rennes", href: "/rennes" },
-    { name: "Nice", href: "/nice" },
-    { name: "Montpellier", href: "/montpellier" }
+    { name: "Bordeaux", href: "https://www.bordeaux-demenageur.fr" },
+    { name: "Lille", href: "https://devis-demenageur-lille.fr" },
+    { name: "Lyon", href: "https://devis-demenageur-lyon.fr" },
+    { name: "Marseille", href: "https://devis-demenageur-marseille.fr" },
+    { name: "Montpellier", href: "https://devis-demenageur-montpellier.fr" },
+    { name: "Nantes", href: "https://devis-demenageur-nantes.fr" },
+    { name: "Nice", href: "https://devis-demenageur-nice.fr" },
+    { name: "Rennes", href: "https://devis-demenageur-rennes.fr" },
+    { name: "Rouen", href: "https://devis-demenageur-rouen.fr" },
+    { name: "Strasbourg", href: "https://devis-demenageur-strasbourg.fr" },
+    { name: "Toulouse", href: "https://devis-demenageur-toulousain.fr" }
   ];
 
   return (
@@ -30,9 +31,11 @@ export default function NationalCities() {
         
         <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4 mb-12">
           {nationalCities.map((city) => (
-            <Link
+            <a
               key={city.href}
               href={city.href}
+              target="_blank"
+              rel="noopener noreferrer"
               className="group relative overflow-hidden rounded-xl bg-white/5 border border-white/10 hover:border-[#6bcfcf]/50 transition-all duration-300 hover:scale-105 hover:shadow-lg"
             >
               {/* Background gradient on hover */}
@@ -54,7 +57,7 @@ export default function NationalCities() {
                   <div className="w-1 h-1 bg-[#6bcfcf] rounded-full mx-auto"></div>
                 </div>
               </div>
-            </Link>
+            </a>
           ))}
         </div>
         

@@ -20,24 +20,21 @@ export default function KeyStats() {
   ];
 
   return (
-    <section className="py-16 md:py-24 bg-gradient-to-r from-[#2b7a78]/20 to-[#6bcfcf]/20 rounded-3xl">
+    <section className="py-12 md:py-16">
       <div className="container max-w-7xl mx-auto px-4 md:px-6">
-        <h2 className="text-3xl md:text-4xl font-bold text-center text-white mb-16">
-          Ils nous font confiance
-        </h2>
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8 md:gap-12">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8">
           {stats.map((stat, index) => (
             <div
               key={index}
-              className="text-center group"
+              className="text-center group p-6 rounded-xl bg-white/5 border border-white/10 hover:bg-white/10 transition-all duration-300"
             >
-              <div className="text-6xl mb-4 transition-transform duration-300 group-hover:scale-110">
+              <div className="text-3xl mb-3 transition-transform duration-300 group-hover:scale-110">
                 {stat.icon}
               </div>
-              <div className="text-5xl md:text-6xl font-bold text-white mb-2">
+              <div className="text-3xl md:text-4xl font-bold text-white mb-2">
                 {stat.number}
               </div>
-              <p className="text-white/80 text-lg">
+              <p className="text-white/70 text-sm">
                 {stat.label}
               </p>
             </div>
