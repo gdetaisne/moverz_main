@@ -11,16 +11,17 @@ export default function ZonesCovered() {
   ];
 
   const nationalCities = [
-    { name: "Bordeaux", href: "/bordeaux" },
-    { name: "Lyon", href: "/lyon" },
-    { name: "Toulouse", href: "/toulouse" },
-    { name: "Nantes", href: "/nantes" },
-    { name: "Lille", href: "/lille" },
-    { name: "Marseille", href: "/marseille" },
-    { name: "Strasbourg", href: "/strasbourg" },
-    { name: "Rennes", href: "/rennes" },
-    { name: "Nice", href: "/nice" },
-    { name: "Montpellier", href: "/montpellier" }
+    { name: "Bordeaux", href: "https://www.bordeaux-demenageur.fr" },
+    { name: "Lille", href: "https://devis-demenageur-lille.fr" },
+    { name: "Lyon", href: "https://devis-demenageur-lyon.fr" },
+    { name: "Marseille", href: "https://devis-demenageur-marseille.fr" },
+    { name: "Montpellier", href: "https://devis-demenageur-montpellier.fr" },
+    { name: "Nantes", href: "https://devis-demenageur-nantes.fr" },
+    { name: "Nice", href: "https://devis-demenageur-nice.fr" },
+    { name: "Rennes", href: "https://devis-demenageur-rennes.fr" },
+    { name: "Rouen", href: "https://devis-demenageur-rouen.fr" },
+    { name: "Strasbourg", href: "https://devis-demenageur-strasbourg.fr" },
+    { name: "Toulouse", href: "https://devis-demenageur-toulousain.fr" }
   ];
 
   return (
@@ -66,16 +67,18 @@ export default function ZonesCovered() {
         </p>
         <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
           {nationalCities.map((city) => (
-            <Link
+            <a
               key={city.href}
               href={city.href}
+              target="_blank"
+              rel="noopener noreferrer"
               className="card-glass rounded-xl p-6 text-center hover:bg-white/10 transition-all duration-300 hover:scale-105 group"
             >
               <div className="text-3xl mb-3">🏙️</div>
               <p className="text-white font-semibold text-lg group-hover:text-[#6bcfcf] transition-colors">
                 {city.name}
               </p>
-            </Link>
+            </a>
           ))}
         </div>
         <div className="text-center mt-8">

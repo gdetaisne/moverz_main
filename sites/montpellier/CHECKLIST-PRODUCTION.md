@@ -3,7 +3,7 @@
 ## ✅ AVANT LA MISE EN PRODUCTION
 
 ### 1. URLs et Domaines
-- [ ] Changer `metadataBase` dans `layout.tsx` : `https://www.nice-demenageur.fr`
+- [ ] Changer `metadataBase` dans `layout.tsx` : `https://devis-demenageur-montpellier.fr`
 - [ ] Mettre à jour toutes les URLs canoniques dans les templates
 - [ ] Vérifier les URLs dans `sitemap.ts`
 - [ ] Tester les redirections
