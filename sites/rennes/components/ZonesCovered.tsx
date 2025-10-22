@@ -58,35 +58,65 @@ export default function ZonesCovered() {
       </div>
 
       {/* National Zones Section */}
-      <div>
-        <h2 className="text-3xl md:text-4xl font-bold text-white text-center mb-8">
-          Zones couvertes Nationales
-        </h2>
-        <p className="text-center text-white/80 mb-12 text-lg">
-          Chaque ville possède son site dédié avec des informations localisées
-        </p>
-        <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
+      <div className="mt-20">
+        <div className="text-center mb-12">
+          <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">
+            Nos sites dédiés par ville
+          </h2>
+          <p className="text-white/80 text-lg max-w-2xl mx-auto">
+            Chaque ville a son propre site avec des informations localisées, 
+            des déménageurs locaux et des tarifs adaptés à votre région.
+          </p>
+        </div>
+        
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
           {nationalCities.map((city) => (
-            <a
+            <Link
               key={city.href}
               href={city.href}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="card-glass rounded-xl p-6 text-center hover:bg-white/10 transition-all duration-300 hover:scale-105 group"
+              className="group relative overflow-hidden rounded-2xl bg-gradient-to-br from-white/5 to-white/10 border border-white/20 hover:border-[#6bcfcf]/50 transition-all duration-300 hover:scale-105 hover:shadow-xl"
             >
-              <div className="text-3xl mb-3">🏙️</div>
-              <p className="text-white font-semibold text-lg group-hover:text-[#6bcfcf] transition-colors">
-                {city.name}
-              </p>
-            </a>
+              {/* Background pattern */}
+              <div className="absolute inset-0 bg-gradient-to-br from-[#2b7a78]/10 to-[#6bcfcf]/10 opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
+              
+              <div className="relative p-6">
+                {/* City icon with gradient */}
+                <div className="w-16 h-16 mx-auto mb-4 rounded-full bg-gradient-to-br from-[#6bcfcf] to-[#2b7a78] flex items-center justify-center shadow-lg group-hover:shadow-xl transition-shadow duration-300">
+                  <span className="text-2xl">🏙️</span>
+                </div>
+                
+                {/* City name */}
+                <h3 className="text-xl font-bold text-white text-center mb-2 group-hover:text-[#6bcfcf] transition-colors">
+                  {city.name}
+                </h3>
+                
+                {/* Description */}
+                <p className="text-white/70 text-sm text-center mb-4">
+                  Déménageurs certifiés
+                </p>
+                
+                {/* Arrow indicator */}
+                <div className="flex justify-center">
+                  <div className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center group-hover:bg-[#6bcfcf] group-hover:text-[#04163a] transition-all duration-300">
+                    <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                    </svg>
+                  </div>
+                </div>
+              </div>
+            </Link>
           ))}
         </div>
-        <div className="text-center mt-8">
+        
+        <div className="text-center mt-12">
           <Link
             href="/services"
-            className="inline-flex items-center justify-center rounded-full bg-white/10 border border-white/20 px-6 py-3 text-white font-medium hover:bg-white/20 transition-all duration-300"
+            className="inline-flex items-center gap-2 rounded-full bg-[#2b7a78] px-8 py-4 text-white font-semibold hover:bg-[#2b7a78]/90 hover:scale-105 transition-all duration-300 shadow-lg"
           >
-            Voir toutes les zones
+            Découvrir tous nos services
+            <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+            </svg>
           </Link>
         </div>
       </div>
