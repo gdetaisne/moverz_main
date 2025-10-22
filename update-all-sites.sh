@@ -15,6 +15,7 @@ for site in "${SITES[@]}"; do
   cp components/KeyStats.tsx sites/$site/components/ 2>/dev/null || echo "  ⚠️  KeyStats.tsx déjà présent ou erreur"
   cp components/PartnerCTA.tsx sites/$site/components/ 2>/dev/null || echo "  ⚠️  PartnerCTA.tsx déjà présent ou erreur"
   cp components/ZonesCovered.tsx sites/$site/components/ 2>/dev/null || echo "  ⚠️  ZonesCovered.tsx déjà présent ou erreur"
+  cp components/NationalCities.tsx sites/$site/components/ 2>/dev/null || echo "  ⚠️  NationalCities.tsx déjà présent ou erreur"
   
   # Copier les composants mis à jour
   cp components/Header.tsx sites/$site/components/ 2>/dev/null || echo "  ⚠️  Header.tsx déjà présent ou erreur"
