@@ -7,6 +7,7 @@ import PhotoGuidelines from "@/components/PhotoGuidelines";
 import PricingPreview from "@/components/PricingPreview";
 import Testimonials from "@/components/Testimonials";
 import PartnerCTA from "@/components/PartnerCTA";
+import NationalCities from "@/components/NationalCities";
 import StickyCTA from "@/components/StickyCTA";
 
 export default function Home() {
@@ -27,7 +28,7 @@ export default function Home() {
         </div>
       </section>
       
-      {/* 4. Zones couvertes - Locales et Nationales */}
+      {/* 4. Zones couvertes - Locales */}
       <section className="section">
         <div className="container">
           <ZonesCovered />
@@ -68,6 +69,9 @@ export default function Home() {
           <PartnerCTA />
         </div>
       </section>
+      
+      {/* 10. Sites nationaux */}
+      <NationalCities />
       
       <StickyCTA />
     </main>
