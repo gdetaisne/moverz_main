@@ -70,8 +70,8 @@ export default function Home() {
         </div>
       </section>
       
-      {/* 10. Sites nationaux */}
-      <NationalCities />
+          {/* 10. Sites nationaux */}
+          <NationalCities />
       
       <StickyCTA />
     </main>
