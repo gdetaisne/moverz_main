@@ -30,12 +30,7 @@ git commit -m "🔄 FORCE REBUILD $SITE - $(date)
 echo "📤 Push vers GitHub pour déclencher webhook..."
 git push
 
-# Push vers le repository spécifique du site
-echo "📤 Push vers $SITE repository..."
-git push $SITE main
-
 echo ""
 echo "🎯 REBUILD DÉCLENCHÉ !"
 echo ""
 echo "Vérifiez dans CapRover app '$APP_NAME' que le déploiement a commencé."
-
