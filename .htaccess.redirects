@@ -1,0 +1,55 @@
+# ==========================================
+# MOVERZ - Redirections 301 (SEO-friendly)
+# Génération automatique basée sur GA4 404 Monitor
+# Date: 2025-10-22
+# ==========================================
+
+# Activer le moteur de réécriture
+RewriteEngine On
+
+# ==========================================
+# 1. Redirections /blog → /actualites
+# ==========================================
+# Pattern: /blog ou /blog/ ou /blog/* → /actualites
+RewriteRule ^blog/?$ /actualites [R=301,L]
+RewriteRule ^blog/(.*)$ /actualites/$1 [R=301,L]
+
+# ==========================================
+# 2. Redirection /estimation-rapide → /devis
+# ==========================================
+RewriteRule ^estimation-rapide/?$ /devis [R=301,L]
+
+# ==========================================
+# 3. Redirection /inventaire-ia → /analyse-ia
+# ==========================================
+RewriteRule ^inventaire-ia/?$ /analyse-ia [R=301,L]
+
+# ==========================================
+# 4. Anciennes pages de services (exemple)
+# ==========================================
+# Si vous avez des anciennes URLs de services:
+# RewriteRule ^services/demenagement-international/?$ /services/international [R=301,L]
+
+# ==========================================
+# 5. Gestion des URLs sans trailing slash
+# ==========================================
+# Forcer un trailing slash pour la cohérence SEO (optionnel)
+# RewriteCond %{REQUEST_FILENAME} !-f
+# RewriteCond %{REQUEST_URI} !(.*)/$
+# RewriteRule ^(.*)$ /$1/ [R=301,L]
+
+# ==========================================
+# 6. Redirections spécifiques par domaine
+# ==========================================
+# Pour devis-demenageur-toulousain.fr
+<IfModule mod_rewrite.c>
+RewriteCond %{HTTP_HOST} ^devis-demenageur-toulousain\.fr$ [NC]
+RewriteRule ^old-page/?$ /nouvelle-page [R=301,L]
+</IfModule>
+
+# ==========================================
+# 7. Catch-all pour les 404 restants
+# ==========================================
+# Rediriger toutes les 404 vers la page d'accueil (à utiliser avec précaution)
+# ErrorDocument 404 /404
+
