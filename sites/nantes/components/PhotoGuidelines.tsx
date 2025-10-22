@@ -12,18 +12,18 @@ type Card = {
 const items: Card[] = [
   {
     icon: Camera,
-    title: "3 à 10 photos par pièce, cadrage large à hauteur de poitrine",
-    caption: "Capturez l'essentiel de chaque pièce.",
+    title: "Prenez large",
+    caption: "Capturez l'ensemble de la pièce, de préférence en plein jour.",
   },
   {
     icon: Lightbulb,
-    title: "Inclure plafonniers, lampes, objets fragiles",
-    caption: "Montrez tous les éléments importants.",
+    title: "Montrez les détails",
+    caption: "Objets fragiles, instruments, tableaux, etc.",
   },
   {
     icon: RotateCcw,
-    title: "Plusieurs angles ok → un objet compté une seule fois",
-    caption: "Vous pouvez photographier sous différents angles.",
+    title: "Ajoutez plusieurs angles",
+    caption: "L'IA fusionne les images pour plus de précision.",
   },
 ];
 
@@ -52,67 +52,57 @@ export default function PhotoGuidelines({
         <h2
           id="photo-guidelines-title"
           className={clsx(
-            "font-semibold tracking-tight",
-            compact ? "text-xl" : "text-2xl md:text-3xl"
+            "font-bold tracking-tight text-center",
+            compact ? "text-2xl" : "text-3xl md:text-4xl"
           )}
         >
-          Bien préparer vos photos
+          Bien préparer vos photos pour une estimation parfaite
         </h2>
-        <p
-          className={clsx(
-            "mt-2 text-white/80",
-            compact ? "text-sm" : "text-base"
-          )}
-        >
-          3 conseils pour une estimation précise
-        </p>
 
-        <div className="mt-6 grid grid-cols-1 gap-4 md:mt-8 md:grid-cols-3 md:gap-6">
+        <div className="mt-10 grid grid-cols-1 gap-6 md:mt-12 md:grid-cols-3 md:gap-8">
           {items.map(({ icon: Icon, title, caption }) => (
             <div
               key={title}
               className={clsx(
-                "rounded-2xl bg-white/5 border border-white/10 backdrop-blur",
-                compact ? "p-4" : "p-5 md:p-6",
-                "hover:bg-white/10 transition-colors duration-300",
-                "cursor-pointer focus-within:ring-2 focus-within:ring-white/50 focus-within:ring-offset-2 focus-within:ring-offset-transparent"
+                "rounded-2xl bg-white/5 border border-white/10 backdrop-blur text-center",
+                compact ? "p-6" : "p-8",
+                "hover:bg-white/10 hover:scale-105 transition-all duration-300 group"
               )}
-              role="button"
-              tabIndex={0}
-              aria-label={`${title}: ${caption}`}
             >
-              <div className="flex items-start gap-4">
-                <div className="shrink-0 rounded-xl p-2 border border-white/15 bg-white/5">
+              <div className="flex justify-center mb-4">
+                <div className="rounded-full p-4 border border-white/15 bg-white/5 group-hover:bg-white/10 transition-colors">
                   <Icon
                     aria-hidden="true"
                     className={clsx(
-                      compact ? "h-6 w-6" : "h-7 w-7"
+                      compact ? "h-8 w-8" : "h-10 w-10"
                     )}
                     style={{ color: "#6bcfcf" }}
                   />
                 </div>
-                <div className="min-w-0 flex-1">
-                  <h3
-                    className={clsx(
-                      "font-medium",
-                      compact ? "text-base" : "text-lg"
-                    )}
-                  >
-                    {title}
-                  </h3>
-                  <p
-                    className={clsx(
-                      "mt-1 text-white/80",
-                      compact ? "text-sm" : "text-[15px]"
-                    )}
-                  >
-                    {caption}
-                  </p>
-                </div>
               </div>
+              <h3
+                className={clsx(
+                  "font-semibold text-white mb-3",
+                  compact ? "text-lg" : "text-xl"
+                )}
+              >
+                {title}
+              </h3>
+              <p
+                className={clsx(
+                  "text-white/80 leading-relaxed",
+                  compact ? "text-sm" : "text-base"
+                )}
+              >
+                {caption}
+              </p>
             </div>
           ))}
         </div>
+
+        <p className="mt-8 text-center text-white/70 max-w-3xl mx-auto">
+          Notre IA analyse les volumes, détecte les objets fragiles et ajuste le cubage final.
+        </p>
 
         {/* Bouton optionnel - masqué car la route /exemples-photos n'existe pas encore */}
         {false && (

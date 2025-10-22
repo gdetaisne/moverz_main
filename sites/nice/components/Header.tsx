@@ -41,12 +41,12 @@ export default function Header() {
   };
 
   const zonesItems = [
-    { href: '/nice', label: 'Nice' },
-    { href: '/nice/vieux-nice', label: 'Vieux Nice' },
-    { href: '/nice/promenade-anglais', label: 'Promenade des Anglais' },
-    { href: '/nice/cimiez', label: 'Cimiez' },
-    { href: '/nice/liberation', label: 'Libération' },
-    { href: '/nice/port', label: 'Port' },  ];
+    { href: '/toulouse', label: 'Toulouse' },
+    { href: '/toulouse/capitole', label: 'Capitole' },
+    { href: '/toulouse/saint-cyprien', label: 'Saint-Cyprien' },
+    { href: '/toulouse/carmes', label: 'Carmes' },
+    { href: '/toulouse/jean-jaures', label: 'Jean Jaurès' },
+    { href: '/toulouse/compans', label: 'Compans' },  ];
 
 
   return (
@@ -66,28 +66,19 @@ export default function Header() {
           <div className="text-white font-semibold tracking-tight text-sm md:text-base leading-tight flex flex-col">
             <span>Devis</span>
             <span>Déménageur</span>
-            <span>Nice</span>
+            <span>Toulouse</span>
           </div>
         </Link>
 
         {/* Navigation Desktop */}
         <nav className="hidden md:flex items-center gap-6 text-sm">
-          {/* Comment ça marche Button */}
+          {/* Comment ça marche */}
           <Link 
             href="/comment-ca-marche" 
-            className="hover:text-brand-secondary transition-colors"
+            className="hover:text-[#6bcfcf] transition-colors duration-200"
             onClick={() => trackClick('comment-ca-marche')}
           >
             Comment ça marche
-          </Link>
-
-          {/* Services Button */}
-          <Link 
-            href="/services" 
-            className="hover:text-brand-secondary transition-colors"
-            onClick={() => trackClick('services')}
-          >
-            Services
           </Link>
 
           {/* Zones Desservies Dropdown */}
@@ -97,7 +88,7 @@ export default function Header() {
             onKeyDown={(e) => handleKeyDown(e, 'zones')}
           >
             <button
-              className="hover:text-brand-secondary transition-colors flex items-center gap-1"
+              className="hover:text-[#6bcfcf] transition-colors duration-200 flex items-center gap-1"
               onClick={() => setIsZonesDropdownOpen(!isZonesDropdownOpen)}
               onKeyDown={(e) => e.key === 'Enter' && setIsZonesDropdownOpen(!isZonesDropdownOpen)}
               aria-haspopup="menu"
@@ -136,59 +127,61 @@ export default function Header() {
                   Destinations fréquentes
                 </div>
                 <Link
-                  href="/nice-vers-paris"
+                  href="/toulouse-vers-paris"
                   className="block px-4 py-2 text-gray-800 hover:bg-white/50 transition-colors"
                   onClick={() => {
                     setIsZonesDropdownOpen(false);
                     trackClick('corridor-paris');
                   }}
                 >
-                  Nice → Paris
+                  Toulouse → Paris
                 </Link>
                 <Link
-                  href="/nice-vers-lyon"
+                  href="/toulouse-vers-lyon"
                   className="block px-4 py-2 text-gray-800 hover:bg-white/50 transition-colors"
                   onClick={() => {
                     setIsZonesDropdownOpen(false);
                     trackClick('corridor-lyon');
                   }}
                 >
-                  Nice → Lyon
+                  Toulouse → Lyon
                 </Link>
                 <Link
-                  href="/nice-vers-toulouse"
+                  href="/toulouse-vers-marseille"
                   className="block px-4 py-2 text-gray-800 hover:bg-white/50 transition-colors"
                   onClick={() => {
                     setIsZonesDropdownOpen(false);
-                    trackClick('corridor-toulouse');
+                    trackClick('corridor-marseille');
                   }}
                 >
-                  Nice → Toulouse
+                  Toulouse → Marseille
                 </Link>
               </div>
             )}
           </div>
 
           <Link 
-            href="/partenaires" 
-            className="hover:text-brand-secondary transition-colors"
-            onClick={() => trackClick('partenaires')}
+            href="/notre-offre" 
+            className="hover:text-[#6bcfcf] transition-colors duration-200"
+            onClick={() => trackClick('tarifs')}
           >
-            Partenaires
+            Tarifs
           </Link>
-          <Link 
-            href="/blog" 
-            className="hover:text-brand-secondary transition-colors"
-            onClick={() => trackClick('blog')}
-          >
-            Blog
-          </Link>
+
           <Link 
             href="/faq" 
-            className="hover:text-brand-secondary transition-colors"
+            className="hover:text-[#6bcfcf] transition-colors duration-200"
             onClick={() => trackClick('faq')}
           >
             FAQ
+          </Link>
+          
+          <Link 
+            href="/partenaires" 
+            className="hover:text-[#6bcfcf] transition-colors duration-200"
+            onClick={() => trackClick('partenaires')}
+          >
+            Espace partenaires
           </Link>
         </nav>
 
@@ -196,10 +189,10 @@ export default function Header() {
         <div className="flex items-center gap-3">
           <Link 
             href="/inventaire-ia" 
-            className="hidden sm:inline-flex h-11 items-center justify-center rounded-2xl bg-[#2b7a78] px-5 text-sm font-medium text-white shadow-marketing-xl hover:brightness-110 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white/50 transition duration-300"
+            className="hidden sm:inline-flex h-11 items-center justify-center rounded-full bg-[#2b7a78] px-6 text-sm font-medium text-white shadow-lg hover:brightness-110 hover:scale-105 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white/50 transition-all duration-300"
             onClick={() => trackClick('cta-header')}
           >
-            Obtenir 5 devis gratuits
+            Obtenez vos devis gratuits
           </Link>
           
           {/* Mobile Menu Button */}

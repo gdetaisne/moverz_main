@@ -1,53 +1,74 @@
 import Hero from "@/components/Hero";
-import ValueTriad from "@/components/ValueTriad";
+import Guarantees from "@/components/Guarantees";
 import HowItWorks from "@/components/HowItWorks";
-import ProofStrip from "@/components/ProofStrip";
+import ZonesCovered from "@/components/ZonesCovered";
+import KeyStats from "@/components/KeyStats";
 import PhotoGuidelines from "@/components/PhotoGuidelines";
 import PricingPreview from "@/components/PricingPreview";
 import Testimonials from "@/components/Testimonials";
-import NeighborhoodsTeaser from "@/components/NeighborhoodsTeaser";
+import PartnerCTA from "@/components/PartnerCTA";
 import StickyCTA from "@/components/StickyCTA";
 
 export default function Home() {
   return (
     <main className="bg-hero">
       <div className="halo" />
+      
+      {/* 1. Hero Section */}
       <Hero />
-      <section className="section">
-        <div className="container">
-          <ValueTriad />
-        </div>
-      </section>
+      
+      {/* 2. Nos garanties */}
+      <Guarantees />
+      
+      {/* 3. Comment ça marche */}
       <section className="section">
         <div className="container">
           <HowItWorks />
         </div>
       </section>
+      
+      {/* 4. Zones couvertes - Locales et Nationales */}
       <section className="section">
         <div className="container">
-          <NeighborhoodsTeaser />
+          <ZonesCovered />
         </div>
       </section>
+      
+      {/* 5. Chiffres clés */}
       <section className="section">
         <div className="container">
-          <ProofStrip />
+          <KeyStats />
         </div>
       </section>
+      
+      {/* 6. Bien préparer vos photos */}
       <section className="section">
         <div className="container">
           <PhotoGuidelines className="my-12 md:my-16" />
         </div>
       </section>
+      
+      {/* 7. Tarifs indicatifs */}
       <section className="section">
         <div className="container">
           <PricingPreview />
         </div>
       </section>
+      
+      {/* 8. Témoignages */}
       <section className="section">
         <div className="container">
           <Testimonials />
         </div>
       </section>
+      
+      {/* 9. Devenir partenaire */}
+      <section className="section">
+        <div className="container">
+          <PartnerCTA />
+        </div>
+      </section>
+      
       <StickyCTA />
     </main>
   );
