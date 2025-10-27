@@ -4,8 +4,8 @@ import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
 
-// Fonction locale pour lire SEULEMENT les articles de Marseille
-function getMarseilleBlogPosts() {
+// Fonction locale pour lire SEULEMENT les articles de Lyon
+function getLyonBlogPosts() {
   const blogDirectory = path.join(process.cwd(), 'content/blog')
   
   if (!fs.existsSync(blogDirectory)) {
@@ -35,8 +35,8 @@ function getMarseilleBlogPosts() {
         category: category,
         type: data.type || 'satellite',
         publish_date: data.publish_date || data.date || new Date().toISOString().split('T')[0],
-        cleanCategory: category.replace('-marseille', ''),
-        cleanSlug: file.replace('.md', '').replace('-marseille', '')
+        cleanCategory: category.replace('-lyon', ''),
+        cleanSlug: file.replace('.md', '').replace('-lyon', '')
       })
     })
   })
@@ -45,10 +45,10 @@ function getMarseilleBlogPosts() {
 }
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://devis-demenageur-marseille.fr'
+  const baseUrl = 'https://devis-demenageur-lyon.fr'
   
-  // Récupérer SEULEMENT les articles de blog de Marseille
-  const blogPosts = getMarseilleBlogPosts()
+  // Récupérer SEULEMENT les articles de blog de Lyon
+  const blogPosts = getLyonBlogPosts()
   
   // Pages statiques
   const staticPages: MetadataRoute.Sitemap = [
@@ -65,55 +65,55 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/services/demenagement-economique-marseille`,
+      url: `${baseUrl}/services/demenagement-economique-lyon`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.7,
     },
     {
-      url: `${baseUrl}/services/demenagement-standard-marseille`,
+      url: `${baseUrl}/services/demenagement-standard-lyon`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.7,
     },
     {
-      url: `${baseUrl}/services/demenagement-premium-marseille`,
+      url: `${baseUrl}/services/demenagement-premium-lyon`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.7,
     },
     {
-      url: `${baseUrl}/marseille`,
+      url: `${baseUrl}/lyon`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.9,
     },
     {
-      url: `${baseUrl}/marseille/chartrons`,
+      url: `${baseUrl}/lyon/chartrons`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/marseille/cauderan`,
+      url: `${baseUrl}/lyon/cauderan`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/marseille/bastide`,
+      url: `${baseUrl}/lyon/bastide`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/marseille/merignac`,
+      url: `${baseUrl}/lyon/merignac`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/marseille/pessac`,
+      url: `${baseUrl}/lyon/pessac`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
@@ -144,37 +144,37 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
     // Pages corridors
     {
-      url: `${baseUrl}/marseille-vers-paris`,
+      url: `${baseUrl}/lyon-vers-paris`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/marseille-vers-lyon`,
+      url: `${baseUrl}/lyon-vers-lyon`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/marseille-vers-toulouse`,
+      url: `${baseUrl}/lyon-vers-toulouse`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/marseille-vers-nantes`,
+      url: `${baseUrl}/lyon-vers-nantes`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/marseille-vers-marseille`,
+      url: `${baseUrl}/lyon-vers-marseille`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/marseille-vers-espagne`,
+      url: `${baseUrl}/lyon-vers-espagne`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,

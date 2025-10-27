@@ -39,11 +39,11 @@ function cleanupFile(filePath) {
     const categoryFolder = path.basename(path.dirname(filePath));
     
     const categoryMapping = {
-      'demenagement-etudiant-marseille': 'etudiant',
-      'demenagement-entreprise-marseille': 'entreprise',
-      'garde-meuble-marseille': 'garde-meuble',
-      'demenagement-urgent-marseille': 'urgent',
-      'prix-demenagement-marseille': 'prix',
+      'demenagement-etudiant-lyon': 'etudiant',
+      'demenagement-entreprise-lyon': 'entreprise',
+      'garde-meuble-lyon': 'garde-meuble',
+      'demenagement-urgent-lyon': 'urgent',
+      'prix-demenagement-lyon': 'prix',
     };
     
     const cleanCategory = categoryMapping[categoryFolder] || categoryFolder;
@@ -51,10 +51,10 @@ function cleanupFile(filePath) {
     // Clean le slug
     let cleanSlug = fileName;
     const patterns = [
-      'demenagement-etudiant-marseille-',
-      'garde-meuble-marseille-',
-      'demenagement-urgent-marseille-',
-      'prix-garde-meuble-marseille-',
+      'demenagement-etudiant-lyon-',
+      'garde-meuble-lyon-',
+      'demenagement-urgent-lyon-',
+      'prix-garde-meuble-lyon-',
     ];
     
     patterns.forEach(pattern => {
@@ -63,7 +63,7 @@ function cleanupFile(filePath) {
       }
     });
     
-    cleanSlug = cleanSlug.replace(/-marseille$/i, '');
+    cleanSlug = cleanSlug.replace(/-lyon$/i, '');
     cleanSlug = cleanSlug.replace(/-guide-complet$/i, '-guide');
     
     const selfUrl = `/blog/${cleanCategory}/${cleanSlug}`;

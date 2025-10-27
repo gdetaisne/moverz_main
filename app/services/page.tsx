@@ -13,7 +13,7 @@ export default function ServicesPage() {
         <div className="absolute inset-0">
           <img 
             src="https://images.unsplash.com/photo-1600518464441-9154a4dea21b?q=80&w=2000&auto=format&fit=crop"
-            alt="Services de déménagement professionnels à Marseille"
+            alt="Services de déménagement professionnels à Lyon"
             className="w-full h-full object-cover"
           />
           <div className="absolute inset-0 bg-gradient-to-br from-[#04163a]/95 via-[#2b7a78]/90 to-[#04163a]/90"></div>
@@ -31,7 +31,7 @@ export default function ServicesPage() {
               ]}
             />
             <h1 className="mt-6 text-3xl font-bold tracking-tight sm:text-4xl md:text-5xl">
-              Nos formules de déménagement depuis Marseille
+              Nos formules de déménagement depuis Lyon
             </h1>
             <p className="mt-4 text-lg md:text-xl text-white/90 max-w-3xl mx-auto">
               Choisissez la formule qui correspond à vos besoins et votre budget. 
@@ -71,7 +71,7 @@ export default function ServicesPage() {
                       <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                     </svg>
                   </div>
-                  <span className="text-white/90 text-sm">Estimation IA gratuite</span>
+                  <span className="text-white/90 text-sm">Chargement, déchargement et transport</span>
                 </div>
                 <div className="flex items-center gap-3">
                   <div className="w-5 h-5 rounded-full bg-[#6bcfcf] flex items-center justify-center">
@@ -79,7 +79,7 @@ export default function ServicesPage() {
                       <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                     </svg>
                   </div>
-                  <span className="text-white/90 text-sm">Fourniture de cartons</span>
+                  <span className="text-white/90 text-sm">Mobilier et cartons</span>
                 </div>
                 <div className="flex items-center gap-3">
                   <div className="w-5 h-5 rounded-full bg-[#6bcfcf] flex items-center justify-center">
@@ -101,9 +101,9 @@ export default function ServicesPage() {
 
               <div className="text-center">
                 <div className="text-2xl font-bold text-white mb-2">À partir de 450€</div>
-                <p className="text-white/60 text-sm mb-6">Local Marseille</p>
+                <p className="text-white/60 text-sm mb-6">Local Lyon</p>
                 <a
-                  href="/services/demenagement-economique-Marseille"
+                  href="/services/demenagement-economique-Lyon"
                   className="inline-flex items-center justify-center w-full px-6 py-3 rounded-xl bg-white/10 border border-white/20 text-white font-medium hover:bg-white/20 transition duration-300"
                 >
                   Découvrir cette formule
@@ -134,7 +134,7 @@ export default function ServicesPage() {
                       <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                     </svg>
                   </div>
-                  <span className="text-white/90 text-sm">Estimation IA gratuite</span>
+                  <span className="text-white/90 text-sm">Chargement et déplacement des meubles</span>
                 </div>
                 <div className="flex items-center gap-3">
                   <div className="w-5 h-5 rounded-full bg-[#6bcfcf] flex items-center justify-center">
@@ -142,7 +142,7 @@ export default function ServicesPage() {
                       <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                     </svg>
                   </div>
-                  <span className="text-white/90 text-sm">Emballage de base</span>
+                  <span className="text-white/90 text-sm">Objets précieux et fragiles</span>
                 </div>
                 <div className="flex items-center gap-3">
                   <div className="w-5 h-5 rounded-full bg-[#6bcfcf] flex items-center justify-center">
@@ -150,7 +150,7 @@ export default function ServicesPage() {
                       <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                     </svg>
                   </div>
-                  <span className="text-white/90 text-sm">Démontage/Remontage</span>
+                  <span className="text-white/90 text-sm">Montage et démontage mobilier</span>
                 </div>
                 <div className="flex items-center gap-3">
                   <div className="w-5 h-5 rounded-full bg-[#6bcfcf] flex items-center justify-center">
@@ -172,9 +172,9 @@ export default function ServicesPage() {
 
               <div className="text-center">
                 <div className="text-2xl font-bold text-white mb-2">À partir de 750€</div>
-                <p className="text-white/60 text-sm mb-6">Local Marseille</p>
+                <p className="text-white/60 text-sm mb-6">Local Lyon</p>
                 <a
-                  href="/services/demenagement-standard-Marseille"
+                  href="/services/demenagement-standard-Lyon"
                   className="inline-flex items-center justify-center w-full px-6 py-3 rounded-xl bg-[#6bcfcf] text-[#04163a] font-medium hover:bg-[#6bcfcf]/90 transition duration-300"
                 >
                   Découvrir cette formule
@@ -199,7 +199,7 @@ export default function ServicesPage() {
                       <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                     </svg>
                   </div>
-                  <span className="text-white/90 text-sm">Estimation IA gratuite</span>
+                  <span className="text-white/90 text-sm">Transport et chargement des meubles</span>
                 </div>
                 <div className="flex items-center gap-3">
                   <div className="w-5 h-5 rounded-full bg-[#6bcfcf] flex items-center justify-center">
@@ -207,7 +207,7 @@ export default function ServicesPage() {
                       <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                     </svg>
                   </div>
-                  <span className="text-white/90 text-sm">Emballage complet</span>
+                  <span className="text-white/90 text-sm font-semibold">Objets fragiles</span>
                 </div>
                 <div className="flex items-center gap-3">
                   <div className="w-5 h-5 rounded-full bg-[#6bcfcf] flex items-center justify-center">
@@ -215,7 +215,15 @@ export default function ServicesPage() {
                       <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                     </svg>
                   </div>
-                  <span className="text-white/90 text-sm">Déballage inclus</span>
+                  <span className="text-white/90 text-sm">Emballage de vos biens</span>
+                </div>
+                <div className="flex items-center gap-3">
+                  <div className="w-5 h-5 rounded-full bg-[#6bcfcf] flex items-center justify-center">
+                    <svg className="w-3 h-3 text-[#04163a]" fill="currentColor" viewBox="0 0 20 20">
+                      <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
+                    </svg>
+                  </div>
+                  <span className="text-white/90 text-sm">Montage et démontage mobilier</span>
                 </div>
                 <div className="flex items-center gap-3">
                   <div className="w-5 h-5 rounded-full bg-[#6bcfcf] flex items-center justify-center">
@@ -231,23 +239,15 @@ export default function ServicesPage() {
                       <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                     </svg>
                   </div>
-                  <span className="text-white/90 text-sm">Garde-meuble</span>
-                </div>
-                <div className="flex items-center gap-3">
-                  <div className="w-5 h-5 rounded-full bg-[#6bcfcf] flex items-center justify-center">
-                    <svg className="w-3 h-3 text-[#04163a]" fill="currentColor" viewBox="0 0 20 20">
-                      <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
-                    </svg>
-                  </div>
                   <span className="text-white/90 text-sm">Support dédié 24/7</span>
                 </div>
               </div>
 
               <div className="text-center">
                 <div className="text-2xl font-bold text-white mb-2">À partir de 1200€</div>
-                <p className="text-white/60 text-sm mb-6">Local Marseille</p>
+                <p className="text-white/60 text-sm mb-6">Local Lyon</p>
                 <a
-                  href="/services/demenagement-premium-Marseille"
+                  href="/services/demenagement-premium-Lyon"
                   className="inline-flex items-center justify-center w-full px-6 py-3 rounded-xl bg-white/10 border border-white/20 text-white font-medium hover:bg-white/20 transition duration-300"
                 >
                   Découvrir cette formule

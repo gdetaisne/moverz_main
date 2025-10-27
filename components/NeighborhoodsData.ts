@@ -1,28 +1,28 @@
 export type Item = { slug: string; title: string };
 
 export const QUARTIERS: Item[] = [
-  { slug: "vieux-port",      title: "Le Vieux-Port" },
-  { slug: "plaine",      title: "La Plaine" },
-  { slug: "panier",      title: "Le Panier" },
-  { slug: "endoume",      title: "Endoume" },
-  { slug: "joliette",      title: "La Joliette" },
-  { slug: "canebiere",      title: "La Canebière" },
-  { slug: "cours-julien",      title: "Le Cours Julien" },
-  { slug: "chateau-gombert",      title: "Château-Gombert" },
-  { slug: "calanques",      title: "Les Calanques" },
-  { slug: "saint-victor",     title: "Saint-Victor" },
+  { slug: "presquile",      title: "La Presqu'île" },
+  { slug: "croix-rousse",      title: "La Croix-Rousse" },
+  { slug: "vieux-lyon",      title: "Vieux Lyon" },
+  { slug: "part-dieu",      title: "Part-Dieu" },
+  { slug: "confluence",      title: "Confluence" },
+  { slug: "brotteaux",      title: "Brotteaux" },
+  { slug: "montchat",      title: "Montchat" },
+  { slug: "guillotiere",      title: "Guillotière" },
+  { slug: "gerland",      title: "Gerland" },
+  { slug: "tete-dor",     title: "Tête d'Or" },
 ];
 
 export const COMMUNES: Item[] = [
-  { slug: "aubagne",       title: "Aubagne" },
-  { slug: "aix-en-provence",       title: "Aix-en-Provence" },
-  { slug: "allauch",       title: "Allauch" },
-  { slug: "plan-de-cuques",       title: "Plan-de-Cuques" },
-  { slug: "ciotat",       title: "La Ciotat" },
+  { slug: "villeurbanne",       title: "Villeurbanne" },
+  { slug: "venissieux",       title: "Vénissieux" },
+  { slug: "saint-fons",       title: "Saint-Fons" },
+  { slug: "oullins",       title: "Oullins" },
+  { slug: "caluire-et-cuire",       title: "Caluire-et-Cuire" },
 ];
 
 export function urlForQuartier(slug: string) {
-  return `/devis-demenagement-Marseille-${slug}/`;
+  return `/devis-demenagement-Lyon-${slug}/`;
 }
 export function urlForCommune(slug: string) {
   return `/devis-demenagement-${slug}/`;

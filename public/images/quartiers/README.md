@@ -1,4 +1,4 @@
-# 🏘️ Quartiers Marseille Images
+# 🏘️ Quartiers lyon Images
 
 ## Images Suggérées
 
@@ -15,7 +15,7 @@
 - **Format**: 16:9 ou 4:3
 - **Dimensions**: 1600x900px
 - **Contenu**: Rues pavées centre historique, accès limité
-- **Alt**: `"Saint-Pierre — rues pavées, accès camion limité, centre historique Marseille"`
+- **Alt**: `"Saint-Pierre — rues pavées, accès camion limité, centre historique lyon"`
 
 #### `cauderan.jpg`
 - **Format**: 16:9 ou 4:3
@@ -43,12 +43,12 @@
 
 ## Utilisé Dans
 - `app/_templates/LocalPage.tsx` (pages quartiers)
-- `app/marseille/[quartier]/page.tsx`
+- `app/lyon/[quartier]/page.tsx`
 
 ## Comment Ajouter
 ```tsx
 const quartierData = {
-  zone: "marseille/nom-quartier",
+  zone: "lyon/nom-quartier",
   zoneDisplay: "Nom Quartier",
   coverImage: "/images/quartiers/nom-quartier.jpg", // ← Ajouter ici
   // ... autres props
@@ -56,10 +56,10 @@ const quartierData = {
 ```
 
 ## Sources d'Images
-- **Unsplash**: `"marseille architecture"`, `"marseille street"`
+- **Unsplash**: `"lyon architecture"`, `"lyon street"`
 - **Pexels**: `"french architecture"`, `"european street"`
-- **Flickr**: Recherche géolocalisée Marseille
-- **Wikimedia Commons**: Photos libres quartiers Marseille
+- **Flickr**: Recherche géolocalisée lyon
+- **Wikimedia Commons**: Photos libres quartiers lyon
 
 ## Guidelines
 - Montrer les spécificités d'accès (étroit/large, parking, etc.)
