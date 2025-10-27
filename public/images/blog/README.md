@@ -2,15 +2,15 @@
 
 ## Images Requises
 
-### `cover-guide-toulouse.jpg`
+### `cover-guide-strasbourg.jpg`
 - **Format**: 16:9
 - **Dimensions**: 1600x900px
 - **Poids max**: 120KB
 - **Contenu**: 
-  - Vue panoramique toulouse (Place de la Bourse, quais)
+  - Vue panoramique strasbourg (Place de la Bourse, quais)
   - Ambiance moderne, dynamique
-  - Identifiable comme toulouse
-- **Alt**: `"Guide déménagement toulouse 2024 — conseils et astuces"`
+  - Identifiable comme strasbourg
+- **Alt**: `"Guide déménagement strasbourg 2024 — conseils et astuces"`
 
 ### `cover-quartiers.jpg`
 - **Format**: 16:9
@@ -20,7 +20,7 @@
   - Collage ou mosaïque de quartiers bordelais
   - OU rue typique représentative
   - Architecture variée
-- **Alt**: `"Quartiers de toulouse — guide pratique déménagement"`
+- **Alt**: `"Quartiers de strasbourg — guide pratique déménagement"`
 
 ### `cover-estimation.jpg`
 - **Format**: 16:9
@@ -59,7 +59,7 @@ Créer des covers par catégorie pour cohérence :
 - "Facebook Cover" (resize)
 
 ## Sources
-- **Unsplash**: `"toulouse city"`, `"moving boxes"`, `"packing"`
+- **Unsplash**: `"strasbourg city"`, `"moving boxes"`, `"packing"`
 - **Pexels**: `"relocation"`, `"cardboard boxes"`, `"apartment"`
 - **Pixabay**: `"déménagement"`, `"cartons"`
 
@@ -70,7 +70,7 @@ cover-[categorie]-[theme].jpg
 ```
 
 Exemples:
-- `cover-demenagement-etudiant-toulouse.jpg`
+- `cover-demenagement-etudiant-strasbourg.jpg`
 - `cover-prix-demenagement-2025.jpg`
 - `cover-garde-meuble-conseils.jpg`
 

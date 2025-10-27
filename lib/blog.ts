@@ -4,17 +4,17 @@ import matter from 'gray-matter';
 
 // Mapping des catégories pour URLs courtes
 const CATEGORY_MAPPING = {
-  'demenagement-etudiant-toulouse': 'etudiant',
-  'demenagement-entreprise-toulouse': 'entreprise', 
-  'demenagement-piano-toulouse': 'piano',
-  'demenagement-international-toulouse': 'international',
-  'demenagement-longue-distance-toulouse': 'longue-distance',
-  'demenagement-pas-cher-toulouse': 'pas-cher',
-  'demenagement-urgent-toulouse': 'urgent',
-  'devis-demenagement-toulouse': 'devis',
-  'garde-meuble-toulouse': 'garde-meuble',
-  'prix-demenagement-toulouse': 'prix',
-  'prix-demenagement-piano-toulouse': 'prix-piano',
+  'demenagement-etudiant-strasbourg': 'etudiant',
+  'demenagement-entreprise-strasbourg': 'entreprise', 
+  'demenagement-piano-strasbourg': 'piano',
+  'demenagement-international-strasbourg': 'international',
+  'demenagement-longue-distance-strasbourg': 'longue-distance',
+  'demenagement-pas-cher-strasbourg': 'pas-cher',
+  'demenagement-urgent-strasbourg': 'urgent',
+  'devis-demenagement-strasbourg': 'devis',
+  'garde-meuble-strasbourg': 'garde-meuble',
+  'prix-demenagement-strasbourg': 'prix',
+  'prix-demenagement-piano-strasbourg': 'prix-piano',
   // Gestion des catégories avec espaces (fallback)
   'Déménagement entreprise': 'entreprise',
   'Déménagement étudiant': 'etudiant',

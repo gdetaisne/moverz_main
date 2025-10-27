@@ -1,28 +1,28 @@
 export type Item = { slug: string; title: string };
 
 export const QUARTIERS: Item[] = [
-  { slug: "capitole",      title: "Capitole" },
-  { slug: "saint-cyprien",      title: "Saint-Cyprien" },
-  { slug: "carmes",      title: "Carmes" },
-  { slug: "jean-jaures",      title: "Jean Jaurès" },
-  { slug: "compans",      title: "Compans" },
-  { slug: "matabiau",      title: "Matabiau" },
-  { slug: "mirail",      title: "Mirail" },
-  { slug: "rangueil",      title: "Rangueil" },
-  { slug: "purpan",      title: "Purpan" },
-  { slug: "borderouge",     title: "Borderouge" },
+  { slug: "grande-ile",      title: "Grande Île" },
+  { slug: "neudorf",      title: "Neudorf" },
+  { slug: "cronenbourg",      title: "Cronenbourg" },
+  { slug: "hautepierre",      title: "Hautepierre" },
+  { slug: "esplanade",      title: "Esplanade" },
+  { slug: "orangerie",      title: "Orangerie" },
+  { slug: "contades",      title: "Contades" },
+  { slug: "gare",      title: "Gare" },
+  { slug: "robertsau",      title: "Robertsau" },
+  { slug: "koenigshoffen",     title: "Koenigshoffen" },
 ];
 
 export const COMMUNES: Item[] = [
-  { slug: "blagnac",       title: "Blagnac" },
-  { slug: "colomiers",       title: "Colomiers" },
-  { slug: "tournefeuille",       title: "Tournefeuille" },
-  { slug: "muret",       title: "Muret" },
-  { slug: "cugnaux",       title: "Cugnaux" },
+  { slug: "illkirch-graffenstaden",       title: "Illkirch-Graffenstaden" },
+  { slug: "schiltigheim",       title: "Schiltigheim" },
+  { slug: "bischheim",       title: "Bischheim" },
+  { slug: "hoenheim",       title: "Hoenheim" },
+  { slug: "ostwald",       title: "Ostwald" },
 ];
 
 export function urlForQuartier(slug: string) {
-  return `/devis-demenagement-Toulouse-${slug}/`;
+  return `/devis-demenagement-Strasbourg-${slug}/`;
 }
 export function urlForCommune(slug: string) {
   return `/devis-demenagement-${slug}/`;
