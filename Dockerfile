@@ -1,8 +1,8 @@
-# Dockerfile spécifique pour rouen - FORCE REBUILD v3
+# Dockerfile spécifique pour rennes - FORCE REBUILD v3
 FROM node:20-alpine AS base
 RUN apk add --no-cache libc6-compat
 WORKDIR /app
-RUN echo "FORCE REBUILD rouen COMPLETE-1760519777-$(date +%s)" > /tmp/force-rebuild-$(date +%s).txt
+RUN echo "FORCE REBUILD rennes COMPLETE-1760519777-$(date +%s)" > /tmp/force-rebuild-$(date +%s).txt
 
 # Install dependencies
 FROM base AS deps

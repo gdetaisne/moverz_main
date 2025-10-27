@@ -1,4 +1,4 @@
-# 🏘️ Quartiers rouen Images
+# 🏘️ Quartiers rennes Images
 
 ## Images Suggérées
 
@@ -15,7 +15,7 @@
 - **Format**: 16:9 ou 4:3
 - **Dimensions**: 1600x900px
 - **Contenu**: Rues pavées centre historique, accès limité
-- **Alt**: `"Saint-Pierre — rues pavées, accès camion limité, centre historique rouen"`
+- **Alt**: `"Saint-Pierre — rues pavées, accès camion limité, centre historique rennes"`
 
 #### `cauderan.jpg`
 - **Format**: 16:9 ou 4:3
@@ -43,12 +43,12 @@
 
 ## Utilisé Dans
 - `app/_templates/LocalPage.tsx` (pages quartiers)
-- `app/rouen/[quartier]/page.tsx`
+- `app/rennes/[quartier]/page.tsx`
 
 ## Comment Ajouter
 ```tsx
 const quartierData = {
-  zone: "rouen/nom-quartier",
+  zone: "rennes/nom-quartier",
   zoneDisplay: "Nom Quartier",
   coverImage: "/images/quartiers/nom-quartier.jpg", // ← Ajouter ici
   // ... autres props
@@ -56,10 +56,10 @@ const quartierData = {
 ```
 
 ## Sources d'Images
-- **Unsplash**: `"rouen architecture"`, `"rouen street"`
+- **Unsplash**: `"rennes architecture"`, `"rennes street"`
 - **Pexels**: `"french architecture"`, `"european street"`
-- **Flickr**: Recherche géolocalisée rouen
-- **Wikimedia Commons**: Photos libres quartiers rouen
+- **Flickr**: Recherche géolocalisée rennes
+- **Wikimedia Commons**: Photos libres quartiers rennes
 
 ## Guidelines
 - Montrer les spécificités d'accès (étroit/large, parking, etc.)

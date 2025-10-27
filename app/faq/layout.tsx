@@ -2,9 +2,9 @@ import React from "react";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "FAQ — Déménagement à rouen | Déménageurs rouen (IA)",
+  title: "FAQ — Déménagement à rennes | Déménageurs rennes (IA)",
   description:
-    "Toutes les réponses sur le déménagement à rouen : prix, volume en m³, cartons, quartiers difficiles, autorisations de stationnement, périodes, etc.",
+    "Toutes les réponses sur le déménagement à rennes : prix, volume en m³, cartons, quartiers difficiles, autorisations de stationnement, périodes, etc.",
 };
 
 export default function FAQLayout({ children }: { children: React.ReactNode }) {
