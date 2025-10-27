@@ -1,28 +1,16 @@
 "use client";
-import Image from "next/image";
 
 export default function Hero() {
   return (
     <section className="relative overflow-hidden text-white">
-      {/* Image de fond avec overlay */}
-      <div className="absolute inset-0">
-        <Image 
-          src="https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?q=80&w=2000&auto=format&fit=crop"
-          alt="Déménagement professionnel à Toulouse"
-          fill
-          priority
-          sizes="100vw"
-          className="object-cover"
-          quality={85}
-        />
-        <div className="absolute inset-0 bg-gradient-to-br from-[#04163a]/95 via-[#2b7a78]/90 to-[#04163a]/95"></div>
-      </div>
+      {/* Fond dégradé sans photo */}
+      <div className="absolute inset-0 bg-gradient-to-br from-[#04163a]/95 via-[#2b7a78]/90 to-[#04163a]/95" />
 
       {/* Decoration elements */}
       <div className="absolute inset-0 bg-grid-white/[0.02] bg-[size:60px_60px]" />
       <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/5 to-transparent" />
       
-      <div className="relative mx-auto max-w-7xl px-6 py-16 md:px-12 md:py-24 lg:py-32">
+      <div className="relative mx-auto max-w-7xl px-6 py-12 md:px-12 md:py-16 lg:py-20">
         <div className="grid gap-10 lg:grid-cols-2 lg:items-center">
           {/* Texte */}
           <div className="text-center lg:text-left">
@@ -59,28 +47,79 @@ export default function Hero() {
             </div>
           </div>
 
-          {/* Image illustrative - AI Mockup */}
+          {/* Panneau verré avec les 3 étapes */}
           <div className="relative order-first lg:order-last">
-            <div className="relative h-64 w-full md:h-96 lg:h-[420px] rounded-2xl overflow-hidden bg-white/10 backdrop-blur-sm border border-white/20 shadow-2xl">
-              <Image 
-                src="/images/hero/hero-ai-mockup.jpg"
-                alt="Estimation de volume en m³ à partir de photos — déménagement à Toulouse"
-                fill
-                priority
-                sizes="(min-width: 1024px) 50vw, 100vw"
-                className="object-cover"
-                quality={90}
-              />
-              {/* Filigrane Toulouse - Place de la Bourse */}
-              <div className="absolute inset-0 bg-gradient-to-t from-[#04163a]/60 to-transparent"></div>
-              <div className="absolute bottom-0 left-0 right-0 p-4 text-xs text-white/60">
-                <span className="font-medium">🏛️ Toulouse</span>
+            {/* Fenêtre principale */}
+            <div className="relative w-full min-h-[24rem] md:min-h-[28rem] lg:min-h-[32rem] rounded-3xl border border-white/15 bg-white/10 shadow-[0_10px_40px_rgba(0,0,0,0.4)] backdrop-blur-xl overflow-hidden">
+              {/* Halo */}
+              <div className="pointer-events-none absolute -inset-1 rounded-[28px] bg-gradient-to-br from-white/20 via-white/5 to-transparent" />
+
+              {/* Badge IA fixé en haut à droite */}
+              <div className="absolute top-2 right-2 md:top-4 md:right-4">
+                <div className="relative bg-[#6bcfcf]/90 text-[#04163a] px-3 py-1.5 md:px-4 md:py-2 rounded-full text-xs md:text-sm font-semibold shadow-lg ring-1 ring-white/40 backdrop-blur-md">
+                  <span className="pointer-events-none absolute -inset-1 rounded-full bg-[#6bcfcf]/30 animate-ping" />
+                  <span className="relative">🤖 Propulsé par l'IA</span>
+                </div>
               </div>
-            </div>
-            
-            {/* Floating badge */}
-            <div className="absolute -top-4 -right-4 bg-[#6bcfcf] text-[#04163a] px-4 py-2 rounded-full text-sm font-semibold shadow-lg">
-              🤖 Propulsé par l'IA
+
+              {/* Barre de titre */}
+              <div className="relative z-10 flex items-center justify-between px-4 py-3 border-b border-white/10 bg-white/5">
+                <div className="flex items-center gap-2">
+                  <span className="h-2.5 w-2.5 rounded-full bg-red-400/80" />
+                  <span className="h-2.5 w-2.5 rounded-full bg-yellow-300/80" />
+                  <span className="h-2.5 w-2.5 rounded-full bg-emerald-400/80" />
+                </div>
+                <div className="text-xs font-semibold tracking-wide text-white/80">Moverz IA</div>
+                <div className="w-12" />
+              </div>
+
+              {/* Contenu */}
+              <div className="relative z-10 grid h-full grid-rows-3 gap-4 p-4 md:p-6">
+                {/* Étape 1 */}
+                <div className="rounded-2xl bg-white/8 p-4 md:p-5 border border-white/10 shadow-inner shadow-[0_8px_20px_rgba(0,0,0,0.25)] hover:shadow-[0_16px_40px_rgba(0,0,0,0.35)] hover:bg-white/10 transition-all duration-300 transform-gpu hover:-translate-y-0.5">
+                  <div className="flex items-center gap-3">
+                    <div className="flex h-9 w-9 items-center justify-center rounded-xl bg-white/15 border border-white/20 text-lg">📷</div>
+                    <div className="flex-1">
+                      <div className="text-sm md:text-base font-semibold">Photos uploadées</div>
+                      <div className="text-xs md:text-sm text-white/70">12 images analysées</div>
+                    </div>
+                  </div>
+                  <div className="mt-3 h-2 w-full rounded-full bg-white/10 overflow-hidden">
+                    <div className="h-2 rounded-full bg-gradient-to-r from-emerald-300 via-emerald-400 to-emerald-500 transition-[width] duration-700 ease-out" style={{ width: "68%" }} />
+                  </div>
+                </div>
+
+                {/* Étape 2 */}
+                <div className="rounded-2xl bg-white/8 p-4 md:p-5 border border-white/10 shadow-[0_8px_20px_rgba(0,0,0,0.25)] hover:shadow-[0_16px_40px_rgba(0,0,0,0.35)] hover:bg-white/10 transition-all duration-300 transform-gpu hover:-translate-y-0.5">
+                  <div className="flex items-center gap-3">
+                    <div className="flex h-9 w-9 items-center justify-center rounded-xl bg-white/15 border border-white/20 text-lg">🤖</div>
+                    <div className="flex-1">
+                      <div className="text-sm md:text-base font-semibold">Analyse IA</div>
+                      <div className="text-xs md:text-sm text-white/70">Volume estimé: 28 m³</div>
+                    </div>
+                  </div>
+                  <div className="mt-3 flex items-center gap-2 text-white/70">
+                    <span className="h-1.5 w-1.5 rounded-full bg-white/40" />
+                    <span className="h-1.5 w-1.5 rounded-full bg-white/60 animate-pulse" />
+                    <span className="h-1.5 w-1.5 rounded-full bg-white/80" />
+                    <span className="h-1.5 w-1.5 rounded-full bg-white animate-pulse" />
+                  </div>
+                </div>
+
+                {/* Étape 3 */}
+                <div className="rounded-2xl bg-white/8 p-4 md:p-5 border border-white/10 shadow-[0_8px_20px_rgba(0,0,0,0.25)] hover:shadow-[0_16px_40px_rgba(0,0,0,0.35)] hover:bg-white/10 transition-all duration-300 transform-gpu hover:-translate-y-0.5">
+                  <div className="flex items-center gap-3">
+                    <div className="flex h-9 w-9 items-center justify-center rounded-xl bg-emerald-400/20 border border-emerald-300/30 text-lg text-emerald-200">✅</div>
+                    <div className="flex-1">
+                      <div className="text-sm md:text-base font-semibold">5 devis générés</div>
+                      <div className="text-xs md:text-sm text-white/70">Prêts sous 7 jours</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              {/* Lueur extérieure */}
+              <div className="absolute -bottom-10 left-1/2 h-24 w-3/4 -translate-x-1/2 rounded-full bg-emerald-400/20 blur-3xl" />
             </div>
           </div>
         </div>

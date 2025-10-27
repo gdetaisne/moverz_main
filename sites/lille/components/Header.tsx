@@ -1,6 +1,7 @@
 'use client';
 
 import Link from 'next/link';
+import Image from 'next/image';
 import { useState, useRef, useEffect } from 'react';
 
 export default function Header() {
@@ -58,15 +59,19 @@ export default function Header() {
           className="flex items-center gap-3"
           onClick={() => trackClick('logo')}
         >
-          <img 
-            src="/logo.png" 
-            alt="Logo" 
-            className="h-16 w-16 object-cover rounded-sm scale-[2]"
+          <Image
+            src="/logo.png"
+            alt="Logo"
+            width={64}
+            height={64}
+            priority
+            className="h-16 w-16 object-contain rounded-sm"
+            sizes="(max-width: 768px) 48px, 64px"
           />
-          <div className="text-white font-semibold tracking-tight text-sm md:text-base leading-tight flex flex-col">
-            <span>Devis</span>
-            <span>Déménageur</span>
-            <span>Lille</span>
+          <div className="flex flex-col items-start leading-tight text-left">
+            <span className="text-white uppercase font-extrabold tracking-tight text-sm md:text-base">Devis</span>
+            <span className="text-white uppercase font-extrabold tracking-tight text-sm md:text-base">Déménageur</span>
+            <span className="text-white uppercase font-extrabold tracking-tight text-sm md:text-base">Lille</span>
           </div>
         </Link>
 

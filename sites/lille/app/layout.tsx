@@ -2,6 +2,7 @@ import type { Metadata, Viewport } from "next";
 import "./globals.css";
 import { Inter } from "next/font/google";
 import Link from "next/link";
+import Image from "next/image";
 import Header from "@/components/Header";
 import StructuredData from "@/components/StructuredData";
 import GoogleAnalytics from "@/components/GoogleAnalytics";
@@ -85,6 +86,16 @@ function Footer() {
     <footer className="mt-24 border-t border-white/10 bg-white/5">
       <div className="container max-w-7xl mx-auto px-4 md:px-6 py-14 grid md:grid-cols-4 gap-10">
         <div>
+          <div className="mb-3">
+            <Image
+              src="/logo.png"
+              alt="Logo"
+              width={48}
+              height={48}
+              className="h-12 w-12 object-contain rounded-sm"
+              sizes="48px"
+            />
+          </div>
           <div className="text-lg font-semibold">Déménageurs Lille (IA)</div>
           <p className="mt-3 text-white/90 max-w-xs">30 minutes pour votre dossier → 5 devis personnalisés sous 7 jours. Simple, précis, transparent.</p>
           <div className="mt-4 inline-flex items-center gap-2 rounded-full border border-white/25 bg-white/10 px-3 py-1 text-xs text-white">
