@@ -40,6 +40,7 @@ export default function CGVPage() {
                 déménageurs partenaires en vue de l'émission de devis et de la
                 réalisation de prestations de déménagement par ces derniers.
               </p>
+              <p className="mt-2 text-white/80">Exemple: un dossier photo est constitué par le client; plusieurs professionnels reçoivent les éléments et transmettent un devis chiffré. Moverz centralise les échanges et la synthèse.</p>
             </div>
 
             <div className="bg-white/5 border border-white/10 rounded-2xl p-6">
@@ -60,6 +61,10 @@ export default function CGVPage() {
                 15 jours avant reversement au partenaire sélectionné. Les prix des
                 prestations sont fixés par le partenaire et figurent sur le devis.
               </p>
+              <ul className="list-disc pl-6 mt-3 space-y-1 text-white/80">
+                <li>Acompte encaissé en qualité de mandataire du déménageur; le déménageur reste le marchand de référence.</li>
+                <li>Remboursement sous 5 jours ouvrés si l'acompte n'a pas été reversé au partenaire.</li>
+              </ul>
             </div>
 
             <div className="bg-white/5 border border-white/10 rounded-2xl p-6">
@@ -80,9 +85,20 @@ export default function CGVPage() {
                 sélectionnés. Moverz ne saurait être tenu responsable des dommages
                 résultant de l'exécution des prestations du partenaire.
               </p>
+              <p className="mt-2 text-white/80">Le service est fourni « tel quel ». Aucune garantie d'exactitude des estimations ou de disponibilité continue n'est donnée.</p>
             </div>
 
-            
+            <div className="bg-white/5 border border-white/10 rounded-2xl p-6">
+              <h2 className="text-2xl font-semibold text-white mb-3">6. Paiement & Retards (B2B)</h2>
+              <p>
+                Tout retard de paiement entraîne, de plein droit et sans mise en
+                demeure, l'application de pénalités au taux légal en vigueur ainsi
+                qu'une indemnité forfaitaire pour frais de recouvrement de 40 €
+                (Code de commerce L441-10). Des frais supplémentaires documentés
+                peuvent être réclamés lorsque les frais de recouvrement exposés sont
+                supérieurs.
+              </p>
+            </div>
 
             <div className="bg-white/5 border border-white/10 rounded-2xl p-6">
               <h2 className="text-2xl font-semibold text-white mb-3">7. Données personnelles</h2>
@@ -98,6 +114,7 @@ export default function CGVPage() {
                 Droit français. Compétence des tribunaux du ressort du domicile du
                 consommateur pour les litiges concernés.
               </p>
+              <p className="mt-2 text-white/80">Pour les relations B2B avec les partenaires, les litiges seront soumis aux juridictions françaises compétentes.</p>
             </div>
           </div>
         </div>

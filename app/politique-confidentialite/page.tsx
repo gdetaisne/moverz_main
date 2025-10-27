@@ -37,7 +37,7 @@ export default function PrivacyPage() {
             <div className="bg-white/5 border border-white/10 rounded-2xl p-6">
               <h2 className="text-2xl font-semibold text-white mb-3">Responsable de traitement</h2>
               <p>
-                GSLV (17290, France) — contact: dpo@moverz.fr. Marque: Moverz.
+                GSLV (17290, France) — contact: gdetaisne@gmail.com. Marque: Moverz.
               </p>
             </div>
 
@@ -49,6 +49,7 @@ export default function PrivacyPage() {
                 <li>Traces techniques: logs, adresse IP, user-agent (sécurité et analytics).</li>
                 <li>Échanges et sélection de devis.</li>
               </ul>
+              <p className="mt-2 text-white/80">Nous limitons la collecte au strict nécessaire. Exemple: seules les photos utiles au calcul d'inventaire sont demandées; vous pouvez flouter des éléments personnels.</p>
             </div>
 
             <div className="bg-white/5 border border-white/10 rounded-2xl p-6">
@@ -59,14 +60,14 @@ export default function PrivacyPage() {
                 <li>Facturation au partenaire, obligations légales — respect d'obligation (art. 6-1-c).</li>
                 <li>Amélioration du service et statistiques — consentement lorsque requis.</li>
               </ul>
+              <p className="mt-2 text-white/80">Nous n'utilisons pas vos contenus pour entraîner des modèles IA sans votre accord. Les mesures d'audience sont limitées et non nominatives.</p>
             </div>
 
             <div className="bg-white/5 border border-white/10 rounded-2xl p-6">
               <h2 className="text-2xl font-semibold text-white mb-3">Durées de conservation</h2>
               <ul className="list-disc pl-6 space-y-2">
-                <li>Compte et coordonnées: durée d'utilisation du service + 3 ans (prospection), sur opposition "stop" immédiate.</li>
-                <li>Photos et inventaires: 45 jours après la date prévue du déménagement, puis suppression.</li>
-                <li>Logs techniques: 12 mois maximum.</li>
+                <li>Photos, inventaires et coordonnées: suppression sous 60 jours.</li>
+                <li>Logs techniques non identifiants: durée raisonnable de sécurité.</li>
                 <li>Documents comptables: 10 ans (obligation légale).</li>
               </ul>
             </div>
@@ -81,8 +82,8 @@ export default function PrivacyPage() {
                 mises en place (clauses contractuelles types).
               </p>
               <p className="mt-2">
-                Sous-traitants principaux: Vercel (hébergement), fournisseurs cloud
-                d'analyse et de stockage d'images. La liste à jour peut être
+                Sous-traitants principaux: hébergeur VPS en France (Hostinger), Neon.tech (PostgreSQL),
+                et fournisseurs IA/vision susceptibles d'évoluer (ex. OpenAI, Anthropic, Google Vision, AWS Rekognition). La liste à jour peut être
                 communiquée sur demande.
               </p>
             </div>
@@ -92,37 +93,34 @@ export default function PrivacyPage() {
               <p>
                 Vous disposez des droits d'accès, rectification, effacement, limitation,
                 opposition, portabilité, et du droit de définir des directives
-                post-mortem. Pour exercer: dpo@moverz.fr. Réponse sous 30 jours.
+                post-mortem. Pour exercer: gdetaisne@gmail.com. Réponse sous 30 jours.
               </p>
-              <p className="mt-2">
-                Réclamation: CNIL, 3 place de Fontenoy, TSA 80715, 75334 Paris Cedex 07.
-              </p>
+              <p className="mt-2">Contact postal: 5 rue Jean Coyttar, 17290 Thairé. Réclamation: CNIL, 3 place de Fontenoy, TSA 80715, 75334 Paris Cedex 07.</p>
             </div>
 
             <div className="bg-white/5 border border-white/10 rounded-2xl p-6">
               <h2 className="text-2xl font-semibold text-white mb-3">Cookies et traceurs</h2>
               <p>
-                Nous utilisons des cookies strictement nécessaires au fonctionnement
-                et, le cas échéant, des cookies de mesure d'audience soumis à votre
-                consentement. Vous pouvez modifier vos préférences à tout moment via
-                les réglages de votre navigateur et l'interface de consentement si
-                disponible.
+                L'application peut utiliser des cookies strictement nécessaires au fonctionnement.
+                Aucun cookie non nécessaire n'est déposé sur le site public à ce jour. Ces éléments sont susceptibles d'évoluer.
               </p>
             </div>
 
             <div className="bg-white/5 border border-white/10 rounded-2xl p-6">
               <h2 className="text-2xl font-semibold text-white mb-3">Sécurité</h2>
               <p>
-                Mesures raisonnables de sécurité sont mises en œuvre (chiffrement en
-                transit, contrôle d'accès, journalisation). En cas d'incident, nous
-                notifierons la CNIL et, si nécessaire, les personnes concernées.
+                Mesures raisonnables de sécurité sont mises en œuvre (chiffrement en transit, contrôle d'accès, journalisation). Aucune décision automatisée produisant des effets juridiques n'est prise. En cas d'incident, nous notifierons la CNIL et, si nécessaire, les personnes concernées.
               </p>
+              <ul className="list-disc pl-6 mt-3 space-y-1 text-white/80">
+                <li>Bonnes pratiques recommandées: ne chargez pas de documents d'identité; évitez les visages si possible.</li>
+                <li>Vous pouvez demander l'effacement anticipé de vos données via email.</li>
+              </ul>
             </div>
 
             <div className="bg-white/5 border border-white/10 rounded-2xl p-6">
               <h2 className="text-2xl font-semibold text-white mb-3">Contact</h2>
               <p>
-                Pour toute question: dpo@moverz.fr — GSLV, 17290, France.
+                Pour toute question: gdetaisne@gmail.com — 5 rue Jean Coyttar, 17290 Thairé, France.
               </p>
             </div>
           </div>
