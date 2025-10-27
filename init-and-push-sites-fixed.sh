@@ -14,6 +14,7 @@ SITES=(
   "nice:dd-nice" 
   "lyon:dd-lyon"
   "montpellier:dd-montpellier"
+  "marseille:dd-marseille"
   "rennes:dd-rennes"
   "lille:dd-lille"
   "bordeaux:dd-bordeaux"
@@ -22,13 +23,17 @@ SITES=(
   "strasbourg:dd-strasbourg"
 )
 
+## Déterminer la racine du monorepo (chemin dynamique)
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+BASE_DIR="$SCRIPT_DIR"
+
 for site_info in "${SITES[@]}"; do
   city="${site_info%%:*}"
   repo_name="${site_info##*:}"
   
   echo "📦 $city -> $repo_name"
   
-  cd "/Users/guillaumestehelin/moverz_main/sites/$city"
+  cd "$BASE_DIR/sites/$city"
   
   # Initialiser Git si nécessaire
   if [ ! -d ".git" ]; then
@@ -38,12 +43,10 @@ for site_info in "${SITES[@]}"; do
   
   # Ajouter et commiter
   git add -A
-  commit_msg="fix: Correction sitemap - Lecture articles locaux uniquement
+  commit_msg="chore($city): init repo et push automatique
 
-- Fonction get${city^}BlogPosts() créée
-- Sitemap lit maintenant seulement les articles de $city
-- Résolution problème pages non pertinentes
-- Impact SEO: contenu pertinent uniquement
+- Initialisation Git et configuration remote
+- Synchronisation du contenu du site $city
 
 Date: $(date '+%Y-%m-%d %H:%M')"
   
@@ -62,7 +65,7 @@ Date: $(date '+%Y-%m-%d %H:%M')"
   echo "   ✅ $city traité"
   echo ""
   
-  cd /Users/guillaumestehelin/moverz_main
+  cd "$BASE_DIR"
 done
 
 echo "═══════════════════════════════════════"
