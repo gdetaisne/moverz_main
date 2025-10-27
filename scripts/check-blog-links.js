@@ -4,17 +4,17 @@ const matter = require('gray-matter');
 
 // Mapping des catégories
 const categoryMapping = {
-  'demenagement-etudiant-lille': 'etudiant',
-  'demenagement-entreprise-lille': 'entreprise',
-  'demenagement-piano-lille': 'piano',
-  'demenagement-international-lille': 'international',
-  'demenagement-longue-distance-lille': 'longue-distance',
-  'demenagement-pas-cher-lille': 'pas-cher',
-  'demenagement-urgent-lille': 'urgent',
-  'devis-demenagement-lille': 'devis',
-  'garde-meuble-lille': 'garde-meuble',
-  'prix-demenagement-lille': 'prix',
-  'prix-demenagement-piano-lille': 'prix-piano',
+  'demenagement-etudiant-nice': 'etudiant',
+  'demenagement-entreprise-nice': 'entreprise',
+  'demenagement-piano-nice': 'piano',
+  'demenagement-international-nice': 'international',
+  'demenagement-longue-distance-nice': 'longue-distance',
+  'demenagement-pas-cher-nice': 'pas-cher',
+  'demenagement-urgent-nice': 'urgent',
+  'devis-demenagement-nice': 'devis',
+  'garde-meuble-nice': 'garde-meuble',
+  'prix-demenagement-nice': 'prix',
+  'prix-demenagement-piano-nice': 'prix-piano',
 };
 
 // Clean slug function
@@ -22,17 +22,17 @@ function cleanSlug(slug, category) {
   let clean = slug;
   
   const categoryPatterns = [
-    'demenagement-etudiant-lille-',
-    'demenagement-entreprise-lille-',
-    'demenagement-piano-lille-',
-    'demenagement-international-lille-',
-    'demenagement-longue-distance-lille-',
-    'demenagement-pas-cher-lille-',
-    'demenagement-urgent-lille-',
-    'devis-demenagement-lille-',
-    'garde-meuble-lille-',
-    'prix-demenagement-lille-',
-    'prix-demenagement-piano-lille-',
+    'demenagement-etudiant-nice-',
+    'demenagement-entreprise-nice-',
+    'demenagement-piano-nice-',
+    'demenagement-international-nice-',
+    'demenagement-longue-distance-nice-',
+    'demenagement-pas-cher-nice-',
+    'demenagement-urgent-nice-',
+    'devis-demenagement-nice-',
+    'garde-meuble-nice-',
+    'prix-demenagement-nice-',
+    'prix-demenagement-piano-nice-',
   ];
   
   categoryPatterns.forEach(pattern => {
@@ -41,7 +41,7 @@ function cleanSlug(slug, category) {
     }
   });
   
-  clean = clean.replace(/-lille$/i, '');
+  clean = clean.replace(/-nice$/i, '');
   clean = clean.replace(/-guide-complet$/i, '-guide');
   clean = clean.replace(/-reperes-2025$/i, '-2025');
   

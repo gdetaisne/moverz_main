@@ -4,8 +4,8 @@ import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
 
-// Fonction locale pour lire SEULEMENT les articles de Lille
-function getLilleBlogPosts() {
+// Fonction locale pour lire SEULEMENT les articles de Nice
+function getNiceBlogPosts() {
   const blogDirectory = path.join(process.cwd(), 'content/blog')
   
   if (!fs.existsSync(blogDirectory)) {
@@ -35,8 +35,8 @@ function getLilleBlogPosts() {
         category: category,
         type: data.type || 'satellite',
         publish_date: data.publish_date || data.date || new Date().toISOString().split('T')[0],
-        cleanCategory: category.replace('-lille', ''),
-        cleanSlug: file.replace('.md', '').replace('-lille', '')
+        cleanCategory: category.replace('-nice', ''),
+        cleanSlug: file.replace('.md', '').replace('-nice', '')
       })
     })
   })
@@ -45,10 +45,10 @@ function getLilleBlogPosts() {
 }
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://devis-demenageur-lille.fr'
+  const baseUrl = 'https://devis-demenageur-nice.fr'
   
-  // Récupérer SEULEMENT les articles de blog de Lille
-  const blogPosts = getLilleBlogPosts()
+  // Récupérer SEULEMENT les articles de blog de Nice
+  const blogPosts = getNiceBlogPosts()
   
   // Pages statiques
   const staticPages: MetadataRoute.Sitemap = [
@@ -65,55 +65,55 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/services/demenagement-economique-lille`,
+      url: `${baseUrl}/services/demenagement-economique-nice`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.7,
     },
     {
-      url: `${baseUrl}/services/demenagement-standard-lille`,
+      url: `${baseUrl}/services/demenagement-standard-nice`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.7,
     },
     {
-      url: `${baseUrl}/services/demenagement-premium-lille`,
+      url: `${baseUrl}/services/demenagement-premium-nice`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.7,
     },
     {
-      url: `${baseUrl}/lille`,
+      url: `${baseUrl}/nice`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.9,
     },
     {
-      url: `${baseUrl}/lille/chartrons`,
+      url: `${baseUrl}/nice/chartrons`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/lille/cauderan`,
+      url: `${baseUrl}/nice/cauderan`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/lille/bastide`,
+      url: `${baseUrl}/nice/bastide`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/lille/merignac`,
+      url: `${baseUrl}/nice/merignac`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/lille/pessac`,
+      url: `${baseUrl}/nice/pessac`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
@@ -144,37 +144,37 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
     // Pages corridors
     {
-      url: `${baseUrl}/lille-vers-paris`,
+      url: `${baseUrl}/nice-vers-paris`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/lille-vers-lyon`,
+      url: `${baseUrl}/nice-vers-lyon`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/lille-vers-toulouse`,
+      url: `${baseUrl}/nice-vers-toulouse`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/lille-vers-nantes`,
+      url: `${baseUrl}/nice-vers-nantes`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/lille-vers-marseille`,
+      url: `${baseUrl}/nice-vers-marseille`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/lille-vers-espagne`,
+      url: `${baseUrl}/nice-vers-espagne`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,

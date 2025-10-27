@@ -4,17 +4,17 @@ const matter = require('gray-matter');
 
 // Mapping des dossiers vers les catégories attendues
 const folderToCategoryMapping = {
-  'demenagement-etudiant-lille': 'demenagement-etudiant-lille',
-  'demenagement-entreprise-lille': 'demenagement-entreprise-lille',
-  'demenagement-piano-lille': 'demenagement-piano-lille',
-  'demenagement-international-lille': 'demenagement-international-lille',
-  'demenagement-longue-distance-lille': 'demenagement-longue-distance-lille',
-  'demenagement-pas-cher-lille': 'demenagement-pas-cher-lille',
-  'demenagement-urgent-lille': 'demenagement-urgent-lille',
-  'devis-demenagement-lille': 'devis-demenagement-lille',
-  'garde-meuble-lille': 'garde-meuble-lille',
-  'prix-demenagement-lille': 'prix-demenagement-lille',
-  'prix-demenagement-piano-lille': 'prix-demenagement-piano-lille',
+  'demenagement-etudiant-nice': 'demenagement-etudiant-nice',
+  'demenagement-entreprise-nice': 'demenagement-entreprise-nice',
+  'demenagement-piano-nice': 'demenagement-piano-nice',
+  'demenagement-international-nice': 'demenagement-international-nice',
+  'demenagement-longue-distance-nice': 'demenagement-longue-distance-nice',
+  'demenagement-pas-cher-nice': 'demenagement-pas-cher-nice',
+  'demenagement-urgent-nice': 'demenagement-urgent-nice',
+  'devis-demenagement-nice': 'devis-demenagement-nice',
+  'garde-meuble-nice': 'garde-meuble-nice',
+  'prix-demenagement-nice': 'prix-demenagement-nice',
+  'prix-demenagement-piano-nice': 'prix-demenagement-piano-nice',
 };
 
 function updateArticle(filePath, categoryFolder) {
@@ -87,7 +87,7 @@ console.log('\n' + '═'.repeat(60));
 console.log(`✅ Completed! Updated ${totalUpdated} articles`);
 console.log('\n📊 Category mapping:');
 Object.entries(folderToCategoryMapping).forEach(([folder, category]) => {
-  const cleanCat = category.replace('demenagement-', '').replace('-lille', '').replace('devis-', '').replace('garde-meuble', 'garde-meuble').replace('prix-', 'prix/');
+  const cleanCat = category.replace('demenagement-', '').replace('-nice', '').replace('devis-', '').replace('garde-meuble', 'garde-meuble').replace('prix-', 'prix/');
   console.log(`  ${folder} → ${cleanCat}`);
 });
 
