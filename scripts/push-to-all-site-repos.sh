@@ -1,12 +1,12 @@
 #!/bin/bash
 
-# Script pour pousser le monorepo vers tous les repos GitHub individuels des sites
+# Script pour pousser chaque dossier de site vers son repo GitHub individuel
 # Usage: ./scripts/push-to-all-site-repos.sh
 
 set -e
 
-echo "🚀 PUSH MONOREPO VERS TOUS LES REPOS GITHUB INDIVIDUELS"
-echo "========================================================="
+echo "🚀 PUSH CHAQUE DOSSIER DE SITE VERS SON REPO INDIVIDUEL"
+echo "==============================================================="
 echo ""
 
 SITES=(
@@ -23,28 +23,31 @@ SITES=(
   "toulouse"
 )
 
-# Sauvegarder l'origine actuelle
-CURRENT_ORIGIN=$(git remote get-url origin)
-echo "🔖 Origine actuelle: $CURRENT_ORIGIN"
-echo ""
-
 for site in "${SITES[@]}"; do
-  echo "📦 Push vers dd-$site"
-  
-  # Changer l'origine vers le repo du site
-  git remote set-url origin "https://github.com/gdetaisne/dd-$site.git"
-  
-  # Push vers le repo du site
+  echo "📦 Push du dossier sites/$site vers dd-$site"
+  if [ ! -d "sites/$site" ]; then
+    echo "   ⚠️ Dossier sites/$site introuvable, on saute."
+    continue
+  fi
+  cd "sites/$site"
+  # Init git si besoin
+  if [ ! -d .git ]; then
+    git init
+  fi
+  git add -A
+  git commit -m "sync: update $site from monorepo" || true
+  # Remote origin -> repo du site
+  if git remote | grep -q '^origin$'; then
+    git remote set-url origin "https://github.com/gdetaisne/dd-$site.git"
+  else
+    git remote add origin "https://github.com/gdetaisne/dd-$site.git"
+  fi
   echo "   📤 Push vers https://github.com/gdetaisne/dd-$site.git"
-  git push origin main --force 2>&1 | grep -E "(Everything up-to-date|-> main|fast-forward)" || echo "   ⚠️  Push échoué pour $site"
-  
+  git push -u origin main --force 2>&1 | grep -E "(Everything up-to-date|-> main|fast-forward)" || echo "   ⚠️ Push échoué pour $site"
   echo "   ✅ $site poussé"
   echo ""
+  cd - >/dev/null
 done
-
-# Restaurer l'origine d'origine
-echo "🔙 Restauration origine: $CURRENT_ORIGIN"
-git remote set-url origin "$CURRENT_ORIGIN"
 
 echo "═══════════════════════════════════════"
 echo ""
