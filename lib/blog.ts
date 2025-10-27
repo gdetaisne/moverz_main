@@ -4,17 +4,17 @@ import matter from 'gray-matter';
 
 // Mapping des catégories pour URLs courtes
 const CATEGORY_MAPPING = {
-  'demenagement-etudiant-rennes': 'etudiant',
-  'demenagement-entreprise-rennes': 'entreprise', 
-  'demenagement-piano-rennes': 'piano',
-  'demenagement-international-rennes': 'international',
-  'demenagement-longue-distance-rennes': 'longue-distance',
-  'demenagement-pas-cher-rennes': 'pas-cher',
-  'demenagement-urgent-rennes': 'urgent',
-  'devis-demenagement-rennes': 'devis',
-  'garde-meuble-rennes': 'garde-meuble',
-  'prix-demenagement-rennes': 'prix',
-  'prix-demenagement-piano-rennes': 'prix-piano',
+  'demenagement-etudiant-toulouse': 'etudiant',
+  'demenagement-entreprise-toulouse': 'entreprise', 
+  'demenagement-piano-toulouse': 'piano',
+  'demenagement-international-toulouse': 'international',
+  'demenagement-longue-distance-toulouse': 'longue-distance',
+  'demenagement-pas-cher-toulouse': 'pas-cher',
+  'demenagement-urgent-toulouse': 'urgent',
+  'devis-demenagement-toulouse': 'devis',
+  'garde-meuble-toulouse': 'garde-meuble',
+  'prix-demenagement-toulouse': 'prix',
+  'prix-demenagement-piano-toulouse': 'prix-piano',
   // Gestion des catégories avec espaces (fallback)
   'Déménagement entreprise': 'entreprise',
   'Déménagement étudiant': 'etudiant',
@@ -92,7 +92,7 @@ function cleanSlug(originalSlug: string, category: string): string {
 }
 
 export function getAllBlogPosts(): BlogPost[] {
-  const blogDirectory = path.join(__dirname, '../', 'content/blog');
+  const blogDirectory = path.join(process.cwd(), 'content/blog');
   const categories = fs.readdirSync(blogDirectory, { withFileTypes: true })
     .filter(dirent => dirent.isDirectory())
     .map(dirent => dirent.name);
