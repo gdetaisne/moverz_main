@@ -21,17 +21,18 @@ const nextConfig = {
   // Optimisations de sécurité
   compress: true,
   
-  // Configuration des images - DÉSACTIVÉE pour éviter erreurs 400
+  // Configuration des images (si utilisées)
   images: {
-    // Désactiver l'optimisation d'images pour éviter les erreurs Unsplash
-    unoptimized: true,
     remotePatterns: [
       {
         protocol: 'https',
         hostname: 'images.unsplash.com',
         pathname: '/**',
       }
-    ]
+    ],
+    formats: ['image/avif', 'image/webp'],
+    deviceSizes: [640, 750, 828, 1080, 1200, 1920, 2048],
+    imageSizes: [16, 32, 48, 64, 96, 128, 256, 384],
   },
 
   // ==========================================
