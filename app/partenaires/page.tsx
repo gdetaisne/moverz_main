@@ -6,219 +6,219 @@ import PartnerCard from "@/components/PartnerCard";
 import PartnersList from "@/components/PartnersList";
 
 export const metadata: Metadata = {
-  title: "Partenaires déménageurs - Déménageurs bordeaux (IA)",
-  description: "Découvrez nos partenaires déménageurs certifiés à bordeaux. Qualité garantie, tarifs transparents, service client premium.",
+  title: "Partenaires déménageurs - Déménageurs nantes (IA)",
+  description: "Découvrez nos partenaires déménageurs certifiés à nantes. Qualité garantie, tarifs transparents, service client premium.",
   alternates: {
-    canonical: "https://www.devis-demenageur-bordeaux.fr/partenaires/",
+    canonical: "https://www.nantes-demenageur.fr/partenaires/",
   },
   openGraph: {
-    title: "Partenaires déménageurs - Déménageurs bordeaux (IA)",
-    description: "Découvrez nos partenaires déménageurs certifiés à bordeaux. Qualité garantie, tarifs transparents, service client premium.",
-    url: "https://www.devis-demenageur-bordeaux.fr/partenaires/",
+    title: "Partenaires déménageurs - Déménageurs nantes (IA)",
+    description: "Découvrez nos partenaires déménageurs certifiés à nantes. Qualité garantie, tarifs transparents, service client premium.",
+    url: "https://www.nantes-demenageur.fr/partenaires/",
     type: "website",
   },
 };
 
 const partners = [
   {
-    name: "Déménageurs de France",
-    city: "Ambarès-et-Lagrave",
+    name: "Déménageurs Pays de la Loire Pro",
+    city: "Rezé",
     rating: 4.8,
     reviews: 366,
     specialties: ["Déménagements sur mesure", "Service personnalisé"],
   },
   {
-    name: "Les Déménageurs Bordelais",
-    city: "Cestas",
+    name: "Les Déménageurs Nantais",
+    city: "Saint-Herblain",
     rating: 4.8,
     reviews: 69,
-    specialties: ["Déménagements locaux", "Gironde et Nouvelle-Nouvelle-Aquitaine"],
+    specialties: ["Déménagements locaux", "Gironde et Pays de la Loire"],
   },
   {
-    name: "Déménageur bordeaux",
-    city: "bordeaux",
+    name: "Déménageur Nantes Express",
+    city: "Nantes",
     rating: 4.8,
     reviews: 69,
     specialties: ["Déménagements particuliers", "Déménagements professionnels"],
   },
   {
-    name: "Atlantique bordeaux Déménagements",
-    city: "bordeaux",
+    name: "Loire Déménagements Nantes",
+    city: "Nantes",
     rating: 4.5,
     reviews: 66,
     specialties: ["Garde-meuble", "Stockage d'archives"],
   },
   {
-    name: "Les Déménageurs du Sud-Ouest",
-    city: "Gradignan",
+    name: "Les Déménageurs de l'Ouest",
+    city: "Orvault",
     rating: 5.0,
     reviews: 81,
     specialties: ["Déménagements qualifiés", "Tout le sud-ouest"],
   },
   {
     name: "Les Déménageurs Bretons",
-    city: "Mérignac",
+    city: "La Chapelle-sur-Erdre",
     rating: 4.5,
     reviews: 50,
     specialties: ["Déménagements nationaux", "Réseau national"],
   },
   {
     name: "Alex Déménagement",
-    city: "bordeaux",
+    city: "nantes",
     rating: 4.7,
     reviews: 45,
     specialties: ["Déménagements express", "Emballage professionnel"],
   },
   {
-    name: "bordeaux Déménagement",
-    city: "bordeaux",
+    name: "nantes Déménagement",
+    city: "nantes",
     rating: 4.0,
     reviews: 32,
     specialties: ["Déménagements résidentiels", "Déménagements commerciaux"],
   },
   {
     name: "Hontas Déménagements",
-    city: "bordeaux",
+    city: "nantes",
     rating: 4.0,
     reviews: 1,
     specialties: ["Déménagements longue distance", "Équipe professionnelle"],
   },
   {
     name: "Déménageurs Bretons",
-    city: "bordeaux",
+    city: "nantes",
     rating: 5.0,
     reviews: 1,
     specialties: ["Déménagements complets", "Services nationaux"],
   },
   {
     name: "SAM'DÉMÉNAGE",
-    city: "bordeaux",
+    city: "nantes",
     rating: 4.6,
     reviews: 28,
     specialties: ["Déménagements efficaces", "Équipe bienveillante"],
   },
   {
     name: "Rachid Chaty (GÈRE FOR YOU)",
-    city: "bordeaux",
+    city: "nantes",
     rating: 4.8,
     reviews: 15,
     specialties: ["Manutention", "Nettoyage avant état des lieux"],
   },
   {
     name: "Ben Ben",
-    city: "bordeaux",
+    city: "nantes",
     rating: 4.9,
     reviews: 12,
     specialties: ["Aide au déménagement", "Livraison", "Retrait de colis"],
   },
   {
     name: "Phone Course",
-    city: "bordeaux",
+    city: "nantes",
     rating: 4.5,
     reviews: 8,
     specialties: ["Transport routier", "Livraison"],
   },
   {
     name: "Burdigala Déménagement",
-    city: "bordeaux",
+    city: "nantes",
     rating: 4.3,
     reviews: 6,
     specialties: ["Déménagements locaux", "Services adaptés"],
   },
   {
     name: "Larnaudie Déménagements",
-    city: "bordeaux",
+    city: "nantes",
     rating: 4.7,
     reviews: 5,
     specialties: ["Déménagements familiaux", "Garde-meuble"],
   },
   {
     name: "Déménagements Grée",
-    city: "bordeaux",
+    city: "nantes",
     rating: 4.4,
     reviews: 4,
     specialties: ["Services personnalisés", "Particuliers et professionnels"],
   },
   {
     name: "Air Déménagement",
-    city: "bordeaux",
+    city: "nantes",
     rating: 4.6,
     reviews: 3,
     specialties: ["Solutions adaptées", "Besoins spécifiques"],
   },
   {
     name: "Alexandre Meigne-Sakr",
-    city: "bordeaux",
+    city: "nantes",
     rating: 4.8,
     reviews: 2,
     specialties: ["Services sur mesure", "Déménagements particuliers"],
   },
   {
     name: "Alain Lagache",
-    city: "bordeaux",
+    city: "nantes",
     rating: 4.5,
     reviews: 2,
     specialties: ["Déménagements locaux", "Services de qualité"],
   },
   {
     name: "A À Z Service",
-    city: "bordeaux",
+    city: "nantes",
     rating: 4.2,
     reviews: 1,
     specialties: ["Déménagements", "Nettoyage"],
   },
   {
     name: "Sédégo",
-    city: "bordeaux",
+    city: "nantes",
     rating: 4.0,
     reviews: 1,
     specialties: ["Solutions adaptées", "Services complets"],
   },
   {
     name: "Transport Joël Latrille",
-    city: "bordeaux",
+    city: "nantes",
     rating: 4.3,
     reviews: 1,
     specialties: ["Transport", "Déménagements professionnels"],
   },
   {
     name: "Adema",
-    city: "bordeaux",
+    city: "nantes",
     rating: 4.1,
     reviews: 1,
     specialties: ["Services complets", "Particuliers et professionnels"],
   },
   {
     name: "Les Déménageurs Girondins",
-    city: "Pessac",
+    city: "Carquefou",
     rating: 4.4,
     reviews: 8,
     specialties: ["Déménagements locaux", "Services adaptés"],
   },
   {
     name: "Bouexpress",
-    city: "Talence",
+    city: "Sainte-Luce-sur-Loire",
     rating: 4.6,
     reviews: 6,
     specialties: ["Déménagements rapides", "Satisfaction client"],
   },
   {
     name: "TTD Turbo Transport Déménagement",
-    city: "Villenave-d'Ornon",
+    city: "Vertou",
     rating: 4.5,
     reviews: 4,
     specialties: ["Solutions rapides", "Particuliers et entreprises"],
   },
   {
     name: "Déménagement Transport 33",
-    city: "Libourne",
+    city: "Couëron",
     rating: 4.3,
     reviews: 3,
     specialties: ["Transport", "Services personnalisés"],
   },
   {
     name: "Transport Gironde",
-    city: "Artigues",
+    city: "Bouguenais",
     rating: 4.2,
     reviews: 2,
     specialties: ["Transport", "Solutions sur mesure"],
@@ -236,7 +236,7 @@ export default function PartenairesPage() {
         <div className="absolute inset-0">
           <img 
             src="https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=2000&auto=format&fit=crop"
-            alt="Partenaires déménageurs certifiés à bordeaux"
+            alt="Partenaires déménageurs certifiés à nantes"
             className="w-full h-full object-cover"
           />
           <div className="absolute inset-0 bg-gradient-to-br from-[#04163a]/95 via-[#2b7a78]/88 to-[#04163a]/92"></div>
@@ -264,7 +264,7 @@ export default function PartenairesPage() {
             </h1>
             <p className="text-lg md:text-xl text-white/90">
               Nous travaillons exclusivement avec des déménageurs locaux certifiés et expérimentés. 
-              Chaque partenaire est sélectionné pour sa qualité de service, sa transparence tarifaire et sa connaissance du terrain bordelais.
+              Chaque partenaire est sélectionné pour sa qualité de service, sa transparence tarifaire et sa connaissance du terrain nantais.
             </p>
           </div>
         </div>
@@ -304,7 +304,7 @@ export default function PartenairesPage() {
               </div>
               <h3 className="text-xl font-semibold mb-3">Connaissance locale</h3>
               <p className="text-white/80">
-                Expertise du terrain bordelais : accès, stationnement, contraintes spécifiques à chaque quartier.
+                Expertise du terrain nantais : accès, stationnement, contraintes spécifiques à chaque quartier.
               </p>
             </div>
           </div>
@@ -318,7 +318,7 @@ export default function PartenairesPage() {
               Devenir partenaire Moverz
             </h2>
             <p className="text-white/80 mb-6 max-w-2xl mx-auto">
-              Vous êtes déménageur à bordeaux et souhaitez rejoindre notre réseau ? 
+              Vous êtes déménageur à nantes et souhaitez rejoindre notre réseau ? 
               Bénéficiez de notre technologie IA et de notre visibilité en ligne.
             </p>
             <a 
