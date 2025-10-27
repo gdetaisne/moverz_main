@@ -20,7 +20,7 @@ export default function PricingPreview() {
         ))}
       </div>
       <div className="mt-8 text-center">
-        <a href="/inventaire-ia/" className="btn-primary">Obtenez vos devis gratuits</a>
+        <a href="/inventaire-ia/" className="btn-primary" aria-label="Obtenez vos devis précis gratuitement">Obtenez vos devis précis gratuitement</a>
       </div>
     </div>
   );

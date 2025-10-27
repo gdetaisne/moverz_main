@@ -54,7 +54,7 @@ export default function HowItWorks() {
       </div>
       
       <div className="text-center mt-10 md:mt-12 flex flex-col items-center justify-center gap-3 sm:flex-row">
-        <a href="/inventaire-ia/" className="btn-primary">Obtenez vos devis gratuits</a>
+        <a href="/inventaire-ia/" className="btn-primary" aria-label="Obtenez vos devis précis gratuitement">Obtenez vos devis précis gratuitement</a>
         <a href="/comment-ca-marche/" className="btn-secondary">Comment ça marche</a>
       </div>
     </div>

@@ -12,11 +12,11 @@ export default function Hero() {
     let t4: ReturnType<typeof setTimeout> | undefined;
     const run = () => {
       setStage(1);
-      t1 = setTimeout(() => setStage(2), 1000);
-      t2 = setTimeout(() => setStage(3), 2000);
-      // reset and loop faster
-      t3 = setTimeout(() => setStage(0), 2700);
-      t4 = setTimeout(run, 3000);
+      t1 = setTimeout(() => setStage(2), 900);
+      t2 = setTimeout(() => setStage(3), 1800);
+      // small pause after stage 3, then loop
+      t3 = setTimeout(() => setStage(0), 2500);
+      t4 = setTimeout(run, 2800);
     };
     run();
     return () => {
@@ -35,7 +35,7 @@ export default function Hero() {
       </div>
       <div className="relative mx-auto max-w-7xl px-6 py-16 md:px-10 md:py-24 lg:py-28">
         <div className="grid gap-12 lg:grid-cols-2 lg:items-center">
-          <div className="mx-auto max-w-3xl text-center lg:mx-0 lg:text-left">
+          <div className="mx-auto max-w-2xl text-center lg:mx-0 lg:text-left">
             <h1 className="text-3xl font-bold tracking-tight sm:text-4xl md:text-5xl">Préparez votre déménagement en 30 minutes</h1>
             <p className="mt-3 text-lg md:text-xl text-white/90">Envoyez vos photos, recevez 5 devis fiables sous 7 jours — sans appels ni formulaires, l'IA s'occupe de tout.</p>
             <div className="mt-5 flex flex-wrap items-center justify-center gap-3 text-sm text-white/80 lg:justify-start">
