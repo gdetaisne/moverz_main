@@ -45,14 +45,26 @@ export default function MentionsLegalesPage() {
               <p className="mt-2">Responsable de la rédaction: Équipe Moverz</p>
               <p className="mt-2">SIREN 914 499 876 — SIRET 914 499 876 00011 — RCS La Rochelle</p>
               <p className="mt-2">TVA intracommunautaire: FR43914499876 — Capital social: 1 000,00 €</p>
+              <ul className="list-disc pl-6 mt-3 space-y-1 text-white/80">
+                <li>Pour toute demande presse, partenariat ou juridique, utilisez l'adresse ci-dessus.</li>
+                <li>Les demandes RGPD (accès/suppression) doivent être adressées à <span className="underline">gdetaisne@gmail.com</span>.</li>
+                <li>Nous répondons généralement sous 14 jours ouvrés.</li>
+              </ul>
             </div>
 
             <div className="bg-white/5 border border-white/10 rounded-2xl p-6">
               <h2 className="text-2xl font-semibold text-white mb-3">Hébergement</h2>
               <p>
-                Vercel Inc., 340 S Lemon Ave #4133, Walnut, CA 91789, USA. Politique
-                de confidentialité et conditions accessibles sur vercel.com.
+                Hostinger International Ltd., 61 Lordou Vironos Street, 6023 Larnaca,
+                Chypre (VAT: CY10301365E). Infrastructure d'hébergement située en
+                France (Paris) sur serveur VPS. Informations et conditions
+                contractuelles disponibles sur hostinger.com.
               </p>
+              <ul className="list-disc pl-6 mt-3 space-y-1 text-white/80">
+                <li>Localisation du serveur: France — Paris (voir panneau serveur).</li>
+                <li>Sauvegardes et redémarrages gérés par GSLV; incident majeur: coupure potentielle du service.</li>
+                <li>Signalement d'incident de sécurité: <span className="underline">gdetaisne@gmail.com</span>.</li>
+              </ul>
             </div>
 
             <div className="bg-white/5 border border-white/10 rounded-2xl p-6">
@@ -65,6 +77,11 @@ export default function MentionsLegalesPage() {
                 prestations aux professionnels partenaires. Aucun contrat de
                 prestation n'est conclu avec les consommateurs finaux.
               </p>
+              <ul className="list-disc pl-6 mt-3 space-y-1 text-white/80">
+                <li>Le service fourni au consommateur est informatif et gratuit.</li>
+                <li>Les prix, délais et garanties relèvent exclusivement du déménageur choisi.</li>
+                <li>En cas d'acompte encaissé comme mandataire, voir CGU/CGV.</li>
+              </ul>
             </div>
 
             <div className="bg-white/5 border border-white/10 rounded-2xl p-6">
@@ -75,6 +92,7 @@ export default function MentionsLegalesPage() {
                 représentation, totale ou partielle, sans autorisation écrite
                 préalable est interdite.
               </p>
+              <p className="mt-2 text-white/80">Une courte citation avec lien source est autorisée. Pour toute autre réutilisation (ex. scraping, entraînement de modèle), demander une autorisation écrite préalable.</p>
             </div>
 
             <div className="bg-white/5 border border-white/10 rounded-2xl p-6">
@@ -86,6 +104,10 @@ export default function MentionsLegalesPage() {
                 dommages indirects. Les devis sont émis par des partenaires tiers
                 sous leur responsabilité.
               </p>
+              <ul className="list-disc pl-6 mt-3 space-y-1 text-white/80">
+                <li>Exemples: indisponibilité temporaire, estimation indicative inexacte, délai de réponse d'un partenaire.</li>
+                <li>Pour toute contestation sur une prestation de déménagement, adressez-vous directement au professionnel retenu.</li>
+              </ul>
             </div>
 
             <div className="bg-white/5 border border-white/10 rounded-2xl p-6">
@@ -94,7 +116,7 @@ export default function MentionsLegalesPage() {
                 Le traitement des données est décrit dans notre <a className="underline text-[#6bcfcf]" href="/politique-confidentialite/">Politique de
                 confidentialité</a>. Conformément au RGPD, vous disposez de droits
                 d'accès, de rectification, d'opposition, de limitation et
-                d'effacement. Contact: dpo@moverz.fr.
+                d'effacement. Contact RGPD: gdetaisne@gmail.com — Adresse: 5 rue Jean Coyttar, 17290 Thairé.
               </p>
             </div>
 

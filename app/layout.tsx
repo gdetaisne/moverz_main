@@ -103,6 +103,7 @@ function Footer() {
               <li><Link href="/mentions-legales/" className="hover:text-[#6bcfcf] transition-colors">Mentions légales</Link></li>
               <li><Link href="/cgv/" className="hover:text-[#6bcfcf] transition-colors">CGV</Link></li>
               <li><Link href="/politique-confidentialite/" className="hover:text-[#6bcfcf] transition-colors">Politique de confidentialité</Link></li>
+              <li><Link href="/cgu/" className="hover:text-[#6bcfcf] transition-colors">CGU</Link></li>
             </ul>
             {/* Social Media Icons */}
             <div className="flex gap-3 mt-4">
