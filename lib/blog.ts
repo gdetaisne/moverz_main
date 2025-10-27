@@ -4,17 +4,17 @@ import matter from 'gray-matter';
 
 // Mapping des catégories pour URLs courtes
 const CATEGORY_MAPPING = {
-  'demenagement-etudiant-toulouse': 'etudiant',
-  'demenagement-entreprise-toulouse': 'entreprise', 
-  'demenagement-piano-toulouse': 'piano',
-  'demenagement-international-toulouse': 'international',
-  'demenagement-longue-distance-toulouse': 'longue-distance',
-  'demenagement-pas-cher-toulouse': 'pas-cher',
-  'demenagement-urgent-toulouse': 'urgent',
-  'devis-demenagement-toulouse': 'devis',
-  'garde-meuble-toulouse': 'garde-meuble',
-  'prix-demenagement-toulouse': 'prix',
-  'prix-demenagement-piano-toulouse': 'prix-piano',
+  'demenagement-etudiant-marseille': 'etudiant',
+  'demenagement-entreprise-marseille': 'entreprise', 
+  'demenagement-piano-marseille': 'piano',
+  'demenagement-international-marseille': 'international',
+  'demenagement-longue-distance-marseille': 'longue-distance',
+  'demenagement-pas-cher-marseille': 'pas-cher',
+  'demenagement-urgent-marseille': 'urgent',
+  'devis-demenagement-marseille': 'devis',
+  'garde-meuble-marseille': 'garde-meuble',
+  'prix-demenagement-marseille': 'prix',
+  'prix-demenagement-piano-marseille': 'prix-piano',
   // Gestion des catégories avec espaces (fallback)
   'Déménagement entreprise': 'entreprise',
   'Déménagement étudiant': 'etudiant',
@@ -52,33 +52,33 @@ function cleanSlug(originalSlug: string, category: string): string {
   // Retirer le préfixe de catégorie redondant
   let cleanSlug = originalSlug;
   
-  // Patterns de nettoyage spécifiques (ordre important!)
+  // Patterns de nettoyage spécifiques pour Marseille (ordre important!)
     const cleanPatterns = [
     // D'abord, retirer les préfixes de catégorie complets
-    { from: /^demenagement-etudiant-bordeaux-/, to: '' },
-    { from: /^demenagement-entreprise-bordeaux-/, to: '' },
-    { from: /^demenagement-piano-bordeaux-/, to: '' },
-    { from: /^demenagement-international-bordeaux-/, to: '' },
-    { from: /^demenagement-longue-distance-bordeaux-/, to: '' },
-    { from: /^demenagement-pas-cher-bordeaux-/, to: '' },
-    { from: /^demenagement-urgent-bordeaux-/, to: '' },
-    { from: /^devis-demenagement-bordeaux-/, to: '' },
-    { from: /^garde-meuble-bordeaux-/, to: '' },
-    { from: /^prix-demenagement-bordeaux-/, to: '' },
-    { from: /^prix-demenagement-piano-bordeaux-/, to: '' },
-    { from: /^prix-garde-meuble-bordeaux-/, to: '' },
+    { from: /^demenagement-etudiant-marseille-/, to: '' },
+    { from: /^demenagement-entreprise-marseille-/, to: '' },
+    { from: /^demenagement-piano-marseille-/, to: '' },
+    { from: /^demenagement-international-marseille-/, to: '' },
+    { from: /^demenagement-longue-distance-marseille-/, to: '' },
+    { from: /^demenagement-pas-cher-marseille-/, to: '' },
+    { from: /^demenagement-urgent-marseille-/, to: '' },
+    { from: /^devis-demenagement-marseille-/, to: '' },
+    { from: /^garde-meuble-marseille-/, to: '' },
+    { from: /^prix-demenagement-marseille-/, to: '' },
+    { from: /^prix-demenagement-piano-marseille-/, to: '' },
+    { from: /^prix-garde-meuble-marseille-/, to: '' },
     // Ensuite, retirer les patterns partiels en début
-    { from: /^stockage-etudiant-bordeaux/, to: 'stockage-etudiant' },
-    { from: /^cartons-gratuits-bordeaux/, to: 'cartons-gratuits' },
-    { from: /^camion-demenagement-etudiant-bordeaux/, to: 'camion-demenagement-etudiant' },
-    { from: /^assurance-demenagement-international-bordeaux/, to: 'assurance-demenagement-international' },
-    { from: /^prix-demenagement-international-bordeaux/, to: 'prix-demenagement-international' },
-    { from: /^emballage-demenagement-international-bordeaux/, to: 'emballage-demenagement-international' },
-    { from: /^formalites-douanieres-demenagement-international-bordeaux/, to: 'formalites-douanieres-demenagement-international' },
-    // Retirer "-bordeaux" en milieu de slug
-    { from: /-bordeaux-/, to: '-' },
-    // Retirer "-bordeaux" en fin
-    { from: /-bordeaux$/, to: '' },
+    { from: /^stockage-etudiant-marseille/, to: 'stockage-etudiant' },
+    { from: /^cartons-gratuits-marseille/, to: 'cartons-gratuits' },
+    { from: /^camion-demenagement-etudiant-marseille/, to: 'camion-demenagement-etudiant' },
+    { from: /^assurance-demenagement-international-marseille/, to: 'assurance-demenagement-international' },
+    { from: /^prix-demenagement-international-marseille/, to: 'prix-demenagement-international' },
+    { from: /^emballage-demenagement-international-marseille/, to: 'emballage-demenagement-international' },
+    { from: /^formalites-douanieres-demenagement-international-marseille/, to: 'formalites-douanieres-demenagement-international' },
+    // Retirer "-marseille" en milieu de slug
+    { from: /-marseille-/, to: '-' },
+    // Retirer "-marseille" en fin
+    { from: /-marseille$/, to: '' },
     // Simplifications uniformes
     { from: /-guide-complet$/, to: '-guide' },
     { from: /-reperes-2025$/, to: '' },  // Retirer complètement pour éviter duplicates

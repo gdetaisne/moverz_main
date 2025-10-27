@@ -17,18 +17,18 @@ export default function DemenagementPremiumPage() {
               items={[
                 { label: "Accueil", href: "/" },
                 { label: "Services", href: "/services" },
-                { label: "Déménagement Premium", href: "/services/demenagement-premium-montpellier" }
+                { label: "Déménagement Premium", href: "/services/demenagement-premium-marseille" }
               ]}
             />
             <h1 className="mt-6 text-3xl font-bold tracking-tight sm:text-4xl md:text-5xl">
-              Déménagement Premium à Montpellier
+              Déménagement Premium à Marseille
             </h1>
             <p className="mt-4 text-lg md:text-xl text-white/90 max-w-3xl mx-auto">
               La solution clé-en-main pour déménager sans stress. Service complet avec emballage fragile et chef d'équipe dédié.
             </p>
             <div className="mt-8">
               <a
-                href="/devis-demenagement-montpellier/"
+                href="/devis-demenagement-marseille/"
                 className="inline-flex rounded-xl bg-white px-6 py-3 text-lg font-semibold text-[#04163a] hover:bg-white/90 transition duration-300 shadow-lg"
               >
                 Créer mon dossier
@@ -163,7 +163,7 @@ export default function DemenagementPremiumPage() {
           <div className="grid md:grid-cols-2 gap-8 max-w-6xl mx-auto">
             {/* Déménagement local */}
             <div className="bg-white/5 backdrop-blur-sm border border-white/10 rounded-2xl p-8">
-              <h3 className="text-xl font-semibold text-white mb-6 text-center">Déménagement local (Montpellier)</h3>
+              <h3 className="text-xl font-semibold text-white mb-6 text-center">Déménagement local (Marseille)</h3>
               <div className="space-y-6">
                 <div className="text-center">
                   <h4 className="text-lg font-medium text-white mb-2">T3/T4</h4>
