@@ -4,17 +4,17 @@ const matter = require('gray-matter');
 
 // Mapping des catégories
 const categoryMapping = {
-  'demenagement-etudiant-lyon': 'etudiant',
-  'demenagement-entreprise-lyon': 'entreprise',
-  'demenagement-piano-lyon': 'piano',
-  'demenagement-international-lyon': 'international',
-  'demenagement-longue-distance-lyon': 'longue-distance',
-  'demenagement-pas-cher-lyon': 'pas-cher',
-  'demenagement-urgent-lyon': 'urgent',
-  'devis-demenagement-lyon': 'devis',
-  'garde-meuble-lyon': 'garde-meuble',
-  'prix-demenagement-lyon': 'prix',
-  'prix-demenagement-piano-lyon': 'prix-piano',
+  'demenagement-etudiant-marseille': 'etudiant',
+  'demenagement-entreprise-marseille': 'entreprise',
+  'demenagement-piano-marseille': 'piano',
+  'demenagement-international-marseille': 'international',
+  'demenagement-longue-distance-marseille': 'longue-distance',
+  'demenagement-pas-cher-marseille': 'pas-cher',
+  'demenagement-urgent-marseille': 'urgent',
+  'devis-demenagement-marseille': 'devis',
+  'garde-meuble-marseille': 'garde-meuble',
+  'prix-demenagement-marseille': 'prix',
+  'prix-demenagement-piano-marseille': 'prix-piano',
 };
 
 // Clean slug function
@@ -22,17 +22,17 @@ function cleanSlug(slug, category) {
   let clean = slug;
   
   const categoryPatterns = [
-    'demenagement-etudiant-lyon-',
-    'demenagement-entreprise-lyon-',
-    'demenagement-piano-lyon-',
-    'demenagement-international-lyon-',
-    'demenagement-longue-distance-lyon-',
-    'demenagement-pas-cher-lyon-',
-    'demenagement-urgent-lyon-',
-    'devis-demenagement-lyon-',
-    'garde-meuble-lyon-',
-    'prix-demenagement-lyon-',
-    'prix-demenagement-piano-lyon-',
+    'demenagement-etudiant-marseille-',
+    'demenagement-entreprise-marseille-',
+    'demenagement-piano-marseille-',
+    'demenagement-international-marseille-',
+    'demenagement-longue-distance-marseille-',
+    'demenagement-pas-cher-marseille-',
+    'demenagement-urgent-marseille-',
+    'devis-demenagement-marseille-',
+    'garde-meuble-marseille-',
+    'prix-demenagement-marseille-',
+    'prix-demenagement-piano-marseille-',
   ];
   
   categoryPatterns.forEach(pattern => {
@@ -41,7 +41,7 @@ function cleanSlug(slug, category) {
     }
   });
   
-  clean = clean.replace(/-lyon$/i, '');
+  clean = clean.replace(/-marseille$/i, '');
   clean = clean.replace(/-guide-complet$/i, '-guide');
   clean = clean.replace(/-reperes-2025$/i, '-2025');
   
