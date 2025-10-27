@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import "./globals.css";
 import { Inter } from "next/font/google";
+import { Suspense } from "react";
 import Link from "next/link";
 import Script from "next/script";
 import Header from "@/components/Header";
@@ -72,7 +73,8 @@ export default function RootLayout({
     <html lang="fr" className="h-full">
       <head>
         <link rel="manifest" href="/manifest.json" />
-        <link rel="icon" href="/favicon.ico" sizes="any" />
+        <link rel="icon" type="image/png" sizes="192x192" href="/icons/android-chrome-192x192.png" />
+        <link rel="icon" type="image/png" sizes="512x512" href="/icons/android-chrome-512x512.png" />
         <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png" />
         <Script 
           async 
@@ -88,7 +90,9 @@ export default function RootLayout({
       </head>
       <body className={`${inter.className} min-h-screen bg-[#04163a] text-white`}>        
         <GoogleAnalytics />
-        <GAListener />
+        <Suspense fallback={null}>
+          <GAListener />
+        </Suspense>
         <StructuredData />
         <Header />
         <main>{children}</main>
