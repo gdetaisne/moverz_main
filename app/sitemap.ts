@@ -4,8 +4,8 @@ import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
 
-// Fonction locale pour lire SEULEMENT les articles de Toulouse
-function getToulouseBlogPosts() {
+// Fonction locale pour lire SEULEMENT les articles de Marseille
+function getMarseilleBlogPosts() {
   const blogDirectory = path.join(process.cwd(), 'content/blog')
   
   if (!fs.existsSync(blogDirectory)) {
@@ -35,8 +35,8 @@ function getToulouseBlogPosts() {
         category: category,
         type: data.type || 'satellite',
         publish_date: data.publish_date || data.date || new Date().toISOString().split('T')[0],
-        cleanCategory: category.replace('-toulouse', ''),
-        cleanSlug: file.replace('.md', '').replace('-toulouse', '')
+        cleanCategory: category.replace('-marseille', ''),
+        cleanSlug: file.replace('.md', '').replace('-marseille', '')
       })
     })
   })
@@ -45,10 +45,10 @@ function getToulouseBlogPosts() {
 }
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://devis-demenageur-toulousain.fr'
+  const baseUrl = 'https://devis-demenageur-marseille.fr'
   
-  // Récupérer SEULEMENT les articles de blog de Toulouse
-  const blogPosts = getToulouseBlogPosts()
+  // Récupérer SEULEMENT les articles de blog de Marseille
+  const blogPosts = getMarseilleBlogPosts()
   
   // Pages statiques
   const staticPages: MetadataRoute.Sitemap = [
@@ -65,55 +65,55 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/services/demenagement-economique-toulouse`,
+      url: `${baseUrl}/services/demenagement-economique-marseille`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.7,
     },
     {
-      url: `${baseUrl}/services/demenagement-standard-toulouse`,
+      url: `${baseUrl}/services/demenagement-standard-marseille`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.7,
     },
     {
-      url: `${baseUrl}/services/demenagement-premium-toulouse`,
+      url: `${baseUrl}/services/demenagement-premium-marseille`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.7,
     },
     {
-      url: `${baseUrl}/toulouse`,
+      url: `${baseUrl}/marseille`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.9,
     },
     {
-      url: `${baseUrl}/toulouse/chartrons`,
+      url: `${baseUrl}/marseille/chartrons`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/toulouse/cauderan`,
+      url: `${baseUrl}/marseille/cauderan`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/toulouse/bastide`,
+      url: `${baseUrl}/marseille/bastide`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/toulouse/merignac`,
+      url: `${baseUrl}/marseille/merignac`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/toulouse/pessac`,
+      url: `${baseUrl}/marseille/pessac`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
@@ -144,37 +144,37 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
     // Pages corridors
     {
-      url: `${baseUrl}/toulouse-vers-paris`,
+      url: `${baseUrl}/marseille-vers-paris`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/toulouse-vers-lyon`,
+      url: `${baseUrl}/marseille-vers-lyon`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/toulouse-vers-toulouse`,
+      url: `${baseUrl}/marseille-vers-toulouse`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/toulouse-vers-nantes`,
+      url: `${baseUrl}/marseille-vers-nantes`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/toulouse-vers-marseille`,
+      url: `${baseUrl}/marseille-vers-marseille`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/toulouse-vers-espagne`,
+      url: `${baseUrl}/marseille-vers-espagne`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,

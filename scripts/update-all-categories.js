@@ -4,17 +4,17 @@ const matter = require('gray-matter');
 
 // Mapping des dossiers vers les catégories attendues
 const folderToCategoryMapping = {
-  'demenagement-etudiant-toulouse': 'demenagement-etudiant-toulouse',
-  'demenagement-entreprise-toulouse': 'demenagement-entreprise-toulouse',
-  'demenagement-piano-toulouse': 'demenagement-piano-toulouse',
-  'demenagement-international-toulouse': 'demenagement-international-toulouse',
-  'demenagement-longue-distance-toulouse': 'demenagement-longue-distance-toulouse',
-  'demenagement-pas-cher-toulouse': 'demenagement-pas-cher-toulouse',
-  'demenagement-urgent-toulouse': 'demenagement-urgent-toulouse',
-  'devis-demenagement-toulouse': 'devis-demenagement-toulouse',
-  'garde-meuble-toulouse': 'garde-meuble-toulouse',
-  'prix-demenagement-toulouse': 'prix-demenagement-toulouse',
-  'prix-demenagement-piano-toulouse': 'prix-demenagement-piano-toulouse',
+  'demenagement-etudiant-marseille': 'demenagement-etudiant-marseille',
+  'demenagement-entreprise-marseille': 'demenagement-entreprise-marseille',
+  'demenagement-piano-marseille': 'demenagement-piano-marseille',
+  'demenagement-international-marseille': 'demenagement-international-marseille',
+  'demenagement-longue-distance-marseille': 'demenagement-longue-distance-marseille',
+  'demenagement-pas-cher-marseille': 'demenagement-pas-cher-marseille',
+  'demenagement-urgent-marseille': 'demenagement-urgent-marseille',
+  'devis-demenagement-marseille': 'devis-demenagement-marseille',
+  'garde-meuble-marseille': 'garde-meuble-marseille',
+  'prix-demenagement-marseille': 'prix-demenagement-marseille',
+  'prix-demenagement-piano-marseille': 'prix-demenagement-piano-marseille',
 };
 
 function updateArticle(filePath, categoryFolder) {
@@ -87,7 +87,7 @@ console.log('\n' + '═'.repeat(60));
 console.log(`✅ Completed! Updated ${totalUpdated} articles`);
 console.log('\n📊 Category mapping:');
 Object.entries(folderToCategoryMapping).forEach(([folder, category]) => {
-  const cleanCat = category.replace('demenagement-', '').replace('-toulouse', '').replace('devis-', '').replace('garde-meuble', 'garde-meuble').replace('prix-', 'prix/');
+  const cleanCat = category.replace('demenagement-', '').replace('-marseille', '').replace('devis-', '').replace('garde-meuble', 'garde-meuble').replace('prix-', 'prix/');
   console.log(`  ${folder} → ${cleanCat}`);
 });
 

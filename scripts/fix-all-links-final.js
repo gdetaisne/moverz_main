@@ -4,24 +4,24 @@ const path = require('path');
 // Tous les mappings de liens à corriger
 const linkMappings = {
   // Self-stockage
-  '/blog/garde-meuble/self-stockage-toulouse-mode-emploi-prix': '/blog/garde-meuble/self-stockage-mode-emploi-prix',
+  '/blog/garde-meuble/self-stockage-marseille-mode-emploi-prix': '/blog/garde-meuble/self-stockage-mode-emploi-prix',
   
   // Etudiant
-  '/blog/etudiant/cartons-gratuits-toulouse': '/blog/etudiant/cartons-gratuits',
-  '/blog/etudiant/stockage-etudiant-toulouse': '/blog/etudiant/stockage-etudiant',
-  '/blog/etudiant/camion-demenagement-etudiant-toulouse': '/blog/etudiant/camion-demenagement-etudiant',
+  '/blog/etudiant/cartons-gratuits-marseille': '/blog/etudiant/cartons-gratuits',
+  '/blog/etudiant/stockage-etudiant-marseille': '/blog/etudiant/stockage-etudiant',
+  '/blog/etudiant/camion-demenagement-etudiant-marseille': '/blog/etudiant/camion-demenagement-etudiant',
   
   // Urgent
-  '/blog/urgent/demenager-48h-toulouse-realites-solutions': '/blog/urgent/demenager-48h-realites-solutions',
+  '/blog/urgent/demenager-48h-marseille-realites-solutions': '/blog/urgent/demenager-48h-realites-solutions',
   
   // Prix garde-meuble
-  '/blog/prix/prix-garde-meuble-toulouse-solutions-tarifs': '/blog/prix/prix-garde-meuble-solutions-tarifs',
+  '/blog/prix/prix-garde-meuble-marseille-solutions-tarifs': '/blog/prix/prix-garde-meuble-solutions-tarifs',
   
   // International
-  '/blog/international/assurance-demenagement-international-toulouse': '/blog/international/assurance-demenagement-international',
-  '/blog/international/prix-demenagement-international-toulouse': '/blog/international/prix-demenagement-international',
-  '/blog/international/emballage-demenagement-international-toulouse': '/blog/international/emballage-demenagement-international',
-  '/blog/international/formalites-douanieres-demenagement-international-toulouse': '/blog/international/formalites-douanieres-demenagement-international',
+  '/blog/international/assurance-demenagement-international-marseille': '/blog/international/assurance-demenagement-international',
+  '/blog/international/prix-demenagement-international-marseille': '/blog/international/prix-demenagement-international',
+  '/blog/international/emballage-demenagement-international-marseille': '/blog/international/emballage-demenagement-international',
+  '/blog/international/formalites-douanieres-demenagement-international-marseille': '/blog/international/formalites-douanieres-demenagement-international',
 };
 
 function fixLinksInFile(filePath) {

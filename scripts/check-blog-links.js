@@ -4,17 +4,17 @@ const matter = require('gray-matter');
 
 // Mapping des catégories
 const categoryMapping = {
-  'demenagement-etudiant-toulouse': 'etudiant',
-  'demenagement-entreprise-toulouse': 'entreprise',
-  'demenagement-piano-toulouse': 'piano',
-  'demenagement-international-toulouse': 'international',
-  'demenagement-longue-distance-toulouse': 'longue-distance',
-  'demenagement-pas-cher-toulouse': 'pas-cher',
-  'demenagement-urgent-toulouse': 'urgent',
-  'devis-demenagement-toulouse': 'devis',
-  'garde-meuble-toulouse': 'garde-meuble',
-  'prix-demenagement-toulouse': 'prix',
-  'prix-demenagement-piano-toulouse': 'prix-piano',
+  'demenagement-etudiant-marseille': 'etudiant',
+  'demenagement-entreprise-marseille': 'entreprise',
+  'demenagement-piano-marseille': 'piano',
+  'demenagement-international-marseille': 'international',
+  'demenagement-longue-distance-marseille': 'longue-distance',
+  'demenagement-pas-cher-marseille': 'pas-cher',
+  'demenagement-urgent-marseille': 'urgent',
+  'devis-demenagement-marseille': 'devis',
+  'garde-meuble-marseille': 'garde-meuble',
+  'prix-demenagement-marseille': 'prix',
+  'prix-demenagement-piano-marseille': 'prix-piano',
 };
 
 // Clean slug function
@@ -22,17 +22,17 @@ function cleanSlug(slug, category) {
   let clean = slug;
   
   const categoryPatterns = [
-    'demenagement-etudiant-toulouse-',
-    'demenagement-entreprise-toulouse-',
-    'demenagement-piano-toulouse-',
-    'demenagement-international-toulouse-',
-    'demenagement-longue-distance-toulouse-',
-    'demenagement-pas-cher-toulouse-',
-    'demenagement-urgent-toulouse-',
-    'devis-demenagement-toulouse-',
-    'garde-meuble-toulouse-',
-    'prix-demenagement-toulouse-',
-    'prix-demenagement-piano-toulouse-',
+    'demenagement-etudiant-marseille-',
+    'demenagement-entreprise-marseille-',
+    'demenagement-piano-marseille-',
+    'demenagement-international-marseille-',
+    'demenagement-longue-distance-marseille-',
+    'demenagement-pas-cher-marseille-',
+    'demenagement-urgent-marseille-',
+    'devis-demenagement-marseille-',
+    'garde-meuble-marseille-',
+    'prix-demenagement-marseille-',
+    'prix-demenagement-piano-marseille-',
   ];
   
   categoryPatterns.forEach(pattern => {
@@ -41,7 +41,7 @@ function cleanSlug(slug, category) {
     }
   });
   
-  clean = clean.replace(/-toulouse$/i, '');
+  clean = clean.replace(/-marseille$/i, '');
   clean = clean.replace(/-guide-complet$/i, '-guide');
   clean = clean.replace(/-reperes-2025$/i, '-2025');
   

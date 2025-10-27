@@ -1,4 +1,4 @@
-# 🏘️ Quartiers toulouse Images
+# 🏘️ Quartiers Marseille Images
 
 ## Images Suggérées
 
@@ -15,7 +15,7 @@
 - **Format**: 16:9 ou 4:3
 - **Dimensions**: 1600x900px
 - **Contenu**: Rues pavées centre historique, accès limité
-- **Alt**: `"Saint-Pierre — rues pavées, accès camion limité, centre historique toulouse"`
+- **Alt**: `"Saint-Pierre — rues pavées, accès camion limité, centre historique Marseille"`
 
 #### `cauderan.jpg`
 - **Format**: 16:9 ou 4:3
@@ -43,12 +43,12 @@
 
 ## Utilisé Dans
 - `app/_templates/LocalPage.tsx` (pages quartiers)
-- `app/toulouse/[quartier]/page.tsx`
+- `app/marseille/[quartier]/page.tsx`
 
 ## Comment Ajouter
 ```tsx
 const quartierData = {
-  zone: "toulouse/nom-quartier",
+  zone: "marseille/nom-quartier",
   zoneDisplay: "Nom Quartier",
   coverImage: "/images/quartiers/nom-quartier.jpg", // ← Ajouter ici
   // ... autres props
@@ -56,10 +56,10 @@ const quartierData = {
 ```
 
 ## Sources d'Images
-- **Unsplash**: `"toulouse architecture"`, `"toulouse street"`
+- **Unsplash**: `"marseille architecture"`, `"marseille street"`
 - **Pexels**: `"french architecture"`, `"european street"`
-- **Flickr**: Recherche géolocalisée toulouse
-- **Wikimedia Commons**: Photos libres quartiers toulouse
+- **Flickr**: Recherche géolocalisée Marseille
+- **Wikimedia Commons**: Photos libres quartiers Marseille
 
 ## Guidelines
 - Montrer les spécificités d'accès (étroit/large, parking, etc.)

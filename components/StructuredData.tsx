@@ -2,33 +2,33 @@ export default function StructuredData() {
   const structuredData = {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
-    "name": "Déménageurs Toulouse (IA)",
+    "name": "Déménageurs Marseille (IA)",
     "description": "30 minutes pour votre dossier → 5 devis personnalisés sous 7 jours. Estimation volumétrique à partir de photos, tarifs clairs, conseils locaux.",
-    "url": "https://www.devis-demenageur-toulouse.fr",
+    "url": "https://www.devis-demenageur-marseille.fr",
     "telephone": "+33-XXX-XXX-XXX",
     "address": {
       "@type": "PostalAddress",
-      "addressLocality": "Toulouse",
-      "addressRegion": "Occitanie",
+      "addressLocality": "Marseille",
+      "addressRegion": "Provence-Alpes-Côte d'Azur",
       "addressCountry": "FR"
     },
     "geo": {
       "@type": "GeoCoordinates",
-      "latitude": 43.6047,
-      "longitude": 1.4442
+      "latitude": 43.2965,
+      "longitude": 5.3698
     },
     "areaServed": [
       {
         "@type": "City",
-        "name": "Toulouse"
+        "name": "Marseille"
       },
       {
         "@type": "City",
-        "name": "Montpellier"
+        "name": "Aix-en-Provence"
       },
       {
         "@type": "City",
-        "name": "Narbonne"
+        "name": "Aubagne"
       }
     ],
     "priceRange": "€€",
