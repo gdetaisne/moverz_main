@@ -2,33 +2,33 @@ export default function StructuredData() {
   const structuredData = {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
-    "name": "Déménageurs Lille (IA)",
+    "name": "Déménageurs Nice (IA)",
     "description": "30 minutes pour votre dossier → 5 devis personnalisés sous 7 jours. Estimation volumétrique à partir de photos, tarifs clairs, conseils locaux.",
-    "url": "https://www.devis-demenageur-lille.fr",
+    "url": "https://www.devis-demenageur-nice.fr",
     "telephone": "+33-XXX-XXX-XXX",
     "address": {
       "@type": "PostalAddress",
-      "addressLocality": "Lille",
-      "addressRegion": "Hauts-de-France",
+      "addressLocality": "Nice",
+      "addressRegion": "Provence-Alpes-Côte d'Azur",
       "addressCountry": "FR"
     },
     "geo": {
       "@type": "GeoCoordinates",
-      "latitude": 50.6292,
-      "longitude": 3.0573
+      "latitude": 43.7102,
+      "longitude": 7.2620
     },
     "areaServed": [
       {
         "@type": "City",
-        "name": "Lille"
+        "name": "Nice"
       },
       {
         "@type": "City",
-        "name": "Roubaix"
+        "name": "Cannes"
       },
       {
         "@type": "City",
-        "name": "Tourcoing"
+        "name": "Antibes"
       }
     ],
     "priceRange": "€€",

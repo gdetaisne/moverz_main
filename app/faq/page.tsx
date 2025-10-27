@@ -135,7 +135,7 @@ const faqs: QA[] = [
     category: "Prestations & logistique",
   },
   {
-    q: "Combien de cartons prévoir pour un déménagement à lille ?",
+    q: "Combien de cartons prévoir pour un déménagement à nice ?",
     a: [
       "Repères utiles: studio 8-15 cartons; T1 15-20; T2 25-40; T3 35-55; T4 45-60+; maison 60+. Le nombre varie selon vos livres/jouets/archives et objets fragiles. Pensez aux formats adaptés (livres, vaisselle, penderie) et à l'étiquetage par pièce."
     ],
@@ -149,9 +149,9 @@ const faqs: QA[] = [
     category: "Prestations & logistique",
   },
   {
-    q: "Dois-je demander une autorisation de stationnement à lille ?",
+    q: "Dois-je demander une autorisation de stationnement à nice ?",
     a: [
-      "Oui. Pour réserver un emplacement de déménagement, faites une demande d'occupation exceptionnelle de l'espace public (domaine public) auprès de la Ville de lille, de préférence en ligne et quelques jours à l'avance. En secteur piéton, l'accès est régulé par bornes et des horaires de livraison. Votre déménageur peut s'en charger."
+      "Oui. Pour réserver un emplacement de déménagement, faites une demande d'occupation exceptionnelle de l'espace public (domaine public) auprès de la Ville de nice, de préférence en ligne et quelques jours à l'avance. En secteur piéton, l'accès est régulé par bornes et des horaires de livraison. Votre déménageur peut s'en charger."
     ],
     category: "Prestations & logistique",
   },
@@ -177,9 +177,9 @@ const faqs: QA[] = [
     category: "Prestations & logistique",
   },
   {
-    q: "Quels sont les quartiers les plus complexes pour déménager à lille?",
+    q: "Quels sont les quartiers les plus complexes pour déménager à nice?",
     a: [
-      "Les déménagements sont plus délicats dans l'hypercentre piéton (secteurs Saint-Éloi/Saint-Pierre, Pey-Berland, Bouffard, Mably et lille Sud) où l'accès est régulé par des bornes et les livraisons se font sur des créneaux autorisés. Anticipez l'autorisation/occupation du domaine public et les horaires de livraison."
+      "Les déménagements sont plus délicats dans l'hypercentre piéton (secteurs Saint-Éloi/Saint-Pierre, Pey-Berland, Bouffard, Mably et nice Sud) où l'accès est régulé par des bornes et les livraisons se font sur des créneaux autorisés. Anticipez l'autorisation/occupation du domaine public et les horaires de livraison."
     ],
     category: "Prestations & logistique",
   },
@@ -206,9 +206,9 @@ const faqs: QA[] = [
     category: "Tarifs & paiement",
   },
   {
-    q: "Quel est le prix moyen d'un déménagement à lille ?",
+    q: "Quel est le prix moyen d'un déménagement à nice ?",
     a: [
-      "Selon les données récentes des comparateurs professionnels, à lille un déménagement de 20 m³ coûte en moyenne ~890-1 040 € en local (<100 km) et 1 710-1 960 € en longue distance. Pour un T3 intra-muros, on observe souvent 1 000-1 300 €, et 1 700-2 000 € au-delà de 500 km. Le prix exact dépend du volume, de la distance, de l'accès (ascenseur, stationnement) et de la formule choisie."
+      "Selon les données récentes des comparateurs professionnels, à nice un déménagement de 20 m³ coûte en moyenne ~890-1 040 € en local (<100 km) et 1 710-1 960 € en longue distance. Pour un T3 intra-muros, on observe souvent 1 000-1 300 €, et 1 700-2 000 € au-delà de 500 km. Le prix exact dépend du volume, de la distance, de l'accès (ascenseur, stationnement) et de la formule choisie."
     ],
     category: "Tarifs & paiement",
   },
@@ -285,7 +285,7 @@ export default function FAQPage() {
         <div className="absolute inset-0">
           <img 
             src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=2000&auto=format&fit=crop"
-            alt="FAQ Déménagement lille - Questions fréquentes"
+            alt="FAQ Déménagement nice - Questions fréquentes"
             className="w-full h-full object-cover"
           />
           <div className="absolute inset-0 bg-gradient-to-br from-[#04163a]/95 via-[#2b7a78]/88 to-[#04163a]/92"></div>
@@ -302,11 +302,11 @@ export default function FAQPage() {
             </div>
 
             <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold tracking-tight mb-6">
-              FAQ — Déménagement à lille
+              FAQ — Déménagement à nice
             </h1>
             <p className="text-lg md:text-xl text-white/90">
               Vous trouverez ici les réponses aux questions les plus fréquentes. Pour un chiffrage précis, utilisez notre{" "}
-              <a className="underline text-[#6bcfcf] hover:text-[#6bcfcf]/80 transition-colors" href="/devis-demenagement-lille/">devis de déménagement à lille</a>.
+              <a className="underline text-[#6bcfcf] hover:text-[#6bcfcf]/80 transition-colors" href="/devis-demenagement-nice/">devis de déménagement à nice</a>.
             </p>
           </div>
         </div>
@@ -361,21 +361,21 @@ export default function FAQPage() {
                         {item.q.includes("prix") && (
                           <p className="text-sm text-white/70">
                             Voir aussi :{" "}
-                            <a className="underline text-accent" href="/prix-demenagement-lille/">Prix d'un déménagement à lille</a>.
+                            <a className="underline text-accent" href="/prix-demenagement-nice/">Prix d'un déménagement à nice</a>.
                           </p>
                         )}
                         {item.q.includes("quartiers") && (
                           <p className="text-sm text-white/70">
                             Utile :{" "}
-                            <a className="underline text-accent" href="/devis-demenagement-lille-chartrons/">Chartrons</a>,{" "}
-                            <a className="underline text-accent" href="/devis-demenagement-lille-saint-pierre/">Saint-Pierre</a>,{" "}
-                            <a className="underline text-accent" href="/devis-demenagement-lille-cauderan/">Caudéran</a>.
+                            <a className="underline text-accent" href="/devis-demenagement-nice-chartrons/">Chartrons</a>,{" "}
+                            <a className="underline text-accent" href="/devis-demenagement-nice-saint-pierre/">Saint-Pierre</a>,{" "}
+                            <a className="underline text-accent" href="/devis-demenagement-nice-cauderan/">Caudéran</a>.
                           </p>
                         )}
                         {item.q.includes("estimer le volume") && (
                           <p className="text-sm text-white/70">
                             Lancez votre{" "}
-                            <a className="underline text-accent" href="/estimation-demenagement-lille/">estimation de déménagement</a>{" "}
+                            <a className="underline text-accent" href="/estimation-demenagement-nice/">estimation de déménagement</a>{" "}
                             en quelques minutes.
                           </p>
                         )}
@@ -402,21 +402,21 @@ export default function FAQPage() {
                     {item.q.includes("prix") && (
                       <p className="text-sm text-white/70">
                         Voir aussi :{" "}
-                        <a className="underline text-accent" href="/prix-demenagement-lille/">Prix d'un déménagement à lille</a>.
+                        <a className="underline text-accent" href="/prix-demenagement-nice/">Prix d'un déménagement à nice</a>.
                       </p>
                     )}
                     {item.q.includes("quartiers") && (
                       <p className="text-sm text-white/70">
                         Utile :{" "}
-                        <a className="underline text-accent" href="/devis-demenagement-lille-chartrons/">Chartrons</a>,{" "}
-                        <a className="underline text-accent" href="/devis-demenagement-lille-saint-pierre/">Saint-Pierre</a>,{" "}
-                        <a className="underline text-accent" href="/devis-demenagement-lille-cauderan/">Caudéran</a>.
+                        <a className="underline text-accent" href="/devis-demenagement-nice-chartrons/">Chartrons</a>,{" "}
+                        <a className="underline text-accent" href="/devis-demenagement-nice-saint-pierre/">Saint-Pierre</a>,{" "}
+                        <a className="underline text-accent" href="/devis-demenagement-nice-cauderan/">Caudéran</a>.
                       </p>
                     )}
                     {item.q.includes("estimer le volume") && (
                       <p className="text-sm text-white/70">
                         Lancez votre{" "}
-                        <a className="underline text-accent" href="/estimation-demenagement-lille/">estimation de déménagement</a>{" "}
+                        <a className="underline text-accent" href="/estimation-demenagement-nice/">estimation de déménagement</a>{" "}
                         en quelques minutes.
                       </p>
                     )}

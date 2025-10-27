@@ -10,8 +10,7 @@ const nextConfig = {
   },
   eslint: {
     ignoreDuringBuilds: true, // Skip ESLint en production (fait en dev)
-  },
-  
+  },  
   // Headers de sécurité gérés par middleware.js
 
   // Configuration de sécurité supplémentaire

@@ -1,28 +1,28 @@
 export type Item = { slug: string; title: string };
 
 export const QUARTIERS: Item[] = [
-  { slug: "vieux-lille",      title: "Vieux Lille" },
-  { slug: "centre",      title: "Centre" },
-  { slug: "wazemmes",      title: "Wazemmes" },
-  { slug: "moulins",      title: "Moulins" },
-  { slug: "lomme",      title: "Lomme" },
-  { slug: "saint-maurice",      title: "Saint-Maurice" },
-  { slug: "fives",      title: "Fives" },
-  { slug: "hellemmes",      title: "Hellemmes" },
-  { slug: "faubourg-bethune",      title: "Faubourg de Béthune" },
-  { slug: "vauban",     title: "Vauban" },
+  { slug: "vieux-nice",      title: "Vieux Nice" },
+  { slug: "promenade-anglais",      title: "Promenade des Anglais" },
+  { slug: "cimiez",      title: "Cimiez" },
+  { slug: "liberation",      title: "Libération" },
+  { slug: "port",      title: "Port" },
+  { slug: "mantega",      title: "Mantega" },
+  { slug: "fabron",      title: "Fabron" },
+  { slug: "pasteur",      title: "Pasteur" },
+  { slug: "garibaldi",      title: "Garibaldi" },
+  { slug: "saint-roch",     title: "Saint-Roch" },
 ];
 
 export const COMMUNES: Item[] = [
-  { slug: "roubaix",       title: "Roubaix" },
-  { slug: "tourcoing",       title: "Tourcoing" },
-  { slug: "villeneuve-d-ascq",       title: "Villeneuve-d'Ascq" },
-  { slug: "lambersart",       title: "Lambersart" },
-  { slug: "marcq-en-baroeul",       title: "Marcq-en-Barœul" },
+  { slug: "cannes",       title: "Cannes" },
+  { slug: "antibes",       title: "Antibes" },
+  { slug: "grasse",       title: "Grasse" },
+  { slug: "menton",       title: "Menton" },
+  { slug: "monaco",       title: "Monaco" },
 ];
 
 export function urlForQuartier(slug: string) {
-  return `/devis-demenagement-Lille-${slug}/`;
+  return `/devis-demenagement-Nice-${slug}/`;
 }
 export function urlForCommune(slug: string) {
   return `/devis-demenagement-${slug}/`;
