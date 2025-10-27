@@ -9,18 +9,42 @@ export default function NeighborhoodsTeaser() {
     { title: "Jean Jaurès", href: "/Toulouse/jean-jaures" },
     { title: "Compans", href: "/Toulouse/compans" },
   ];
+  const items = [
+    ...picks,
+    { title: "Ajouter votre quartier", href: "/contact/", isAdd: true as const },
+  ];
   
   return (
     <div>
       <div className="flex items-end justify-between">
         <h2 className="text-2xl md:text-3xl font-semibold text-white">Zones couvertes</h2>
-        <Link href="/quartiers-Toulouse" className="text-sm text-white/90 hover:text-white">Voir tous les quartiers</Link>
+        <Link href="/quartiers-toulouse/" className="btn-secondary px-4 py-2 text-sm">Voir tous les quartiers</Link>
       </div>
-      <div className="mt-6 grid gap-4 md:grid-cols-5">
-        {picks.map((p) => (
-          <Link key={p.title} href={p.href} className="card-glass rounded-2xl p-4 hover:translate-y-[2px] hover:shadow-lg transition">
-            <div className="text-white font-medium">{p.title}</div>
-            <div className="text-white/70 text-xs mt-1">Déménageurs locaux</div>
+      <p className="mt-2 text-white/70 text-sm">Nos déménageurs sont actifs dans les quartiers suivants.</p>
+      <div className="mt-6 grid gap-4 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5">
+        {items.map((p) => (
+          <Link
+            key={p.title}
+            href={p.href}
+            className={
+              "card-glass rounded-2xl p-5 hover:translate-y-[2px] hover:shadow-lg transition ring-1 hover:ring-white/20 " +
+              ("isAdd" in p ? "border-dashed border-white/30 bg-white/5" : "ring-white/10")
+            }
+          >
+            {"isAdd" in p ? (
+              <div className="flex items-center gap-3">
+                <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-white/10 text-white text-lg">+</div>
+                <div>
+                  <div className="text-white font-medium">{p.title}</div>
+                  <div className="text-white/70 text-xs mt-1">Dites‑nous où vous déménagez</div>
+                </div>
+              </div>
+            ) : (
+              <>
+                <div className="text-white font-medium">{p.title}</div>
+                <div className="text-white/70 text-xs mt-1">Déménageurs locaux</div>
+              </>
+            )}
           </Link>
         ))}
       </div>

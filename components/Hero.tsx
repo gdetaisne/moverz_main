@@ -23,7 +23,21 @@ export default function Hero() {
               <span className="inline-flex items-center gap-2 rounded-full bg-white/10 px-3 py-1 ring-1 ring-white/15"><span className="h-1 w-1 rounded-full bg-white/50" />Déménageurs vérifiés</span>
             </div>
             <div className="mt-7 flex flex-col items-center justify-center gap-3 sm:flex-row lg:justify-start">
-              <a href="/inventaire-ia/" className="btn-primary" aria-label="Obtenez vos devis gratuits">Obtenez vos devis gratuits</a>
+              <a href="/inventaire-ia/" className="btn-primary" aria-label="Obtenez vos devis précis gratuitement">Obtenez vos devis précis gratuitement</a>
+            </div>
+            <div className="mt-6 flex flex-col items-center gap-4 text-sm text-white/80 sm:flex-row lg:justify-start">
+              <div className="flex items-center gap-2">
+                <div className="flex -space-x-2">
+                  <div className="w-8 h-8 rounded-full bg-white/20 border-2 border-white flex items-center justify-center text-xs">👤</div>
+                  <div className="w-8 h-8 rounded-full bg-white/20 border-2 border-white flex items-center justify-center text-xs">👤</div>
+                  <div className="w-8 h-8 rounded-full bg-white/20 border-2 border-white flex items-center justify-center text-xs">👤</div>
+                </div>
+                <span>+1200 clients satisfaits</span>
+              </div>
+              <div className="flex items-center gap-1">
+                <span className="text-yellow-300">⭐⭐⭐⭐⭐</span>
+                <span>Note moyenne 4,9/5</span>
+              </div>
             </div>
           </div>
           <div className="relative mx-auto w-full max-w-[560px] lg:mx-0">
@@ -35,7 +49,7 @@ export default function Hero() {
                   <span className="h-2 w-2 rounded-full bg-yellow-400/80" />
                   <span className="h-2 w-2 rounded-full bg-green-400/80" />
                 </div>
-                <Image src="/logo.png" alt="Logo Moverz" width={18} height={18} className="rounded-sm" />
+                {/* right-side header content intentionally left empty */}
               </div>
               <div className="mt-4 space-y-4">
                 <div className="rounded-xl border border-white/15 bg-white/5 p-4 md:p-5">
@@ -76,8 +90,8 @@ export default function Hero() {
                 </div>
               </div>
             </div>
-            <div className="absolute -top-5 -right-3 rounded-full bg-[#6bcfcf] px-4 py-2 text-sm font-semibold text-[#04163a] shadow-lg flex items-center gap-2">
-              <Image src="/logo.png" alt="Logo Moverz" width={16} height={16} className="rounded-[3px]" />
+            <div className="absolute -top-5 -right-3 flex items-center gap-2 rounded-full bg-[#6bcfcf] px-5 py-2.5 text-sm font-semibold text-[#04163a] shadow-xl ring-1 ring-white/30 animate-badge-pop transition-transform duration-300 hover:-translate-y-0.5 hover:shadow-[0_12px_30px_rgba(107,207,207,0.45)] hover:ring-white/50">
+              <Image src="/logo.png" alt="Logo Moverz" width={16} height={16} className="rounded-[3px] brightness-0 invert" />
               <span>Propulsé par Moverz IA</span>
             </div>
           </div>

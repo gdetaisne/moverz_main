@@ -70,10 +70,8 @@ export default function NeighborhoodsIndex() {
           </div>
         </section>
 
-        <div className="mt-12">
-          <a href="/inventaire-ia/" className="inline-flex rounded-2xl bg-accent px-5 py-3 text-sm font-medium hover:brightness-110">
-            Obtenez votre estimation instantanée
-          </a>
+      <div className="mt-12">
+          <a href="/inventaire-ia/" className="btn-primary btn-sm">Obtenez vos devis précis gratuitement</a>
         </div>
       </div>
     </main>

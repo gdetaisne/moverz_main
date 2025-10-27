@@ -4,7 +4,7 @@ export default function StickyCTA() {
       <div className="mx-auto max-w-md">
         <div className="card-glass rounded-2xl p-4 text-center">
           <p className="text-sm text-white/90 mb-3">Prêt pour déménager?</p>
-          <a href="/inventaire-ia/" className="btn-accent w-full text-center">Obtenez vos devis gratuits</a>
+          <a href="/inventaire-ia/" className="btn-accent w-full text-center" aria-label="Obtenez vos devis précis gratuitement">Obtenez vos devis précis gratuitement</a>
         </div>
       </div>
     </div>
