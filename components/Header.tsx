@@ -61,9 +61,9 @@ export default function Header() {
           <img 
             src="/logo.png" 
             alt="Logo" 
-            className="h-16 w-16 object-cover rounded-sm scale-[2]"
+            className="h-12 w-12 md:h-14 md:w-14 object-contain rounded-sm"
           />
-          <div className="text-white font-semibold tracking-tight text-sm md:text-base leading-tight flex flex-col">
+          <div className="text-white font-semibold tracking-wide text-sm md:text-base leading-tight flex flex-col w-28 md:w-32">
             <span>Devis</span>
             <span>Déménageur</span>
             <span>Toulouse</span>

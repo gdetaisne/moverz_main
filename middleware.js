@@ -1,6 +1,11 @@
 import { NextResponse } from 'next/server';
 
 export function middleware(request) {
+  // Skip headers entirely in development to avoid local issues
+  if (process.env.NODE_ENV !== 'production') {
+    return NextResponse.next();
+  }
+
   // Appliquer les headers Helmet
   const response = NextResponse.next();
   

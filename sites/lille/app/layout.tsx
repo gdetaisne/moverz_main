@@ -68,6 +68,11 @@ export default function RootLayout({
 }) {
   return (
     <html lang="fr" className="h-full">
+      <head>
+        <link rel="manifest" href="/manifest.json" />
+        <link rel="icon" href="/favicon.ico" sizes="any" />
+        <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png" />
+      </head>
       <body className={`${inter.className} min-h-screen bg-[#04163a] text-white`}>
         <GoogleAnalytics />
         <StructuredData />
@@ -85,7 +90,14 @@ function Footer() {
     <footer className="mt-24 border-t border-white/10 bg-white/5">
       <div className="container max-w-7xl mx-auto px-4 md:px-6 py-14 grid md:grid-cols-4 gap-10">
         <div>
-          <div className="text-lg font-semibold">Déménageurs Lille (IA)</div>
+          <div className="flex items-center gap-3">
+            <img src="/logo.png" alt="Logo" className="h-12 w-12 md:h-14 md:w-14 object-contain rounded-sm" />
+            <div className="text-white font-semibold tracking-wide text-sm md:text-base leading-tight flex flex-col w-28 md:w-32 text-justify">
+              <span>Devis</span>
+              <span>Déménageur</span>
+              <span>Lille</span>
+            </div>
+          </div>
           <p className="mt-3 text-white/90 max-w-xs">30 minutes pour votre dossier → 5 devis personnalisés sous 7 jours. Simple, précis, transparent.</p>
           <div className="mt-4 inline-flex items-center gap-2 rounded-full border border-white/25 bg-white/10 px-3 py-1 text-xs text-white">
             <span className="inline-block h-2 w-2 rounded-full bg-emerald-400"></span>
