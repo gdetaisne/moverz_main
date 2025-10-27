@@ -1,8 +1,7 @@
 {
-  "name": "demenageurs-montpellier",
+  "name": "demenageurs-bordeaux",
   "version": "0.1.0",
   "private": true,
-  "type": "module",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -31,4 +30,3 @@
     "typescript": "5.9.2"
   }
 }
-
