@@ -34,7 +34,7 @@ export default function HowItWorks() {
         {steps.map((step, i) => (
           <div key={i} className="text-center">
             {/* Image 4:3 */}
-            <div className="relative w-full aspect-[4/3] rounded-xl overflow-hidden mb-4 bg-white/5">
+            <div className="relative w-full aspect-[4/3] rounded-xl overflow-hidden mb-4 bg-white/10">
               <Image 
                 src={step.image}
                 alt={step.alt}
@@ -44,7 +44,7 @@ export default function HowItWorks() {
                 quality={85}
               />
               {/* Overlay with number */}
-              <div className="absolute inset-0 bg-gradient-to-t from-[#04163a]/80 to-transparent"></div>
+              <div className="absolute inset-0 bg-gradient-to-t from-[#04163a]/60 to-transparent"></div>
               <div className="absolute top-4 left-4 flex h-12 w-12 items-center justify-center rounded-full bg-[#6bcfcf] text-[#04163a] text-lg font-bold">
                 {step.number}
               </div>
@@ -56,12 +56,7 @@ export default function HowItWorks() {
       </div>
       
       <div className="text-center mt-12">
-        <a
-          href="/inventaire-ia/"
-          className="inline-flex h-12 items-center justify-center rounded-2xl bg-[#6bcfcf] px-8 text-lg font-semibold text-[#04163a] shadow-lg hover:bg-[#6bcfcf]/90 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#6bcfcf]/50 transition duration-300"
-        >
-          Obtenez vos devis précis gratuitement
-        </a>
+        <a href="/inventaire-ia/" className="btn-primary">Obtenez vos devis gratuits</a>
       </div>
     </div>
   );

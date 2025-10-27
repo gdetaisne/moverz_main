@@ -10,17 +10,17 @@ export default function ProofStrip() {
       <h2 className="text-2xl md:text-3xl font-semibold text-white text-center mb-8">
         Chiffres‑clés
       </h2>
-      <div className="grid md:grid-cols-3 gap-6">
+      <div className="grid md:grid-cols-3 gap-4 md:gap-5">
         {stats.map((stat, i) => (
           <div 
             key={i}
-            className="card-glass rounded-2xl p-8 text-center"
+            className="card-glass rounded-xl p-5 md:p-6 text-center hover:translate-y-[1px] transition"
           >
-            <div className="text-4xl mb-4">{stat.icon}</div>
-            <div className="text-4xl md:text-5xl font-bold text-[#6bcfcf] mb-2">
+            <div className="text-2xl md:text-3xl mb-2 opacity-90">{stat.icon}</div>
+            <div className="text-3xl md:text-4xl font-bold bg-gradient-to-r from-[#6bcfcf] to-white bg-clip-text text-transparent mb-1">
               {stat.value}
             </div>
-            <div className="text-white/80">
+            <div className="text-white/80 text-xs md:text-sm">
               {stat.label}
             </div>
           </div>

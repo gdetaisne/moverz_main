@@ -65,17 +65,34 @@ body {
 
 /* Utilities for gradients / halos / glassmorphism */
 .bg-hero { 
-  background: radial-gradient(1200px 600px at 10% -10%, rgba(43,122,120,0.25), transparent), linear-gradient(180deg, #04163a 0%, #04163a 60%, #06224d 100%);
+  background: radial-gradient(1200px 600px at 12% -10%, rgba(107,207,207,0.22), transparent), linear-gradient(180deg, #04163a 0%, #0b2e35 55%, #08333b 100%);
 }
 .glow {
   filter: blur(60px);
   background: radial-gradient(400px 200px at 80% 20%, rgba(107,207,207,0.25), transparent);
 }
 .card-glass {
-  background: rgba(255,255,255,0.05);
-  backdrop-filter: blur(12px);
-  border: 1px solid rgba(255,255,255,0.1);
+  background: rgba(255,255,255,0.08);
+  backdrop-filter: blur(14px);
+  border: 1px solid rgba(255,255,255,0.16);
 }
+.btn-primary {
+  @apply inline-flex items-center justify-center rounded-2xl px-6 py-3 text-base md:text-lg font-semibold tracking-wide shadow-lg transition duration-300 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white/60 focus-visible:ring-offset-2;
+  background: #ffffff;
+  color: #04163a;
+}
+.btn-primary:hover { background: rgba(255,255,255,0.9); }
+.btn-secondary {
+  @apply inline-flex items-center justify-center rounded-2xl px-6 py-3 text-base md:text-lg font-semibold tracking-wide text-white/95 border transition duration-300;
+  border-color: rgba(255,255,255,0.3);
+}
+.btn-secondary:hover { background: rgba(255,255,255,0.1); }
+
+.btn-accent {
+  @apply inline-flex items-center justify-center rounded-2xl px-6 py-3 text-base md:text-lg font-semibold tracking-wide text-white shadow-lg transition duration-300 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white/60 focus-visible:ring-offset-2;
+  background: #2b7a78;
+}
+.btn-accent:hover { filter: brightness(1.1); }
 
 /* Primary button utility */
 .btn-prime { 
@@ -90,6 +107,13 @@ body {
 .focus-ring {
   @apply outline-none ring-2 ring-offset-2 ring-offset-transparent;
 }
+
+@keyframes progress {
+  0% { transform: translateX(-66%); }
+  60% { transform: translateX(0%); }
+  100% { transform: translateX(0%); }
+}
+.animate-spin-slow { animation: spin 6s linear infinite; }
 
 /* Section spacing */
 .section {

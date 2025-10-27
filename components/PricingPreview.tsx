@@ -12,7 +12,7 @@ export default function PricingPreview() {
       </h2>
       <div className="grid md:grid-cols-3 gap-6">
         {pricing.map((item, i) => (
-          <div key={i} className="card-glass rounded-2xl p-6 text-center">
+          <div key={i} className="card-glass rounded-2xl p-6 text-center hover:translate-y-[2px] transition">
             <h3 className="text-xl font-semibold text-white">{item.type}</h3>
             <div className="mt-4 text-2xl font-bold text-[#6bcfcf]">{item.price}</div>
             <div className="mt-1 text-sm text-white/70">{item.volume}</div>
@@ -20,9 +20,7 @@ export default function PricingPreview() {
         ))}
       </div>
       <div className="mt-8 text-center">
-        <a href="/inventaire-ia/" className="inline-flex h-12 items-center justify-center rounded-2xl bg-[#6bcfcf] px-8 text-lg font-semibold text-[#04163a] shadow-lg hover:bg-[#6bcfcf]/90 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#6bcfcf]/50 transition duration-300">
-          Obtenez vos devis précis gratuitement
-        </a>
+        <a href="/inventaire-ia/" className="btn-primary">Obtenez vos devis gratuits</a>
       </div>
     </div>
   );

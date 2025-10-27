@@ -24,10 +24,10 @@ export default function Testimonials() {
 
   return (
     <div>
-      <h2 className="text-3xl font-semibold text-center">Témoignages</h2>
+      <h2 className="text-3xl font-semibold text-center text-white">Témoignages</h2>
       <div className="mt-12 grid md:grid-cols-3 gap-6">
         {testimonials.map((testimonial, i) => (
-          <div key={i} className="card-glass rounded-2xl p-6">
+          <div key={i} className="card-glass rounded-2xl p-6 hover:translate-y-[2px] transition">
             <div className="flex items-center gap-3 mb-4">
               <div className="relative w-12 h-12 rounded-full overflow-hidden bg-white/10 flex-shrink-0">
                 <Image 
@@ -44,6 +44,7 @@ export default function Testimonials() {
                 <div className="text-sm text-white/70">{testimonial.location}</div>
               </div>
             </div>
+            <div className="text-yellow-300 mb-2">⭐⭐⭐⭐⭐</div>
             <p className="text-white/90 italic">"{testimonial.text}"</p>
           </div>
         ))}

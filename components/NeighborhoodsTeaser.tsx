@@ -14,7 +14,7 @@ export default function NeighborhoodsTeaser() {
     <div>
       <div className="flex items-end justify-between">
         <h2 className="text-2xl md:text-3xl font-semibold text-white">Zones couvertes</h2>
-        <Link href="/quartiers-Toulouse" className="text-sm text-[#6bcfcf] underline">Voir tous les quartiers</Link>
+        <Link href="/quartiers-Toulouse" className="text-sm text-white/90 hover:text-white">Voir tous les quartiers</Link>
       </div>
       <div className="mt-6 grid gap-4 md:grid-cols-5">
         {picks.map((p) => (
