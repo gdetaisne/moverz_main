@@ -1,4 +1,4 @@
 {
   "schemaVersion": 2,
-  "dockerfilePath": "./sites/rouen/Dockerfile"
+  "dockerfilePath": "./sites/strasbourg/Dockerfile"
 }
