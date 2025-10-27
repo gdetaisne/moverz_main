@@ -6,21 +6,21 @@ export default function HowItWorks() {
       number: "1",
       title: "Prenez vos photos",
       description: "3 à 5 par pièce, l'essentiel",
-      image: "https://images.unsplash.com/photo-1556912172-45b7abe8b7e1?w=1200&h=900&fit=crop&q=80",
+      image: "https://images.unsplash.com/photo-1556912172-45b7abe8b7e1?w=1600&h=1200&fit=crop&q=85",
       alt: "Main prenant une photo d'une pièce pour estimation déménagement"
     },
     {
       number: "2", 
       title: "Notre IA calcule votre volume",
       description: "Estimation fiable en 2 minutes",
-      image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&h=900&fit=crop&q=80",
+      image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1600&h=1200&fit=crop&q=85",
       alt: "Écran montrant l'estimation IA du volume en m³"
     },
     {
       number: "3",
       title: "Vous recevez vos devis précis gratuitement",
       description: "5 offres adaptées sous 7 jours",
-      image: "https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?w=1200&h=900&fit=crop&q=80",
+      image: "https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?w=1600&h=1200&fit=crop&q=85",
       alt: "Équipe de déménagement chargeant un carton dans un camion"
     }
   ];
@@ -42,8 +42,8 @@ export default function HowItWorks() {
                 className="object-cover"
                 quality={85}
               />
-              <div className="absolute inset-0 bg-gradient-to-t from-[#04163a]/50 to-transparent"></div>
-              <div className="absolute top-3 left-3 flex h-10 w-10 items-center justify-center rounded-full bg-[#6bcfcf] text-[#04163a] text-base font-bold ring-1 ring-white/40">
+              <div className="absolute inset-0 bg-gradient-to-t from-[#04163a]/40 to-transparent"></div>
+              <div className="absolute top-3 left-3 flex h-9 w-9 items-center justify-center rounded-full bg-[#6bcfcf] text-[#04163a] text-sm font-bold ring-1 ring-white/40">
                 {step.number}
               </div>
             </div>

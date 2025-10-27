@@ -1,8 +1,31 @@
 "use client";
-import React from "react";
+import React, { useEffect, useState } from "react";
 import Image from "next/image";
 
 export default function Hero() {
+  const [stage, setStage] = useState(0); // 0 idle, 1 photos, 2 analyse, 3 devis
+
+  useEffect(() => {
+    let t1: ReturnType<typeof setTimeout> | undefined;
+    let t2: ReturnType<typeof setTimeout> | undefined;
+    let t3: ReturnType<typeof setTimeout> | undefined;
+    let t4: ReturnType<typeof setTimeout> | undefined;
+    const run = () => {
+      setStage(1);
+      t1 = setTimeout(() => setStage(2), 1000);
+      t2 = setTimeout(() => setStage(3), 2000);
+      // reset and loop faster
+      t3 = setTimeout(() => setStage(0), 2700);
+      t4 = setTimeout(run, 3000);
+    };
+    run();
+    return () => {
+      if (t1) clearTimeout(t1);
+      if (t2) clearTimeout(t2);
+      if (t3) clearTimeout(t3);
+      if (t4) clearTimeout(t4);
+    };
+  }, []);
   return (
     <section className="relative overflow-hidden text-white">
       <div className="absolute inset-0">
@@ -59,7 +82,7 @@ export default function Hero() {
                       <div className="text-white font-medium">Photos uploadées</div>
                       <div className="text-xs text-white/70">12 images analysées</div>
                       <div className="mt-3 h-2 w-full overflow-hidden rounded-full bg-white/10">
-                        <div className="h-2 w-2/3 animate-[progress_2.2s_ease-out_infinite] rounded-full bg-[#6bcfcf]" />
+                        <div className={`h-2 rounded-full bg-[#6bcfcf] transition-all duration-300`} style={{ width: stage >= 1 ? "66%" : "8%" }} />
                       </div>
                     </div>
                   </div>
@@ -71,20 +94,22 @@ export default function Hero() {
                       <div className="text-white font-medium">Analyse IA</div>
                       <div className="text-xs text-white/70">Volume estimé: 28 m³</div>
                       <div className="mt-3 flex items-center gap-2">
-                        <span className="h-2 w-2 animate-pulse rounded-full bg-[#6bcfcf]" />
-                        <span className="h-2 w-2 rounded-full bg-white/30" />
-                        <span className="h-2 w-2 rounded-full bg-white/30" />
-                        <span className="h-2 w-2 rounded-full bg-white/30" />
+                        {[0,1,2,3].map((d) => (
+                          <span
+                            key={d}
+                            className={`h-2 w-2 rounded-full ${stage === 2 && d === 0 ? "bg-[#6bcfcf] animate-pulse" : stage >= 3 ? "bg-[#6bcfcf]" : "bg-white/30"}`}
+                          />
+                        ))}
                       </div>
                     </div>
                   </div>
                 </div>
                 <div className="rounded-xl border border-white/15 bg-white/5 p-4 md:p-5">
                   <div className="flex items-start gap-3">
-                    <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-white/10">✅</div>
+                    <div className={`flex h-9 w-9 items-center justify-center rounded-lg ${stage === 3 ? "bg-[#6bcfcf] text-[#04163a]" : "bg-white/10 text-white/70"}`}>{stage === 3 ? "✓" : "…"}</div>
                     <div>
                       <div className="text-white font-medium">5 devis générés</div>
-                      <div className="text-xs text-white/70">Prêts sous 7 jours</div>
+                      <div className={`text-xs ${stage === 3 ? "text-white/90" : "text-white/70"}`}>Prêts sous 7 jours</div>
                     </div>
                   </div>
                 </div>
