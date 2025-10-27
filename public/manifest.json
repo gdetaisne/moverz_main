@@ -1,6 +1,6 @@
 {
-  "name": "Déménageurs Bordeaux (IA)",
-  "short_name": "Moverz Bordeaux",
+  "name": "Déménageurs Nantes (IA)",
+  "short_name": "Moverz Nantes",
   "description": "30 minutes pour votre dossier → 5 devis personnalisés sous 7 jours",
   "start_url": "/",
   "display": "standalone",
@@ -14,6 +14,5 @@
     }
   ]
 }
-
 
 

@@ -4,8 +4,8 @@ import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
 
-// Fonction locale pour lire SEULEMENT les articles de Bordeaux
-function getBordeauxBlogPosts() {
+// Fonction locale pour lire SEULEMENT les articles de Nantes
+function getNantesBlogPosts() {
   const blogDirectory = path.join(process.cwd(), 'content/blog')
   
   if (!fs.existsSync(blogDirectory)) {
@@ -35,8 +35,8 @@ function getBordeauxBlogPosts() {
         category: category,
         type: data.type || 'satellite',
         publish_date: data.publish_date || data.date || new Date().toISOString().split('T')[0],
-        cleanCategory: category.replace('-bordeaux', ''),
-        cleanSlug: file.replace('.md', '').replace('-bordeaux', '')
+        cleanCategory: category.replace('-nantes', ''),
+        cleanSlug: file.replace('.md', '').replace('-nantes', '')
       })
     })
   })
@@ -45,10 +45,10 @@ function getBordeauxBlogPosts() {
 }
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://www.devis-demenageur-bordeaux.fr'
+  const baseUrl = 'https://devis-demenageur-nantes.fr'
   
-  // Récupérer SEULEMENT les articles de blog de Bordeaux
-  const blogPosts = getBordeauxBlogPosts()
+  // Récupérer SEULEMENT les articles de blog de Nantes
+  const blogPosts = getNantesBlogPosts()
   
   // Pages statiques
   const staticPages: MetadataRoute.Sitemap = [
@@ -65,55 +65,55 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/services/demenagement-economique-bordeaux`,
+      url: `${baseUrl}/services/demenagement-economique-nantes`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.7,
     },
     {
-      url: `${baseUrl}/services/demenagement-standard-bordeaux`,
+      url: `${baseUrl}/services/demenagement-standard-nantes`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.7,
     },
     {
-      url: `${baseUrl}/services/demenagement-premium-bordeaux`,
+      url: `${baseUrl}/services/demenagement-premium-nantes`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.7,
     },
     {
-      url: `${baseUrl}/bordeaux`,
+      url: `${baseUrl}/nantes`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.9,
     },
     {
-      url: `${baseUrl}/bordeaux/chartrons`,
+      url: `${baseUrl}/nantes/chartrons`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/bordeaux/cauderan`,
+      url: `${baseUrl}/nantes/cauderan`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/bordeaux/bastide`,
+      url: `${baseUrl}/nantes/bastide`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/bordeaux/merignac`,
+      url: `${baseUrl}/nantes/merignac`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/bordeaux/pessac`,
+      url: `${baseUrl}/nantes/pessac`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
@@ -144,37 +144,37 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
     // Pages corridors
     {
-      url: `${baseUrl}/bordeaux-vers-paris`,
+      url: `${baseUrl}/nantes-vers-paris`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/bordeaux-vers-lyon`,
+      url: `${baseUrl}/nantes-vers-lyon`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/bordeaux-vers-toulouse`,
+      url: `${baseUrl}/nantes-vers-toulouse`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/bordeaux-vers-nantes`,
+      url: `${baseUrl}/nantes-vers-nantes`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/bordeaux-vers-marseille`,
+      url: `${baseUrl}/nantes-vers-marseille`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/bordeaux-vers-espagne`,
+      url: `${baseUrl}/nantes-vers-espagne`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,

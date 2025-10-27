@@ -4,17 +4,17 @@ const matter = require('gray-matter');
 
 // Mapping des catégories
 const categoryMapping = {
-  'demenagement-etudiant-bordeaux': 'etudiant',
-  'demenagement-entreprise-bordeaux': 'entreprise',
-  'demenagement-piano-bordeaux': 'piano',
-  'demenagement-international-bordeaux': 'international',
-  'demenagement-longue-distance-bordeaux': 'longue-distance',
-  'demenagement-pas-cher-bordeaux': 'pas-cher',
-  'demenagement-urgent-bordeaux': 'urgent',
-  'devis-demenagement-bordeaux': 'devis',
-  'garde-meuble-bordeaux': 'garde-meuble',
-  'prix-demenagement-bordeaux': 'prix',
-  'prix-demenagement-piano-bordeaux': 'prix-piano',
+  'demenagement-etudiant-nantes': 'etudiant',
+  'demenagement-entreprise-nantes': 'entreprise',
+  'demenagement-piano-nantes': 'piano',
+  'demenagement-international-nantes': 'international',
+  'demenagement-longue-distance-nantes': 'longue-distance',
+  'demenagement-pas-cher-nantes': 'pas-cher',
+  'demenagement-urgent-nantes': 'urgent',
+  'devis-demenagement-nantes': 'devis',
+  'garde-meuble-nantes': 'garde-meuble',
+  'prix-demenagement-nantes': 'prix',
+  'prix-demenagement-piano-nantes': 'prix-piano',
 };
 
 // Clean slug function
@@ -22,17 +22,17 @@ function cleanSlug(slug, category) {
   let clean = slug;
   
   const categoryPatterns = [
-    'demenagement-etudiant-bordeaux-',
-    'demenagement-entreprise-bordeaux-',
-    'demenagement-piano-bordeaux-',
-    'demenagement-international-bordeaux-',
-    'demenagement-longue-distance-bordeaux-',
-    'demenagement-pas-cher-bordeaux-',
-    'demenagement-urgent-bordeaux-',
-    'devis-demenagement-bordeaux-',
-    'garde-meuble-bordeaux-',
-    'prix-demenagement-bordeaux-',
-    'prix-demenagement-piano-bordeaux-',
+    'demenagement-etudiant-nantes-',
+    'demenagement-entreprise-nantes-',
+    'demenagement-piano-nantes-',
+    'demenagement-international-nantes-',
+    'demenagement-longue-distance-nantes-',
+    'demenagement-pas-cher-nantes-',
+    'demenagement-urgent-nantes-',
+    'devis-demenagement-nantes-',
+    'garde-meuble-nantes-',
+    'prix-demenagement-nantes-',
+    'prix-demenagement-piano-nantes-',
   ];
   
   categoryPatterns.forEach(pattern => {
@@ -41,7 +41,7 @@ function cleanSlug(slug, category) {
     }
   });
   
-  clean = clean.replace(/-bordeaux$/i, '');
+  clean = clean.replace(/-nantes$/i, '');
   clean = clean.replace(/-guide-complet$/i, '-guide');
   clean = clean.replace(/-reperes-2025$/i, '-2025');
   
