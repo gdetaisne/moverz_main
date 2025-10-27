@@ -4,24 +4,24 @@ const path = require('path');
 // Tous les mappings de liens à corriger
 const linkMappings = {
   // Self-stockage
-  '/blog/garde-meuble/self-stockage-rouen-mode-emploi-prix': '/blog/garde-meuble/self-stockage-mode-emploi-prix',
+  '/blog/garde-meuble/self-stockage-rennes-mode-emploi-prix': '/blog/garde-meuble/self-stockage-mode-emploi-prix',
   
   // Etudiant
-  '/blog/etudiant/cartons-gratuits-rouen': '/blog/etudiant/cartons-gratuits',
-  '/blog/etudiant/stockage-etudiant-rouen': '/blog/etudiant/stockage-etudiant',
-  '/blog/etudiant/camion-demenagement-etudiant-rouen': '/blog/etudiant/camion-demenagement-etudiant',
+  '/blog/etudiant/cartons-gratuits-rennes': '/blog/etudiant/cartons-gratuits',
+  '/blog/etudiant/stockage-etudiant-rennes': '/blog/etudiant/stockage-etudiant',
+  '/blog/etudiant/camion-demenagement-etudiant-rennes': '/blog/etudiant/camion-demenagement-etudiant',
   
   // Urgent
-  '/blog/urgent/demenager-48h-rouen-realites-solutions': '/blog/urgent/demenager-48h-realites-solutions',
+  '/blog/urgent/demenager-48h-rennes-realites-solutions': '/blog/urgent/demenager-48h-realites-solutions',
   
   // Prix garde-meuble
-  '/blog/prix/prix-garde-meuble-rouen-solutions-tarifs': '/blog/prix/prix-garde-meuble-solutions-tarifs',
+  '/blog/prix/prix-garde-meuble-rennes-solutions-tarifs': '/blog/prix/prix-garde-meuble-solutions-tarifs',
   
   // International
-  '/blog/international/assurance-demenagement-international-rouen': '/blog/international/assurance-demenagement-international',
-  '/blog/international/prix-demenagement-international-rouen': '/blog/international/prix-demenagement-international',
-  '/blog/international/emballage-demenagement-international-rouen': '/blog/international/emballage-demenagement-international',
-  '/blog/international/formalites-douanieres-demenagement-international-rouen': '/blog/international/formalites-douanieres-demenagement-international',
+  '/blog/international/assurance-demenagement-international-rennes': '/blog/international/assurance-demenagement-international',
+  '/blog/international/prix-demenagement-international-rennes': '/blog/international/prix-demenagement-international',
+  '/blog/international/emballage-demenagement-international-rennes': '/blog/international/emballage-demenagement-international',
+  '/blog/international/formalites-douanieres-demenagement-international-rennes': '/blog/international/formalites-douanieres-demenagement-international',
 };
 
 function fixLinksInFile(filePath) {

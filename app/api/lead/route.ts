@@ -71,7 +71,7 @@ export async function POST(req: NextRequest) {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
-        'User-Agent': 'Moverz-rouen-API/1.0'
+        'User-Agent': 'Moverz-rennes-API/1.0'
       },
       body: JSON.stringify(validatedData),
       // Timeout de 10 secondes

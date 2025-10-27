@@ -4,17 +4,17 @@ const matter = require('gray-matter');
 
 // Mapping des catégories
 const categoryMapping = {
-  'demenagement-etudiant-rouen': 'etudiant',
-  'demenagement-entreprise-rouen': 'entreprise',
-  'demenagement-piano-rouen': 'piano',
-  'demenagement-international-rouen': 'international',
-  'demenagement-longue-distance-rouen': 'longue-distance',
-  'demenagement-pas-cher-rouen': 'pas-cher',
-  'demenagement-urgent-rouen': 'urgent',
-  'devis-demenagement-rouen': 'devis',
-  'garde-meuble-rouen': 'garde-meuble',
-  'prix-demenagement-rouen': 'prix',
-  'prix-demenagement-piano-rouen': 'prix-piano',
+  'demenagement-etudiant-rennes': 'etudiant',
+  'demenagement-entreprise-rennes': 'entreprise',
+  'demenagement-piano-rennes': 'piano',
+  'demenagement-international-rennes': 'international',
+  'demenagement-longue-distance-rennes': 'longue-distance',
+  'demenagement-pas-cher-rennes': 'pas-cher',
+  'demenagement-urgent-rennes': 'urgent',
+  'devis-demenagement-rennes': 'devis',
+  'garde-meuble-rennes': 'garde-meuble',
+  'prix-demenagement-rennes': 'prix',
+  'prix-demenagement-piano-rennes': 'prix-piano',
 };
 
 // Clean slug function
@@ -22,17 +22,17 @@ function cleanSlug(slug, category) {
   let clean = slug;
   
   const categoryPatterns = [
-    'demenagement-etudiant-rouen-',
-    'demenagement-entreprise-rouen-',
-    'demenagement-piano-rouen-',
-    'demenagement-international-rouen-',
-    'demenagement-longue-distance-rouen-',
-    'demenagement-pas-cher-rouen-',
-    'demenagement-urgent-rouen-',
-    'devis-demenagement-rouen-',
-    'garde-meuble-rouen-',
-    'prix-demenagement-rouen-',
-    'prix-demenagement-piano-rouen-',
+    'demenagement-etudiant-rennes-',
+    'demenagement-entreprise-rennes-',
+    'demenagement-piano-rennes-',
+    'demenagement-international-rennes-',
+    'demenagement-longue-distance-rennes-',
+    'demenagement-pas-cher-rennes-',
+    'demenagement-urgent-rennes-',
+    'devis-demenagement-rennes-',
+    'garde-meuble-rennes-',
+    'prix-demenagement-rennes-',
+    'prix-demenagement-piano-rennes-',
   ];
   
   categoryPatterns.forEach(pattern => {
@@ -41,7 +41,7 @@ function cleanSlug(slug, category) {
     }
   });
   
-  clean = clean.replace(/-rouen$/i, '');
+  clean = clean.replace(/-rennes$/i, '');
   clean = clean.replace(/-guide-complet$/i, '-guide');
   clean = clean.replace(/-reperes-2025$/i, '-2025');
   
