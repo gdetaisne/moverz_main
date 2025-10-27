@@ -2,33 +2,33 @@ export default function StructuredData() {
   const structuredData = {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
-    "name": "Déménageurs Rennes (IA)",
+    "name": "Déménageurs Toulouse (IA)",
     "description": "30 minutes pour votre dossier → 5 devis personnalisés sous 7 jours. Estimation volumétrique à partir de photos, tarifs clairs, conseils locaux.",
-    "url": "https://www.devis-demenageur-rennes.fr",
+    "url": "https://www.devis-demenageur-toulouse.fr",
     "telephone": "+33-XXX-XXX-XXX",
     "address": {
       "@type": "PostalAddress",
-      "addressLocality": "Rennes",
-      "addressRegion": "Bretagne",
+      "addressLocality": "Toulouse",
+      "addressRegion": "Occitanie",
       "addressCountry": "FR"
     },
     "geo": {
       "@type": "GeoCoordinates",
-      "latitude": 48.1173,
-      "longitude": -1.6778
+      "latitude": 43.6047,
+      "longitude": 1.4442
     },
     "areaServed": [
       {
         "@type": "City",
-        "name": "Rennes"
+        "name": "Toulouse"
       },
       {
         "@type": "City",
-        "name": "Saint-Malo"
+        "name": "Montpellier"
       },
       {
         "@type": "City",
-        "name": "Brest"
+        "name": "Narbonne"
       }
     ],
     "priceRange": "€€",
