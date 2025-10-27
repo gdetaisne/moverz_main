@@ -6,219 +6,219 @@ import PartnerCard from "@/components/PartnerCard";
 import PartnersList from "@/components/PartnersList";
 
 export const metadata: Metadata = {
-  title: "Partenaires déménageurs - Déménageurs nice (IA)",
-  description: "Découvrez nos partenaires déménageurs certifiés à nice. Qualité garantie, tarifs transparents, service client premium.",
+  title: "Partenaires déménageurs - Déménageurs strasbourg (IA)",
+  description: "Découvrez nos partenaires déménageurs certifiés à strasbourg. Qualité garantie, tarifs transparents, service client premium.",
   alternates: {
-    canonical: "https://www.nice-demenageur.fr/partenaires/",
+    canonical: "https://www.strasbourg-demenageur.fr/partenaires/",
   },
   openGraph: {
-    title: "Partenaires déménageurs - Déménageurs nice (IA)",
-    description: "Découvrez nos partenaires déménageurs certifiés à nice. Qualité garantie, tarifs transparents, service client premium.",
-    url: "https://www.nice-demenageur.fr/partenaires/",
+    title: "Partenaires déménageurs - Déménageurs strasbourg (IA)",
+    description: "Découvrez nos partenaires déménageurs certifiés à strasbourg. Qualité garantie, tarifs transparents, service client premium.",
+    url: "https://www.strasbourg-demenageur.fr/partenaires/",
     type: "website",
   },
 };
 
 const partners = [
   {
-    name: "Déménageurs Côte d'Azur Pro",
-    city: "Cannes",
-    rating: 4.8,
-    reviews: 366,
-    specialties: ["Déménagements sur mesure", "Service personnalisé"],
+    name: "Déménageurs Strasbourg Pro",
+    city: "Strasbourg",
+    rating: 4.9,
+    reviews: 127,
+    specialties: ["Déménagements sur mesure", "Service personnalisé", "Grand Est"],
   },
   {
-    name: "Les Déménageurs Niçois",
-    city: "Antibes",
-    rating: 4.8,
-    reviews: 69,
-    specialties: ["Déménagements locaux", "Gironde et Provence-Alpes-Côte d'Azur"],
+    name: "Les Déménageurs d'Alsace",
+    city: "Illkirch-Graffenstaden",
+    rating: 4.7,
+    reviews: 89,
+    specialties: ["Déménagements locaux", "Alsace et Lorraine", "Emballage professionnel"],
   },
   {
-    name: "Déménageur Nice Express",
-    city: "Nice",
-    rating: 4.8,
-    reviews: 69,
-    specialties: ["Déménagements particuliers", "Déménagements professionnels"],
+    name: "Euro Déménagements Strasbourg",
+    city: "Strasbourg",
+    rating: 4.6,
+    reviews: 156,
+    specialties: ["Déménagements particuliers", "Déménagements professionnels", "Europe"],
   },
   {
-    name: "Méditerranée Déménagements Nice",
-    city: "Nice",
+    name: "Strasbourg Stockage & Déménagements",
+    city: "Schiltigheim",
     rating: 4.5,
-    reviews: 66,
-    specialties: ["Garde-meuble", "Stockage d'archives"],
+    reviews: 73,
+    specialties: ["Garde-meuble", "Stockage d'archives", "Déménagements express"],
   },
   {
-    name: "Les Déménageurs de la Riviera",
-    city: "Grasse",
+    name: "Les Déménageurs d'Alsace Pro",
+    city: "Hoenheim",
     rating: 5.0,
     reviews: 81,
-    specialties: ["Déménagements qualifiés", "Tout le sud-ouest"],
+    specialties: ["Déménagements qualifiés", "Tout l'Alsace"],
   },
   {
-    name: "Les Déménageurs Azuréens",
-    city: "Menton",
+    name: "Les Déménageurs du Grand Est",
+    city: "Bischheim",
     rating: 4.5,
     reviews: 50,
-    specialties: ["Déménagements nationaux", "Réseau national"],
+    specialties: ["Déménagements nationaux", "Réseau Grand Est"],
   },
   {
     name: "Alex Déménagement",
-    city: "nice",
+    city: "strasbourg",
     rating: 4.7,
     reviews: 45,
     specialties: ["Déménagements express", "Emballage professionnel"],
   },
   {
-    name: "nice Déménagement",
-    city: "nice",
+    name: "strasbourg Déménagement",
+    city: "strasbourg",
     rating: 4.0,
     reviews: 32,
     specialties: ["Déménagements résidentiels", "Déménagements commerciaux"],
   },
   {
     name: "Hontas Déménagements",
-    city: "nice",
+    city: "strasbourg",
     rating: 4.0,
     reviews: 1,
     specialties: ["Déménagements longue distance", "Équipe professionnelle"],
   },
   {
     name: "Déménageurs Bretons",
-    city: "nice",
+    city: "strasbourg",
     rating: 5.0,
     reviews: 1,
     specialties: ["Déménagements complets", "Services nationaux"],
   },
   {
     name: "SAM'DÉMÉNAGE",
-    city: "nice",
+    city: "strasbourg",
     rating: 4.6,
     reviews: 28,
     specialties: ["Déménagements efficaces", "Équipe bienveillante"],
   },
   {
     name: "Rachid Chaty (GÈRE FOR YOU)",
-    city: "nice",
+    city: "strasbourg",
     rating: 4.8,
     reviews: 15,
     specialties: ["Manutention", "Nettoyage avant état des lieux"],
   },
   {
     name: "Ben Ben",
-    city: "nice",
+    city: "strasbourg",
     rating: 4.9,
     reviews: 12,
     specialties: ["Aide au déménagement", "Livraison", "Retrait de colis"],
   },
   {
     name: "Phone Course",
-    city: "nice",
+    city: "strasbourg",
     rating: 4.5,
     reviews: 8,
     specialties: ["Transport routier", "Livraison"],
   },
   {
     name: "Burdigala Déménagement",
-    city: "nice",
+    city: "strasbourg",
     rating: 4.3,
     reviews: 6,
     specialties: ["Déménagements locaux", "Services adaptés"],
   },
   {
     name: "Larnaudie Déménagements",
-    city: "nice",
+    city: "strasbourg",
     rating: 4.7,
     reviews: 5,
     specialties: ["Déménagements familiaux", "Garde-meuble"],
   },
   {
     name: "Déménagements Grée",
-    city: "nice",
+    city: "strasbourg",
     rating: 4.4,
     reviews: 4,
     specialties: ["Services personnalisés", "Particuliers et professionnels"],
   },
   {
     name: "Air Déménagement",
-    city: "nice",
+    city: "strasbourg",
     rating: 4.6,
     reviews: 3,
     specialties: ["Solutions adaptées", "Besoins spécifiques"],
   },
   {
     name: "Alexandre Meigne-Sakr",
-    city: "nice",
+    city: "strasbourg",
     rating: 4.8,
     reviews: 2,
     specialties: ["Services sur mesure", "Déménagements particuliers"],
   },
   {
     name: "Alain Lagache",
-    city: "nice",
+    city: "strasbourg",
     rating: 4.5,
     reviews: 2,
     specialties: ["Déménagements locaux", "Services de qualité"],
   },
   {
     name: "A À Z Service",
-    city: "nice",
+    city: "strasbourg",
     rating: 4.2,
     reviews: 1,
     specialties: ["Déménagements", "Nettoyage"],
   },
   {
     name: "Sédégo",
-    city: "nice",
+    city: "strasbourg",
     rating: 4.0,
     reviews: 1,
     specialties: ["Solutions adaptées", "Services complets"],
   },
   {
     name: "Transport Joël Latrille",
-    city: "nice",
+    city: "strasbourg",
     rating: 4.3,
     reviews: 1,
     specialties: ["Transport", "Déménagements professionnels"],
   },
   {
     name: "Adema",
-    city: "nice",
+    city: "strasbourg",
     rating: 4.1,
     reviews: 1,
     specialties: ["Services complets", "Particuliers et professionnels"],
   },
   {
-    name: "Les Déménageurs Girondins",
-    city: "Vence",
+    name: "Les Déménageurs Strasbourgeois",
+    city: "Ostwald",
     rating: 4.4,
     reviews: 8,
     specialties: ["Déménagements locaux", "Services adaptés"],
   },
   {
-    name: "Bouexpress",
-    city: "Cagnes-sur-Mer",
+    name: "Express Déménagements Alsace",
+    city: "Lingolsheim",
     rating: 4.6,
     reviews: 6,
     specialties: ["Déménagements rapides", "Satisfaction client"],
   },
   {
     name: "TTD Turbo Transport Déménagement",
-    city: "Villefranche-sur-Mer",
+    city: "Geispolsheim",
     rating: 4.5,
     reviews: 4,
     specialties: ["Solutions rapides", "Particuliers et entreprises"],
   },
   {
-    name: "Déménagement Transport 33",
-    city: "Saint-Laurent-du-Var",
+    name: "Déménagement Transport 67",
+    city: "Eckbolsheim",
     rating: 4.3,
     reviews: 3,
     specialties: ["Transport", "Services personnalisés"],
   },
   {
-    name: "Transport Gironde",
-    city: "Le Cannet",
+    name: "Transport Bas-Rhin",
+    city: "Wolfisheim",
     rating: 4.2,
     reviews: 2,
     specialties: ["Transport", "Solutions sur mesure"],
@@ -236,7 +236,7 @@ export default function PartenairesPage() {
         <div className="absolute inset-0">
           <img 
             src="https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=2000&auto=format&fit=crop"
-            alt="Partenaires déménageurs certifiés à nice"
+            alt="Partenaires déménageurs certifiés à strasbourg"
             className="w-full h-full object-cover"
           />
           <div className="absolute inset-0 bg-gradient-to-br from-[#04163a]/95 via-[#2b7a78]/88 to-[#04163a]/92"></div>
@@ -264,7 +264,7 @@ export default function PartenairesPage() {
             </h1>
             <p className="text-lg md:text-xl text-white/90">
               Nous travaillons exclusivement avec des déménageurs locaux certifiés et expérimentés. 
-              Chaque partenaire est sélectionné pour sa qualité de service, sa transparence tarifaire et sa connaissance du terrain niçois.
+              Chaque partenaire est sélectionné pour sa qualité de service, sa transparence tarifaire et sa connaissance du terrain strasbourgeois.
             </p>
           </div>
         </div>
@@ -304,7 +304,7 @@ export default function PartenairesPage() {
               </div>
               <h3 className="text-xl font-semibold mb-3">Connaissance locale</h3>
               <p className="text-white/80">
-                Expertise du terrain niçois : accès, stationnement, contraintes spécifiques à chaque quartier.
+                Expertise du terrain strasbourgeois : accès, stationnement, contraintes spécifiques à chaque quartier.
               </p>
             </div>
           </div>
@@ -318,7 +318,7 @@ export default function PartenairesPage() {
               Devenir partenaire Moverz
             </h2>
             <p className="text-white/80 mb-6 max-w-2xl mx-auto">
-              Vous êtes déménageur à nice et souhaitez rejoindre notre réseau ? 
+              Vous êtes déménageur à strasbourg et souhaitez rejoindre notre réseau ? 
               Bénéficiez de notre technologie IA et de notre visibilité en ligne.
             </p>
             <a 

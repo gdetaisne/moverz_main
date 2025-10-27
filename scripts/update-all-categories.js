@@ -4,17 +4,17 @@ const matter = require('gray-matter');
 
 // Mapping des dossiers vers les catégories attendues
 const folderToCategoryMapping = {
-  'demenagement-etudiant-nice': 'demenagement-etudiant-nice',
-  'demenagement-entreprise-nice': 'demenagement-entreprise-nice',
-  'demenagement-piano-nice': 'demenagement-piano-nice',
-  'demenagement-international-nice': 'demenagement-international-nice',
-  'demenagement-longue-distance-nice': 'demenagement-longue-distance-nice',
-  'demenagement-pas-cher-nice': 'demenagement-pas-cher-nice',
-  'demenagement-urgent-nice': 'demenagement-urgent-nice',
-  'devis-demenagement-nice': 'devis-demenagement-nice',
-  'garde-meuble-nice': 'garde-meuble-nice',
-  'prix-demenagement-nice': 'prix-demenagement-nice',
-  'prix-demenagement-piano-nice': 'prix-demenagement-piano-nice',
+  'demenagement-etudiant-strasbourg': 'demenagement-etudiant-strasbourg',
+  'demenagement-entreprise-strasbourg': 'demenagement-entreprise-strasbourg',
+  'demenagement-piano-strasbourg': 'demenagement-piano-strasbourg',
+  'demenagement-international-strasbourg': 'demenagement-international-strasbourg',
+  'demenagement-longue-distance-strasbourg': 'demenagement-longue-distance-strasbourg',
+  'demenagement-pas-cher-strasbourg': 'demenagement-pas-cher-strasbourg',
+  'demenagement-urgent-strasbourg': 'demenagement-urgent-strasbourg',
+  'devis-demenagement-strasbourg': 'devis-demenagement-strasbourg',
+  'garde-meuble-strasbourg': 'garde-meuble-strasbourg',
+  'prix-demenagement-strasbourg': 'prix-demenagement-strasbourg',
+  'prix-demenagement-piano-strasbourg': 'prix-demenagement-piano-strasbourg',
 };
 
 function updateArticle(filePath, categoryFolder) {
@@ -87,7 +87,7 @@ console.log('\n' + '═'.repeat(60));
 console.log(`✅ Completed! Updated ${totalUpdated} articles`);
 console.log('\n📊 Category mapping:');
 Object.entries(folderToCategoryMapping).forEach(([folder, category]) => {
-  const cleanCat = category.replace('demenagement-', '').replace('-nice', '').replace('devis-', '').replace('garde-meuble', 'garde-meuble').replace('prix-', 'prix/');
+  const cleanCat = category.replace('demenagement-', '').replace('-strasbourg', '').replace('devis-', '').replace('garde-meuble', 'garde-meuble').replace('prix-', 'prix/');
   console.log(`  ${folder} → ${cleanCat}`);
 });
 
