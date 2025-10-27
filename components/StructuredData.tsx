@@ -2,33 +2,33 @@ export default function StructuredData() {
   const structuredData = {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
-    "name": "Déménageurs Nice (IA)",
+    "name": "Déménageurs Strasbourg (IA)",
     "description": "30 minutes pour votre dossier → 5 devis personnalisés sous 7 jours. Estimation volumétrique à partir de photos, tarifs clairs, conseils locaux.",
-    "url": "https://www.devis-demenageur-nice.fr",
+    "url": "https://www.devis-demenageur-strasbourg.fr",
     "telephone": "+33-XXX-XXX-XXX",
     "address": {
       "@type": "PostalAddress",
-      "addressLocality": "Nice",
-      "addressRegion": "Provence-Alpes-Côte d'Azur",
+      "addressLocality": "Strasbourg",
+      "addressRegion": "Grand Est",
       "addressCountry": "FR"
     },
     "geo": {
       "@type": "GeoCoordinates",
-      "latitude": 43.7102,
-      "longitude": 7.2620
+      "latitude": 48.5734,
+      "longitude": 7.7521
     },
     "areaServed": [
       {
         "@type": "City",
-        "name": "Nice"
+        "name": "Strasbourg"
       },
       {
         "@type": "City",
-        "name": "Cannes"
+        "name": "Mulhouse"
       },
       {
         "@type": "City",
-        "name": "Antibes"
+        "name": "Colmar"
       }
     ],
     "priceRange": "€€",

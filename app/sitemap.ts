@@ -4,8 +4,8 @@ import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
 
-// Fonction locale pour lire SEULEMENT les articles de Nice
-function getNiceBlogPosts() {
+// Fonction locale pour lire SEULEMENT les articles de Strasbourg
+function getStrasbourgBlogPosts() {
   const blogDirectory = path.join(process.cwd(), 'content/blog')
   
   if (!fs.existsSync(blogDirectory)) {
@@ -35,8 +35,8 @@ function getNiceBlogPosts() {
         category: category,
         type: data.type || 'satellite',
         publish_date: data.publish_date || data.date || new Date().toISOString().split('T')[0],
-        cleanCategory: category.replace('-nice', ''),
-        cleanSlug: file.replace('.md', '').replace('-nice', '')
+        cleanCategory: category.replace('-strasbourg', ''),
+        cleanSlug: file.replace('.md', '').replace('-strasbourg', '')
       })
     })
   })
@@ -45,10 +45,10 @@ function getNiceBlogPosts() {
 }
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://devis-demenageur-nice.fr'
+  const baseUrl = 'https://devis-demenageur-strasbourg.fr'
   
-  // Récupérer SEULEMENT les articles de blog de Nice
-  const blogPosts = getNiceBlogPosts()
+  // Récupérer SEULEMENT les articles de blog de Strasbourg
+  const blogPosts = getStrasbourgBlogPosts()
   
   // Pages statiques
   const staticPages: MetadataRoute.Sitemap = [
@@ -65,55 +65,55 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/services/demenagement-economique-nice`,
+      url: `${baseUrl}/services/demenagement-economique-strasbourg`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.7,
     },
     {
-      url: `${baseUrl}/services/demenagement-standard-nice`,
+      url: `${baseUrl}/services/demenagement-standard-strasbourg`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.7,
     },
     {
-      url: `${baseUrl}/services/demenagement-premium-nice`,
+      url: `${baseUrl}/services/demenagement-premium-strasbourg`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.7,
     },
     {
-      url: `${baseUrl}/nice`,
+      url: `${baseUrl}/strasbourg`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.9,
     },
     {
-      url: `${baseUrl}/nice/chartrons`,
+      url: `${baseUrl}/strasbourg/chartrons`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/nice/cauderan`,
+      url: `${baseUrl}/strasbourg/cauderan`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/nice/bastide`,
+      url: `${baseUrl}/strasbourg/bastide`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/nice/merignac`,
+      url: `${baseUrl}/strasbourg/merignac`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/nice/pessac`,
+      url: `${baseUrl}/strasbourg/pessac`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
@@ -144,37 +144,37 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
     // Pages corridors
     {
-      url: `${baseUrl}/nice-vers-paris`,
+      url: `${baseUrl}/strasbourg-vers-paris`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/nice-vers-lyon`,
+      url: `${baseUrl}/strasbourg-vers-lyon`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/nice-vers-toulouse`,
+      url: `${baseUrl}/strasbourg-vers-toulouse`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/nice-vers-nantes`,
+      url: `${baseUrl}/strasbourg-vers-nantes`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/nice-vers-marseille`,
+      url: `${baseUrl}/strasbourg-vers-marseille`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/nice-vers-espagne`,
+      url: `${baseUrl}/strasbourg-vers-espagne`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,

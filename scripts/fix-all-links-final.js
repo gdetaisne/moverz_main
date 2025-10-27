@@ -4,24 +4,24 @@ const path = require('path');
 // Tous les mappings de liens à corriger
 const linkMappings = {
   // Self-stockage
-  '/blog/garde-meuble/self-stockage-nice-mode-emploi-prix': '/blog/garde-meuble/self-stockage-mode-emploi-prix',
+  '/blog/garde-meuble/self-stockage-strasbourg-mode-emploi-prix': '/blog/garde-meuble/self-stockage-mode-emploi-prix',
   
   // Etudiant
-  '/blog/etudiant/cartons-gratuits-nice': '/blog/etudiant/cartons-gratuits',
-  '/blog/etudiant/stockage-etudiant-nice': '/blog/etudiant/stockage-etudiant',
-  '/blog/etudiant/camion-demenagement-etudiant-nice': '/blog/etudiant/camion-demenagement-etudiant',
+  '/blog/etudiant/cartons-gratuits-strasbourg': '/blog/etudiant/cartons-gratuits',
+  '/blog/etudiant/stockage-etudiant-strasbourg': '/blog/etudiant/stockage-etudiant',
+  '/blog/etudiant/camion-demenagement-etudiant-strasbourg': '/blog/etudiant/camion-demenagement-etudiant',
   
   // Urgent
-  '/blog/urgent/demenager-48h-nice-realites-solutions': '/blog/urgent/demenager-48h-realites-solutions',
+  '/blog/urgent/demenager-48h-strasbourg-realites-solutions': '/blog/urgent/demenager-48h-realites-solutions',
   
   // Prix garde-meuble
-  '/blog/prix/prix-garde-meuble-nice-solutions-tarifs': '/blog/prix/prix-garde-meuble-solutions-tarifs',
+  '/blog/prix/prix-garde-meuble-strasbourg-solutions-tarifs': '/blog/prix/prix-garde-meuble-solutions-tarifs',
   
   // International
-  '/blog/international/assurance-demenagement-international-nice': '/blog/international/assurance-demenagement-international',
-  '/blog/international/prix-demenagement-international-nice': '/blog/international/prix-demenagement-international',
-  '/blog/international/emballage-demenagement-international-nice': '/blog/international/emballage-demenagement-international',
-  '/blog/international/formalites-douanieres-demenagement-international-nice': '/blog/international/formalites-douanieres-demenagement-international',
+  '/blog/international/assurance-demenagement-international-strasbourg': '/blog/international/assurance-demenagement-international',
+  '/blog/international/prix-demenagement-international-strasbourg': '/blog/international/prix-demenagement-international',
+  '/blog/international/emballage-demenagement-international-strasbourg': '/blog/international/emballage-demenagement-international',
+  '/blog/international/formalites-douanieres-demenagement-international-strasbourg': '/blog/international/formalites-douanieres-demenagement-international',
 };
 
 function fixLinksInFile(filePath) {
