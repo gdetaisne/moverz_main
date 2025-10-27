@@ -36,7 +36,7 @@ export default function NeighborhoodsIndex() {
   return (
     <main className="section">
       <div className="container">
-        <h1 className="text-3xl md:text-4xl font-semibold">Déménagement par quartiers & communes (Marseille)</h1>
+        <h1 className="text-3xl md:text-4xl font-semibold">Déménagement par quartiers & communes (Lyon)</h1>
         <p className="mt-2 text-white/90 max-w-2xl">
           Sélectionnez votre zone pour obtenir des prix indicatifs et lancer une estimation IA en quelques minutes.
         </p>
@@ -51,7 +51,7 @@ export default function NeighborhoodsIndex() {
         </div>
 
         <section className="mt-10">
-          <h2 className="text-2xl md:text-3xl font-semibold">Quartiers de Marseille</h2>
+          <h2 className="text-2xl md:text-3xl font-semibold">Quartiers de Lyon</h2>
           <div className="mt-6 grid gap-4 md:grid-cols-3">
             {filteredQuartiers.map((q) => (
               <Card key={q.slug} href={urlForQuartier(q.slug)} title={q.title} subtitle="Exemples de prix, conseils d’accès, estimation IA" />
