@@ -7,6 +7,7 @@ const envSchema = z.object({
   
   // URLs et services
   SITE_URL: z.string().url().default('https://www.strasbourg-demenageur.fr'),
+  BLOG_SITE_URL: z.string().url().optional(),
   MAKE_WEBHOOK_URL: z.string().url().optional(),
   
   // Configuration Next.js
@@ -47,6 +48,7 @@ function validateEnv() {
       console.error('Exemple:');
       console.error('NODE_ENV=development');
       console.error('SITE_URL=https://www.strasbourg-demenageur.fr');
+      console.error('BLOG_SITE_URL=https://blog.moverz.fr');
       console.error('MAKE_WEBHOOK_URL=https://hook.eu1.make.com/...');
       
       throw new Error('Configuration des variables d\'environnement invalide');
@@ -65,3 +67,5 @@ export type Env = z.infer<typeof envSchema>;
 export const isProduction = env.NODE_ENV === 'production';
 export const isDevelopment = env.NODE_ENV === 'development';
 export const isTest = env.NODE_ENV === 'test';
+
+export const blogBaseUrl = env.BLOG_SITE_URL || env.SITE_URL;

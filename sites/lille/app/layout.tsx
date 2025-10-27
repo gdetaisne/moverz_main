@@ -5,54 +5,19 @@ import Link from "next/link";
 import Header from "@/components/Header";
 import StructuredData from "@/components/StructuredData";
 import GoogleAnalytics from "@/components/GoogleAnalytics";
+import { buildMetadata, breadcrumbListJsonLd, buildCanonical } from "@/lib/seo-helpers";
+import { env } from "@/lib/env";
 
 const inter = Inter({ subsets: ["latin"], display: "swap" });
 
-export const metadata: Metadata = {
-  title: {
-    default: "Déménageurs toulouse (IA) - 5 devis sous 7 jours",
-    template: "%s | Déménageurs toulouse (IA)",
-  },
-  description:
-    "30 minutes pour votre dossier → 5 devis personnalisés sous 7 jours. Estimation volumétrique à partir de photos, tarifs clairs, conseils locaux.",
-  metadataBase: new URL("https://devis-demenageur-toulouse.fr"),
-  robots: {
-    index: true,
-    follow: true,
-    googleBot: {
-      index: true,
-      follow: true,
-      'max-video-preview': -1,
-      'max-image-preview': 'large',
-      'max-snippet': -1,
-    },
-  },
-  openGraph: {
-    type: 'website',
-    locale: 'fr_FR',
-    url: 'https://devis-demenageur-toulouse.fr',
-    siteName: 'Déménageurs toulouse (IA)',
-    title: 'Déménageurs toulouse (IA) - 5 devis sous 7 jours',
-    description: '30 minutes pour votre dossier → 5 devis personnalisés sous 7 jours. Estimation volumétrique à partir de photos, tarifs clairs, conseils locaux.',
-    images: [
-      {
-        url: 'https://devis-demenageur-toulouse.fr/og-image.jpg',
-        width: 1200,
-        height: 630,
-        alt: 'Déménageurs toulouse (IA) - Devis IA',
-      },
-    ],
-  },
-  twitter: {
-    card: 'summary_large_image',
-    title: 'Déménageurs toulouse (IA) - 5 devis sous 7 jours',
-    description: '30 minutes pour votre dossier → 5 devis personnalisés sous 7 jours. Estimation volumétrique à partir de photos, tarifs clairs, conseils locaux.',
-    images: ['https://devis-demenageur-toulouse.fr/og-image.jpg'],
-  },
-  alternates: {
-    canonical: 'https://devis-demenageur-toulouse.fr',
-  },
-};
+export const metadata: Metadata = buildMetadata({
+  title: "Déménageurs Lille (IA) - 5 devis sous 7 jours",
+  description: "30 minutes pour votre dossier → 5 devis personnalisés sous 7 jours. Estimation volumétrique à partir de photos, tarifs clairs, conseils locaux.",
+  siteName: "Moverz Lille",
+  metadataBase: env.SITE_URL,
+  pathname: "/",
+  ogImagePath: "/og-image.jpg",
+});
 
 export const viewport: Viewport = {
   width: 'device-width',
@@ -66,9 +31,13 @@ export default function RootLayout({
 }: {
   children: React.ReactNode;
 }) {
+  const breadcrumbLd = breadcrumbListJsonLd([
+    { name: 'Accueil', item: buildCanonical(env.SITE_URL, '/') },
+  ]);
   return (
     <html lang="fr" className="h-full">
-      <body className={`${inter.className} min-h-screen bg-[#04163a] text-white`}>        
+      <body className={`${inter.className} min-h-screen bg-[#04163a] text-white`}>
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }} />        
         <GoogleAnalytics />
         <StructuredData />
         <Header />

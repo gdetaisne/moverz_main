@@ -59,10 +59,10 @@ const nextConfig = {
         permanent: true,
       },
 
-      // 3. /inventaire-ia → /analyse-ia (10 vues 404)
+      // 3. Inversion: /analyse-ia → /inventaire-ia (corrige 404)
       {
-        source: '/inventaire-ia',
-        destination: '/analyse-ia',
+        source: '/analyse-ia',
+        destination: '/inventaire-ia',
         permanent: true,
       },
 
@@ -73,8 +73,8 @@ const nextConfig = {
         permanent: true,
       },
       {
-        source: '/inventaire-ia/',
-        destination: '/analyse-ia',
+        source: '/analyse-ia/',
+        destination: '/inventaire-ia',
         permanent: true,
       },
     ];

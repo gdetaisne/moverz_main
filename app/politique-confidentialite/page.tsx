@@ -1,0 +1,135 @@
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Politique de confidentialité | Moverz",
+  description:
+    "Politique RGPD de Moverz (GSLV) : bases légales, finalités, durées de conservation, droits des personnes, sous-traitants, cookies.",
+  alternates: { canonical: "https://devis-demenageur-toulouse.fr/politique-confidentialite" },
+};
+
+export default function PrivacyPage() {
+  return (
+    <main className="bg-hero min-h-screen">
+      <div className="halo" />
+
+      <section className="relative overflow-hidden text-white">
+        <div className="absolute inset-0">
+          <img
+            src="https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=2000&auto=format&fit=crop"
+            alt="Politique de confidentialité"
+            className="w-full h-full object-cover"
+          />
+          <div className="absolute inset-0 bg-gradient-to-br from-[#04163a]/95 via-[#2b7a78]/88 to-[#04163a]/92"></div>
+        </div>
+        <div className="relative max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-16 md:py-24">
+          <h1 className="text-3xl md:text-5xl font-bold">Politique de confidentialité</h1>
+          <p className="text-white/85 mt-3 max-w-3xl">
+            Ce document décrit la manière dont Moverz, marque exploitée par GSLV
+            (17290, France) traite vos données personnelles conformément au RGPD
+            et à la loi Informatique et Libertés.
+          </p>
+        </div>
+      </section>
+
+      <section className="section">
+        <div className="container max-w-5xl">
+          <div className="space-y-10 text-white/90">
+            <div className="bg-white/5 border border-white/10 rounded-2xl p-6">
+              <h2 className="text-2xl font-semibold text-white mb-3">Responsable de traitement</h2>
+              <p>
+                GSLV (17290, France) — contact: dpo@moverz.fr. Marque: Moverz.
+              </p>
+            </div>
+
+            <div className="bg-white/5 border border-white/10 rounded-2xl p-6">
+              <h2 className="text-2xl font-semibold text-white mb-3">Données collectées</h2>
+              <ul className="list-disc pl-6 space-y-2">
+                <li>Identité et contact: nom, email, téléphone.</li>
+                <li>Contenu du dossier: photos des pièces/objets, contraintes, préférences.</li>
+                <li>Traces techniques: logs, adresse IP, user-agent (sécurité et analytics).</li>
+                <li>Échanges et sélection de devis.</li>
+              </ul>
+            </div>
+
+            <div className="bg-white/5 border border-white/10 rounded-2xl p-6">
+              <h2 className="text-2xl font-semibold text-white mb-3">Finalités et bases légales</h2>
+              <ul className="list-disc pl-6 space-y-2">
+                <li>Fourniture du service et mise en relation — exécution du contrat (art. 6-1-b).</li>
+                <li>Support client et prévention des fraudes — intérêt légitime (art. 6-1-f).</li>
+                <li>Facturation au partenaire, obligations légales — respect d'obligation (art. 6-1-c).</li>
+                <li>Amélioration du service et statistiques — consentement lorsque requis.</li>
+              </ul>
+            </div>
+
+            <div className="bg-white/5 border border-white/10 rounded-2xl p-6">
+              <h2 className="text-2xl font-semibold text-white mb-3">Durées de conservation</h2>
+              <ul className="list-disc pl-6 space-y-2">
+                <li>Compte et coordonnées: durée d'utilisation du service + 3 ans (prospection), sur opposition "stop" immédiate.</li>
+                <li>Photos et inventaires: 45 jours après la date prévue du déménagement, puis suppression.</li>
+                <li>Logs techniques: 12 mois maximum.</li>
+                <li>Documents comptables: 10 ans (obligation légale).</li>
+              </ul>
+            </div>
+
+            <div className="bg-white/5 border border-white/10 rounded-2xl p-6">
+              <h2 className="text-2xl font-semibold text-white mb-3">Destinataires et transferts</h2>
+              <p>
+                Vos données sont partagées avec nos déménageurs partenaires aux fins
+                d'émission de devis, et avec nos sous-traitants techniques (hébergeur
+                et outils analytiques). Les traitements sont hébergés majoritairement
+                dans l'UE. En cas de transfert hors UE, des garanties appropriées sont
+                mises en place (clauses contractuelles types).
+              </p>
+              <p className="mt-2">
+                Sous-traitants principaux: Vercel (hébergement), fournisseurs cloud
+                d'analyse et de stockage d'images. La liste à jour peut être
+                communiquée sur demande.
+              </p>
+            </div>
+
+            <div className="bg-white/5 border border-white/10 rounded-2xl p-6">
+              <h2 className="text-2xl font-semibold text-white mb-3">Droits des personnes</h2>
+              <p>
+                Vous disposez des droits d'accès, rectification, effacement, limitation,
+                opposition, portabilité, et du droit de définir des directives
+                post-mortem. Pour exercer: dpo@moverz.fr. Réponse sous 30 jours.
+              </p>
+              <p className="mt-2">
+                Réclamation: CNIL, 3 place de Fontenoy, TSA 80715, 75334 Paris Cedex 07.
+              </p>
+            </div>
+
+            <div className="bg-white/5 border border-white/10 rounded-2xl p-6">
+              <h2 className="text-2xl font-semibold text-white mb-3">Cookies et traceurs</h2>
+              <p>
+                Nous utilisons des cookies strictement nécessaires au fonctionnement
+                et, le cas échéant, des cookies de mesure d'audience soumis à votre
+                consentement. Vous pouvez modifier vos préférences à tout moment via
+                les réglages de votre navigateur et l'interface de consentement si
+                disponible.
+              </p>
+            </div>
+
+            <div className="bg-white/5 border border-white/10 rounded-2xl p-6">
+              <h2 className="text-2xl font-semibold text-white mb-3">Sécurité</h2>
+              <p>
+                Mesures raisonnables de sécurité sont mises en œuvre (chiffrement en
+                transit, contrôle d'accès, journalisation). En cas d'incident, nous
+                notifierons la CNIL et, si nécessaire, les personnes concernées.
+              </p>
+            </div>
+
+            <div className="bg-white/5 border border-white/10 rounded-2xl p-6">
+              <h2 className="text-2xl font-semibold text-white mb-3">Contact</h2>
+              <p>
+                Pour toute question: dpo@moverz.fr — GSLV, 17290, France.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+  );
+}
+
+

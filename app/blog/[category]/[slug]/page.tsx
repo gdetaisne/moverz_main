@@ -3,6 +3,8 @@ import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { Metadata } from 'next';
 import Breadcrumbs from '@/components/Breadcrumbs';
+import { articleJsonLd, buildMetadata, buildCanonical } from '@/lib/seo-helpers';
+import { env } from '@/lib/env';
 
 interface BlogPostPageProps {
   params: {
@@ -34,17 +36,18 @@ export async function generateMetadata({ params }: BlogPostPageProps): Promise<M
     };
   }
 
-  return {
-    title: post.meta_title || post.title,
-    description: post.meta_description,
-    keywords: post.keywords.join(', '),
-    openGraph: {
-      title: post.title,
-      description: post.meta_description,
-      type: 'article',
-      publishedTime: post.publish_date,
-    },
-  };
+  const pathname = `/blog/${post.cleanCategory}/${post.cleanSlug}`;
+  const title = post.meta_title || post.title;
+  const description = post.meta_description;
+
+  return buildMetadata({
+    title,
+    description,
+    siteName: 'Moverz Blog',
+    metadataBase: env.SITE_URL,
+    pathname,
+    ogImagePath: post.og_image || '/og-image.jpg',
+  });
 }
 
 export default function BlogPostPage({ params }: BlogPostPageProps) {
@@ -53,6 +56,15 @@ export default function BlogPostPage({ params }: BlogPostPageProps) {
   if (!post) {
     notFound();
   }
+  // JSON-LD Article
+  const canonicalUrl = buildCanonical(env.SITE_URL, `/blog/${post.cleanCategory}/${post.cleanSlug}`);
+  const articleLd = articleJsonLd({
+    headline: post.title,
+    description: post.meta_description,
+    datePublished: post.publish_date,
+    url: canonicalUrl,
+    image: post.og_image ? buildCanonical(env.SITE_URL, post.og_image) : undefined,
+  });
 
   // Articles de la même catégorie
   const sameCategoryPosts = getBlogPostsByCleanCategory(post.cleanCategory)
@@ -115,6 +127,7 @@ export default function BlogPostPage({ params }: BlogPostPageProps) {
 
   return (
     <main className="bg-hero min-h-screen">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleLd) }} />
       <div className="halo" />
       
       {/* Hero Section */}

@@ -1,6 +1,8 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
 import Image from 'next/image';
+import { buildMetadata, serviceJsonLd } from '@/lib/seo-helpers';
+import { env } from '@/lib/env';
 
 interface LocalPageProps {
   zone: string;
@@ -36,24 +38,26 @@ interface LocalPageProps {
 }
 
 export function generateLocalPageMetadata(zone: string, zoneDisplay: string): Metadata {
-  return {
-    title: `Déménagement ${zoneDisplay} Strasbourg - Tarifs & Devis Gratuit | Moverz`,
-    description: `Déménageur local ${zoneDisplay} à Strasbourg : tarifs détaillés, disponibilités immédiates. Devis personnalisé gratuit sous 7j. Équipe locale expérimentée. Réservation en ligne simple.`,
-  };
+  const title = `Déménagement ${zoneDisplay} - Tarifs & Devis Gratuit | Moverz`;
+  const description = `Déménageur local à ${zoneDisplay} : tarifs détaillés, disponibilités rapides. Devis personnalisé gratuit sous 7 jours. Équipe expérimentée. Réservation en ligne simple.`;
+  // pathname supposé pour pages locales: /{slug normalisé}
+  const slug = `/${zone.toLowerCase()}`;
+  return buildMetadata({
+    title,
+    description,
+    siteName: 'Moverz',
+    metadataBase: env.SITE_URL,
+    pathname: slug,
+  });
 }
 
 export function generateLocalPageJsonLd(zone: string, zoneDisplay: string) {
-  return {
-    "@context": "https://schema.org",
-    "@type": "Service",
-    "name": `Comparaison de devis déménagement — ${zoneDisplay}`,
-    "provider": {
-      "@type": "Organization",
-      "name": "Moverz"
-    },
-    "areaServed": `toulouse — ${zoneDisplay}`,
-    "serviceType": "Mise en relation et comparaison de devis"
-  };
+  return serviceJsonLd({
+    name: `Comparaison de devis déménagement — ${zoneDisplay}`,
+    providerName: 'Moverz',
+    areaServed: zoneDisplay,
+    url: `${env.SITE_URL}/${zone.toLowerCase()}`,
+  });
 }
 
 export default function LocalPage({
@@ -105,7 +109,7 @@ export default function LocalPage({
                     <span className="text-4xl">📍</span>
                     <div className="text-left">
                       <div className="text-white font-bold text-2xl">{zoneDisplay}</div>
-                      <div className="text-white/80 text-sm">toulouse</div>
+                      <div className="text-white/80 text-sm">{zone}</div>
                     </div>
                   </div>
                 </div>

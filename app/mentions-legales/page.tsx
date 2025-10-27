@@ -1,0 +1,115 @@
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Mentions légales | Moverz",
+  description:
+    "Mentions légales de Moverz: éditeur du site, hébergeur, contact, responsabilité, propriété intellectuelle et données personnelles.",
+  alternates: { canonical: "https://devis-demenageur-toulouse.fr/mentions-legales" },
+};
+
+export default function MentionsLegalesPage() {
+  return (
+    <main className="bg-hero min-h-screen">
+      <div className="halo" />
+
+      <section className="relative overflow-hidden text-white">
+        <div className="absolute inset-0">
+          <img
+            src="https://images.unsplash.com/photo-1516542076529-1ea3854896e1?q=80&w=2000&auto=format&fit=crop"
+            alt="Mentions légales"
+            className="w-full h-full object-cover"
+          />
+          <div className="absolute inset-0 bg-gradient-to-br from-[#04163a]/95 via-[#2b7a78]/88 to-[#04163a]/92"></div>
+        </div>
+        <div className="relative max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-16 md:py-24">
+          <h1 className="text-3xl md:text-5xl font-bold">Mentions légales</h1>
+          <p className="text-white/85 mt-3 max-w-3xl">
+            Informations légales conformément aux articles 6-III et 19 de la loi
+            n°2004-575 du 21 juin 2004 pour la confiance dans l'économie
+            numérique (LCEN) et au Code de la consommation.
+          </p>
+        </div>
+      </section>
+
+      <section className="section">
+        <div className="container max-w-5xl">
+          <div className="space-y-10 text-white/90">
+            <div className="bg-white/5 border border-white/10 rounded-2xl p-6">
+              <h2 className="text-2xl font-semibold text-white mb-3">Éditeur du site</h2>
+              <p>
+                GSLV, société par actions simplifiée (SAS). Siège social: 5 rue Jean
+                Coyttar, 17290 Thairé, France. Marque exploitée: Moverz.
+              </p>
+              <p className="mt-2">Contact: contact@moverz.fr — +33 (0)5 56 78 90 12</p>
+              <p className="mt-2">Directeur de la publication: Guillaume Stehelin</p>
+              <p className="mt-2">Responsable de la rédaction: Équipe Moverz</p>
+              <p className="mt-2">SIREN 914 499 876 — SIRET 914 499 876 00011 — RCS La Rochelle</p>
+              <p className="mt-2">TVA intracommunautaire: FR43914499876 — Capital social: 1 000,00 €</p>
+            </div>
+
+            <div className="bg-white/5 border border-white/10 rounded-2xl p-6">
+              <h2 className="text-2xl font-semibold text-white mb-3">Hébergement</h2>
+              <p>
+                Vercel Inc., 340 S Lemon Ave #4133, Walnut, CA 91789, USA. Politique
+                de confidentialité et conditions accessibles sur vercel.com.
+              </p>
+            </div>
+
+            <div className="bg-white/5 border border-white/10 rounded-2xl p-6">
+              <h2 className="text-2xl font-semibold text-white mb-3">Activité</h2>
+              <p>
+                Moverz propose un service de préparation de dossier et de mise en
+                relation avec des entreprises de déménagement partenaires. La
+                comparaison des devis et le choix final appartiennent au client.
+                GSLV agit exclusivement en tant qu'intermédiaire B2B et facture ses
+                prestations aux professionnels partenaires. Aucun contrat de
+                prestation n'est conclu avec les consommateurs finaux.
+              </p>
+            </div>
+
+            <div className="bg-white/5 border border-white/10 rounded-2xl p-6">
+              <h2 className="text-2xl font-semibold text-white mb-3">Propriété intellectuelle</h2>
+              <p>
+                L'ensemble des contenus du site (textes, graphismes, logos, marques
+                et bases de données) est protégé. Toute reproduction, adaptation ou
+                représentation, totale ou partielle, sans autorisation écrite
+                préalable est interdite.
+              </p>
+            </div>
+
+            <div className="bg-white/5 border border-white/10 rounded-2xl p-6">
+              <h2 className="text-2xl font-semibold text-white mb-3">Responsabilité</h2>
+              <p>
+                Les informations communiquées sont fournies à titre indicatif.
+                Malgré le soin apporté à leur exactitude, Moverz ne saurait être
+                tenu responsable des erreurs, d'une indisponibilité du service ou de
+                dommages indirects. Les devis sont émis par des partenaires tiers
+                sous leur responsabilité.
+              </p>
+            </div>
+
+            <div className="bg-white/5 border border-white/10 rounded-2xl p-6">
+              <h2 className="text-2xl font-semibold text-white mb-3">Données personnelles</h2>
+              <p>
+                Le traitement des données est décrit dans notre <a className="underline text-[#6bcfcf]" href="/politique-confidentialite/">Politique de
+                confidentialité</a>. Conformément au RGPD, vous disposez de droits
+                d'accès, de rectification, d'opposition, de limitation et
+                d'effacement. Contact: dpo@moverz.fr.
+              </p>
+            </div>
+
+            
+
+            <div className="bg-white/5 border border-white/10 rounded-2xl p-6">
+              <h2 className="text-2xl font-semibold text-white mb-3">Crédits</h2>
+              <p>Design et développement: Moverz.</p>
+              <p>Photos: Unsplash (licence libre).</p>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+  );
+}
+
+
