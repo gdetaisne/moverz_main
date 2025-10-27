@@ -14,7 +14,7 @@ export default function ValueTriad() {
     },
     {
       title: "Experts locaux",
-      description: "Déménageurs qualifiés (ex. Marseille & Gironde)"
+      description: "Déménageurs qualifiés (ex. bordeaux & Gironde)"
     }
   ];
 

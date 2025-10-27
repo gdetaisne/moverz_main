@@ -4,17 +4,17 @@ const matter = require('gray-matter');
 
 // Mapping des catégories
 const categoryMapping = {
-  'demenagement-etudiant-marseille': 'etudiant',
-  'demenagement-entreprise-marseille': 'entreprise',
-  'demenagement-piano-marseille': 'piano',
-  'demenagement-international-marseille': 'international',
-  'demenagement-longue-distance-marseille': 'longue-distance',
-  'demenagement-pas-cher-marseille': 'pas-cher',
-  'demenagement-urgent-marseille': 'urgent',
-  'devis-demenagement-marseille': 'devis',
-  'garde-meuble-marseille': 'garde-meuble',
-  'prix-demenagement-marseille': 'prix',
-  'prix-demenagement-piano-marseille': 'prix-piano',
+  'demenagement-etudiant-bordeaux': 'etudiant',
+  'demenagement-entreprise-bordeaux': 'entreprise',
+  'demenagement-piano-bordeaux': 'piano',
+  'demenagement-international-bordeaux': 'international',
+  'demenagement-longue-distance-bordeaux': 'longue-distance',
+  'demenagement-pas-cher-bordeaux': 'pas-cher',
+  'demenagement-urgent-bordeaux': 'urgent',
+  'devis-demenagement-bordeaux': 'devis',
+  'garde-meuble-bordeaux': 'garde-meuble',
+  'prix-demenagement-bordeaux': 'prix',
+  'prix-demenagement-piano-bordeaux': 'prix-piano',
 };
 
 // Clean slug function
@@ -22,17 +22,17 @@ function cleanSlug(slug, category) {
   let clean = slug;
   
   const categoryPatterns = [
-    'demenagement-etudiant-marseille-',
-    'demenagement-entreprise-marseille-',
-    'demenagement-piano-marseille-',
-    'demenagement-international-marseille-',
-    'demenagement-longue-distance-marseille-',
-    'demenagement-pas-cher-marseille-',
-    'demenagement-urgent-marseille-',
-    'devis-demenagement-marseille-',
-    'garde-meuble-marseille-',
-    'prix-demenagement-marseille-',
-    'prix-demenagement-piano-marseille-',
+    'demenagement-etudiant-bordeaux-',
+    'demenagement-entreprise-bordeaux-',
+    'demenagement-piano-bordeaux-',
+    'demenagement-international-bordeaux-',
+    'demenagement-longue-distance-bordeaux-',
+    'demenagement-pas-cher-bordeaux-',
+    'demenagement-urgent-bordeaux-',
+    'devis-demenagement-bordeaux-',
+    'garde-meuble-bordeaux-',
+    'prix-demenagement-bordeaux-',
+    'prix-demenagement-piano-bordeaux-',
   ];
   
   categoryPatterns.forEach(pattern => {
@@ -41,7 +41,7 @@ function cleanSlug(slug, category) {
     }
   });
   
-  clean = clean.replace(/-marseille$/i, '');
+  clean = clean.replace(/-bordeaux$/i, '');
   clean = clean.replace(/-guide-complet$/i, '-guide');
   clean = clean.replace(/-reperes-2025$/i, '-2025');
   

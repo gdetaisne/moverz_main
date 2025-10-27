@@ -26,17 +26,17 @@ const categoryLabels: { [key: string]: string } = {
 };
 
 const categoryDescriptions: { [key: string]: string } = {
-  'etudiant': 'Tous nos guides et conseils pour réussir votre déménagement étudiant à Montpellier : astuces budget, aides financières, et solutions pratiques.',
-  'entreprise': 'Guides complets pour organiser votre déménagement d\'entreprise à Montpellier : planification, logistique, et conseils professionnels.',
-  'piano': 'Conseils d\'experts pour déménager votre piano à Montpellier en toute sécurité : tarifs, techniques, et précautions.',
-  'international': 'Tout savoir sur le déménagement international depuis Montpellier : formalités, transport, et organisation.',
-  'longue-distance': 'Guides pratiques pour vos déménagements longue distance depuis Montpellier : préparation, coûts, et astuces.',
-  'pas-cher': 'Astuces et conseils pour déménager à petit prix à Montpellier sans compromettre la qualité.',
-  'urgent': 'Solutions et conseils pour organiser un déménagement urgent à Montpellier dans les meilleures conditions.',
-  'devis': 'Guides pour comprendre et obtenir les meilleurs devis de déménagement à Montpellier.',
-  'garde-meuble': 'Tout savoir sur les solutions de garde-meuble à Montpellier : tarifs, options, et conseils.',
-  'prix': 'Guides détaillés sur les prix de déménagement à Montpellier pour tous types de projets.',
-  'prix-piano': 'Informations complètes sur les tarifs de déménagement de piano à Montpellier.'
+  'etudiant': 'Tous nos guides et conseils pour réussir votre déménagement étudiant à bordeaux : astuces budget, aides financières, et solutions pratiques.',
+  'entreprise': 'Guides complets pour organiser votre déménagement d\'entreprise à bordeaux : planification, logistique, et conseils professionnels.',
+  'piano': 'Conseils d\'experts pour déménager votre piano à bordeaux en toute sécurité : tarifs, techniques, et précautions.',
+  'international': 'Tout savoir sur le déménagement international depuis bordeaux : formalités, transport, et organisation.',
+  'longue-distance': 'Guides pratiques pour vos déménagements longue distance depuis bordeaux : préparation, coûts, et astuces.',
+  'pas-cher': 'Astuces et conseils pour déménager à petit prix à bordeaux sans compromettre la qualité.',
+  'urgent': 'Solutions et conseils pour organiser un déménagement urgent à bordeaux dans les meilleures conditions.',
+  'devis': 'Guides pour comprendre et obtenir les meilleurs devis de déménagement à bordeaux.',
+  'garde-meuble': 'Tout savoir sur les solutions de garde-meuble à bordeaux : tarifs, options, et conseils.',
+  'prix': 'Guides détaillés sur les prix de déménagement à bordeaux pour tous types de projets.',
+  'prix-piano': 'Informations complètes sur les tarifs de déménagement de piano à bordeaux.'
 };
 
 export async function generateMetadata({ params }: CategoryPageProps): Promise<Metadata> {
@@ -44,7 +44,7 @@ export async function generateMetadata({ params }: CategoryPageProps): Promise<M
   const categoryDescription = categoryDescriptions[params.category] || `Découvrez tous nos articles sur ${categoryLabel.toLowerCase()}.`;
   
   return {
-    title: `${categoryLabel} - Blog Déménagement Montpellier`,
+    title: `${categoryLabel} - Blog Déménagement bordeaux`,
     description: categoryDescription,
   };
 }
@@ -253,10 +253,10 @@ export default function CategoryPage({ params }: CategoryPageProps) {
         <div className="container">
           <div className="bg-gradient-to-r from-[#2b7a78] to-[#6bcfcf] rounded-2xl p-8 md:p-12 text-center text-white">
             <h2 className="text-2xl md:text-3xl font-bold mb-4">
-              Prêt à déménager à Montpellier ?
+              Prêt à déménager à bordeaux ?
             </h2>
             <p className="text-lg text-white/90 mb-8 max-w-2xl mx-auto">
-              Notre équipe de déménageurs professionnels à Montpellier est à votre disposition 
+              Notre équipe de déménageurs professionnels à bordeaux est à votre disposition 
               pour vous accompagner dans votre projet.
             </p>
             <Link 
