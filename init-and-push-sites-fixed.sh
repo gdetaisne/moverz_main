@@ -22,13 +22,16 @@ SITES=(
   "strasbourg:dd-strasbourg"
 )
 
+# Base directory for sites (absolute path for portability on this machine)
+BASE_DIR="/Users/lucie/moverz_main/sites"
+
 for site_info in "${SITES[@]}"; do
   city="${site_info%%:*}"
   repo_name="${site_info##*:}"
   
   echo "📦 $city -> $repo_name"
   
-  cd "/Users/guillaumestehelin/moverz_main/sites/$city"
+  cd "$BASE_DIR/$city" || { echo "   ❌ Dossier introuvable: $BASE_DIR/$city"; continue; }
   
   # Initialiser Git si nécessaire
   if [ ! -d ".git" ]; then
@@ -38,14 +41,7 @@ for site_info in "${SITES[@]}"; do
   
   # Ajouter et commiter
   git add -A
-  commit_msg="fix: Correction sitemap - Lecture articles locaux uniquement
-
-- Fonction get${city^}BlogPosts() créée
-- Sitemap lit maintenant seulement les articles de $city
-- Résolution problème pages non pertinentes
-- Impact SEO: contenu pertinent uniquement
-
-Date: $(date '+%Y-%m-%d %H:%M')"
+  commit_msg="deploy(rollback-2025-10-16): sync site $city\n\n- Push monorepo state for $city\n- Ensure per-site blog + no blog redirects\n\nDate: $(date '+%Y-%m-%d %H:%M')"
   
   git commit -m "$commit_msg" || echo "   ℹ️  Rien à commiter"
   
@@ -62,7 +58,7 @@ Date: $(date '+%Y-%m-%d %H:%M')"
   echo "   ✅ $city traité"
   echo ""
   
-  cd /Users/guillaumestehelin/moverz_main
+  cd /Users/lucie/moverz_main
 done
 
 echo "═══════════════════════════════════════"

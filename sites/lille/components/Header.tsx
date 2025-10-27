@@ -1,6 +1,7 @@
 'use client';
 
 import Link from 'next/link';
+import Image from 'next/image';
 import { useState, useRef, useEffect } from 'react';
 
 export default function Header() {
@@ -41,12 +42,12 @@ export default function Header() {
   };
 
   const zonesItems = [
-    { href: '/toulouse', label: 'Toulouse' },
-    { href: '/toulouse/capitole', label: 'Capitole' },
-    { href: '/toulouse/saint-cyprien', label: 'Saint-Cyprien' },
-    { href: '/toulouse/carmes', label: 'Carmes' },
-    { href: '/toulouse/jean-jaures', label: 'Jean Jaurès' },
-    { href: '/toulouse/compans', label: 'Compans' },  ];
+    { href: '/lille', label: 'Lille' },
+    { href: '/lille/vieux-lille', label: 'Vieux Lille' },
+    { href: '/lille/centre', label: 'Centre' },
+    { href: '/lille/wazemmes', label: 'Wazemmes' },
+    { href: '/lille/moulins', label: 'Moulins' },
+    { href: '/lille/lomme', label: 'Lomme' },  ];
 
 
   return (
@@ -58,27 +59,40 @@ export default function Header() {
           className="flex items-center gap-3"
           onClick={() => trackClick('logo')}
         >
-          <img 
-            src="/logo.png" 
-            alt="Logo" 
-            className="h-16 w-16 object-cover rounded-sm scale-[2]"
+          <Image
+            src="/logo.png"
+            alt="Logo"
+            width={64}
+            height={64}
+            priority
+            className="h-16 w-16 object-contain rounded-sm"
+            sizes="(max-width: 768px) 48px, 64px"
           />
-          <div className="text-white font-semibold tracking-tight text-sm md:text-base leading-tight flex flex-col">
-            <span>Devis</span>
-            <span>Déménageur</span>
-            <span>Toulouse</span>
+          <div className="flex flex-col items-start leading-tight text-left">
+            <span className="text-white uppercase font-extrabold tracking-tight text-sm md:text-base">Devis</span>
+            <span className="text-white uppercase font-extrabold tracking-tight text-sm md:text-base">Déménageur</span>
+            <span className="text-white uppercase font-extrabold tracking-tight text-sm md:text-base">Lille</span>
           </div>
         </Link>
 
         {/* Navigation Desktop */}
         <nav className="hidden md:flex items-center gap-6 text-sm">
-          {/* Comment ça marche */}
+          {/* Comment ça marche Button */}
           <Link 
             href="/comment-ca-marche" 
-            className="hover:text-[#6bcfcf] transition-colors duration-200"
+            className="hover:text-brand-secondary transition-colors"
             onClick={() => trackClick('comment-ca-marche')}
           >
             Comment ça marche
+          </Link>
+
+          {/* Services Button */}
+          <Link 
+            href="/services" 
+            className="hover:text-brand-secondary transition-colors"
+            onClick={() => trackClick('services')}
+          >
+            Services
           </Link>
 
           {/* Zones Desservies Dropdown */}
@@ -88,7 +102,7 @@ export default function Header() {
             onKeyDown={(e) => handleKeyDown(e, 'zones')}
           >
             <button
-              className="hover:text-[#6bcfcf] transition-colors duration-200 flex items-center gap-1"
+              className="hover:text-brand-secondary transition-colors flex items-center gap-1"
               onClick={() => setIsZonesDropdownOpen(!isZonesDropdownOpen)}
               onKeyDown={(e) => e.key === 'Enter' && setIsZonesDropdownOpen(!isZonesDropdownOpen)}
               aria-haspopup="menu"
@@ -127,61 +141,59 @@ export default function Header() {
                   Destinations fréquentes
                 </div>
                 <Link
-                  href="/toulouse-vers-paris"
+                  href="/lille-vers-paris"
                   className="block px-4 py-2 text-gray-800 hover:bg-white/50 transition-colors"
                   onClick={() => {
                     setIsZonesDropdownOpen(false);
                     trackClick('corridor-paris');
                   }}
                 >
-                  Toulouse → Paris
+                  Lille → Paris
                 </Link>
                 <Link
-                  href="/toulouse-vers-lyon"
+                  href="/lille-vers-lyon"
                   className="block px-4 py-2 text-gray-800 hover:bg-white/50 transition-colors"
                   onClick={() => {
                     setIsZonesDropdownOpen(false);
                     trackClick('corridor-lyon');
                   }}
                 >
-                  Toulouse → Lyon
+                  Lille → Lyon
                 </Link>
                 <Link
-                  href="/toulouse-vers-marseille"
+                  href="/lille-vers-toulouse"
                   className="block px-4 py-2 text-gray-800 hover:bg-white/50 transition-colors"
                   onClick={() => {
                     setIsZonesDropdownOpen(false);
-                    trackClick('corridor-marseille');
+                    trackClick('corridor-toulouse');
                   }}
                 >
-                  Toulouse → Marseille
+                  Lille → Toulouse
                 </Link>
               </div>
             )}
           </div>
 
           <Link 
-            href="/notre-offre" 
-            className="hover:text-[#6bcfcf] transition-colors duration-200"
-            onClick={() => trackClick('tarifs')}
+            href="/partenaires" 
+            className="hover:text-brand-secondary transition-colors"
+            onClick={() => trackClick('partenaires')}
           >
-            Tarifs
+            Partenaires
           </Link>
-
+          <Link 
+            href="/blog" 
+            className="hover:text-brand-secondary transition-colors"
+            onClick={() => trackClick('blog')}
+          >
+            Blog
+          </Link>
           <Link 
             href="/faq" 
-            className="hover:text-[#6bcfcf] transition-colors duration-200"
+            className="hover:text-brand-secondary transition-colors"
             onClick={() => trackClick('faq')}
           >
             FAQ
-          </Link>
-          
-          <Link 
-            href="/partenaires" 
-            className="hover:text-[#6bcfcf] transition-colors duration-200"
-            onClick={() => trackClick('partenaires')}
-          >
-            Espace partenaires
           </Link>
         </nav>
 
@@ -189,10 +201,10 @@ export default function Header() {
         <div className="flex items-center gap-3">
           <Link 
             href="/inventaire-ia" 
-            className="hidden sm:inline-flex h-11 items-center justify-center rounded-full bg-[#2b7a78] px-6 text-sm font-medium text-white shadow-lg hover:brightness-110 hover:scale-105 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white/50 transition-all duration-300"
+            className="hidden sm:inline-flex h-11 items-center justify-center rounded-2xl bg-[#2b7a78] px-5 text-sm font-medium text-white shadow-marketing-xl hover:brightness-110 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white/50 transition duration-300"
             onClick={() => trackClick('cta-header')}
           >
-            Obtenez vos devis gratuits
+            Obtenir 5 devis gratuits
           </Link>
           
           {/* Mobile Menu Button */}
