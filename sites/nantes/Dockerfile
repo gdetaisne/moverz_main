@@ -1,4 +1,4 @@
-# Dockerfile spécifique pour Nantes - FORCE REBUILD v2
+# Dockerfile spécifique pour Nantes - FORCE REBUILD v3
 FROM node:20-alpine AS base
 RUN apk add --no-cache libc6-compat
 WORKDIR /app
