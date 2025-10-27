@@ -40,6 +40,52 @@ const nextConfig = {
       },
     ];
   },
+
+  // ==========================================
+  // Redirections 301 pour corriger les 404s
+  // Basé sur l'analyse GA4 du 22/10/2025 (508 vues 404/semaine)
+  // ==========================================
+  async redirects() {
+    return [
+      // 1. /blog → /actualites (150 vues 404)
+      {
+        source: '/blog',
+        destination: '/actualites',
+        permanent: true,
+      },
+      {
+        source: '/blog/:path*',
+        destination: '/actualites/:path*',
+        permanent: true,
+      },
+
+      // 2. /estimation-rapide → /devis (20 vues 404)
+      {
+        source: '/estimation-rapide',
+        destination: '/devis',
+        permanent: true,
+      },
+
+      // 3. /inventaire-ia → /analyse-ia (10 vues 404)
+      {
+        source: '/inventaire-ia',
+        destination: '/analyse-ia',
+        permanent: true,
+      },
+
+      // Variantes avec trailing slash
+      {
+        source: '/estimation-rapide/',
+        destination: '/devis',
+        permanent: true,
+      },
+      {
+        source: '/inventaire-ia/',
+        destination: '/analyse-ia',
+        permanent: true,
+      },
+    ];
+  },
 };
 
 module.exports = nextConfig;
