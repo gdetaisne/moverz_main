@@ -1,28 +1,28 @@
 export type Item = { slug: string; title: string };
 
 export const QUARTIERS: Item[] = [
-  { slug: "centre-ville",      title: "Centre-ville" },
-  { slug: "ile-nantes",      title: "Ile de Nantes" },
-  { slug: "malakoff",      title: "Malakoff" },
-  { slug: "dervallieres",      title: "Dervallières" },
-  { slug: "beaulieu",      title: "Beaulieu" },
-  { slug: "chantenay",      title: "Chantenay" },
-  { slug: "breil",      title: "Breil" },
-  { slug: "doulon",      title: "Doulon" },
-  { slug: "saint-donatien",      title: "Saint-Donatien" },
-  { slug: "proce",     title: "Procé" },
+  { slug: "vieux-lille",      title: "Vieux Lille" },
+  { slug: "centre",      title: "Centre" },
+  { slug: "wazemmes",      title: "Wazemmes" },
+  { slug: "moulins",      title: "Moulins" },
+  { slug: "lomme",      title: "Lomme" },
+  { slug: "saint-maurice",      title: "Saint-Maurice" },
+  { slug: "fives",      title: "Fives" },
+  { slug: "hellemmes",      title: "Hellemmes" },
+  { slug: "faubourg-bethune",      title: "Faubourg de Béthune" },
+  { slug: "vauban",     title: "Vauban" },
 ];
 
 export const COMMUNES: Item[] = [
-  { slug: "saint-herblain",       title: "Saint-Herblain" },
-  { slug: "reze",       title: "Rezé" },
-  { slug: "vertou",       title: "Vertou" },
-  { slug: "orvault",       title: "Orvault" },
-  { slug: "carquefou",       title: "Carquefou" },
+  { slug: "roubaix",       title: "Roubaix" },
+  { slug: "tourcoing",       title: "Tourcoing" },
+  { slug: "villeneuve-d-ascq",       title: "Villeneuve-d'Ascq" },
+  { slug: "lambersart",       title: "Lambersart" },
+  { slug: "marcq-en-baroeul",       title: "Marcq-en-Barœul" },
 ];
 
 export function urlForQuartier(slug: string) {
-  return `/devis-demenagement-Nantes-${slug}/`;
+  return `/devis-demenagement-Lille-${slug}/`;
 }
 export function urlForCommune(slug: string) {
   return `/devis-demenagement-${slug}/`;

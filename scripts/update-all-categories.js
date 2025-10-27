@@ -4,17 +4,17 @@ const matter = require('gray-matter');
 
 // Mapping des dossiers vers les catégories attendues
 const folderToCategoryMapping = {
-  'demenagement-etudiant-nantes': 'demenagement-etudiant-nantes',
-  'demenagement-entreprise-nantes': 'demenagement-entreprise-nantes',
-  'demenagement-piano-nantes': 'demenagement-piano-nantes',
-  'demenagement-international-nantes': 'demenagement-international-nantes',
-  'demenagement-longue-distance-nantes': 'demenagement-longue-distance-nantes',
-  'demenagement-pas-cher-nantes': 'demenagement-pas-cher-nantes',
-  'demenagement-urgent-nantes': 'demenagement-urgent-nantes',
-  'devis-demenagement-nantes': 'devis-demenagement-nantes',
-  'garde-meuble-nantes': 'garde-meuble-nantes',
-  'prix-demenagement-nantes': 'prix-demenagement-nantes',
-  'prix-demenagement-piano-nantes': 'prix-demenagement-piano-nantes',
+  'demenagement-etudiant-lille': 'demenagement-etudiant-lille',
+  'demenagement-entreprise-lille': 'demenagement-entreprise-lille',
+  'demenagement-piano-lille': 'demenagement-piano-lille',
+  'demenagement-international-lille': 'demenagement-international-lille',
+  'demenagement-longue-distance-lille': 'demenagement-longue-distance-lille',
+  'demenagement-pas-cher-lille': 'demenagement-pas-cher-lille',
+  'demenagement-urgent-lille': 'demenagement-urgent-lille',
+  'devis-demenagement-lille': 'devis-demenagement-lille',
+  'garde-meuble-lille': 'garde-meuble-lille',
+  'prix-demenagement-lille': 'prix-demenagement-lille',
+  'prix-demenagement-piano-lille': 'prix-demenagement-piano-lille',
 };
 
 function updateArticle(filePath, categoryFolder) {
@@ -87,7 +87,7 @@ console.log('\n' + '═'.repeat(60));
 console.log(`✅ Completed! Updated ${totalUpdated} articles`);
 console.log('\n📊 Category mapping:');
 Object.entries(folderToCategoryMapping).forEach(([folder, category]) => {
-  const cleanCat = category.replace('demenagement-', '').replace('-nantes', '').replace('devis-', '').replace('garde-meuble', 'garde-meuble').replace('prix-', 'prix/');
+  const cleanCat = category.replace('demenagement-', '').replace('-lille', '').replace('devis-', '').replace('garde-meuble', 'garde-meuble').replace('prix-', 'prix/');
   console.log(`  ${folder} → ${cleanCat}`);
 });
 

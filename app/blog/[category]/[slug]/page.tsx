@@ -172,7 +172,7 @@ export default function BlogPostPage({ params }: BlogPostPageProps) {
             Besoin d'aide pour votre déménagement ?
           </h3>
           <p className="text-white/80 mb-6">
-            Notre équipe de déménageurs professionnels à nantes est à votre disposition 
+            Notre équipe de déménageurs professionnels à lille est à votre disposition 
             pour vous accompagner dans votre projet.
           </p>
           <Link 

@@ -4,8 +4,8 @@ import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
 
-// Fonction locale pour lire SEULEMENT les articles de Nantes
-function getNantesBlogPosts() {
+// Fonction locale pour lire SEULEMENT les articles de Lille
+function getLilleBlogPosts() {
   const blogDirectory = path.join(process.cwd(), 'content/blog')
   
   if (!fs.existsSync(blogDirectory)) {
@@ -35,8 +35,8 @@ function getNantesBlogPosts() {
         category: category,
         type: data.type || 'satellite',
         publish_date: data.publish_date || data.date || new Date().toISOString().split('T')[0],
-        cleanCategory: category.replace('-nantes', ''),
-        cleanSlug: file.replace('.md', '').replace('-nantes', '')
+        cleanCategory: category.replace('-lille', ''),
+        cleanSlug: file.replace('.md', '').replace('-lille', '')
       })
     })
   })
@@ -45,10 +45,10 @@ function getNantesBlogPosts() {
 }
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://devis-demenageur-nantes.fr'
+  const baseUrl = 'https://devis-demenageur-lille.fr'
   
-  // Récupérer SEULEMENT les articles de blog de Nantes
-  const blogPosts = getNantesBlogPosts()
+  // Récupérer SEULEMENT les articles de blog de Lille
+  const blogPosts = getLilleBlogPosts()
   
   // Pages statiques
   const staticPages: MetadataRoute.Sitemap = [
@@ -65,55 +65,55 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/services/demenagement-economique-nantes`,
+      url: `${baseUrl}/services/demenagement-economique-lille`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.7,
     },
     {
-      url: `${baseUrl}/services/demenagement-standard-nantes`,
+      url: `${baseUrl}/services/demenagement-standard-lille`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.7,
     },
     {
-      url: `${baseUrl}/services/demenagement-premium-nantes`,
+      url: `${baseUrl}/services/demenagement-premium-lille`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.7,
     },
     {
-      url: `${baseUrl}/nantes`,
+      url: `${baseUrl}/lille`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.9,
     },
     {
-      url: `${baseUrl}/nantes/chartrons`,
+      url: `${baseUrl}/lille/chartrons`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/nantes/cauderan`,
+      url: `${baseUrl}/lille/cauderan`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/nantes/bastide`,
+      url: `${baseUrl}/lille/bastide`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/nantes/merignac`,
+      url: `${baseUrl}/lille/merignac`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/nantes/pessac`,
+      url: `${baseUrl}/lille/pessac`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
@@ -144,37 +144,37 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
     // Pages corridors
     {
-      url: `${baseUrl}/nantes-vers-paris`,
+      url: `${baseUrl}/lille-vers-paris`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/nantes-vers-lyon`,
+      url: `${baseUrl}/lille-vers-lyon`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/nantes-vers-toulouse`,
+      url: `${baseUrl}/lille-vers-toulouse`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/nantes-vers-nantes`,
+      url: `${baseUrl}/lille-vers-nantes`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/nantes-vers-marseille`,
+      url: `${baseUrl}/lille-vers-marseille`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/nantes-vers-espagne`,
+      url: `${baseUrl}/lille-vers-espagne`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,

@@ -1,10 +1,10 @@
-# Guide des Images Moverz nantes
+# Guide des Images Moverz lille
 
 ## 📁 Structure des Répertoires
 
 ```
 public/images/
-├── hero/              # Hero section - mockup IA + nantes
+├── hero/              # Hero section - mockup IA + lille
 ├── how-it-works/      # 3 étapes du process (4:3)
 ├── quartiers/         # Vignettes par quartier/commune
 ├── testimonials/      # Avatars clients (1:1)
@@ -16,7 +16,7 @@ public/images/
 ### 1. Hero Section (1 image)
 - **hero/hero-ai-mockup.jpg** (16:9, ≤150KB)
   - Mockup stylisé de l'interface IA
-  - Collage nantes en filigrane (Place de la Bourse, Garonne)
+  - Collage lille en filigrane (Place de la Bourse, Garonne)
   - Désaturation légère + filtre bleu/vert (#04163a / #2b7a78 / #6bcfcf)
 
 ### 2. Comment ça Marche (3 images, format 4:3)
@@ -38,7 +38,7 @@ Utilisables pour blog/pages services:
 - 2x détails (cartons étiquetés, protection TV/tableau)
 - 2x accès (ascenseur, cage d'escalier)
 
-### 4. Quartiers nantes (2 images minimum, format 16:9 ou 4:3)
+### 4. Quartiers lille (2 images minimum, format 16:9 ou 4:3)
 - **quartiers/chartrons.jpg** - Façades pierre typiques, rue étroite
 - **quartiers/saint-pierre.jpg** - Rues pavées, accès camion
 - Ajouter selon besoins: Caudéran, Mérignac, Pessac...
@@ -49,7 +49,7 @@ Utilisables pour blog/pages services:
 - **testimonials/avatar-3.jpg** - Silhouette/avatar propre
 
 ### 6. Blog Covers (3+ images, format 16:9)
-- **blog/cover-guide-nantes.jpg** - Vue nantes générique
+- **blog/cover-guide-lille.jpg** - Vue lille générique
 - **blog/cover-quartiers.jpg** - Collage quartiers
 - **blog/cover-estimation.jpg** - Process/cartons
 
@@ -95,7 +95,7 @@ Les images sont automatiquement optimisées par Next.js avec:
 ```tsx
 <Image
   src="/images/hero/hero-ai-mockup.jpg"
-  alt="Estimation de volume en m³ à partir de photos — déménagement à nantes"
+  alt="Estimation de volume en m³ à partir de photos — déménagement à lille"
   fill
   priority
   sizes="(min-width: 1024px) 50vw, 100vw"
@@ -138,7 +138,7 @@ Les images sont automatiquement optimisées par Next.js avec:
 - ✅ `step-1-photos.jpg`
 - ✅ `chartrons-facades.jpg`
 - ✅ `avatar-1.jpg`
-- ✅ `cover-guide-nantes.jpg`
+- ✅ `cover-guide-lille.jpg`
 
 #### À Éviter
 - ❌ `IMG_1234.jpg`
@@ -151,9 +151,9 @@ Les images sont automatiquement optimisées par Next.js avec:
 `[Action/Sujet] — [Contexte local] [Détails accès si pertinent]`
 
 #### Exemples
-- ✅ `"Estimation de volume en m³ à partir de photos — déménagement à nantes"`
+- ✅ `"Estimation de volume en m³ à partir de photos — déménagement à lille"`
 - ✅ `"Chartrons — accès camion déménagement, façades typiques, rues étroites"`
-- ✅ `"Cartons étiquetés et protégés — déménagement professionnel nantes"`
+- ✅ `"Cartons étiquetés et protégés — déménagement professionnel lille"`
 - ✅ `"Camion stationné rue Saint-Pierre — accès étroit, déménagement centre-ville"`
 
 #### À Éviter
@@ -171,7 +171,7 @@ Les images sont automatiquement optimisées par Next.js avec:
 ### Recherches Utiles
 - `"moving boxes interior"`
 - `"apartment empty room"`
-- `"nantes architecture street"`
+- `"lille architecture street"`
 - `"staircase access building"`
 - `"moving truck loading"`
 - `"phone taking photo room"`
@@ -208,5 +208,5 @@ Les images sont automatiquement optimisées par Next.js avec:
 ---
 
 **Dernière mise à jour**: Octobre 2025  
-**Maintenue par**: Équipe Moverz nantes
+**Maintenue par**: Équipe Moverz lille
 

@@ -6,219 +6,219 @@ import PartnerCard from "@/components/PartnerCard";
 import PartnersList from "@/components/PartnersList";
 
 export const metadata: Metadata = {
-  title: "Partenaires déménageurs - Déménageurs nantes (IA)",
-  description: "Découvrez nos partenaires déménageurs certifiés à nantes. Qualité garantie, tarifs transparents, service client premium.",
+  title: "Partenaires déménageurs - Déménageurs lille (IA)",
+  description: "Découvrez nos partenaires déménageurs certifiés à lille. Qualité garantie, tarifs transparents, service client premium.",
   alternates: {
-    canonical: "https://www.nantes-demenageur.fr/partenaires/",
+    canonical: "https://www.lille-demenageur.fr/partenaires/",
   },
   openGraph: {
-    title: "Partenaires déménageurs - Déménageurs nantes (IA)",
-    description: "Découvrez nos partenaires déménageurs certifiés à nantes. Qualité garantie, tarifs transparents, service client premium.",
-    url: "https://www.nantes-demenageur.fr/partenaires/",
+    title: "Partenaires déménageurs - Déménageurs lille (IA)",
+    description: "Découvrez nos partenaires déménageurs certifiés à lille. Qualité garantie, tarifs transparents, service client premium.",
+    url: "https://www.lille-demenageur.fr/partenaires/",
     type: "website",
   },
 };
 
 const partners = [
   {
-    name: "Déménageurs Pays de la Loire Pro",
-    city: "Rezé",
+    name: "Déménageurs Hauts-de-France Pro",
+    city: "Roubaix",
     rating: 4.8,
     reviews: 366,
     specialties: ["Déménagements sur mesure", "Service personnalisé"],
   },
   {
-    name: "Les Déménageurs Nantais",
-    city: "Saint-Herblain",
+    name: "Les Déménageurs Lillois",
+    city: "Tourcoing",
     rating: 4.8,
     reviews: 69,
-    specialties: ["Déménagements locaux", "Gironde et Pays de la Loire"],
+    specialties: ["Déménagements locaux", "Gironde et Hauts-de-France"],
   },
   {
-    name: "Déménageur Nantes Express",
-    city: "Nantes",
+    name: "Déménageur Lille Express",
+    city: "Lille",
     rating: 4.8,
     reviews: 69,
     specialties: ["Déménagements particuliers", "Déménagements professionnels"],
   },
   {
-    name: "Loire Déménagements Nantes",
-    city: "Nantes",
+    name: "Deûle Déménagements Lille",
+    city: "Lille",
     rating: 4.5,
     reviews: 66,
     specialties: ["Garde-meuble", "Stockage d'archives"],
   },
   {
-    name: "Les Déménageurs de l'Ouest",
-    city: "Orvault",
+    name: "Les Déménageurs du Nord",
+    city: "Villeneuve-d'Ascq",
     rating: 5.0,
     reviews: 81,
     specialties: ["Déménagements qualifiés", "Tout le sud-ouest"],
   },
   {
-    name: "Les Déménageurs Bretons",
-    city: "La Chapelle-sur-Erdre",
+    name: "Les Déménageurs Flandres",
+    city: "Marcq-en-Barœul",
     rating: 4.5,
     reviews: 50,
     specialties: ["Déménagements nationaux", "Réseau national"],
   },
   {
     name: "Alex Déménagement",
-    city: "nantes",
+    city: "lille",
     rating: 4.7,
     reviews: 45,
     specialties: ["Déménagements express", "Emballage professionnel"],
   },
   {
-    name: "nantes Déménagement",
-    city: "nantes",
+    name: "lille Déménagement",
+    city: "lille",
     rating: 4.0,
     reviews: 32,
     specialties: ["Déménagements résidentiels", "Déménagements commerciaux"],
   },
   {
     name: "Hontas Déménagements",
-    city: "nantes",
+    city: "lille",
     rating: 4.0,
     reviews: 1,
     specialties: ["Déménagements longue distance", "Équipe professionnelle"],
   },
   {
     name: "Déménageurs Bretons",
-    city: "nantes",
+    city: "lille",
     rating: 5.0,
     reviews: 1,
     specialties: ["Déménagements complets", "Services nationaux"],
   },
   {
     name: "SAM'DÉMÉNAGE",
-    city: "nantes",
+    city: "lille",
     rating: 4.6,
     reviews: 28,
     specialties: ["Déménagements efficaces", "Équipe bienveillante"],
   },
   {
     name: "Rachid Chaty (GÈRE FOR YOU)",
-    city: "nantes",
+    city: "lille",
     rating: 4.8,
     reviews: 15,
     specialties: ["Manutention", "Nettoyage avant état des lieux"],
   },
   {
     name: "Ben Ben",
-    city: "nantes",
+    city: "lille",
     rating: 4.9,
     reviews: 12,
     specialties: ["Aide au déménagement", "Livraison", "Retrait de colis"],
   },
   {
     name: "Phone Course",
-    city: "nantes",
+    city: "lille",
     rating: 4.5,
     reviews: 8,
     specialties: ["Transport routier", "Livraison"],
   },
   {
     name: "Burdigala Déménagement",
-    city: "nantes",
+    city: "lille",
     rating: 4.3,
     reviews: 6,
     specialties: ["Déménagements locaux", "Services adaptés"],
   },
   {
     name: "Larnaudie Déménagements",
-    city: "nantes",
+    city: "lille",
     rating: 4.7,
     reviews: 5,
     specialties: ["Déménagements familiaux", "Garde-meuble"],
   },
   {
     name: "Déménagements Grée",
-    city: "nantes",
+    city: "lille",
     rating: 4.4,
     reviews: 4,
     specialties: ["Services personnalisés", "Particuliers et professionnels"],
   },
   {
     name: "Air Déménagement",
-    city: "nantes",
+    city: "lille",
     rating: 4.6,
     reviews: 3,
     specialties: ["Solutions adaptées", "Besoins spécifiques"],
   },
   {
     name: "Alexandre Meigne-Sakr",
-    city: "nantes",
+    city: "lille",
     rating: 4.8,
     reviews: 2,
     specialties: ["Services sur mesure", "Déménagements particuliers"],
   },
   {
     name: "Alain Lagache",
-    city: "nantes",
+    city: "lille",
     rating: 4.5,
     reviews: 2,
     specialties: ["Déménagements locaux", "Services de qualité"],
   },
   {
     name: "A À Z Service",
-    city: "nantes",
+    city: "lille",
     rating: 4.2,
     reviews: 1,
     specialties: ["Déménagements", "Nettoyage"],
   },
   {
     name: "Sédégo",
-    city: "nantes",
+    city: "lille",
     rating: 4.0,
     reviews: 1,
     specialties: ["Solutions adaptées", "Services complets"],
   },
   {
     name: "Transport Joël Latrille",
-    city: "nantes",
+    city: "lille",
     rating: 4.3,
     reviews: 1,
     specialties: ["Transport", "Déménagements professionnels"],
   },
   {
     name: "Adema",
-    city: "nantes",
+    city: "lille",
     rating: 4.1,
     reviews: 1,
     specialties: ["Services complets", "Particuliers et professionnels"],
   },
   {
     name: "Les Déménageurs Girondins",
-    city: "Carquefou",
+    city: "Lambersart",
     rating: 4.4,
     reviews: 8,
     specialties: ["Déménagements locaux", "Services adaptés"],
   },
   {
     name: "Bouexpress",
-    city: "Sainte-Luce-sur-Loire",
+    city: "Loos",
     rating: 4.6,
     reviews: 6,
     specialties: ["Déménagements rapides", "Satisfaction client"],
   },
   {
     name: "TTD Turbo Transport Déménagement",
-    city: "Vertou",
+    city: "Lomme",
     rating: 4.5,
     reviews: 4,
     specialties: ["Solutions rapides", "Particuliers et entreprises"],
   },
   {
     name: "Déménagement Transport 33",
-    city: "Couëron",
+    city: "Hellemmes",
     rating: 4.3,
     reviews: 3,
     specialties: ["Transport", "Services personnalisés"],
   },
   {
     name: "Transport Gironde",
-    city: "Bouguenais",
+    city: "Lezennes",
     rating: 4.2,
     reviews: 2,
     specialties: ["Transport", "Solutions sur mesure"],
@@ -236,7 +236,7 @@ export default function PartenairesPage() {
         <div className="absolute inset-0">
           <img 
             src="https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=2000&auto=format&fit=crop"
-            alt="Partenaires déménageurs certifiés à nantes"
+            alt="Partenaires déménageurs certifiés à lille"
             className="w-full h-full object-cover"
           />
           <div className="absolute inset-0 bg-gradient-to-br from-[#04163a]/95 via-[#2b7a78]/88 to-[#04163a]/92"></div>
@@ -264,7 +264,7 @@ export default function PartenairesPage() {
             </h1>
             <p className="text-lg md:text-xl text-white/90">
               Nous travaillons exclusivement avec des déménageurs locaux certifiés et expérimentés. 
-              Chaque partenaire est sélectionné pour sa qualité de service, sa transparence tarifaire et sa connaissance du terrain nantais.
+              Chaque partenaire est sélectionné pour sa qualité de service, sa transparence tarifaire et sa connaissance du terrain lillois.
             </p>
           </div>
         </div>
@@ -304,7 +304,7 @@ export default function PartenairesPage() {
               </div>
               <h3 className="text-xl font-semibold mb-3">Connaissance locale</h3>
               <p className="text-white/80">
-                Expertise du terrain nantais : accès, stationnement, contraintes spécifiques à chaque quartier.
+                Expertise du terrain lillois : accès, stationnement, contraintes spécifiques à chaque quartier.
               </p>
             </div>
           </div>
@@ -318,7 +318,7 @@ export default function PartenairesPage() {
               Devenir partenaire Moverz
             </h2>
             <p className="text-white/80 mb-6 max-w-2xl mx-auto">
-              Vous êtes déménageur à nantes et souhaitez rejoindre notre réseau ? 
+              Vous êtes déménageur à lille et souhaitez rejoindre notre réseau ? 
               Bénéficiez de notre technologie IA et de notre visibilité en ligne.
             </p>
             <a 
