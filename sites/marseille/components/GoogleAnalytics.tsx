@@ -1,7 +1,11 @@
 import Script from 'next/script';
 
 export default function GoogleAnalytics() {
-  const GA_ID = 'G-4N5298XDVZ';
+  const GA_ID = process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID || '';
+
+  if (!GA_ID) {
+    return null;
+  }
 
   return (
     <>
@@ -16,10 +20,9 @@ export default function GoogleAnalytics() {
           __html: `
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
+            gtag('consent', 'default', { ad_storage: 'denied', analytics_storage: 'denied' });
             gtag('js', new Date());
-            gtag('config', '${GA_ID}', {
-              page_path: window.location.pathname,
-            });
+            gtag('config', '${GA_ID}', { send_page_view: false });
           `,
         }}
       />
