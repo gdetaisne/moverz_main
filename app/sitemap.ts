@@ -4,8 +4,8 @@ import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
 
-// Fonction locale pour lire SEULEMENT les articles de Strasbourg
-function getStrasbourgBlogPosts() {
+// Fonction locale pour lire SEULEMENT les articles de Rouen
+function getRouenBlogPosts() {
   const blogDirectory = path.join(process.cwd(), 'content/blog')
   
   if (!fs.existsSync(blogDirectory)) {
@@ -35,8 +35,8 @@ function getStrasbourgBlogPosts() {
         category: category,
         type: data.type || 'satellite',
         publish_date: data.publish_date || data.date || new Date().toISOString().split('T')[0],
-        cleanCategory: category.replace('-strasbourg', ''),
-        cleanSlug: file.replace('.md', '').replace('-strasbourg', '')
+        cleanCategory: category.replace('-rouen', ''),
+        cleanSlug: file.replace('.md', '').replace('-rouen', '')
       })
     })
   })
@@ -45,10 +45,10 @@ function getStrasbourgBlogPosts() {
 }
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://devis-demenageur-strasbourg.fr'
+  const baseUrl = 'https://devis-demenageur-rouen.fr'
   
-  // Récupérer SEULEMENT les articles de blog de Strasbourg
-  const blogPosts = getStrasbourgBlogPosts()
+  // Récupérer SEULEMENT les articles de blog de Rouen
+  const blogPosts = getRouenBlogPosts()
   
   // Pages statiques
   const staticPages: MetadataRoute.Sitemap = [
@@ -65,55 +65,55 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/services/demenagement-economique-strasbourg`,
+      url: `${baseUrl}/services/demenagement-economique-rouen`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.7,
     },
     {
-      url: `${baseUrl}/services/demenagement-standard-strasbourg`,
+      url: `${baseUrl}/services/demenagement-standard-rouen`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.7,
     },
     {
-      url: `${baseUrl}/services/demenagement-premium-strasbourg`,
+      url: `${baseUrl}/services/demenagement-premium-rouen`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.7,
     },
     {
-      url: `${baseUrl}/strasbourg`,
+      url: `${baseUrl}/rouen`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.9,
     },
     {
-      url: `${baseUrl}/strasbourg/chartrons`,
+      url: `${baseUrl}/rouen/coteaux-sud`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/strasbourg/cauderan`,
+      url: `${baseUrl}/rouen/saint-marc`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/strasbourg/bastide`,
+      url: `${baseUrl}/rouen/bastide`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/strasbourg/merignac`,
+      url: `${baseUrl}/rouen/merignac`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/strasbourg/pessac`,
+      url: `${baseUrl}/rouen/pessac`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
@@ -144,37 +144,37 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
     // Pages corridors
     {
-      url: `${baseUrl}/strasbourg-vers-paris`,
+      url: `${baseUrl}/rouen-vers-paris`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/strasbourg-vers-lyon`,
+      url: `${baseUrl}/rouen-vers-lyon`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/strasbourg-vers-toulouse`,
+      url: `${baseUrl}/rouen-vers-toulouse`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/strasbourg-vers-nantes`,
+      url: `${baseUrl}/rouen-vers-nantes`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/strasbourg-vers-marseille`,
+      url: `${baseUrl}/rouen-vers-marseille`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/strasbourg-vers-espagne`,
+      url: `${baseUrl}/rouen-vers-espagne`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,

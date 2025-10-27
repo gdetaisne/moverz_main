@@ -26,17 +26,17 @@ const categoryLabels: { [key: string]: string } = {
 };
 
 const categoryDescriptions: { [key: string]: string } = {
-  'etudiant': 'Tous nos guides et conseils pour réussir votre déménagement étudiant à strasbourg : astuces budget, aides financières, et solutions pratiques.',
-  'entreprise': 'Guides complets pour organiser votre déménagement d\'entreprise à strasbourg : planification, logistique, et conseils professionnels.',
-  'piano': 'Conseils d\'experts pour déménager votre piano à strasbourg en toute sécurité : tarifs, techniques, et précautions.',
-  'international': 'Tout savoir sur le déménagement international depuis strasbourg : formalités, transport, et organisation.',
-  'longue-distance': 'Guides pratiques pour vos déménagements longue distance depuis strasbourg : préparation, coûts, et astuces.',
-  'pas-cher': 'Astuces et conseils pour déménager à petit prix à strasbourg sans compromettre la qualité.',
-  'urgent': 'Solutions et conseils pour organiser un déménagement urgent à strasbourg dans les meilleures conditions.',
-  'devis': 'Guides pour comprendre et obtenir les meilleurs devis de déménagement à strasbourg.',
-  'garde-meuble': 'Tout savoir sur les solutions de garde-meuble à strasbourg : tarifs, options, et conseils.',
-  'prix': 'Guides détaillés sur les prix de déménagement à strasbourg pour tous types de projets.',
-  'prix-piano': 'Informations complètes sur les tarifs de déménagement de piano à strasbourg.'
+  'etudiant': 'Tous nos guides et conseils pour réussir votre déménagement étudiant à rouen : astuces budget, aides financières, et solutions pratiques.',
+  'entreprise': 'Guides complets pour organiser votre déménagement d\'entreprise à rouen : planification, logistique, et conseils professionnels.',
+  'piano': 'Conseils d\'experts pour déménager votre piano à rouen en toute sécurité : tarifs, techniques, et précautions.',
+  'international': 'Tout savoir sur le déménagement international depuis rouen : formalités, transport, et organisation.',
+  'longue-distance': 'Guides pratiques pour vos déménagements longue distance depuis rouen : préparation, coûts, et astuces.',
+  'pas-cher': 'Astuces et conseils pour déménager à petit prix à rouen sans compromettre la qualité.',
+  'urgent': 'Solutions et conseils pour organiser un déménagement urgent à rouen dans les meilleures conditions.',
+  'devis': 'Guides pour comprendre et obtenir les meilleurs devis de déménagement à rouen.',
+  'garde-meuble': 'Tout savoir sur les solutions de garde-meuble à rouen : tarifs, options, et conseils.',
+  'prix': 'Guides détaillés sur les prix de déménagement à rouen pour tous types de projets.',
+  'prix-piano': 'Informations complètes sur les tarifs de déménagement de piano à rouen.'
 };
 
 export async function generateMetadata({ params }: CategoryPageProps): Promise<Metadata> {
@@ -44,7 +44,7 @@ export async function generateMetadata({ params }: CategoryPageProps): Promise<M
   const categoryDescription = categoryDescriptions[params.category] || `Découvrez tous nos articles sur ${categoryLabel.toLowerCase()}.`;
   
   return {
-    title: `${categoryLabel} - Blog Déménagement strasbourg`,
+    title: `${categoryLabel} - Blog Déménagement rouen`,
     description: categoryDescription,
   };
 }
@@ -253,10 +253,10 @@ export default function CategoryPage({ params }: CategoryPageProps) {
         <div className="container">
           <div className="bg-gradient-to-r from-[#2b7a78] to-[#6bcfcf] rounded-2xl p-8 md:p-12 text-center text-white">
             <h2 className="text-2xl md:text-3xl font-bold mb-4">
-              Prêt à déménager à strasbourg ?
+              Prêt à déménager à rouen ?
             </h2>
             <p className="text-lg text-white/90 mb-8 max-w-2xl mx-auto">
-              Notre équipe de déménageurs professionnels à strasbourg est à votre disposition 
+              Notre équipe de déménageurs professionnels à rouen est à votre disposition 
               pour vous accompagner dans votre projet.
             </p>
             <Link 

@@ -2,33 +2,33 @@ export default function StructuredData() {
   const structuredData = {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
-    "name": "Déménageurs Strasbourg (IA)",
+    "name": "Déménageurs Rouen (IA)",
     "description": "30 minutes pour votre dossier → 5 devis personnalisés sous 7 jours. Estimation volumétrique à partir de photos, tarifs clairs, conseils locaux.",
-    "url": "https://www.devis-demenageur-strasbourg.fr",
+    "url": "https://www.devis-demenageur-rouen.fr",
     "telephone": "+33-XXX-XXX-XXX",
     "address": {
       "@type": "PostalAddress",
-      "addressLocality": "Strasbourg",
-      "addressRegion": "Grand Est",
+      "addressLocality": "Rouen",
+      "addressRegion": "Normandie",
       "addressCountry": "FR"
     },
     "geo": {
       "@type": "GeoCoordinates",
-      "latitude": 48.5734,
-      "longitude": 7.7521
+      "latitude": 49.4432,
+      "longitude": 1.0993
     },
     "areaServed": [
       {
         "@type": "City",
-        "name": "Strasbourg"
+        "name": "Rouen"
       },
       {
         "@type": "City",
-        "name": "Mulhouse"
+        "name": "Le Havre"
       },
       {
         "@type": "City",
-        "name": "Colmar"
+        "name": "Caen"
       }
     ],
     "priceRange": "€€",
