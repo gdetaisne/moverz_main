@@ -4,15 +4,15 @@ import Link from 'next/link';
 import Breadcrumbs from '@/components/Breadcrumbs';
 
 export const metadata: Metadata = {
-  title: "Blog Déménagement Nantes - Guides & Conseils Experts | Moverz",
-  description: "Guides complets et conseils d'experts pour réussir votre déménagement à Nantes. Astuces budget, checklist, comparatifs, conseils pratiques. Articles rédigés par des professionnels.",
+  title: "Blog Déménagement Lille - Guides & Conseils Experts | Moverz",
+  description: "Guides complets et conseils d'experts pour réussir votre déménagement à Lille. Astuces budget, checklist, comparatifs, conseils pratiques. Articles rédigés par des professionnels.",
   alternates: {
-    canonical: `https://www.devis-demenageur-nantes.fr/blog`,
+    canonical: `https://www.devis-demenageur-lille.fr/blog`,
   },
   openGraph: {
-    title: "Blog Déménagement Nantes - Tous nos guides pratiques",
-    description: "Conseils d'experts, guides détaillés et astuces pour déménager sereinement à Nantes.",
-    url: `https://www.devis-demenageur-nantes.fr/blog`,
+    title: "Blog Déménagement Lille - Tous nos guides pratiques",
+    description: "Conseils d'experts, guides détaillés et astuces pour déménager sereinement à Lille.",
+    url: `https://www.devis-demenageur-lille.fr/blog`,
     type: 'website',
   },
 }
@@ -65,7 +65,7 @@ const blogCategories = [
   { 
     slug: 'longue-distance', 
     name: 'Longue Distance', 
-    description: 'Déménager de nantes vers toute la France',
+    description: 'Déménager de lille vers toute la France',
     icon: '🚛',
     color: 'from-indigo-500 to-purple-500'
   },
@@ -79,7 +79,7 @@ const blogCategories = [
   { 
     slug: 'international', 
     name: 'International', 
-    description: 'Déménager à l\'étranger depuis nantes',
+    description: 'Déménager à l\'étranger depuis lille',
     icon: '🌍',
     color: 'from-blue-600 to-indigo-600'
   },
@@ -130,10 +130,10 @@ export default function BlogPage() {
             </div>
 
             <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold tracking-tight mb-6">
-              Blog Déménagement nantes
+              Blog Déménagement lille
             </h1>
             <p className="text-lg md:text-xl text-white/90 max-w-3xl mx-auto">
-              Conseils, guides et astuces pour réussir votre déménagement à nantes. 
+              Conseils, guides et astuces pour réussir votre déménagement à lille. 
               Que vous soyez étudiant, famille ou professionnel, trouvez tous les conseils dont vous avez besoin.
             </p>
           </div>

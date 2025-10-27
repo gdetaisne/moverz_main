@@ -2,33 +2,33 @@ export default function StructuredData() {
   const structuredData = {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
-    "name": "Déménageurs Nantes (IA)",
+    "name": "Déménageurs Lille (IA)",
     "description": "30 minutes pour votre dossier → 5 devis personnalisés sous 7 jours. Estimation volumétrique à partir de photos, tarifs clairs, conseils locaux.",
-    "url": "https://www.devis-demenageur-nantes.fr",
+    "url": "https://www.devis-demenageur-lille.fr",
     "telephone": "+33-XXX-XXX-XXX",
     "address": {
       "@type": "PostalAddress",
-      "addressLocality": "Nantes",
-      "addressRegion": "Pays de la Loire",
+      "addressLocality": "Lille",
+      "addressRegion": "Hauts-de-France",
       "addressCountry": "FR"
     },
     "geo": {
       "@type": "GeoCoordinates",
-      "latitude": 47.2184,
-      "longitude": -1.5536
+      "latitude": 50.6292,
+      "longitude": 3.0573
     },
     "areaServed": [
       {
         "@type": "City",
-        "name": "Nantes"
+        "name": "Lille"
       },
       {
         "@type": "City",
-        "name": "Saint-Nazaire"
+        "name": "Roubaix"
       },
       {
         "@type": "City",
-        "name": "La Roche-sur-Yon"
+        "name": "Tourcoing"
       }
     ],
     "priceRange": "€€",

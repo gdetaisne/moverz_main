@@ -59,7 +59,7 @@ export default function CtaPrimary({ placement, label, className = "" }: CtaPrim
       case "inline":
         return "Notre équipe vous accompagne dans votre projet de déménagement";
       case "footer":
-        return "Rejoignez plus de 1200 clients satisfaits à Nantes";
+        return "Rejoignez plus de 1200 clients satisfaits à Lille";
       default:
         return "Estimation gratuite et sans engagement";
     }
@@ -114,7 +114,7 @@ export default function CtaPrimary({ placement, label, className = "" }: CtaPrim
                   <svg className="w-6 h-6 text-[#6bcfcf] flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                   </svg>
-                  <span>Partenaires certifiés à Nantes</span>
+                  <span>Partenaires certifiés à Lille</span>
                 </li>
               </ul>
             </div>

@@ -4,17 +4,17 @@ const matter = require('gray-matter');
 
 // Mapping des catégories
 const categoryMapping = {
-  'demenagement-etudiant-nantes': 'etudiant',
-  'demenagement-entreprise-nantes': 'entreprise',
-  'demenagement-piano-nantes': 'piano',
-  'demenagement-international-nantes': 'international',
-  'demenagement-longue-distance-nantes': 'longue-distance',
-  'demenagement-pas-cher-nantes': 'pas-cher',
-  'demenagement-urgent-nantes': 'urgent',
-  'devis-demenagement-nantes': 'devis',
-  'garde-meuble-nantes': 'garde-meuble',
-  'prix-demenagement-nantes': 'prix',
-  'prix-demenagement-piano-nantes': 'prix-piano',
+  'demenagement-etudiant-lille': 'etudiant',
+  'demenagement-entreprise-lille': 'entreprise',
+  'demenagement-piano-lille': 'piano',
+  'demenagement-international-lille': 'international',
+  'demenagement-longue-distance-lille': 'longue-distance',
+  'demenagement-pas-cher-lille': 'pas-cher',
+  'demenagement-urgent-lille': 'urgent',
+  'devis-demenagement-lille': 'devis',
+  'garde-meuble-lille': 'garde-meuble',
+  'prix-demenagement-lille': 'prix',
+  'prix-demenagement-piano-lille': 'prix-piano',
 };
 
 // Clean slug function
@@ -22,17 +22,17 @@ function cleanSlug(slug, category) {
   let clean = slug;
   
   const categoryPatterns = [
-    'demenagement-etudiant-nantes-',
-    'demenagement-entreprise-nantes-',
-    'demenagement-piano-nantes-',
-    'demenagement-international-nantes-',
-    'demenagement-longue-distance-nantes-',
-    'demenagement-pas-cher-nantes-',
-    'demenagement-urgent-nantes-',
-    'devis-demenagement-nantes-',
-    'garde-meuble-nantes-',
-    'prix-demenagement-nantes-',
-    'prix-demenagement-piano-nantes-',
+    'demenagement-etudiant-lille-',
+    'demenagement-entreprise-lille-',
+    'demenagement-piano-lille-',
+    'demenagement-international-lille-',
+    'demenagement-longue-distance-lille-',
+    'demenagement-pas-cher-lille-',
+    'demenagement-urgent-lille-',
+    'devis-demenagement-lille-',
+    'garde-meuble-lille-',
+    'prix-demenagement-lille-',
+    'prix-demenagement-piano-lille-',
   ];
   
   categoryPatterns.forEach(pattern => {
@@ -41,7 +41,7 @@ function cleanSlug(slug, category) {
     }
   });
   
-  clean = clean.replace(/-nantes$/i, '');
+  clean = clean.replace(/-lille$/i, '');
   clean = clean.replace(/-guide-complet$/i, '-guide');
   clean = clean.replace(/-reperes-2025$/i, '-2025');
   
