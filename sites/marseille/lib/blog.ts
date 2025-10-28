@@ -94,7 +94,13 @@ function cleanSlug(originalSlug: string, category: string): string {
 export function getAllBlogPosts(): BlogPost[] {
   const monorepoDir = path.join(process.cwd(), 'sites/marseille/content/blog');
   const standaloneDir = path.join(process.cwd(), 'content/blog');
-  const blogDirectory = fs.existsSync(monorepoDir) ? monorepoDir : standaloneDir;
+  const blogDirectory = fs.existsSync(monorepoDir)
+    ? monorepoDir
+    : (fs.existsSync(standaloneDir) ? standaloneDir : null);
+
+  if (!blogDirectory) {
+    return [];
+  }
   const categories = fs.readdirSync(blogDirectory, { withFileTypes: true })
     .filter(dirent => dirent.isDirectory())
     .map(dirent => dirent.name);
