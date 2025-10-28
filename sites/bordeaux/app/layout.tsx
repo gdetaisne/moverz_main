@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   },
   description:
     "30 minutes pour votre dossier → 5 devis personnalisés sous 7 jours. Estimation volumétrique à partir de photos, tarifs clairs, conseils locaux.",
-  metadataBase: new URL("https://devis-demenageur-bordeaux.fr"),
+  metadataBase: new URL("https://www.bordeaux-demenageur.fr"),
   robots: {
     index: true,
     follow: true,
@@ -30,13 +30,13 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'fr_FR',
-    url: 'https://devis-demenageur-bordeaux.fr',
+    url: 'https://www.bordeaux-demenageur.fr',
     siteName: 'Déménageurs Bordeaux (IA)',
     title: 'Déménageurs Bordeaux (IA) - 5 devis sous 7 jours',
     description: '30 minutes pour votre dossier → 5 devis personnalisés sous 7 jours. Estimation volumétrique à partir de photos, tarifs clairs, conseils locaux.',
     images: [
       {
-        url: 'https://devis-demenageur-bordeaux.fr/og-image.jpg',
+        url: 'https://www.bordeaux-demenageur.fr/og-image.jpg',
         width: 1200,
         height: 630,
         alt: 'Déménageurs Bordeaux (IA) - Devis IA',
@@ -51,6 +51,11 @@ export const metadata: Metadata = {
   },
   alternates: {
     canonical: 'https://devis-demenageur-bordeaux.fr',
+  },
+  icons: {
+    icon: '/favicon.ico',
+    shortcut: '/favicon.ico',
+    apple: '/icons/apple-touch-icon.png',
   },
 };
 

@@ -9,7 +9,7 @@
 | **Marseille** | [devis-demenageur-marseille.fr](https://devis-demenageur-marseille.fr) | [dd-marseille](https://github.com/gdetaisne/dd-marseille) | 3020 | ✅ Live | 28/10/25 |
 | **Toulouse** | [devis-demenageur-toulousain.fr](https://devis-demenageur-toulousain.fr) | [dd-toulouse](https://github.com/gdetaisne/dd-toulouse) | 3022 | ✅ Live | 28/10/25 |
 | **Lyon** | [devis-demenageur-lyon.fr](https://devis-demenageur-lyon.fr) | [dd-lyon](https://github.com/gdetaisne/dd-lyon) | 3023 | ✅ Live | 28/10/25 |
-| **Bordeaux** | [devis-demenageur-bordeaux.fr](https://devis-demenageur-bordeaux.fr) | [dd-bordeaux](https://github.com/gdetaisne/dd-bordeaux) | 3024 | ✅ Live | 28/10/25 |
+| **Bordeaux** | [bordeaux-demenageur.fr](https://www.bordeaux-demenageur.fr) | [dd-bordeaux](https://github.com/gdetaisne/dd-bordeaux) | 3024 | ✅ Live | 28/10/25 |
 | **Nantes** | [devis-demenageur-nantes.fr](https://devis-demenageur-nantes.fr) | [dd-nantes](https://github.com/gdetaisne/dd-nantes) | 3025 | ✅ Live | 28/10/25 |
 | **Lille** | [devis-demenageur-lille.fr](https://devis-demenageur-lille.fr) | [dd-lille](https://github.com/gdetaisne/dd-lille) | 3026 | ✅ Live | 28/10/25 |
 | **Nice** | [devis-demenageur-nice.fr](https://devis-demenageur-nice.fr) | [dd-nice](https://github.com/gdetaisne/dd-nice) | 3027 | ✅ Live | 28/10/25 |
@@ -54,6 +54,13 @@ NODE_ENV=development
 SITE_URL=https://devis-demenageur-toulousain.fr  # ⚠️ "toulousain" pas "toulouse"
 ```
 **Raison** : Branding marketing spécifique
+
+#### Bordeaux
+```bash
+SITE_URL=https://www.bordeaux-demenageur.fr      # ⚠️ Format inversé + www.
+```
+**Raison** : Nom de domaine spécifique (bordeaux-demenageur vs devis-demenageur-bordeaux)  
+**CapRover App** : `moverz-bordeaux`
 
 #### Lyon
 ```typescript
