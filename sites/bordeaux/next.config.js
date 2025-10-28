@@ -12,6 +12,7 @@ const nextConfig = {
   },
   
   images: {
+    unoptimized: true,
     domains: ['images.unsplash.com'],
     formats: ['image/webp', 'image/avif'],
   },

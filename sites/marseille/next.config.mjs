@@ -23,6 +23,8 @@ const nextConfig = {
   
   // Configuration des images (si utilisées)
   images: {
+    // Désactiver l'optimisation côté serveur pour éviter erreurs 400/blocked sur Unsplash
+    unoptimized: true,
     remotePatterns: [
       {
         protocol: 'https',
