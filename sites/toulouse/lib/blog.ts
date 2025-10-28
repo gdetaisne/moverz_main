@@ -92,7 +92,9 @@ function cleanSlug(originalSlug: string, category: string): string {
 }
 
 export function getAllBlogPosts(): BlogPost[] {
-  const blogDirectory = path.join(process.cwd(), 'content/blog');
+  const localDir = path.join(process.cwd(), 'content/blog');
+  const fallbackDir = path.join(process.cwd(), 'sites/toulouse/content/blog');
+  const blogDirectory = fs.existsSync(localDir) ? localDir : fallbackDir;
   const categories = fs.readdirSync(blogDirectory, { withFileTypes: true })
     .filter(dirent => dirent.isDirectory())
     .map(dirent => dirent.name);
