@@ -4,19 +4,19 @@ export default function Testimonials() {
   const testimonials = [
     {
       name: "Marie L.",
-      location: "Chartrons",
+      location: "Capitole",
       text: "Estimation très précise, équipe pro. Déménagement sans stress.",
       avatar: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=256&h=256&fit=crop&q=80"
     },
     {
       name: "Thomas B.", 
-      location: "Caudéran",
+      location: "Saint‑Cyprien",
       text: "L'IA a bien évalué le volume. Prix correct, service impeccable.",
       avatar: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=256&h=256&fit=crop&q=80"
     },
     {
       name: "Sophie M.",
-      location: "Saint-Pierre", 
+      location: "Carmes", 
       text: "Gain de temps énorme avec l'estimation photo. Recommande.",
       avatar: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=256&h=256&fit=crop&q=80"
     }
