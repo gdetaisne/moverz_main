@@ -1,4 +1,7 @@
-import { Hero, HowItWorks, PricingPreview, StickyCTA } from "@moverz/ui";
+import Hero from "@/components/Hero";
+import HowItWorks from "@/components/HowItWorks";
+import PricingPreview from "@/components/PricingPreview";
+import StickyCTA from "@/components/StickyCTA";
 import ValueTriad from "@/components/ValueTriad";
 import ProofStrip from "@/components/ProofStrip";
 import PhotoGuidelines from "@/components/PhotoGuidelines";
