@@ -14,6 +14,7 @@ export default function Hero() {
       setStage(1);
       t1 = setTimeout(() => setStage(2), 900);
       t2 = setTimeout(() => setStage(3), 1800);
+      // small pause after stage 3, then loop
       t3 = setTimeout(() => setStage(0), 2500);
       t4 = setTimeout(run, 2800);
     };
@@ -71,6 +72,7 @@ export default function Hero() {
                   <span className="h-2 w-2 rounded-full bg-yellow-400/80" />
                   <span className="h-2 w-2 rounded-full bg-green-400/80" />
                 </div>
+                {/* right-side header content intentionally left empty */}
               </div>
               <div className="mt-4 space-y-4">
                 <div className="rounded-xl border border-white/15 bg-white/5 p-4 md:p-5">
@@ -118,6 +120,7 @@ export default function Hero() {
               <span>Propulsé par Moverz IA</span>
             </div>
           </div>
+          
         </div>
       </div>
     </section>
