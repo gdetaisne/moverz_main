@@ -14,6 +14,7 @@
     "gen:quartiers": "tsx scripts/genQuartiers.ts"
   },
   "dependencies": {
+    "@moverz/ui": "workspace:*",
     "clsx": "^2.1.1",
     "gray-matter": "^4.0.3",
     "lucide-react": "^0.453.0",

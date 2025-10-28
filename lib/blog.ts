@@ -1,26 +1,53 @@
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
+import { env } from '@/lib/env';
 
-// Mapping des catégories pour URLs courtes
-const CATEGORY_MAPPING = {
-  'demenagement-etudiant-toulouse': 'etudiant',
-  'demenagement-entreprise-toulouse': 'entreprise', 
-  'demenagement-piano-toulouse': 'piano',
-  'demenagement-international-toulouse': 'international',
-  'demenagement-longue-distance-toulouse': 'longue-distance',
-  'demenagement-pas-cher-toulouse': 'pas-cher',
-  'demenagement-urgent-toulouse': 'urgent',
-  'devis-demenagement-toulouse': 'devis',
-  'garde-meuble-toulouse': 'garde-meuble',
-  'prix-demenagement-toulouse': 'prix',
-  'prix-demenagement-piano-toulouse': 'prix-piano',
-  // Gestion des catégories avec espaces (fallback)
-  'Déménagement entreprise': 'entreprise',
-  'Déménagement étudiant': 'etudiant',
-  'Déménagement piano': 'piano',
-  'Déménagement international': 'international'
-};
+// Villes supportées et aide pour déduire la ville courante
+const SUPPORTED_CITIES = [
+  'toulouse', 'bordeaux', 'lyon', 'marseille', 'nantes',
+  'lille', 'nice', 'rennes', 'rouen', 'strasbourg', 'montpellier',
+];
+
+function inferCitySlugFromEnv(): string {
+  try {
+    const url = new URL(env.SITE_URL);
+    const host = url.hostname.toLowerCase();
+    // Cas particulier: "toulousain" → "toulouse"
+    if (host.includes('toulousain')) return 'toulouse';
+    for (const city of SUPPORTED_CITIES) {
+      if (host.includes(city)) return city;
+    }
+  } catch {}
+  return 'toulouse';
+}
+
+function getCategoryMappingForCity(city: string) {
+  const baseMap: Record<string, string> = {
+    'demenagement-etudiant': 'etudiant',
+    'demenagement-entreprise': 'entreprise',
+    'demenagement-piano': 'piano',
+    'demenagement-international': 'international',
+    'demenagement-longue-distance': 'longue-distance',
+    'demenagement-pas-cher': 'pas-cher',
+    'demenagement-urgent': 'urgent',
+    'devis-demenagement': 'devis',
+    'garde-meuble': 'garde-meuble',
+    'prix-demenagement': 'prix',
+    'prix-demenagement-piano': 'prix-piano',
+  };
+  // Générer map spécifique à la ville: <base>-<city> → short
+  const cityMap: Record<string, string> = {};
+  Object.entries(baseMap).forEach(([base, short]) => {
+    cityMap[`${base}-${city}`] = short;
+  });
+  // Fallbacks nommés en clair
+  cityMap['Déménagement entreprise'] = 'entreprise';
+  cityMap['Déménagement étudiant'] = 'etudiant';
+  cityMap['Déménagement piano'] = 'piano';
+  cityMap['Déménagement international'] = 'international';
+  return cityMap;
+}
 
 // Fonction pour extraire la catégorie du chemin du fichier
 function extractCategoryFromPath(filePath: string): string {
@@ -47,52 +74,41 @@ export interface BlogPost {
   cleanCategory: string;
 }
 
-// Fonction pour nettoyer les slugs
-function cleanSlug(originalSlug: string, category: string): string {
-  // Retirer le préfixe de catégorie redondant
+// Fonction pour nettoyer les slugs (générique par ville)
+function cleanSlug(originalSlug: string, category: string, city: string): string {
   let cleanSlug = originalSlug;
-  
-  // Patterns de nettoyage spécifiques (ordre important!)
-    const cleanPatterns = [
-    // D'abord, retirer les préfixes de catégorie complets
-    { from: /^demenagement-etudiant-bordeaux-/, to: '' },
-    { from: /^demenagement-entreprise-bordeaux-/, to: '' },
-    { from: /^demenagement-piano-bordeaux-/, to: '' },
-    { from: /^demenagement-international-bordeaux-/, to: '' },
-    { from: /^demenagement-longue-distance-bordeaux-/, to: '' },
-    { from: /^demenagement-pas-cher-bordeaux-/, to: '' },
-    { from: /^demenagement-urgent-bordeaux-/, to: '' },
-    { from: /^devis-demenagement-bordeaux-/, to: '' },
-    { from: /^garde-meuble-bordeaux-/, to: '' },
-    { from: /^prix-demenagement-bordeaux-/, to: '' },
-    { from: /^prix-demenagement-piano-bordeaux-/, to: '' },
-    { from: /^prix-garde-meuble-bordeaux-/, to: '' },
-    // Ensuite, retirer les patterns partiels en début
-    { from: /^stockage-etudiant-bordeaux/, to: 'stockage-etudiant' },
-    { from: /^cartons-gratuits-bordeaux/, to: 'cartons-gratuits' },
-    { from: /^camion-demenagement-etudiant-bordeaux/, to: 'camion-demenagement-etudiant' },
-    { from: /^assurance-demenagement-international-bordeaux/, to: 'assurance-demenagement-international' },
-    { from: /^prix-demenagement-international-bordeaux/, to: 'prix-demenagement-international' },
-    { from: /^emballage-demenagement-international-bordeaux/, to: 'emballage-demenagement-international' },
-    { from: /^formalites-douanieres-demenagement-international-bordeaux/, to: 'formalites-douanieres-demenagement-international' },
-    // Retirer "-bordeaux" en milieu de slug
-    { from: /-bordeaux-/, to: '-' },
-    // Retirer "-bordeaux" en fin
-    { from: /-bordeaux$/, to: '' },
-    // Simplifications uniformes
-    { from: /-guide-complet$/, to: '-guide' },
-    { from: /-reperes-2025$/, to: '' },  // Retirer complètement pour éviter duplicates
+  const prefixes = [
+    'demenagement-etudiant',
+    'demenagement-entreprise',
+    'demenagement-piano',
+    'demenagement-international',
+    'demenagement-longue-distance',
+    'demenagement-pas-cher',
+    'demenagement-urgent',
+    'devis-demenagement',
+    'garde-meuble',
+    'prix-demenagement',
+    'prix-demenagement-piano',
+    'prix-garde-meuble',
   ];
-
-  cleanPatterns.forEach(pattern => {
-    cleanSlug = cleanSlug.replace(pattern.from, pattern.to);
+  // Supprimer préfixes spécifiques à la ville
+  prefixes.forEach(p => {
+    const re = new RegExp(`^${p}-${city}-`, 'i');
+    cleanSlug = cleanSlug.replace(re, '');
   });
-
+  // Nettoyer occurrences de la ville dans le slug
+  cleanSlug = cleanSlug.replace(new RegExp(`-${city}-`, 'gi'), '-');
+  cleanSlug = cleanSlug.replace(new RegExp(`-${city}$`, 'i'), '');
+  // Simplifications
+  cleanSlug = cleanSlug.replace(/-guide-complet$/i, '-guide');
+  cleanSlug = cleanSlug.replace(/-reperes-2025$/i, '');
   return cleanSlug;
 }
 
-export function getAllBlogPosts(): BlogPost[] {
+export function getAllBlogPosts(cityOverride?: string): BlogPost[] {
   const blogDirectory = path.join(process.cwd(), 'content/blog');
+  const city = (cityOverride || inferCitySlugFromEnv()).toLowerCase();
+  const categoryMap = getCategoryMappingForCity(city);
   const categories = fs.readdirSync(blogDirectory, { withFileTypes: true })
     .filter(dirent => dirent.isDirectory())
     .map(dirent => dirent.name);
@@ -110,11 +126,15 @@ export function getAllBlogPosts(): BlogPost[] {
       const { data, content } = matter(fileContents);
 
       const originalSlug = data.slug || file.replace('.md', '');
-      
-      // Utiliser la catégorie du frontmatter ou extraire du chemin
+      // Catégorie (dossier) + filtre ville
       const category = data.category || extractCategoryFromPath(filePath);
-      const cleanCategorySlug = cleanSlug(originalSlug, category);
-      const cleanCategory = CATEGORY_MAPPING[category as keyof typeof CATEGORY_MAPPING] || category;
+      const isForCity = category.endsWith(`-${city}`) || originalSlug.includes(`-${city}`);
+      if (!isForCity) {
+        return; // ignorer posts d'autres villes
+      }
+      const cleanCategorySlug = cleanSlug(originalSlug, category, city);
+      const baseCategory = category.replace(new RegExp(`-${city}$`, 'i'), '');
+      const cleanCategory = categoryMap[category as keyof typeof categoryMap] || categoryMap[baseCategory] || baseCategory;
 
       // Gérer les keywords (peuvent être string ou array)
       let keywordsArray: string[] = [];
