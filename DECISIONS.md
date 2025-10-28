@@ -347,6 +347,125 @@ Besoin de déployer 11 sites Next.js en production.
 
 ---
 
+## 2025-10-28 : Harmonisation Configs Build (tsconfig, Dockerfile)
+
+### Contexte
+Build CapRover échouait de manière aléatoire selon les sites. Nantes bloqué avec `Cannot read file '/tsconfig.json'`.
+
+### Problème
+**Configurations incohérentes entre les 11 sites** :
+- 11 `tsconfig.json` différents (certains avec `"extends": "../../tsconfig.json"` invalide dans Docker)
+- 11 `Dockerfile` différents avec timestamps dynamiques
+- 11 `.dockerignore` similaires mais pas identiques
+- Aucun moyen de garantir l'homogénéité
+
+**Impact** :
+- Toulouse : ✅ Build OK
+- Nantes : ❌ Build fail (extends invalide)
+- Autres : ⚠️ Risque aléatoire
+
+### Options considérées
+
+**Option 1 : Workspace Monorepo (Turborepo/Nx)**
+- ✅ Configs partagées par design
+- ❌ Migration complexe (~3-5 jours)
+- ❌ Overhead de config
+- ❌ Courbe d'apprentissage
+
+**Option 2 : Validation CI/CD**
+- ✅ Détecte divergences
+- ❌ Ne corrige pas automatiquement
+- ❌ Build échoue en prod avant détection
+
+**Option 3 : Templates canoniques + Script sync** ✅ **CHOISI**
+- ✅ Solution immédiate (2h)
+- ✅ Source de vérité unique (`.templates/`)
+- ✅ Script de sync automatique
+- ✅ Vérification MD5 intégrée
+- ⚠️ Nécessite discipline (sync avant modifs)
+
+### Décision
+**Architecture avec `.templates/` + `sync-config-files.sh`**
+
+### Structure
+```
+.templates/                      # Source de vérité
+├── tsconfig.json               # Config TS autonome
+├── Dockerfile.template         # Multi-stage avec {{CITY}}
+├── .dockerignore               # Exclusions standard
+└── .eslintrc.json              # Règles communes
+
+scripts/
+└── sync-config-files.sh        # Déploie templates → sites/*
+
+sites/
+└── <ville>/
+    ├── tsconfig.json           # Copie depuis template
+    ├── Dockerfile              # Généré depuis template
+    ├── .dockerignore           # Copie depuis template
+    └── .eslintrc.json          # Copie depuis template
+```
+
+### Fichiers Canoniques
+
+**tsconfig.json** :
+- ❌ Plus de `"extends"` (invalide dans Docker)
+- ✅ Autonome avec `baseUrl: "."`
+- ✅ `paths: { "@/*": ["./"] }`
+
+**Dockerfile** :
+- ✅ Multi-stage (base → deps → builder → runner)
+- ✅ Node 20 Alpine
+- ✅ User `nextjs` non-root
+- ✅ dumb-init process manager
+- ✅ Copie `content/` (blog)
+
+**Workflow** :
+```bash
+# 1. Modifier template
+vi .templates/tsconfig.json
+
+# 2. Synchroniser
+./scripts/sync-config-files.sh
+
+# 3. Vérifier
+# → Affiche MD5 de tous les sites (doivent être identiques)
+
+# 4. Deploy
+./scripts/push-all-sites-to-github.sh
+```
+
+### Trade-offs
+- **Pour** : Simple, rapide, vérifiable, pas de refactoring massif
+- **Contre** : Nécessite discipline (ne pas modifier sites/* directement)
+- **Acceptable** : Oui, documenté dans BUILD.md + CONTEXT.md
+
+### Validation
+```bash
+# Tous les tsconfig.json identiques
+for city in marseille toulouse lyon bordeaux nantes lille nice strasbourg rouen rennes montpellier; do
+  md5 -q "sites/$city/tsconfig.json"
+done | uniq -c
+# → Affiche: 11 <même hash>
+
+# Test build Nantes (qui échouait)
+cd sites/nantes && npm run build
+# → ✅ Success
+```
+
+### Documentation
+- **BUILD.md** : Guide complet build + troubleshooting
+- **TROUBLESHOOTING.md** : Problème #0 ajouté
+- **CONTEXT.md** : Règle "ne jamais modifier sites/* directement"
+
+### Résultats
+- ✅ 11 sites avec configs identiques
+- ✅ Nantes build réussi
+- ✅ Script sync réutilisable
+- ✅ Prévention automatique divergences futures
+
+---
+
 ## Template pour Nouvelles Décisions
 
 ```markdown
