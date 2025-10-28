@@ -36,7 +36,7 @@ export default function NeighborhoodsIndex() {
   return (
     <main className="section">
       <div className="container">
-        <h1 className="text-3xl md:text-4xl font-semibold">Déménagement par quartiers & communes (bordeaux)</h1>
+        <h1 className="text-3xl md:text-4xl font-semibold">Déménagement par quartiers & communes (Toulouse)</h1>
         <p className="mt-2 text-white/90 max-w-2xl">
           Sélectionnez votre zone pour obtenir des prix indicatifs et lancer une estimation IA en quelques minutes.
         </p>
@@ -51,7 +51,7 @@ export default function NeighborhoodsIndex() {
         </div>
 
         <section className="mt-10">
-          <h2 className="text-2xl md:text-3xl font-semibold">Quartiers de bordeaux</h2>
+          <h2 className="text-2xl md:text-3xl font-semibold">Quartiers de Toulouse</h2>
           <div className="mt-6 grid gap-4 md:grid-cols-3">
             {filteredQuartiers.map((q) => (
               <Card key={q.slug} href={urlForQuartier(q.slug)} title={q.title} subtitle="Exemples de prix, conseils d’accès, estimation IA" />
@@ -70,10 +70,8 @@ export default function NeighborhoodsIndex() {
           </div>
         </section>
 
-        <div className="mt-12">
-          <a href="/inventaire-ia/" className="inline-flex rounded-2xl bg-accent px-5 py-3 text-sm font-medium hover:brightness-110">
-            Obtenez votre estimation instantanée
-          </a>
+      <div className="mt-12">
+          <a href="/inventaire-ia/" className="btn-primary btn-sm">Obtenez vos devis précis gratuitement</a>
         </div>
       </div>
     </main>

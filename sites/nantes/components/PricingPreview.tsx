@@ -12,7 +12,7 @@ export default function PricingPreview() {
       </h2>
       <div className="grid md:grid-cols-3 gap-6">
         {pricing.map((item, i) => (
-          <div key={i} className="card-glass rounded-2xl p-6 text-center">
+          <div key={i} className="card-glass rounded-2xl p-6 text-center hover:translate-y-[2px] transition">
             <h3 className="text-xl font-semibold text-white">{item.type}</h3>
             <div className="mt-4 text-2xl font-bold text-[#6bcfcf]">{item.price}</div>
             <div className="mt-1 text-sm text-white/70">{item.volume}</div>
