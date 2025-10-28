@@ -9,6 +9,10 @@ export default function NeighborhoodsTeaser() {
     { title: "Hautepierre", href: "/Strasbourg/hautepierre" },
     { title: "Esplanade", href: "/Strasbourg/esplanade" },
   ];
+  const items = [
+    ...picks,
+    { title: "Ajouter votre quartier", href: "/contact/", isAdd: true as const },
+  ];
   
   return (
     <div>
@@ -17,10 +21,29 @@ export default function NeighborhoodsTeaser() {
         <Link href="/quartiers-Strasbourg" className="text-sm text-[#6bcfcf] underline">Voir tous les quartiers</Link>
       </div>
       <div className="mt-6 grid gap-4 md:grid-cols-5">
-        {picks.map((p) => (
-          <Link key={p.title} href={p.href} className="card-glass rounded-2xl p-4 hover:translate-y-[2px] hover:shadow-lg transition">
-            <div className="text-white font-medium">{p.title}</div>
-            <div className="text-white/70 text-xs mt-1">Déménageurs locaux</div>
+        {items.map((p) => (
+          <Link
+            key={p.title}
+            href={p.href}
+            className={
+              "card-glass rounded-2xl p-4 hover:translate-y-[2px] hover:shadow-lg transition " +
+              ("isAdd" in p ? "border-dashed border-white/30 bg-white/5" : "")
+            }
+          >
+            {"isAdd" in p ? (
+              <div className="flex items-center gap-3">
+                <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-white/10 text-white text-lg">+</div>
+                <div>
+                  <div className="text-white font-medium">{p.title}</div>
+                  <div className="text-white/70 text-xs mt-1">Dites‑nous où vous déménagez</div>
+                </div>
+              </div>
+            ) : (
+              <>
+                <div className="text-white font-medium">{p.title}</div>
+                <div className="text-white/70 text-xs mt-1">Déménageurs locaux</div>
+              </>
+            )}
           </Link>
         ))}
       </div>
