@@ -7,12 +7,12 @@ export const metadata: Metadata = {
   title: "Comment ça marche ? Déménagement Toulouse en 3 étapes | Moverz",
   description: "Découvrez notre processus simple pour déménager à Toulouse : 1) Inventaire IA gratuit en 30 min 2) Recevez 3 devis sous 7j 3) Choisissez votre déménageur. 100% gratuit, sans engagement.",
   alternates: {
-    canonical: `https://www.devis-demenageur-toulouse.fr/comment-ca-marche`,
+    canonical: `https://devis-demenageur-toulousain.fr/comment-ca-marche`,
   },
   openGraph: {
     title: "Comment ça marche ? Déménagement Toulouse simplifié | Moverz",
     description: "Processus simple et transparent : photos + IA + devis personnalisés. Déménagez sereinement à Toulouse.",
-    url: `https://www.devis-demenageur-toulouse.fr/comment-ca-marche`,
+    url: `https://devis-demenageur-toulousain.fr/comment-ca-marche`,
     type: 'website',
   },
 }

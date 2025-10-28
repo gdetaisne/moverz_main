@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   },
   description:
     "30 minutes pour votre dossier → 5 devis personnalisés sous 7 jours. Estimation volumétrique à partir de photos, tarifs clairs, conseils locaux.",
-  metadataBase: new URL("https://devis-demenageur-toulouse.fr"),
+  metadataBase: new URL("https://devis-demenageur-toulousain.fr"),
   robots: {
     index: true,
     follow: true,
@@ -30,13 +30,13 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'fr_FR',
-    url: 'https://devis-demenageur-toulouse.fr',
+    url: 'https://devis-demenageur-toulousain.fr',
     siteName: 'Déménageurs Toulouse (IA)',
     title: 'Déménageurs Toulouse (IA) - 5 devis sous 7 jours',
     description: '30 minutes pour votre dossier → 5 devis personnalisés sous 7 jours. Estimation volumétrique à partir de photos, tarifs clairs, conseils locaux.',
     images: [
       {
-        url: 'https://devis-demenageur-toulouse.fr/og-image.jpg',
+        url: 'https://devis-demenageur-toulousain.fr/og-image.jpg',
         width: 1200,
         height: 630,
         alt: 'Déménageurs Toulouse (IA) - Devis IA',
@@ -47,10 +47,10 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Déménageurs Toulouse (IA) - 5 devis sous 7 jours',
     description: '30 minutes pour votre dossier → 5 devis personnalisés sous 7 jours. Estimation volumétrique à partir de photos, tarifs clairs, conseils locaux.',
-    images: ['https://devis-demenageur-toulouse.fr/og-image.jpg'],
+    images: ['https://devis-demenageur-toulousain.fr/og-image.jpg'],
   },
   alternates: {
-    canonical: 'https://devis-demenageur-toulouse.fr',
+    canonical: 'https://devis-demenageur-toulousain.fr',
   },
   icons: {
     icon: '/favicon.ico',

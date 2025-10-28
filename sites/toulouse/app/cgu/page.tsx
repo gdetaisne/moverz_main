@@ -3,7 +3,7 @@ import type { Metadata } from 'next';
 export const metadata: Metadata = {
   title: "Conditions Générales d’Utilisation | Moverz ",
   description: "CGU du service: périmètre, responsabilités, données et sécurité.",
-  alternates: { canonical: "https://devis-demenageur-toulouse.fr/cgu" },
+  alternates: { canonical: "https://devis-demenageur-toulousain.fr/cgu" },
 };
 
 export default function Page() {

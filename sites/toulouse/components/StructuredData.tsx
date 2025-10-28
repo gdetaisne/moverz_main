@@ -4,7 +4,7 @@ export default function StructuredData() {
     "@type": "LocalBusiness",
     "name": "Déménageurs Toulouse (IA)",
     "description": "30 minutes pour votre dossier → 5 devis personnalisés sous 7 jours. Estimation volumétrique à partir de photos, tarifs clairs, conseils locaux.",
-    "url": "https://www.devis-demenageur-toulouse.fr",
+    "url": "https://devis-demenageur-toulousain.fr",
     "telephone": "+33-XXX-XXX-XXX",
     "address": {
       "@type": "PostalAddress",

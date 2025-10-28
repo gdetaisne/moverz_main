@@ -3,7 +3,7 @@ import type { Metadata } from 'next';
 export const metadata: Metadata = {
   title: "Conditions Générales de Vente | Moverz ",
   description: "CGV B2B: objet, processus, acompte mandataire, responsabilités, pénalités de retard.",
-  alternates: { canonical: "https://devis-demenageur-toulouse.fr/cgv" },
+  alternates: { canonical: "https://devis-demenageur-toulousain.fr/cgv" },
 };
 
 export default function Page() {

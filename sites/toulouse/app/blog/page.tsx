@@ -7,12 +7,12 @@ export const metadata: Metadata = {
   title: "Blog Déménagement Toulouse - Guides & Conseils Experts | Moverz",
   description: "Guides complets et conseils d'experts pour réussir votre déménagement à Toulouse. Astuces budget, checklist, comparatifs, conseils pratiques. Articles rédigés par des professionnels.",
   alternates: {
-    canonical: `https://www.devis-demenageur-toulouse.fr/blog`,
+    canonical: `https://devis-demenageur-toulousain.fr/blog`,
   },
   openGraph: {
     title: "Blog Déménagement Toulouse - Tous nos guides pratiques",
     description: "Conseils d'experts, guides détaillés et astuces pour déménager sereinement à Toulouse.",
-    url: `https://www.devis-demenageur-toulouse.fr/blog`,
+    url: `https://devis-demenageur-toulousain.fr/blog`,
     type: 'website',
   },
 }

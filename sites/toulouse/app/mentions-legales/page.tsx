@@ -3,7 +3,7 @@ import type { Metadata } from 'next';
 export const metadata: Metadata = {
   title: "Mentions légales | Moverz ",
   description: "Mentions légales du site (éditeur, hébergeur, responsabilités, propriété intellectuelle).",
-  alternates: { canonical: "https://devis-demenageur-toulouse.fr/mentions-legales" },
+  alternates: { canonical: "https://devis-demenageur-toulousain.fr/mentions-legales" },
 };
 
 export default function Page() {

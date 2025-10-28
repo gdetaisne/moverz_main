@@ -3,7 +3,7 @@ import type { Metadata } from 'next';
 export const metadata: Metadata = {
   title: "Politique de confidentialité | Moverz ",
   description: "Politique RGPD: données collectées, finalités, durées (60 jours), droits.",
-  alternates: { canonical: "https://devis-demenageur-toulouse.fr/politique-confidentialite" },
+  alternates: { canonical: "https://devis-demenageur-toulousain.fr/politique-confidentialite" },
 };
 
 export default function Page() {
