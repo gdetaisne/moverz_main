@@ -10,7 +10,7 @@ export default function Testimonials() {
     },
     {
       name: "Thomas B.", 
-      location: "Saint‑Cyprien",
+      location: "Saint-Cyprien",
       text: "L'IA a bien évalué le volume. Prix correct, service impeccable.",
       avatar: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=256&h=256&fit=crop&q=80"
     },
