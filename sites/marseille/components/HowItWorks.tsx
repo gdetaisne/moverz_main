@@ -27,14 +27,14 @@ export default function HowItWorks() {
 
   return (
     <div>
-      <h2 className="text-2xl md:text-3xl font-semibold text-white text-center mb-12">
+      <h2 className="text-2xl md:text-3xl font-semibold text-white text-center mb-6 md:mb-10">
         Comment ça marche
       </h2>
-      <div className="grid md:grid-cols-3 gap-8">
+      <div className="grid md:grid-cols-3 gap-6 md:gap-8">
         {steps.map((step, i) => (
           <div key={i} className="text-center">
             {/* Image 4:3 */}
-            <div className="relative w-full aspect-[4/3] rounded-xl overflow-hidden mb-4 bg-white/5">
+            <div className="relative w-full aspect-[4/3] rounded-xl overflow-hidden mb-4 bg-white/10 ring-1 ring-white/10">
               <Image 
                 src={step.image}
                 alt={step.alt}
@@ -44,24 +44,19 @@ export default function HowItWorks() {
                 quality={85}
               />
               {/* Overlay with number */}
-              <div className="absolute inset-0 bg-gradient-to-t from-[#04163a]/80 to-transparent"></div>
-              <div className="absolute top-4 left-4 flex h-12 w-12 items-center justify-center rounded-full bg-[#6bcfcf] text-[#04163a] text-lg font-bold">
+              <div className="absolute inset-0 bg-gradient-to-t from-[#04163a]/40 to-transparent"></div>
+              <div className="absolute top-3 left-3 flex h-9 w-9 items-center justify-center rounded-full bg-[#6bcfcf] text-[#04163a] text-sm font-bold ring-1 ring-white/40">
                 {step.number}
               </div>
             </div>
-            <h3 className="text-xl font-semibold text-white mb-3">{step.title}</h3>
-            <p className="text-white/80">{step.description}</p>
+            <h3 className="text-lg md:text-xl font-semibold text-white mb-2">{step.title}</h3>
+            <p className="text-white/80 text-sm md:text-base">{step.description}</p>
           </div>
         ))}
       </div>
-      
-      <div className="text-center mt-12">
-        <a
-          href="/inventaire-ia/"
-          className="inline-flex h-12 items-center justify-center rounded-2xl bg-[#6bcfcf] px-8 text-lg font-semibold text-[#04163a] shadow-lg hover:bg-[#6bcfcf]/90 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#6bcfcf]/50 transition duration-300"
-        >
-          Obtenez vos devis précis gratuitement
-        </a>
+      <div className="text-center mt-10 md:mt-12 flex flex-col items-center justify-center gap-3 sm:flex-row">
+        <a href="/inventaire-ia/" className="btn-primary" aria-label="Obtenez vos devis précis gratuitement">Obtenez vos devis précis gratuitement</a>
+        <a href="/comment-ca-marche/" className="btn-secondary">Comment ça marche</a>
       </div>
     </div>
   );
