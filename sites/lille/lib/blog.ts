@@ -92,9 +92,9 @@ function cleanSlug(originalSlug: string, category: string): string {
 }
 
 export function getAllBlogPosts(): BlogPost[] {
-  const localDir = path.join(process.cwd(), 'content/blog');
-  const fallbackDir = path.join(process.cwd(), 'sites/lille/content/blog');
-  const blogDirectory = fs.existsSync(localDir) ? localDir : fallbackDir;
+  const monorepoDir = path.join(process.cwd(), 'sites/lille/content/blog');
+  const standaloneDir = path.join(process.cwd(), 'content/blog');
+  const blogDirectory = fs.existsSync(monorepoDir) ? monorepoDir : standaloneDir;
   const categories = fs.readdirSync(blogDirectory, { withFileTypes: true })
     .filter(dirent => dirent.isDirectory())
     .map(dirent => dirent.name);
