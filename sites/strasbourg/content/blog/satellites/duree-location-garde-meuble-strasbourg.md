@@ -26,7 +26,7 @@ Tous les acteurs strasbourgeois (Homebox, Locakase, Stock Avenue) acceptent **du
 
 ### Étudiants : 3-4 Mois (Été)
 
-Les **68 000 étudiants strasbourgeois** louent majoritairement **3-4 mois** (mi-juin à mi-septembre). Coût : 150-360€ total selon taille (1-5m²). Économie vs loyer vide : 1 400-1 700€. [Guide complet étudiants Strasbourg](/blog/demenagement-strasbourg/garde-meuble-etudiant-strasbourg).
+Les **68 000 étudiants strasbourgeois** louent majoritairement **3-4 mois** (mi-juin à mi-septembre). Coût : 150-360€ total selon taille (1-5m²). Économie vs loyer vide : 1 400-1 700€. [Guide complet étudiants Strasbourg](/blog/satellites/garde-meuble-etudiant-strasbourg).
 
 **Astuce :** Réserver juin pour garantir disponibilité rentrée (pics août-septembre).
 
@@ -85,5 +85,5 @@ Engagements **6-12+ mois** permettent remises substantielles :
 
 **Facturation prorata ?** Rare. Généralement mensuel complet (1er-30/31 du mois). Certains acceptent arrangement si <15 jours.
 
-Comparez [tous critères choix Strasbourg](/blog/demenagement-strasbourg/garde-meuble-strasbourg) pour décision éclairée.
+Comparez [tous critères choix Strasbourg](/blog/garde-meuble-strasbourg/garde-meuble-strasbourg-guide-complet) pour décision éclairée.
 

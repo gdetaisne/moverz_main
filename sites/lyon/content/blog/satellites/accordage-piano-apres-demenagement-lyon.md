@@ -21,7 +21,7 @@ L'accordage d'un piano après déménagement à Lyon est obligatoire sous 48-72h
 
 Les pianistes lyonnais (170 000 étudiants Lyon incluant conservatoire 1500 élèves, écoles musique arrondissements, particuliers 3000-5000 pianos estimés Lyon métropole) connaissent cette nécessité : un piano désaccordé post-déménagement (non accordé sous 1 semaine) risque aggravation désaccordage (cordes tension inadaptée fatiguent mécanique marteaux, table harmonie subit pressions irrégulières = fissures potentielles long terme 2000-5000€ réparation), développement fausses notes (marteaux désalignés, étouffoirs déréglés), et dépréciation instrument (piano vendu désaccordé = -20-30% valeur, acheteur assume accordage + réparations éventuelles).
 
-Ce guide explique pourquoi vibrations transport désaccordent piano (mécanique sensible, cordes tension modifiée), détaille délai optimal accordage (48-72h stabilisation température, pas immédiat ni >1 semaine), présente accordeurs Lyon fiables (annuaires, conservatoire, magasins pianos), révèle tarifs 2025 (80-150€, variations selon marque piano/expérience accordeur), et conseille fréquence entretien post-déménagement. Pour transport, consultez [étapes piano Lyon](/blog/demenagement-piano-lyon/etapes-transport-piano-lyon).
+Ce guide explique pourquoi vibrations transport désaccordent piano (mécanique sensible, cordes tension modifiée), détaille délai optimal accordage (48-72h stabilisation température, pas immédiat ni >1 semaine), présente accordeurs Lyon fiables (annuaires, conservatoire, magasins pianos), révèle tarifs 2025 (80-150€, variations selon marque piano/expérience accordeur), et conseille fréquence entretien post-déménagement. Pour transport, consultez [étapes piano Lyon](/blog/satellites/etapes-transport-piano-lyon).
 
 ## Pourquoi le Piano se Désaccorde au Transport
 
@@ -81,7 +81,7 @@ L'accordage piano après déménagement Lyon est obligatoire sous 48-72h (délai
 
 Attendre >1 semaine aggrave désaccordage (fatigue mécanique, fausses notes), nécessitant parfois réglage complet (+50-100€ supplément). Un 2ème accordage 3 mois après déménagement stabilise définitivement instrument (adaptation totale température/hygrométrie). Prévoir budget accordage (80-150€) lors budgétisation déménagement piano (total = transport 250-2500€ + accordage 80-150€).
 
-Consultez [prix piano Lyon](/blog/demenagement-piano-lyon/prix-demenagement-piano-droit-lyon), [étapes transport](/blog/demenagement-piano-lyon/etapes-transport-piano-lyon), [guide complet](/blog/demenagement-piano-lyon/demenagement-piano-lyon-guide-complet). Bon accordage !
+Consultez [prix piano Lyon](/blog/demenagement-piano-lyon/prix-demenagement-piano-droit-lyon), [étapes transport](/blog/satellites/etapes-transport-piano-lyon), [guide complet](/blog/demenagement-piano-lyon/demenagement-piano-lyon-guide-complet). Bon accordage !
 
 ---
 

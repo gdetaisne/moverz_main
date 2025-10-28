@@ -14,7 +14,7 @@ featured: false
 ---
 
 
-# Éviter les erreurs lors d'un [déménagement international](/blog/international/guide) depuis Bordeaux
+# Éviter les erreurs lors d'un [déménagement international](/blog/demenagement-entreprise-bordeaux/demenagement-entreprise-bordeaux-guide) depuis Bordeaux
 
 Les déménagements internationaux depuis Bordeaux présentent des pièges spécifiques qui peuvent coûter cher et compromettre la réussite de votre expatriation. Ces erreurs, souvent commises par manque d'information ou d'anticipation, peuvent générer des retards, des frais supplémentaires et des complications administratives. Avec Bordeaux comme point de départ, certaines erreurs sont particulièrement fréquentes et nécessitent une attention particulière. Voici un guide complet pour identifier et éviter ces pièges coûteux.
 
@@ -38,7 +38,7 @@ Les normes internationales, particulièrement la norme ISPM 15 pour les caisses 
 
 ## Les délais irréalistes : compromettre la planification
 
-Les délais irréalistes, souvent sous-estimés par les expatriés, peuvent compromettre la planification du déménagement international. Les [formalités douanières](/blog/international/formalites-douanieres-demenagement-international), particulièrement complexes pour les destinations lointaines, nécessitent souvent plusieurs semaines de traitement. Cette contrainte, souvent négligée, peut retarder le départ et générer des coûts de stockage supplémentaires.
+Les délais irréalistes, souvent sous-estimés par les expatriés, peuvent compromettre la planification du déménagement international. Les [formalités douanières](/blog/demenagement-international-bordeaux/formalites-douanieres-demenagement-international-bordeaux), particulièrement complexes pour les destinations lointaines, nécessitent souvent plusieurs semaines de traitement. Cette contrainte, souvent négligée, peut retarder le départ et générer des coûts de stockage supplémentaires.
 
 Les contraintes portuaires, particulièrement importantes en période de forte demande, peuvent générer des retards de plusieurs semaines. Les ports, confrontés à une congestion importante, peuvent retarder la livraison et compromettre les plans d'installation. Cette contrainte, particulièrement importante pour les déménagements estivaux, nécessite une marge de sécurité importante dans la planification.
 

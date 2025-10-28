@@ -21,7 +21,7 @@ Les délais d'un déménagement international depuis Lyon s'échelonnent de 2 jo
 
 Lyon bénéficiant d'accès routiers excellents (A43 Suisse-Italie, A6 Paris-Nord Europe, A7 Marseille-Espagne), aéroport international (Lyon-Saint-Exupéry 12M passagers, vols quotidiens USA/Canada/Asie/Afrique), et ports maritimes via Marseille-Fos (315 km, 3h30, destinations Maghreb/Méditerranée/Afrique) ou Le Havre (650 km, 6h, Amériques/Asie), les délais Lyon restent compétitifs vs villes enclavées. Un container Lyon-New York (25-35 jours) égale Paris-New York (Paris sans pré-acheminement = 23-30 jours, écart minime 2-5 jours compensé par tarifs parfois inférieurs Lyon moins de demande vs Paris saturé).
 
-Ce guide détaille délais porte-à-porte par destination (Europe, Amériques, Asie, Maghreb, Océanie), décompose étapes incompressibles (chargement, transport, douane, livraison), révèle marges aléas (météo, douane stricte, livraison zone éloignée), et présente planning optimal anticipation (6 mois sérénité, 3 mois minimum). Pour prix détaillés, consultez [tarifs international Lyon 2025](/blog/demenagement-international-lyon/prix-demenagement-international-lyon).
+Ce guide détaille délais porte-à-porte par destination (Europe, Amériques, Asie, Maghreb, Océanie), décompose étapes incompressibles (chargement, transport, douane, livraison), révèle marges aléas (météo, douane stricte, livraison zone éloignée), et présente planning optimal anticipation (6 mois sérénité, 3 mois minimum). Pour prix détaillés, consultez [tarifs international Lyon 2025](/blog/satellites/prix-demenagement-international-lyon).
 
 ## Délais par Mode de Transport
 
@@ -190,7 +190,7 @@ Les délais déménagement international depuis Lyon varient de 2 jours (Lyon-Ge
 
 Les formalités ajoutent 0 jour (UE libre circulation) à 10 jours (dédouanement USA/Asie stricte), imposant anticipation documents 2-3 mois (inventaire bilingue, visas, permis Suisse). Le planning optimal débute 6 mois avant départ (visas 2-6 mois, permis Suisse 2-4 mois, réservation déménageur 2-3 mois haute saison, inventaire 1-2 mois). Urgences <2 mois possibles (surcoût +20-30%, stress), destinations UE tolèrent 2 mois (formalités allégées), Suisse/USA exigent 4-6 mois réalistes.
 
-Ajouter marge +10-20% délais annoncés sécurise contre aléas (météo, douane stricte, livraison zone éloignée). Pour préparer documents, consultez [guide documents international Lyon](/blog/demenagement-international-lyon/documents-demenagement-international-lyon). Explorez aussi [guide complet international](/blog/demenagement-international-lyon/demenagement-international-lyon-guide-complet). Bon planning !
+Ajouter marge +10-20% délais annoncés sécurise contre aléas (météo, douane stricte, livraison zone éloignée). Pour préparer documents, consultez [guide documents international Lyon](/blog/satellites/documents-demenagement-international-lyon). Explorez aussi [guide complet international](/blog/demenagement-international-lyon/demenagement-international-lyon-guide-complet). Bon planning !
 
 ---
 

@@ -114,7 +114,7 @@ Les jobs étudiants porteurs déménagement Nantes (Frizbiz/Yoojo inscriptions 1
 Notre recommandation étudiants Nantes budgets serrés : **Frizbiz inscriptions** (stocks 120-180 porteurs demandes 150-250 postes = places disponibles 80-100% nouveaux acceptés vs saturations Paris 30-40%), tarifs **débutants 22-25€/h** réalistes (vs 28-30€ = refus clients 80% préfèrent expérimentés, baisser après 5-10 avis clients), **weekends uniquement** 4-6 déménagements/mois (revenus 530-900€ vs semaines soirs ajoutés fatigues cours +examens = abandons 40-60%), **formations techniques** obligatoires (dos préservations vs douleurs 40-60% omissions = arrêts définitifs après 2-5 déménagements).
 
 
-Pour aller plus loin, explorez notre [guide aide déménagement à Nantes](/blog/aide-demenagement-nantes/aide-demenagement-nantes-guide) ainsi que nos guides complémentaires : [plateformes d'aide déménagement](/blog/aide-demenagement-nantes/plateformes-aide-demenagement-nantes) et [aide au dernier moment](/blog/aide-demenagement-nantes/trouver-aide-demenagement-dernier-moment-nantes).
+Pour aller plus loin, explorez notre [guide aide déménagement à Nantes](/blog/aide-demenagement-nantes/aide-demenagement-nantes-guide) ainsi que nos guides complémentaires : [plateformes d'aide déménagement](/blog/satellites/plateformes-aide-demenagement-nantes) et [aide au dernier moment](/blog/satellites/trouver-aide-demenagement-dernier-moment-nantes).
 
 ## Questions Fréquentes
 

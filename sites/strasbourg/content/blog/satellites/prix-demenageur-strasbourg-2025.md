@@ -191,5 +191,5 @@ Temps : 2-3h. Si aisance bricolage, rentable (50€/2h = 25€/h).
 
 **Comment économiser ?** Emballer soi-même (-40%), période creuse (-10-20%), comparer 3 devis (-5-15%), trier avant (-10-20%), démonter meubles (-50-100€). Total : 20-30% économies possibles.
 
-[Comparatif formules économique vs clé en main](/blog/demenagement-strasbourg/formule-economique-cle-en-main-strasbourg) détaille coûts précis.
+[Comparatif formules économique vs clé en main](/blog/satellites/formule-economique-cle-en-main-strasbourg) détaille coûts précis.
 

@@ -21,7 +21,7 @@ Aide déménagement entre particuliers Lyon (colocataires, amis, famille) repré
 
 Les limites aide particuliers : physique inadaptée portage (amis sédentaires 30-40 ans risquent blessures canapés/armoires 80-120 kg vs pros musclés 20-35 ans entraînés), absence assurance (casse meubles ami = gêne réclamer 200-500€ dommages vs pros assurance couvre), techniques portage méconnues (escaliers portage 2 non-synchronisés = risque chute vs pros coordonnés), et disponibilité limitée (amis week-ends chargés familles/loisirs, report déménagement 2-4 semaines vs pros disponibles 7j/7). Le compromis hybride mixe particuliers + pro : amis aident emballage cartons veille (3-4h soirée pizza conviviale économise 50-100€ emballage pros), pros gèrent portage/transport jour J (150-250€ sécurité), évitant solliciter amis efforts extrêmes tout économisant 30-50% vs tout-pros.
 
-Ce guide compare aide gratuite vs rémunérée (colocataires/famille 0€ solidarité vs amis éloignés 50-100€ compensation efforts), révèle limites/risques (blessures 25%, casse non-assurée, dettes morales), présente éthique rémunération amis (50-100€ forfait + repas/bières 20-40€ vs 0€ exploitation), conseille alternatives (1 pro 160€ + amis aide légère = 160€ vs 2 pros 400€ économie 240€), et détaille coordination (groupes Facebook "Entraides Lyon" trouver aidants particuliers bénévoles 0€ vs amis proches). Pour pros, consultez [manutentionnaire Lyon](/blog/aide-demenagement-lyon/manutentionnaire-demenagement-lyon).
+Ce guide compare aide gratuite vs rémunérée (colocataires/famille 0€ solidarité vs amis éloignés 50-100€ compensation efforts), révèle limites/risques (blessures 25%, casse non-assurée, dettes morales), présente éthique rémunération amis (50-100€ forfait + repas/bières 20-40€ vs 0€ exploitation), conseille alternatives (1 pro 160€ + amis aide légère = 160€ vs 2 pros 400€ économie 240€), et détaille coordination (groupes Facebook "Entraides Lyon" trouver aidants particuliers bénévoles 0€ vs amis proches). Pour pros, consultez [manutentionnaire Lyon](/blog/satellites/manutentionnaire-demenagement-lyon).
 
 ## Situations Favorables Aide Gratuite
 
@@ -67,7 +67,7 @@ Ce guide compare aide gratuite vs rémunérée (colocataires/famille 0€ solida
 
 ### Demander amis aide déménagement Lyon ?
 
-**Oui acceptable si : colocation solidaire actuelle, famille proche, réciprocité établie (vous avez aidé passé), volumes légers <6m³ chambre, efforts modérés 2-3h. Proposer compensation : 50-100€ forfait + repas 20-40€ = reconnaissance (vs 0€ exploitation). Non si : amis éloignés première demande, T2 >20m³ efforts 6-8h, étages >4ème, amis 40+ sédentaires (risques blessures 25%).** Alternatives : 1 pro 160€ + amis aide légère emballage (compromis 170€ vs 400€ 2 pros), groupes "Entraides Lyon" bénévoles. Limites : casse non-assurée, dettes morales 3-5 services futurs, disponibilités. [Pros →](/blog/aide-demenagement-lyon/manutentionnaire-demenagement-lyon)
+**Oui acceptable si : colocation solidaire actuelle, famille proche, réciprocité établie (vous avez aidé passé), volumes légers <6m³ chambre, efforts modérés 2-3h. Proposer compensation : 50-100€ forfait + repas 20-40€ = reconnaissance (vs 0€ exploitation). Non si : amis éloignés première demande, T2 >20m³ efforts 6-8h, étages >4ème, amis 40+ sédentaires (risques blessures 25%).** Alternatives : 1 pro 160€ + amis aide légère emballage (compromis 170€ vs 400€ 2 pros), groupes "Entraides Lyon" bénévoles. Limites : casse non-assurée, dettes morales 3-5 services futurs, disponibilités. [Pros →](/blog/satellites/manutentionnaire-demenagement-lyon)
 
 ### Rémunérer amis déménagement combien ?
 
@@ -75,7 +75,7 @@ Ce guide compare aide gratuite vs rémunérée (colocataires/famille 0€ solida
 
 ### Aide gratuite ou pros Lyon ?
 
-**Aide gratuite si : colocation/famille solidarité, réciprocité établie, <6m³ chambre, 2-3h légers, 20-30 ans sportifs. Risques : blessures 25%, casse non-assurée, dettes morales, disponibilités. Pros (150-400€) si : >10m³ T2, étages >3ème, pas amis disponibles, 40+ ans, sécurité prioritaire (0,5% incidents, assurance, rapidité).** Compromis : amis emballage veille + pro portage = 170-290€ (économie 30-50% vs tout-pros 300-450€, efforts amis réduits vs tout-amis risques). Rémunération éthique amis : 70-140€ (forfait + repas) reconnaissance vs 0€ exploitation. Consultez [manutentionnaire](/blog/aide-demenagement-lyon/manutentionnaire-demenagement-lyon).
+**Aide gratuite si : colocation/famille solidarité, réciprocité établie, <6m³ chambre, 2-3h légers, 20-30 ans sportifs. Risques : blessures 25%, casse non-assurée, dettes morales, disponibilités. Pros (150-400€) si : >10m³ T2, étages >3ème, pas amis disponibles, 40+ ans, sécurité prioritaire (0,5% incidents, assurance, rapidité).** Compromis : amis emballage veille + pro portage = 170-290€ (économie 30-50% vs tout-pros 300-450€, efforts amis réduits vs tout-amis risques). Rémunération éthique amis : 70-140€ (forfait + repas) reconnaissance vs 0€ exploitation. Consultez [manutentionnaire](/blog/satellites/manutentionnaire-demenagement-lyon).
 
 ---
 
@@ -83,7 +83,7 @@ Ce guide compare aide gratuite vs rémunérée (colocataires/famille 0€ solida
 
 Aide déménagement entre particuliers Lyon (colocataires, amis, famille) gratuite apparence mais coûts cachés : efforts 3-6h (courbatures 48h), risques blessures 25% (vs pros <1%), casse non-assurée, dettes morales 3-5 services futurs (15-25h mobilisées), disponibilités limitées (report 2-4 semaines). Situations favorables : colocation solidaire, famille proche, réciprocité établie, <6m³ chambre 2-3h légers. Limites : physique inadapté 35-45 ans sédentaires, T2 >20m³ efforts extrêmes.
 
-Éthique rémunération : 50-100€ forfait + 20-40€ repas = 70-140€ reconnaissance (vs 0€ exploitation vs 200-400€ 2 pros). Compromis hybride : amis emballage veille + pro portage = 170-290€ (économie 30-50%, efforts réduits). Alternatives : groupes "Entraides Lyon" bénévoles, 1 pro 160€. Consultez [manutentionnaire](/blog/aide-demenagement-lyon/manutentionnaire-demenagement-lyon), [aides](/blog/aide-demenagement-lyon/aide-financiere-demenagement-lyon). Bon déménagement solidaire !
+Éthique rémunération : 50-100€ forfait + 20-40€ repas = 70-140€ reconnaissance (vs 0€ exploitation vs 200-400€ 2 pros). Compromis hybride : amis emballage veille + pro portage = 170-290€ (économie 30-50%, efforts réduits). Alternatives : groupes "Entraides Lyon" bénévoles, 1 pro 160€. Consultez [manutentionnaire](/blog/satellites/manutentionnaire-demenagement-lyon), [aides](/blog/satellites/aide-financiere-demenagement-lyon). Bon déménagement solidaire !
 
 ---
 

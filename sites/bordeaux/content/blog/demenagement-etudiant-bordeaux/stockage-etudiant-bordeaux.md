@@ -14,9 +14,9 @@ featured: false
 ---
 
 
-# Stockage étudiant à Bordeaux : [garde-meuble](/blog/garde-meuble/guide) et alternatives
+# Stockage étudiant à Bordeaux : [garde-meuble](/blog/garde-meuble-bordeaux/garde-meuble-bordeaux-guide) et alternatives
 
-Le stockage temporaire est souvent nécessaire lors d'un [déménagement étudiant](/blog/etudiant/guide) à Bordeaux. Entre deux logements, pendant les vacances d'été, ou pour gérer un déménagement échelonné, plusieurs solutions s'offrent aux étudiants avec des budgets serrés. Voici toutes les options pour stocker vos affaires à Bordeaux sans vous ruiner.
+Le stockage temporaire est souvent nécessaire lors d'un [déménagement étudiant](/blog/demenagement-entreprise-bordeaux/demenagement-entreprise-bordeaux-guide) à Bordeaux. Entre deux logements, pendant les vacances d'été, ou pour gérer un déménagement échelonné, plusieurs solutions s'offrent aux étudiants avec des budgets serrés. Voici toutes les options pour stocker vos affaires à Bordeaux sans vous ruiner.
 
 ## Garde-meubles traditionnels : les solutions classiques
 
@@ -203,4 +203,4 @@ Nous proposons des solutions de stockage temporaire et des partenariats avec des
 
 ---
 
-*Cet article complète notre [guide complet du déménagement étudiant à Bordeaux](/blog/etudiant/guide). Découvrez également nos conseils pour un [déménagement pas cher](/blog/etudiant/demenagement-etudiant-pas-cher) et notre [checklist détaillée](/blog/etudiant/checklist-demenagement-etudiant) pour ne rien oublier.*
+*Cet article complète notre [guide complet du déménagement étudiant à Bordeaux](/blog/demenagement-entreprise-bordeaux/demenagement-entreprise-bordeaux-guide). Découvrez également nos conseils pour un [déménagement pas cher](/blog/demenagement-etudiant-bordeaux/demenagement-etudiant-pas-cher) et notre [checklist détaillée](/blog/demenagement-etudiant-bordeaux/checklist-demenagement-etudiant) pour ne rien oublier.*

@@ -98,7 +98,7 @@ Les optimisations (box justes 10m² vs sur-dimensionnés 15m² = économie 90€
 Notre recommandation Nantes courte durée : **10m² Homebox** studios/T1 partiels (150-180€/mois compétitif vs Annexx 140€ proximité Carquefou préférée = +10€ mais sécurité réputation), **triages 50% mobilier** avant stockage (ventes Leboncoin canapé 200€ + fauteuil 100€ = 300€ récupérés réduisent besoins 15m² → 10m² économie 60€/mois × 3 = 180€ + ventes 300€ = total 480€), **résiliations flexibles** (sans engagements 3-6 mois vs paiements mensuels = sorties anticipées si travaux terminent avant économisent 1-2 mois 150-300€).
 
 
-Pour aller plus loin, explorez notre [guide complet du garde-meuble à Nantes](/blog/garde-meuble-nantes/garde-meuble-nantes-guide-complet) ainsi que nos guides complémentaires : [prix garde-meuble Nantes 2025](/blog/garde-meuble-nantes/prix-garde-meuble-nantes-2025) et [garde-meuble pas cher à Nantes](/blog/garde-meuble-nantes/garde-meuble-pas-cher-nantes).
+Pour aller plus loin, explorez notre [guide complet du garde-meuble à Nantes](/blog/garde-meuble-nantes/garde-meuble-nantes-guide-complet) ainsi que nos guides complémentaires : [prix garde-meuble Nantes 2025](/blog/garde-meuble-nantes/prix-garde-meuble-nantes-2025) et [garde-meuble pas cher à Nantes](/blog/satellites/garde-meuble-pas-cher-nantes).
 
 ## Questions Fréquentes
 

@@ -169,7 +169,7 @@ Réduire volume économise directement : tri 25% affaires (T2 40m³ → 30m³) =
 
 Volume détermine 60-70% du prix : maîtriser calcul permet anticiper budget réaliste (T2 estimé 38m³ × 28€ = 1 064€ proche devis réels 1 000-1 150€ vs estimation vague "T2 = 800-1 200€" inutile). Formule universelle France mais coefficients Lille légèrement supérieurs grandes villes (accumulation urbaine) vs zones rurales (mobiliers réduits).
 
-Consultez notre [guide prix Lille](/blog/prix-demenagement-lille/prix-demenagement-lille-guide), notre [article facteurs prix](/blog/prix-demenagement-lille/facteurs-prix-demenagement-lille) positionnant volume comme critère #1 et notre [guide économies](/blog/prix-demenagement-lille/economiser-prix-demenagement-lille-astuces) incluant réduction volume.
+Consultez notre [guide prix Lille](/blog/prix-demenagement-lille/prix-demenagement-lille-guide), notre [article facteurs prix](/blog/satellites/facteurs-prix-demenagement-lille) positionnant volume comme critère #1 et notre [guide économies](/blog/prix-demenagement-lille/economiser-prix-demenagement-lille-astuces) incluant réduction volume.
 
 
 

@@ -14,7 +14,7 @@ featured: false
 ---
 
 
-# Emballer ses biens pour un [déménagement international](/blog/international/guide)
+# Emballer ses biens pour un [déménagement international](/blog/demenagement-entreprise-bordeaux/demenagement-entreprise-bordeaux-guide)
 
 L'emballage constitue l'élément le plus critique pour la sécurité des biens lors d'un déménagement international depuis Bordeaux. Cette étape, souvent négligée par souci d'économie, peut compromettre l'arrivée de vos biens en bon état. Avec des trajets de plusieurs semaines et des manipulations multiples, les contraintes d'emballage sont particulièrement exigeantes et nécessitent des matériaux et des techniques adaptés. Voici un guide complet pour emballer efficacement vos biens selon les standards internationaux.
 
@@ -52,7 +52,7 @@ Les objets de forme irrégulière, comme les vases ou les sculptures, nécessite
 
 L'étiquetage des colis, essentiel pour l'organisation du transport, doit être clair et lisible. Chaque colis doit porter le nom du destinataire, l'adresse de livraison et un numéro de référence. Cette organisation, particulièrement importante pour les déménagements complexes, facilite le suivi et la livraison.
 
-L'inventaire détaillé, obligatoire pour les [formalités douanières](/blog/international/formalites-douanieres-demenagement-international), doit mentionner chaque objet avec sa description précise et sa valeur. Cette liste, établie en français et dans la langue du pays de destination, doit être accompagnée de photographies. Cette documentation, souvent négligée, peut s'avérer cruciale pour le passage en douane.
+L'inventaire détaillé, obligatoire pour les [formalités douanières](/blog/demenagement-international-bordeaux/formalites-douanieres-demenagement-international-bordeaux), doit mentionner chaque objet avec sa description précise et sa valeur. Cette liste, établie en français et dans la langue du pays de destination, doit être accompagnée de photographies. Cette documentation, souvent négligée, peut s'avérer cruciale pour le passage en douane.
 
 ## Les contraintes par mode de transport : adapter l'emballage
 

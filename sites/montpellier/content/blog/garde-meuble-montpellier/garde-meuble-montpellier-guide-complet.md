@@ -23,21 +23,21 @@ Pour tout savoir sur le stockage à Montpellier, consultez nos guides spécialis
 
 **Prix et Tarifs :**
 - [Prix garde-meuble Montpellier 2025](/blog/garde-meuble-montpellier/prix-garde-meuble-montpellier-2025) - Tarifs détaillés par taille et quartier
-- [Garde-meuble étudiant pas cher Montpellier](/blog/garde-meuble-montpellier/garde-meuble-etudiant-pas-cher-montpellier) - Solutions économiques étudiants
+- [Garde-meuble étudiant pas cher Montpellier](/blog/satellites/garde-meuble-etudiant-pas-cher-montpellier) - Solutions économiques étudiants
 
 **Types et Choix :**
-- [Self-stockage vs garde-meuble traditionnel Montpellier](/blog/garde-meuble-montpellier/self-stockage-vs-garde-meuble-montpellier) - Comparatif complet formules
-- [Quelle taille de box choisir Montpellier](/blog/garde-meuble-montpellier/quelle-taille-box-garde-meuble-montpellier) - Calculer vos besoins
-- [Durée minimum location box Montpellier](/blog/garde-meuble-montpellier/duree-minimum-location-box-montpellier) - Contrats flexibles
+- [Self-stockage vs garde-meuble traditionnel Montpellier](/blog/satellites/self-stockage-vs-garde-meuble-montpellier) - Comparatif complet formules
+- [Quelle taille de box choisir Montpellier](/blog/satellites/quelle-taille-box-garde-meuble-montpellier) - Calculer vos besoins
+- [Durée minimum location box Montpellier](/blog/satellites/duree-minimum-location-box-montpellier) - Contrats flexibles
 
 **Localisation et Services :**
-- [Garde-meuble par quartier Montpellier](/blog/garde-meuble-montpellier/garde-meuble-par-quartier-montpellier) - Écusson, Antigone, Odysseum
-- [Accès 24/7 self-stockage Montpellier](/blog/garde-meuble-montpellier/acces-24-7-self-stockage-montpellier) - Accès libre jour et nuit
+- [Garde-meuble par quartier Montpellier](/blog/satellites/garde-meuble-par-quartier-montpellier) - Écusson, Antigone, Odysseum
+- [Accès 24/7 self-stockage Montpellier](/blog/satellites/acces-24-7-self-stockage-montpellier) - Accès libre jour et nuit
 
 **Conditions Spéciales :**
-- [Box température contrôlée Montpellier](/blog/garde-meuble-montpellier/box-temperature-controlee-montpellier) - Objets sensibles, œuvres d'art
-- [Assurance garde-meuble obligatoire ?](/blog/garde-meuble-montpellier/assurance-garde-meuble-obligatoire) - Garanties, franchises
-- [Stockage pendant déménagement Montpellier](/blog/garde-meuble-montpellier/stockage-pendant-demenagement-montpellier) - Transition 1-6 mois
+- [Box température contrôlée Montpellier](/blog/satellites/box-temperature-controlee-montpellier) - Objets sensibles, œuvres d'art
+- [Assurance garde-meuble obligatoire ?](/blog/satellites/assurance-garde-meuble-obligatoire) - Garanties, franchises
+- [Stockage pendant déménagement Montpellier](/blog/satellites/stockage-pendant-demenagement-montpellier) - Transition 1-6 mois
 
 ## Pourquoi opter pour un garde-meuble à Montpellier ?
 

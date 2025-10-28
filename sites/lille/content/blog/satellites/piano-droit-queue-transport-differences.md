@@ -177,7 +177,7 @@ Démontage pieds queue procédure : 1) Soulèvement corps piano vérins hydrauli
 
 Portage queue coordination : 6 porteurs disposés 3+3 (clavier + queue), chef central commande "1-2-3-levez" synchronisation parfaite (désynchronisation 0,5 sec = déséquilibre 400 kg oscillation dangereuse), progression lente (1 pas/seconde, vs droit 2 pas/sec), tournants (rotation coordonnée 180° couloirs, longueur 200 cm vs largeur 120 cm = précision centimétrique), escaliers (si ascenseur assez large 150×120 cm rare, inclinaison 6 porteurs coordination extrême vs droit 4 gérable).
 
-Consultez notre [guide déménagement piano Lille](/blog/demenagement-piano-lille/demenagement-piano-lille-prix), notre [guide monte-piano](/blog/demenagement-piano-lille/monte-piano-specialiste-lille), notre [guide spécialistes](/blog/demenagement-piano-lille/specialistes-piano-lille) et notre [guide assurance](/blog/demenagement-piano-lille/assurance-piano-demenagement-lille).
+Consultez notre [guide déménagement piano Lille](/blog/demenagement-piano-lille/demenagement-piano-lille-prix), notre [guide monte-piano](/blog/satellites/monte-piano-specialiste-lille), notre [guide spécialistes](/blog/satellites/specialistes-piano-lille) et notre [guide assurance](/blog/satellites/assurance-piano-demenagement-lille).
 
 
 

@@ -184,7 +184,7 @@ Pénalités retard : carte grise >1 mois = 135€ amende (>3 mois 750€), CAF >
 
 Astuces simplification : **changements en ligne prioritaires** (impôts/CAF/CPAM/ANTS instantanés vs courriers 10j + risque perte postale), **liste check 15 organismes** (Excel/papier cochée progressivement évite oublis), **La Poste 60€** (compense oublis mineurs, réexpédie 12 mois transition longue), **regroupement dates** (notifiez CAF + CPAM + impôts même jour J+2 efficacité vs étalé 2 sem risque oubli).
 
-Consultez notre [guide déménagement Lille](/blog/demenageur-lille/demenageur-lille-expert), notre [guide aide déménagement](/blog/aide-demenagement-lille/aide-demenagement-particuliers-lille), notre [guide déménagement pas cher](/blog/demenagement-pas-cher-lille/demenagement-pas-cher-lille-guide) et notre [article aides financières](/blog/demenagement-pas-cher-lille/aides-financieres-demenagement-lille).
+Consultez notre [guide déménagement Lille](/blog/demenageur-lille/demenageur-lille-expert), notre [guide aide déménagement](/blog/satellites/aide-demenagement-particuliers-lille), notre [guide déménagement pas cher](/blog/demenagement-pas-cher-lille/demenagement-pas-cher-lille-guide) et notre [article aides financières](/blog/satellites/aides-financieres-demenagement-lille).
 
 
 

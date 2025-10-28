@@ -120,7 +120,7 @@ Les organisations (réservations porteurs 3-7j avant avis >4,5/5 + >25 minimum f
 Notre recommandation Nantes : **Frizbiz 2 porteurs 3-4h** aide ponctuelle studios-T1 budgets <450€ (économie 150-300€ vs complets 550-750€, coordinations 3-5h acceptables jeunes 20-32 ans vs >35 ans valorisent temps >20€/h préfèrent complets), porteurs **>4,5/5 + >25 avis** (fiabilités 90-95% vs débutants risques retards 15-25%), **intra-Nantes <10 km** (trajets 15-25 min. vs périphéries >20 km = +30-60€ temps porteurs), **déménageurs Move Express** si objets précieux pianos >8k€ (assurances 10M€ vs Frizbiz 2M€ insuffisantes).
 
 
-Pour aller plus loin, explorez notre [guide aide déménagement à Nantes](/blog/aide-demenagement-nantes/aide-demenagement-nantes-guide) ainsi que nos guides complémentaires : [plateformes d'aide déménagement](/blog/aide-demenagement-nantes/plateformes-aide-demenagement-nantes) et [étudiants déménageurs](/blog/aide-demenagement-nantes/etudiants-aide-demenagement-nantes).
+Pour aller plus loin, explorez notre [guide aide déménagement à Nantes](/blog/aide-demenagement-nantes/aide-demenagement-nantes-guide) ainsi que nos guides complémentaires : [plateformes d'aide déménagement](/blog/satellites/plateformes-aide-demenagement-nantes) et [étudiants déménageurs](/blog/satellites/etudiants-aide-demenagement-nantes).
 
 ## Questions Fréquentes
 

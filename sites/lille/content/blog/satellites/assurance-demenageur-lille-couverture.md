@@ -236,7 +236,7 @@ Procédure sinistre : constat contradictoire jour J (signaler casse immédiateme
 
 Vérifiez franchise dans devis (150-500€) : si dommage <franchise, 0 indemnisation (sinistre trop faible). Objets très haute valeur (piano 12 000€, mobilier luxe 50 000€) : assurance complémentaire "tous risques" via courtier (50-200€ déménagement, couvre 100% valeur déclarée sans franchise déménageur).
 
-Consultez notre [guide expert déménageurs Lille](/blog/demenageur-lille/demenageur-lille-expert), notre [guide choix déménageur](/blog/demenageur-lille/choisir-demenageur-lille-10-criteres) incluant vérification assurance comme critère #1, et notre [comparatif formules](/blog/demenageur-lille/formule-economique-cle-en-main-lille) pour comprendre qui assume responsabilité emballage selon formule.
+Consultez notre [guide expert déménageurs Lille](/blog/demenageur-lille/demenageur-lille-expert), notre [guide choix déménageur](/blog/demenageur-lille/choisir-demenageur-lille-10-criteres) incluant vérification assurance comme critère #1, et notre [comparatif formules](/blog/satellites/formule-economique-cle-en-main-lille) pour comprendre qui assume responsabilité emballage selon formule.
 
 
 

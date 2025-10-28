@@ -110,7 +110,7 @@ Les plateformes aide déménagement Nantes (Frizbiz 120-180 porteurs 28-32€/h,
 Notre recommandation Nantes : **Frizbiz optimal** aide ponctuelle (stocks 120-180 porteurs disponibilités 70-85%, tarifs 28-32€/h compétitifs, avis 4,3-4,7/5 fiabilités, assurances 2M€ correctes mobiliers standards <5000€ totaux vs Yoojo +15% tarifs = surcoûts 30-60€ unjustifiés, Leboncoin -10% économies 20-40€ mais avis moindres risques 30-40%), porteurs **>4,5/5 + >25 avis** (fiabilités 90-95% vs débutants <4,2 ou <15 avis = risques retards/abandons 15-25%), prestations **4-6h chargements/déchargements** (vs <3h = minimums porteurs refusent non-rentables, >8h = fatigues qualités -20-30% heures finales).
 
 
-Pour aller plus loin, explorez notre [guide aide déménagement à Nantes](/blog/aide-demenagement-nantes/aide-demenagement-nantes-guide) ainsi que nos guides complémentaires : [étudiants déménageurs](/blog/aide-demenagement-nantes/etudiants-aide-demenagement-nantes) et [aide au dernier moment](/blog/aide-demenagement-nantes/trouver-aide-demenagement-dernier-moment-nantes).
+Pour aller plus loin, explorez notre [guide aide déménagement à Nantes](/blog/aide-demenagement-nantes/aide-demenagement-nantes-guide) ainsi que nos guides complémentaires : [étudiants déménageurs](/blog/satellites/etudiants-aide-demenagement-nantes) et [aide au dernier moment](/blog/satellites/trouver-aide-demenagement-dernier-moment-nantes).
 
 ## Questions Fréquentes
 

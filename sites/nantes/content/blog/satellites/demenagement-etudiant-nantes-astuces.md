@@ -212,7 +212,7 @@ Les 10 astuces économies (groupages colocations -30% = -100-150€, DIY emballa
 Notre recommandation finale étudiants Nantes : Profil **économique aidé 300-500€** optimal rapport efforts/économies (déménageur petit acteur 380-480€ évite fatigues DIY 12h + risques accidents 3-5% franchises 300€, parents contribuent 200€ partage vs autonomie totale impossible budgets 600-1200€/mois, cartons fournis + emballage vaisselle inclus = confort basique acceptable), timing **juin départ** (-20% = économie 130€ + loyer -325€ si départ 15 juin vs 31 août = total -455€), quartiers **Île Nantes Beaulieu** (loyers 420-600€ studios compétitifs + déménagements optimaux ascenseurs 0€ surcoûts vs Centre +80-180€), et aides **CAF 1000€** si éligibles <25 ans quotients <750€ (8-12% étudiants, dossiers 3-6 mois avant).
 
 
-Pour aller plus loin, explorez notre [guide déménagement pas cher à Nantes](/blog/demenagement-pas-cher-nantes/demenagement-pas-cher-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement pas cher 2025](/blog/demenagement-pas-cher-nantes/prix-demenagement-pas-cher-nantes-2025) et [astuces pour réduire les coûts](/blog/demenagement-pas-cher-nantes/astuces-reduire-cout-demenagement-nantes).
+Pour aller plus loin, explorez notre [guide déménagement pas cher à Nantes](/blog/demenagement-pas-cher-nantes/demenagement-pas-cher-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement pas cher 2025](/blog/demenagement-pas-cher-nantes/prix-demenagement-pas-cher-nantes-2025) et [astuces pour réduire les coûts](/blog/satellites/astuces-reduire-cout-demenagement-nantes).
 
 ## Questions Fréquentes
 

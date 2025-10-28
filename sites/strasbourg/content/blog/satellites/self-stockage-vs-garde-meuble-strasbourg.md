@@ -93,7 +93,7 @@ Si expatriation 2 ans, **zéro accès nécessaire** = garde-meuble trad économi
 
 ### Étudiants Strasbourg → Self-Stockage
 
-**68 000 étudiants** = self 95% cas. Budget serré (40-90€/mois box 1-5m²), accès fréquent (changer vêtements saison), horaires décalés (24/7 pratique). [Guide étudiant complet](/blog/demenagement-strasbourg/garde-meuble-etudiant-strasbourg).
+**68 000 étudiants** = self 95% cas. Budget serré (40-90€/mois box 1-5m²), accès fréquent (changer vêtements saison), horaires décalés (24/7 pratique). [Guide étudiant complet](/blog/satellites/garde-meuble-etudiant-strasbourg).
 
 **Acteur recommandé :** Homebox Neudorf (tram B campus Esplanade 15 min, 24/7) ou Locakase (sans engagement).
 
@@ -137,5 +137,5 @@ Artisan, commerçant e-commerce strasbourgeois, besoin **accès quotidien/hebdom
 
 **Changement self → trad ?** Non réversible (prestataires différents). Choisir initialement selon besoin accès.
 
-[Guide complet choix Strasbourg](/blog/demenagement-strasbourg/garde-meuble-strasbourg) détaille tous critères (prix, sécurité, localisation).
+[Guide complet choix Strasbourg](/blog/garde-meuble-strasbourg/garde-meuble-strasbourg-guide-complet) détaille tous critères (prix, sécurité, localisation).
 

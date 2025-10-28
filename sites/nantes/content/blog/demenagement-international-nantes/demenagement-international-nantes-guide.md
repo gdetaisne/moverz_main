@@ -27,17 +27,17 @@ Tous nos guides pour déménager à l'étranger depuis Nantes :
 - [Déménagement vers l'Asie](/blog/demenagement-international-nantes/demenagement-nantes-asie) : Chine, Japon, Singapour
 
 ### Aspects Financiers
-- [Prix déménagement international](/blog/demenagement-international-nantes/prix-demenagement-international-nantes) : Tarifs 2025
-- [Assurance internationale](/blog/demenagement-international-nantes/assurance-demenagement-international-nantes) : Protection optimale
+- [Prix déménagement international](/blog/satellites/prix-demenagement-international-nantes) : Tarifs 2025
+- [Assurance internationale](/blog/satellites/assurance-demenagement-international-nantes) : Protection optimale
 
 ### Formalités
-- [Formalités douanières](/blog/demenagement-international-nantes/formalites-douanes-demenagement-international-nantes) : Documents obligatoires
-- [Délais d'acheminement](/blog/demenagement-international-nantes/delais-demenagement-international-nantes) : Planification
+- [Formalités douanières](/blog/satellites/formalites-douanes-demenagement-international-nantes) : Documents obligatoires
+- [Délais d'acheminement](/blog/satellites/delais-demenagement-international-nantes) : Planification
 
 ### Transport
-- [Groupage international](/blog/demenagement-international-nantes/groupage-international-demenagement-nantes) : Économiser en groupage
-- [Maritime vs Aérien](/blog/demenagement-international-nantes/transport-maritime-vs-aerien-demenagement-nantes) : Quel mode choisir ?
-- [Expédier un véhicule](/blog/demenagement-international-nantes/vehicule-demenagement-international-nantes) : Voiture à l'étranger
+- [Groupage international](/blog/satellites/groupage-international-demenagement-nantes) : Économiser en groupage
+- [Maritime vs Aérien](/blog/satellites/transport-maritime-vs-aerien-demenagement-nantes) : Quel mode choisir ?
+- [Expédier un véhicule](/blog/satellites/vehicule-demenagement-international-nantes) : Voiture à l'étranger
 
 
 Déménager à l'international depuis ou vers Nantes représente une aventure passionnante mais complexe. Que vous partiez pour une opportunité professionnelle à l'étranger, que vous rentriez en France après une expatriation, ou que vous vous installiez à Nantes depuis un autre pays, ce guide complet vous accompagne dans toutes les étapes de votre projet. De la planification à la livraison finale, découvrez comment organiser sereinement votre déménagement international depuis la capitale des Pays de la Loire.

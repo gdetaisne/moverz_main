@@ -21,7 +21,7 @@ Préparer un déménagement international depuis Lyon nécessite constituer un d
 
 L'inventaire constitue le pivot documentaire : exigé toutes destinations hors UE (Suisse, USA, Canada, Maghreb, Asie), recommandé UE (Italie, Allemagne, Espagne) pour assurance déménageur et suivi. Format bilingue obligatoire Suisse (français/allemand ou français/italien selon canton), USA/Canada (français/anglais), Maghreb (français/arabe optionnel mais facilite). Modèles téléchargeables sites douane officiels (admin.ch Suisse, cbp.gov USA, cbsa.gc.ca Canada) ou fournis déménageurs internationaux Lyon (AGS, Allied, Crown). Longueur : studio 30-50 items, T2 80-150 items, T3 150-250 items, maison 250-500 items, temps remplissage 3-8h selon rigueur.
 
-Ce guide liste documents universels toutes destinations, détaille spécificités UE vs Suisse vs intercontinental, explique comment remplir inventaire conforme, présente formulaires douaniers principaux, et révèle erreurs documentaires fréquentes retardant déménagement (inventaire incomplet = +1-3j douane, permis Suisse absent = refus entrée). Pour formalités détaillées, consultez [guide formalités douane international Lyon](/blog/demenagement-international-lyon/formalites-douanieres-international-lyon).
+Ce guide liste documents universels toutes destinations, détaille spécificités UE vs Suisse vs intercontinental, explique comment remplir inventaire conforme, présente formulaires douaniers principaux, et révèle erreurs documentaires fréquentes retardant déménagement (inventaire incomplet = +1-3j douane, permis Suisse absent = refus entrée). Pour formalités détaillées, consultez [guide formalités douane international Lyon](/blog/satellites/formalites-douanieres-international-lyon).
 
 ## Documents Universels Toutes Destinations
 
@@ -59,7 +59,7 @@ Certains documents s'appliquent quelle que soit la destination internationale.
 
 **Bilingue** : Français + allemand (Suisse), anglais (USA/Canada/UK), arabe (Maghreb optionnel).
 
-[Comment remplir inventaire →](/blog/demenagement-international-lyon/formalites-douanieres-international-lyon)
+[Comment remplir inventaire →](/blog/satellites/formalites-douanieres-international-lyon)
 
 ### 3. Attestation Changement Résidence
 
@@ -270,7 +270,7 @@ Préparer documents déménagement international depuis Lyon nécessite 2-3 mois
 
 L'Union Européenne simplifie drastiquement (CNI suffit, inventaire sommaire, pas douane), tandis que Suisse et destinations intercontinentales exigent préparation rigoureuse. Les consulats Lyon (Suisse, Italie, USA, Allemagne, Maghreb) facilitent obtention documents, légalisations, conseils spécifiques. Les déménageurs internationaux Lyon (AGS, Allied, Crown FIDI) assistent remplissage inventaire, fournis sent modèles bilingues, et gèrent formulaires douaniers (+300-600€ option assistance renforcée).
 
-Pour formalités détaillées, consultez [guide douane international Lyon](/blog/demenagement-international-lyon/formalites-douanieres-international-lyon). Explorez aussi [délais par destination](/blog/demenagement-international-lyon/delais-demenagement-international-lyon) et [guide complet](/blog/demenagement-international-lyon/demenagement-international-lyon-guide-complet). Bonne préparation documentaire !
+Pour formalités détaillées, consultez [guide douane international Lyon](/blog/satellites/formalites-douanieres-international-lyon). Explorez aussi [délais par destination](/blog/satellites/delais-demenagement-international-lyon) et [guide complet](/blog/demenagement-international-lyon/demenagement-international-lyon-guide-complet). Bonne préparation documentaire !
 
 ---
 

@@ -172,7 +172,7 @@ Sanctions >3,5t sans permis C : amende 750€, retrait 3 points, fourrière, ass
 
 Volumes accessibles permis B : studio-T1-T2 confortables (20-35m³ en 1-2 voyages), T3 limite (35m³ ×2 voyages possibles mais pénible), maison difficile (70m³ = 35m³ ×2 ou déménageur pro 1 700€ plus rationnel). 95% Lillois déménagent permis B. Permis C utile uniquement professionnels/déménagements récurrents gros volumes.
 
-Consultez notre [guide location Lille](/blog/location-camion-lille/location-camion-demenagement-lille-guide), notre [article choix volume](/blog/location-camion-lille/quel-volume-camion-t2-t3-lille) et notre [comparatif DIY vs pro](/blog/location-camion-lille/location-camion-vs-demenageur-lille).
+Consultez notre [guide location Lille](/blog/location-camion-lille/location-camion-demenagement-lille-guide), notre [article choix volume](/blog/satellites/quel-volume-camion-t2-t3-lille) et notre [comparatif DIY vs pro](/blog/satellites/location-camion-vs-demenageur-lille).
 
 
 

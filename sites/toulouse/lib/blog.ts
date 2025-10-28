@@ -78,7 +78,7 @@ function cleanSlug(originalSlug: string, category: string): string {
     // Retirer "-bordeaux" en milieu de slug
     { from: /-bordeaux-/, to: '-' },
     // Retirer "-bordeaux" en fin
-    { from: /-bordeaux$/, to: '' },
+    // { from: /-bordeaux$/, to: '' },  // ✅ Option B: Garder ville dans slug (SEO local)
     // Simplifications uniformes
     { from: /-guide-complet$/, to: '-guide' },
     { from: /-reperes-2025$/, to: '' },  // Retirer complètement pour éviter duplicates

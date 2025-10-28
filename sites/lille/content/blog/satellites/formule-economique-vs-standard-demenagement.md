@@ -114,7 +114,7 @@ Profils formule éco Lille : couples jeunes actifs 1 800-2 200€ salaire (écon
 
 Acteurs Lille proposant formule éco : Déménagements Lefebvre (4,1/5), Bretons Déménagements, Moverz (demandez devis "formule économique" explicitement, non affichée systématiquement site). Coût total réel éco : 700€ + 40-180€ matériel = 740-880€ (vs standard 1 000€, écart réel 120-260€ si cartons achetés vs 300€ affiché).
 
-Consultez notre [guide déménagement pas cher Lille](/blog/demenagement-pas-cher-lille/demenagement-pas-cher-lille-guide), notre [article DIY vs pro](/blog/location-camion-lille/location-camion-vs-demenageur-lille), notre [guide déménageurs Lille](/blog/demenageur-lille/demenageur-lille-expert) et notre [article prix T2](/blog/prix-demenagement-lille/prix-demenagement-t2-detaille-lille).
+Consultez notre [guide déménagement pas cher Lille](/blog/demenagement-pas-cher-lille/demenagement-pas-cher-lille-guide), notre [article DIY vs pro](/blog/satellites/location-camion-vs-demenageur-lille), notre [guide déménageurs Lille](/blog/demenageur-lille/demenageur-lille-expert) et notre [article prix T2](/blog/satellites/prix-demenagement-t2-detaille-lille).
 
 
 

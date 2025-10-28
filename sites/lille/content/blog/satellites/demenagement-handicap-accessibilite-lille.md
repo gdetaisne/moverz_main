@@ -212,7 +212,7 @@ Personnes handicap Lille : 45 000 bénéficiaires MDPH Nord métropole, 500-700 
 
 Ergothérapeutes Lille : 15-20 libéraux (visite accessibilité logement 80-150€, évaluation complète portes/SDB/cuisine/circulation, rapport écrit bail + aides PCH, conseils aménagements coûts 200-1 500€ rampes aluminium 300-800€ + barres appui 50-200€ + douche plain-pied remplacement baignoire 1 500-3 000€), prescripteurs (médecins traitants orientent, remboursement Sécurité Sociale partiel 60% séances si prescription).
 
-Consultez notre [guide aide déménagement Lille](/blog/aide-demenagement-lille/aide-demenagement-particuliers-lille), notre [guide senior](/blog/aide-demenagement-lille/aide-demenagement-personnes-agees-lille), notre [guide déménageur spécialisé](/blog/demenageur-lille/demenageur-monte-meuble-lille-quand-necessaire) et notre [guide déménageur Lille](/blog/demenageur-lille/demenageur-lille-expert).
+Consultez notre [guide aide déménagement Lille](/blog/satellites/aide-demenagement-particuliers-lille), notre [guide senior](/blog/satellites/aide-demenagement-personnes-agees-lille), notre [guide déménageur spécialisé](/blog/demenageur-lille/demenageur-monte-meuble-lille-quand-necessaire) et notre [guide déménageur Lille](/blog/demenageur-lille/demenageur-lille-expert).
 
 
 

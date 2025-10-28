@@ -78,7 +78,7 @@ function cleanSlug(originalSlug: string, category: string): string {
     // Retirer "-marseille" en milieu de slug
     { from: /-marseille-/, to: '-' },
     // Retirer "-marseille" en fin
-    { from: /-marseille$/, to: '' },
+    // { from: /-marseille$/, to: '' },  // ✅ Option B: Garder ville dans slug (SEO local)
     // Simplifications uniformes
     { from: /-guide-complet$/, to: '-guide' },
     { from: /-reperes-2025$/, to: '' },  // Retirer complètement pour éviter duplicates

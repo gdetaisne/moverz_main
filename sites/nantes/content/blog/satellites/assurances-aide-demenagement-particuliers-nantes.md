@@ -80,7 +80,7 @@ Les comparaisons pros (RC 10M€ franchise 0€ ad valorem vs plateformes 2M€ 
 Notre recommandation Nantes aides particulières : **Vérifiez MRH** avant (appelez assureurs "Contrat couvre-t-il Frizbiz ?" vs suppositions = 40-60% refus), **déclarez objets précieux** >1000€ porteurs préalablement (pianos, collections vs oublis = exclusions 90-95%), **photographiez** mobiliers/immobiliers J-1 (preuves dégâts préexistants vs post-déménagements = litiges évités 60-80%), **privilégiez pros** si collections >5000€ (RC 10M€ ad valorem vs plateformes 2M€ exclusions = surcoûts 400-800€ justifiés sécurités).
 
 
-Pour aller plus loin, explorez notre [guide aide déménagement à Nantes](/blog/aide-demenagement-nantes/aide-demenagement-nantes-guide) ainsi que nos guides complémentaires : [plateformes d'aide déménagement](/blog/aide-demenagement-nantes/plateformes-aide-demenagement-nantes) et [étudiants déménageurs](/blog/aide-demenagement-nantes/etudiants-aide-demenagement-nantes).
+Pour aller plus loin, explorez notre [guide aide déménagement à Nantes](/blog/aide-demenagement-nantes/aide-demenagement-nantes-guide) ainsi que nos guides complémentaires : [plateformes d'aide déménagement](/blog/satellites/plateformes-aide-demenagement-nantes) et [étudiants déménageurs](/blog/satellites/etudiants-aide-demenagement-nantes).
 
 ## Questions Fréquentes
 
