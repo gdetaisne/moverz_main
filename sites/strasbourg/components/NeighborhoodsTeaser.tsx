@@ -18,9 +18,9 @@ export default function NeighborhoodsTeaser() {
     <div>
       <div className="flex items-end justify-between">
         <h2 className="text-2xl md:text-3xl font-semibold text-white">Zones couvertes</h2>
-        <Link href="/quartiers-Strasbourg" className="text-sm text-[#6bcfcf] underline">Voir tous les quartiers</Link>
+        <Link href="/quartiers-Strasbourg" className="btn-secondary px-4 py-2 text-sm">Voir tous les quartiers</Link>
       </div>
-      <div className="mt-6 grid gap-4 md:grid-cols-5">
+      <div className="mt-6 grid gap-4 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5">
         {items.map((p) => (
           <Link
             key={p.title}
