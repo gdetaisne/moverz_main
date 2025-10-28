@@ -1,5 +1,6 @@
 import { MetadataRoute } from 'next'
 import { getAllBlogPosts } from '@/lib/blog'
+import { env } from '@/lib/env'
 import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
@@ -45,7 +46,7 @@ function getBordeauxBlogPosts() {
 }
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://www.devis-demenageur-bordeaux.fr'
+  const baseUrl = env.SITE_URL
   
   // Récupérer SEULEMENT les articles de blog de Bordeaux
   const blogPosts = getBordeauxBlogPosts()
@@ -191,13 +192,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
   ]
 
-  // Pages de catégories du blog
-  const blogCategories = [
-    'etudiant', 'entreprise', 'prix', 'devis', 'pas-cher', 
-    'urgent', 'longue-distance', 'garde-meuble', 'international', 'piano'
-  ]
-  
-  const blogCategoryPages: MetadataRoute.Sitemap = blogCategories.map(category => ({
+  // Pages de catégories du blog (dynamiques)
+  const categoriesSet = new Set(blogPosts.map(post => post.cleanCategory))
+  const blogCategoryPages: MetadataRoute.Sitemap = Array.from(categoriesSet).map(category => ({
     url: `${baseUrl}/blog/${category}`,
     lastModified: new Date(),
     changeFrequency: 'weekly' as const,

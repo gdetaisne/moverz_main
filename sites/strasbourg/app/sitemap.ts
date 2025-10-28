@@ -1,5 +1,6 @@
 import { MetadataRoute } from 'next'
 import { getAllBlogPosts } from '@/lib/blog'
+import { env } from '@/lib/env'
 import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
@@ -45,7 +46,7 @@ function getStrasbourgBlogPosts() {
 }
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://devis-demenageur-strasbourg.fr'
+  const baseUrl = env.SITE_URL
   
   // Récupérer SEULEMENT les articles de blog de Strasbourg
   const blogPosts = getStrasbourgBlogPosts()

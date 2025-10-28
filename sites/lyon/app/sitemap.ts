@@ -1,5 +1,6 @@
 import { MetadataRoute } from 'next'
 import { getAllBlogPosts } from '@/lib/blog'
+import { env } from '@/lib/env'
 import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
@@ -45,7 +46,7 @@ function getLyonBlogPosts() {
 }
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://devis-demenageur-lyon.fr'
+  const baseUrl = env.SITE_URL
   
   // Récupérer SEULEMENT les articles de blog de Lyon
   const blogPosts = getLyonBlogPosts()
@@ -88,32 +89,33 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'monthly',
       priority: 0.9,
     },
+    // quartiers Lyon réels
     {
-      url: `${baseUrl}/lyon/chartrons`,
+      url: `${baseUrl}/lyon/part-dieu`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/lyon/cauderan`,
+      url: `${baseUrl}/lyon/presquile`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/lyon/bastide`,
+      url: `${baseUrl}/lyon/vieux-lyon`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/lyon/merignac`,
+      url: `${baseUrl}/lyon/croix-rousse`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/lyon/pessac`,
+      url: `${baseUrl}/lyon/confluence`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
@@ -149,12 +151,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'monthly',
       priority: 0.8,
     },
-    {
-      url: `${baseUrl}/lyon-vers-lyon`,
-      lastModified: new Date(),
-      changeFrequency: 'monthly',
-      priority: 0.8,
-    },
+    // retirer corridor auto-référent inexistant
     {
       url: `${baseUrl}/lyon-vers-toulouse`,
       lastModified: new Date(),
@@ -191,13 +188,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
   ]
 
-  // Pages de catégories du blog
-  const blogCategories = [
-    'etudiant', 'entreprise', 'prix', 'devis', 'pas-cher', 
-    'urgent', 'longue-distance', 'garde-meuble', 'international', 'piano'
-  ]
-  
-  const blogCategoryPages: MetadataRoute.Sitemap = blogCategories.map(category => ({
+  // Pages de catégories du blog (dynamiques, uniquement celles présentes)
+  const categoriesSet = new Set(blogPosts.map(post => post.cleanCategory))
+  const blogCategoryPages: MetadataRoute.Sitemap = Array.from(categoriesSet).map(category => ({
     url: `${baseUrl}/blog/${category}`,
     lastModified: new Date(),
     changeFrequency: 'weekly' as const,

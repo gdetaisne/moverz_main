@@ -1,18 +1,19 @@
 import type { DefaultSeoProps } from 'next-seo';
+import { env } from '@/lib/env';
 
 export const defaultSEO: DefaultSeoProps = {
   titleTemplate: '%s | Déménageurs lyon',
   defaultTitle: 'Déménageurs lyon - 5 devis sous 7 jours',
   description: '30 minutes pour votre dossier → 5 devis personnalisés sous 7 jours. Estimation volumétrique à partir de photos, tarifs clairs, conseils locaux.',
-  canonical: 'https://www.lyon-demenageur.fr',
+  canonical: env.SITE_URL,
   openGraph: {
     type: 'website',
     locale: 'fr_FR',
-    url: 'https://www.lyon-demenageur.fr',
+    url: env.SITE_URL,
     siteName: 'Déménageurs lyon',
     images: [
       {
-        url: 'https://www.lyon-demenageur.fr/og-image.jpg',
+        url: `${env.SITE_URL}/og-image.jpg`,
         width: 1200,
         height: 630,
         alt: 'Déménageurs lyon - Devis IA',

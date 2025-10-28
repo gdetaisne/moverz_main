@@ -1,8 +1,9 @@
 import { MetadataRoute } from 'next'
 import { getAllBlogPosts } from '@/lib/blog'
+import { env } from '@/lib/env'
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://devis-demenageur-toulousain.fr'
+  const baseUrl = env.SITE_URL
   
   // Récupérer tous les articles de blog
   const blogPosts = getAllBlogPosts()
@@ -45,32 +46,33 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'monthly',
       priority: 0.9,
     },
+    // quartiers Toulouse réels
     {
-      url: `${baseUrl}/toulouse/chartrons`,
+      url: `${baseUrl}/toulouse/capitole`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/toulouse/cauderan`,
+      url: `${baseUrl}/toulouse/carmes`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/toulouse/bastide`,
+      url: `${baseUrl}/toulouse/compans`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/toulouse/merignac`,
+      url: `${baseUrl}/toulouse/jean-jaures`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/toulouse/pessac`,
+      url: `${baseUrl}/toulouse/saint-cyprien`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
@@ -112,12 +114,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'monthly',
       priority: 0.8,
     },
-    {
-      url: `${baseUrl}/toulouse-vers-toulouse`,
-      lastModified: new Date(),
-      changeFrequency: 'monthly',
-      priority: 0.8,
-    },
+    // retirer corridor auto-référent inexistant
     {
       url: `${baseUrl}/toulouse-vers-nantes`,
       lastModified: new Date(),
@@ -148,13 +145,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
   ]
 
-  // Pages de catégories du blog
-  const blogCategories = [
-    'etudiant', 'entreprise', 'prix', 'devis', 'pas-cher', 
-    'urgent', 'longue-distance', 'garde-meuble', 'international', 'piano'
-  ]
-  
-  const blogCategoryPages: MetadataRoute.Sitemap = blogCategories.map(category => ({
+  // Pages de catégories du blog (dynamiques, uniquement celles présentes)
+  const categoriesSet = new Set(blogPosts.map(post => post.cleanCategory))
+  const blogCategoryPages: MetadataRoute.Sitemap = Array.from(categoriesSet).map(category => ({
     url: `${baseUrl}/blog/${category}`,
     lastModified: new Date(),
     changeFrequency: 'weekly' as const,
