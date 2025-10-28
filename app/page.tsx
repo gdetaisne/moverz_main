@@ -1,12 +1,9 @@
-import Hero from "@/components/Hero";
+import { Hero, HowItWorks, PricingPreview, StickyCTA } from "@moverz/ui";
 import ValueTriad from "@/components/ValueTriad";
-import HowItWorks from "@/components/HowItWorks";
 import ProofStrip from "@/components/ProofStrip";
 import PhotoGuidelines from "@/components/PhotoGuidelines";
-import PricingPreview from "@/components/PricingPreview";
 import Testimonials from "@/components/Testimonials";
 import NeighborhoodsTeaser from "@/components/NeighborhoodsTeaser";
-import StickyCTA from "@/components/StickyCTA";
 
 export default function Home() {
   return (
