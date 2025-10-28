@@ -1,49 +1,53 @@
 "use client";
+import React, { useEffect, useState } from "react";
 import Image from "next/image";
 
 export default function Hero() {
+  const [stage, setStage] = useState(0); // 0 idle, 1 photos, 2 analyse, 3 devis
+
+  useEffect(() => {
+    let t1: ReturnType<typeof setTimeout> | undefined;
+    let t2: ReturnType<typeof setTimeout> | undefined;
+    let t3: ReturnType<typeof setTimeout> | undefined;
+    let t4: ReturnType<typeof setTimeout> | undefined;
+    const run = () => {
+      setStage(1);
+      t1 = setTimeout(() => setStage(2), 900);
+      t2 = setTimeout(() => setStage(3), 1800);
+      t3 = setTimeout(() => setStage(0), 2500);
+      t4 = setTimeout(run, 2800);
+    };
+    run();
+    return () => {
+      if (t1) clearTimeout(t1);
+      if (t2) clearTimeout(t2);
+      if (t3) clearTimeout(t3);
+      if (t4) clearTimeout(t4);
+    };
+  }, []);
   return (
     <section className="relative overflow-hidden text-white">
-      {/* Image de fond avec overlay */}
       <div className="absolute inset-0">
-        <Image 
-          src="https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?q=80&w=2000&auto=format&fit=crop"
-          alt="Déménagement professionnel à Lyon"
-          fill
-          priority
-          sizes="100vw"
-          className="object-cover"
-          quality={85}
-        />
-        <div className="absolute inset-0 bg-gradient-to-br from-[#04163a]/95 via-[#2b7a78]/90 to-[#04163a]/95"></div>
+        <div className="h-full w-full bg-hero" />
+        <div className="absolute inset-0 bg-white/0" />
+        <div className="absolute inset-0 bg-gradient-to-r from-white/5 via-transparent to-white/5" />
       </div>
-
-      {/* Decoration elements */}
-      <div className="absolute inset-0 bg-grid-white/[0.02] bg-[size:60px_60px]" />
-      <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/5 to-transparent" />
-      
-      <div className="relative mx-auto max-w-7xl px-6 py-16 md:px-12 md:py-24 lg:py-32">
-        <div className="grid gap-10 lg:grid-cols-2 lg:items-center">
-          {/* Texte */}
-          <div className="text-center lg:text-left">
-            <h1 className="text-3xl font-bold tracking-tight sm:text-4xl md:text-5xl">
-              Préparez votre déménagement en 30 minutes → recevez 5 devis précis gratuitement sous 7 jours
-            </h1>
-            <p className="mt-4 text-lg md:text-xl text-white/90">
-              Votre dossier complet, sans stress. Estimation fiable, prix transparents, partenaires de confiance.
-            </p>
-            <div className="mt-6">
-              <a
-                href="/inventaire-ia/"
-                className="inline-flex rounded-xl bg-white px-6 py-3 text-lg font-semibold text-[#04163a] hover:bg-white/90 transition duration-300 shadow-lg"
-                aria-label="Commencer votre devis de déménagement gratuit"
-              >
-                Obtenez vos devis précis gratuitement
-              </a>
+      <div className="relative mx-auto max-w-7xl px-6 py-16 md:px-10 md:py-24 lg:py-28">
+        <div className="grid gap-12 lg:grid-cols-2 lg:items-center">
+          <div className="mx-auto max-w-2xl text-center lg:mx-0 lg:text-left">
+            <h1 className="text-3xl font-bold tracking-tight sm:text-4xl md:text-5xl">Préparez votre déménagement en 30 minutes</h1>
+            <p className="mt-3 text-lg md:text-xl text-white/90">Envoyez vos photos, recevez 5 devis fiables sous 7 jours — sans appels ni formulaires, l'IA s'occupe de tout.</p>
+            <div className="mt-5 flex flex-wrap items-center justify-center gap-3 text-sm text-white/80 lg:justify-start">
+              <span className="inline-flex items-center gap-2 rounded-full bg-white/10 px-3 py-1 ring-1 ring-white/15">
+                <Image src="/logo.png" alt="Logo Moverz" width={16} height={16} className="rounded-[3px]" />
+                <span>Propulsé par Moverz IA</span>
+              </span>
+              <span className="inline-flex items-center gap-2 rounded-full bg-white/10 px-3 py-1 ring-1 ring-white/15"><span className="h-1 w-1 rounded-full bg-white/50" />Déménageurs vérifiés</span>
             </div>
-            
-            {/* Social proof */}
-            <div className="mt-8 flex flex-col sm:flex-row items-center justify-center lg:justify-start gap-4 text-sm text-white/80">
+            <div className="mt-7 flex flex-col items-center justify-center gap-3 sm:flex-row lg:justify-start">
+              <a href="/inventaire-ia/" className="btn-primary" aria-label="Obtenez vos devis précis gratuitement">Obtenez vos devis précis gratuitement</a>
+            </div>
+            <div className="mt-6 flex flex-col items-center gap-4 text-sm text-white/80 sm:flex-row lg:justify-start">
               <div className="flex items-center gap-2">
                 <div className="flex -space-x-2">
                   <div className="w-8 h-8 rounded-full bg-white/20 border-2 border-white flex items-center justify-center text-xs">👤</div>
@@ -58,29 +62,60 @@ export default function Hero() {
               </div>
             </div>
           </div>
-
-          {/* Image illustrative - AI Mockup */}
-          <div className="relative order-first lg:order-last">
-            <div className="relative h-64 w-full md:h-96 lg:h-[420px] rounded-2xl overflow-hidden bg-white/10 backdrop-blur-sm border border-white/20 shadow-2xl">
-              <Image 
-                src="/images/hero/hero-ai-mockup.jpg"
-                alt="Estimation de volume en m³ à partir de photos — déménagement à Lyon"
-                fill
-                priority
-                sizes="(min-width: 1024px) 50vw, 100vw"
-                className="object-cover"
-                quality={90}
-              />
-              {/* Filigrane Lyon - Place de la Bourse */}
-              <div className="absolute inset-0 bg-gradient-to-t from-[#04163a]/60 to-transparent"></div>
-              <div className="absolute bottom-0 left-0 right-0 p-4 text-xs text-white/60">
-                <span className="font-medium">🏛️ Lyon</span>
+          <div className="relative mx-auto w-full max-w-[560px] lg:mx-0">
+            <div className="absolute -inset-6 hidden rounded-3xl bg-black/20 blur-3xl lg:block" />
+            <div className="relative rounded-2xl border border-white/20 bg-white/10 p-4 shadow-2xl backdrop-blur-md md:p-6">
+              <div className="flex items-center justify-between text-sm text-white/70">
+                <div className="flex items-center gap-1">
+                  <span className="h-2 w-2 rounded-full bg-red-400/80" />
+                  <span className="h-2 w-2 rounded-full bg-yellow-400/80" />
+                  <span className="h-2 w-2 rounded-full bg-green-400/80" />
+                </div>
+              </div>
+              <div className="mt-4 space-y-4">
+                <div className="rounded-xl border border-white/15 bg-white/5 p-4 md:p-5">
+                  <div className="flex items-start gap-3">
+                    <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-white/10">📷</div>
+                    <div className="flex-1">
+                      <div className="text-white font-medium">Photos uploadées</div>
+                      <div className="text-xs text-white/70">12 images analysées</div>
+                      <div className="mt-3 h-2 w-full overflow-hidden rounded-full bg-white/10">
+                        <div className={`h-2 rounded-full bg-[#6bcfcf] transition-all duration-300`} style={{ width: stage >= 1 ? "66%" : "8%" }} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="rounded-xl border border-white/15 bg-white/5 p-4 md:p-5">
+                  <div className="flex items-start gap-3">
+                    <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-white/10">🤖</div>
+                    <div className="flex-1">
+                      <div className="text-white font-medium">Analyse IA</div>
+                      <div className="text-xs text-white/70">Volume estimé: 28 m³</div>
+                      <div className="mt-3 flex items-center gap-2">
+                        {[0,1,2,3].map((d) => (
+                          <span
+                            key={d}
+                            className={`h-2 w-2 rounded-full ${stage === 2 && d === 0 ? "bg-[#6bcfcf] animate-pulse" : stage >= 3 ? "bg-[#6bcfcf]" : "bg-white/30"}`}
+                          />
+                        ))}
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="rounded-xl border border-white/15 bg-white/5 p-4 md:p-5">
+                  <div className="flex items-start gap-3">
+                    <div className={`flex h-9 w-9 items-center justify-center rounded-lg ${stage === 3 ? "bg-[#6bcfcf] text-[#04163a]" : "bg-white/10 text-white/70"}`}>{stage === 3 ? "✓" : "…"}</div>
+                    <div>
+                      <div className="text-white font-medium">5 devis générés</div>
+                      <div className={`text-xs ${stage === 3 ? "text-white/90" : "text-white/70"}`}>Prêts sous 7 jours</div>
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
-            
-            {/* Floating badge */}
-            <div className="absolute -top-4 -right-4 bg-[#6bcfcf] text-[#04163a] px-4 py-2 rounded-full text-sm font-semibold shadow-lg">
-              🤖 Propulsé par l'IA
+            <div className="absolute -top-5 -right-3 flex items-center gap-2 rounded-full bg-[#6bcfcf] px-5 py-2.5 text-sm font-semibold text-[#04163a] shadow-xl ring-1 ring-white/30 animate-badge-pop transition-transform duration-300 hover:-translate-y-0.5 hover:shadow-[0_12px_30px_rgba(107,207,207,0.45)] hover:ring-white/50">
+              <Image src="/logo.png" alt="Logo Moverz" width={16} height={16} className="rounded-[3px] brightness-0 invert" />
+              <span>Propulsé par Moverz IA</span>
             </div>
           </div>
         </div>
