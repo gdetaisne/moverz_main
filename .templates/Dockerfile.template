@@ -1,4 +1,4 @@
-# Dockerfile multi-sites Moverz - strasbourg
+# Dockerfile multi-sites Moverz - {{CITY}}
 # Version canonique: 2025-10-28
 FROM node:20-alpine AS base
 RUN apk add --no-cache libc6-compat

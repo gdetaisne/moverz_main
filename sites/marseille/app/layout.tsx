@@ -55,6 +55,11 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://devis-demenageur-marseille.fr',
   },
+  icons: {
+    icon: '/favicon.ico',
+    shortcut: '/favicon.ico',
+    apple: '/icons/apple-touch-icon.png',
+  },
 };
 
 export const viewport: Viewport = {

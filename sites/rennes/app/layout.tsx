@@ -52,6 +52,11 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://devis-demenageur-rennes.fr',
   },
+  icons: {
+    icon: '/favicon.ico',
+    shortcut: '/favicon.ico',
+    apple: '/icons/apple-touch-icon.png',
+  },
 };
 
 export const viewport: Viewport = {

@@ -8,6 +8,58 @@
 
 ## 🚨 Problèmes Fréquents
 
+### 0. Build échoue sur CapRover (tsconfig.json introuvable)
+
+#### Symptômes
+```
+Error: error TS5083: Cannot read file '/tsconfig.json'.
+Build has failed!
+```
+
+#### Cause
+**Fichiers de configuration incohérents entre les sites**
+- tsconfig.json avec `"extends": "../../tsconfig.json"` (invalide dans Docker)
+- Dockerfile différents entre sites
+- Configs désynchronisées
+
+#### Solution
+
+**A. Synchroniser les configs (SOLUTION RAPIDE)**
+```bash
+# Depuis la racine du monorepo
+./scripts/sync-config-files.sh
+
+# Vérifier
+cd sites/nantes && npm run build
+
+# Si OK, push vers CapRover
+cd ../..
+./scripts/push-all-sites-to-github.sh
+```
+
+**B. Vérifier manuellement**
+```bash
+# Vérifier tsconfig.json n'a pas de "extends"
+grep "extends" sites/nantes/tsconfig.json
+# → Ne doit rien retourner
+
+# Vérifier MD5 des configs
+for city in marseille toulouse lyon bordeaux nantes lille nice strasbourg rouen rennes montpellier; do
+  hash=$(md5 -q "sites/$city/tsconfig.json")
+  echo "$city: $hash"
+done | uniq -c
+# → Doit afficher "11 <même hash>"
+```
+
+**C. Guide complet : BUILD.md**
+
+**Prévention** :
+- ⚠️ Ne JAMAIS modifier tsconfig.json d'un site individuellement
+- ✅ Modifier `.templates/tsconfig.json` puis sync
+- ✅ Exécuter `./scripts/sync-config-files.sh` après chaque modif
+
+---
+
 ### 1. Le site ne démarre pas en local
 
 #### Symptômes

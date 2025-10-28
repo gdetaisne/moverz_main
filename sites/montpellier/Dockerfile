@@ -1,8 +1,8 @@
-# Dockerfile spécifique pour montpellier - FORCE REBUILD v4
+# Dockerfile multi-sites Moverz - montpellier
+# Version canonique: 2025-10-28
 FROM node:20-alpine AS base
 RUN apk add --no-cache libc6-compat
 WORKDIR /app
-RUN echo "FORCE REBUILD montpellier COMPLETE-1760519777-$(date +%s)" > /tmp/force-rebuild-$(date +%s).txt
 
 # Install dependencies
 FROM base AS deps
@@ -35,8 +35,10 @@ COPY --from=builder --chown=nextjs:nodejs /app/.next ./.next
 # Copy public directory
 RUN mkdir -p ./public
 COPY --from=builder --chown=nextjs:nodejs /app/public ./public
-# Copy content directory (CRITICAL: blog articles)
+
+# Copy content directory (blog articles)
 COPY --from=builder --chown=nextjs:nodejs /app/content ./content
+
 USER nextjs
 EXPOSE 3000
 

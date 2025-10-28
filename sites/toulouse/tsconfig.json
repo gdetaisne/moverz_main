@@ -35,10 +35,10 @@
     "**/*.ts",
     "**/*.tsx",
     "**/*.mdx",
-    "scripts/**/*",
     ".next/types/**/*.ts"
   ],
   "exclude": [
     "node_modules"
   ]
 }
+

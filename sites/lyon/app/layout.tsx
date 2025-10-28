@@ -53,6 +53,11 @@ export const metadata: Metadata = {
   alternates: {
     canonical: env.SITE_URL,
   },
+  icons: {
+    icon: '/favicon.ico',
+    shortcut: '/favicon.ico',
+    apple: '/icons/apple-touch-icon.png',
+  },
 };
 
 export const viewport: Viewport = {
