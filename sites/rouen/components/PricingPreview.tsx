@@ -20,9 +20,7 @@ export default function PricingPreview() {
         ))}
       </div>
       <div className="mt-8 text-center">
-        <a href="/inventaire-ia/" className="inline-flex h-12 items-center justify-center rounded-2xl bg-[#6bcfcf] px-8 text-lg font-semibold text-[#04163a] shadow-lg hover:bg-[#6bcfcf]/90 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#6bcfcf]/50 transition duration-300">
-          Obtenez vos devis précis gratuitement
-        </a>
+        <a href="/inventaire-ia/" className="btn-primary" aria-label="Obtenez vos devis précis gratuitement">Obtenez vos devis précis gratuitement</a>
       </div>
     </div>
   );
