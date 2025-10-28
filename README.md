@@ -78,6 +78,7 @@ cd sites/lille && npm run dev -- -p 4001
 
 ## 📚 Documentation
 
+- **`ARCHITECTURE.md`** - ⭐ **Architecture complète multi-sites (LIRE EN PREMIER)**
 - `moverz-template/PROCEDURE_CREATION_SITE.md` - Procédure détaillée
 - `moverz-template/TEMPLATE_DONNEES.md` - Structure des données
 - `moverz-template/TROUBLESHOOTING.md` - Résolution de problèmes
@@ -149,7 +150,26 @@ rm -rf .next node_modules/.cache
 npm run dev
 ```
 
+## 🚀 Déploiement vers Production
+
+Voir **`ARCHITECTURE.md`** pour la procédure complète de déploiement.
+
+**Résumé rapide :**
+```bash
+# 1. Commit monorepo
+git add . && git commit -m "feat: ..." && git push origin main
+
+# 2. Push vers dépôts individuels
+for city in marseille toulouse lyon bordeaux nantes lille nice strasbourg rouen rennes montpellier; do
+  cd "sites/$city"
+  git add . && git commit -m "feat: ..." && git push origin main
+  cd ../..
+done
+
+# 3. CapRover rebuild automatique (~10 min par site)
+```
+
 ---
 
-**Version :** 3.0 (Standardisé - Octobre 2025)  
-**Dernière mise à jour :** 11 Octobre 2025
+**Version :** 4.0 (Multi-sites avec déploiement CapRover)  
+**Dernière mise à jour :** 28 Octobre 2025
