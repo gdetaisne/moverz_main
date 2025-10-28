@@ -25,6 +25,13 @@ SITES=(
 for site in "${SITES[@]}"; do
   echo "📦 $site"
   
+  # Synchroniser (facultatif) le contenu local de tests vers le dossier officiel du site
+  if [ -d "content/$site/blog" ]; then
+    echo "   🔄 Sync content/$site/blog -> sites/$site/content/blog"
+    mkdir -p "sites/$site/content/blog"
+    rsync -a --delete "content/$site/blog/" "sites/$site/content/blog/"
+  fi
+  
   if [ -d "sites/$site/.git" ]; then
     cd "sites/$site"
     
