@@ -101,4 +101,11 @@ body {
   @apply max-w-7xl mx-auto px-4 md:px-6;
 }
 
+.btn-secondary { @apply inline-flex items-center justify-center rounded-2xl px-6 py-3 text-base md:text-lg font-semibold tracking-wide text-white/95 border transition duration-300; border-color: rgba(255,255,255,0.3); }
+.btn-secondary:hover { background: rgba(255,255,255,0.1); }
+.btn-primary { @apply inline-flex items-center justify-center rounded-2xl px-6 py-3 text-base md:text-lg font-semibold tracking-wide shadow-lg transition duration-300 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white/60 focus-visible:ring-offset-2; background:#ffffff; color:#04163a; }
+.btn-primary:hover { background: rgba(255,255,255,0.9); }
+.btn-accent { @apply inline-flex items-center justify-center rounded-2xl px-6 py-3 text-base md:text-lg font-semibold tracking-wide text-white shadow-lg transition duration-300 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white/60 focus-visible:ring-offset-2; background:#2b7a78; }
+.btn-accent:hover { filter: brightness(1.1); }
+
 
