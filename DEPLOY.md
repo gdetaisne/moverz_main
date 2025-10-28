@@ -8,27 +8,23 @@
 # 1. Éditer le composant root
 code components/Hero.tsx
 
-# 2. Copier vers tous les sites
-for city in marseille toulouse lyon bordeaux nantes lille nice strasbourg rouen rennes montpellier; do
-  cp components/Hero.tsx "sites/$city/components/Hero.tsx"
-done
+# 2. Synchroniser automatiquement vers les 11 sites
+./scripts/sync-components.sh
+# → Copie Hero.tsx + vérifie MD5
 
 # 3. Commit monorepo
 git add components/Hero.tsx sites/*/components/Hero.tsx
 git commit -m "feat(hero): amélioration animation"
 git push origin main
 
-# 4. Push vers dépôts individuels
-for city in marseille toulouse lyon bordeaux nantes lille nice strasbourg rouen rennes montpellier; do
-  cd "sites/$city"
-  git add components/Hero.tsx
-  git commit -m "feat(hero): amélioration animation"
-  git push origin main
-  cd ../..
-done
+# 4. Déployer automatiquement vers les 11 repos
+./scripts/push-all-sites-to-github.sh
+# → Commit + push + déclenche rebuilds CapRover
 ```
 
 **Délai :** ~10-15 min pour voir les changements live.
+
+**Composants synchronisés** : Hero, HowItWorks, StickyCTA, PricingPreview, NeighborhoodsIndex, CtaPrimary, LeadForm, globals.css
 
 ---
 
@@ -90,25 +86,20 @@ cd ../..
 # 1. Éditer le CSS root
 code app/globals.css
 
-# 2. Copier vers tous les sites
-for city in marseille toulouse lyon bordeaux nantes lille nice strasbourg rouen rennes montpellier; do
-  cp app/globals.css "sites/$city/app/globals.css"
-done
+# 2. Synchroniser automatiquement (inclus dans sync-components.sh)
+./scripts/sync-components.sh
+# → Copie globals.css + tous les composants partagés
 
 # 3. Commit monorepo
 git add app/globals.css sites/*/app/globals.css
-git commit -m "style: amélioration btn-primary"
+git commit -m "style: amélioration btn-primary + keyframes"
 git push origin main
 
-# 4. Push vers dépôts individuels
-for city in marseille toulouse lyon bordeaux nantes lille nice strasbourg rouen rennes montpellier; do
-  cd "sites/$city"
-  git add app/globals.css
-  git commit -m "style: amélioration btn-primary"
-  git push origin main
-  cd ../..
-done
+# 4. Déployer automatiquement
+./scripts/push-all-sites-to-github.sh
 ```
+
+**Note** : `sync-components.sh` synchronise TOUJOURS `globals.css` en plus des composants.
 
 ---
 

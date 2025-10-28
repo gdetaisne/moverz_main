@@ -159,19 +159,27 @@ git push origin main
 ### Modification globale (tous les sites)
 
 ```bash
-# 1. Modifier tous les sites
-for city in marseille toulouse lyon bordeaux nantes lille nice strasbourg rouen rennes montpellier; do
-  # Appliquer changement à sites/$city/...
-done
+# 1. Modifier le template root
+code components/Hero.tsx   # ou app/globals.css
 
-# 2. Commit monorepo
-git add .
-git commit -m "feat: description globale"
+# 2. Synchroniser automatiquement vers 11 sites
+./scripts/sync-components.sh
+# → Copie + vérification MD5
+
+# 3. Commit monorepo
+git add components/Hero.tsx sites/*/components/Hero.tsx
+git commit -m "feat(hero): amélioration animation"
 git push origin main
 
-# 3. Push tous les sites
+# 4. Déployer tous les sites
 ./scripts/push-all-sites-to-github.sh
+# → Push vers 11 repos GitHub + trigger CapRover
 ```
+
+**Scripts disponibles** :
+- `sync-components.sh` - Synchronise composants UX + globals.css
+- `sync-config-files.sh` - Synchronise configs techniques (tsconfig, Dockerfile)
+- `push-all-sites-to-github.sh` - Déploie vers les 11 repos GitHub
 
 ---
 

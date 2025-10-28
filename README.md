@@ -79,29 +79,39 @@ cd sites/lille && npm run dev -- -p 4001
 ## 📚 Documentation
 
 - **`ARCHITECTURE.md`** - ⭐ **Architecture complète multi-sites (LIRE EN PREMIER)**
-- `moverz-template/PROCEDURE_CREATION_SITE.md` - Procédure détaillée
-- `moverz-template/TEMPLATE_DONNEES.md` - Structure des données
-- `moverz-template/TROUBLESHOOTING.md` - Résolution de problèmes
-- `scripts/check-nextconfig.sh` - Validation des configs
+- **`scripts/README.md`** - ⭐ **Guide complet des scripts de synchronisation**
+- `DEPLOY.md` - Guide de déploiement rapide
+- `BUILD.md` - Résolution problèmes de build
+- `TROUBLESHOOTING.md` - Dépannage général
+- `CONTEXT.md` - Contexte pour AI/développeurs
+- `SITES.md` - État et URLs des 11 sites
 
-## 🛠️ Scripts Utilitaires
+## 🛠️ Scripts de Synchronisation
 
-### Validation des Configurations
-
+### 1. Synchroniser Composants UX
 ```bash
-# Vérifier tous les sites
-./scripts/check-nextconfig.sh
+# Propage les modifications de /components/ vers les 11 sites
+./scripts/sync-components.sh
+
+# Synchronise : Hero, HowItWorks, StickyCTA, globals.css, etc.
+# Vérification MD5 automatique
 ```
 
-**Sortie attendue :**
-```
-✅ Tous les sites sont cohérents
+### 2. Synchroniser Configs Techniques
+```bash
+# Propage les modifications de .templates/ vers les 11 sites
+./scripts/sync-config-files.sh
+
+# Synchronise : tsconfig.json, Dockerfile, .eslintrc.json
 ```
 
-Si un site a un problème, le script affichera :
+### 3. Déployer Tous les Sites
+```bash
+# Push vers les 11 repos GitHub + déclenche rebuilds CapRover
+./scripts/push-all-sites-to-github.sh
 ```
-❌ lille: type:module mais utilise .cjs ou .js → DOIT être .mjs
-```
+
+**Voir `scripts/README.md` pour la documentation complète.**
 
 ## 🐛 Troubleshooting
 

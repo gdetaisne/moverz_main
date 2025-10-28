@@ -125,12 +125,14 @@ moverz_main-8/
 code components/Hero.tsx
 ```
 
-#### 2. Copier vers tous les sites
+#### 2. Synchroniser vers tous les sites (AUTOMATIQUE)
 ```bash
-for city in marseille toulouse lyon bordeaux nantes lille nice strasbourg rouen rennes montpellier; do
-  cp components/Hero.tsx "sites/$city/components/Hero.tsx"
-  echo "✅ $city"
-done
+# Script automatise la copie vers les 11 sites
+./scripts/sync-components.sh
+
+# Sortie attendue :
+# ✅ Hero.tsx synchronisé × 11 sites
+# ✅ Vérification MD5 : Tous identiques
 ```
 
 #### 3. Commit dans le monorepo
@@ -140,25 +142,38 @@ git commit -m "feat(hero): amélioration animation IA"
 git push origin main
 ```
 
-#### 4. Push vers les dépôts individuels
+#### 4. Déployer vers tous les sites (AUTOMATIQUE)
 ```bash
-for city in marseille toulouse lyon bordeaux nantes lille nice strasbourg rouen rennes montpellier; do
-  echo "📦 $city"
-  cd "sites/$city"
-  git add components/Hero.tsx
-  git commit -m "feat(hero): amélioration animation IA"
-  git push origin main
-  cd ../..
-done
+# Script automatise commit + push vers 11 repos GitHub
+./scripts/push-all-sites-to-github.sh
+
+# Déclenche automatiquement les rebuilds CapRover
 ```
 
 #### 5. Vérifier les déploiements
 ```bash
 # Attendre 10-15 min, puis vérifier :
 # https://devis-demenageur-marseille.fr/
-# https://devis-demenageur-toulouse.fr/
+# https://devis-demenageur-toulousain.fr/
 # etc.
 ```
+
+### Composants partagés synchronisés automatiquement
+
+**Liste des composants** (définie dans `sync-components.sh`) :
+- `Hero.tsx` - Hero animé avec IA
+- `HowItWorks.tsx` - Section "Comment ça marche"
+- `PricingPreview.tsx` - Aperçu tarifs
+- `StickyCTA.tsx` - CTA flottant
+- `NeighborhoodsIndex.tsx` - Index des quartiers
+- `CtaPrimary.tsx` - CTA principal
+- `LeadForm.tsx` - Formulaire contact
+- `app/globals.css` - Styles globaux + animations
+
+**⚠️ Composants NON synchronisés** (spécifiques par ville) :
+- `Testimonials.tsx` - Témoignages locaux
+- `NeighborhoodsTeaser.tsx` - Liste quartiers par ville
+- `QuartierTemplate.tsx` - Template pages quartiers
 
 ---
 
