@@ -117,6 +117,10 @@ moverz_main-8/
 
 ## 📝 Procédure de Modification d'un Composant Partagé
 
+> ⚠️ **RÈGLE ABSOLUE** : Ne JAMAIS modifier directement `sites/{ville}/components/` ou `sites/{ville}/app/globals.css`  
+> ✅ Toujours passer par `/components/` ou `/app/globals.css` puis `./scripts/sync-components.sh`  
+> 🔍 Vérifier avec `./scripts/validate-consistency.sh` avant chaque commit
+
 ### Exemple : Modifier le Hero
 
 #### 1. Éditer le composant root
@@ -174,6 +178,104 @@ git push origin main
 - `Testimonials.tsx` - Témoignages locaux
 - `NeighborhoodsTeaser.tsx` - Liste quartiers par ville
 - `QuartierTemplate.tsx` - Template pages quartiers
+
+---
+
+## 🚨 Règles de Cohérence & Garde-Fous
+
+### ❌ Interdictions Absolues
+
+**Ne JAMAIS modifier directement dans `sites/{ville}/` les fichiers suivants** :
+
+| Fichier | Raison | Solution |
+|---------|--------|----------|
+| `tsconfig.json` | Config technique partagée | Éditer `.templates/tsconfig.json` + `sync-config-files.sh` |
+| `Dockerfile` | Build Docker unifié | Éditer `.templates/Dockerfile.template` + `sync-config-files.sh` |
+| `.dockerignore` | Exclusions Docker | Éditer `.templates/.dockerignore` + `sync-config-files.sh` |
+| `.eslintrc.json` | Règles ESLint | Éditer `.templates/.eslintrc.json` + `sync-config-files.sh` |
+| `components/Hero.tsx` | Composant partagé | Éditer `/components/Hero.tsx` + `sync-components.sh` |
+| `components/HowItWorks.tsx` | Composant partagé | Éditer `/components/HowItWorks.tsx` + `sync-components.sh` |
+| `components/StickyCTA.tsx` | Composant partagé | Éditer `/components/StickyCTA.tsx` + `sync-components.sh` |
+| `app/globals.css` | Styles globaux | Éditer `/app/globals.css` + `sync-components.sh` |
+
+**Pourquoi ?**
+- ❌ Modifications directes = incohérences entre sites
+- ❌ Sera écrasé au prochain sync
+- ❌ Impossibilité de maintenir 11 sites
+- ❌ Bugs en production (ex: images manquantes)
+
+### ✅ Fichiers Modifiables par Site
+
+Ces fichiers PEUVENT être modifiés directement :
+
+| Fichier | Pourquoi local | Exemple |
+|---------|----------------|---------|
+| `Testimonials.tsx` | Quartiers spécifiques par ville | "Capitole" ≠ "Vieux-Port" |
+| `NeighborhoodsTeaser.tsx` | Liste quartiers différente | Toulouse 5 quartiers, Marseille 8 |
+| `app/layout.tsx` | Metadata spécifique (title, URL) | devis-demenageur-toulouse.fr vs marseille.fr |
+| `content/blog/*.md` | Articles locaux | Blog Toulouse ≠ Blog Marseille |
+| `.env.local` | Variables d'environnement | SITE_SLUG, SITE_URL différents |
+| `public/robots.txt` | Si domaine custom | Bordeaux a www., autres non |
+
+### 🔍 Script de Validation
+
+**Avant chaque commit**, vérifier la cohérence :
+
+```bash
+./scripts/validate-consistency.sh
+```
+
+**Sortie attendue** :
+```
+✅ tsconfig.json : Tous identiques
+✅ Dockerfile : Tous identiques
+✅ Hero.tsx : Tous identiques
+✅ globals.css : Tous identiques
+✅ VALIDATION RÉUSSIE
+```
+
+**Si erreurs détectées** :
+```
+❌ Hero.tsx : 2 versions différentes
+→ Correction : ./scripts/sync-components.sh
+```
+
+### 📋 Checklist Pré-Commit
+
+Avant chaque `git commit` :
+
+```bash
+# 1. Valider cohérence
+./scripts/validate-consistency.sh
+
+# 2. Si erreurs, corriger via sync
+./scripts/sync-config-files.sh    # Pour configs
+./scripts/sync-components.sh      # Pour composants
+
+# 3. Re-valider
+./scripts/validate-consistency.sh
+
+# 4. Commit seulement si ✅
+git add -A
+git commit -m "..."
+```
+
+### 🆘 En Cas d'Erreur
+
+**Symptôme** : Images manquantes en prod, builds incohérents
+
+**Diagnostic** :
+```bash
+./scripts/validate-consistency.sh
+```
+
+**Correction** :
+```bash
+# Voir les corrections suggérées dans l'output du script
+# Exemple :
+./scripts/sync-config-files.sh
+./scripts/sync-components.sh
+```
 
 ---
 

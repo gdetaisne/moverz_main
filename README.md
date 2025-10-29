@@ -111,7 +111,35 @@ cd sites/lille && npm run dev -- -p 4001
 ./scripts/push-all-sites-to-github.sh
 ```
 
+### 4. Valider la Cohérence ⭐
+```bash
+# Vérifier que tous les sites sont synchronisés
+./scripts/validate-consistency.sh
+
+# À exécuter AVANT chaque commit !
+# Détecte les modifications directes aux sites (erreur courante)
+```
+
 **Voir `scripts/README.md` pour la documentation complète.**
+
+---
+
+## ⚠️ Règles Importantes
+
+### 🚨 Ne JAMAIS Faire
+
+❌ **Modifier directement** `sites/{ville}/tsconfig.json`, `Dockerfile`, `components/Hero.tsx`, etc.
+
+**Pourquoi ?** Crée des incohérences entre les 11 sites → bugs en production
+
+### ✅ Workflow Correct
+
+1. Éditer `.templates/` ou `/components/` (template root)
+2. Lancer `sync-config-files.sh` ou `sync-components.sh`
+3. **Vérifier** avec `validate-consistency.sh`
+4. Commit et déployer
+
+**Voir `ARCHITECTURE.md` section "Règles de Cohérence & Garde-Fous"**
 
 ## 🐛 Troubleshooting
 
