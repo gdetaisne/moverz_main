@@ -94,7 +94,7 @@ Trouver aide déménagement dernier moment <48h Nantes nécessite **stratégies 
 Notre recommandation urgences <48h Nantes : **Messages Frizbiz 30-50 porteurs** simultanés (réponses 15-25 <6h vs 5-10 normaux = ×2-3, tarifs 40€/h annoncés d'emblée vs 28€ normaux +43% acceptables urgences), **famille/amis sollicitations** WhatsApp si relations proches + causes légitimes expulsions/sinistres (acceptations 40-60% vs 70-85% planifiés, compensations 80-150€ générosités vs 40-80€), **Move Express** si échecs plateformes/famille (forfaits urgences +40-60% = 308-770€ vs majors +40-80% = 770-1150€, disponibilités 50-70% flexibles), **préventions futures** réservations 10-15j systématiques (économies 120-450€ surcoûts urgences + stress réduit).
 
 
-Pour aller plus loin, explorez notre [guide aide déménagement à Nantes](/blog/aide-demenagement-nantes/aide-demenagement-nantes-guide) ainsi que nos guides complémentaires : [plateformes d'aide déménagement](/blog/aide-demenagement-nantes/plateformes-aide-demenagement-nantes) et [étudiants déménageurs](/blog/aide-demenagement-nantes/etudiants-aide-demenagement-nantes).
+Pour aller plus loin, explorez notre [guide aide déménagement à Nantes](/blog/aide-demenagement-nantes/aide-demenagement-nantes-guide) ainsi que nos guides complémentaires : [plateformes d'aide déménagement](/blog/satellites/plateformes-aide-demenagement-nantes) et [étudiants déménageurs](/blog/satellites/etudiants-aide-demenagement-nantes).
 
 ## Questions Fréquentes
 

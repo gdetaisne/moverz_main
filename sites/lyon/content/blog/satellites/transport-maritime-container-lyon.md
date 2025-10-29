@@ -21,7 +21,7 @@ Le transport maritime par container constitue le mode incontournable pour démé
 
 Les ports accessibles depuis Lyon présentent des spécificités : Marseille-Fos (315 km, 3h30 via A7) optimal pour destinations Méditerranée/Maghreb (Algérie 10j, Tunisie 8j, Maroc 12j) et Moyen-Orient, Le Havre (650 km, 6h via A6) préférable pour Amériques (New York 18j, Montréal 22j) et Asie (Shanghai 30j, Singapour 35j), Anvers-Rotterdam (900 km, 8-9h) alternatif pour destinations Asie si tarifs compétitifs via transporteurs néerlandais. Le choix du port impacte coût (pré-acheminement variable) et délai (routage maritime optimal selon destination).
 
-Ce guide explique principe container (LCL groupage vs FCL exclusif), détaille tarifs par destination depuis Lyon, compare ports Marseille vs Le Havre, révèle délais réels pré-acheminement + transit + dédouanement, et présente avantages/inconvénients maritime vs routier Europe ou aérien urgences. Pour destinations Europe, consultez [déménagement Europe Lyon](/blog/demenagement-international-lyon/demenagement-europe-lyon) privilégiant routier.
+Ce guide explique principe container (LCL groupage vs FCL exclusif), détaille tarifs par destination depuis Lyon, compare ports Marseille vs Le Havre, révèle délais réels pré-acheminement + transit + dédouanement, et présente avantages/inconvénients maritime vs routier Europe ou aérien urgences. Pour destinations Europe, consultez [déménagement Europe Lyon](/blog/satellites/demenagement-europe-lyon) privilégiant routier.
 
 ## Types de Containers et Volumes
 
@@ -222,7 +222,7 @@ Le transport maritime par container depuis Lyon vers destinations intercontinent
 
 Le groupage LCL convient aux volumes <25m³ (studio, T2) avec flexibilité dates (+5-10j délai constitution), l'exclusif FCL aux volumes >25m³ (T3+) ou objets précieux nécessitant manutention unique. Les délais totaux (25-65 jours) incluent pré-acheminement Lyon-port (1-2j), transit maritime (7-50j selon destination), dédouanement arrivée (3-10j), et livraison finale (1-3j). L'aérien (5-10j) reste réservé urgences absolues (coût 3-5× supérieur maritime).
 
-Pour destinations Europe (<1500 km), privilégiez [transport routier direct](/blog/demenagement-international-lyon/demenagement-europe-lyon) (2-7j, 2000-6500€). Explorez aussi [prix détaillés international Lyon](/blog/demenagement-international-lyon/prix-demenagement-international-lyon) et [notre guide complet](/blog/demenagement-international-lyon/demenagement-international-lyon-guide-complet). Bon voyage maritime !
+Pour destinations Europe (<1500 km), privilégiez [transport routier direct](/blog/satellites/demenagement-europe-lyon) (2-7j, 2000-6500€). Explorez aussi [prix détaillés international Lyon](/blog/satellites/prix-demenagement-international-lyon) et [notre guide complet](/blog/demenagement-international-lyon/demenagement-international-lyon-guide-complet). Bon voyage maritime !
 
 ---
 

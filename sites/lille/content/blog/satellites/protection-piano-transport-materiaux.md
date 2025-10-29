@@ -160,7 +160,7 @@ Protection incluse forfaits : spécialistes Monte-Piano 250-1 200€ incluent ma
 
 Matériel spécialisé justifie tarifs : piano droit RDC 250-450€ inclut sangles 5t 250€ amortissement + couvertures 400€ + chariot 1 200€ amortissement + main-d'œuvre 4 porteurs 2h = coûts réels 150€ matériel amorti + 200€ MO = 350€ (vs facturé 250-450€ = marge 0-100€ raisonnable 0-22%). Queue 600-1 200€ inclut matériel 10t 400€ + 6 porteurs 4h = 250€ matériel + 400€ MO = 650€ (vs 600-1 200€ = marge 0-550€ = 0-85% variable).
 
-Consultez notre [guide déménagement piano Lille](/blog/demenagement-piano-lille/demenagement-piano-lille-prix), notre [guide spécialistes](/blog/demenagement-piano-lille/specialistes-piano-lille), notre [guide assurance](/blog/demenagement-piano-lille/assurance-piano-demenagement-lille) et notre [guide Vieux-Lille](/blog/demenagement-piano-lille/piano-vieux-lille-acces-difficiles).
+Consultez notre [guide déménagement piano Lille](/blog/demenagement-piano-lille/demenagement-piano-lille-prix), notre [guide spécialistes](/blog/satellites/specialistes-piano-lille), notre [guide assurance](/blog/satellites/assurance-piano-demenagement-lille) et notre [guide Vieux-Lille](/blog/demenagement-piano-lille/piano-vieux-lille-acces-difficiles).
 
 
 

@@ -127,7 +127,7 @@ Opération inverse chargement, même rigueur.
 
 **Tarif** : 80-150€ séance (1h30-2h).
 
-**Fréquence** : Accordage immédiat + 2ème accordage 3 mois après (stabilisation complète). [Détails accordage →](/blog/demenagement-piano-lyon/accordage-piano-apres-demenagement-lyon)
+**Fréquence** : Accordage immédiat + 2ème accordage 3 mois après (stabilisation complète). [Détails accordage →](/blog/satellites/accordage-piano-apres-demenagement-lyon)
 
 ## Questions Fréquentes
 
@@ -157,7 +157,7 @@ Opération inverse chargement, même rigueur.
 
 ### Accordage après déménagement obligatoire ?
 
-**Oui, accordage obligatoire 48-72h après livraison Lyon (vibrations transport désaccordent toujours piano, cordes perdent tension, mécanique subit secousses).** Accordeurs Lyon : annuaire ANRAT, liste Conservatoire Lyon (04 78 95 21 21), Pages Jaunes "Accordeur piano Lyon" (20-30 professionnels). Tarif : 80-150€ séance 1h30-2h. Fréquence : 1× immédiat post-déménagement + 1× après 3 mois (stabilisation température/hygrométrie nouveau logement). [Détails →](/blog/demenagement-piano-lyon/accordage-piano-apres-demenagement-lyon)
+**Oui, accordage obligatoire 48-72h après livraison Lyon (vibrations transport désaccordent toujours piano, cordes perdent tension, mécanique subit secousses).** Accordeurs Lyon : annuaire ANRAT, liste Conservatoire Lyon (04 78 95 21 21), Pages Jaunes "Accordeur piano Lyon" (20-30 professionnels). Tarif : 80-150€ séance 1h30-2h. Fréquence : 1× immédiat post-déménagement + 1× après 3 mois (stabilisation température/hygrométrie nouveau logement). [Détails →](/blog/satellites/accordage-piano-apres-demenagement-lyon)
 
 ---
 
@@ -167,7 +167,7 @@ Transporter un piano Lyon suit processus professionnel rigoureux en 6 étapes (�
 
 L'évaluation préalable visite technique Lyon (gratuite, 20-30 min) sécurise devis précis (évite surcoûts jour J), identifie nécessité monte-meuble (4ème+ étage, Croix-Rousse), et planifie équipe adaptée (2-5 personnes selon poids/configuration). La protection renforcée (housse épaisse, sanglage, calage camion) et conduite douce (vitesse modérée, virages lents, suspension amortie) minimisent risques casse. L'accordage post-déménagement (80-150€, 48-72h après) reste obligatoire.
 
-Consultez [prix piano Lyon](/blog/demenagement-piano-lyon/prix-demenagement-piano-droit-lyon), [matériel spécifique](/blog/demenagement-piano-lyon/materiel-demenagement-piano), [spécialistes Lyon](/blog/demenagement-piano-lyon/demenageur-specialiste-piano-lyon), [guide complet](/blog/demenagement-piano-lyon/demenagement-piano-lyon-guide-complet). Bon transport !
+Consultez [prix piano Lyon](/blog/demenagement-piano-lyon/prix-demenagement-piano-droit-lyon), [matériel spécifique](/blog/satellites/materiel-demenagement-piano), [spécialistes Lyon](/blog/satellites/demenageur-specialiste-piano-lyon), [guide complet](/blog/demenagement-piano-lyon/demenagement-piano-lyon-guide-complet). Bon transport !
 
 ---
 

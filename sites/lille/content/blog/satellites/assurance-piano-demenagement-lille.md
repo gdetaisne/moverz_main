@@ -195,7 +195,7 @@ Comparaison spécialiste vs généraliste assurance : spécialiste Monte-Piano 1
 
 Vérification avant déménagement : demandez attestation assurance (document officiel compagnie MMA/Allianz/Generali, validité date couverture active, montant garantie 100k€ minimum, franchise 300-500€, objets précieux clause limites vérifiez >20k€ couverts), conditions générales (exclusions usure/défaut/emballage, procédure déclaration sinistre 48-72h, délai indemnisation 30-60j), références sinistres (si spécialiste 150+ pianos/an, demandez gestion sinistres précédents réactivité).
 
-Consultez notre [guide déménagement piano Lille](/blog/demenagement-piano-lille/demenagement-piano-lille-prix), notre [guide spécialistes](/blog/demenagement-piano-lille/specialistes-piano-lille), notre [guide droit vs queue](/blog/demenagement-piano-lille/piano-droit-queue-transport-differences) et notre [guide monte-piano](/blog/demenagement-piano-lille/monte-piano-specialiste-lille).
+Consultez notre [guide déménagement piano Lille](/blog/demenagement-piano-lille/demenagement-piano-lille-prix), notre [guide spécialistes](/blog/satellites/specialistes-piano-lille), notre [guide droit vs queue](/blog/satellites/piano-droit-queue-transport-differences) et notre [guide monte-piano](/blog/satellites/monte-piano-specialiste-lille).
 
 
 

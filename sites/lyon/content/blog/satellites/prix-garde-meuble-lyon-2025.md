@@ -169,7 +169,7 @@ Différence : 300€ (+12,5% self)
 
 ### Quelle taille box pour T2 Lyon ?
 
-**T2 complet mobilier (salon, chambre, cuisine, 80-100 cartons) : box 15m² nécessaire (300-380€/mois). T2 partiel (mobilier principal, affaires essentielles temporaires) : box 10m² suffit (220-280€/mois).** Studio complet : 5m² (130-170€). T3 complet : 20-25m² (380-600€). Déménageur évalue volume précis (visite gratuite ou inventaire photos). Sous-estimer taille = box saturé, impossible fermer. Sur-estimer = payer m² inutiles. [Guide tailles →](/blog/garde-meuble-lyon/taille-box-choisir-lyon)
+**T2 complet mobilier (salon, chambre, cuisine, 80-100 cartons) : box 15m² nécessaire (300-380€/mois). T2 partiel (mobilier principal, affaires essentielles temporaires) : box 10m² suffit (220-280€/mois).** Studio complet : 5m² (130-170€). T3 complet : 20-25m² (380-600€). Déménageur évalue volume précis (visite gratuite ou inventaire photos). Sous-estimer taille = box saturé, impossible fermer. Sur-estimer = payer m² inutiles. [Guide tailles →](/blog/satellites/taille-box-choisir-lyon)
 
 ### Promotions garde-meuble Lyon 2025 ?
 
@@ -183,7 +183,7 @@ Les prix garde-meuble Lyon 2025 s'échelonnent de 55€/mois (1m², 10-15 carton
 
 Promotions (1er mois offert, -10-15% engagements 12 mois) économisent 150-500€ selon taille/durée. Variations quartiers (centre +20-30%, périphérie standards) influencent choix site. Court terme 1-3 mois : self-stockage optimal (flexibilité). Long terme 12+ mois ou volumes >40m³ : comparer self vs traditionnel (économie 10-20% traditionnel possible).
 
-Pour choisir taille adaptée, consultez [guide tailles box Lyon](/blog/garde-meuble-lyon/taille-box-choisir-lyon). Pour acteurs détaillés, voir [Shurgard Lyon sites](/blog/garde-meuble-lyon/shurgard-lyon-sites-tarifs). Explorez aussi [guide complet garde-meuble](/blog/garde-meuble-lyon/garde-meuble-lyon-guide-complet). Bon stockage !
+Pour choisir taille adaptée, consultez [guide tailles box Lyon](/blog/satellites/taille-box-choisir-lyon). Pour acteurs détaillés, voir [Shurgard Lyon sites](/blog/garde-meuble-lyon/shurgard-lyon-sites-tarifs). Explorez aussi [guide complet garde-meuble](/blog/garde-meuble-lyon/garde-meuble-lyon-guide-complet). Bon stockage !
 
 ---
 

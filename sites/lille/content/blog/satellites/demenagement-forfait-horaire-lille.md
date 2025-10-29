@@ -167,7 +167,7 @@ Forfait aligne déménageur/client : déménageur optimise temps (finir vite = r
 
 Studio Moulins 16m³ : horaire 2,5h × 120€ + 120€ = 420€ vs forfait 550€ (économie 130€ si durée respectée). T2 Wazemmes : forfait 1 000€ systématiquement (horaire trop risqué 6-8h variables). Demandez les 2 options dans devis si petit volume, comparez avec marge sécurité (+15% durée prévue horaire pour anticiper dépassements).
 
-Consultez notre [guide prix Lille](/blog/prix-demenagement-lille/prix-demenagement-lille-guide), notre [comparatif formules](/blog/demenageur-lille/formule-economique-cle-en-main-lille) et notre [guide choix déménageur](/blog/demenageur-lille/choisir-demenageur-lille-10-criteres).
+Consultez notre [guide prix Lille](/blog/prix-demenagement-lille/prix-demenagement-lille-guide), notre [comparatif formules](/blog/satellites/formule-economique-cle-en-main-lille) et notre [guide choix déménageur](/blog/demenageur-lille/choisir-demenageur-lille-10-criteres).
 
 
 

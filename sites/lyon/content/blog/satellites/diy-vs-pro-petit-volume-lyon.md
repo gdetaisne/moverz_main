@@ -21,7 +21,7 @@ Déménager chambre/studio Lyon DIY (louer camionnette, conduire, charger/décha
 
 Le seuil rentabilité DIY vs pro dépend volume réel et capacités : chambre étudiante légère <6m³ (15 cartons + lit 90 + bureau + chaise, total 200-300 kg affaires) favorable DIY (économie 90-160€ justifie 3-4h efforts modérés, aide 1-2 amis suffit), studio partiel 8-10m³ (canapé 2 places 80 kg + lit 140 + table + 30 cartons, 500-700 kg) limite DIY (efforts ++ 6-8h, risque blessure portage lourd escaliers, économie 100€ vs risque médical/casse), studio complet >12m³ ou T1 (mobilier complet 800-1200 kg, 40-60 cartons) pro recommandé (DIY quasi-impossible seul, nécessite 3-4 amis + 8-12h + risques casse majeurs). L'âge/condition physique influence : étudiants 20-30 ans sportifs/actifs tolèrent DIY (récupération rapide courbatures/fatigue), 40-50+ ans sédentaires risquent blessures (dos lombalgie fréquente déménagements DIY 55+ ans selon études, entorses genoux/chevilles portage maladroit).
 
-Ce guide compare point par point DIY vs pro petit volume Lyon (coûts réels 60-90€ vs 150-250€, efforts physiques, temps 6-10h vs 2-3h, risques casse/blessures, assurance), révèle calculs rentabilité (seuils volume, âge, aides disponibles), présente cas favorables DIY (chambre légère, budget <100€, aide fiable) vs cas pro obligatoire (étages >5ème, meubles lourds, seniors), et conseille hybride (louer camionnette + embaucher 1 manutentionnaire freelance 50-80€ = 110-170€ total compromis). Pour formule économique, consultez [formule économique Lyon](/blog/demenagement-petit-volume-lyon/formule-economique-petit-volume-lyon).
+Ce guide compare point par point DIY vs pro petit volume Lyon (coûts réels 60-90€ vs 150-250€, efforts physiques, temps 6-10h vs 2-3h, risques casse/blessures, assurance), révèle calculs rentabilité (seuils volume, âge, aides disponibles), présente cas favorables DIY (chambre légère, budget <100€, aide fiable) vs cas pro obligatoire (étages >5ème, meubles lourds, seniors), et conseille hybride (louer camionnette + embaucher 1 manutentionnaire freelance 50-80€ = 110-170€ total compromis). Pour formule économique, consultez [formule économique Lyon](/blog/satellites/formule-economique-petit-volume-lyon).
 
 ## Comparatif Détaillé
 
@@ -93,7 +93,7 @@ Ce guide compare point par point DIY vs pro petit volume Lyon (coûts réels 60-
 
 ### DIY ou pro déménagement Lyon ?
 
-**DIY (60-90€) si : chambre <6m³, budget <100€, aide 2-3 amis fiable, bon condition physique 20-40 ans, RDC-3ème étages, distance <10 km, meubles légers <80 kg. Économie 90-160€ justifie efforts 4-6h. Pro (150-250€) si : studio >10m³, étages >4ème, meubles lourds >100 kg, senior 60+, pas aide, meubles valeur >1500€, gain temps prioritaire (4-7h vs DIY).** Hybride : location camionnette + 1 manutentionnaire freelance 110-170€ (compromis économie/efforts). [Formule économique →](/blog/demenagement-petit-volume-lyon/formule-economique-petit-volume-lyon)
+**DIY (60-90€) si : chambre <6m³, budget <100€, aide 2-3 amis fiable, bon condition physique 20-40 ans, RDC-3ème étages, distance <10 km, meubles légers <80 kg. Économie 90-160€ justifie efforts 4-6h. Pro (150-250€) si : studio >10m³, étages >4ème, meubles lourds >100 kg, senior 60+, pas aide, meubles valeur >1500€, gain temps prioritaire (4-7h vs DIY).** Hybride : location camionnette + 1 manutentionnaire freelance 110-170€ (compromis économie/efforts). [Formule économique →](/blog/satellites/formule-economique-petit-volume-lyon)
 
 ### Location camion Lyon prix ?
 
@@ -109,7 +109,7 @@ Ce guide compare point par point DIY vs pro petit volume Lyon (coûts réels 60-
 
 DIY déménagement petit volume Lyon (60-90€ location camionnette + essence) économise 90-190€ vs pro (150-250€), soit 60-76% moins cher, mais nécessite efforts physiques (6-10h porter 600-1200 kg cumulés escaliers, risque dos/entorse), temps (journée vs 2-3h pros), coordination amis, permis B, et risques casse (meubles rayés, franchise 500-1000€ assurance). Pro = zéro effort, rapidité, assurance complète, 0,5% incidents.
 
-DIY favorable : chambre <6m³, budget <100€, aide fiable, 20-40 ans sportif, RDC-3ème, distance <10 km. Pro recommandé : étages >4ème, meubles >100 kg, senior 60+, pas aide, meubles valeur. Hybride : camionnette + 1 manutentionnaire freelance 110-170€ (compromis). Consultez [prix](/blog/demenagement-petit-volume-lyon/prix-petit-demenagement-lyon), [formule économique](/blog/demenagement-petit-volume-lyon/formule-economique-petit-volume-lyon). Bon choix !
+DIY favorable : chambre <6m³, budget <100€, aide fiable, 20-40 ans sportif, RDC-3ème, distance <10 km. Pro recommandé : étages >4ème, meubles >100 kg, senior 60+, pas aide, meubles valeur. Hybride : camionnette + 1 manutentionnaire freelance 110-170€ (compromis). Consultez [prix](/blog/satellites/prix-petit-demenagement-lyon), [formule économique](/blog/satellites/formule-economique-petit-volume-lyon). Bon choix !
 
 ---
 

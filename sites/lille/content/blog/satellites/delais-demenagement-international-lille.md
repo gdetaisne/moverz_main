@@ -249,7 +249,7 @@ Optimisation délais : conteneur exclusif (départ immédiat vs groupage +2-4 se
 
 Groupage vs exclusif : groupage économise -40-50% prix (4k€ vs 7k€ conteneur 20 pieds USA) mais rallonge +2-4 sem délai attente remplissage optimal (déménageur groupe 2-3 clients calendriers/destinations compatibles), exclusif priorité départ immédiat 6-8 sem total. Arbitrage : délai flexible + budget serré = groupage, délai court <8 sem impératif (contrat travail débute date précise) = exclusif surcoût justifié.
 
-Consultez notre [guide déménagement international Lille](/blog/demenagement-international-lille/demenagement-international-lille-guide), notre [article prix international](/blog/demenagement-international-lille/prix-demenagement-international-lille-2025), notre [guide conteneurs](/blog/demenagement-international-lille/transport-conteneur-demenagement-international) et notre [guide Lille-USA](/blog/demenagement-international-lille/demenagement-lille-usa-formalites).
+Consultez notre [guide déménagement international Lille](/blog/demenagement-international-lille/demenagement-international-lille-guide), notre [article prix international](/blog/demenagement-international-lille/prix-demenagement-international-lille-2025), notre [guide conteneurs](/blog/satellites/transport-conteneur-demenagement-international) et notre [guide Lille-USA](/blog/demenagement-international-lille/demenagement-lille-usa-formalites).
 
 
 

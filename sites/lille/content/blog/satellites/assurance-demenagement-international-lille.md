@@ -239,7 +239,7 @@ Objets valeur >1 000€ (bijoux, œuvres art 15k€, antiquités 30k€, pianos 
 
 Déménageurs internationaux Lille (AGS, Crown, Allied) proposent 2 formules : standard 2-2,5% (couverture générale tous risques, franchise 300-500€) ou premium 3-4% (franchise réduite 100-200€, objets valeur >5k€ couverts intégralement, suivi GPS conteneur renforcé, indemnisation rapide 30j vs 60-90j standard).
 
-Consultez notre [guide déménagement international Lille](/blog/demenagement-international-lille/demenagement-international-lille-guide), notre [article prix international](/blog/demenagement-international-lille/prix-demenagement-international-lille-2025), notre [guide formalités douanes](/blog/demenagement-international-lille/formalites-douanieres-demenagement-international) et notre [guide conteneurs](/blog/demenagement-international-lille/transport-conteneur-demenagement-international).
+Consultez notre [guide déménagement international Lille](/blog/demenagement-international-lille/demenagement-international-lille-guide), notre [article prix international](/blog/demenagement-international-lille/prix-demenagement-international-lille-2025), notre [guide formalités douanes](/blog/satellites/formalites-douanieres-demenagement-international) et notre [guide conteneurs](/blog/satellites/transport-conteneur-demenagement-international).
 
 
 

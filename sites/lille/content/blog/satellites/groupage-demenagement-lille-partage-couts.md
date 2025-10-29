@@ -104,7 +104,7 @@ Groupage local Lille (intra-métropole) économise peu : déménageurs font déj
 
 Arbitrage économies : **DIY partagé** 110€/pers (effort 12h, conduite), **groupage** 800€/pers (délégation, contrainte dates), **dédié** 1 600€/pers (flexibilité totale, 0 coordination). Budget <200€ = DIY impératif, 500-1 000€ = groupage compromis, >1 000€ = dédié confort. Statistiques : juin-juillet Lille-Paris groupages 20-30% déménagements étudiants (volume suffisant coordination), reste année 5-10% (clients rares compatibles).
 
-Consultez notre [guide déménagement pas cher Lille](/blog/demenagement-pas-cher-lille/demenagement-pas-cher-lille-guide), notre [article DIY](/blog/demenagement-pas-cher-lille/diy-demenagement-lille-budget-mini), notre [guide aller simple Lille-Paris](/blog/location-camion-lille/location-camion-aller-simple-lille-paris) et notre [article aides](/blog/demenagement-pas-cher-lille/aides-financieres-demenagement-lille).
+Consultez notre [guide déménagement pas cher Lille](/blog/demenagement-pas-cher-lille/demenagement-pas-cher-lille-guide), notre [article DIY](/blog/demenagement-pas-cher-lille/diy-demenagement-lille-budget-mini), notre [guide aller simple Lille-Paris](/blog/location-camion-lille/location-camion-aller-simple-lille-paris) et notre [article aides](/blog/satellites/aides-financieres-demenagement-lille).
 
 
 

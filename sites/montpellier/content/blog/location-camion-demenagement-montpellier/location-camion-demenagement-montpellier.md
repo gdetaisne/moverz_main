@@ -24,7 +24,7 @@ La location d'un camion ou d'un utilitaire est la solution privilégiée par de 
 - [Volumes camions déménagement disponibles Montpellier](/blog/location-camion-demenagement-montpellier/volumes-camions-demenagement-disponibles-montpellier) - 3m³ à 40m³
 
 **Prix et Comparatif :**
-- [Prix location camion déménagement Montpellier 2025](/blog/location-camion-demenagement-montpellier/prix-location-camion-demenagement-montpellier) - Tarifs par volume et durée
+- [Prix location camion déménagement Montpellier 2025](/blog/location-camion-demenagement-montpellier/location-camion-demenagement-montpellier) - Tarifs par volume et durée
 - [Comparatif loueurs utilitaires Montpellier](/blog/location-camion-demenagement-montpellier/comparatif-loueurs-utilitaires-montpellier) - Hertz, Europcar, Budget, particuliers
 
 **Conditions Location :**
@@ -34,7 +34,7 @@ La location d'un camion ou d'un utilitaire est la solution privilégiée par de 
 
 **Pratique :**
 - [Où louer camion weekend Montpellier](/blog/location-camion-demenagement-montpellier/ou-louer-camion-weekend-montpellier) - Disponibilité samedi-dimanche
-- [Kilométrage inclus location camion Montpellier](/blog/location-camion-demenagement-montpellier/kilometrage-inclus-location-camion-montpellier) - Forfaits, dépassement
+- [Kilométrage inclus location camion Montpellier](/blog/satellites/kilometrage-inclus-location-camion-montpellier) - Forfaits, dépassement
 - [Stationnement camion centre Montpellier](/blog/location-camion-demenagement-montpellier/stationnement-camion-centre-montpellier) - Écusson, Comédie, autorisations
 - [Conseils conduire camion Montpellier DIY](/blog/location-camion-demenagement-montpellier/conseils-conduire-camion-montpellier) - Ruelles, manœuvres
 

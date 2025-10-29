@@ -96,7 +96,7 @@ Cette optimisation nécessite flexibilité calendrier : maîtrise dates fin bail
 Limite : météo Nantes nov-mars (pluie, froid 8-12°C, nuits 17h) nécessite précautions (bâches, vêtements chauds, éclairage), et motivation helpers amis réduite (-10-15% vs été ensoleillé). Mais économie 70-150€ + disponibilité excellente (réservation 1 semaine vs 6 semaines septembre) compensent largement. Notre conseil : si vous avez la main sur votre calendrier, visez janvier-février (tarifs minimum annuels 430-450€ T2 Nantes, disponibilité maximale, négociation facilitée).
 
 
-Pour aller plus loin, explorez notre [guide déménagement pas cher à Nantes](/blog/demenagement-pas-cher-nantes/demenagement-pas-cher-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement pas cher 2025](/blog/demenagement-pas-cher-nantes/prix-demenagement-pas-cher-nantes-2025) et [astuces pour réduire les coûts](/blog/demenagement-pas-cher-nantes/astuces-reduire-cout-demenagement-nantes).
+Pour aller plus loin, explorez notre [guide déménagement pas cher à Nantes](/blog/demenagement-pas-cher-nantes/demenagement-pas-cher-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement pas cher 2025](/blog/demenagement-pas-cher-nantes/prix-demenagement-pas-cher-nantes-2025) et [astuces pour réduire les coûts](/blog/satellites/astuces-reduire-cout-demenagement-nantes).
 
 ## Questions Fréquentes
 

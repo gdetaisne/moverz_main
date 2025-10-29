@@ -37,7 +37,7 @@ FAQ complète garde-meuble Lyon couvrant 18 questions fréquentes : prix (55-480
 
 ### 4. Taille box pour studio Lyon ?
 
-**Studio complet : box 5m² (130-170€/mois, volume 11-12m³). Studio partiel/affaires saison : 3m² (90-120€). Studio + cave : 10m² (220-280€).** Équivalence 5m² : lit double, canapé 2 places, table, étagères, 40-50 cartons. Sous-estimer fréquent (réserver 3m² insuffisant = saturation). Visite site visualiser avant. [Guide tailles →](/blog/garde-meuble-lyon/taille-box-choisir-lyon)
+**Studio complet : box 5m² (130-170€/mois, volume 11-12m³). Studio partiel/affaires saison : 3m² (90-120€). Studio + cave : 10m² (220-280€).** Équivalence 5m² : lit double, canapé 2 places, table, étagères, 40-50 cartons. Sous-estimer fréquent (réserver 3m² insuffisant = saturation). Visite site visualiser avant. [Guide tailles →](/blog/satellites/taille-box-choisir-lyon)
 
 ### 5. Taille box T2 Lyon ?
 
@@ -61,7 +61,7 @@ FAQ complète garde-meuble Lyon couvrant 18 questions fréquentes : prix (55-480
 
 ### 9. Durée minimum box Lyon ?
 
-**1 mois minimum (Shurgard, Homebox, Une Pièce en Plus). Résiliation préavis 1 mois.** Exemple : location 1er sept, résiliation 15 oct = fin 15 nov (facturation 3 mois). Engagements 6-12 mois : -10-15% (box 10m² 240€ → 210€ = économie 360€/an). Pénalités résiliation anticipée engagement. [Détails →](/blog/garde-meuble-lyon/duree-minimum-location-box-lyon)
+**1 mois minimum (Shurgard, Homebox, Une Pièce en Plus). Résiliation préavis 1 mois.** Exemple : location 1er sept, résiliation 15 oct = fin 15 nov (facturation 3 mois). Engagements 6-12 mois : -10-15% (box 10m² 240€ → 210€ = économie 360€/an). Pénalités résiliation anticipée engagement. [Détails →](/blog/satellites/duree-minimum-location-box-lyon)
 
 ### 10. Accès 24/7 garde-meuble Lyon ?
 
@@ -79,7 +79,7 @@ FAQ complète garde-meuble Lyon couvrant 18 questions fréquentes : prix (55-480
 
 ### 13. Self vs garde-meuble traditionnel Lyon ?
 
-**Self (Shurgard 25-30€/m²/mois, accès 24/7, autonomie) vs traditionnel (déménageurs 8-15€/m³/mois, RDV accès, manutention incluse).** T2 40m³ 6 mois : self 15m² 2700€ vs traditionnel 2400€ (économie 300€ mais RDV). Self = flexibilité court terme. Traditionnel = économie volumes >40m³ long terme. [Comparatif →](/blog/garde-meuble-lyon/self-stockage-vs-garde-meuble-traditionnel-lyon)
+**Self (Shurgard 25-30€/m²/mois, accès 24/7, autonomie) vs traditionnel (déménageurs 8-15€/m³/mois, RDV accès, manutention incluse).** T2 40m³ 6 mois : self 15m² 2700€ vs traditionnel 2400€ (économie 300€ mais RDV). Self = flexibilité court terme. Traditionnel = économie volumes >40m³ long terme. [Comparatif →](/blog/satellites/self-stockage-vs-garde-meuble-traditionnel-lyon)
 
 ### 14. Box ou déménagement complet ?
 
@@ -93,11 +93,11 @@ FAQ complète garde-meuble Lyon couvrant 18 questions fréquentes : prix (55-480
 
 ### 16. Stockage pendant travaux combien ?
 
-**Travaux logement 2-4 mois : box 10-15m² T2 mobilier (440-1520€ total). Box 10m² 2 mois : 440-560€. Box 15m² 4 mois : 1200-1520€.** Alternative garde-meuble traditionnel -20-30% (T2 40m³ 3 mois 960-1350€ vs self 10m² 660-840€ si partiel). Travaux légers (peinture 1 mois) : box 5m² affaires essentielles 130-170€. [Stockage déménagement →](/blog/garde-meuble-lyon/stockage-pendant-demenagement-lyon)
+**Travaux logement 2-4 mois : box 10-15m² T2 mobilier (440-1520€ total). Box 10m² 2 mois : 440-560€. Box 15m² 4 mois : 1200-1520€.** Alternative garde-meuble traditionnel -20-30% (T2 40m³ 3 mois 960-1350€ vs self 10m² 660-840€ si partiel). Travaux légers (peinture 1 mois) : box 5m² affaires essentielles 130-170€. [Stockage déménagement →](/blog/satellites/stockage-pendant-demenagement-lyon)
 
 ### 17. Garde-meuble entreprise Lyon tarifs ?
 
-**Entreprises boxes 15-50m² : 15m² 300-380€/mois HT, 25m² 500-750€ HT, 50m² 1000-1500€ HT. TVA 20% déductible (coût réel HT).** Usages : archives 10 ans légales (10-25m² TPE-PME), stock saisonnier (20-100m² e-commerce), mobilier bureaux temporaire (30-50m² déménagements). Engagements 12 mois : -10-15%. Facturation SIRET, virements. [Pro →](/blog/garde-meuble-lyon/garde-meuble-entreprise-lyon)
+**Entreprises boxes 15-50m² : 15m² 300-380€/mois HT, 25m² 500-750€ HT, 50m² 1000-1500€ HT. TVA 20% déductible (coût réel HT).** Usages : archives 10 ans légales (10-25m² TPE-PME), stock saisonnier (20-100m² e-commerce), mobilier bureaux temporaire (30-50m² déménagements). Engagements 12 mois : -10-15%. Facturation SIRET, virements. [Pro →](/blog/satellites/garde-meuble-entreprise-lyon)
 
 ### 18. Résiliation box Lyon préavis ?
 
@@ -111,7 +111,7 @@ FAQ garde-meuble Lyon 2025 répond 18 questions essentielles : prix 55-480€/mo
 
 Spécificités Lyon : étudiants 170 000 stockage été (boxes 1-3m² 55-120€/mois, promotions -5-10% cartes), entreprises archives/stock (15-50m² HT, TVA déductible), stockage temporaire déménagement (1-6 mois décalage dates/travaux). Promotions fréquentes (1er mois offert économie 130-480€). Comparateur 3+ acteurs (Shurgard sites, Homebox, Une Pièce en Plus) optimise rapport qualité/prix.
 
-Guides détaillés : [prix](/blog/garde-meuble-lyon/prix-garde-meuble-lyon-2025), [Shurgard](/blog/garde-meuble-lyon/shurgard-lyon-sites-tarifs), [tailles](/blog/garde-meuble-lyon/taille-box-choisir-lyon), [self vs traditionnel](/blog/garde-meuble-lyon/self-stockage-vs-garde-meuble-traditionnel-lyon), [sécurité](/blog/garde-meuble-lyon/securite-garde-meuble-lyon), [étudiant](/blog/garde-meuble-lyon/garde-meuble-etudiant-lyon-pas-cher), [temporaire](/blog/garde-meuble-lyon/stockage-pendant-demenagement-lyon), [entreprise](/blog/garde-meuble-lyon/garde-meuble-entreprise-lyon), [guide complet](/blog/garde-meuble-lyon/garde-meuble-lyon-guide-complet). Bon stockage Lyon !
+Guides détaillés : [prix](/blog/garde-meuble-lyon/prix-garde-meuble-lyon-2025), [Shurgard](/blog/garde-meuble-lyon/shurgard-lyon-sites-tarifs), [tailles](/blog/satellites/taille-box-choisir-lyon), [self vs traditionnel](/blog/satellites/self-stockage-vs-garde-meuble-traditionnel-lyon), [sécurité](/blog/satellites/securite-garde-meuble-lyon), [étudiant](/blog/garde-meuble-lyon/garde-meuble-etudiant-lyon-pas-cher), [temporaire](/blog/satellites/stockage-pendant-demenagement-lyon), [entreprise](/blog/satellites/garde-meuble-entreprise-lyon), [guide complet](/blog/garde-meuble-lyon/garde-meuble-lyon-guide-complet). Bon stockage Lyon !
 
 ---
 

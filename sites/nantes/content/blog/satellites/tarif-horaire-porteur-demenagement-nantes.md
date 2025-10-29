@@ -86,7 +86,7 @@ Les calculs coûts totaux (studio 2 porteurs 4h = particuliers 28€×2×4 = 224
 Notre recommandation Nantes : **Particuliers Frizbiz 28-32€/h** aide ponctuelle chargements (économies 35-55% vs pros 38-50€/h = 40-144€ studio-T2, qualités correctes avis >4,3/5 + >20 minimum fiabilités 85-95%, assurances 2M€ suffisantes mobiliers standards <5000€), **pros 38-50€/h** si objets précieux pianos >8k€ (assurances ad valorem 10M€ vs plateformes 2M€ insuffisantes) ou volumes T3+ complexités (expertises chargements vs amateurs improvisations), **négociez 10-15%** poliment (économies 30-80€ acceptables efforts 15-30 min. tractations).
 
 
-Pour aller plus loin, explorez notre [guide aide déménagement à Nantes](/blog/aide-demenagement-nantes/aide-demenagement-nantes-guide) ainsi que nos guides complémentaires : [plateformes d'aide déménagement](/blog/aide-demenagement-nantes/plateformes-aide-demenagement-nantes) et [étudiants déménageurs](/blog/aide-demenagement-nantes/etudiants-aide-demenagement-nantes).
+Pour aller plus loin, explorez notre [guide aide déménagement à Nantes](/blog/aide-demenagement-nantes/aide-demenagement-nantes-guide) ainsi que nos guides complémentaires : [plateformes d'aide déménagement](/blog/satellites/plateformes-aide-demenagement-nantes) et [étudiants déménageurs](/blog/satellites/etudiants-aide-demenagement-nantes).
 
 ## Questions Fréquentes
 

@@ -128,7 +128,7 @@ Les 25-30% de Nantais tentant le DIY avec amis se concentrent sur studios/T1 (ef
 Notre conseil final Nantes : si vous tentez DIY amis, sur-préparez (emballage/démontage AVANT arrivée helpers samedi), sur-effectif (invitez +1-2 personnes vs strict nécessaire), sur-budgétez remerciements (165€ généreux vs 80€ radin), et sur-sélectionnez quartier (refusez Bouffay même si économie tentante, privilégiez Doulon/Île de Nantes). Ces 4 sur-précautions garantissent succès 90% vs 60% si improvisation.
 
 
-Pour aller plus loin, explorez notre [guide aide déménagement à Nantes](/blog/aide-demenagement-nantes/aide-demenagement-nantes-guide) ainsi que nos guides complémentaires : [plateformes d'aide déménagement](/blog/aide-demenagement-nantes/plateformes-aide-demenagement-nantes) et [étudiants déménageurs](/blog/aide-demenagement-nantes/etudiants-aide-demenagement-nantes).
+Pour aller plus loin, explorez notre [guide aide déménagement à Nantes](/blog/aide-demenagement-nantes/aide-demenagement-nantes-guide) ainsi que nos guides complémentaires : [plateformes d'aide déménagement](/blog/satellites/plateformes-aide-demenagement-nantes) et [étudiants déménageurs](/blog/satellites/etudiants-aide-demenagement-nantes).
 
 ## Questions Fréquentes
 

@@ -89,7 +89,7 @@ Pour vous assurer de ne rien oublier, voici une liste récapitulative des points
 
 Cette checklist méthodique vous permet de maîtriser tous les aspects de votre déménagement d'entreprise à Bordeaux. En suivant ces étapes rigoureusement et en anticipant les difficultés, vous pouvez assurer une transition en douceur et minimiser les perturbations pour vos équipes et vos clients.
 
-**Besoin d'aide pour organiser votre déménagement d'entreprise ?** [Consultez notre guide complet](/blog/devis/guide) et bénéficiez de nos conseils d'experts pour une organisation optimale.
+**Besoin d'aide pour organiser votre déménagement d'entreprise ?** [Consultez notre guide complet](/blog/demenagement-entreprise-bordeaux/demenagement-entreprise-bordeaux-guide) et bénéficiez de nos conseils d'experts pour une organisation optimale.
 
 ---
 

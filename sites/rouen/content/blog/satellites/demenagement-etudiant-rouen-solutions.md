@@ -156,7 +156,7 @@ La saisonnalité des déménagements étudiants à Rouen est extrêmement marqu�
 
 **Fin juin-juillet** concentre les **départs en vacances** des étudiants rouennais terminant leur année universitaire. Deux situations :
 
-**Bail 9 mois** (septembre-juin) : Libération logement fin juin, retour famille ou stage ailleurs. Affaires soit rapatriées famille (déménagement Rouen→ville origine), soit stockées localement Rouen (garde-meuble 1-3m² 40-85€/mois × 2-3 mois été = 80-255€ total, voir notre [guide stockage étudiant Rouen](/blog/demenagement-rouen/garde-meuble-etudiant-rouen)).
+**Bail 9 mois** (septembre-juin) : Libération logement fin juin, retour famille ou stage ailleurs. Affaires soit rapatriées famille (déménagement Rouen→ville origine), soit stockées localement Rouen (garde-meuble 1-3m² 40-85€/mois × 2-3 mois été = 80-255€ total, voir notre [guide stockage étudiant Rouen](/blog/satellites/garde-meuble-etudiant-rouen)).
 
 **Changement logement** : Fin bail ancien studio, nouveau disponible seulement septembre (passage résidence→appartement privé ou changement quartier). Nécessite déménagement juin + stockage temporaire été + re-installation septembre (double manutention) OU accord propriétaire étendre bail juillet-août (rare).
 

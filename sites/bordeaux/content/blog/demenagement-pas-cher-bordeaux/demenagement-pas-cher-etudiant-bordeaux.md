@@ -52,7 +52,7 @@ Pessac, autre quartier étudiant important, dispose d'un réseau de commerces et
 
 L'entraide étudiante constitue l'une des solutions les plus économiques pour les déménagements à Bordeaux. Les associations étudiantes, très actives dans la métropole, organisent régulièrement des opérations de déménagement collectif. Cette solidarité, caractéristique de la culture étudiante bordelaise, permet de mobiliser des équipes de portage bénévoles.
 
-Les groupes Facebook étudiants, comme "Étudiants Bordeaux" ou "[Déménagement Étudiant](/blog/etudiant/guide) Bordeaux", constituent des espaces d'échange précieux pour organiser l'entraide. Ces communautés, très actives, permettent de mobiliser rapidement des équipes de portage et de partager les équipements nécessaires.
+Les groupes Facebook étudiants, comme "Étudiants Bordeaux" ou "[Déménagement Étudiant](/blog/demenagement-entreprise-bordeaux/demenagement-entreprise-bordeaux-guide) Bordeaux", constituent des espaces d'échange précieux pour organiser l'entraide. Ces communautés, très actives, permettent de mobiliser rapidement des équipes de portage et de partager les équipements nécessaires.
 
 ## Les solutions de stockage temporaire : gérer les transitions
 
@@ -62,7 +62,7 @@ Les garde-meubles bordelais proposent souvent des tarifs dégressifs pour les é
 
 ## L'organisation pratique : anticiper les contraintes
 
-Un [déménagement étudiant](/blog/etudiant/guide) nécessite une organisation particulière pour tenir compte des contraintes académiques. Prévoyez votre déménagement en fonction de votre planning universitaire, en évitant les périodes d'examens ou de rendus de projets. Cette anticipation vous permet de consacrer le temps nécessaire à l'organisation sans compromettre vos études.
+Un [déménagement étudiant](/blog/demenagement-entreprise-bordeaux/demenagement-entreprise-bordeaux-guide) nécessite une organisation particulière pour tenir compte des contraintes académiques. Prévoyez votre déménagement en fonction de votre planning universitaire, en évitant les périodes d'examens ou de rendus de projets. Cette anticipation vous permet de consacrer le temps nécessaire à l'organisation sans compromettre vos études.
 
 Préparez votre déménagement plusieurs semaines à l'avance pour avoir le temps de comparer les offres et de mobiliser l'entraide nécessaire. Cette préparation, particulièrement importante pour les déménagements de fin d'année universitaire, vous évite les stress de dernière minute.
 
@@ -70,7 +70,7 @@ Préparez votre déménagement plusieurs semaines à l'avance pour avoir le temp
 
 Les étudiants bordelais doivent éviter certains pièges classiques qui peuvent alourdir la facture de leur déménagement. Les déménagements de dernière minute, souvent imposés par les contraintes académiques, génèrent des majorations tarifaires importantes. Anticipez au maximum pour bénéficier des meilleurs tarifs.
 
-Les [frais cachés](/blog/prix/frais-caches-demenagement), particulièrement nombreux dans les offres low-cost, peuvent rapidement alourdir la facture. Vérifiez toujours les conditions générales, notamment les assurances, les frais de carburant et les majorations éventuelles. Cette vigilance vous évite les mauvaises surprises le jour du déménagement.
+Les [frais cachés](/blog/prix-demenagement-bordeaux/frais-caches-demenagement-bordeaux), particulièrement nombreux dans les offres low-cost, peuvent rapidement alourdir la facture. Vérifiez toujours les conditions générales, notamment les assurances, les frais de carburant et les majorations éventuelles. Cette vigilance vous évite les mauvaises surprises le jour du déménagement.
 
 En exploitant les spécificités de la vie étudiante bordelaise et en mobilisant les solutions d'entraide disponibles, vous pourrez organiser un déménagement économique adapté à vos contraintes budgétaires. Cette approche, en plus d'être économique, renforce les liens sociaux et s'inscrit dans l'esprit collaboratif de la communauté étudiante bordelaise.
 

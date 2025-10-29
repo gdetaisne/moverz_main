@@ -25,7 +25,7 @@ Votre piano est bien plus qu'un simple meuble. C'est un instrument de musique pr
 - [Déménagement piano numérique Montpellier](/blog/demenagement-piano-montpellier/demenagement-piano-numerique-montpellier) - Instruments électroniques lourds
 
 **Prix et Facteurs :**
-- [Prix déménagement piano Montpellier 2025](/blog/demenagement-piano-montpellier/prix-demenagement-piano-montpellier) - Fourchettes 150-800€ selon distance/étages
+- [Prix déménagement piano Montpellier 2025](/blog/satellites/prix-demenagement-piano-montpellier) - Fourchettes 150-800€ selon distance/étages
 - [Facteurs prix transport piano](/blog/demenagement-piano-montpellier/facteurs-prix-transport-piano) - Poids, étages, distance, assurance
 
 **Matériel et Services :**

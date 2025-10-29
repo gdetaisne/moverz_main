@@ -26,15 +26,15 @@ Tous nos guides pour déménager un petit volume à Nantes :
 - [Prix déménagement T1](/blog/petit-demenagement-nantes/demenagement-t1-nantes-prix) : Budget à prévoir
 
 ### Situations Spécifiques
-- [Déménager un meuble seul](/blog/petit-demenagement-nantes/demenagement-meuble-seul-nantes) : Canapé, armoire
-- [Équipement bébé](/blog/petit-demenagement-nantes/demenagement-equipement-bebe-nantes) : Lit, poussette
-- [Déménagement en colocation](/blog/petit-demenagement-nantes/demenagement-colocation-nantes) : Une chambre seulement
+- [Déménager un meuble seul](/blog/satellites/demenagement-meuble-seul-nantes) : Canapé, armoire
+- [Équipement bébé](/blog/satellites/demenagement-equipement-bebe-nantes) : Lit, poussette
+- [Déménagement en colocation](/blog/satellites/demenagement-colocation-nantes) : Une chambre seulement
 
 ### Solutions Pratiques
-- [Outils utiles](/blog/petit-demenagement-nantes/outils-utiles-petit-demenagement-nantes) : Équipement minimal
-- [DIY vs Professionnel](/blog/petit-demenagement-nantes/comparatif-diy-vs-professionnel-petit-demenagement-nantes) : Que choisir ?
-- [Petites distances](/blog/petit-demenagement-nantes/demenagement-petites-distances-nantes) : Dans Nantes
-- [Déménager sans cartons](/blog/petit-demenagement-nantes/demenagement-sans-carton-nantes) : Alternatives
+- [Outils utiles](/blog/satellites/outils-utiles-petit-demenagement-nantes) : Équipement minimal
+- [DIY vs Professionnel](/blog/satellites/comparatif-diy-vs-professionnel-petit-demenagement-nantes) : Que choisir ?
+- [Petites distances](/blog/satellites/demenagement-petites-distances-nantes) : Dans Nantes
+- [Déménager sans cartons](/blog/satellites/demenagement-sans-carton-nantes) : Alternatives
 
 
 Déménager un studio, un T1, ou simplement quelques meubles et cartons à Nantes nécessite des solutions adaptées aux petits volumes. Les formules de déménagement classiques sont souvent surdimensionnées et trop coûteuses pour ces situations. Ce guide complet vous présente toutes les options économiques et flexibles disponibles dans l'agglomération nantaise pour déménager efficacement vos petits volumes, que vous soyez étudiant, jeune actif, ou que vous n'ayez besoin de transporter que quelques objets volumineux.

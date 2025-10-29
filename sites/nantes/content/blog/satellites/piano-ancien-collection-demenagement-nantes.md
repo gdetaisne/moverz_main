@@ -128,7 +128,7 @@ Les marques françaises courantes Nantes (Pleyel 1910-1950 robustes 70-80% trans
 Notre recommandation finale Nantes anciens : Expertisez systématiquement luthiers spécialisés PRÉ-déménagement (Maison Piano 250-600€ = économie vs découvertes impossibilités jour J +500-800€ annulations mobilisations équipes), acceptez refus transports si fissures >8 mm (restaurations 3000-8000€ + transports 600€ = 3600-8600€ totaux vs ventes sur place 8-12k€ Pleyel évitent risques casses 60-80% transports = pertes 15k€ totales), souscrivez assurances ad valorem obligatoirement >15k€ (surprimes 525€ Pleyel 15k€ = sécurité vs générique 750€ catastrophique perte 14,25k€), et budgetez accordages historiques 120-180€ diapasons 435-440 Hz maintenus (vs réaccordages 442 Hz modernes = tensions excessives cadres corrodés casses 8-12%).
 
 
-Pour aller plus loin, explorez notre [guide déménagement piano à Nantes](/blog/demenagement-piano-nantes/demenagement-piano-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement piano](/blog/demenagement-piano-nantes/demenagement-piano-nantes-prix) et [déménagement piano à queue](/blog/demenagement-piano-nantes/demenagement-piano-queue-nantes).
+Pour aller plus loin, explorez notre [guide déménagement piano à Nantes](/blog/demenagement-piano-nantes/demenagement-piano-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement piano](/blog/demenagement-piano-nantes/demenagement-piano-nantes-prix) et [déménagement piano à queue](/blog/satellites/demenagement-piano-queue-nantes).
 
 ## Questions Fréquentes
 

@@ -153,7 +153,7 @@ Le marché nantais facilite ces optimisations : cartons gratuits abondants (Lecl
 Notre formule équilibrée Nantes : Tri + emballage DIY + cartons récup + formule éco pro mardi = économie 400€ (vs standard samedi) avec effort modéré 21h étalées 3 semaines + sécurité manutention professionnelle. Adaptez selon votre valorisation temps (étudiant temps abondant = maximisez astuces, cadre temps rare = limitez à 2-3 astuces simples tri+comparaison).
 
 
-Pour aller plus loin, explorez notre [guide déménagement pas cher à Nantes](/blog/demenagement-pas-cher-nantes/demenagement-pas-cher-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement pas cher 2025](/blog/demenagement-pas-cher-nantes/prix-demenagement-pas-cher-nantes-2025) et [comparatif des formules économiques](/blog/demenagement-pas-cher-nantes/comparatif-formules-economiques-nantes).
+Pour aller plus loin, explorez notre [guide déménagement pas cher à Nantes](/blog/demenagement-pas-cher-nantes/demenagement-pas-cher-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement pas cher 2025](/blog/demenagement-pas-cher-nantes/prix-demenagement-pas-cher-nantes-2025) et [comparatif des formules économiques](/blog/satellites/comparatif-formules-economiques-nantes).
 
 ## Questions Fréquentes
 

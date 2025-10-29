@@ -23,7 +23,7 @@ FAQ complète déménagement petit volume Lyon (<15m³, chambre/studio/T1 léger
 
 ### 1. Prix petit déménagement Lyon ?
 
-**150-400€ pro (chambre 150-250€, studio 250-400€). DIY 60-90€ (location camionnette 45-70€ + essence 10-20€, manutention soi-même).** Facteurs : volume (chambre 6-8m³ vs studio 10-12m³ vs T1 12-15m³), distance (<10 km base, >25 km +50-150€), étages (3-4ème +30-50€, 5ème+ +50-80€), services (transport seul 100-180€ vs standard complet 150-250€ vs emballage inclus 200-350€). Formule économique : transport seul (vous chargez) 100-180€ économise 30-70€. [Détails →](/blog/demenagement-petit-volume-lyon/prix-petit-demenagement-lyon)
+**150-400€ pro (chambre 150-250€, studio 250-400€). DIY 60-90€ (location camionnette 45-70€ + essence 10-20€, manutention soi-même).** Facteurs : volume (chambre 6-8m³ vs studio 10-12m³ vs T1 12-15m³), distance (<10 km base, >25 km +50-150€), étages (3-4ème +30-50€, 5ème+ +50-80€), services (transport seul 100-180€ vs standard complet 150-250€ vs emballage inclus 200-350€). Formule économique : transport seul (vous chargez) 100-180€ économise 30-70€. [Détails →](/blog/satellites/prix-petit-demenagement-lyon)
 
 ### 2. C'est quoi un petit volume ?
 
@@ -31,23 +31,23 @@ FAQ complète déménagement petit volume Lyon (<15m³, chambre/studio/T1 léger
 
 ### 3. Camionnette chauffeur Lyon prix ?
 
-**80-150€ intra-Lyon <10 km (chambre/studio, 1-2h transport + aide chargement légère). Métropole 10-25 km : 100-150€. Région >25 km : 130-220€.** Plateformes : Yper 90-150€ (réservation instantanée app, assurance incluse), Frizbiz 80-140€ (négociable, commission 10-12%), LeBonCoin 70-130€ (direct, 0% commission mais pas protection). Vs DIY location seule (45-70€ mais conduire soi-même) et vs pro complet (150-250€ confort total). [Détails →](/blog/demenagement-petit-volume-lyon/camionnette-chauffeur-lyon)
+**80-150€ intra-Lyon <10 km (chambre/studio, 1-2h transport + aide chargement légère). Métropole 10-25 km : 100-150€. Région >25 km : 130-220€.** Plateformes : Yper 90-150€ (réservation instantanée app, assurance incluse), Frizbiz 80-140€ (négociable, commission 10-12%), LeBonCoin 70-130€ (direct, 0% commission mais pas protection). Vs DIY location seule (45-70€ mais conduire soi-même) et vs pro complet (150-250€ confort total). [Détails →](/blog/satellites/camionnette-chauffeur-lyon)
 
 ## Formules
 
 ### 4. Formule économique Lyon ?
 
-**Transport seul 100-180€ (vs standard 150-250€, économie 30-70€). Vous chargez/déchargez, pros transportent uniquement. Chambre 100-130€, studio 130-180€.** Conditions : aide amis (2-3 personnes), efforts 2-4h, bonne condition physique, emballage soigné (risque casse chargement amateur pas couvert assurance). Variante : transport + déchargement 120-200€ (vous chargez départ, pros déchargent arrivée étages). Idéal : budget <150€, RDC-2ème, volume <10m³. [Détails →](/blog/demenagement-petit-volume-lyon/formule-economique-petit-volume-lyon)
+**Transport seul 100-180€ (vs standard 150-250€, économie 30-70€). Vous chargez/déchargez, pros transportent uniquement. Chambre 100-130€, studio 130-180€.** Conditions : aide amis (2-3 personnes), efforts 2-4h, bonne condition physique, emballage soigné (risque casse chargement amateur pas couvert assurance). Variante : transport + déchargement 120-200€ (vous chargez départ, pros déchargent arrivée étages). Idéal : budget <150€, RDC-2ème, volume <10m³. [Détails →](/blog/satellites/formule-economique-petit-volume-lyon)
 
 ### 5. Déménagement express <48h Lyon ?
 
-**Oui possible : 180-350€ express (vs 150-300€ standard, surcoût +20-40€ urgence). Délai : 24-72h post-demande. Chambre 180-250€, studio 250-350€.** Solutions : Yper instantané (confirmation 2-6h, 140-250€), Frizbiz rapide (12-24h, 150-220€), déménageurs urgences hotline (24-48h, 180-300€). Situations : résiliation accélérée propriétaire, mutation pro <1 mois, séparation urgente, expulsion 30-60j. Horaires : soir +10-15€, dimanche +15-25€, jour-même +30-50€. [Détails →](/blog/demenagement-petit-volume-lyon/petit-demenagement-express-lyon)
+**Oui possible : 180-350€ express (vs 150-300€ standard, surcoût +20-40€ urgence). Délai : 24-72h post-demande. Chambre 180-250€, studio 250-350€.** Solutions : Yper instantané (confirmation 2-6h, 140-250€), Frizbiz rapide (12-24h, 150-220€), déménageurs urgences hotline (24-48h, 180-300€). Situations : résiliation accélérée propriétaire, mutation pro <1 mois, séparation urgente, expulsion 30-60j. Horaires : soir +10-15€, dimanche +15-25€, jour-même +30-50€. [Détails →](/blog/satellites/petit-demenagement-express-lyon)
 
 ## DIY vs Pro
 
 ### 6. DIY ou pro Lyon ?
 
-**DIY (60-90€) si : chambre <6m³, budget <100€, aide 2-3 amis fiable, bon état physique 20-40 ans, RDC-3ème, distance <10 km. Économie 90-190€ vs pro. Pro (150-250€) si : studio >10m³, étages >4ème, meubles >100 kg, senior 60+, pas aide, meubles valeur, gain temps prioritaire (4-7h vs DIY).** DIY inconvénients : efforts 6-10h (600-1200 kg portés escaliers), risque casse (franchise assurance 500-1000€), blessures (lombalgie 30% cas, entorses 15%). Pro = zéro effort, assurance complète, 0,5% incidents. [Détails →](/blog/demenagement-petit-volume-lyon/diy-vs-pro-petit-volume-lyon)
+**DIY (60-90€) si : chambre <6m³, budget <100€, aide 2-3 amis fiable, bon état physique 20-40 ans, RDC-3ème, distance <10 km. Économie 90-190€ vs pro. Pro (150-250€) si : studio >10m³, étages >4ème, meubles >100 kg, senior 60+, pas aide, meubles valeur, gain temps prioritaire (4-7h vs DIY).** DIY inconvénients : efforts 6-10h (600-1200 kg portés escaliers), risque casse (franchise assurance 500-1000€), blessures (lombalgie 30% cas, entorses 15%). Pro = zéro effort, assurance complète, 0,5% incidents. [Détails →](/blog/satellites/diy-vs-pro-petit-volume-lyon)
 
 ### 7. Location camion Lyon prix ?
 
@@ -57,19 +57,19 @@ FAQ complète déménagement petit volume Lyon (<15m³, chambre/studio/T1 léger
 
 ### 8. Déménagement étudiant Lyon ?
 
-**150-250€ pro (camionnette + manutentionnaire, 2-3h, chambre 6-8m³). DIY 80-120€ (location 45-70€ + essence + aide amis). Mutualisation 2-3 étudiants : 30-50€/personne (camionnette partagée).** Pic juin-sept (fin baux CROUS, 60% étudiants Lyon 170 000 déménagent). Économies : cartons gratuits supermarchés (20-60€), déménager semaine vs week-end (-15-20€), éviter pic 25 juin-5 juil (-30-60€). Aides : FSL 150-500€, CAF 100-300€. [Détails →](/blog/demenagement-petit-volume-lyon/demenagement-chambre-etudiant-lyon)
+**150-250€ pro (camionnette + manutentionnaire, 2-3h, chambre 6-8m³). DIY 80-120€ (location 45-70€ + essence + aide amis). Mutualisation 2-3 étudiants : 30-50€/personne (camionnette partagée).** Pic juin-sept (fin baux CROUS, 60% étudiants Lyon 170 000 déménagent). Économies : cartons gratuits supermarchés (20-60€), déménager semaine vs week-end (-15-20€), éviter pic 25 juin-5 juil (-30-60€). Aides : FSL 150-500€, CAF 100-300€. [Détails →](/blog/satellites/demenagement-chambre-etudiant-lyon)
 
 ### 9. Senior 65+ Lyon services ?
 
-**250-600€ services adaptés : portage intégral 100% (zéro efforts senior), emballage complet (vaisselle collections, photos 50+ ans), installation placement (montage, branchements), accompagnement humain patient. Studio 250-400€, F2 300-600€.** Aides : APA 150-500€ (GIR 1-4 dépendants), caisses retraite 100-300€, mutuelles 50-150€ (total 300-950€ couvre 50-100%). Éviter DIY 75+ (risque chute/blessure grave). [Détails →](/blog/demenagement-petit-volume-lyon/demenagement-senior-adapte-lyon)
+**250-600€ services adaptés : portage intégral 100% (zéro efforts senior), emballage complet (vaisselle collections, photos 50+ ans), installation placement (montage, branchements), accompagnement humain patient. Studio 250-400€, F2 300-600€.** Aides : APA 150-500€ (GIR 1-4 dépendants), caisses retraite 100-300€, mutuelles 50-150€ (total 300-950€ couvre 50-100%). Éviter DIY 75+ (risque chute/blessure grave). [Détails →](/blog/satellites/demenagement-senior-adapte-lyon)
 
 ### 10. Transport meubles Marketplace Lyon ?
 
-**80-180€ transport 1-3 meubles (canapé, lit, armoire). Canapé seul : 100-150€. Lot 3-4 meubles : 150-200€.** Solutions : camionnette chauffeur indépendant 80-150€ (Yper, Frizbiz), déménageur pro 120-180€ (protections, assurance), DIY location camionnette 60-90€ (conduire + charger soi-même). Distance : intra-Lyon <10 km base, métropole +20-50€. Étages 4-5ème : +30-50€. Marketplace : canapé 200€ + transport 120€ = 320€ vs neuf 900€ (économie 580€). [Détails →](/blog/demenagement-petit-volume-lyon/transport-quelques-meubles-lyon)
+**80-180€ transport 1-3 meubles (canapé, lit, armoire). Canapé seul : 100-150€. Lot 3-4 meubles : 150-200€.** Solutions : camionnette chauffeur indépendant 80-150€ (Yper, Frizbiz), déménageur pro 120-180€ (protections, assurance), DIY location camionnette 60-90€ (conduire + charger soi-même). Distance : intra-Lyon <10 km base, métropole +20-50€. Étages 4-5ème : +30-50€. Marketplace : canapé 200€ + transport 120€ = 320€ vs neuf 900€ (économie 580€). [Détails →](/blog/satellites/transport-quelques-meubles-lyon)
 
 ### 11. Transport cartons uniquement ?
 
-**50-120€ selon quantité (10 cartons 50-70€, 20 cartons 70-100€, 40 cartons 100-150€), sans meubles (volume 0,5-2,5m³).** Voiture break DIY 15-20 cartons 45-70€, camionnette indépendant 20-40 cartons 60-120€, déménageur pro 30-50 cartons 80-150€. Cas : Marketplace achats groupés, déménagement progressif (cartons semaine 1, meubles semaine 2 séparés), garde-meuble rotation 2×/an. Optimiser : regrouper dimensions standards (empilement -20-30% volume). [Détails →](/blog/demenagement-petit-volume-lyon/transport-cartons-uniquement-lyon)
+**50-120€ selon quantité (10 cartons 50-70€, 20 cartons 70-100€, 40 cartons 100-150€), sans meubles (volume 0,5-2,5m³).** Voiture break DIY 15-20 cartons 45-70€, camionnette indépendant 20-40 cartons 60-120€, déménageur pro 30-50 cartons 80-150€. Cas : Marketplace achats groupés, déménagement progressif (cartons semaine 1, meubles semaine 2 séparés), garde-meuble rotation 2×/an. Optimiser : regrouper dimensions standards (empilement -20-30% volume). [Détails →](/blog/satellites/transport-cartons-uniquement-lyon)
 
 ## Astuces
 
