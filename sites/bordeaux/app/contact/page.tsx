@@ -70,8 +70,8 @@ export default function ContactPage() {
             <div className="space-y-4 text-white/80">
               <div>
                 <p className="font-medium text-white mb-2">Email</p>
-                <a href="mailto:gdetaisne@gmail.com" className="text-[#6bcfcf] hover:text-[#6bcfcf]/80 transition-colors">
-                  gdetaisne@gmail.com
+                <a href="mailto:contact@bordeaux-demenageur.fr" className="text-[#6bcfcf] hover:text-[#6bcfcf]/80 transition-colors">
+                  contact@bordeaux-demenageur.fr
                 </a>
               </div>
               <div>
