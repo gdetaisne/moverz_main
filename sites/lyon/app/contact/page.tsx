@@ -70,14 +70,8 @@ export default function ContactPage() {
             <div className="space-y-4 text-white/80">
               <div>
                 <p className="font-medium text-white mb-2">Email</p>
-                <a href="mailto:contact@moverz.fr" className="text-[#6bcfcf] hover:text-[#6bcfcf]/80 transition-colors">
-                  contact@moverz.fr
-                </a>
-              </div>
-              <div>
-                <p className="font-medium text-white mb-2">Téléphone</p>
-                <a href="tel:+33556789012" className="text-[#6bcfcf] hover:text-[#6bcfcf]/80 transition-colors">
-                  05 56 78 90 12
+                <a href="mailto:gdetaisne@gmail.com" className="text-[#6bcfcf] hover:text-[#6bcfcf]/80 transition-colors">
+                  gdetaisne@gmail.com
                 </a>
               </div>
               <div>

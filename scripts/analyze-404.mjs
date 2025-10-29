@@ -53,7 +53,8 @@ function cleanSlug(slug, category, city) {
     }
   });
   
-  clean = clean.replace(new RegExp(`-${city}$`, 'i'), '');
+  // ✅ Option B appliquée: garder ville dans slug (SEO local)
+  // clean = clean.replace(new RegExp(`-${city}$`, 'i'), '');  // COMMENTÉ comme dans blog.ts
   clean = clean.replace(/-guide-complet$/i, '-guide');
   clean = clean.replace(/-reperes-2025$/i, '-2025');
   

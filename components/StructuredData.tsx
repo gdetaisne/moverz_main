@@ -1,36 +1,34 @@
+'use client';
+
+import { env } from '@/lib/env';
+import { getCityDataFromUrl } from '@/lib/cityData';
+
 export default function StructuredData() {
+  // Résoudre les données de ville dynamiquement
+  const city = getCityDataFromUrl(env.SITE_URL);
+  
   const structuredData = {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
-    "name": "Déménageurs Toulouse (IA)",
+    "name": `Déménageurs ${city.nameCapitalized} (IA)`,
     "description": "30 minutes pour votre dossier → 5 devis personnalisés sous 7 jours. Estimation volumétrique à partir de photos, tarifs clairs, conseils locaux.",
-    "url": "https://www.devis-demenageur-toulouse.fr",
-    "telephone": "+33-XXX-XXX-XXX",
+    "url": city.siteUrl,
+    "telephone": city.phone,
     "address": {
       "@type": "PostalAddress",
-      "addressLocality": "Toulouse",
-      "addressRegion": "Occitanie",
+      "addressLocality": city.nameCapitalized,
+      "addressRegion": city.region,
       "addressCountry": "FR"
     },
     "geo": {
       "@type": "GeoCoordinates",
-      "latitude": 43.6047,
-      "longitude": 1.4442
+      "latitude": city.coordinates.latitude,
+      "longitude": city.coordinates.longitude
     },
-    "areaServed": [
-      {
-        "@type": "City",
-        "name": "Toulouse"
-      },
-      {
-        "@type": "City",
-        "name": "Montpellier"
-      },
-      {
-        "@type": "City",
-        "name": "Narbonne"
-      }
-    ],
+    "areaServed": city.areaServed.map(area => ({
+      "@type": "City",
+      "name": area
+    })),
     "priceRange": "€€",
     "openingHours": "Mo-Fr 09:00-18:00",
     "aggregateRating": {
@@ -49,5 +47,3 @@ export default function StructuredData() {
     />
   );
 }
-
-

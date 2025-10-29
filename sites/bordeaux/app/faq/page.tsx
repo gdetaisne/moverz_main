@@ -245,7 +245,7 @@ const faqs: QA[] = [
   {
     q: "Comment est protégée ma vie privée si mes photos contiennent des éléments sensibles?",
     a: [
-      "Les photos sont conservées sur nos serveurs et détruites 45 jours après la date prévue du déménagement (gestion de litiges). Elles ne sont utilisées que pour votre dossier et ne sont jamais diffusées en dehors de l'application. Conformément au RGPD, vous pouvez demander l'effacement de toutes vos données, photos incluses, à tout moment via contact@moverz.fr."
+      "Les photos sont conservées sur nos serveurs et détruites 45 jours après la date prévue du déménagement (gestion de litiges). Elles ne sont utilisées que pour votre dossier et ne sont jamais diffusées en dehors de l'application. Conformément au RGPD, vous pouvez demander l'effacement de toutes vos données, photos incluses, à tout moment via gdetaisne@gmail.com."
     ],
     category: "Assurances & données",
   },

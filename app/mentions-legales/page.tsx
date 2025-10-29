@@ -39,7 +39,7 @@ export default function MentionsLegalesPage() {
                 GSLV, société par actions simplifiée (SAS). Siège social: 5 rue Jean
                 Coyttar, 17290 Thairé, France. Marque exploitée: Moverz.
               </p>
-              <p className="mt-2">Contact: contact@moverz.fr — +33 (0)5 56 78 90 12</p>
+              <p className="mt-2">Contact: gdetaisne@gmail.com</p>
               <p className="mt-2">Directeur de la publication: Guillaume Stehelin</p>
               <p className="mt-2">Responsable de la rédaction: Équipe Moverz</p>
               <p className="mt-2">SIREN 914 499 876 — SIRET 914 499 876 00011 — RCS La Rochelle</p>

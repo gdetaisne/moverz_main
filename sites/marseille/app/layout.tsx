@@ -8,17 +8,22 @@ import Header from "@/components/Header";
 import StructuredData from "@/components/StructuredData";
 import GoogleAnalytics from "@/components/GoogleAnalytics";
 import GAListener from "./ga-listener";
+import { env } from "@/lib/env";
+import { getCityDataFromUrl } from "@/lib/cityData";
 
 const inter = Inter({ subsets: ["latin"], display: "swap" });
 
+// Résoudre les données de ville dynamiquement
+const city = getCityDataFromUrl(env.SITE_URL);
+
 export const metadata: Metadata = {
   title: {
-    default: "Déménageurs Marseille (IA) - 5 devis sous 7 jours",
-    template: "%s | Déménageurs Marseille (IA)",
+    default: `Comparateur Déménagement ${city.nameCapitalized} : 5 Devis Gratuits`,
+    template: `%s | Comparateur Déménagement ${city.nameCapitalized}`,
   },
   description:
-    "30 minutes pour votre dossier → 5 devis personnalisés sous 7 jours. Estimation volumétrique à partir de photos, tarifs clairs, conseils locaux.",
-  metadataBase: new URL("https://devis-demenageur-marseille.fr"),
+    `Estimation par photos en 30 min → 5 devis personnalisés de déménageurs. 100% gratuit. Économisez jusqu'à 40% sur votre déménagement à ${city.nameCapitalized}.`,
+  metadataBase: new URL(city.siteUrl),
   robots: {
     index: true,
     follow: true,
@@ -33,27 +38,27 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'fr_FR',
-    url: 'https://devis-demenageur-marseille.fr',
-    siteName: 'Déménageurs Marseille (IA)',
-    title: 'Déménageurs Marseille (IA) - 5 devis sous 7 jours',
-    description: '30 minutes pour votre dossier → 5 devis personnalisés sous 7 jours. Estimation volumétrique à partir de photos, tarifs clairs, conseils locaux.',
+    url: city.siteUrl,
+    siteName: `Comparateur Déménagement ${city.nameCapitalized}`,
+    title: `Comparateur Déménagement ${city.nameCapitalized} : 5 Devis Gratuits`,
+    description: `Estimation par photos en 30 min → 5 devis personnalisés de déménageurs. 100% gratuit. Économisez jusqu'à 40% sur votre déménagement à ${city.nameCapitalized}.`,
     images: [
       {
-        url: 'https://devis-demenageur-marseille.fr/og-image.jpg',
+        url: `${city.siteUrl}/og-image.jpg`,
         width: 1200,
         height: 630,
-        alt: 'Déménageurs Marseille (IA) - Devis IA',
+        alt: `Comparateur Déménagement ${city.nameCapitalized} - 5 Devis Gratuits`,
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Déménageurs Marseille (IA) - 5 devis sous 7 jours',
-    description: '30 minutes pour votre dossier → 5 devis personnalisés sous 7 jours. Estimation volumétrique à partir de photos, tarifs clairs, conseils locaux.',
-    images: ['https://devis-demenageur-marseille.fr/og-image.jpg'],
+    title: `Comparateur Déménagement ${city.nameCapitalized} : 5 Devis Gratuits`,
+    description: `Estimation par photos en 30 min → 5 devis personnalisés de déménageurs. 100% gratuit. Économisez jusqu'à 40% sur votre déménagement à ${city.nameCapitalized}.`,
+    images: [`${city.siteUrl}/og-image.jpg`],
   },
   alternates: {
-    canonical: 'https://devis-demenageur-marseille.fr',
+    canonical: city.siteUrl,
   },
   icons: {
     icon: '/favicon.ico',
@@ -109,6 +114,9 @@ export default function RootLayout({
 
 
 function Footer() {
+  // Résoudre la ville dynamiquement pour le footer
+  const city = getCityDataFromUrl(env.SITE_URL);
+  
   return (
     <footer className="mt-24 border-t border-white/10 bg-white/5">
       <div className="container max-w-7xl mx-auto px-4 md:px-6 py-14 grid md:grid-cols-4 gap-10">
@@ -118,20 +126,20 @@ function Footer() {
             <div className="text-white font-semibold tracking-wide text-sm md:text-base leading-tight flex flex-col w-28 md:w-32 text-justify">
               <span>Devis</span>
               <span>Déménageur</span>
-              <span>Marseille</span>
+              <span>{city.nameCapitalized}</span>
             </div>
           </div>
           <p className="mt-3 text-white/90 max-w-xs">30 minutes pour votre dossier → 5 devis personnalisés sous 7 jours. Simple, précis, transparent.</p>
           <div className="mt-4 inline-flex items-center gap-2 rounded-full border border-white/25 bg-white/10 px-3 py-1 text-xs text-white">
             <span className="inline-block h-2 w-2 rounded-full bg-emerald-400"></span>
-            Propulsé par l’IA
+            Propulsé par l'IA
           </div>
         </div>
         <div>
           <div className="text-sm font-semibold text-white">Navigation</div>
           <ul className="mt-3 space-y-2 text-sm text-white/90">
             <li><Link href="/services/" className="hover:text-white">Services</Link></li>
-            <li><Link href="/marseille" className="hover:text-white">Zones desservies</Link></li>
+            <li><Link href={`/${city.slug}`} className="hover:text-white">Zones desservies</Link></li>
             <li><Link href="/partenaires/" className="hover:text-white">Partenaires</Link></li>
           </ul>
         </div>
@@ -152,9 +160,7 @@ function Footer() {
           </ul>
         </div>
       </div>
-      <div className="pb-10 text-center text-xs text-white/50">© {new Date().getFullYear()} Déménageurs Marseille</div>
+      <div className="pb-10 text-center text-xs text-white/50">© {new Date().getFullYear()} Déménageurs {city.nameCapitalized}</div>
     </footer>
   );
 }
-
-

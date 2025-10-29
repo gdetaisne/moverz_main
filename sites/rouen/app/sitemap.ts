@@ -1,12 +1,12 @@
 import { MetadataRoute } from 'next'
-import { getAllBlogPosts } from '@/lib/blog'
 import { env } from '@/lib/env'
+import { getCityDataFromUrl } from '@/lib/cityData'
 import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
 
-// Fonction locale pour lire SEULEMENT les articles de Rouen
-function getRouenBlogPosts() {
+// Fonction pour lire les articles de blog de la ville
+function getCityBlogPosts() {
   const blogDirectory = path.join(process.cwd(), 'content/blog')
   
   if (!fs.existsSync(blogDirectory)) {
@@ -35,9 +35,7 @@ function getRouenBlogPosts() {
         title: data.title,
         category: category,
         type: data.type || 'satellite',
-        publish_date: data.publish_date || data.date || new Date().toISOString().split('T')[0],
-        cleanCategory: category.replace('-rouen', ''),
-        cleanSlug: file.replace('.md', '').replace('-rouen', '')
+        publish_date: data.publish_date || data.date || new Date().toISOString().split('T')[0]
       })
     })
   })
@@ -47,11 +45,12 @@ function getRouenBlogPosts() {
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = env.SITE_URL
+  const city = getCityDataFromUrl(baseUrl)
   
-  // Récupérer SEULEMENT les articles de blog de Rouen
-  const blogPosts = getRouenBlogPosts()
+  // Récupérer les articles de blog de la ville
+  const blogPosts = getCityBlogPosts()
   
-  // Pages statiques
+  // Pages statiques principales
   const staticPages: MetadataRoute.Sitemap = [
     {
       url: baseUrl,
@@ -66,58 +65,22 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/services/demenagement-economique-rouen`,
+      url: `${baseUrl}/services/demenagement-economique-${city.slug}`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.7,
     },
     {
-      url: `${baseUrl}/services/demenagement-standard-rouen`,
+      url: `${baseUrl}/services/demenagement-standard-${city.slug}`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.7,
     },
     {
-      url: `${baseUrl}/services/demenagement-premium-rouen`,
+      url: `${baseUrl}/services/demenagement-premium-${city.slug}`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.7,
-    },
-    {
-      url: `${baseUrl}/rouen`,
-      lastModified: new Date(),
-      changeFrequency: 'monthly',
-      priority: 0.9,
-    },
-    {
-      url: `${baseUrl}/rouen/coteaux-sud`,
-      lastModified: new Date(),
-      changeFrequency: 'monthly',
-      priority: 0.8,
-    },
-    {
-      url: `${baseUrl}/rouen/saint-marc`,
-      lastModified: new Date(),
-      changeFrequency: 'monthly',
-      priority: 0.8,
-    },
-    {
-      url: `${baseUrl}/rouen/bastide`,
-      lastModified: new Date(),
-      changeFrequency: 'monthly',
-      priority: 0.8,
-    },
-    {
-      url: `${baseUrl}/rouen/merignac`,
-      lastModified: new Date(),
-      changeFrequency: 'monthly',
-      priority: 0.8,
-    },
-    {
-      url: `${baseUrl}/rouen/pessac`,
-      lastModified: new Date(),
-      changeFrequency: 'monthly',
-      priority: 0.8,
     },
     {
       url: `${baseUrl}/partenaires`,
@@ -143,44 +106,31 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'monthly',
       priority: 0.8,
     },
-    // Pages corridors
-    {
-      url: `${baseUrl}/rouen-vers-paris`,
-      lastModified: new Date(),
-      changeFrequency: 'monthly',
-      priority: 0.8,
-    },
-    {
-      url: `${baseUrl}/rouen-vers-lyon`,
-      lastModified: new Date(),
-      changeFrequency: 'monthly',
-      priority: 0.8,
-    },
-    {
-      url: `${baseUrl}/rouen-vers-toulouse`,
-      lastModified: new Date(),
-      changeFrequency: 'monthly',
-      priority: 0.8,
-    },
-    {
-      url: `${baseUrl}/rouen-vers-nantes`,
-      lastModified: new Date(),
-      changeFrequency: 'monthly',
-      priority: 0.8,
-    },
-    {
-      url: `${baseUrl}/rouen-vers-marseille`,
-      lastModified: new Date(),
-      changeFrequency: 'monthly',
-      priority: 0.8,
-    },
-    {
-      url: `${baseUrl}/rouen-vers-espagne`,
-      lastModified: new Date(),
-      changeFrequency: 'monthly',
-      priority: 0.8,
-    },
   ]
+
+  // Pages de quartiers (dynamique selon cityData)
+  const neighborhoodPages: MetadataRoute.Sitemap = [
+    {
+      url: `${baseUrl}/${city.slug}`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.9,
+    },
+    ...city.neighborhoods.map(neighborhood => ({
+      url: `${baseUrl}/${city.slug}/${neighborhood.slug}`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly' as const,
+      priority: 0.8,
+    }))
+  ]
+
+  // Pages corridors (dynamique selon cityData)
+  const corridorPages: MetadataRoute.Sitemap = city.corridors.map(corridor => ({
+    url: `${baseUrl}/${corridor.slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.8,
+  }))
 
   // Page principale du blog
   const blogMainPage: MetadataRoute.Sitemap = [
@@ -192,26 +142,19 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
   ]
 
-  // Pages de catégories du blog
-  const blogCategories = [
-    'etudiant', 'entreprise', 'prix', 'devis', 'pas-cher', 
-    'urgent', 'longue-distance', 'garde-meuble', 'international', 'piano'
-  ]
-  
-  const blogCategoryPages: MetadataRoute.Sitemap = blogCategories.map(category => ({
-    url: `${baseUrl}/blog/${category}`,
-    lastModified: new Date(),
-    changeFrequency: 'weekly' as const,
-    priority: 0.85,
-  }))
-
   // Articles de blog
   const blogPages: MetadataRoute.Sitemap = blogPosts.map(post => ({
-    url: `${baseUrl}/blog/${post.cleanCategory}/${post.cleanSlug}`,
+    url: `${baseUrl}/blog/${post.category}/${post.slug}`,
     lastModified: new Date(post.publish_date || new Date()),
     changeFrequency: 'monthly' as const,
     priority: post.type === 'pilier' ? 0.9 : 0.7,
   }))
 
-  return [...staticPages, ...blogMainPage, ...blogCategoryPages, ...blogPages]
+  return [
+    ...staticPages, 
+    ...neighborhoodPages, 
+    ...corridorPages,
+    ...blogMainPage, 
+    ...blogPages
+  ]
 }
