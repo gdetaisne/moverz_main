@@ -184,7 +184,7 @@ Les erreurs budgétaires fréquentes (omissions assurances ad valorem 30-40% cli
 Notre recommandation finale Nantes : Budgetez **totaux réalistes 560-2400€** incluant TOUS postes (transport, assurance ad valorem obligatoire >5k€, accordage J+28 systématique 95% transports, préparations DIY 50-100€ économisant annulations/casses), comparez spécialistes (Alliance LG/AGS/Bretons taux sinistres 3-5% = économies réparations 200-600€ > surcoûts 150-250€ vs généralistes 18-25% sinistres), et souscrivez forfaits transport+accordage (économies -50-100€ + coordinations simplifiées vs séparés).
 
 
-Pour aller plus loin, explorez notre [guide déménagement piano à Nantes](/blog/demenagement-piano-nantes/demenagement-piano-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement piano](/blog/demenagement-piano-nantes/demenagement-piano-nantes-prix) et [déménagement piano à queue](/blog/satellites/demenagement-piano-queue-nantes).
+Pour aller plus loin, explorez notre [guide déménagement piano à Nantes](/blog/demenagement-piano-nantes/demenagement-piano-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement piano](/blog/demenagement-piano-nantes/demenagement-piano-nantes-prix) et [déménagement piano à queue](/blog/demenagement-piano-nantes/demenagement-piano-queue-nantes).
 
 ## Questions Fréquentes
 

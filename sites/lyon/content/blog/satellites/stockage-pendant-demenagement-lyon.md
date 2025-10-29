@@ -101,7 +101,7 @@ Ce guide détaille cas d'usage stockage temporaire déménagement (décalage dat
 
 Stockage temporaire déménagement Lyon (1-6 mois, décalage dates/travaux/vente) nécessite boxes 5-15m² coûtant 130-380€/mois (studio 5m² 130-170€, T2 partiel 10m² 220-280€, T2 complet 15m² 300-380€). Durées typiques : 1-3 mois (260-1140€ total selon taille/durée). Self-stockage (Shurgard Vaise économique, Jean Macé central) excelle court terme (flexibilité résiliation 1 mois, accès libre 24/7 récupération progressive). Garde-meuble traditionnel économise 20-30% volumes >30m³ mais accès RDV (inadapté emménagement progressif).
 
-Promotions (1er mois offert) économisent 130-380€. Alternatives : négociation dates propriétaire (gratuit/200€ vs 300-600€ stockage), colocation solidaire, mutualisation box. Consultez [prix](/blog/garde-meuble-lyon/prix-garde-meuble-lyon-2025), [tailles](/blog/satellites/taille-box-choisir-lyon), [Shurgard](/blog/garde-meuble-lyon/shurgard-lyon-sites-tarifs), [guide](/blog/garde-meuble-lyon/garde-meuble-lyon-guide-complet). Bon stockage !
+Promotions (1er mois offert) économisent 130-380€. Alternatives : négociation dates propriétaire (gratuit/200€ vs 300-600€ stockage), colocation solidaire, mutualisation box. Consultez [prix](/blog/garde-meuble-lyon/prix-garde-meuble-lyon-2025), [tailles](/blog/garde-meuble-lyon/taille-box-choisir-lyon), [Shurgard](/blog/garde-meuble-lyon/shurgard-lyon-sites-tarifs), [guide](/blog/garde-meuble-lyon/garde-meuble-lyon-guide-complet). Bon stockage !
 
 ---
 

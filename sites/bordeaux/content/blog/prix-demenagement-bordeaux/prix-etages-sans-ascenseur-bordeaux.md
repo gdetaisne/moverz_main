@@ -74,7 +74,7 @@ Préparez vos affaires fragiles en les emballant soigneusement. Les déménageur
 
 Les étages sans ascenseur à Bordeaux constituent donc une contrainte réelle mais maîtrisable. En comprenant l'impact sur les tarifs, en choisissant les bonnes stratégies et en sélectionnant un professionnel adapté, vous pouvez optimiser votre budget tout en bénéficiant d'un service de qualité adapté aux contraintes de votre logement.
 
-**Déménagement avec étages sans ascenseur à Bordeaux ?** [Obtenez votre devis personnalisé](/blog/demenagement-entreprise-bordeaux/demenagement-entreprise-bordeaux-guide) en quelques clics. Nos experts maîtrisent les contraintes du centre-ville et vous proposent des solutions adaptées.
+**Déménagement avec étages sans ascenseur à Bordeaux ?** [Obtenez votre devis personnalisé](/blog/devis/guide) en quelques clics. Nos experts maîtrisent les contraintes du centre-ville et vous proposent des solutions adaptées.
 
 ---
 

@@ -152,7 +152,7 @@ Les 55 000 étudiants de la métropole disposent d'options proches de chaque cam
 Nos trois conseils clés : réservez mi-juin (éviter saturation rentrée septembre +20-30% demande), optimisez l'empilage vertical (cartons uniformes, démontage meubles), et demandez systématiquement la réduction étudiante (-10% potentiel = économie 18-24€ sur 3 mois). Avec ces précautions, vous stockez sereinement tout l'été pour le prix de deux-trois sorties restaurant, libérant votre budget logement pour vos projets estivaux.
 
 
-Pour aller plus loin, explorez notre [guide complet du garde-meuble à Nantes](/blog/garde-meuble-nantes/garde-meuble-nantes-guide-complet) ainsi que nos guides complémentaires : [prix garde-meuble Nantes 2025](/blog/garde-meuble-nantes/prix-garde-meuble-nantes-2025) et [garde-meuble pas cher à Nantes](/blog/satellites/garde-meuble-pas-cher-nantes).
+Pour aller plus loin, explorez notre [guide complet du garde-meuble à Nantes](/blog/garde-meuble-nantes/garde-meuble-nantes-guide-complet) ainsi que nos guides complémentaires : [prix garde-meuble Nantes 2025](/blog/garde-meuble-nantes/prix-garde-meuble-nantes-2025) et [garde-meuble pas cher à Nantes](/blog/garde-meuble-nantes/garde-meuble-pas-cher-nantes).
 
 ## Questions Fréquentes
 

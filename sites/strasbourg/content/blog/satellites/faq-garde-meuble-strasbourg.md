@@ -22,7 +22,7 @@ Toutes vos questions sur le garde-meuble à Strasbourg répondues : prix, taille
 
 ### 2. Tarifs Étudiants Strasbourg ?
 
-**40-90€/mois** (box 1-5m²). Aucun tarif préférentiel carte étudiante officiel, mais promotions rentrée possibles (1er mois offert juin-juillet). 68 000 étudiants louent 3-4 mois été (200-360€ total), économisant 1 400-1 700€ vs loyer vide. [Guide étudiant complet](/blog/satellites/garde-meuble-etudiant-strasbourg).
+**40-90€/mois** (box 1-5m²). Aucun tarif préférentiel carte étudiante officiel, mais promotions rentrée possibles (1er mois offert juin-juillet). 68 000 étudiants louent 3-4 mois été (200-360€ total), économisant 1 400-1 700€ vs loyer vide. [Guide étudiant complet](/blog/demenagement-strasbourg/garde-meuble-etudiant-strasbourg).
 
 ### 3. Remises Longue Durée ?
 
@@ -66,13 +66,13 @@ Box 3-5m² étudiant à 50-75€/mois × 4 = **200-300€** total. Vs loyer vide
 
 ### 12. Prolonger Après Échéance ?
 
-**Oui**, notification 15j avant fin. Reconduction automatique ou renégociation tarif. [Guide durées Strasbourg](/blog/satellites/duree-location-garde-meuble-strasbourg).
+**Oui**, notification 15j avant fin. Reconduction automatique ou renégociation tarif. [Guide durées Strasbourg](/blog/demenagement-strasbourg/duree-location-garde-meuble-strasbourg).
 
 ## Accès & Services
 
 ### 13. Homebox Accès 24/7 ?
 
-**Oui**, Homebox Neudorf (8 rue Doubs) = accès 24/7 avec badge personnel. Vs Locakase 7h-21h semaine, 8h-18h weekend (pas 24/7). [Détails accès 24/7](/blog/satellites/acces-24-7-self-stockage-strasbourg).
+**Oui**, Homebox Neudorf (8 rue Doubs) = accès 24/7 avec badge personnel. Vs Locakase 7h-21h semaine, 8h-18h weekend (pas 24/7). [Détails accès 24/7](/blog/demenagement-strasbourg/acces-24-7-self-stockage-strasbourg).
 
 ### 14. Peut-on Accéder Quotidiennement ?
 
@@ -90,7 +90,7 @@ Box 3-5m² étudiant à 50-75€/mois × 4 = **200-300€** total. Vs loyer vide
 
 ### 17. Assurance Obligatoire ?
 
-**Non légalement**, mais **fortement recommandée** si valeur >2 000€. Coût 5-15€/mois selon valeur (2 000-10 000€). Homebox 8€/mois (3 000€), Locakase inclut 2 000€ base. [Guide assurance complet](/blog/satellites/assurance-garde-meuble-strasbourg).
+**Non légalement**, mais **fortement recommandée** si valeur >2 000€. Coût 5-15€/mois selon valeur (2 000-10 000€). Homebox 8€/mois (3 000€), Locakase inclut 2 000€ base. [Guide assurance complet](/blog/demenagement-strasbourg/assurance-garde-meuble-strasbourg).
 
 ### 18. Assurance Habitation Couvre ?
 
@@ -146,7 +146,7 @@ Accessibles tram B (15 min Esplanade), bus 2/10 (20 min centre), vélo (10 min K
 
 ### 27. Partager Box Entre Particuliers ?
 
-**Oui autorisé**. Étudiants partagent fréquemment (37,50€/mois chacun au lieu 75€ seul). 1 contrat principal + co-signataires, ou 2 contrats séparés 50% surface chacun. Chacun badge accès personnel. [Astuces partage étudiants](/blog/satellites/garde-meuble-etudiant-strasbourg).
+**Oui autorisé**. Étudiants partagent fréquemment (37,50€/mois chacun au lieu 75€ seul). 1 contrat principal + co-signataires, ou 2 contrats séparés 50% surface chacun. Chacun badge accès personnel. [Astuces partage étudiants](/blog/demenagement-strasbourg/garde-meuble-etudiant-strasbourg).
 
 ### 28. Visiter Avant Réserver ?
 
@@ -162,7 +162,7 @@ Accessibles tram B (15 min Esplanade), bus 2/10 (20 min centre), vélo (10 min K
 
 ---
 
-Ces 30 réponses couvrent 95% questions garde-meuble Strasbourg. Pour analyses détaillées : [guide complet stockage Strasbourg](/blog/garde-meuble-strasbourg/garde-meuble-strasbourg-guide-complet), [prix par taille](/blog/demenagement-strasbourg/prix-garde-meuble-strasbourg-2025), [comparatif self vs trad](/blog/satellites/self-stockage-vs-garde-meuble-strasbourg), [tailles recommandées](/blog/satellites/taille-box-garde-meuble-strasbourg).
+Ces 30 réponses couvrent 95% questions garde-meuble Strasbourg. Pour analyses détaillées : [guide complet stockage Strasbourg](/blog/demenagement-strasbourg/garde-meuble-strasbourg), [prix par taille](/blog/demenagement-strasbourg/prix-garde-meuble-strasbourg-2025), [comparatif self vs trad](/blog/demenagement-strasbourg/self-stockage-vs-garde-meuble-strasbourg), [tailles recommandées](/blog/demenagement-strasbourg/taille-box-garde-meuble-strasbourg).
 
 **Comparez Homebox, Locakase, Stock Avenue** : devis gratuits, visites sans engagement, conseillers disponibles.
 

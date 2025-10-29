@@ -19,7 +19,7 @@ Le **déménagement T2 Lille avec aide** 3-4 personnes dure **6h** (chargement 2
 
 À Lille, les **tentatives déménagement solo** T2 échouent 70-80% selon témoignages forums : abandon mi-parcours (fatigue extrême 8h chargement partiel 30 cartons, reste 30 impossibles physiquement, appel urgence amis/déménageur surcoût +200-500€), blessures (lombalgies portage incorrect 15-20%, hernies 3-5%, entorses descente escaliers 5-8%, arrêts travail 1-4 semaines = 400-1 600€ salaire perdu > économie 80€ DIY), casse (cartons mal emballés vaisselle 20-30% cassée 200-400€ perte, meubles rayés portage solo angles murs 100-300€, TV tombée escaliers 800€ = total casse espérée solo 400-800€ > économie 80€ vs aide 150€ amis). Les **volumes réalistes solo** : **studio 18m³ RDC** OK (mobilier léger lit 90×190 30 kg + bureau 40 kg + 20 cartons 10-15 kg = portages solo gérables, 0 escalier, 8-10h acceptable seul), **T1 25m³ RDC** limite (+ canapé 2 places 50 kg difficile solo, 40 cartons, 12h, faisable sportif jeune mais épuisant), **tout volume avec escaliers** = aide obligatoire minimum 1 personne.
 
-Ce guide compare déménagement avec aide vs seul Lille : durées, coûts, faisabilité physique, volumes limites, risques blessure/casse, calcul rentabilité. Consultez notre [guide aide déménagement Lille](/blog/satellites/aide-demenagement-particuliers-lille).
+Ce guide compare déménagement avec aide vs seul Lille : durées, coûts, faisabilité physique, volumes limites, risques blessure/casse, calcul rentabilité. Consultez notre [guide aide déménagement Lille](/blog/aide-demenagement-lille/aide-demenagement-particuliers-lille).
 
 ## Comparatif Durées T2 35m³
 
@@ -193,7 +193,7 @@ Nombre optimal T2 : **3-4 personnes** (rotation fluide 6h, gros meubles à 2 sé
 
 Risques blessure solo : lombalgie 15-20% portage incorrect (dos courbé cartons 15 kg ×60 = 900 kg cumulés, arrêt 1-2 sem 400-800€ salaire), hernie 3-5% portage >60 kg solo (canapé chute escaliers, chirurgie 2-5k€, arrêt 2-4 sem 800-1 600€), entorses 5-8% chutes escaliers (fatigue déséquilibre, arrêt 1 sem 400€). Espérance coût blessures : 30% prob × 600€ moyen = 180€ > économie solo 80€ vs amis 150€ (irrationnel). Casse majorée fatigue : après 8h concentration -50%, cartons précipités 30/60 cassés vaisselle, TV tombée 800€, meubles rayés 100-300€ = espérance 400-800€ vs aide 100-200€.
 
-Consultez notre [guide aide déménagement Lille](/blog/satellites/aide-demenagement-particuliers-lille), notre [guide DIY](/blog/demenagement-pas-cher-lille/diy-demenagement-lille-budget-mini), notre [guide porteurs](/blog/satellites/porteurs-heure-demenagement-lille) et notre [guide déménageur Lille](/blog/demenageur-lille/demenageur-lille-expert).
+Consultez notre [guide aide déménagement Lille](/blog/aide-demenagement-lille/aide-demenagement-particuliers-lille), notre [guide DIY](/blog/demenagement-pas-cher-lille/diy-demenagement-lille-budget-mini), notre [guide porteurs](/blog/aide-demenagement-lille/porteurs-heure-demenagement-lille) et notre [guide déménageur Lille](/blog/demenageur-lille/demenageur-lille-expert).
 
 
 

@@ -203,7 +203,7 @@ Les risques généralistes (15-25% pianos rayures/désaccordages sévères/casse
 Notre recommandation finale Nantes : Alliance LG pianos >5000€ (Steinway, Yamaha C3/C5 demi-queues, droits premium, sécurité maximale conservatoire), Déménageurs Bretons pianos droits d'étude 2000-4000€ (Yamaha U1, compromis économie-risques modérés), **jamais généralistes** pianos acoustiques (risques 20% dégâts = espérance perte 60-150€ annule économie + stress), et souscrivez assurance ad valorem systématiquement pianos >3000€ (surprime 60-200€ = tranquillité casse 5-25k€).
 
 
-Pour aller plus loin, explorez notre [guide déménagement piano à Nantes](/blog/demenagement-piano-nantes/demenagement-piano-nantes-guide) ainsi que nos guides complémentaires : [déménagement piano à queue](/blog/satellites/demenagement-piano-queue-nantes) et [piano dans les étages sans ascenseur](/blog/satellites/demenagement-piano-etages-sans-ascenseur-nantes).
+Pour aller plus loin, explorez notre [guide déménagement piano à Nantes](/blog/demenagement-piano-nantes/demenagement-piano-nantes-guide) ainsi que nos guides complémentaires : [déménagement piano à queue](/blog/demenagement-piano-nantes/demenagement-piano-queue-nantes) et [piano dans les étages sans ascenseur](/blog/demenagement-piano-nantes/demenagement-piano-etages-sans-ascenseur-nantes).
 
 ## Questions Fréquentes
 

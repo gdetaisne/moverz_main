@@ -135,7 +135,7 @@ Ce guide détaille prix moyens petit déménagement Lyon par volume (chambre 150
 
 Prix petit déménagement Lyon : 150-250€ chambre étudiant (6-8m³), 250-400€ studio partiel (8-12m³), 300-500€ T1 léger (12-15m³), formules pro spécialisées petit volume (économie 150-300€ vs forfaits standards surdimensionnés). DIY location camion 80-150€ économise 50-70% mais efforts physiques, risques casse, temps. Facteurs : volume réel (inventaire précis), distance (<10 km 0€, >30 km +50-150€), étages (3-4ème +30-50€), services (transport seul vs emballage +50-100€), période (semaine -10-20% vs week-end).
 
-Économiser : cartons gratuits supermarchés, emballer soi-même (-30-50€), déménager lundi-jeudi (-20-40€), comparer 3+ devis (variations 30-50%), mutualiser (étudiants coût ÷ 2-3). Haute saison juin-sept : +15-25%. Consultez [transport meubles](/blog/satellites/transport-quelques-meubles-lyon), [étudiant](/blog/satellites/demenagement-chambre-etudiant-lyon), [DIY vs pro](/blog/satellites/diy-vs-pro-petit-volume-lyon), [guide](/blog/demenagement-petit-volume-lyon/demenagement-petit-volume-lyon-guide-complet). Bon déménagement !
+Économiser : cartons gratuits supermarchés, emballer soi-même (-30-50€), déménager lundi-jeudi (-20-40€), comparer 3+ devis (variations 30-50%), mutualiser (étudiants coût ÷ 2-3). Haute saison juin-sept : +15-25%. Consultez [transport meubles](/blog/demenagement-petit-volume-lyon/transport-quelques-meubles-lyon), [étudiant](/blog/demenagement-petit-volume-lyon/demenagement-chambre-etudiant-lyon), [DIY vs pro](/blog/demenagement-petit-volume-lyon/diy-vs-pro-petit-volume-lyon), [guide](/blog/demenagement-petit-volume-lyon/demenagement-petit-volume-lyon). Bon déménagement !
 
 ---
 

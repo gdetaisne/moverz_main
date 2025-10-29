@@ -166,7 +166,7 @@ Les 3 erreurs majeures (généraliste 35-40% clients = dégâts 18-25%, omission
 Notre recommandation finale Nantes : Suivez checklist complète (3 mois avant → J+28 post, 8 étapes critiques vérifications), privilégiez spécialisés (surcoûts +150-250€ = investissements sécurités taux sinistres ×5-7 moindres vs généralistes), souscrivez ad valorem systématiquement >5k€ (surprimes 160-600€ = tranquillités vs omissions risquant 7-19k€), et budgetez totaux réalistes 560-2500€ incluant TOUS postes (vs sous-estimations 35-50% = frustrations dépassements psychologiques +420-1200€ découverts progressivement).
 
 
-Pour aller plus loin, explorez notre [guide déménagement piano à Nantes](/blog/demenagement-piano-nantes/demenagement-piano-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement piano](/blog/demenagement-piano-nantes/demenagement-piano-nantes-prix) et [déménagement piano à queue](/blog/satellites/demenagement-piano-queue-nantes).
+Pour aller plus loin, explorez notre [guide déménagement piano à Nantes](/blog/demenagement-piano-nantes/demenagement-piano-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement piano](/blog/demenagement-piano-nantes/demenagement-piano-nantes-prix) et [déménagement piano à queue](/blog/demenagement-piano-nantes/demenagement-piano-queue-nantes).
 
 ## Questions Fréquentes
 

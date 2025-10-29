@@ -21,7 +21,7 @@ La formule économique déménagement petit volume Lyon (vs formule standard com
 
 Les variantes formules économiques incluent : transport express (camionnette dédiée trajet direct sans détours, vs tournées mutualisées +50% temps, surcoût +20-30€ mais rapidité 1-2h totales), location camionnette + chauffeur seul (chauffeur conduit, vous chargez/déchargez, 80-120€ vs 60€ DIY location seule + vs 150€ pro complet), mutualisation trajets (2-3 petits déménagements même jour/trajet partagé, coût ÷ 2-3 soit 50-100€/client vs 150-180€ solo, rare trouver compatibilité dates/quartiers). La formule économique convient budgets serrés étudiants/jeunes actifs (capacité physique charger, aide amis disponible gratuite), petits volumes <10m³ (chambre, studio partiel, efforts manutention limités 2-3h vs T2 complet 20m³ nécessitant 6-8h chargement impossible DIY).
 
-Ce guide détaille formules économiques Lyon (transport seul 100-180€, transport + déchargement 120-200€, express +20-30€), compare économies vs standard (30-100€ selon volume/services), présente conditions (aide amis, efforts physiques, temps chargement 2-4h), révèle limites (pas assurance casse chargement vous-même, risque mauvais emballage/chargement inefficace volume perdu), et conseille quand choisir (budget <150€ impératif, bonne condition physique, volume <10m³). Pour formule standard, consultez [prix petit déménagement Lyon](/blog/satellites/prix-petit-demenagement-lyon).
+Ce guide détaille formules économiques Lyon (transport seul 100-180€, transport + déchargement 120-200€, express +20-30€), compare économies vs standard (30-100€ selon volume/services), présente conditions (aide amis, efforts physiques, temps chargement 2-4h), révèle limites (pas assurance casse chargement vous-même, risque mauvais emballage/chargement inefficace volume perdu), et conseille quand choisir (budget <150€ impératif, bonne condition physique, volume <10m³). Pour formule standard, consultez [prix petit déménagement Lyon](/blog/demenagement-petit-volume-lyon/prix-petit-demenagement-lyon).
 
 ## Formules Économiques Détaillées
 
@@ -112,7 +112,7 @@ Formule économique déménagement petit volume Lyon coûte 100-180€ transport
 
 Conditions : aide amis (2-3 personnes), efforts physiques 2-4h chargement, bonne condition physique, emballage soigné (cartons solides, protections meubles). Limites : pas assurance chargement DIY (casse = non-couvert), risque volume perdu mauvais calage (surcoût), temps (vs pros rapides). Idéal : étudiants budget <150€, chambre/studio <10m³, RDC-2ème étages, aide fiable.
 
-Consultez [prix](/blog/satellites/prix-petit-demenagement-lyon), [DIY vs pro](/blog/satellites/diy-vs-pro-petit-volume-lyon), [camionnette chauffeur](/blog/satellites/camionnette-chauffeur-lyon). Bon déménagement économique !
+Consultez [prix](/blog/demenagement-petit-volume-lyon/prix-petit-demenagement-lyon), [DIY vs pro](/blog/demenagement-petit-volume-lyon/diy-vs-pro-petit-volume-lyon), [camionnette chauffeur](/blog/demenagement-petit-volume-lyon/camionnette-chauffeur-lyon). Bon déménagement économique !
 
 ---
 

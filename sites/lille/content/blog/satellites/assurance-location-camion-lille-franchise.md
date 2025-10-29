@@ -129,7 +129,7 @@ Franchise = montant votre charge : dégât 800€ = payez 800€ intégralement 
 
 Europcar Flandres optimal assurance novices : franchise réduite 150€ (vs 250-350€ concurrents) avec rachat 18€/j (moins cher). Leclerc rachat 15€/j moins cher mais franchise finale 350€ (moins protecteur). Arbitrage : Europcar = meilleure protection (36€ weekend → franchise 150€), Leclerc = moins cher rachat (30€ → franchise 350€). Probabilité accident ×coût si accident : 10% × 1 350€ (sans rachat) = 135€ vs 36-50€ rachat = rachat rentable.
 
-Consultez notre [guide location Lille](/blog/location-camion-lille/location-camion-demenagement-lille-guide), notre [comparatif agences](/blog/location-camion-lille/agences-location-camion-lille-comparatif) et notre [article permis B](/blog/satellites/permis-b-camion-demenagement-limites).
+Consultez notre [guide location Lille](/blog/location-camion-lille/location-camion-demenagement-lille-guide), notre [comparatif agences](/blog/location-camion-lille/agences-location-camion-lille-comparatif) et notre [article permis B](/blog/location-camion-lille/permis-b-camion-demenagement-limites).
 
 
 

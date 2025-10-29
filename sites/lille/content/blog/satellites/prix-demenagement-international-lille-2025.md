@@ -172,7 +172,7 @@ Proximité Lille : Belgique 20 km = économie Europe (Bruxelles 1 500€ vs 4 00
 
 Devis sur-mesure obligatoire : visite technique domicile (évaluation volume exact, objets spéciaux piano/œuvres art), calcul transport optimal (routier <2 000 km, maritime >2 000 km, aérien urgent), gestion douanes incluse (déclarations, taxes estimées prévisionnelles, documents requis), assurances ad valorem (valeur totale biens 20-80k€ typique T2-T3).
 
-Consultez notre [guide déménagement international Lille](/blog/demenagement-international-lille/demenagement-international-lille-guide), notre [article formalités douanières](/blog/satellites/formalites-douanieres-demenagement-international), notre [guide conteneurs](/blog/satellites/transport-conteneur-demenagement-international) et notre [article Lille-Londres](/blog/demenagement-international-lille/demenagement-lille-londres-post-brexit).
+Consultez notre [guide déménagement international Lille](/blog/demenagement-international-lille/demenagement-international-lille-guide), notre [article formalités douanières](/blog/demenagement-international-lille/formalites-douanieres-demenagement-international), notre [guide conteneurs](/blog/demenagement-international-lille/transport-conteneur-demenagement-international) et notre [article Lille-Londres](/blog/demenagement-international-lille/demenagement-lille-londres-post-brexit).
 
 
 

@@ -194,7 +194,7 @@ Timing documents : **4-6 semaines avant départ** (délais traitement consulats 
 
 Pièges éviter : sous-évaluer valeurs (suspicion fraude douanière = inspections systématiques + pénalités), sur-évaluer (taxes excessives pays taxant valeur Singapour GST 9%, Maroc 30-40%), objets interdits non-déclarés (alimentaire USA/Australie = confiscation + amendes 3-10k€), inventaire approximatif (descriptions floues "meubles divers" = rejet douanes, exigent précisions retardent dédouanement 2-4 sem).
 
-Consultez notre [guide déménagement international Lille](/blog/demenagement-international-lille/demenagement-international-lille-guide), notre [article prix international](/blog/demenagement-international-lille/prix-demenagement-international-lille-2025), notre [guide conteneurs](/blog/satellites/transport-conteneur-demenagement-international) et notre [article Lille-USA](/blog/demenagement-international-lille/demenagement-lille-usa-formalites).
+Consultez notre [guide déménagement international Lille](/blog/demenagement-international-lille/demenagement-international-lille-guide), notre [article prix international](/blog/demenagement-international-lille/prix-demenagement-international-lille-2025), notre [guide conteneurs](/blog/demenagement-international-lille/transport-conteneur-demenagement-international) et notre [article Lille-USA](/blog/demenagement-international-lille/demenagement-lille-usa-formalites).
 
 
 

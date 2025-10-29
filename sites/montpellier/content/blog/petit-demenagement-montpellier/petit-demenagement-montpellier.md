@@ -30,7 +30,7 @@ Vous déménagez un studio d'étudiant dans le quartier de la Comédie, une cham
 - [Service coursier déménagement Montpellier](/blog/petit-demenagement-montpellier/service-coursier-demenagement-montpellier) - Livraison rapide
 
 **Prix et Organisation :**
-- [Prix petit déménagement Montpellier 2025](/blog/satellites/prix-petit-demenagement-montpellier) - Fourchettes 100-500€
+- [Prix petit déménagement Montpellier 2025](/blog/petit-demenagement-montpellier/prix-petit-demenagement-montpellier) - Fourchettes 100-500€
 - [Déménagement rapide dernière minute Montpellier](/blog/petit-demenagement-montpellier/demenagement-rapide-derniere-minute-montpellier) - 24-48h, urgence
 - [Déménagement colocation Montpellier](/blog/petit-demenagement-montpellier/demenagement-colocation-montpellier) - Une chambre vers autre coloc
 - [Transport piano droit Montpellier petit budget](/blog/petit-demenagement-montpellier/transport-piano-droit-montpellier-petit-budget) - Instrument seul

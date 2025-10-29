@@ -197,7 +197,7 @@ Optimisations cumulées T2 Lille : tri avant (don 20% meubles = -5m³ = -100€)
 
 T2 35m³ peut varier 720-1 380€ (écart 660€ soit ×1,9) selon combinaison facteurs : minimum = économique + basse + Lomme RDC (720€), maximum = clé en main + haute + Vieux-Lille 3ème monte-meuble (1 380€). Écart énorme justifiant comparaison active 3-4 devis + compréhension facteurs.
 
-Consultez notre [guide prix déménagement Lille](/blog/prix-demenagement-lille/prix-demenagement-lille-guide), nos [tarifs T2 détaillés](/blog/satellites/prix-demenagement-t2-detaille-lille) et notre [comparatif formules](/blog/satellites/formule-economique-cle-en-main-lille).
+Consultez notre [guide prix déménagement Lille](/blog/prix-demenagement-lille/prix-demenagement-lille-guide), nos [tarifs T2 détaillés](/blog/prix-demenagement-lille/prix-demenagement-t2-detaille-lille) et notre [comparatif formules](/blog/demenageur-lille/formule-economique-cle-en-main-lille).
 
 
 

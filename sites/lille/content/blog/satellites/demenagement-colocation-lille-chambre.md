@@ -191,7 +191,7 @@ Rotation élevée colocs : durée moyenne 1-2 ans Lille (vs studio 2-3 ans), 40-
 
 25-30% logements étudiants/jeunes actifs Lille sont colocations (vs 70-75% studios/T1 individuels) selon estimations. Avantages coloc : loyer réduit -30-40% (250€ chambre vs 450€ studio), convivialité (vie sociale), espace partagé (salon 25m² vs studio 18m² total). Inconvénients : intimité limitée, gestion conflits potentiels, coordination déménagements complexité légère.
 
-Consultez notre [guide petit déménagement Lille](/blog/petit-demenagement-lille/petit-demenagement-lille-studio-t1), notre [guide déménagement étudiant](/blog/satellites/demenagement-chambre-etudiant-lille), notre [guide transport meubles](/blog/petit-demenagement-lille/transport-meubles-lille-sans-demenageur) et notre [guide DIY](/blog/demenagement-pas-cher-lille/diy-demenagement-lille-budget-mini).
+Consultez notre [guide petit déménagement Lille](/blog/petit-demenagement-lille/petit-demenagement-lille-studio-t1), notre [guide déménagement étudiant](/blog/petit-demenagement-lille/demenagement-chambre-etudiant-lille), notre [guide transport meubles](/blog/petit-demenagement-lille/transport-meubles-lille-sans-demenageur) et notre [guide DIY](/blog/demenagement-pas-cher-lille/diy-demenagement-lille-budget-mini).
 
 
 

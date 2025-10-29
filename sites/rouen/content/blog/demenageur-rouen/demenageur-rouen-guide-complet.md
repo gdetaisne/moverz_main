@@ -28,7 +28,7 @@ Découvrez tous nos guides détaillés sur les déménageurs à Rouen :
 
 ### Services Spécialisés
 - **[Monte-Meuble Déménagement Rouen](/blog/prix/monte-meuble-demenagement-rouen-prix)** : Prix, fonctionnement, quartiers concernés (centre historique)
-- **[Déménageur Centre Historique Rouen](/blog/satellites/demenageur-centre-historique-rouen)** : Spécificités Vieux-Rouen, contraintes et solutions
+- **[Déménageur Centre Historique Rouen](/blog/demenageur/demenageur-centre-historique-rouen)** : Spécificités Vieux-Rouen, contraintes et solutions
 
 ### Choix du Prestataire
 - **[Meilleurs Déménageurs Rouen 2025](/blog/demenageur-rouen/meilleurs-demenageurs-rouen-avis-2025)** : Classement, avis clients, témoignages vérifiés
@@ -40,7 +40,7 @@ Découvrez tous nos guides détaillés sur les déménageurs à Rouen :
 
 ### Aspects Pratiques
 - **[Planning Déménagement Rouen](/blog/demenageur-rouen/planning-demenagement-rouen-organisation)** : Organisation optimale, check-lists
-- **[Déménagement Longue Distance](/blog/satellites/demenagement-longue-distance-rouen)** : Rouen vers autres régions, spécificités
+- **[Déménagement Longue Distance](/blog/demenageur-rouen/demenagement-longue-distance-rouen)** : Rouen vers autres régions, spécificités
 
 ---
 
@@ -58,7 +58,7 @@ Nombreux sont ceux qui envisagent initialement de déménager seuls pour économ
 
 **Assurance complète** : Tout déménageur professionnel dispose d'une assurance responsabilité civile professionnelle couvrant les dommages éventuels. En cas de casse ou de perte, vous êtes indemnisé selon les conditions du contrat. Cette protection n'existe évidemment pas lors d'un déménagement en autonomie.
 
-**Expertise des contraintes rouennaises** : Les déménageurs locaux connaissent parfaitement les spécificités de Rouen. Ils savent que certaines rues du Vieux-Rouen sont difficilement accessibles en camion, qu'il faut [obtenir une autorisation de stationnement auprès de la mairie](/blog/demenageur/autorisation-stationnement-demenagement-rouen-mairie) pour certains quartiers, et quelles sont les heures à éviter pour circuler dans le centre-ville. Les [déménageurs spécialisés dans le centre historique](/blog/satellites/demenageur-centre-historique-rouen) maîtrisent ces contraintes spécifiques.
+**Expertise des contraintes rouennaises** : Les déménageurs locaux connaissent parfaitement les spécificités de Rouen. Ils savent que certaines rues du Vieux-Rouen sont difficilement accessibles en camion, qu'il faut [obtenir une autorisation de stationnement auprès de la mairie](/blog/demenageur/autorisation-stationnement-demenagement-rouen-mairie) pour certains quartiers, et quelles sont les heures à éviter pour circuler dans le centre-ville. Les [déménageurs spécialisés dans le centre historique](/blog/demenageur/demenageur-centre-historique-rouen) maîtrisent ces contraintes spécifiques.
 
 **Matériel adapté** : Au-delà du camion de transport, les déménageurs disposent d'équipements professionnels : [monte-meubles pour les étages sans ascenseur](/blog/prix/monte-meuble-demenagement-rouen-prix), cartons renforcés pour les objets lourds, housses spécifiques pour les matelas et canapés, sangles de portage, protection pour les sols et les murs.
 
@@ -400,7 +400,7 @@ Optimisez vos coûts de déménagement :
 ### Services Spécialisés
 Solutions pour situations particulières :
 - **[Monte-Meuble Déménagement](/blog/prix/monte-meuble-demenagement-rouen-prix)** - Fonctionnement et tarifs pour étages élevés
-- **[Spécialistes Centre Historique](/blog/satellites/demenageur-centre-historique-rouen)** - Contraintes Vieux-Rouen et solutions
+- **[Spécialistes Centre Historique](/blog/demenageur/demenageur-centre-historique-rouen)** - Contraintes Vieux-Rouen et solutions
 
 ### Choix et Comparaison
 Sélectionnez le bon prestataire :
@@ -415,7 +415,7 @@ Planifiez efficacement :
 
 ### Cas Particuliers
 Solutions spécifiques :
-- **[Déménagement Longue Distance](/blog/satellites/demenagement-longue-distance-rouen)** - Rouen vers autres régions
+- **[Déménagement Longue Distance](/blog/demenageur-rouen/demenagement-longue-distance-rouen)** - Rouen vers autres régions
 
 ---
 

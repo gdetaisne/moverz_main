@@ -6,19 +6,19 @@ export default function Testimonials() {
       name: "Marie L.",
       location: "Presqu'île",
       text: "Estimation très précise, équipe pro. Déménagement sans stress.",
-      avatar: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=256&h=256&fit=crop&q=80"
+      avatar: "/images/testimonials/avatar-1.jpg"
     },
     {
       name: "Thomas B.", 
       location: "Croix‑Rousse",
       text: "L'IA a bien évalué le volume. Prix correct, service impeccable.",
-      avatar: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=256&h=256&fit=crop&q=80"
+      avatar: "/images/testimonials/avatar-2.jpg"
     },
     {
       name: "Sophie M.",
       location: "Part‑Dieu", 
       text: "Gain de temps énorme avec l'estimation photo. Recommande.",
-      avatar: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=256&h=256&fit=crop&q=80"
+      avatar: "/images/testimonials/avatar-3.jpg"
     }
   ];
 

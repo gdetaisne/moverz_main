@@ -154,7 +154,7 @@ Stratégie étudiante extrême : DIY (95€) + cartons gratuits (0€) + tri tot
 
 Astuces impossibles : changer étages existants logement, éviter Vieux-Lille si vous y habitez (subis). Astuces contrôlables : formule, période, tri, devis. Focalisez sur leviers actionnables pour maximiser économies réalistes.
 
-Consultez notre [guide prix Lille](/blog/prix-demenagement-lille/prix-demenagement-lille-guide), notre [comparatif formules](/blog/satellites/formule-economique-cle-en-main-lille), notre [article DIY vs pro](lien si créé) et notre [guide tri désencombrement](lien si créé).
+Consultez notre [guide prix Lille](/blog/prix-demenagement-lille/prix-demenagement-lille-guide), notre [comparatif formules](/blog/demenageur-lille/formule-economique-cle-en-main-lille), notre [article DIY vs pro](lien si créé) et notre [guide tri désencombrement](lien si créé).
 
 
 

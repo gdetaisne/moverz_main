@@ -68,7 +68,7 @@ Pour réduire significativement les coûts de votre déménagement étudiant à 
 
 ### Gérer ses affaires personnelles
 
-Le déménagement étudiant se distingue par la nature des biens transportés. Contrairement à un déménagement familial, vous transportez principalement des vêtements, des livres, du petit électroménager et quelques meubles d'occasion Pour en savoir plus, consultez nos guides sur [tarifs préférentiels étudiants](/blog/demenagement-entreprise-bordeaux/demenagement-entreprise-bordeaux-guide), [solutions express](/blog/demenagement-entreprise-bordeaux/demenagement-entreprise-bordeaux-guide) et [budget optimisé](/blog/demenagement-entreprise-bordeaux/demenagement-entreprise-bordeaux-guide). Cette particularité offre plusieurs avantages :
+Le déménagement étudiant se distingue par la nature des biens transportés. Contrairement à un déménagement familial, vous transportez principalement des vêtements, des livres, du petit électroménager et quelques meubles d'occasion Pour en savoir plus, consultez nos guides sur [tarifs préférentiels étudiants](/blog/pas-cher/guide), [solutions express](/blog/urgent/guide) et [budget optimisé](/blog/prix/guide). Cette particularité offre plusieurs avantages :
 
 **Volume réduit** : un studio ou une chambre d'étudiant se vide rapidement, ce qui limite les frais de transport.
 
@@ -170,7 +170,7 @@ Nous proposons des services adaptés aux étudiants : tarifs préférentiels, em
 
 ---
 
-*Cet article fait partie de notre série dédiée aux étudiants. Découvrez également nos guides sur le [déménagement pas cher à Bordeaux](/blog/demenagement-entreprise-bordeaux/demenagement-entreprise-bordeaux-guide) et les [prix de déménagement à Bordeaux](/blog/demenagement-entreprise-bordeaux/demenagement-entreprise-bordeaux-guide) pour optimiser votre budget.*
+*Cet article fait partie de notre série dédiée aux étudiants. Découvrez également nos guides sur le [déménagement pas cher à Bordeaux](/blog/pas-cher/guide) et les [prix de déménagement à Bordeaux](/blog/prix/guide) pour optimiser votre budget.*
 
 
 ---
@@ -179,14 +179,14 @@ Nous proposons des services adaptés aux étudiants : tarifs préférentiels, em
 
 Découvrez nos autres guides spécialisés pour approfondir votre connaissance du déménagement à Bordeaux :
 
-- **[Les aides financières pour déménagement étudiant à Bordeaux](/blog/demenagement-etudiant-bordeaux/aide-financiere-demenagement-etudiant)** : les aides financières pour déménagement étudiant à bordeaux
-- **[Faut-il une assurance pour son déménagement étudiant à Bordeaux ?](/blog/demenagement-etudiant-bordeaux/assurance-demenagement-etudiant)** : faut-il une assurance pour son déménagement étudiant à bordeaux ?
-- **[Louer un camion pas cher pour un déménagement étudiant à Bordeaux](/blog/demenagement-etudiant-bordeaux/camion-demenagement-etudiant-bordeaux)** : louer un camion pas cher pour un déménagement étudiant à bordeaux
-- **[Où trouver des cartons gratuits à Bordeaux pour un déménagement étudiant ?](/blog/demenagement-etudiant-bordeaux/cartons-gratuits-bordeaux)** : où trouver des cartons gratuits à bordeaux pour un déménagement étudiant ?
-- **[Checklist complète pour réussir son déménagement étudiant](/blog/demenagement-etudiant-bordeaux/checklist-demenagement-etudiant)** : checklist complète pour réussir son déménagement étudiant
-- **[Comment déménager pas cher quand on est étudiant à Bordeaux](/blog/demenagement-etudiant-bordeaux/demenagement-etudiant-pas-cher)** : comment déménager pas cher quand on est étudiant à bordeaux
-- **[Déménager seul à Bordeaux quand on est étudiant : mode d'emploi](/blog/demenagement-etudiant-bordeaux/demenager-seul-etudiant)** : déménager seul à bordeaux quand on est étudiant : mode d'emploi
-- **[Les 7 erreurs à éviter lors d'un déménagement étudiant](/blog/demenagement-etudiant-bordeaux/erreurs-demenagement-etudiant)** : les 7 erreurs à éviter lors d'un déménagement étudiant
-- **[Solutions de stockage pas cher pour étudiants à Bordeaux](/blog/demenagement-etudiant-bordeaux/stockage-etudiant-bordeaux)** : solutions de stockage pas cher pour étudiants à bordeaux
+- **[Les aides financières pour déménagement étudiant à Bordeaux](/blog/etudiant/aide-financiere-demenagement-etudiant)** : les aides financières pour déménagement étudiant à bordeaux
+- **[Faut-il une assurance pour son déménagement étudiant à Bordeaux ?](/blog/etudiant/assurance-demenagement-etudiant)** : faut-il une assurance pour son déménagement étudiant à bordeaux ?
+- **[Louer un camion pas cher pour un déménagement étudiant à Bordeaux](/blog/etudiant/camion-demenagement-etudiant)** : louer un camion pas cher pour un déménagement étudiant à bordeaux
+- **[Où trouver des cartons gratuits à Bordeaux pour un déménagement étudiant ?](/blog/etudiant/cartons-gratuits)** : où trouver des cartons gratuits à bordeaux pour un déménagement étudiant ?
+- **[Checklist complète pour réussir son déménagement étudiant](/blog/etudiant/checklist-demenagement-etudiant)** : checklist complète pour réussir son déménagement étudiant
+- **[Comment déménager pas cher quand on est étudiant à Bordeaux](/blog/etudiant/demenagement-etudiant-pas-cher)** : comment déménager pas cher quand on est étudiant à bordeaux
+- **[Déménager seul à Bordeaux quand on est étudiant : mode d'emploi](/blog/etudiant/demenager-seul-etudiant)** : déménager seul à bordeaux quand on est étudiant : mode d'emploi
+- **[Les 7 erreurs à éviter lors d'un déménagement étudiant](/blog/etudiant/erreurs-demenagement-etudiant)** : les 7 erreurs à éviter lors d'un déménagement étudiant
+- **[Solutions de stockage pas cher pour étudiants à Bordeaux](/blog/etudiant/stockage-etudiant)** : solutions de stockage pas cher pour étudiants à bordeaux
 
 *Ces articles complémentaires vous aideront à organiser votre déménagement dans les meilleures conditions.*

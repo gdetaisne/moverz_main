@@ -190,7 +190,7 @@ Destinations Europe Lille : Belgique 35-40% flux (cadres multinationales Bruxell
 
 Documents utiles non-obligatoires : inventaire (assurance déménageur, preuve possessions valeur), bail destination (location Berlin, confirmation adresse livraison), passeport/carte identité (contrôle police routier rare, suffisant carte identité UE). Délais routiers : Belgique/Pays-Bas 2-3j, Allemagne proche 2-4j (Cologne, Francfort, Berlin), Allemagne loin 4-5j (Munich 1 050 km), Espagne 5-8j (Barcelone 1 200 km, Madrid 1 500 km), Italie 5-8j (Milan 1 100 km, Rome 1 400 km), Grèce 10-14j (Athènes 2 800 km routier + ferry Italie-Grèce).
 
-Consultez notre [guide déménagement international Lille](/blog/demenagement-international-lille/demenagement-international-lille-guide), notre [article prix international](/blog/demenagement-international-lille/prix-demenagement-international-lille-2025), notre [guide Lille-Londres Brexit](/blog/demenagement-international-lille/demenagement-lille-londres-post-brexit) et notre [guide formalités douanes](/blog/satellites/formalites-douanieres-demenagement-international).
+Consultez notre [guide déménagement international Lille](/blog/demenagement-international-lille/demenagement-international-lille-guide), notre [article prix international](/blog/demenagement-international-lille/prix-demenagement-international-lille-2025), notre [guide Lille-Londres Brexit](/blog/demenagement-international-lille/demenagement-lille-londres-post-brexit) et notre [guide formalités douanes](/blog/demenagement-international-lille/formalites-douanieres-demenagement-international).
 
 
 

@@ -222,7 +222,7 @@ Timing prestation : emballage 3-7 jours avant déménagement (cartons emballés 
 
 Acteurs Lille proposant : Déménagements Lefebvre "Service Emballage" (200-380€ T1-T3, équipe spécialisée, avis clients "emballage soigné 0 casse"), Bretons "Emballage Pro" (180-350€), majorité déménageurs standards incluent service optionnel (différenciation formule économique vous emballez 700€ vs standard tout inclus 1 000€ = emballage valorisé 300€). Alternative emballage seul sans déménagement : rare acteurs, cherchez "service emballage Lille" Google (artisans 150-280€).
 
-Consultez notre [guide déménageur Lille](/blog/demenageur-lille/demenageur-lille-expert), notre [guide formule économique](/blog/satellites/formule-economique-vs-standard-demenagement), notre [guide DIY](/blog/demenagement-pas-cher-lille/diy-demenagement-lille-budget-mini) et notre [article cartons gratuits](/blog/demenagement-pas-cher-lille/cartons-gratuits-lille-recuperer).
+Consultez notre [guide déménageur Lille](/blog/demenageur-lille/demenageur-lille-expert), notre [guide formule économique](/blog/demenagement-pas-cher-lille/formule-economique-vs-standard-demenagement), notre [guide DIY](/blog/demenagement-pas-cher-lille/diy-demenagement-lille-budget-mini) et notre [article cartons gratuits](/blog/demenagement-pas-cher-lille/cartons-gratuits-lille-recuperer).
 
 
 

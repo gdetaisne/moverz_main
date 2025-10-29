@@ -80,7 +80,7 @@ Organisez des réunions de retour d'expérience pour recueillir les impressions 
 
 La communication interne lors d'un déménagement d'entreprise à Bordeaux constitue donc un enjeu majeur nécessitant une approche stratégique et une attention particulière aux besoins humains. En impliquant efficacement vos équipes, en gérant le stress et les résistances, et en maintenant une communication transparente, vous pouvez assurer la réussite de votre projet et renforcer la cohésion de votre entreprise.
 
-**Besoin d'aide pour organiser la communication de votre déménagement ?** [Consultez notre guide spécialisé](/blog/demenagement-entreprise-bordeaux/demenagement-entreprise-bordeaux-guide) et bénéficiez de nos conseils d'experts pour une communication efficace.
+**Besoin d'aide pour organiser la communication de votre déménagement ?** [Consultez notre guide spécialisé](/blog/devis/guide) et bénéficiez de nos conseils d'experts pour une communication efficace.
 
 ---
 

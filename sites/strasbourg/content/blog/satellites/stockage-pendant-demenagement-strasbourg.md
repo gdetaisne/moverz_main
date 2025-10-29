@@ -125,7 +125,7 @@ Déménagement complet vs stockage : parfois trier/donner 20-30% affaires = box 
 
 **Prolonger si travaux retardés ?** Oui, notification 15j avant échéance. Tarif reconduit ou renégocié.
 
-**Assurance pendant stockage ?** Indispensable si valeur >2 000€. [Guide assurance Strasbourg](/blog/satellites/assurance-garde-meuble-strasbourg).
+**Assurance pendant stockage ?** Indispensable si valeur >2 000€. [Guide assurance Strasbourg](/blog/demenagement-strasbourg/assurance-garde-meuble-strasbourg).
 
-[Durées contractuelles détails](/blog/satellites/duree-location-garde-meuble-strasbourg) et [prix selon durée](/blog/demenagement-strasbourg/prix-garde-meuble-strasbourg-2025).
+[Durées contractuelles détails](/blog/demenagement-strasbourg/duree-location-garde-meuble-strasbourg) et [prix selon durée](/blog/demenagement-strasbourg/prix-garde-meuble-strasbourg-2025).
 

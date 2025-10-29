@@ -190,7 +190,7 @@ Statistiques Lille : déménagements partiels 15-20% flux totaux (vs 80-85% comp
 
 Solutions selon budget : <100€ = DIY Kangou/Berlingo obligatoire aide ami (60-90€), 150-250€ = coursier optimal 0 effort (120-200€), >250€ = formule éco déménageur (vous emballez pro transporte, rare petits volumes). Coordination : timing synchronisé (étudiant départ juin = parents véhicule disponible aide vs septembre seul = coursier nécessaire), double résidence installation unique (vs déménagements répétés Lille ↔ Paris = transport partiel ponctuel).
 
-Consultez notre [guide petit déménagement Lille](/blog/petit-demenagement-lille/petit-demenagement-lille-studio-t1), notre [guide déménagement étudiant](/blog/satellites/demenagement-chambre-etudiant-lille), notre [guide transport meubles](/blog/petit-demenagement-lille/transport-meubles-lille-sans-demenageur) et notre [guide location camion](/blog/location-camion-lille/location-camion-demenagement-lille-guide).
+Consultez notre [guide petit déménagement Lille](/blog/petit-demenagement-lille/petit-demenagement-lille-studio-t1), notre [guide déménagement étudiant](/blog/petit-demenagement-lille/demenagement-chambre-etudiant-lille), notre [guide transport meubles](/blog/petit-demenagement-lille/transport-meubles-lille-sans-demenageur) et notre [guide location camion](/blog/location-camion-lille/location-camion-demenagement-lille-guide).
 
 
 

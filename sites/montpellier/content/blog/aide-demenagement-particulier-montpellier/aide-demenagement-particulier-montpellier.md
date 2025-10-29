@@ -20,20 +20,20 @@ Déménager à Montpellier ou quitter la capitale de l'Hérault représente souv
 ## 📚 Notre Dossier Complet Aide Déménagement Montpellier
 
 **Aide Humaine :**
-- [Aide amis déménagement Montpellier](/blog/satellites/aide-amis-demenagement-montpellier) - Compensation, organisation, limites
-- [Louer main-d'œuvre déménagement Montpellier](/blog/satellites/louer-main-oeuvre-demenagement-montpellier) - Manutentionnaires à l'heure
-- [Plateformes entraide déménagement Montpellier](/blog/satellites/plateformes-entraide-demenagement-montpellier) - Yoojo, Frizbiz, communauté
-- [Trouver aide dernière minute déménagement Montpellier](/blog/satellites/trouver-aide-derniere-minute-demenagement-montpellier) - Urgence 24-48h
+- [Aide amis déménagement Montpellier](/blog/aide-au-demenagement-particulier-montpellier/aide-amis-demenagement-montpellier) - Compensation, organisation, limites
+- [Louer main-d'œuvre déménagement Montpellier](/blog/aide-au-demenagement-particulier-montpellier/louer-main-oeuvre-demenagement-montpellier) - Manutentionnaires à l'heure
+- [Plateformes entraide déménagement Montpellier](/blog/aide-au-demenagement-particulier-montpellier/plateformes-entraide-demenagement-montpellier) - Yoojo, Frizbiz, communauté
+- [Trouver aide dernière minute déménagement Montpellier](/blog/aide-au-demenagement-particulier-montpellier/trouver-aide-derniere-minute-demenagement-montpellier) - Urgence 24-48h
 
 **Organisation et Rémunération :**
-- [Préparer aide amis déménagement](/blog/satellites/preparer-aide-amis-demenagement) - Matériel, timing, rôles
-- [Combien donner aide déménagement](/blog/satellites/combien-donner-aide-demenagement) - 50-100€ + repas, compensation éthique
-- [Responsabilité aide non-professionnelle déménagement](/blog/satellites/responsabilite-aide-non-professionnelle-demenagement) - Assurance, accidents, casse
+- [Préparer aide amis déménagement](/blog/aide-au-demenagement-particulier-montpellier/preparer-aide-amis-demenagement) - Matériel, timing, rôles
+- [Combien donner aide déménagement](/blog/aide-au-demenagement-particulier-montpellier/combien-donner-aide-demenagement) - 50-100€ + repas, compensation éthique
+- [Responsabilité aide non-professionnelle déménagement](/blog/aide-au-demenagement-particulier-montpellier/responsabilite-aide-non-professionnelle-demenagement) - Assurance, accidents, casse
 
 **Services Spécialisés :**
-- [Aide déménagement personnes âgées Montpellier](/blog/satellites/aide-demenagement-personnes-agees-montpellier) - Accompagnement seniors, associations
-- [Étudiant aide déménagement job Montpellier](/blog/satellites/etudiant-aide-demenagement-job-montpellier) - 70 000 étudiants, petits boulots
-- [Déménagement solidaire Montpellier](/blog/satellites/demenagement-solidaire-montpellier) - Associations, ressourceries, économie sociale
+- [Aide déménagement personnes âgées Montpellier](/blog/aide-au-demenagement-particulier-montpellier/aide-demenagement-personnes-agees-montpellier) - Accompagnement seniors, associations
+- [Étudiant aide déménagement job Montpellier](/blog/aide-au-demenagement-particulier-montpellier/etudiant-aide-demenagement-job-montpellier) - 70 000 étudiants, petits boulots
+- [Déménagement solidaire Montpellier](/blog/aide-au-demenagement-particulier-montpellier/demenagement-solidaire-montpellier) - Associations, ressourceries, économie sociale
 
 ## Les aides financières nationales et locales
 

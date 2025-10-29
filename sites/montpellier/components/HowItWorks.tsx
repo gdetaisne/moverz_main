@@ -6,21 +6,21 @@ export default function HowItWorks() {
       number: "1",
       title: "Prenez vos photos",
       description: "3 à 5 par pièce, l'essentiel",
-      image: "https://images.unsplash.com/photo-1556912172-45b7abe8b7e1?w=1600&h=1200&fit=crop&q=85",
+      image: "/images/how-it-works/step-1-photos.jpg",
       alt: "Main prenant une photo d'une pièce pour estimation déménagement"
     },
     {
       number: "2", 
       title: "Notre IA calcule votre volume",
       description: "Estimation fiable en 2 minutes",
-      image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1600&h=1200&fit=crop&q=85",
+      image: "/images/how-it-works/step-2-estimation.jpg",
       alt: "Écran montrant l'estimation IA du volume en m³"
     },
     {
       number: "3",
       title: "Vous recevez vos devis précis gratuitement",
       description: "5 offres adaptées sous 7 jours",
-      image: "https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?w=1600&h=1200&fit=crop&q=85",
+      image: "/images/how-it-works/step-3-devis.jpg",
       alt: "Équipe de déménagement chargeant un carton dans un camion"
     }
   ];

@@ -69,7 +69,7 @@ Un **box de 5m²** (10m³) suffit largement avec optimisation. Si vous ne stocke
 
 **Astuce optimisation :** Démontez lit et bureau (gain 30%), utilisez cartons uniformes empilables, profitez hauteur 2,5m des boxes Homebox Neudorf.
 
-Les [68 000 étudiants strasbourgeois](/blog/satellites/garde-meuble-etudiant-strasbourg) louent majoritairement 3-5m² pour stockage été. Budget : 50-90€/mois, soit 200-360€ pour 4 mois juin-septembre.
+Les [68 000 étudiants strasbourgeois](/blog/demenagement-strasbourg/garde-meuble-etudiant-strasbourg) louent majoritairement 3-5m² pour stockage été. Budget : 50-90€/mois, soit 200-360€ pour 4 mois juin-septembre.
 
 ### T2 40-50m² → Box 10-12m²
 
@@ -276,7 +276,7 @@ Non, un box de 5m² (10m³) est **insuffisant** pour un T2 complet de 45m². Un 
 - T3 65m² → 15m²
 - Maison 90m² → 20-25m²
 
-Pour [calculer précisément](/blog/satellites/taille-box-garde-meuble-strasbourg), utilisez calculateurs Homebox/Locakase ou visitez avec inventaire détaillé.
+Pour [calculer précisément](/blog/demenagement-strasbourg/taille-box-garde-meuble-strasbourg), utilisez calculateurs Homebox/Locakase ou visitez avec inventaire détaillé.
 
 ### Calculateur Ligne Fiable ?
 
@@ -308,5 +308,5 @@ Homebox Neudorf (8 rue du Doubs) et Locakase (87 rue Plaine des Bouchers) accept
 
 ---
 
-Choisir la bonne taille de box à Strasbourg économise 20-40€/mois (200-480€/an). Utilisez calculateurs gratuits, visitez acteurs avec inventaire détaillé, optimisez emballage (démontage, cartons uniformes, vertical), et prévoyez marge 10% confort. Ces investissements temps (3-4h planification) rapportent largement. Comparez [tous les critères choix Strasbourg](/blog/garde-meuble-strasbourg/garde-meuble-strasbourg-guide-complet) (prix, accès, sécurité) pour décision éclairée.
+Choisir la bonne taille de box à Strasbourg économise 20-40€/mois (200-480€/an). Utilisez calculateurs gratuits, visitez acteurs avec inventaire détaillé, optimisez emballage (démontage, cartons uniformes, vertical), et prévoyez marge 10% confort. Ces investissements temps (3-4h planification) rapportent largement. Comparez [tous les critères choix Strasbourg](/blog/demenagement-strasbourg/garde-meuble-strasbourg) (prix, accès, sécurité) pour décision éclairée.
 

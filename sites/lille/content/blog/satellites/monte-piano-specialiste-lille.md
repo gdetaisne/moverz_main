@@ -200,7 +200,7 @@ Piano queue 400-600 kg : plateforme renforcée charge 800 kg (vs 300 kg droit st
 
 70-80% déménagements piano Lille étages utilisent monte-piano (immeubles anciens sans ascenseurs 75% bâti, escaliers étroits, poids pianos) vs 20-30% ascenseurs disponibles (récents Saint-Maurice/Lomme post-1980). Statistiques Monte-Piano Lille : 150-250 missions/an (60-70% droits, 25-30% queues 1/4-1/2, 5-10% demi-queues/concerts), hauteurs 2ème 40%, 3ème 35%, 4ème 20%, 5ème 5%. Refus : >16m hauteur (grue nécessaire), façades inaccessibles (rues piétonnes camion interdit), météo (vent >40 km/h, pluie forte).
 
-Consultez notre [guide déménagement piano Lille](/blog/demenagement-piano-lille/demenagement-piano-lille-prix), notre [guide piano droit vs queue](/blog/satellites/piano-droit-queue-transport-differences), notre [guide spécialistes](/blog/satellites/specialistes-piano-lille) et notre [guide déménageur Lille](/blog/demenageur-lille/demenageur-monte-meuble-lille-quand-necessaire).
+Consultez notre [guide déménagement piano Lille](/blog/demenagement-piano-lille/demenagement-piano-lille-prix), notre [guide piano droit vs queue](/blog/demenagement-piano-lille/piano-droit-queue-transport-differences), notre [guide spécialistes](/blog/demenagement-piano-lille/specialistes-piano-lille) et notre [guide déménageur Lille](/blog/demenageur-lille/demenageur-monte-meuble-lille-quand-necessaire).
 
 
 

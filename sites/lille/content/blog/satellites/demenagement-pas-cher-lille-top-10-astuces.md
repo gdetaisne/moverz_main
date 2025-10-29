@@ -151,7 +151,7 @@ Top 10 astuces : DIY total (-905€), formule éco (-300€), tri 30% + ventes (
 
 Aides financières Lille : CAF (RSA/APL, emploi >70 km, 1 000€), Action Logement (salariés privé, 1 000€ prêt 0%), Pôle Emploi (demandeurs emploi, 1 800€). Cartons gratuits : Auchan Lille, Carrefour Euralille, Leclerc, Décathlon, pharmacies (demandez réserves 18h-19h). Profils : étudiants 70 000 = DIY (budget absolu, temps disponible), jeunes actifs = formule éco (compromis), couples >35 = standard (temps valorisé).
 
-Consultez notre [guide déménagement pas cher Lille](/blog/demenagement-pas-cher-lille/demenagement-pas-cher-lille-guide), notre [article DIY](/blog/satellites/location-camion-vs-demenageur-lille), notre [guide formule éco](/blog/satellites/formule-economique-cle-en-main-lille) et notre [article aides](/blog/satellites/aides-financieres-demenagement-lille).
+Consultez notre [guide déménagement pas cher Lille](/blog/demenagement-pas-cher-lille/demenagement-pas-cher-lille-guide), notre [article DIY](/blog/location-camion-lille/location-camion-vs-demenageur-lille), notre [guide formule éco](/blog/demenageur-lille/formule-economique-cle-en-main-lille) et notre [article aides](/blog/demenagement-pas-cher-lille/aides-financieres-demenagement-lille).
 
 
 

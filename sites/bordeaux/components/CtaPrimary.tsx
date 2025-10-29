@@ -72,7 +72,7 @@ export default function CtaPrimary({ placement, label, className = "" }: CtaPrim
         {/* Image de fond avec overlay */}
         <div className="absolute inset-0">
           <img 
-            src="https://images.unsplash.com/photo-1600518464441-9154a4dea21b?q=80&w=2000&auto=format&fit=crop"
+            src="/images/cta/background.jpg"
             alt="Déménagement professionnel"
             className="w-full h-full object-cover"
           />

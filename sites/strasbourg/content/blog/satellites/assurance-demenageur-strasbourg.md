@@ -152,5 +152,5 @@ Contraintes Strasbourg (50-60% patrimoine ancien) = risques supérieurs moyenne 
 
 **Casse due emballage client ?** Non couvert si formule éco (vous emballez mal). Couvert si formule clé en main (déménageur responsable emballage).
 
-[Formules déménagement Strasbourg](/blog/satellites/formule-economique-cle-en-main-strasbourg) compare responsabilités éco vs clé en main.
+[Formules déménagement Strasbourg](/blog/demenagement-strasbourg/formule-economique-cle-en-main-strasbourg) compare responsabilités éco vs clé en main.
 

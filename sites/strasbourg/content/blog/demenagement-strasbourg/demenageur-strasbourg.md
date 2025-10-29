@@ -17,16 +17,16 @@ featured: true
 Pour tout savoir sur les déménageurs professionnels à Strasbourg :
 
 ### Choisir son Déménageur
-- [Choisir son déménageur à Strasbourg](/blog/satellites/choisir-demenageur-strasbourg) : Critères de sélection
+- [Choisir son déménageur à Strasbourg](/blog/demenagement-strasbourg/choisir-demenageur-strasbourg) : Critères de sélection
 - [Prix déménageur Strasbourg 2025](/blog/demenagement-strasbourg/prix-demenageur-strasbourg-2025) : Tarifs actualisés
-- [Assurance déménageur](/blog/satellites/assurance-demenageur-strasbourg) : Protection obligatoire
+- [Assurance déménageur](/blog/demenagement-strasbourg/assurance-demenageur-strasbourg) : Protection obligatoire
 
 ### Services Spécialisés  
-- [Monte-meuble déménagement](/blog/satellites/demenageur-monte-meuble-strasbourg) : Étages sans ascenseur
-- [Déménageur Grande Île](/blog/satellites/demenageur-grande-ile-strasbourg) : Centre historique
+- [Monte-meuble déménagement](/blog/demenagement-strasbourg/demenageur-monte-meuble-strasbourg) : Étages sans ascenseur
+- [Déménageur Grande Île](/blog/demenagement-strasbourg/demenageur-grande-ile-strasbourg) : Centre historique
 
 ### Questions Pratiques
-- [FAQ déménageur](/blog/satellites/faq-demenageur-strasbourg) : Réponses aux questions courantes
+- [FAQ déménageur](/blog/demenagement-strasbourg/faq-demenageur-strasbourg) : Réponses aux questions courantes
 
 ## 🔗 Guides Complémentaires
 

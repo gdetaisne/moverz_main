@@ -198,7 +198,7 @@ Critères sélection spécialiste : **expérience vérifiable** (≥100 pianos/a
 
 Statistiques Monte-Piano Lille : 60-70% droits (Yamaha U1/U3 Kawai K-300 particuliers 8-15k€), 25-30% queues 1/4-1/2 (pianistes pros, écoles, 15-40k€), 5-10% queues 3/4 + demi-queues + concerts (salles Conservatoire, valeur 40-150k€). Hauteurs : 2ème 40% missions, 3ème 35%, 4ème 20%, 5ème 5%. Refus : >16m hauteur (grue nécessaire 800-1 500€ hors compétence), façades totalement inaccessibles (rues piétonnes camion interdit Vieux-Lille cœur, pas autorisation mairie), météo extrême (vent >40 km/h, pluie forte endommagerait piano extérieur 2 min élévation).
 
-Consultez notre [guide déménagement piano Lille](/blog/demenagement-piano-lille/demenagement-piano-lille-prix), notre [guide monte-piano](/blog/satellites/monte-piano-specialiste-lille), notre [guide droit vs queue](/blog/satellites/piano-droit-queue-transport-differences) et notre [guide assurance](/blog/satellites/assurance-piano-demenagement-lille).
+Consultez notre [guide déménagement piano Lille](/blog/demenagement-piano-lille/demenagement-piano-lille-prix), notre [guide monte-piano](/blog/demenagement-piano-lille/monte-piano-specialiste-lille), notre [guide droit vs queue](/blog/demenagement-piano-lille/piano-droit-queue-transport-differences) et notre [guide assurance](/blog/demenagement-piano-lille/assurance-piano-demenagement-lille).
 
 
 

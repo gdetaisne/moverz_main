@@ -205,7 +205,7 @@ Ne vous arrêtez pas au premier acteur. Demandez devis détaillés à Homebox, U
 Filtrez avis < 6 mois pour pertinence actuelle. Note globale importante mais lisez aussi avis négatifs : problèmes récurrents ou cas isolés ? À Rouen, acteurs sérieux répondent aux avis négatifs et proposent solutions.
 
 **6. Estimez correctement la taille nécessaire**
-Utilisez les estimateurs en ligne ou demandez conseil. Surdimensionner coûte inutilement cher (60€/mois différence 5m² vs 10m²). Sous-dimensionner oblige louer second box. Les acteurs rouennais proposent souvent visites virtuelles 3D pour aider. Pour une vue d'ensemble complète, consultez notre [guide du garde-meuble à Rouen](/blog/garde-meuble/garde-meuble-rouen-guide-complet). Si doute sur la taille, consultez [notre guide taille box Rouen](/blog/satellites/taille-box-stockage-rouen).
+Utilisez les estimateurs en ligne ou demandez conseil. Surdimensionner coûte inutilement cher (60€/mois différence 5m² vs 10m²). Sous-dimensionner oblige louer second box. Les acteurs rouennais proposent souvent visites virtuelles 3D pour aider. Pour une vue d'ensemble complète, consultez notre [guide du garde-meuble à Rouen](/blog/garde-meuble/garde-meuble-rouen-guide-complet). Si doute sur la taille, consultez [notre guide taille box Rouen](/blog/garde-meuble/taille-box-stockage-rouen).
 
 **7. Vérifiez climatisation si stockage long**
 Rouen climat océanique (humidité élevée). Pour stockage > 6 mois de documents, électronique, œuvres art, privilégiez box climatisés (Homebox, Shurgard) évitant moisissures et dégradations.

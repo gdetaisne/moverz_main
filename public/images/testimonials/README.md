@@ -1,73 +1,35 @@
-# 💬 Testimonials Avatars
+# 👥 Avatars Témoignages
 
-## Images Requises (3 avatars)
+## Images (3 avatars)
 
-### `avatar-1.jpg` - Marie L.
-- **Format**: 1:1 (carré)
-- **Dimensions**: 256x256px
-- **Poids max**: 30KB
-- **Style**: Silhouette propre ou avatar stylisé
-- **Alt**: `"Photo de Marie L."`
+### avatar-1.jpg (13 KB)
+- **Personne**: Marie L.
+- **Source**: Unsplash (photo-1494790108377-be9c29b29330)
+- **Dimensions**: 256×256 px
+- **Utilisation**: Témoignage homepage
 
-### `avatar-2.jpg` - Thomas B.
-- **Format**: 1:1 (carré)
-- **Dimensions**: 256x256px
-- **Poids max**: 30KB
-- **Style**: Silhouette propre ou avatar stylisé
-- **Alt**: `"Photo de Thomas B."`
+### avatar-2.jpg (13 KB)
+- **Personne**: Thomas B.
+- **Source**: Unsplash (photo-1507003211169-0a1dd7228f2d)
+- **Dimensions**: 256×256 px
+- **Utilisation**: Témoignage homepage
 
-### `avatar-3.jpg` - Sophie M.
-- **Format**: 1:1 (carré)
-- **Dimensions**: 256x256px
-- **Poids max**: 30KB
-- **Style**: Silhouette propre ou avatar stylisé
-- **Alt**: `"Photo de Sophie M."`
+### avatar-3.jpg (13 KB)
+- **Personne**: Sophie M.
+- **Source**: Unsplash (photo-1438761681033-6461ffad8d80)
+- **Dimensions**: 256×256 px
+- **Utilisation**: Témoignage homepage
 
-## Utilisé Dans
-- `components/Testimonials.tsx` (homepage section)
-- **Taille affichage**: 48x48px (Next/Image scale automatique)
+## Déploiement
+- ✅ Site principal: `/public/images/testimonials/`
+- ✅ 11 sites satellites
+- ✅ Composant: `components/Testimonials.tsx`
 
-## Options de Création
+## Performances
+- **Avant**: 768 KB (Unsplash externe)
+- **Après**: 52 KB (local optimisé)
+- **Gain**: -93% de poids, -700ms latence
 
-### Option 1: Silhouettes Stylisées
-- Cercle avec initiales (ML, TB, SM)
-- Fond dégradé (#2b7a78 → #6bcfcf)
-- Typographie claire
-
-### Option 2: Avatars Générés
-- **[UI Faces](https://uifaces.co/)** - Avatars génériques
-- **[Generated Photos](https://generated.photos/)** - IA générée
-- **[Avatar Generator](https://getavataaars.com/)** - Illustrations
-
-### Option 3: Photos Stock
-- Unsplash: `"professional portrait"`
-- Pexels: `"person smiling portrait"`
-- Éviter looks trop "corporate"
-
-## Style Guidelines
-- Cercle (border-radius: 50%)
-- Fond neutre ou dégradé brand
-- Expression neutre/positive
-- Pas de logos/marques visibles
-- Cohérence visuelle entre les 3
-
-## Quick Solution (Canva)
-1. Créer design 256x256px
-2. Cercle avec fond gradient
-3. Initiales centrées (police bold)
-4. Export PNG/JPG optimisé
-
-## Exemple CSS (si besoin fallback)
-```css
-.avatar-placeholder {
-  width: 48px;
-  height: 48px;
-  background: linear-gradient(135deg, #2b7a78, #6bcfcf);
-  color: white;
-  font-weight: bold;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-```
-
+## Migration
+- **Date**: 29/10/2024
+- **Phase**: 1 (Priorité Haute)

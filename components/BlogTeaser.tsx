@@ -5,19 +5,19 @@ export default function BlogTeaser() {
     {
       title: "Guide déménagement Toulouse 2024",
       excerpt: "Tout savoir pour déménager sereinement dans la métropole.",
-      cover: "https://images.unsplash.com/photo-1559564484-e48d68ea2c8f?w=1600&h=900&fit=crop&q=80",
+      cover: "/images/blog-covers/cover-1.jpg",
       href: "/blog/"
     },
     {
       title: "Quartiers de Toulouse : guide pratique",
       excerpt: "Chartrons, Saint-Pierre, Caudéran... découvrez les spécificités.",
-      cover: "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=1600&h=900&fit=crop&q=80",
+      cover: "/images/blog-covers/cover-2.jpg",
       href: "/blog/"
     },
     {
       title: "Estimation volume : méthodes et astuces",
       excerpt: "Comment bien évaluer ses affaires avant un déménagement.",
-      cover: "https://images.unsplash.com/photo-1600518464441-9154a4dea21b?w=1600&h=900&fit=crop&q=80",
+      cover: "/images/blog-covers/cover-3.jpg",
       href: "/blog/"
     }
   ];
