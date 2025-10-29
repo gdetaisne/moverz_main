@@ -20,8 +20,8 @@ export default function HowItWorks() {
       number: "3",
       title: "Vous recevez vos devis précis gratuitement",
       description: "5 offres adaptées sous 7 jours",
-      image: "/images/how-it-works/step-3-devis.jpg",
-      alt: "Équipe de déménagement chargeant un carton dans un camion"
+      image: "/images/how-it-works/step-3-loading.jpg",
+      alt: "Équipe de déménagement chargeant des cartons dans un camion"
     }
   ];
 

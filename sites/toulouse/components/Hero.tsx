@@ -64,8 +64,7 @@ export default function Hero() {
               </div>
             </div>
           </div>
-          {/* Panneau d'animation IA */}
-          <div className="relative order-first lg:order-last mx-auto w-full max-w-[560px] lg:mx-0">
+          <div className="relative mx-auto w-full max-w-[560px] lg:mx-0">
             <div className="absolute -inset-6 hidden rounded-3xl bg-black/20 blur-3xl lg:block" />
             <div className="relative rounded-2xl border border-white/20 bg-white/10 p-4 shadow-2xl backdrop-blur-md md:p-6">
               <div className="flex items-center justify-between text-sm text-white/70">
@@ -74,6 +73,7 @@ export default function Hero() {
                   <span className="h-2 w-2 rounded-full bg-yellow-400/80" />
                   <span className="h-2 w-2 rounded-full bg-green-400/80" />
                 </div>
+                {/* right-side header content intentionally left empty */}
               </div>
               <div className="mt-4 space-y-4">
                 <div className="rounded-xl border border-white/15 bg-white/5 p-4 md:p-5">
@@ -120,7 +120,7 @@ export default function Hero() {
                 </div>
               </div>
             </div>
-            <div className="absolute -top-5 -right-3 flex items-center gap-2 rounded-full bg-[#6bcfcf] px-5 py-2.5 text-sm font-semibold text-[#04163a] shadow-xl ring-1 ring-white/30">
+            <div className="absolute -top-5 -right-3 flex items-center gap-2 rounded-full bg-[#6bcfcf] px-5 py-2.5 text-sm font-semibold text-[#04163a] shadow-xl ring-1 ring-white/30 animate-badge-pop transition-transform duration-300 hover:-translate-y-0.5 hover:shadow-[0_12px_30px_rgba(107,207,207,0.45)] hover:ring-white/50">
               <Image src="/logo.png" alt="Logo Moverz" width={16} height={16} className="rounded-[3px] brightness-0 invert" />
               <span>Propulsé par Moverz IA</span>
             </div>

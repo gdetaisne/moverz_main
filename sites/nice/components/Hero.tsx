@@ -12,11 +12,12 @@ export default function Hero() {
     let t4: ReturnType<typeof setTimeout> | undefined;
     const run = () => {
       setStage(1);
-      t1 = setTimeout(() => setStage(2), 900);
-      t2 = setTimeout(() => setStage(3), 1800);
+      // Faster, smoother sequence: Photos (quick complete) -> IA -> Devis
+      t1 = setTimeout(() => setStage(2), 600);
+      t2 = setTimeout(() => setStage(3), 1300);
       // small pause after stage 3, then loop
-      t3 = setTimeout(() => setStage(0), 2500);
-      t4 = setTimeout(run, 2800);
+      t3 = setTimeout(() => setStage(0), 2000);
+      t4 = setTimeout(run, 2300);
     };
     run();
     return () => {
@@ -80,9 +81,12 @@ export default function Hero() {
                     <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-white/10">📷</div>
                     <div className="flex-1">
                       <div className="text-white font-medium">Photos uploadées</div>
-                      <div className="text-xs text-white/70">12 images analysées</div>
+                      <div className="text-xs text-white/70">48 photos analysées</div>
                       <div className="mt-3 h-2 w-full overflow-hidden rounded-full bg-white/10">
-                        <div className={`h-2 rounded-full bg-[#6bcfcf] transition-all duration-300`} style={{ width: stage >= 1 ? "66%" : "8%" }} />
+                        <div
+                          className={`h-2 rounded-full transition-all duration-500 ${stage >= 3 ? "bg-emerald-400" : "bg-[#6bcfcf]"}`}
+                          style={{ width: stage === 0 ? "8%" : stage === 1 ? "60%" : stage === 2 ? "90%" : "100%" }}
+                        />
                       </div>
                     </div>
                   </div>
@@ -92,12 +96,13 @@ export default function Hero() {
                     <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-white/10">🤖</div>
                     <div className="flex-1">
                       <div className="text-white font-medium">Analyse IA</div>
-                      <div className="text-xs text-white/70">Volume estimé: 28 m³</div>
+                      <div className="text-xs text-white/70">Volume total: 28 m³</div>
+                      <div className="text-xs text-white/70">Démonté et emballé: 23 m²</div>
                       <div className="mt-3 flex items-center gap-2">
                         {[0,1,2,3].map((d) => (
                           <span
                             key={d}
-                            className={`h-2 w-2 rounded-full ${stage === 2 && d === 0 ? "bg-[#6bcfcf] animate-pulse" : stage >= 3 ? "bg-[#6bcfcf]" : "bg-white/30"}`}
+                            className={`h-2 w-2 rounded-full ${stage >= 3 ? "bg-emerald-400" : stage === 2 && d === 0 ? "bg-[#6bcfcf] animate-pulse" : "bg-white/30"}`}
                           />
                         ))}
                       </div>
@@ -106,7 +111,7 @@ export default function Hero() {
                 </div>
                 <div className="rounded-xl border border-white/15 bg-white/5 p-4 md:p-5">
                   <div className="flex items-start gap-3">
-                    <div className={`flex h-9 w-9 items-center justify-center rounded-lg ${stage === 3 ? "bg-[#6bcfcf] text-[#04163a]" : "bg-white/10 text-white/70"}`}>{stage === 3 ? "✓" : "…"}</div>
+                    <div className={`flex h-9 w-9 items-center justify-center rounded-lg ${stage === 3 ? "bg-emerald-400 text-[#04163a]" : "bg-white/10 text-white/70"}`}>{stage === 3 ? "✓" : "…"}</div>
                     <div>
                       <div className="text-white font-medium">5 devis générés</div>
                       <div className={`text-xs ${stage === 3 ? "text-white/90" : "text-white/70"}`}>Prêts sous 7 jours</div>

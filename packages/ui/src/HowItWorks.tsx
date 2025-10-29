@@ -6,22 +6,22 @@ export default function HowItWorks() {
       number: "1",
       title: "Prenez vos photos",
       description: "3 à 5 par pièce, l'essentiel",
-      image: "https://images.unsplash.com/photo-1556912172-45b7abe8b7e1?w=1600&h=1200&fit=crop&q=85",
-      alt: "Main prenant une photo d'une pièce pour estimation déménagement"
+      image: "/images/how-it-works/step-1-photos.jpg",
+      alt: "Main prenant une photo d'une pièce pour estimer le volume à déménager"
     },
     {
       number: "2", 
       title: "Notre IA calcule votre volume",
       description: "Estimation fiable en 2 minutes",
-      image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1600&h=1200&fit=crop&q=85",
-      alt: "Écran montrant l'estimation IA du volume en m³"
+      image: "/images/how-it-works/step-2-estimation.jpg",
+      alt: "Écran affichant l'estimation en m³ calculée par l'IA"
     },
     {
       number: "3",
       title: "Vous recevez vos devis précis gratuitement",
       description: "5 offres adaptées sous 7 jours",
-      image: "https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?w=1600&h=1200&fit=crop&q=85",
-      alt: "Équipe de déménagement chargeant un carton dans un camion"
+      image: "/images/how-it-works/step-3-loading.jpg",
+      alt: "Équipe de déménagement chargeant des cartons dans un camion"
     }
   ];
 
@@ -32,23 +32,29 @@ export default function HowItWorks() {
       </h2>
       <div className="grid md:grid-cols-3 gap-6 md:gap-8">
         {steps.map((step, i) => (
-          <div key={i} className="text-center">
-            <div className="relative w-full aspect-[4/3] rounded-xl overflow-hidden mb-4 bg-white/10 ring-1 ring-white/10">
+          <div key={i} className="group">
+            <div className="relative w-full aspect-[4/3] rounded-2xl overflow-hidden bg-white/10 ring-1 ring-white/10 shadow-lg transition-transform duration-300 group-hover:-translate-y-0.5">
               <Image 
                 src={step.image}
                 alt={step.alt}
                 fill
                 sizes="(min-width: 768px) 33vw, 100vw"
-                className="object-cover"
-                quality={85}
+                className="object-cover transition-transform duration-500 group-hover:scale-[1.03]"
+                quality={80}
+                priority={i === 0}
               />
-              <div className="absolute inset-0 bg-gradient-to-t from-[#04163a]/40 to-transparent"></div>
-              <div className="absolute top-3 left-3 flex h-9 w-9 items-center justify-center rounded-full bg-[#6bcfcf] text-[#04163a] text-sm font-bold ring-1 ring-white/40">
+              <div className="absolute inset-0 bg-gradient-to-t from-[#04163a]/60 via-[#04163a]/20 to-transparent"></div>
+              <div
+                className="absolute top-3 left-3 flex h-10 w-10 md:h-12 md:w-12 items-center justify-center rounded-full bg-[#6bcfcf] text-[#04163a] text-base md:text-lg font-bold ring-2 ring-white/60 shadow-[0_4px_14px_rgba(0,0,0,0.25)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-offset-[#04163a] focus-visible:ring-[#6bcfcf]"
+                aria-hidden="true"
+              >
                 {step.number}
               </div>
+              <div className="absolute inset-x-3 bottom-3 text-left">
+                <h3 className="text-white font-semibold text-base md:text-lg">{step.title}</h3>
+                <p className="text-white/85 text-xs md:text-sm">{step.description}</p>
+              </div>
             </div>
-            <h3 className="text-lg md:text-xl font-semibold text-white mb-2">{step.title}</h3>
-            <p className="text-white/80 text-sm md:text-base">{step.description}</p>
           </div>
         ))}
       </div>
