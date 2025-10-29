@@ -331,6 +331,62 @@ const nextConfig = {
         destination: '/blog/satellites/assurance-demenageur-strasbourg',
         permanent: true,
       },
+
+      // ========================================
+      // 6. CATÉGORIES BLOG → VRAIES PAGES
+      // ========================================
+      // Rediriger les catégories vers la page blog principale
+      // car les dossiers de catégories n'existent pas
+      {
+        source: '/blog/etudiant',
+        destination: '/blog',
+        permanent: false, // Temporaire, le temps de créer les vraies pages catégories
+      },
+      {
+        source: '/blog/entreprise',
+        destination: '/blog/demenagement-strasbourg/demenagement-d-entreprise-strasbourg',
+        permanent: true,
+      },
+      {
+        source: '/blog/prix',
+        destination: '/blog/demenagement-strasbourg/prix-demenagement-strasbourg',
+        permanent: true,
+      },
+      {
+        source: '/blog/devis',
+        destination: '/blog',
+        permanent: false,
+      },
+      {
+        source: '/blog/pas-cher',
+        destination: '/blog/demenagement-strasbourg/demenagement-strasbourg-pas-cher',
+        permanent: true,
+      },
+      {
+        source: '/blog/urgent',
+        destination: '/blog',
+        permanent: false,
+      },
+      {
+        source: '/blog/longue-distance',
+        destination: '/blog',
+        permanent: false,
+      },
+      {
+        source: '/blog/garde-meuble',
+        destination: '/blog/garde-meuble-strasbourg/garde-meuble-strasbourg-guide-complet',
+        permanent: true,
+      },
+      {
+        source: '/blog/international',
+        destination: '/blog/demenagement-strasbourg/demenagement-international-strasbourg',
+        permanent: true,
+      },
+      {
+        source: '/blog/piano',
+        destination: '/blog/demenagement-strasbourg/demenagement-piano-strasbourg',
+        permanent: true,
+      },
     ];
   },
 };
