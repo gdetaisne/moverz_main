@@ -50,7 +50,33 @@ export async function generateMetadata({ params }: CategoryPageProps): Promise<M
 }
 
 export default function CategoryPage({ params }: CategoryPageProps) {
-  const posts = getBlogPostsByCleanCategory(params.category);
+  // Mapping des catégories vers les slugs réels des articles
+  const categoryMapping: { [key: string]: string[] } = {
+    'piano': ['demenagement-piano-strasbourg'],
+    'garde-meuble': ['garde-meuble-strasbourg-guide-complet'],
+    'international': ['demenagement-international-strasbourg'],
+    'entreprise': ['demenagement-d-entreprise-strasbourg'],
+    'prix': ['prix-demenagement-strasbourg'],
+    'pas-cher': ['demenagement-strasbourg-pas-cher'],
+    'urgent': [],
+    'etudiant': [],
+    'devis': [],
+    'longue-distance': [],
+  };
+
+  // Récupérer tous les posts et filtrer selon le mapping
+  const allPosts = getAllBlogPosts();
+  const categoryFilter = categoryMapping[params.category];
+  
+  let posts: any[] = [];
+  
+  if (categoryFilter && categoryFilter.length > 0) {
+    // Filtrer par slugs mappés
+    posts = allPosts.filter(post => categoryFilter.includes(post.cleanSlug));
+  } else {
+    // Fallback : chercher par cleanCategory (comportement original)
+    posts = getBlogPostsByCleanCategory(params.category);
+  }
   
   if (!posts || posts.length === 0) {
     notFound();
