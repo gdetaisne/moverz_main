@@ -50,8 +50,23 @@ export async function generateMetadata({ params }: CategoryPageProps): Promise<M
 }
 
 export default function CategoryPage({ params }: CategoryPageProps) {
-  const posts = getBlogPostsByCleanCategory(params.category);
-  
+  const categoryMapping: { [key: string]: string[] } = {
+    'piano': ['demenagement-piano-montpellier'],
+    'garde-meuble': ['garde-meuble-montpellier-guide-complet'],
+    'international': ['demenagement-international-montpellier'],
+    'entreprise': ['demenagement-d-entreprise-montpellier'],
+    'prix': ['prix-demenagement-montpellier'],
+    'pas-cher': ['demenagement-montpellier-pas-cher'],
+    'urgent': [], 'etudiant': [], 'devis': [], 'longue-distance': [],
+  };
+  const allPosts = getAllBlogPosts();
+  const categoryFilter = categoryMapping[params.category];
+  let posts: any[] = [];
+  if (categoryFilter && categoryFilter.length > 0) {
+    posts = allPosts.filter(post => categoryFilter.includes(post.cleanSlug));
+  } else {
+    posts = getBlogPostsByCleanCategory(params.category);
+  }
   if (!posts || posts.length === 0) {
     notFound();
   }

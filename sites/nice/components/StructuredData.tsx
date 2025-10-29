@@ -18,7 +18,6 @@ export default function StructuredData() {
         "provider": {
           "@type": "Organization",
           "name": `Devis Déménageur ${city.nameCapitalized}`,
-          "telephone": "+33633046059",
           "url": city.siteUrl
         },
         "areaServed": {
