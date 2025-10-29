@@ -4,7 +4,7 @@ import NeighborhoodsIndex from "@/components/NeighborhoodsIndex";
 export const metadata = {
   title: "Quartiers & communes — Déménagement à Strasbourg | IA & transparence",
   description:
-    "Trouvez votre page quartier/commune pour estimer votre déménagement à Strasbourg : Grande Île, Neudorf, Cronenbourg, Hautepierre, Esplanade… Mérignac, Pessac, Talence, Bègles, Villenave-d’Ornon.",
+    "Trouvez votre page quartier/commune pour estimer votre déménagement à Strasbourg : Grande Île, Neudorf, Cronenbourg, Hautepierre, Esplanade… Illkirch-Graffenstaden, Schiltigheim, Bischheim, Hoenheim, Ostwald.",
 };
 
 function JsonLd() {

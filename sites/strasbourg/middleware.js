@@ -1,7 +1,27 @@
 import { NextResponse } from 'next/server';
 
 export function middleware(request) {
-  // Appliquer les headers Helmet
+  const url = request.nextUrl;
+  
+  // ========================================
+  // GESTION DES TRAILING SLASHES
+  // ========================================
+  // Rediriger /page/ vers /page SEULEMENT pour certaines pages statiques
+  // Ne PAS toucher aux pages dynamiques comme /strasbourg/* qui ont des sous-routes
+  const staticPages = ['/mentions-legales', '/cgv', '/politique-confidentialite', '/cgu'];
+  
+  if (url.pathname !== '/' && url.pathname.endsWith('/')) {
+    const pathWithoutSlash = url.pathname.slice(0, -1);
+    
+    // Seulement rediriger si c'est une page statique connue
+    if (staticPages.includes(pathWithoutSlash)) {
+      return NextResponse.redirect(new URL(pathWithoutSlash + url.search, request.url), 301);
+    }
+  }
+  
+  // ========================================
+  // HEADERS DE SÉCURITÉ
+  // ========================================
   const response = NextResponse.next();
   
   // Headers CSP identiques à moverz-fr
