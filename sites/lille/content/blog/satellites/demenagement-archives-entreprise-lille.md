@@ -472,7 +472,7 @@ Déménager des archives d'entreprise à Lille exige **rigueur juridique** : tri
 ---
 
 **Liens utiles** :
-- [Déménagement Entreprise Lille : Guide Complet](/blog/demenagement-entreprise-lille)
+- [Déménagement Entreprise Lille : Guide Complet](/blog/piliers/demenagement-entreprise-lille)
 - [RGPD Déménagement : Obligations](/blog/rgpd-demenagement-entreprise-lille)
 - [Destruction Documents Certifiée](/blog/destruction-archives-entreprise-lille)
 - [Garde-Meuble Professionnel Lille](/blog/garde-meuble-entreprise-lille)

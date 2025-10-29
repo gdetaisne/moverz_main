@@ -20,7 +20,7 @@ Bureaux Strasbourg : **2 000-8 000€** selon surface (50m² = 2 500€, 200m² 
 
 Archives professionnelles (avocats, comptables, médecins Strasbourg) : Obligations conservation 5-10 ans, volumes 10-50m³. Déménagement + conditionnement sécurisé = 800-3 000€.
 
-**Alternative :** [Garde-meuble professionnel](/blog/garde-meuble-strasbourg) climatisé Strasbourg (Stock Avenue 20-30m² = 200-400€/mois). Destruction archives RGPD : Prestataires Strasbourg 50-200€/m³.
+**Alternative :** [Garde-meuble professionnel](/blog/piliers/garde-meuble-strasbourg) climatisé Strasbourg (Stock Avenue 20-30m² = 200-400€/mois). Destruction archives RGPD : Prestataires Strasbourg 50-200€/m³.
 
 ---
 
