@@ -63,7 +63,10 @@ const nextConfig = {
       // PILIERS : Catégories sans -rouen → avec -rouen
       { source: '/blog/aide-demenagement/aide-demenagement-guide-complet', destination: '/blog/aide-demenagement-rouen/aide-demenagement-rouen-guide-complet', permanent: true },
       { source: '/blog/demenagement-international/demenagement-international-guide-complet', destination: '/blog/demenagement-international-rouen/demenagement-international-rouen-guide-complet', permanent: true },
-      { source: '/blog/demenageur-pas-cher/demenageur-pas-cher-guide', destination: '/blog/demenageur-pas-cher-rouen/demenageur-pas-cher-rouen-guide', permanent: true },
+      { source: '/blog/demenageur-pas-cher/demenageur-pas-cher-guide', destination: '/blog/demenageur-rouen-pas-cher/demenageur-rouen-pas-cher-guide', permanent: true },
+      
+      // ORDRE INCORRECT : demenageur-pas-cher-rouen → demenageur-rouen-pas-cher
+      { source: '/blog/demenageur-pas-cher-rouen/:path*', destination: '/blog/demenageur-rouen-pas-cher/:path*', permanent: true },
       { source: '/blog/demenagement-entreprise/demenagement-entreprise-guide-complet', destination: '/blog/demenagement-entreprise-rouen/demenagement-entreprise-rouen-guide-complet', permanent: true },
       { source: '/blog/prix-demenagement/prix-demenagement-guide-complet', destination: '/blog/prix-demenagement-rouen/prix-demenagement-rouen-guide-complet', permanent: true },
       { source: '/blog/petit-demenagement/petit-demenagement-guide-complet', destination: '/blog/petit-demenagement-rouen/petit-demenagement-rouen-guide-complet', permanent: true },
