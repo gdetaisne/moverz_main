@@ -260,7 +260,7 @@ Facteurs variation : **Vieux-Lille +100-150€** (accès difficiles, monte-meubl
 
 Économiser : formule économique (emballez vous-même = 450-550€), basse saison (novembre-mars, économie 50-100€), partage camion entre 2 étudiants même trajet (250-300€/étudiant), négociation (sollicitez 3 devis, demandez alignement = économie 30-80€). Studios étudiants Moulins/Vauban : privilégiez formule économique (budget étudiant optimisé) sauf si temps limité (examens, stage urgent).
 
-Consultez notre [guide prix déménagement Lille](/blog/prix-demenagement-lille/prix-demenagement-lille-guide), notre [comparatif formules](/blog/satellites/formule-economique-cle-en-main-lille) et notre [guide déménageurs](/blog/demenageur-lille/demenageur-lille-expert) pour optimiser.
+Consultez notre [guide prix déménagement Lille](/blog/prix-demenagement-lille/prix-demenagement-lille-guide), notre [comparatif formules](/blog/demenageur-lille/formule-economique-cle-en-main-lille) et notre [guide déménageurs](/blog/demenageur-lille/demenageur-lille-expert) pour optimiser.
 
 
 

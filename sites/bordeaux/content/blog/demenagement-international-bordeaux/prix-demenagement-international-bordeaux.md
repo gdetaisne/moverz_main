@@ -16,7 +16,7 @@ featured: false
 
 # Déménagement international depuis Bordeaux : combien ça coûte en 2025 ?
 
-Organiser un [déménagement international](/blog/demenagement-entreprise-bordeaux/demenagement-entreprise-bordeaux-guide) depuis Bordeaux nécessite une planification budgétaire minutieuse. Les coûts varient considérablement selon la destination, le volume transporté et le mode de transport choisi. Avec Bordeaux comme point de départ, les tarifs s'établissent selon des critères spécifiques liés à la position géographique de la métropole girondine et aux contraintes logistiques locales. Voici un guide complet des prix pour bien anticiper votre budget déménagement international.
+Organiser un [déménagement international](/blog/international/guide) depuis Bordeaux nécessite une planification budgétaire minutieuse. Les coûts varient considérablement selon la destination, le volume transporté et le mode de transport choisi. Avec Bordeaux comme point de départ, les tarifs s'établissent selon des critères spécifiques liés à la position géographique de la métropole girondine et aux contraintes logistiques locales. Voici un guide complet des prix pour bien anticiper votre budget déménagement international.
 
 ## Les facteurs déterminants du coût
 

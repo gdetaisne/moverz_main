@@ -19,7 +19,7 @@ author: "Équipe Moverz Lyon"
 
 Cette FAQ compile les 18 questions les plus fréquentes sur le déménagement international depuis Lyon, avec réponses détaillées basées sur le marché 2025 et données vérifiées. Elle couvre destinations prioritaires Lyon (Suisse Genève 150 km, Italie Turin 300 km, Allemagne Stuttgart 450 km), modes transport (routier Europe 2-7j, container maritime intercontinental 20-65j), prix (Europe 2000-6500€ T2, USA container 6000-15000€), formalités douanières (UE simplifiées libre circulation, Suisse strictes permis B + inventaire bilingue, USA/Canada complexes inventaire + visas), certifications déménageurs (FIDI référence, ISO 9001), documents obligatoires (passeport, inventaire, permis, attestations), délais réels, et conseils pratiques Lyon (consulats, aéroport Saint-Exupéry, ports Marseille/Le Havre).
 
-Les réponses intègrent spécificités lyonnaises : proximité Suisse/Italie (150-300 km, routier optimal 2-4j), aéroport international Lyon-Saint-Exupéry (12M passagers, vols USA/Asie/Afrique quotidiens), ports maritimes accessibles via Marseille-Fos (315 km Maghreb/Méditerranée) ou Le Havre (650 km Amériques/Asie), présence consulats Lyon (Suisse 102 Rue Duguesclin, Italie 12 Rue Sèze, USA 1 Quai Courmont) facilitant obtention documents, et déménageurs internationaux certifiés implantés Lyon (AGS Part-Dieu FIDI, Allied, Crown Gerland). Pour approfondir un sujet, liens internes renvoient guides détaillés [prix](/blog/satellites/prix-demenagement-international-lyon), [formalités](/blog/satellites/formalites-douanieres-international-lyon), [destinations](/blog/demenagement-international-lyon/demenagement-lyon-suisse).
+Les réponses intègrent spécificités lyonnaises : proximité Suisse/Italie (150-300 km, routier optimal 2-4j), aéroport international Lyon-Saint-Exupéry (12M passagers, vols USA/Asie/Afrique quotidiens), ports maritimes accessibles via Marseille-Fos (315 km Maghreb/Méditerranée) ou Le Havre (650 km Amériques/Asie), présence consulats Lyon (Suisse 102 Rue Duguesclin, Italie 12 Rue Sèze, USA 1 Quai Courmont) facilitant obtention documents, et déménageurs internationaux certifiés implantés Lyon (AGS Part-Dieu FIDI, Allied, Crown Gerland). Pour approfondir un sujet, liens internes renvoient guides détaillés [prix](/blog/demenagement-international-lyon/prix-demenagement-international-lyon), [formalités](/blog/demenagement-international-lyon/formalites-douanieres-international-lyon), [destinations](/blog/demenagement-international-lyon/demenagement-lyon-suisse).
 
 ## Prix et Tarifs
 
@@ -39,13 +39,13 @@ Lyon-Turin (300 km) T2 : **2000-3500€** routier. Lyon-Milan (400 km) : 2500-40
 
 Container 20' (33m³, T2-T3) Lyon-USA : groupage LCL partagé **6000-10000€**, exclusif FCL **8000-12000€**. Container 40' (67m³, maison) : **12000-20000€** exclusif. Inclus : pré-acheminement Lyon-Le Havre 650 km, transit maritime 18-25j, dédouanement USA, livraison domicile. Destinations : New York, Floride, Californie prix similaires (variation 500-1000€). Groupage économise 30-40% vs exclusif (attente constitution +5-10j). Services : emballage +1000-2000€, assurance renforcée +1-2% valeur.
 
-[Détails container →](/blog/satellites/transport-maritime-container-lyon)
+[Détails container →](/blog/demenagement-international-lyon/transport-maritime-container-lyon)
 
 ### 4. Prix déménagement Lyon-Allemagne ?
 
 Lyon-Stuttgart (450 km) T2 : **3000-5000€**. Lyon-Munich (650 km) : 3500-5500€. Lyon-Berlin (1200 km) : 4500-6500€. Délai : 3-7 jours routier. Formalités UE (CNI, inventaire sommaire, pas douane). Installation Allemagne : Anmeldung Rathaus sous 14j, assurance santé obligatoire immédiate (AOK, TK).
 
-[Destinations Europe →](/blog/satellites/demenagement-europe-lyon)
+[Destinations Europe →](/blog/demenagement-international-lyon/demenagement-europe-lyon)
 
 ## Formalités et Douane
 
@@ -53,7 +53,7 @@ Lyon-Stuttgart (450 km) T2 : **3000-5000€**. Lyon-Munich (650 km) : 3500-5500�
 
 Suisse hors UE = formalités **strictes** : permis résidence **B/C obligatoire obtenu AVANT** déménagement (délai 2-4 mois via employeur/Canton Suisse), inventaire détaillé bilingue français/allemand valorisé (tous biens listés + valeur €), formulaire douane 18.44, passeport, attestation changement résidence. Contrôle douane frontière Bardonnex/Valserine systématique (30min-2h). Franchise : biens usagés >6 mois exonérés droits/TVA. Neufs : TVA 8,1%. Sans permis B/C = refus entrée mobilier.
 
-[Guide formalités complètes →](/blog/satellites/formalites-douanieres-international-lyon)
+[Guide formalités complètes →](/blog/demenagement-international-lyon/formalites-douanieres-international-lyon)
 
 ### 6. Formalités Lyon-Italie (UE) ?
 
@@ -63,7 +63,7 @@ UE = formalités **simplifiées** : passeport/CNI, inventaire sommaire (liste fr
 
 **Oui, inventaire détaillé obligatoire : Suisse (bilingue français/allemand valorisé), USA/Canada (bilingue français/anglais valorisé), Maghreb/Asie/Océanie (bilingue selon pays).** UE (Italie, Allemagne, Espagne) : inventaire sommaire recommandé (assurance) mais pas obligatoire douane. Format : tableau Excel/PDF (N°, Description, Quantité, État, Valeur). Longueur T2 : 80-150 items. Temps : 3-5h. Modèles : admin.ch (Suisse), cbp.gov (USA), ou déménageur FIDI fournit. Photos objets >500€ complémentaires.
 
-[Remplir inventaire →](/blog/satellites/documents-demenagement-international-lyon)
+[Remplir inventaire →](/blog/demenagement-international-lyon/documents-demenagement-international-lyon)
 
 ## Choix Déménageur
 
@@ -71,7 +71,7 @@ UE = formalités **simplifiées** : passeport/CNI, inventaire sommaire (liste fr
 
 **Non légalement obligatoire, mais fortement recommandé destinations complexes (USA, Asie, Océanie) ou volumes >50m³.** FIDI (Fédération Internationale Déménagement) = certification qualité 600+ entreprises 84 pays, standards processus/assurances/réseau. Déménageurs FIDI Lyon : AGS (Part-Dieu), Allied, Crown (Gerland). Coût : +15-25% vs non-FIDI (3500€ vs 2800€ T2 Lyon-Genève), justifié réseau partenaires destination fiables, assurances internationales conformes, gestion douane professionnelle. Europe proche (Suisse, Italie) : non-FIDI acceptable si réseau vérifié (S.I.E.T Lyon Europe).
 
-[Choisir déménageur →](/blog/satellites/choisir-demenageur-international-lyon)
+[Choisir déménageur →](/blog/demenagement-international-lyon/choisir-demenageur-international-lyon)
 
 ### 9. AGS, Allied ou Crown Lyon : lequel choisir ?
 
@@ -111,7 +111,7 @@ Lyon-Genève : **2-4 jours** porte-à-porte (150 km routier). Chargement Lyon J 
 
 **Planning optimal : 6 mois avant départ** (sérénité). **Minimum requis : 3 mois.** Étapes : **6-5 mois** (visas USA/Canada 2-6 mois, permis Suisse 2-4 mois), **5-4 mois** (devis déménageurs, inventaire), **4-3 mois** (réservation, documents finalisés), **3-1 mois** (emballage, résiliations France). **Destinations UE (Italie, Allemagne)** : 2 mois suffisent (formalités allégées). **Suisse/USA** : 4-6 mois recommandés (permis/visas longs). **Urgence <2 mois** : possible surcoût +20-30%.
 
-[Planning détaillé →](/blog/satellites/delais-demenagement-international-lyon)
+[Planning détaillé →](/blog/demenagement-international-lyon/delais-demenagement-international-lyon)
 
 ## Documents et Admin
 
@@ -131,7 +131,7 @@ Cette FAQ déménagement international Lyon 2025 répond aux 18 questions essent
 
 Les spécificités Lyon (proximité Suisse 150 km/Italie 300 km routier 2-4j, aéroport Saint-Exupéry vols intercontinentaux, ports Marseille/Le Havre accessibles pré-acheminement, consulats Suisse/Italie/USA présents) facilitent déménagements internationaux comparé villes isolées. Anticiper 6 mois (visas, permis, inventaire, réservation) garantit sérénité. Urgences <2 mois possibles (surcoût +20-30%, stress formalités).
 
-Pour approfondir : [prix détaillés](/blog/satellites/prix-demenagement-international-lyon), [formalités douane](/blog/satellites/formalites-douanieres-international-lyon), [documents](/blog/satellites/documents-demenagement-international-lyon), [délais](/blog/satellites/delais-demenagement-international-lyon), [Lyon-Suisse](/blog/demenagement-international-lyon/demenagement-lyon-suisse), [Lyon-Italie](/blog/demenagement-international-lyon/demenagement-lyon-italie), [guide complet](/blog/demenagement-international-lyon/demenagement-international-lyon-guide-complet). Bon déménagement international !
+Pour approfondir : [prix détaillés](/blog/demenagement-international-lyon/prix-demenagement-international-lyon), [formalités douane](/blog/demenagement-international-lyon/formalites-douanieres-international-lyon), [documents](/blog/demenagement-international-lyon/documents-demenagement-international-lyon), [délais](/blog/demenagement-international-lyon/delais-demenagement-international-lyon), [Lyon-Suisse](/blog/demenagement-international-lyon/demenagement-lyon-suisse), [Lyon-Italie](/blog/demenagement-international-lyon/demenagement-lyon-italie), [guide complet](/blog/demenagement-international-lyon/demenagement-international-lyon-guide-complet). Bon déménagement international !
 
 ---
 

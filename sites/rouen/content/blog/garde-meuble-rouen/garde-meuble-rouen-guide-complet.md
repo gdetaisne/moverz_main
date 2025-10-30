@@ -24,19 +24,19 @@ Découvrez tous nos guides détaillés sur le garde-meuble à Rouen :
 
 ### Prix et Budget
 - **[Prix Garde-Meuble Rouen 2025](/blog/garde-meuble/prix-garde-meuble-rouen-2025)** : Tarifs détaillés 2025, comparatif acteurs locaux, astuces pour économiser jusqu'à 30%
-- **[Garde-Meuble Pas Cher à Rouen](/blog/satellites/garde-meuble-pas-cher-rouen)** : 7 astuces concrètes pour réduire vos coûts de stockage
+- **[Garde-Meuble Pas Cher à Rouen](/blog/garde-meuble-rouen/garde-meuble-pas-cher-rouen)** : 7 astuces concrètes pour réduire vos coûts de stockage
 
 ### Choix et Dimensionnement
-- **[Quelle Taille de Box à Rouen ?](/blog/satellites/taille-box-stockage-rouen)** : Guide complet pour estimer vos besoins selon votre logement
-- **[Durée Minimum de Location à Rouen](/blog/satellites/duree-minimum-garde-meuble-rouen)** : Engagements, flexibilité et conditions de résiliation
+- **[Quelle Taille de Box à Rouen ?](/blog/garde-meuble/taille-box-stockage-rouen)** : Guide complet pour estimer vos besoins selon votre logement
+- **[Durée Minimum de Location à Rouen](/blog/garde-meuble/duree-minimum-garde-meuble-rouen)** : Engagements, flexibilité et conditions de résiliation
 
 ### Types de Stockage
-- **[Self-Stockage Accès 24/7 à Rouen](/blog/satellites/self-stockage-acces-24-7-rouen)** : Acteurs proposant l'accès libre, avantages et tarifs
-- **[Self-Stockage vs Garde-Meuble Traditionnel](/blog/satellites/self-stockage-vs-garde-meuble-traditionnel-rouen)** : Comparatif complet sur 12 critères
+- **[Self-Stockage Accès 24/7 à Rouen](/blog/garde-meuble/self-stockage-acces-24-7-rouen)** : Acteurs proposant l'accès libre, avantages et tarifs
+- **[Self-Stockage vs Garde-Meuble Traditionnel](/blog/garde-meuble/self-stockage-vs-garde-meuble-traditionnel-rouen)** : Comparatif complet sur 12 critères
 
 ### Choix du Prestataire
 - **[Meilleurs Garde-Meubles Rouen 2025](/blog/garde-meuble-rouen/meilleurs-garde-meubles-rouen-avis)** : Classement, avis clients, témoignages vérifiés
-- **[Garde-Meuble Étudiant à Rouen](/blog/satellites/garde-meuble-etudiant-rouen)** : Solutions adaptées étudiants, tarifs préférentiels, périodes clés
+- **[Garde-Meuble Étudiant à Rouen](/blog/garde-meuble/garde-meuble-etudiant-rouen)** : Solutions adaptées étudiants, tarifs préférentiels, périodes clés
 
 ### Aspects Pratiques
 - **[Stockage Pendant Déménagement à Rouen](/blog/garde-meuble/stockage-pendant-demenagement-rouen-duree)** : Durées typiques, coûts, solutions flexibles
@@ -50,7 +50,7 @@ Le recours à un espace de stockage à Rouen répond à de nombreuses situations
 
 ### Les situations courantes nécessitant un garde meuble
 
-**Déménagement et transition d'habitation** : Lors d'un déménagement à Rouen, il arrive fréquemment que les dates de sortie et d'entrée dans les logements ne coïncident pas. Un garde meuble permet de [stocker temporairement vos meubles et cartons](/blog/garde-meuble/stockage-pendant-demenagement-rouen-duree), évitant ainsi le stress d'une double manutention. Cette solution s'avère particulièrement pratique pour les étudiants quittant leur logement du quartier des Facultés en fin d'année universitaire, qui peuvent opter pour un [garde-meuble étudiant adapté](/blog/satellites/garde-meuble-etudiant-rouen).
+**Déménagement et transition d'habitation** : Lors d'un déménagement à Rouen, il arrive fréquemment que les dates de sortie et d'entrée dans les logements ne coïncident pas. Un garde meuble permet de [stocker temporairement vos meubles et cartons](/blog/garde-meuble/stockage-pendant-demenagement-rouen-duree), évitant ainsi le stress d'une double manutention. Cette solution s'avère particulièrement pratique pour les étudiants quittant leur logement du quartier des Facultés en fin d'année universitaire, qui peuvent opter pour un [garde-meuble étudiant adapté](/blog/garde-meuble/garde-meuble-etudiant-rouen).
 
 **Travaux et rénovation** : Rénover un appartement dans le quartier Jeanne d'Arc ou une maison à Mont-Saint-Aignan nécessite souvent de libérer l'espace. Le garde meuble protège votre mobilier de la poussière et des dégradations pendant toute la durée des travaux.
 
@@ -64,13 +64,13 @@ Le recours à un espace de stockage à Rouen répond à de nombreuses situations
 
 La sécurité constitue le premier critère de choix. Les centres de stockage modernes à Rouen sont équipés de systèmes de vidéosurveillance 24/7, de détection incendie et d'alarmes individuelles sur chaque box. Votre accès personnel via badge garantit que vous seul pouvez entrer dans votre espace.
 
-La flexibilité représente un autre atout majeur : vous adaptez la durée de location selon vos besoins, sans engagement sur le long terme. La plupart des centres proposent des [contrats mensuels résiliables facilement](/blog/satellites/duree-minimum-garde-meuble-rouen).
+La flexibilité représente un autre atout majeur : vous adaptez la durée de location selon vos besoins, sans engagement sur le long terme. La plupart des centres proposent des [contrats mensuels résiliables facilement](/blog/garde-meuble/duree-minimum-garde-meuble-rouen).
 
-Enfin, la praticité d'accès vous permet de récupérer vos affaires quand vous le souhaitez. Certains établissements offrent même des [horaires d'accès 24/7](/blog/satellites/self-stockage-acces-24-7-rouen), idéal pour les professionnels ayant des contraintes spécifiques.
+Enfin, la praticité d'accès vous permet de récupérer vos affaires quand vous le souhaitez. Certains établissements offrent même des [horaires d'accès 24/7](/blog/garde-meuble/self-stockage-acces-24-7-rouen), idéal pour les professionnels ayant des contraintes spécifiques.
 
 ## Les différents types de garde meubles à Rouen
 
-À Rouen, vous trouverez principalement deux types de services de stockage, chacun répondant à des besoins spécifiques. Pour comprendre leurs différences, consultez notre [comparatif détaillé self-stockage vs garde-meuble traditionnel](/blog/satellites/self-stockage-vs-garde-meuble-traditionnel-rouen).
+À Rouen, vous trouverez principalement deux types de services de stockage, chacun répondant à des besoins spécifiques. Pour comprendre leurs différences, consultez notre [comparatif détaillé self-stockage vs garde-meuble traditionnel](/blog/garde-meuble/self-stockage-vs-garde-meuble-traditionnel-rouen).
 
 ### Le self-stockage : autonomie et accessibilité
 
@@ -78,7 +78,7 @@ Le self-stockage, également appelé "box de stockage" ou "location de box", con
 
 **Fonctionnement** : Vous accédez librement à votre box pendant les horaires d'ouverture (souvent de 6h à 22h, voire 24/7). Vous chargez et déchargez vous-même vos affaires, avec mise à disposition de chariots et de matériel de manutention. Les centres modernes proposent des quais de chargement facilitant l'accès des véhicules.
 
-**Tailles disponibles** : Les espaces varient généralement de 1 m³ (casier) à 30 m³ (garage complet), s'adaptant à tous les besoins. Un studio nécessite environ 8-12 m³, un T3 entre 15 et 20 m³. Pour bien [estimer la taille de box nécessaire selon votre logement](/blog/satellites/taille-box-stockage-rouen), consultez notre guide détaillé.
+**Tailles disponibles** : Les espaces varient généralement de 1 m³ (casier) à 30 m³ (garage complet), s'adaptant à tous les besoins. Un studio nécessite environ 8-12 m³, un T3 entre 15 et 20 m³. Pour bien [estimer la taille de box nécessaire selon votre logement](/blog/garde-meuble/taille-box-stockage-rouen), consultez notre guide détaillé.
 
 **Avantages** : Grande flexibilité d'accès, tarification transparente au mois, possibilité d'adapter la taille selon l'évolution de vos besoins, services additionnels (vente de cartons, location de véhicules).
 
@@ -318,46 +318,27 @@ Tous les centres ne proposent pas de climatisation. Les boxes climatisés mainti
 ### Prix et Économies
 Optimisez votre budget stockage :
 - **[Prix Détaillés Garde-Meuble Rouen 2025](/blog/garde-meuble/prix-garde-meuble-rouen-2025)** - Tarifs par acteur, taille et quartier
-- **[Astuces Garde-Meuble Pas Cher](/blog/satellites/garde-meuble-pas-cher-rouen)** - 7 techniques d'économie validées
+- **[Astuces Garde-Meuble Pas Cher](/blog/garde-meuble-rouen/garde-meuble-pas-cher-rouen)** - 7 techniques d'économie validées
 
 ### Dimensionnement et Durée
 Choisissez la solution adaptée :
-- **[Guide Taille Box Stockage](/blog/satellites/taille-box-stockage-rouen)** - Estimation précise par type de logement
-- **[Durée et Engagement Location](/blog/satellites/duree-minimum-garde-meuble-rouen)** - Flexibilité et résiliation
+- **[Guide Taille Box Stockage](/blog/garde-meuble/taille-box-stockage-rouen)** - Estimation précise par type de logement
+- **[Durée et Engagement Location](/blog/garde-meuble/duree-minimum-garde-meuble-rouen)** - Flexibilité et résiliation
 - **[Stockage Temporaire Déménagement](/blog/garde-meuble/stockage-pendant-demenagement-rouen-duree)** - Durées typiques et coûts
 
 ### Type de Stockage
 Comprenez les options :
-- **[Comparatif Self vs Traditionnel](/blog/satellites/self-stockage-vs-garde-meuble-traditionnel-rouen)** - 12 critères analysés
-- **[Self-Stockage Accès 24/7](/blog/satellites/self-stockage-acces-24-7-rouen)** - Acteurs et avantages
+- **[Comparatif Self vs Traditionnel](/blog/garde-meuble/self-stockage-vs-garde-meuble-traditionnel-rouen)** - 12 critères analysés
+- **[Self-Stockage Accès 24/7](/blog/garde-meuble/self-stockage-acces-24-7-rouen)** - Acteurs et avantages
 
 ### Choix du Prestataire
 Sélectionnez en confiance :
 - **[Meilleurs Garde-Meubles Rouen](/blog/garde-meuble-rouen/meilleurs-garde-meubles-rouen-avis)** - Classement et avis clients vérifiés
-- **[Solution Étudiant](/blog/satellites/garde-meuble-etudiant-rouen)** - Tarifs préférentiels et offres spéciales
+- **[Solution Étudiant](/blog/garde-meuble/garde-meuble-etudiant-rouen)** - Tarifs préférentiels et offres spéciales
 
 ### Sécurité et Assurance
 Protégez vos biens :
 - **[Assurance Garde-Meuble](/blog/garde-meuble-rouen/assurance-garde-meuble-rouen-obligatoire)** - Obligations légales et garanties
-
-## 📚 Services de Déménagement Connexes
-
-**Déménagement complet :**
-- [Déménageur professionnel Rouen](/blog/demenageur-rouen/demenageur-rouen-guide-complet) - Toutes formules
-- [Prix déménagement Rouen](/blog/prix-demenagement-rouen/prix-demenagement-rouen-guide-complet) - Budgets et tarifs
-- [Déménagement pas cher](/blog/demenageur-rouen-pas-cher/demenageur-rouen-pas-cher-guide) - Solutions économiques
-
-**Services spécialisés :**
-- [Déménagement entreprise](/blog/demenagement-entreprise-rouen/demenagement-entreprise-rouen-guide-complet) - Stockage archives professionnelles
-- [Déménagement international](/blog/demenagement-international-rouen/demenagement-international-rouen-guide-complet) - Garde-meuble avant expatriation  
-- [Petit déménagement](/blog/petit-demenagement-rouen/petit-demenagement-rouen-guide-complet) - Studios, petits volumes
-
-**Satellites garde-meuble :**
-- [Prix garde-meuble Rouen 2025](/blog/satellites/prix-garde-meuble-rouen-2025) - Tarifs détaillés
-- [Self-stockage vs garde-meuble](/blog/satellites/self-stockage-vs-garde-meuble-traditionnel-rouen) - Comparatif
-- [Garde-meuble étudiant](/blog/satellites/garde-meuble-etudiant-rouen) - Solutions étudiants
-- [Stockage pendant déménagement](/blog/satellites/stockage-pendant-demenagement-rouen-duree) - Durées recommandées
-- [Taille box stockage](/blog/satellites/taille-box-stockage-rouen) - Choisir la bonne taille
 
 ---
 

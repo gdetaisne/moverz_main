@@ -559,7 +559,7 @@ Déménager une salle serveurs à Lille exige **protocole rigoureux** : shutdown
 ---
 
 **Liens utiles** :
-- [Déménagement Entreprise Lille : Guide Complet](/blog/piliers/demenagement-entreprise-lille)
+- [Déménagement Entreprise Lille : Guide Complet](/blog/demenagement-entreprise-lille)
 - [Transfert Matériel Informatique](/blog/transfert-materiel-informatique-entreprise-lille)
 - [Backup Données Entreprise](/blog/sauvegarde-donnees-demenagement-lille)
 

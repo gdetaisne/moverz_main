@@ -167,7 +167,7 @@ Les causes fréquentes Nantes (expulsions locatives 25-30% urgences, mutations e
 Notre recommandation finale urgence Nantes : **Évitez absolument** (planifications 6-8 sem. avant = économies 300-800€ + stress évité), **SI obligé** = DIY location utilitaire + aides familiales/amicales 24-48h (économies 475-750€ = 66-76% vs déménageurs urgences mais efforts 12-15h + risques +10-15%), **déménagement partiel priorité** si impossible DIY (essentiels 5-10m³ = 250-400€ vs complet 20m³ = 750-990€, report reste conditions normales J+15), et **budgetez réaliste** +60-120% vs standards (anticipez chocs tarifs évitent refus jour J budgets dépassés).
 
 
-Pour aller plus loin, explorez notre [guide déménagement pas cher à Nantes](/blog/demenagement-pas-cher-nantes/demenagement-pas-cher-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement pas cher 2025](/blog/demenagement-pas-cher-nantes/prix-demenagement-pas-cher-nantes-2025) et [astuces pour réduire les coûts](/blog/satellites/astuces-reduire-cout-demenagement-nantes).
+Pour aller plus loin, explorez notre [guide déménagement pas cher à Nantes](/blog/demenagement-pas-cher-nantes/demenagement-pas-cher-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement pas cher 2025](/blog/demenagement-pas-cher-nantes/prix-demenagement-pas-cher-nantes-2025) et [astuces pour réduire les coûts](/blog/demenagement-pas-cher-nantes/astuces-reduire-cout-demenagement-nantes).
 
 ## Questions Fréquentes
 

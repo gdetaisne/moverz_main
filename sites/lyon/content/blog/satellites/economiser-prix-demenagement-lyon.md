@@ -259,7 +259,7 @@ Ce guide présente 15 astuces économiser prix déménagement Lyon réductions c
 
 Économiser prix déménagement Lyon 15 astuces combinées réductions -30-50% : désencombrement -29% volumes, comparaisons -17%, basse saison -5-15%, semaine -15-40%, services modulaires -23-33%, DIY emballage -150-300€, location utilitaire -63%, distances <10 km, étages <3ème, mobilier vendu +400-800€ revenus, cartons gratuits -60-200€, amis entraide -150-300€, assurances optimisées, prestations évitées, matériel emprunté. Combinaisons profils : étudiants DIY maximal 150-250€ (-67-78%), familles équilibrées 380-420€ (-19-27%), aisées sélectives 520-550€ (-5-10%).
 
-Limites éviter : low-cost coûts cachés 1100-1600€ réels, DIY complet risques/fatigue arbitrer. Périodes optimales : octobre-mars basse, semaine, anticipation 3-4 semaines vs contre-productives juillet-août +15-25%, fins mois, week-end +15-40%, urgences +20-50%. T2 exemple 520€ → 365€ (-30%) astuces cumulées. Consultez [déménagement économique](/blog/demenagement-lyon-pas-cher/demenagement-economique-lyon), [devis gratuits](/blog/satellites/devis-demenagement-gratuit-lyon). Bonnes économies !
+Limites éviter : low-cost coûts cachés 1100-1600€ réels, DIY complet risques/fatigue arbitrer. Périodes optimales : octobre-mars basse, semaine, anticipation 3-4 semaines vs contre-productives juillet-août +15-25%, fins mois, week-end +15-40%, urgences +20-50%. T2 exemple 520€ → 365€ (-30%) astuces cumulées. Consultez [déménagement économique](/blog/demenagement-lyon-pas-cher/demenagement-economique-lyon), [devis gratuits](/blog/demenageur-lyon/devis-demenagement-gratuit-lyon). Bonnes économies !
 
 ---
 

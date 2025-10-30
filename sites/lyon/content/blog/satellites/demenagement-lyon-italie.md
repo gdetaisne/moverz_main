@@ -188,7 +188,7 @@ Déménager de Lyon vers l'Italie (Turin 300 km, Milan 400 km, Rome 850 km) comb
 
 Le transport routier direct s'impose pour Turin et Milan (distances 300-400 km, 2-4 jours, tarifs maîtrisés 2000-4000€ T2). Rome et le sud (850+ km) justifient une comparaison avec le maritime via Marseille (container groupage 4000-7000€, délai 15-20j, économie possible si flexibilité dates). Les déménageurs Lyon spécialisés Italie (AGS, Allied, S.I.E.T) maîtrisent l'axe Lyon-Turin-Milan et disposent de partenaires locaux garantissant livraison et assistance installation.
 
-Pour explorer d'autres destinations internationales depuis Lyon (Suisse, Allemagne, destinations intercontinentales), consultez [notre guide complet international Lyon](/blog/demenagement-international-lyon/demenagement-international-lyon-guide-complet). Explorez aussi [les prix détaillés déménagement international](/blog/satellites/prix-demenagement-international-lyon) pour budgétiser précisément. Buon viaggio e buon trasloco !
+Pour explorer d'autres destinations internationales depuis Lyon (Suisse, Allemagne, destinations intercontinentales), consultez [notre guide complet international Lyon](/blog/demenagement-international-lyon/demenagement-international-lyon-guide-complet). Explorez aussi [les prix détaillés déménagement international](/blog/demenagement-international-lyon/prix-demenagement-international-lyon) pour budgétiser précisément. Buon viaggio e buon trasloco !
 
 ---
 

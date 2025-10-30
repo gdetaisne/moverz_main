@@ -473,17 +473,3 @@ Que vous soyez étudiant quittant une résidence universitaire de Luminy, senior
 
 **Ne portez plus seul le poids de votre déménagement marseillais. Contactez-nous dès maintenant !**
 
-## 📚 Solutions Complémentaires
-
-**Alternatives économiques :**
-- [Déménagement pas cher Marseille](/blog/demenagement-marseille/demenagement-marseille-pas-cher) - Toutes les astuces
-- [Petit déménagement Marseille](/blog/demenagement-marseille/petit-demenagement-marseille) - Petits volumes
-- [Location camion Marseille](/blog/demenagement-marseille/location-camion-demenagement-marseille) - Autonomie totale
-
-**Services complets :**
-- [Déménageur professionnel Marseille](/blog/demenagement-marseille/demenageur-marseille) - Formules clé en main
-- [Prix déménagement Marseille](/blog/demenagement-marseille/prix-demenagement-marseille) - Tous les tarifs
-
-**Stockage :**
-- [Garde-meuble Marseille](/blog/garde-meuble-marseille/garde-meuble-marseille-guide-complet) - Solutions temporaires
-

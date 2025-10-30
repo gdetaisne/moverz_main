@@ -115,7 +115,7 @@ T2 Lille (35m³ tassé, 44-54m³ chargé) : camion **20m³ en 2 voyages** (70-95
 
 Agences Lille proposent : 12m³ (50-70€, studio mini), 20m³ (70-95€, T1-T2), 35m³ (100-140€, T2-T3), 50m³ (140-200€, T3-maison). Choisissez taille supérieure (+20-30% volume calculé) : marge sécurité évite 2ème voyage imprévu (+4h stress). T2 optimisé : camion 35m³ (120€ weekend) avec aide 3 amis = 1 voyage fluide 6-8h vs 20m³ 2 voyages (80€ mais 9-11h fatigue).
 
-Consultez notre [guide location Lille](/blog/location-camion-lille/location-camion-demenagement-lille-guide), notre [article prix 20m³](/blog/satellites/prix-location-camion-20m3-lille) et notre [comparatif vs déménageur](/blog/satellites/location-camion-vs-demenageur-lille).
+Consultez notre [guide location Lille](/blog/location-camion-lille/location-camion-demenagement-lille-guide), notre [article prix 20m³](/blog/location-camion-lille/prix-location-camion-20m3-lille) et notre [comparatif vs déménageur](/blog/location-camion-lille/location-camion-vs-demenageur-lille).
 
 
 

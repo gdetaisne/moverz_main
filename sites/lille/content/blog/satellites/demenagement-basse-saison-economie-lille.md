@@ -120,7 +120,7 @@ Répartition annuelle Lille : 40% juin-août (haute, saturation étudiants 70 00
 
 Arbitrage : dates flexibles + météo acceptable = **mi-mars optimal** (tarifs -15%, météo 12-15°C supportable, jours 18h30, négociation -50€ possible = économie totale 230€ T2). Dates imposées juin-juillet : accepter tarifs haute +15-20%, réserver 6 sem avant, pas négociation.
 
-Consultez notre [guide déménagement pas cher Lille](/blog/demenagement-pas-cher-lille/demenagement-pas-cher-lille-guide), notre [article astuces](/blog/demenagement-pas-cher-lille/demenagement-pas-cher-lille-top-10-astuces) et notre [comparatif formules](/blog/satellites/formule-economique-vs-standard-demenagement).
+Consultez notre [guide déménagement pas cher Lille](/blog/demenagement-pas-cher-lille/demenagement-pas-cher-lille-guide), notre [article astuces](/blog/demenagement-pas-cher-lille/demenagement-pas-cher-lille-top-10-astuces) et notre [comparatif formules](/blog/demenagement-pas-cher-lille/formule-economique-vs-standard-demenagement).
 
 
 

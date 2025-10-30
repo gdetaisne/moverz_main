@@ -214,7 +214,7 @@ Les surcoûts quartiers (Centre escaliers +100-250€ vs Île Nantes 0-50€, p�
 Notre recommandation finale T1 Nantes : Formule **standard 850-1100€** optimal couples actifs (cartons fournis + emballage vaisselle pros = confort, démontages Ikea inclus, temps 7-9h raisonnables vs 6-12h DIY fatigues doubles journées travail), quartiers **Île Nantes** (ascenseurs zéro surcoûts +100-250€ Centre, loyers 650-900€ compétitifs qualité-prix surfaces 34-38m²), timing **mai-juin ou octobre** (-15-20% = économies 130-220€), et comparaisons **4-6 devis** (écarts 150-300€ fréquents Alliance LG 950€ vs Demidov 750€ vs petits locaux 680€).
 
 
-Pour aller plus loin, explorez notre [guide petit déménagement à Nantes](/blog/petit-demenagement-nantes/petit-demenagement-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement studio](/blog/petit-demenagement-nantes/demenagement-studio-nantes-prix) et [déménager un meuble seul](/blog/satellites/demenagement-meuble-seul-nantes).
+Pour aller plus loin, explorez notre [guide petit déménagement à Nantes](/blog/petit-demenagement-nantes/petit-demenagement-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement studio](/blog/petit-demenagement-nantes/demenagement-studio-nantes-prix) et [déménager un meuble seul](/blog/petit-demenagement-nantes/demenagement-meuble-seul-nantes).
 
 ## Questions Fréquentes
 

@@ -20,7 +20,7 @@ L'achat de cartons peut représenter une dépense non négligeable lors d'un dé
 
 ## Les commerces locaux : la source principale
 
-Les supermarchés bordelais constituent la première source de [cartons gratuits](/blog/demenagement-etudiant-bordeaux/cartons-gratuits-bordeaux). Les enseignes comme Carrefour, Leclerc, Intermarché ou Super U reçoivent quotidiennement des livraisons et disposent souvent de cartons en excellent état. Les magasins d'électroménager comme Darty, Boulanger ou Fnac sont également de bonnes adresses, leurs cartons étant particulièrement robustes pour transporter des objets fragiles.
+Les supermarchés bordelais constituent la première source de [cartons gratuits](/blog/etudiant/cartons-gratuits). Les enseignes comme Carrefour, Leclerc, Intermarché ou Super U reçoivent quotidiennement des livraisons et disposent souvent de cartons en excellent état. Les magasins d'électroménager comme Darty, Boulanger ou Fnac sont également de bonnes adresses, leurs cartons étant particulièrement robustes pour transporter des objets fragiles.
 
 Les librairies et papeteries, nombreuses dans le centre-ville de Bordeaux, reçoivent régulièrement des livraisons de livres et de fournitures. Leurs cartons, de tailles variées et souvent en bon état, sont parfaits pour les objets légers. N'hésitez pas à vous présenter en début de journée, moment où les livraisons sont déballées et les cartons disponibles.
 

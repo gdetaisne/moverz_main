@@ -1,10 +1,9 @@
-import type { Metadata } from 'next';
+import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Mentions légales | Moverz Marseille",
+  title: "Mentions légales | Moverz",
   description:
     "Mentions légales de Moverz (GSLV) : éditeur, hébergeur, responsabilité, propriété intellectuelle et données personnelles.",
-  alternates: { canonical: "https://devis-demenageur-marseille.fr/mentions-legales" },
 };
 
 export default function MentionsLegalesPage() {
@@ -127,4 +126,3 @@ export default function MentionsLegalesPage() {
     </main>
   );
 }
-

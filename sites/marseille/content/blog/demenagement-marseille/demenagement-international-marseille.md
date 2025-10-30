@@ -643,17 +643,3 @@ Que vous quittiez Marseille pour une aventure canadienne, que vous rejoigniez la
 
 Ne laissez pas la complexité logistique freiner votre projet de vie. **Contactez-nous dès aujourd'hui et partez sereinement vers votre nouvelle destination !**
 
-## 📚 Services Complémentaires
-
-**Déménagements nationaux :**
-- [Déménageur Marseille](/blog/demenagement-marseille/demenageur-marseille) - Services complets local
-- [Prix déménagement Marseille](/blog/demenagement-marseille/prix-demenagement-marseille) - Tarifs nationaux
-- [Prix longue distance](/blog/satellites/prix-demenagement-longue-distance-marseille) - Marseille vers autres villes France
-
-**Autres services :**
-- [Déménagement entreprise](/blog/demenagement-marseille/demenagement-d-entreprise-marseille) - Mutations internationales pros
-- [Garde-meuble Marseille](/blog/garde-meuble-marseille/garde-meuble-marseille-guide-complet) - Stockage avant/après expatriation
-
-**Solutions économiques :**
-- [Déménagement pas cher](/blog/demenagement-marseille/demenagement-marseille-pas-cher) - Astuces économies
-

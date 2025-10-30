@@ -11,6 +11,23 @@ interface BreadcrumbsProps {
 }
 
 export default function Breadcrumbs({ items, className = "" }: BreadcrumbsProps) {
+  // JSON-LD BreadcrumbList (ajout non intrusif)
+  // On génère un schéma BreadcrumbList à partir des items existants, sans modifier l'UI
+  const JsonLd = () => {
+    try {
+      const { buildBreadcrumbListSchema } = require('@/lib/schema/breadcrumb');
+      const json = buildBreadcrumbListSchema(items.map(i => ({ label: i.label, href: i.href })));
+      return (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(json) }}
+        />
+      );
+    } catch {
+      return null;
+    }
+  };
+
   return (
     <nav className={`py-4 ${className}`} aria-label="Breadcrumb">
       <ol className="flex items-center space-x-2 text-sm">
@@ -44,6 +61,7 @@ export default function Breadcrumbs({ items, className = "" }: BreadcrumbsProps)
           </li>
         ))}
       </ol>
+      <JsonLd />
     </nav>
   );
 }

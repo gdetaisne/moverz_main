@@ -182,7 +182,7 @@ Acteurs Lille-UK spécialisés post-Brexit : AGS Lille (leader international, ex
 
 Proximité Lille-UK avantage : Calais 120 km (vs Marseille-Calais 1 100 km), Eurotunnel 35 min (vs ferry Le Havre-Portsmouth 4-6h), Londres 340 km total (vs Marseille-Londres 1 600 km routier 18-22h pénible). Flux Lille-Londres : 800-1 200 déménagements/an 2025 (vs 1 500-2 000 pré-Brexit, baisse -30-40% complexité Brexit dissuasion).
 
-Consultez notre [guide déménagement international Lille](/blog/demenagement-international-lille/demenagement-international-lille-guide), notre [article prix international](/blog/demenagement-international-lille/prix-demenagement-international-lille-2025), notre [guide douanes](/blog/satellites/formalites-douanieres-demenagement-international) et notre [guide conteneurs](/blog/satellites/transport-conteneur-demenagement-international).
+Consultez notre [guide déménagement international Lille](/blog/demenagement-international-lille/demenagement-international-lille-guide), notre [article prix international](/blog/demenagement-international-lille/prix-demenagement-international-lille-2025), notre [guide douanes](/blog/demenagement-international-lille/formalites-douanieres-demenagement-international) et notre [guide conteneurs](/blog/demenagement-international-lille/transport-conteneur-demenagement-international).
 
 
 

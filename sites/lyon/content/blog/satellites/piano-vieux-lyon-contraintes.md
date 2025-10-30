@@ -91,7 +91,7 @@ Ce guide détaille contraintes Vieux-Lyon (escaliers, rues, immeubles), explique
 
 Déménager un piano dans le Vieux-Lyon (5ème) impose contraintes extrêmes : escaliers médiévaux 80-95 cm largeur raides 25-30°, portage manuel uniquement (monte-meuble impossible rues 1,5-2 m), équipe renforcée 4-5 personnes, durée 4-6h, surcoût +40-60% (800-1000€ piano droit 4ème vs 570-730€ quartier standard). Les rues étroites interdisent camion-nacelle, les immeubles 15ème-17ème siècles n'ont pas ascenseurs adaptés, les escaliers pierre irréguliers compliquent portage.
 
-Alternatives : éviter Vieux-Lyon si possible (privilégier Confluence/Villeurbanne), rez-de-chaussée uniquement si Vieux-Lyon inévitable (350-500€ vs 800-1000€ 4ème), piano numérique (60-80 kg portable, 100-150€ déménagement), ou repérage préalable impératif (mesure escaliers, faisabilité vérifiée). Consultez [prix piano](/blog/demenagement-piano-lyon/prix-demenagement-piano-droit-lyon), [monte-meuble](/blog/satellites/monte-meuble-piano-lyon), [guide complet](/blog/demenagement-piano-lyon/demenagement-piano-lyon-guide-complet). Bon courage !
+Alternatives : éviter Vieux-Lyon si possible (privilégier Confluence/Villeurbanne), rez-de-chaussée uniquement si Vieux-Lyon inévitable (350-500€ vs 800-1000€ 4ème), piano numérique (60-80 kg portable, 100-150€ déménagement), ou repérage préalable impératif (mesure escaliers, faisabilité vérifiée). Consultez [prix piano](/blog/demenagement-piano-lyon/prix-demenagement-piano-droit-lyon), [monte-meuble](/blog/demenagement-piano-lyon/monte-meuble-piano-lyon), [guide complet](/blog/demenagement-piano-lyon/demenagement-piano-lyon-guide-complet). Bon courage !
 
 ---
 

@@ -218,7 +218,7 @@ Les formalités douanières déménagement international depuis Lyon s'échelonn
 
 L'inventaire détaillé constitue le pivot : liste exhaustive biens (description, état, valeur), bilingue si Suisse/USA/Canada, format Excel/PDF téléchargeable sites douane officiels (admin.ch Suisse, cbp.gov USA) ou fourni déménageur international. La franchise douanière (biens usagés >6 mois/1 an exonérés) économise 5-15% valeur mobilier. Les consulats Lyon (Suisse, Italie, USA, Maghreb) facilitent obtention documents, légalisations, conseils spécifiques.
 
-Pour formalités détaillées par destination, consultez [Lyon-Suisse](/blog/demenagement-international-lyon/demenagement-lyon-suisse) et [Lyon-Italie](/blog/demenagement-international-lyon/demenagement-lyon-italie). Explorez aussi [notre guide complet international](/blog/demenagement-international-lyon/demenagement-international-lyon-guide-complet) et [les documents nécessaires](/blog/satellites/documents-demenagement-international-lyon). Bonnes formalités et bon déménagement !
+Pour formalités détaillées par destination, consultez [Lyon-Suisse](/blog/demenagement-international-lyon/demenagement-lyon-suisse) et [Lyon-Italie](/blog/demenagement-international-lyon/demenagement-lyon-italie). Explorez aussi [notre guide complet international](/blog/demenagement-international-lyon/demenagement-international-lyon-guide-complet) et [les documents nécessaires](/blog/demenagement-international-lyon/documents-demenagement-international-lyon). Bonnes formalités et bon déménagement !
 
 ---
 

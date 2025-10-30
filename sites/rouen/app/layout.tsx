@@ -10,62 +10,20 @@ import GoogleAnalytics from "@/components/GoogleAnalytics";
 import GAListener from "./ga-listener";
 import { env } from "@/lib/env";
 import { getCityDataFromUrl } from "@/lib/cityData";
+import { buildSiteMetadata } from "@/lib/seo-builders";
 
 const inter = Inter({ subsets: ["latin"], display: "swap" });
 
 // Résoudre les données de ville dynamiquement
 const city = getCityDataFromUrl(env.SITE_URL);
 
-export const metadata: Metadata = {
-  title: {
-    default: `Déménageur Rouen dès 280€ | 5 Devis Gratuits en 2min | 2024`,
-    template: `%s | Déménagement Rouen`,
-  },
-  description:
-    `Déménagement Rouen : 5 devis gratuits en 2min. Prix dès 280€. Comparez et économisez 40%. ✓ Sans engagement ✓ Déménageurs locaux vérifiés ✓ Réponse rapide.`,
-  metadataBase: new URL(city.siteUrl),
-  robots: {
-    index: true,
-    follow: true,
-    googleBot: {
-      index: true,
-      follow: true,
-      'max-video-preview': -1,
-      'max-image-preview': 'large',
-      'max-snippet': -1,
-    },
-  },
-  openGraph: {
-    type: 'website',
-    locale: 'fr_FR',
-    url: city.siteUrl,
-    siteName: `Comparateur Déménagement ${city.nameCapitalized}`,
-    title: `Comparateur Déménagement ${city.nameCapitalized} : 5 Devis Gratuits`,
-    description: `Estimation par photos en 30 min → 5 devis personnalisés de déménageurs. 100% gratuit. Économisez jusqu'à 40% sur votre déménagement à ${city.nameCapitalized}.`,
-    images: [
-      {
-        url: `${city.siteUrl}/og-image.jpg`,
-        width: 1200,
-        height: 630,
-        alt: `Comparateur Déménagement ${city.nameCapitalized} - 5 Devis Gratuits`,
-      },
-    ],
-  },
-  twitter: {
-    card: 'summary_large_image',
-    title: `Comparateur Déménagement ${city.nameCapitalized} : 5 Devis Gratuits`,
-    description: `Estimation par photos en 30 min → 5 devis personnalisés de déménageurs. 100% gratuit. Économisez jusqu'à 40% sur votre déménagement à ${city.nameCapitalized}.`,
-    images: [`${city.siteUrl}/og-image.jpg`],
-  },
-  alternates: {
-    canonical: city.siteUrl,
-  },
-  icons: {
-    icon: '/favicon.ico',
-    shortcut: '/favicon.ico',
-    apple: '/icons/apple-touch-icon.png',
-  },
-};
+// Metadata centralisée avec wording spécifique Rouen (source unique)
+export const metadata: Metadata = buildSiteMetadata({
+  customTitle: `Déménageur Rouen dès 280€ | 5 Devis Gratuits en 2min | 2025`,
+  customTemplate: `%s | Déménagement Rouen`,
+  customDescription: `Déménagement Rouen : 5 devis gratuits en 2min. Prix dès 280€. Comparez et économisez 40%. ✓ Sans engagement ✓ Déménageurs locaux vérifiés ✓ Réponse rapide.`,
+  isMoneyPage: true,
+});
 
 export const viewport: Viewport = {
   width: 'device-width',
@@ -157,6 +115,7 @@ function Footer() {
             <li><Link href="/mentions-legales/" className="hover:text-white">Mentions légales</Link></li>
             <li><Link href="/politique-confidentialite/" className="hover:text-white">Confidentialité</Link></li>
             <li><Link href="/cgv/" className="hover:text-white">CGV</Link></li>
+            <li><Link href="/cgu/" className="hover:text-white">CGU</Link></li>
           </ul>
         </div>
       </div>

@@ -22,19 +22,19 @@ featured: true
 Tous nos guides pour trouver de l'aide pour votre déménagement à Nantes :
 
 ### Trouver de l'Aide
-- [Plateformes d'aide déménagement](/blog/satellites/plateformes-aide-demenagement-nantes) : Sites et apps
-- [Étudiants déménageurs](/blog/satellites/etudiants-aide-demenagement-nantes) : Main d'œuvre jeune
-- [Aide au dernier moment](/blog/satellites/trouver-aide-demenagement-dernier-moment-nantes) : Solutions urgentes
+- [Plateformes d'aide déménagement](/blog/aide-demenagement-nantes/plateformes-aide-demenagement-nantes) : Sites et apps
+- [Étudiants déménageurs](/blog/aide-demenagement-nantes/etudiants-aide-demenagement-nantes) : Main d'œuvre jeune
+- [Aide au dernier moment](/blog/aide-demenagement-nantes/trouver-aide-demenagement-dernier-moment-nantes) : Solutions urgentes
 
 ### Tarifs et Budget
-- [Tarif horaire porteur](/blog/satellites/tarif-horaire-porteur-demenagement-nantes) : Prix à l'heure
-- [Aide ponctuelle](/blog/satellites/aide-ponctuelle-chargement-dechargement-nantes) : Chargement/déchargement
+- [Tarif horaire porteur](/blog/aide-demenagement-nantes/tarif-horaire-porteur-demenagement-nantes) : Prix à l'heure
+- [Aide ponctuelle](/blog/aide-demenagement-nantes/aide-ponctuelle-chargement-dechargement-nantes) : Chargement/déchargement
 
 ### Sécurité
-- [Assurances particuliers](/blog/satellites/assurances-aide-demenagement-particuliers-nantes) : Se protéger
+- [Assurances particuliers](/blog/aide-demenagement-nantes/assurances-aide-demenagement-particuliers-nantes) : Se protéger
 
 ### Aide Gratuite
-- [Aide amis et famille](/blog/satellites/aide-demenagement-amis-famille-nantes) : Organiser l'entraide
+- [Aide amis et famille](/blog/aide-demenagement-nantes/aide-demenagement-amis-famille-nantes) : Organiser l'entraide
 
 
 Déménager représente un moment clé de la vie, souvent synonyme de stress et de charge mentale importante. Heureusement, de nombreuses formes d'aide existent à Nantes pour faciliter votre changement de logement : professionnels spécialisés, aides financières publiques, plateformes d'entraide, et bien sûr le soutien de vos proches. Ce guide exhaustif vous présente toutes les solutions disponibles dans l'agglomération nantaise pour déménager sereinement, quel que soit votre budget ou votre situation.

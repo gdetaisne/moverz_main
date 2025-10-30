@@ -120,7 +120,7 @@ Agences location camion Lille : **Leclerc Englos** champion prix (65-75€/j, -1
 
 Lillois Centre sans voiture : Europcar Flandres optimal (70-85€, accessible, km 150). Lillois Lomme/périphérie avec voiture : Leclerc (65-75€, proximité, économie). Besoin aller simple Lille-Paris : Sixt/Europcar/Hertz (réseaux nationaux, Leclerc local uniquement). Haute saison juin-août : réservez 3-4 semaines (saturation agences, tarifs +10-20%). Comparaison: weekend 20m³ = Leclerc 120€ vs Europcar 150€ vs Sixt 160€ (écart 40€ = 25%).
 
-Consultez notre [guide location Lille](/blog/location-camion-lille/location-camion-demenagement-lille-guide), notre [article prix 20m³](/blog/satellites/prix-location-camion-20m3-lille) et notre [guide permis B](/blog/satellites/permis-b-camion-demenagement-limites).
+Consultez notre [guide location Lille](/blog/location-camion-lille/location-camion-demenagement-lille-guide), notre [article prix 20m³](/blog/location-camion-lille/prix-location-camion-20m3-lille) et notre [guide permis B](/blog/location-camion-lille/permis-b-camion-demenagement-limites).
 
 
 

@@ -193,7 +193,7 @@ Risques : casse 20-35% (espérance 200€), accident camion 8-12% (franchise 1 0
 
 Profil optimal DIY : étudiant 20-25 ans (Moulins, Vauban, 70 000 Lille), studio/T1/T2 max 35m³, colocs/amis fac disponibles, budget <300€ impératif (838€ économie vitale), quartiers faciles (Lomme, Fives, pas Vieux-Lille), mobilier IKEA valeur <3 000€ (casse acceptable), weekend entier libre, capacité physique (sport régulier, dos sain).
 
-Consultez notre [guide DIY vs pro](/blog/satellites/location-camion-vs-demenageur-lille), notre [guide location camion](/blog/location-camion-lille/location-camion-demenagement-lille-guide) et notre [article cartons gratuits](/blog/demenagement-pas-cher-lille/cartons-gratuits-lille-recuperer).
+Consultez notre [guide DIY vs pro](/blog/location-camion-lille/location-camion-vs-demenageur-lille), notre [guide location camion](/blog/location-camion-lille/location-camion-demenagement-lille-guide) et notre [article cartons gratuits](/blog/demenagement-pas-cher-lille/cartons-gratuits-lille-recuperer).
 
 
 

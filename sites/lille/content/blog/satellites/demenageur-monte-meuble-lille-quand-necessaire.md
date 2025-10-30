@@ -240,7 +240,7 @@ Le déménageur évalue besoin lors visite technique gratuite : mesure largeur c
 
 Quartiers modernes Lille (Euralille, Lomme récent, Fives neuf) : 0% besoin monte-meuble (ascenseurs 1,2×1,5m, plain-pied). Wazemmes immeubles 1900 anciens : besoin occasionnel (30% cas). Centre République/Opéra : 40% cas. Vieux-Lille : 60% cas.
 
-Consultez notre [guide expert déménageurs Lille](/blog/demenageur-lille/demenageur-lille-expert), notre [article Vieux-Lille spécialistes](/blog/demenageur-lille/demenageur-vieux-lille-acces-difficiles) et notre [guide autorisation stationnement](/blog/satellites/autorisation-stationnement-demenagement-lille) pour maîtriser contraintes Centre historique lillois.
+Consultez notre [guide expert déménageurs Lille](/blog/demenageur-lille/demenageur-lille-expert), notre [article Vieux-Lille spécialistes](/blog/demenageur-lille/demenageur-vieux-lille-acces-difficiles) et notre [guide autorisation stationnement](/blog/demenageur-lille/autorisation-stationnement-demenagement-lille) pour maîtriser contraintes Centre historique lillois.
 
 
 

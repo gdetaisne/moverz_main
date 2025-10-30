@@ -500,7 +500,7 @@ Déménager un local commercial à Lille exige **coordination multi-acteurs** (d
 ---
 
 **Liens utiles** :
-- [Déménagement Entreprise Lille : Guide Complet](/blog/piliers/demenagement-entreprise-lille)
+- [Déménagement Entreprise Lille : Guide Complet](/blog/demenagement-entreprise-lille)
 - [Formalités Administratives Déménagement Pro](/blog/formalites-demenagement-entreprise-lille)
 - [Transport Denrées Alimentaires](/blog/transport-frigorifique-demenagement-lille)
 

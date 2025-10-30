@@ -207,7 +207,7 @@ Procédure Lille-NYC : expatrié Lille obtient visa H1B loterie avril résultats
 
 Acteurs Lille-USA spécialisés : AGS Lille (leader, expertise douanes US), Crown Relocations (multinationales cadres), Allied Pickfords (global réseau 600 bureaux), Grospiron (franco-français), acteurs locaux. Gèrent visas conseils (pas obtention visa = avocat immigration), formulaire CBP 3299 (préparation inventaire anglais, soumission CBP), relations commissionnaires US agréés ports Newark/LA/Houston, suivi dédouanement temps réel, livraison finale NYC appartement.
 
-Consultez notre [guide déménagement international Lille](/blog/demenagement-international-lille/demenagement-international-lille-guide), notre [article prix international](/blog/demenagement-international-lille/prix-demenagement-international-lille-2025), notre [guide douanes](/blog/satellites/formalites-douanieres-demenagement-international) et notre [guide conteneurs](/blog/satellites/transport-conteneur-demenagement-international).
+Consultez notre [guide déménagement international Lille](/blog/demenagement-international-lille/demenagement-international-lille-guide), notre [article prix international](/blog/demenagement-international-lille/prix-demenagement-international-lille-2025), notre [guide douanes](/blog/demenagement-international-lille/formalites-douanieres-demenagement-international) et notre [guide conteneurs](/blog/demenagement-international-lille/transport-conteneur-demenagement-international).
 
 
 

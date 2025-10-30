@@ -375,7 +375,7 @@ Si immeuble inaccessible temporairement (travaux, rue barrée) :
 
 **Accordage conseillé** :
 - **Après 2-3 semaines** : Temps de stabilisation nouvel environnement
-- **Coût** : 80-120 € (voir article [Accordage Piano Après Déménagement](/blog/satellites/accordage-piano-apres-demenagement-lille))
+- **Coût** : 80-120 € (voir article [Accordage Piano Après Déménagement](/blog/accordage-piano-apres-demenagement-lille))
 
 ---
 
@@ -425,7 +425,7 @@ Le **monte-charge** est la solution **la plus sûre** pour un piano en étage à
 - [Prix Déménagement Piano Lille (2025)](/blog/demenagement-piano-lille-prix)
 - [Spécialistes Piano à Lille](/blog/specialistes-piano-lille)
 - [Monte-Piano : Trouver un Expert Lille](/blog/monte-piano-specialiste-lille)
-- [Assurance Piano Déménagement](/blog/satellites/assurance-piano-demenagement-lille)
+- [Assurance Piano Déménagement](/blog/assurance-piano-demenagement-lille)
 
 
 

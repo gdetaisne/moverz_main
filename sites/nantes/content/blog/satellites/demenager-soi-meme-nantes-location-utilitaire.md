@@ -153,7 +153,7 @@ Les quartiers nantais modernes (Île de Nantes, Doulon, Bellevue rénové) facil
 Nos conseils finaux : sur-dimensionnez utilitaire 15-20% (éviter double trajet), prenez assurance tous risques +25€ (protection franchise 1500€), recrutez 1-2 helpers de plus que nécessaire strict (filet sécurité défaillances), consultez météo et reportez si pluie battante, et calculez honnêtement votre seuil effort/économie. DIY T1 économise 150-200€ pour 6-8h effort (rentable). DIY T3 économise 400€ pour 18-20h manutention 6 personnes (questionnable sauf troupe sportive motivée).
 
 
-Pour aller plus loin, explorez notre [guide déménagement pas cher à Nantes](/blog/demenagement-pas-cher-nantes/demenagement-pas-cher-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement pas cher 2025](/blog/demenagement-pas-cher-nantes/prix-demenagement-pas-cher-nantes-2025) et [astuces pour réduire les coûts](/blog/satellites/astuces-reduire-cout-demenagement-nantes).
+Pour aller plus loin, explorez notre [guide déménagement pas cher à Nantes](/blog/demenagement-pas-cher-nantes/demenagement-pas-cher-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement pas cher 2025](/blog/demenagement-pas-cher-nantes/prix-demenagement-pas-cher-nantes-2025) et [astuces pour réduire les coûts](/blog/demenagement-pas-cher-nantes/astuces-reduire-cout-demenagement-nantes).
 
 ## Questions Fréquentes
 

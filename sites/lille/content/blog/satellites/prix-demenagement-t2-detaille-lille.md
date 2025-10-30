@@ -202,7 +202,7 @@ Facteurs variation : **Vieux-Lille +150-320€** (accès +150€ + monte-meuble 
 
 Prix T2 représente budget significatif (1 000€ = 1,5× loyer mensuel Wazemmes). Optimisez en sollicitant 3-4 devis (écart 150-300€ fréquent), choisissant formule adaptée (économique si temps disponible = -250€), déménageant basse saison (février vs juillet = -80-120€), évitant Vieux-Lille si possible (surcoût +15-20%). Couples lillois mobiles (changement logement tous 2-3 ans) : maîtriser ces prix optimise budget global mobilité.
 
-Consultez notre [guide prix déménagement Lille](/blog/prix-demenagement-lille/prix-demenagement-lille-guide), notre [article prix selon volume](/blog/demenageur-lille/prix-demenageur-lille-2025-volume) et notre [comparatif formules](/blog/satellites/formule-economique-cle-en-main-lille).
+Consultez notre [guide prix déménagement Lille](/blog/prix-demenagement-lille/prix-demenagement-lille-guide), notre [article prix selon volume](/blog/demenageur-lille/prix-demenageur-lille-2025-volume) et notre [comparatif formules](/blog/demenageur-lille/formule-economique-cle-en-main-lille).
 
 
 

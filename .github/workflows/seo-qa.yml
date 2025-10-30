@@ -1,0 +1,42 @@
+name: SEO QA
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  seo-qa:
+    name: SEO Quality Assurance
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run SEO QA
+        run: npm run qa:seo
+        env:
+          # SITE_URL non requis pour QA (checks structure code uniquement)
+          NODE_ENV: test
+
+      - name: QA Summary
+        if: always()
+        run: |
+          echo "## 📊 SEO QA Results" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "✅ Pipeline SEO QA exécuté" >> $GITHUB_STEP_SUMMARY
+          echo "- Structure \`<head>\` vérifiée" >> $GITHUB_STEP_SUMMARY
+          echo "- Années obsolètes scannées" >> $GITHUB_STEP_SUMMARY
+          echo "- BreadcrumbList JSON-LD vérifié" >> $GITHUB_STEP_SUMMARY
+

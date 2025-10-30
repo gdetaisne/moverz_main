@@ -42,7 +42,7 @@ Les déménagements depuis Bordeaux nécessitent généralement un transit par l
 
 Le port de Marseille, plus éloigné mais mieux connecté, propose des liaisons vers Vancouver et Halifax. Cette option, particulièrement adaptée aux déménagements vers la côte ouest, nécessite un transport terrestre supplémentaire depuis Bordeaux. Les coûts de transit, généralement inclus dans les tarifs, peuvent varier selon la distance et les contraintes logistiques.
 
-## Les [formalités douanières](/blog/demenagement-international-bordeaux/formalites-douanieres-demenagement-international-bordeaux) : anticiper les démarches
+## Les [formalités douanières](/blog/international/formalites-douanieres-demenagement-international) : anticiper les démarches
 
 Les déménagements vers le Canada nécessitent des formalités douanières complexes qu'il faut anticiper pour éviter les retards. Les douanes canadiennes (CBSA) exigent une déclaration détaillée des biens avec leurs valeurs en dollars canadiens. Cette déclaration, effectuée avant l'arrivée des biens, permet de bénéficier de la franchise douanière et d'éviter les droits de douane.
 

@@ -217,7 +217,7 @@ Les sources gratuites Nantes (Franprix Beaulieu gérant autorise soirs 18-20h, C
 Notre recommandation finale Nantes emballage : **DIY partiel optimal** (cartons gratuits + emballage résistant vêtements/livres soi-même économie 120-200€, déléguez vaisselle/électronique fragiles pros 80-120€ = compromis économie 80-150€ + sécurité), **timing 4-6 semaines** récupération progressive (vs rush 1-2 sem. = cartons payants 60-120€ + stress), **techniques méthodiques** (papier journal gratuit vaisselle, cartons renforcés livres <20 kg, protections mobilier couvertures/draps, électronique cartons origine/bulles = taux casse 3-5% équivalent pros vs hâte 10-15%), et **inventaires détaillés** (étiquetage pièces/priorités, photos fragiles, comptage cartons = déchargements organisation vs recherches 30-90 min. chaos).
 
 
-Pour aller plus loin, explorez notre [guide déménagement pas cher à Nantes](/blog/demenagement-pas-cher-nantes/demenagement-pas-cher-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement pas cher 2025](/blog/demenagement-pas-cher-nantes/prix-demenagement-pas-cher-nantes-2025) et [astuces pour réduire les coûts](/blog/satellites/astuces-reduire-cout-demenagement-nantes).
+Pour aller plus loin, explorez notre [guide déménagement pas cher à Nantes](/blog/demenagement-pas-cher-nantes/demenagement-pas-cher-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement pas cher 2025](/blog/demenagement-pas-cher-nantes/prix-demenagement-pas-cher-nantes-2025) et [astuces pour réduire les coûts](/blog/demenagement-pas-cher-nantes/astuces-reduire-cout-demenagement-nantes).
 
 ## Questions Fréquentes
 

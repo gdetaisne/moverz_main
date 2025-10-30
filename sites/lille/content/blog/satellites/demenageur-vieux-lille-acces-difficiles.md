@@ -286,7 +286,7 @@ Les contraintes spécifiques : rues pavées étroites 3-5m (Rue de la Monnaie 3,
 
 Le monte-meuble accélère le déménagement Vieux-Lille de 30-40% (7-9h vs 10-12h portage manuel) et sécurise les gros meubles (canapés, armoires normandes, frigos américains) ne passant pas escaliers étroits. Facturation 150-400€ selon hauteur (2ème-5ème étage). Visite technique gratuite détermine besoin réel : déménageur mesure cage escaliers, évalue passages, vous informe avant signature devis (pas de surprise jour J).
 
-Consultez notre [guide expert déménageurs Lille](/blog/demenageur-lille/demenageur-lille-expert), notre [article monte-meuble](/blog/demenageur-lille/demenageur-monte-meuble-lille-quand-necessaire) et notre [guide autorisation stationnement](/blog/satellites/autorisation-stationnement-demenagement-lille) pour maîtriser toutes les contraintes Centre historique lillois.
+Consultez notre [guide expert déménageurs Lille](/blog/demenageur-lille/demenageur-lille-expert), notre [article monte-meuble](/blog/demenageur-lille/demenageur-monte-meuble-lille-quand-necessaire) et notre [guide autorisation stationnement](/blog/demenageur-lille/autorisation-stationnement-demenagement-lille) pour maîtriser toutes les contraintes Centre historique lillois.
 
 
 

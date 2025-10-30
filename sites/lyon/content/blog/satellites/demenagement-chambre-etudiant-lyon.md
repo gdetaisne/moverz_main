@@ -113,7 +113,7 @@ Ce guide détaille solutions déménagement étudiant Lyon (pro 150-250€ vs DI
 
 Déménagement chambre étudiant Lyon (170 000 étudiants, pic juin-sept, CROUS/résidences Guillotière/Jean Macé/Villeurbanne) coûte 150-250€ pro (camionnette + manutentionnaire 2-3h) ou 80-120€ DIY location camionnette (45-70€/j + essence, aide amis). Mutualisation 2-3 étudiants : 30-50€/personne (économie 50-90€ vs solo). Volume chambre : lit 90cm, bureau, étagères, 15-25 cartons (6-8m³).
 
-Économiser : cartons gratuits supermarchés (20-60€), déménager semaine (-15-20%), éviter pic 25 juin-5 juil (-30-60€, disponibilités +), aides FSL 150-500€ + CAF 100-300€. Stockage été : box 1-3m² 55-120€/mois si retour sept. Consultez [prix petit volume](/blog/satellites/prix-petit-demenagement-lyon), [transport meubles](/blog/satellites/transport-quelques-meubles-lyon), [stockage](/blog/garde-meuble-lyon/garde-meuble-etudiant-lyon-pas-cher). Bonne rentrée !
+Économiser : cartons gratuits supermarchés (20-60€), déménager semaine (-15-20%), éviter pic 25 juin-5 juil (-30-60€, disponibilités +), aides FSL 150-500€ + CAF 100-300€. Stockage été : box 1-3m² 55-120€/mois si retour sept. Consultez [prix petit volume](/blog/demenagement-petit-volume-lyon/prix-petit-demenagement-lyon), [transport meubles](/blog/demenagement-petit-volume-lyon/transport-quelques-meubles-lyon), [stockage](/blog/garde-meuble-lyon/garde-meuble-etudiant-lyon-pas-cher). Bonne rentrée !
 
 ---
 

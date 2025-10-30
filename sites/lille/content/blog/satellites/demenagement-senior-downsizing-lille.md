@@ -216,7 +216,7 @@ Spécificités prestation seniors : rythme lent 8-12h (vs standard 6-8h, pauses 
 
 1 200-1 800 nouveaux seniors/an résidences Lille dont 70-80% proviennent maisons individuelles périphérie (Lomme, Lambersart, Saint-André) nécessitant tri massif 60-80% possessions. Tri émotionnel difficile (40 ans meubles familiaux, souvenirs enfants/petits-enfants, objets conjoint défunt) nécessite accompagnement spécialisé bienveillance vs déménagement standard 2h tri suffisant jeunes actifs.
 
-Consultez notre [guide petit déménagement Lille](/blog/petit-demenagement-lille/petit-demenagement-lille-studio-t1), notre [guide déménageur Lille](/blog/demenageur-lille/demenageur-lille-expert), notre [article tri déménagement](/blog/satellites/desencombrement-avant-demenagement-economie) et notre [guide garde-meuble](/blog/garde-meuble-lille/garde-meuble-lille-guide).
+Consultez notre [guide petit déménagement Lille](/blog/petit-demenagement-lille/petit-demenagement-lille-studio-t1), notre [guide déménageur Lille](/blog/demenageur-lille/demenageur-lille-expert), notre [article tri déménagement](/blog/demenagement-pas-cher-lille/desencombrement-avant-demenagement-economie) et notre [guide garde-meuble](/blog/garde-meuble-lille/garde-meuble-lille-guide).
 
 
 

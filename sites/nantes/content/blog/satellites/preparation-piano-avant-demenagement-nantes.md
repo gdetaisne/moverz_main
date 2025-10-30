@@ -158,7 +158,7 @@ Les erreurs fréquentes éviter (accordage pré-déménagement J-3 inutile 90-12
 Notre recommandation finale Nantes : Suivez checklist Alliance LG/AGS (PDF envoyé confirmation devis, 8 actions J-7 à J-1 timing précis), photographiez piano 15-20 photos horodatées avant/après (preuves assurances litiges 20-30% sinistres), présence obligatoire jour J (surveillance emballages, remises clés, validation états), et inspectez réception immédiate présence porteurs (notez bordereau livraison dégâts avant signature "bon pour accord" vs réclamations post-départ refusées assureurs 60-80% cas délais dépassés).
 
 
-Pour aller plus loin, explorez notre [guide déménagement piano à Nantes](/blog/demenagement-piano-nantes/demenagement-piano-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement piano](/blog/demenagement-piano-nantes/demenagement-piano-nantes-prix) et [déménagement piano à queue](/blog/satellites/demenagement-piano-queue-nantes).
+Pour aller plus loin, explorez notre [guide déménagement piano à Nantes](/blog/demenagement-piano-nantes/demenagement-piano-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement piano](/blog/demenagement-piano-nantes/demenagement-piano-nantes-prix) et [déménagement piano à queue](/blog/demenagement-piano-nantes/demenagement-piano-queue-nantes).
 
 ## Questions Fréquentes
 

@@ -110,7 +110,7 @@ Le timing optimal : démarrez 2-3 semaines avant votre déménagement, récupér
 Nos recommandations finales Nantes : privilégiez Leclerc Paridis (accessible centre, parking, stock élevé) et Carrefour Atlantis (volume maximal si véhicule), complétez avec pharmacies Graslin/Bouffay (propreté garantie), et guettez Facebook "Nantes Gratuit" (opportunités 30-50 cartons homogènes). Refusez cartons humides/sales/déchirés (pas d'économie si vos affaires abîmées), et acceptez la limite tailles dépareillées (perte 15-20% espace camion vs uniformité neufs, mais économie 60-90€ compense largement).
 
 
-Pour aller plus loin, explorez notre [guide déménagement pas cher à Nantes](/blog/demenagement-pas-cher-nantes/demenagement-pas-cher-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement pas cher 2025](/blog/demenagement-pas-cher-nantes/prix-demenagement-pas-cher-nantes-2025) et [astuces pour réduire les coûts](/blog/satellites/astuces-reduire-cout-demenagement-nantes).
+Pour aller plus loin, explorez notre [guide déménagement pas cher à Nantes](/blog/demenagement-pas-cher-nantes/demenagement-pas-cher-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement pas cher 2025](/blog/demenagement-pas-cher-nantes/prix-demenagement-pas-cher-nantes-2025) et [astuces pour réduire les coûts](/blog/demenagement-pas-cher-nantes/astuces-reduire-cout-demenagement-nantes).
 
 ## Questions Fréquentes
 

@@ -19,7 +19,7 @@ L'**aide déménagement personnes âgées Lille** combine services sociaux gratu
 
 À Lille, les **seniors déménageant** (1 200-1 800/an estimés vers résidences services/EHPAD selon structures 25-30 métropole accueillant) bénéficient **réseau aide dédié** : **CLIC Lille 4 antennes** (Lille-Centre mairie CCAS, Lomme, Hellemmes, Wazemmes, couverture métropole, 600-800 seniors accompagnés déménagement/an gratuitement selon estimations), **CCAS** (Centres Communaux Action Sociale 10 communes métropole, assistantes sociales orientent CLIC + aides financières FSL Fonds Solidarité Logement), **associations** (Petits Frères Pauvres 200 bénévoles Lille aident 300-400 seniors isolés/an, Croix Rouge, ADMR périphérie), **déménageurs spécialisés** (Lefebvre/Bretons formules seniors 800-1 200€, 15-20 PME métropole proposent prestations adaptées). Les **aides financières seniors précaires** : FSL Fonds Solidarité Logement (conseil départemental Nord, 300-1 000€ aide déménagement RSA/ASPA éligibles, dossier CCAS), APL déménagement (200-500€ CAF si changement logement améliore situation), réduction tarifs associations (Emmaüs enlèvement dons gratuit 40-60m³ meubles restants économise 300-500€ vs location benne).
 
-Ce guide détaille aide déménagement seniors Lille : CLIC accompagnement gratuit, déménageurs adaptés, associations, aides financières, services spécifiques rythme/émotionnel. Consultez notre [guide senior downsizing Lille](/blog/satellites/demenagement-senior-downsizing-lille).
+Ce guide détaille aide déménagement seniors Lille : CLIC accompagnement gratuit, déménageurs adaptés, associations, aides financières, services spécifiques rythme/émotionnel. Consultez notre [guide senior downsizing Lille](/blog/petit-demenagement-lille/demenagement-senior-downsizing-lille).
 
 ## Services Sociaux Gratuits Seniors
 
@@ -223,7 +223,7 @@ Services spécifiques : installation complète (lits faits vs standard meubles p
 
 1 200-1 800 seniors déménagent/an Lille vers résidences (25-30 structures métropole accueillant nouveaux), 70-80% proviennent maisons périphérie Lomme/Lambersart/Saint-André nécessitant tri massif 60-80%. CLIC 600-800 accompagnements gratuits/an. Déménageurs seniors représentent 8-12% activité totale acteurs Lille (niche spécialisée vs 88-92% standards jeunes/familles).
 
-Consultez notre [guide senior downsizing Lille](/blog/satellites/demenagement-senior-downsizing-lille), notre [guide aide déménagement](/blog/satellites/aide-demenagement-particuliers-lille), notre [guide aides financières](/blog/satellites/aides-financieres-demenagement-lille) et notre [guide déménageur Lille](/blog/demenageur-lille/demenageur-lille-expert).
+Consultez notre [guide senior downsizing Lille](/blog/petit-demenagement-lille/demenagement-senior-downsizing-lille), notre [guide aide déménagement](/blog/aide-demenagement-lille/aide-demenagement-particuliers-lille), notre [guide aides financières](/blog/demenagement-pas-cher-lille/aides-financieres-demenagement-lille) et notre [guide déménageur Lille](/blog/demenageur-lille/demenageur-lille-expert).
 
 
 

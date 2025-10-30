@@ -1,10 +1,9 @@
-import type { Metadata } from 'next';
+import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Politique de confidentialité | Moverz Marseille",
+  title: "Politique de confidentialité | Moverz",
   description:
     "Politique RGPD de Moverz (GSLV) : données collectées, finalités, durées (60 jours), droits et sous-traitants.",
-  alternates: { canonical: "https://devis-demenageur-marseille.fr/politique-confidentialite" },
 };
 
 export default function PrivacyPage() {
@@ -119,5 +118,3 @@ export default function PrivacyPage() {
     </main>
   );
 }
-
-

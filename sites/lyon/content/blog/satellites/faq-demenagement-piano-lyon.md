@@ -27,11 +27,11 @@ Cette FAQ compile les 15 questions les plus fréquentes sur le déménagement de
 
 ### 2. Prix piano queue Lyon ?
 
-**Demi-queue (150-210 cm) : 600-1200€. Queue concert (210-275 cm) : 1200-2500€.** Demi-queue rez-de-chaussée : 600-900€. Avec 3ème étage : 900-1200€. Queue concert salle Lyon (Auditorium, Opéra) : 1400-2000€. Démontage pieds obligatoire (+150-300€), équipe 4-5 personnes (+200-400€ vs droit), assurance renforcée (+150-300€ valeur 30 000-150 000€). [Détails →](/blog/satellites/prix-demenagement-piano-queue-lyon)
+**Demi-queue (150-210 cm) : 600-1200€. Queue concert (210-275 cm) : 1200-2500€.** Demi-queue rez-de-chaussée : 600-900€. Avec 3ème étage : 900-1200€. Queue concert salle Lyon (Auditorium, Opéra) : 1400-2000€. Démontage pieds obligatoire (+150-300€), équipe 4-5 personnes (+200-400€ vs droit), assurance renforcée (+150-300€ valeur 30 000-150 000€). [Détails →](/blog/demenagement-piano-lyon/prix-demenagement-piano-queue-lyon)
 
 ### 3. Combien coûte monte-meuble piano Lyon ?
 
-**Monte-meuble piano Lyon : 200-350€ (location + opérateur CACES).** Obligatoire/recommandé : 4ème+ étage, escaliers <95 cm largeur, Croix-Rousse pentes raides. Durée : 30-45 min (vs portage 4 étages 2-4h, +320-480€). Impossible : Vieux-Lyon rues 1,5-2 m (camion-nacelle 4,50 m largeur nécessaire), immeubles sans fenêtre accessible. Alternative portage si monte-meuble impossible. [Détails →](/blog/satellites/monte-meuble-piano-lyon)
+**Monte-meuble piano Lyon : 200-350€ (location + opérateur CACES).** Obligatoire/recommandé : 4ème+ étage, escaliers <95 cm largeur, Croix-Rousse pentes raides. Durée : 30-45 min (vs portage 4 étages 2-4h, +320-480€). Impossible : Vieux-Lyon rues 1,5-2 m (camion-nacelle 4,50 m largeur nécessaire), immeubles sans fenêtre accessible. Alternative portage si monte-meuble impossible. [Détails →](/blog/demenagement-piano-lyon/monte-meuble-piano-lyon)
 
 ## Pratique
 
@@ -49,7 +49,7 @@ Cette FAQ compile les 15 questions les plus fréquentes sur le déménagement de
 
 ### 7. Accordage après déménagement obligatoire ?
 
-**Oui obligatoire 48-72h après (vibrations transport désaccordent toujours piano).** Accordeur Lyon : 80-150€. Annuaire ANRAT, Conservatoire Lyon liste (04 78 95 21 21). Délai 48-72h = stabilisation température. 2ème accordage 3 mois après recommandé. Sans accord >1 semaine = aggravation désaccordage, fatigue mécanique. [Détails →](/blog/satellites/accordage-piano-apres-demenagement-lyon)
+**Oui obligatoire 48-72h après (vibrations transport désaccordent toujours piano).** Accordeur Lyon : 80-150€. Annuaire ANRAT, Conservatoire Lyon liste (04 78 95 21 21). Délai 48-72h = stabilisation température. 2ème accordage 3 mois après recommandé. Sans accord >1 semaine = aggravation désaccordage, fatigue mécanique. [Détails →](/blog/demenagement-piano-lyon/accordage-piano-apres-demenagement-lyon)
 
 ## Quartiers Lyon
 
@@ -69,21 +69,21 @@ Cette FAQ compile les 15 questions les plus fréquentes sur le déménagement de
 
 ### 11. Déménageur spécialiste piano Lyon qui ?
 
-**S.I.E.T Lyon (3ème, 4,2/5, 84 avis, propose piano sur demande), Déménagements Lugnier (5,0/5, spécialiste précieux), Citius (premium). Spécialistes exclusifs : contacter Conservatoire Lyon (04 78 95 21 21) recommandations, Feeling Musique, Pianos Hanlet.** Critères : expérience 50+ pianos/an, équipement adapté (chariots 400 kg, sangles 10 cm, housses épaisses), assurance valeur déclarée, visite technique gratuite. Demander 3 devis, vérifier références. [Guide choix →](/blog/satellites/demenageur-specialiste-piano-lyon)
+**S.I.E.T Lyon (3ème, 4,2/5, 84 avis, propose piano sur demande), Déménagements Lugnier (5,0/5, spécialiste précieux), Citius (premium). Spécialistes exclusifs : contacter Conservatoire Lyon (04 78 95 21 21) recommandations, Feeling Musique, Pianos Hanlet.** Critères : expérience 50+ pianos/an, équipement adapté (chariots 400 kg, sangles 10 cm, housses épaisses), assurance valeur déclarée, visite technique gratuite. Demander 3 devis, vérifier références. [Guide choix →](/blog/demenagement-piano-lyon/demenageur-specialiste-piano-lyon)
 
 ### 12. Assurance piano déménagement ?
 
-**Assurance RC pro standard insuffisante piano >8000€. Assurance valeur déclarée optionnelle : 2-5% valeur (piano 10 000€ = 200-500€), couvre casse/vol/désaccordage majeur.** Indispensable : pianos >15 000€ (Steinway, queue), anciens/rares, ou quartiers difficiles Lyon (Vieux-Lyon risque chocs). Vérifier proposition devis déménageur. [Détails →](/blog/satellites/assurance-demenagement-piano)
+**Assurance RC pro standard insuffisante piano >8000€. Assurance valeur déclarée optionnelle : 2-5% valeur (piano 10 000€ = 200-500€), couvre casse/vol/désaccordage majeur.** Indispensable : pianos >15 000€ (Steinway, queue), anciens/rares, ou quartiers difficiles Lyon (Vieux-Lyon risque chocs). Vérifier proposition devis déménageur. [Détails →](/blog/demenagement-piano-lyon/assurance-demenagement-piano)
 
 ## Technique
 
 ### 13. Matériel nécessaire piano ?
 
-**Matériel obligatoire : chariot piano 400 kg (plateau 160 cm, roulettes 10 cm), sangles 10-15 cm largeur (charge 300 kg), housse matelassée 5-8 mm épaisseur, patins glisse (protection parquets), camion suspension amortie, rampe chargement, sangles murales calage.** Monte-meuble si 4ème+ (+200-350€). Matériel standard (chariots 200 kg, sangles 5 cm) = inadapté dangereux. Déménageurs spécialisés Lyon possèdent systématiquement. Vérifier visite technique. [Détails matériel →](/blog/satellites/materiel-demenagement-piano)
+**Matériel obligatoire : chariot piano 400 kg (plateau 160 cm, roulettes 10 cm), sangles 10-15 cm largeur (charge 300 kg), housse matelassée 5-8 mm épaisseur, patins glisse (protection parquets), camion suspension amortie, rampe chargement, sangles murales calage.** Monte-meuble si 4ème+ (+200-350€). Matériel standard (chariots 200 kg, sangles 5 cm) = inadapté dangereux. Déménageurs spécialisés Lyon possèdent systématiquement. Vérifier visite technique. [Détails matériel →](/blog/demenagement-piano-lyon/materiel-demenagement-piano)
 
 ### 14. Étapes déménagement piano ?
 
-**6 étapes : 1) Évaluation technique (visite Lyon, accès, devis), 2) Protection (housse, sanglage, blocage mécanique), 3) Chargement (chariot, portage/monte-meuble, calage camion), 4) Transport (conduite douce), 5) Déchargement/Installation, 6) Accordage 48-72h après.** Durée : 2-3h piano droit local, 4-6h avec étages/difficultés, 6-8h queue. [Process détaillé →](/blog/satellites/etapes-transport-piano-lyon)
+**6 étapes : 1) Évaluation technique (visite Lyon, accès, devis), 2) Protection (housse, sanglage, blocage mécanique), 3) Chargement (chariot, portage/monte-meuble, calage camion), 4) Transport (conduite douce), 5) Déchargement/Installation, 6) Accordage 48-72h après.** Durée : 2-3h piano droit local, 4-6h avec étages/difficultés, 6-8h queue. [Process détaillé →](/blog/demenagement-piano-lyon/etapes-transport-piano-lyon)
 
 ### 15. Combien temps transport piano Lyon ?
 
@@ -97,7 +97,7 @@ Cette FAQ déménagement piano Lyon 2025 répond aux 15 questions essentielles c
 
 Les 200-600 kg pianos nécessitent expertise professionnelle (équipe formée, équipement adapté, assurance), DIY fortement déconseillé (risque blessure grave + casse). Les quartiers anciens Lyon (Vieux-Lyon, Croix-Rousse, Presqu'île) imposent surcoûts (escaliers étroits raides, portage extrême) vs quartiers modernes (Confluence, Villeurbanne ascenseurs 1000+ kg, accès faciles).
 
-Pour approfondir : [prix droit](/blog/demenagement-piano-lyon/prix-demenagement-piano-droit-lyon), [prix queue](/blog/satellites/prix-demenagement-piano-queue-lyon), [monte-meuble](/blog/satellites/monte-meuble-piano-lyon), [spécialistes](/blog/satellites/demenageur-specialiste-piano-lyon), [assurance](/blog/satellites/assurance-demenagement-piano), [accordage](/blog/satellites/accordage-piano-apres-demenagement-lyon), [guide complet](/blog/demenagement-piano-lyon/demenagement-piano-lyon-guide-complet). Bon déménagement instrument !
+Pour approfondir : [prix droit](/blog/demenagement-piano-lyon/prix-demenagement-piano-droit-lyon), [prix queue](/blog/demenagement-piano-lyon/prix-demenagement-piano-queue-lyon), [monte-meuble](/blog/demenagement-piano-lyon/monte-meuble-piano-lyon), [spécialistes](/blog/demenagement-piano-lyon/demenageur-specialiste-piano-lyon), [assurance](/blog/demenagement-piano-lyon/assurance-demenagement-piano), [accordage](/blog/demenagement-piano-lyon/accordage-piano-apres-demenagement-lyon), [guide complet](/blog/demenagement-piano-lyon/demenagement-piano-lyon-guide-complet). Bon déménagement instrument !
 
 ---
 

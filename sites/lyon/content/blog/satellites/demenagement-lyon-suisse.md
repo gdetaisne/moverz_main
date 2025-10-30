@@ -223,7 +223,7 @@ Déménager de Lyon vers la Suisse (Genève 150 km, Zurich 450 km) combine proxi
 
 La franchise douanière exonère les biens personnels usagés (>6 mois usage France) de droits et TVA suisse, mais tout objet neuf génère taxation (8,1% + droits). Le passage frontière (Bardonnex, Valserine) impose contrôle systématique (30 min-2h), avec inspection physique possible. Privilégier un déménageur Lyon spécialisé Suisse (AGS, Allied, S.I.E.T) maîtrisant formalités et disposant d'un réseau partenaires Genève/Zurich garantit sérénité et conformité.
 
-Pour d'autres destinations internationales depuis Lyon (Italie, Allemagne, destinations lointaines), consultez [notre guide complet déménagement international Lyon](/blog/demenagement-international-lyon/demenagement-international-lyon-guide-complet). Explorez aussi [les prix détaillés international Lyon 2025](/blog/satellites/prix-demenagement-international-lyon) pour budgétiser précisément. Bon déménagement et bienvenue en Suisse !
+Pour d'autres destinations internationales depuis Lyon (Italie, Allemagne, destinations lointaines), consultez [notre guide complet déménagement international Lyon](/blog/demenagement-international-lyon/demenagement-international-lyon-guide-complet). Explorez aussi [les prix détaillés international Lyon 2025](/blog/demenagement-international-lyon/prix-demenagement-international-lyon) pour budgétiser précisément. Bon déménagement et bienvenue en Suisse !
 
 ---
 

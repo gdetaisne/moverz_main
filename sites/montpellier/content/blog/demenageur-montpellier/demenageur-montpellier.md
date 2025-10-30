@@ -24,13 +24,13 @@ Tout savoir sur les déménageurs professionnels à Montpellier :
 **Choix et Comparatif :**
 - [Meilleur déménageur Montpellier : critères](/blog/demenageur-montpellier/meilleur-demenageur-montpellier-criteres) - Comment choisir, licence, avis
 - [Avis déménageurs Montpellier Google](/blog/demenageur-montpellier/avis-demenageurs-montpellier-google) - Plateformes fiables, témoignages
-- [Déménageur pas cher fiable Montpellier](/blog/satellites/demenageur-pas-cher-fiable-montpellier) - Budget serré, qualité préservée
+- [Déménageur pas cher fiable Montpellier](/blog/demenageur-montpellier/demenageur-pas-cher-fiable-montpellier) - Budget serré, qualité préservée
 - [Devis déménagement Montpellier : comparer](/blog/demenageur-montpellier/devis-demenagement-montpellier-comparer) - 3-5 devis gratuits
 
 **Services et Garanties :**
 - [Assurance déménageur Montpellier couverture](/blog/demenageur-montpellier/assurance-demenageur-montpellier-couverture) - RC Pro, garanties, indemnisation
 - [Déménageur agréé Montpellier assurance](/blog/demenageur-montpellier/demenageur-agree-montpellier-assurance) - Licences officielles, certifications
-- [Contrat déménagement : vérifier clauses](/blog/satellites/contrat-demenagement-verifier-clauses) - Points d'attention juridiques
+- [Contrat déménagement : vérifier clauses](/blog/demenageur-montpellier/contrat-demenagement-verifier-clauses) - Points d'attention juridiques
 
 **Formules et Spécialités :**
 - [Déménagement clé en main Montpellier prix](/blog/demenageur-montpellier/demenagement-cle-en-main-montpellier-prix) - Prestation complète, tarifs

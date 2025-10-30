@@ -225,19 +225,3 @@ Presque, mais avec quelques restrictions légales et de bon sens. Sont interdits
 
 En période normale, vous pouvez généralement obtenir un box sous 24 à 48 heures. Cependant, à la fin de l'été (période de pointe pour les déménagements étudiants) et en début d'été (saison des déménagements familiaux), les disponibilités se réduisent, notamment pour les tailles intermédiaires (8-12 m³). Si vous connaissez vos dates de déménagement ou de travaux à l'avance, réservez 2 à 3 semaines avant pour garantir votre choix de centre et de taille.
 
-## 📚 Services de Déménagement Connexes
-
-**Déménagement complet :**
-- [Déménageur professionnel Marseille](/blog/demenagement-marseille/demenageur-marseille) - Toutes formules
-- [Prix déménagement Marseille](/blog/demenagement-marseille/prix-demenagement-marseille) - Budgets et tarifs
-- [Déménagement pas cher](/blog/demenagement-marseille/demenagement-marseille-pas-cher) - Solutions économiques
-
-**Services spécialisés :**
-- [Déménagement entreprise](/blog/demenagement-marseille/demenagement-d-entreprise-marseille) - Stockage archives professionnelles
-- [Déménagement international](/blog/demenagement-marseille/demenagement-international-marseille) - Garde-meuble avant expatriation
-- [Petit déménagement](/blog/demenagement-marseille/petit-demenagement-marseille) - Studios, petits volumes
-
-**Prix garde-meuble :**
-- [Prix garde-meuble Marseille 2025](/blog/satellites/prix-garde-meuble-marseille-2025) - Tarifs détaillés
-- [Self-stockage vs garde-meuble traditionnel](/blog/satellites/self-stockage-vs-garde-meuble-traditionnel-marseille) - Comparatif
-

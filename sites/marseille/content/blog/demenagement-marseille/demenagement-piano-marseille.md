@@ -363,17 +363,3 @@ De la visite technique gratuite à l'installation finale dans votre nouveau loge
 
 Ne prenez aucun risque avec votre instrument. **Contactez-nous dès maintenant** pour un déménagement de piano réussi à Marseille !
 
-## 📚 Autres Services de Déménagement
-
-**Services complets :**
-- [Déménageur professionnel Marseille](/blog/demenagement-marseille/demenageur-marseille) - Toutes formules
-- [Déménagement entreprise](/blog/demenagement-marseille/demenagement-d-entreprise-marseille) - Conservatoires, écoles de musique
-- [Prix déménagement Marseille](/blog/demenagement-marseille/prix-demenagement-marseille) - Budgets et tarifs
-
-**Solutions économiques :**
-- [Déménagement pas cher](/blog/demenagement-marseille/demenagement-marseille-pas-cher) - Astuces économies (hors piano)
-- [Aide au déménagement](/blog/demenagement-marseille/aide-au-demenagement-marseille) - Manutention ponctuelle
-
-**Stockage :**
-- [Garde-meuble Marseille](/blog/garde-meuble-marseille/garde-meuble-marseille-guide-complet) - Si stockage piano temporaire
-

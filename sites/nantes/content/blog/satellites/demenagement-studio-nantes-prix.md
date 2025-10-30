@@ -215,7 +215,7 @@ Les surcoûts quartiers Nantes (Centre Bouffay escaliers +80-180€ vs Île Nant
 Notre recommandation finale Nantes studios : Formule **standard 600-800€** optimal rapport confort/prix (cartons fournis évitent récupérations 4-6 sem., emballage vaisselle pros 1h évite casses 50-200€, démontages basiques inclus vs DIY risques visseries perdues 30-80€ rachats Ikea), timing **mai-juin ou octobre** (-15-25% = économies 100-200€ vs août +30-50% surcoûts), quartiers **Île de Nantes** (ascenseurs zéro surcoûts escaliers +80-150€ Centre), et comparaisons **3-5 devis** (Alliance LG 650€, Demidov 580€, Bretons 620€, petits locaux 480-550€ = économies 70-170€ vs accepter premier).
 
 
-Pour aller plus loin, explorez notre [guide petit déménagement à Nantes](/blog/petit-demenagement-nantes/petit-demenagement-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement T1](/blog/petit-demenagement-nantes/demenagement-t1-nantes-prix) et [déménager un meuble seul](/blog/satellites/demenagement-meuble-seul-nantes).
+Pour aller plus loin, explorez notre [guide petit déménagement à Nantes](/blog/petit-demenagement-nantes/petit-demenagement-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement T1](/blog/petit-demenagement-nantes/demenagement-t1-nantes-prix) et [déménager un meuble seul](/blog/petit-demenagement-nantes/demenagement-meuble-seul-nantes).
 
 ## Questions Fréquentes
 

@@ -1,10 +1,9 @@
-import type { Metadata } from 'next';
+import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Conditions Générales de Vente (CGV) | Moverz Marseille",
+  title: "Conditions Générales de Vente (CGV) | Moverz",
   description:
     "CGV Moverz (GSLV) — B2B uniquement: objet, processus, acompte mandataire, responsabilité, pénalités de retard.",
-  alternates: { canonical: "https://devis-demenageur-marseille.fr/cgv" },
 };
 
 export default function CGVPage() {
@@ -80,5 +79,3 @@ export default function CGVPage() {
     </main>
   );
 }
-
-

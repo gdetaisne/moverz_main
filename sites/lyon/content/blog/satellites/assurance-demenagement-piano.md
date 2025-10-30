@@ -97,7 +97,7 @@ Ce guide explique différence RC pro vs valeur déclarée, détaille couvertures
 
 L'assurance valeur déclarée piano (2-5% valeur, soit 200-2500€ selon instrument) couvre tous dommages déménagement (casse, fissures, désaccordage majeur, rayures, vol) quelle que soit cause, contrairement RC pro standard (faute prouvée uniquement). Indispensable pianos >8000€ (Yamaha U1/U3, Kawai K-300, tous pianos queue, anciens/rares) ou déménagements quartiers difficiles Lyon (Vieux-Lyon risque chocs escaliers raides, Croix-Rousse pentes). Exiger proposition assurance lors visite technique, comparer taux (2-5%), vérifier couvertures (expertise, montants garantis).
 
-Process réclamation : constat immédiat livraison (réserves bordereau + photos), expertise accordeur Lyon 24-48h (devis réparation), déclaration 48-72h, indemnisation 4-10 semaines. Souscrire avant déménagement (impossible après). Consultez [prix piano](/blog/demenagement-piano-lyon/prix-demenagement-piano-droit-lyon), [spécialistes](/blog/satellites/demenageur-specialiste-piano-lyon), [guide complet](/blog/demenagement-piano-lyon/demenagement-piano-lyon-guide-complet). Bonne protection !
+Process réclamation : constat immédiat livraison (réserves bordereau + photos), expertise accordeur Lyon 24-48h (devis réparation), déclaration 48-72h, indemnisation 4-10 semaines. Souscrire avant déménagement (impossible après). Consultez [prix piano](/blog/demenagement-piano-lyon/prix-demenagement-piano-droit-lyon), [spécialistes](/blog/demenagement-piano-lyon/demenageur-specialiste-piano-lyon), [guide complet](/blog/demenagement-piano-lyon/demenagement-piano-lyon-guide-complet). Bonne protection !
 
 ---
 

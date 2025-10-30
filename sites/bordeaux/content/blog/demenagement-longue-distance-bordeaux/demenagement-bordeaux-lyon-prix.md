@@ -16,7 +16,7 @@ featured: false
 
 # Déménagement Bordeaux–Lyon : prix et organisation
 
-Déménager de Bordeaux à Lyon constitue un trajet [longue distance](/blog/demenagement-entreprise-bordeaux/demenagement-entreprise-bordeaux-guide) de 500 kilomètres, nécessitant une organisation particulière et un budget adapté. Cette migration, souvent motivée par des opportunités professionnelles ou un changement de vie, présente des spécificités logistiques qu'il convient de maîtriser. Comprendre les enjeux de ce trajet vous permet d'optimiser votre budget et d'assurer la réussite de votre projet.
+Déménager de Bordeaux à Lyon constitue un trajet [longue distance](/blog/longue-distance/guide) de 500 kilomètres, nécessitant une organisation particulière et un budget adapté. Cette migration, souvent motivée par des opportunités professionnelles ou un changement de vie, présente des spécificités logistiques qu'il convient de maîtriser. Comprendre les enjeux de ce trajet vous permet d'optimiser votre budget et d'assurer la réussite de votre projet.
 
 ## Les tarifs selon le volume et les options
 
@@ -60,7 +60,7 @@ Pour un déménagement Bordeaux-Lyon, privilégiez les entreprises spécialisée
 
 Vérifiez que l'entreprise dispose des assurances nécessaires pour couvrir la valeur de vos biens pendant le transport. Les déménagements longue distance multiplient les risques de dommages, nécessitant des garanties adaptées. Demandez les certificats d'assurance et vérifiez les plafonds de couverture.
 
-## Les [aides financières](/blog/demenagement-etudiant-bordeaux/aide-financiere-demenagement-etudiant) disponibles
+## Les [aides financières](/blog/etudiant/aide-financiere-demenagement-etudiant) disponibles
 
 Les mutations professionnelles peuvent bénéficier d'aides financières spécifiques. Votre employeur peut participer aux frais de déménagement dans le cadre d'une mutation, généralement à hauteur de 25 à 40 % du coût total. Ces aides, bien que souvent modestes, peuvent contribuer à alléger votre budget.
 
@@ -86,7 +86,7 @@ Les déménageurs expérimentés maîtrisent ces contraintes et proposent des so
 
 Un déménagement Bordeaux-Lyon représente donc un projet d'envergure mais maîtrisable. En comprenant les spécificités du trajet, en choisissant les bonnes options et en préparant soigneusement votre projet, vous pouvez optimiser votre budget tout en assurant la réussite de votre déménagement.
 
-**Prêt pour votre déménagement Bordeaux-Lyon ?** [Obtenez votre devis personnalisé](/blog/demenagement-entreprise-bordeaux/demenagement-entreprise-bordeaux-guide) en quelques clics. Nos experts maîtrisent les contraintes de ce trajet et vous proposent des solutions adaptées.
+**Prêt pour votre déménagement Bordeaux-Lyon ?** [Obtenez votre devis personnalisé](/blog/devis/guide) en quelques clics. Nos experts maîtrisent les contraintes de ce trajet et vous proposent des solutions adaptées.
 
 ---
 

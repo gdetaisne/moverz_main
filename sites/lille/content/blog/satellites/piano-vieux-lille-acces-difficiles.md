@@ -179,7 +179,7 @@ Quartiers similaires difficultés : **Wazemmes** habitat ancien (escaliers 1,2-1
 
 Conseils propriétaires Vieux-Lille piano : **anticipation déménagement** (3-4 sem avant contactez spécialiste visite technique gratuite évalue faisabilité mesure escaliers/portes/rues, confirme coût 600-1 200€ selon contraintes vs refus cas impossible évite mauvaise surprise jour J), **dérogation ABF** si façade classée (demande 4 sem avant mairie DUSA évite retards, gratuit mais paperasse), **budget réaliste** 600-1 200€ Vieux-Lille (vs 250-450€ périphérie, ×2,4-4,8 ratio acceptez ou vendez piano sur place alternative).
 
-Consultez notre [guide déménagement piano Lille](/blog/demenagement-piano-lille/demenagement-piano-lille-prix), notre [guide monte-piano](/blog/satellites/monte-piano-specialiste-lille), notre [guide spécialistes](/blog/satellites/specialistes-piano-lille) et notre [guide assurance](/blog/satellites/assurance-piano-demenagement-lille).
+Consultez notre [guide déménagement piano Lille](/blog/demenagement-piano-lille/demenagement-piano-lille-prix), notre [guide monte-piano](/blog/demenagement-piano-lille/monte-piano-specialiste-lille), notre [guide spécialistes](/blog/demenagement-piano-lille/specialistes-piano-lille) et notre [guide assurance](/blog/demenagement-piano-lille/assurance-piano-demenagement-lille).
 
 
 

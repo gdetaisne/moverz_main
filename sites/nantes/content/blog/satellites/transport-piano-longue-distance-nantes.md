@@ -174,7 +174,7 @@ Les protections renforcées (housses 8-10 cm vs 5-8 cm locales absorbent vibrati
 Notre recommandation finale Nantes longues distances : AGS réseau national (camions dédiés Paris/Lyon bi-hebdo regroupés = économies 15-25%, bureaux destinations réceptions luthiers partenaires accordages, continuité vs Alliance LG sous-traite >400 km ruptures), flexibilité dates ±3-5j (économies 150-250€ vs urgences départs mercredis camions dédiés surcoûts), assurance ad valorem systématique (surprime 300€ piano 10k€ = sécurité vs générique 750€ catastrophique perte 9,25k€), et budgetez accordage J+28 destination 90-180€ (désaccordages -10 cents moyennes longues distances > -5 cents locales = obligatoire vs optionnel locaux).
 
 
-Pour aller plus loin, explorez notre [guide déménagement piano à Nantes](/blog/demenagement-piano-nantes/demenagement-piano-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement piano](/blog/demenagement-piano-nantes/demenagement-piano-nantes-prix) et [déménagement piano à queue](/blog/satellites/demenagement-piano-queue-nantes).
+Pour aller plus loin, explorez notre [guide déménagement piano à Nantes](/blog/demenagement-piano-nantes/demenagement-piano-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement piano](/blog/demenagement-piano-nantes/demenagement-piano-nantes-prix) et [déménagement piano à queue](/blog/demenagement-piano-nantes/demenagement-piano-queue-nantes).
 
 ## Questions Fréquentes
 
