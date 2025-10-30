@@ -97,8 +97,8 @@ export default function BlogPage() {
               <span className="text-sm font-medium text-white">Magazine Déménagement</span>
             </div>
 
-            <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight mb-6 bg-gradient-to-r from-white via-[#6bcfcf] to-white bg-clip-text text-transparent">
-              Guides Déménagement Rennes
+            <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight mb-6 text-white">
+              Guides Déménagement <span className="text-[#6bcfcf]">Rennes</span>
             </h1>
             <p className="text-xl md:text-2xl text-white/90 max-w-3xl mx-auto font-light">
               Conseils d'experts, astuces pratiques et guides complets pour un déménagement réussi
