@@ -134,6 +134,22 @@ export function getAllBlogPosts(): BlogPost[] {
         }
       }
 
+      // Détection automatique du type si non spécifié
+      let postType: 'pilier' | 'satellite' = data.type || 'satellite';
+      if (!data.type) {
+        // Si le dossier s'appelle "satellites", c'est un satellite
+        if (category === 'satellites') {
+          postType = 'satellite';
+        }
+        // Sinon si le fichier contient "guide-complet" ou "guide.md", c'est un pilier
+        else if (file.includes('guide-complet') || file.includes('guide.md') || data.featured === true) {
+          postType = 'pilier';
+        }
+      }
+
+      // Calculer word_count si non présent dans frontmatter
+      const wordCount = data.word_count || content.split(/\s+/).filter(word => word.length > 0).length;
+
       allPosts.push({
         slug: originalSlug,
         title: data.title,
@@ -141,10 +157,10 @@ export function getAllBlogPosts(): BlogPost[] {
         meta_description: data.meta_description,
         h1: data.h1,
         category: category,
-        type: data.type,
+        type: postType,
         keywords: keywordsArray,
-        word_count: data.word_count,
-        publish_date: data.publish_date || data.date || new Date().toISOString().split('T')[0],
+        word_count: wordCount,
+        publish_date: data.publish_date || data.date || data.publishedAt || new Date().toISOString().split('T')[0],
         featured: data.featured || false,
         content,
         // URLs optimisées

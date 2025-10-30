@@ -7,94 +7,64 @@ export const metadata: Metadata = {
   title: "Blog Déménagement Montpellier - Guides & Conseils Experts | Moverz",
   description: "Guides complets et conseils d'experts pour réussir votre déménagement à Montpellier. Astuces budget, checklist, comparatifs, conseils pratiques. Articles rédigés par des professionnels.",
   alternates: {
-    canonical: `https://www.devis-demenageur-montpellier.fr/blog`,
+    canonical: `https://devis-demenageur-montpellier.fr/blog`,
   },
   openGraph: {
     title: "Blog Déménagement Montpellier - Tous nos guides pratiques",
     description: "Conseils d'experts, guides détaillés et astuces pour déménager sereinement à Montpellier.",
-    url: `https://www.devis-demenageur-montpellier.fr/blog`,
+    url: `https://devis-demenageur-montpellier.fr/blog`,
     type: 'website',
   },
 }
 
+// Images catégories (Unsplash - libre de droits)
+const categoryImages: { [key: string]: string } = {
+  'prix': 'https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800&q=80',
+  'demenageur': 'https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=800&q=80',
+  'pas-cher': 'https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=800&q=80',
+  'garde-meuble': 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80',
+  'international': 'https://images.unsplash.com/photo-1488085061387-422e29b40080?w=800&q=80',
+  'piano': 'https://images.unsplash.com/photo-1520523839897-bd0b52f945a0?w=800&q=80',
+  'entreprise': 'https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80',
+  'petit': 'https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=800&q=80',
+  'location': 'https://images.unsplash.com/photo-1464219789935-c2d9d9aba644?w=800&q=80',
+  'aide': 'https://images.unsplash.com/photo-1531206715517-5c0ba140b2b8?w=800&q=80',
+  'default': 'https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?w=800&q=80',
+};
 
-// Catégories du blog
-const blogCategories = [
-  { 
-    slug: 'etudiant', 
-    name: 'Déménagement Étudiant', 
-    description: 'Guides et astuces pour déménager à petit budget quand on est étudiant',
-    icon: '🎓',
-    color: 'from-blue-500 to-cyan-500'
-  },
-  { 
-    slug: 'entreprise', 
-    name: 'Déménagement Entreprise', 
-    description: 'Solutions professionnelles pour déménager vos bureaux et locaux',
-    icon: '🏢',
-    color: 'from-purple-500 to-pink-500'
-  },
-  { 
-    slug: 'prix', 
-    name: 'Prix & Tarifs', 
-    description: 'Comprendre les prix et optimiser votre budget déménagement',
-    icon: '💰',
-    color: 'from-green-500 to-emerald-500'
-  },
-  { 
-    slug: 'devis', 
-    name: 'Devis Déménagement', 
-    description: 'Comment obtenir et comparer des devis de déménagement',
-    icon: '📋',
-    color: 'from-orange-500 to-red-500'
-  },
-  { 
-    slug: 'pas-cher', 
-    name: 'Déménagement Économique', 
-    description: 'Astuces pour déménager à moindre coût sans sacrifier la qualité',
-    icon: '💡',
-    color: 'from-yellow-500 to-orange-500'
-  },
-  { 
-    slug: 'urgent', 
-    name: 'Déménagement Urgent', 
-    description: 'Solutions rapides pour déménager dans l\'urgence',
-    icon: '⚡',
-    color: 'from-red-500 to-pink-500'
-  },
-  { 
-    slug: 'longue-distance', 
-    name: 'Longue Distance', 
-    description: 'Déménager de Montpellier vers toute la France',
-    icon: '🚛',
-    color: 'from-indigo-500 to-purple-500'
-  },
-  { 
-    slug: 'garde-meuble', 
-    name: 'Garde-Meuble', 
-    description: 'Solutions de stockage temporaire ou longue durée',
-    icon: '📦',
-    color: 'from-teal-500 to-cyan-500'
-  },
-  { 
-    slug: 'international', 
-    name: 'International', 
-    description: 'Déménager à l\'étranger depuis Montpellier',
-    icon: '🌍',
-    color: 'from-blue-600 to-indigo-600'
-  },
-  { 
-    slug: 'piano', 
-    name: 'Déménagement Piano', 
-    description: 'Transport sécurisé de pianos et instruments',
-    icon: '🎹',
-    color: 'from-pink-500 to-rose-500'
-  },
+// Images satellites variées
+const satelliteImages = [
+  'https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=400&q=80',
+  'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=400&q=80',
+  'https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=400&q=80',
+  'https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=400&q=80',
+  'https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=400&q=80',
+  'https://images.unsplash.com/photo-1600573472592-401b489a3cdc?w=400&q=80',
+  'https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?w=400&q=80',
+  'https://images.unsplash.com/photo-1600585152915-d208bec867a1?w=400&q=80',
+  'https://images.unsplash.com/photo-1600607687644-c7171b42498f?w=400&q=80',
 ];
+
+function getImageForPost(post: any, index: number) {
+  const slug = post.cleanSlug || post.slug || '';
+  
+  if (slug.includes('prix')) return categoryImages['prix'];
+  if (slug.includes('garde-meuble')) return categoryImages['garde-meuble'];
+  if (slug.includes('international')) return categoryImages['international'];
+  if (slug.includes('piano')) return categoryImages['piano'];
+  if (slug.includes('entreprise')) return categoryImages['entreprise'];
+  if (slug.includes('pas-cher') || slug.includes('economique')) return categoryImages['pas-cher'];
+  if (slug.includes('petit') || slug.includes('studio')) return categoryImages['petit'];
+  if (slug.includes('location') || slug.includes('camion')) return categoryImages['location'];
+  if (slug.includes('aide')) return categoryImages['aide'];
+  
+  return satelliteImages[index % satelliteImages.length];
+}
 
 export default function BlogPage() {
   const allPosts = getAllBlogPosts();
   const pilierPosts = getPilierPosts();
+  const satellitePosts = allPosts.filter(post => post.type === 'satellite').slice(0, 9);
 
   return (
     <main className="bg-hero min-h-screen">
@@ -102,7 +72,6 @@ export default function BlogPage() {
       
       {/* Hero Section */}
       <section className="relative overflow-hidden text-white">
-        {/* Image de fond avec overlay */}
         <div className="absolute inset-0">
           <img 
             src="https://images.unsplash.com/photo-1488998427799-e3362cec87c3?q=80&w=2000&auto=format&fit=crop"
@@ -113,7 +82,6 @@ export default function BlogPage() {
         </div>
 
         <div className="absolute inset-0 bg-grid-white/[0.02] bg-[size:60px_60px]" />
-        <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/5 to-transparent" />
         
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 md:py-24">
           <div className="text-center">
@@ -125,138 +93,262 @@ export default function BlogPage() {
             />
             
             <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white/10 backdrop-blur-sm border border-white/20 mb-6 mt-6">
-              <span className="text-2xl">📚</span>
-              <span className="text-sm font-medium text-white">Guides & Conseils</span>
+              <span className="text-2xl">✨</span>
+              <span className="text-sm font-medium text-white">Magazine Déménagement</span>
             </div>
 
-            <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold tracking-tight mb-6">
-              Blog Déménagement Montpellier
+            <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight mb-6 bg-gradient-to-r from-white via-[#6bcfcf] to-white bg-clip-text text-transparent">
+              Guides Déménagement Montpellier
             </h1>
-            <p className="text-lg md:text-xl text-white/90 max-w-3xl mx-auto">
-              Conseils, guides et astuces pour réussir votre déménagement à Montpellier. 
-              Que vous soyez étudiant, famille ou professionnel, trouvez tous les conseils dont vous avez besoin.
+            <p className="text-xl md:text-2xl text-white/90 max-w-3xl mx-auto font-light">
+              Conseils d'experts, astuces pratiques et guides complets pour un déménagement réussi
             </p>
           </div>
         </div>
       </section>
 
-      {/* Categories Navigation */}
-      <section className="section">
+      {/* Guides Pilier Premium avec Images */}
+      <section className="section pb-0">
         <div className="container">
-          <div className="text-center mb-12">
-            <h2 className="text-3xl font-bold text-white mb-4">
-              Explorez nos catégories
+          <div className="mb-16 text-center">
+            <span className="inline-block px-4 py-2 rounded-full bg-[#6bcfcf]/10 text-[#6bcfcf] text-sm font-semibold mb-4">
+              NOS MEILLEURS GUIDES
+            </span>
+            <h2 className="text-4xl md:text-5xl font-bold text-white mb-4">
+              📖 Guides Complets
             </h2>
-            <p className="text-white/80 max-w-2xl mx-auto">
-              Trouvez rapidement les conseils dont vous avez besoin selon votre situation
+            <p className="text-xl text-white/70 max-w-2xl mx-auto font-light">
+              Tout ce que vous devez savoir pour réussir votre déménagement
             </p>
           </div>
-          
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-4">
-            {blogCategories.map((category) => (
-              <Link
-                key={category.slug}
-                href={`/blog/${category.slug}`}
-                className="group"
-              >
-                <div className="relative overflow-hidden rounded-2xl p-6 h-full bg-white/5 backdrop-blur-sm border border-white/10 hover:bg-white/10 hover:border-white/20 transition-all duration-300">
-                  <div className={`absolute inset-0 bg-gradient-to-br ${category.color} opacity-0 group-hover:opacity-10 transition-opacity duration-300`}></div>
-                  <div className="relative">
-                    <div className="text-4xl mb-3">{category.icon}</div>
-                    <h3 className="text-lg font-semibold text-white mb-2 group-hover:text-[#6bcfcf] transition-colors">
-                      {category.name}
-                    </h3>
-                    <p className="text-sm text-white/70 line-clamp-2">
-                      {category.description}
-                    </p>
-                    <div className="mt-4 text-[#6bcfcf] text-sm font-medium group-hover:text-[#2b7a78] transition-colors">
-                      Voir les articles →
-                    </div>
-                  </div>
-                </div>
-              </Link>
-            ))}
-          </div>
-        </div>
-      </section>
 
-      {/* Articles Pilier */}
-      <section className="section bg-white/5">
-        <div className="container">
-          <div className="mb-12">
-            <h2 className="text-3xl font-bold text-white mb-8 text-center">
-              Guides Complets
-            </h2>
-            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-              {pilierPosts.map((post) => (
+          <div className="grid gap-12 max-w-6xl mx-auto">
+            {pilierPosts.slice(0, 3).map((post, index) => {
+              const image = getImageForPost(post, index);
+              const icons = ['🏆', '💰', '🎯'];
+              
+              return (
                 <Link 
                   key={post.slug} 
                   href={`/blog/${post.cleanCategory}/${post.cleanSlug}`}
                   className="group"
                 >
-                  <article className="bg-white/5 backdrop-blur-sm border border-white/10 rounded-2xl hover:bg-white/10 hover:border-white/20 transition-all duration-300 overflow-hidden h-full">
-                    <div className="p-6 h-full flex flex-col">
-                      <div className="mb-4">
-                        <span className="inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-[#6bcfcf] text-[#04163a]">
-                          📚 Guide Complet
-                        </span>
+                  <article className="relative overflow-hidden rounded-3xl bg-white/5 backdrop-blur-sm border border-white/10 hover:border-[#6bcfcf]/50 transition-all duration-500 hover:scale-[1.02] hover:shadow-2xl hover:shadow-[#6bcfcf]/20">
+                    <div className="grid md:grid-cols-[400px_1fr] gap-0">
+                      {/* Image */}
+                      <div className="relative h-64 md:h-auto overflow-hidden">
+                        <div className="absolute inset-0 bg-gradient-to-t from-[#04163a] via-transparent to-transparent z-10"></div>
+                        <img 
+                          src={image}
+                          alt={post.title}
+                          className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
+                        />
+                        <div className="absolute top-6 left-6 z-20">
+                          <span className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-[#6bcfcf] text-[#04163a] text-sm font-bold shadow-lg">
+                            <span className="text-xl">{icons[index]}</span>
+                            Guide #{index + 1}
+                          </span>
+                        </div>
                       </div>
-                      <h3 className="text-xl font-semibold text-white group-hover:text-[#6bcfcf] transition-colors mb-3">
-                        {post.title}
-                      </h3>
-                      <p className="text-white/80 mb-4 line-clamp-3 flex-grow">
-                        {post.meta_description}
-                      </p>
-                      <div className="flex items-center justify-between text-sm text-white/60 mt-auto">
-                        <span>{post.word_count} mots</span>
-                        <span>{new Date(post.publish_date).toLocaleDateString('fr-FR')}</span>
+                      
+                      {/* Contenu */}
+                      <div className="p-8 md:p-10 flex flex-col justify-center">
+                        <h3 className="text-2xl md:text-3xl font-bold text-white leading-tight mb-4 group-hover:text-[#6bcfcf] transition-colors">
+                          {post.title}
+                        </h3>
+                        
+                        <p className="text-lg text-white/70 leading-relaxed mb-6 line-clamp-2">
+                          {post.meta_description}
+                        </p>
+                        
+                        <div className="flex flex-wrap items-center gap-6 text-sm text-white/50 mb-6">
+                          <div className="flex items-center gap-2">
+                            <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
+                            </svg>
+                            <span>{(post.word_count || 0).toLocaleString()} mots</span>
+                          </div>
+                          <div className="flex items-center gap-2">
+                            <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
+                            </svg>
+                            <span>{Math.ceil((post.word_count || 0) / 200)} min</span>
+                          </div>
+                        </div>
+                        
+                        <div className="flex items-center gap-3 text-[#6bcfcf] font-semibold group-hover:gap-4 transition-all">
+                          Lire le guide complet
+                          <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
+                          </svg>
+                        </div>
                       </div>
                     </div>
                   </article>
                 </Link>
-              ))}
-            </div>
+              );
+            })}
           </div>
 
-        {/* Tous les articles */}
-        <div>
-          <h2 className="text-3xl font-bold text-white mb-8 text-center">
-            Tous nos Articles
-          </h2>
-          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {allPosts.map((post) => (
-              <Link 
-                key={post.slug} 
-                href={`/blog/${post.cleanCategory}/${post.cleanSlug}`}
-                className="group"
-              >
-                <article className="bg-white/5 backdrop-blur-sm border border-white/10 rounded-2xl hover:bg-white/10 hover:border-white/20 transition-all duration-300 overflow-hidden h-full">
-                  <div className="p-6 h-full flex flex-col">
-                    <div className="mb-3">
-                      <span className={`inline-flex items-center px-3 py-1 rounded-full text-sm font-medium ${
-                        post.type === 'pilier' 
-                          ? 'bg-[#6bcfcf] text-[#04163a]' 
-                          : 'bg-[#2b7a78] text-white'
-                      }`}>
-                        {post.type === 'pilier' ? '📚 Guide Complet' : '📝 Article'}
-                      </span>
-                    </div>
-                    <h3 className="text-lg font-semibold text-white group-hover:text-[#6bcfcf] transition-colors mb-2">
-                      {post.title}
-                    </h3>
-                    <p className="text-white/80 mb-4 text-sm line-clamp-2 flex-grow">
-                      {post.meta_description}
-                    </p>
-                    <div className="flex items-center justify-between text-xs text-white/60 mt-auto">
-                      <span>{post.word_count} mots</span>
-                      <span>{new Date(post.publish_date).toLocaleDateString('fr-FR')}</span>
-                    </div>
-                  </div>
-                </article>
-              </Link>
-            ))}
-          </div>
+          {/* Autres guides piliers */}
+          {pilierPosts.length > 3 && (
+            <div className="mt-20">
+              <h3 className="text-2xl font-bold text-white mb-8 text-center">Autres Guides Essentiels</h3>
+              <div className="grid md:grid-cols-3 gap-8 max-w-5xl mx-auto">
+                {pilierPosts.slice(3).map((post, index) => {
+                  const image = getImageForPost(post, index + 3);
+                  
+                  return (
+                    <Link 
+                      key={post.slug} 
+                      href={`/blog/${post.cleanCategory}/${post.cleanSlug}`}
+                      className="group"
+                    >
+                      <article className="bg-white/5 backdrop-blur-sm border border-white/10 rounded-2xl overflow-hidden hover:border-[#6bcfcf]/50 hover:scale-105 transition-all duration-300 hover:shadow-xl hover:shadow-[#6bcfcf]/10">
+                        <div className="relative h-48 overflow-hidden">
+                          <img 
+                            src={image}
+                            alt={post.title}
+                            className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
+                          />
+                          <div className="absolute inset-0 bg-gradient-to-t from-[#04163a] via-transparent to-transparent"></div>
+                        </div>
+                        <div className="p-6">
+                          <h3 className="text-lg font-semibold text-white group-hover:text-[#6bcfcf] transition-colors mb-3 line-clamp-2">
+                            {post.title}
+                          </h3>
+                          <div className="flex items-center justify-between text-xs text-white/50">
+                            <span>{(post.word_count || 0).toLocaleString()} mots</span>
+                            <span className="text-[#6bcfcf] font-medium group-hover:text-white">
+                              Lire →
+                            </span>
+                          </div>
+                        </div>
+                      </article>
+                    </Link>
+                  );
+                })}
+              </div>
+            </div>
+          )}
         </div>
+      </section>
+
+      {/* Articles Satellites - Style Magazine */}
+      {satellitePosts.length > 0 && (
+        <section className="section pt-20">
+          <div className="container">
+            <div className="mb-12 text-center">
+              <span className="inline-block px-4 py-2 rounded-full bg-white/5 text-white/70 text-sm font-semibold mb-4">
+                CONSEILS & ASTUCES
+              </span>
+              <h2 className="text-4xl font-bold text-white mb-4">
+                📝 Articles Pratiques
+              </h2>
+              <p className="text-lg text-white/70 max-w-2xl mx-auto">
+                Découvrez nos meilleurs conseils pour chaque aspect de votre déménagement
+              </p>
+            </div>
+            
+            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-6xl mx-auto">
+              {satellitePosts.map((post, index) => {
+                const image = getImageForPost(post, index);
+                
+                return (
+                  <Link 
+                    key={post.slug} 
+                    href={`/blog/${post.cleanCategory}/${post.cleanSlug}`}
+                    className="group"
+                  >
+                    <article className="bg-white/5 backdrop-blur-sm border border-white/10 rounded-2xl overflow-hidden hover:border-white/30 hover:scale-105 hover:shadow-2xl hover:shadow-[#6bcfcf]/10 transition-all duration-300 h-full">
+                      {/* Image avec overlay gradient */}
+                      <div className="relative h-56 overflow-hidden">
+                        <img 
+                          src={image}
+                          alt={post.title}
+                          className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
+                        />
+                        <div className="absolute inset-0 bg-gradient-to-t from-[#04163a] via-[#04163a]/50 to-transparent"></div>
+                        
+                        {/* Badge catégorie */}
+                        <div className="absolute top-4 left-4">
+                          <span className="inline-block px-3 py-1 rounded-full bg-[#6bcfcf]/90 backdrop-blur-sm text-[#04163a] text-xs font-bold">
+                            Article
+                          </span>
+                        </div>
+                      </div>
+                      
+                      {/* Contenu */}
+                      <div className="p-6">
+                        <h3 className="text-lg font-bold text-white group-hover:text-[#6bcfcf] transition-colors mb-3 line-clamp-2 leading-snug">
+                          {post.title}
+                        </h3>
+                        
+                        <div className="flex items-center justify-between text-xs text-white/50">
+                          <span className="flex items-center gap-1">
+                            <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
+                            </svg>
+                            {Math.ceil((post.word_count || 0) / 200)} min
+                          </span>
+                          <span className="text-[#6bcfcf] font-medium group-hover:text-white flex items-center gap-1">
+                            Lire
+                            <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                            </svg>
+                          </span>
+                        </div>
+                      </div>
+                    </article>
+                  </Link>
+                );
+              })}
+            </div>
+
+            {/* Bouton Voir Plus */}
+            {allPosts.filter(p => p.type === 'satellite').length > 9 && (
+              <div className="mt-12 text-center">
+                <Link
+                  href="/blog"
+                  className="inline-flex items-center gap-3 px-8 py-4 rounded-2xl bg-white/5 border border-white/20 text-white font-semibold hover:bg-white/10 hover:border-[#6bcfcf]/50 hover:scale-105 transition-all duration-300"
+                >
+                  Voir tous les articles
+                  <span className="text-[#6bcfcf]">({allPosts.filter(p => p.type === 'satellite').length})</span>
+                </Link>
+              </div>
+            )}
+          </div>
+        </section>
+      )}
+
+      {/* CTA Premium */}
+      <section className="section pt-20">
+        <div className="container max-w-5xl">
+          <div className="relative overflow-hidden rounded-3xl">
+            {/* Background gradient animé */}
+            <div className="absolute inset-0 bg-gradient-to-br from-[#2b7a78] via-[#6bcfcf] to-[#2b7a78] animate-gradient-xy"></div>
+            <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=1200&q=80')] bg-cover bg-center opacity-10"></div>
+            
+            <div className="relative p-12 md:p-16 text-center">
+              <div className="text-6xl mb-6">🚀</div>
+              <h2 className="text-3xl md:text-4xl font-bold text-white mb-6">
+                Prêt à déménager à Montpellier ?
+              </h2>
+              <p className="text-xl text-white/90 mb-10 max-w-2xl mx-auto">
+                Comparez gratuitement les devis de déménageurs professionnels. 
+                <strong> Rapide, gratuit, et sans engagement.</strong>
+              </p>
+              <Link 
+                href="/inventaire-ia" 
+                className="inline-flex items-center gap-3 px-10 py-5 rounded-2xl bg-white text-[#04163a] font-bold text-lg hover:bg-[#04163a] hover:text-white hover:scale-110 transition-all duration-300 shadow-2xl"
+              >
+                Obtenir 5 devis gratuits
+                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
+                </svg>
+              </Link>
+            </div>
+          </div>
         </div>
       </section>
     </main>

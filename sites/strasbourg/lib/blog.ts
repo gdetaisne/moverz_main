@@ -4,17 +4,17 @@ import matter from 'gray-matter';
 
 // Mapping des catégories pour URLs courtes
 const CATEGORY_MAPPING = {
-  'demenagement-etudiant-strasbourg': 'etudiant',
-  'demenagement-entreprise-strasbourg': 'entreprise', 
-  'demenagement-piano-strasbourg': 'piano',
-  'demenagement-international-strasbourg': 'international',
-  'demenagement-longue-distance-strasbourg': 'longue-distance',
-  'demenagement-pas-cher-strasbourg': 'pas-cher',
-  'demenagement-urgent-strasbourg': 'urgent',
-  'devis-demenagement-strasbourg': 'devis',
-  'garde-meuble-strasbourg': 'garde-meuble',
-  'prix-demenagement-strasbourg': 'prix',
-  'prix-demenagement-piano-strasbourg': 'prix-piano',
+  'demenagement-etudiant-rouen': 'etudiant',
+  'demenagement-entreprise-rouen': 'entreprise', 
+  'demenagement-piano-rouen': 'piano',
+  'demenagement-international-rouen': 'international',
+  'demenagement-longue-distance-rouen': 'longue-distance',
+  'demenagement-pas-cher-rouen': 'pas-cher',
+  'demenagement-urgent-rouen': 'urgent',
+  'devis-demenagement-rouen': 'devis',
+  'garde-meuble-rouen': 'garde-meuble',
+  'prix-demenagement-rouen': 'prix',
+  'prix-demenagement-piano-rouen': 'prix-piano',
   // Gestion des catégories avec espaces (fallback)
   'Déménagement entreprise': 'entreprise',
   'Déménagement étudiant': 'etudiant',
@@ -92,7 +92,7 @@ function cleanSlug(originalSlug: string, category: string): string {
 }
 
 export function getAllBlogPosts(): BlogPost[] {
-  const monorepoDir = path.join(process.cwd(), 'sites/strasbourg/content/blog');
+  const monorepoDir = path.join(process.cwd(), 'sites/rouen/content/blog');
   const standaloneDir = path.join(process.cwd(), 'content/blog');
   const blogDirectory = fs.existsSync(monorepoDir)
     ? monorepoDir
@@ -134,6 +134,19 @@ export function getAllBlogPosts(): BlogPost[] {
         }
       }
 
+      // Détection automatique du type si non spécifié
+      let postType: 'pilier' | 'satellite' = data.type || 'satellite';
+      if (!data.type) {
+        // Si le dossier s'appelle "satellites", c'est un satellite
+        if (category === 'satellites') {
+          postType = 'satellite';
+        }
+        // Sinon si le fichier contient "guide-complet" ou "guide.md", c'est un pilier
+        else if (file.includes('guide-complet') || file.includes('guide.md') || data.featured === true) {
+          postType = 'pilier';
+        }
+      }
+
       allPosts.push({
         slug: originalSlug,
         title: data.title,
@@ -141,9 +154,9 @@ export function getAllBlogPosts(): BlogPost[] {
         meta_description: data.meta_description,
         h1: data.h1,
         category: category,
-        type: data.type,
+        type: postType,
         keywords: keywordsArray,
-        word_count: data.word_count,
+        word_count: data.word_count || content.split(/\s+/).filter(word => word.length > 0).length,
         publish_date: data.publish_date || data.date || new Date().toISOString().split('T')[0],
         featured: data.featured || false,
         content,
