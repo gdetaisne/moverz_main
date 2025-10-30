@@ -4,22 +4,26 @@ import matter from 'gray-matter';
 
 // Mapping des catégories pour URLs courtes
 const CATEGORY_MAPPING = {
-  'demenagement-etudiant-rouen': 'etudiant',
-  'demenagement-entreprise-rouen': 'entreprise', 
-  'demenagement-piano-rouen': 'piano',
-  'demenagement-international-rouen': 'international',
-  'demenagement-longue-distance-rouen': 'longue-distance',
-  'demenagement-pas-cher-rouen': 'pas-cher',
-  'demenagement-urgent-rouen': 'urgent',
-  'devis-demenagement-rouen': 'devis',
-  'garde-meuble-rouen': 'garde-meuble',
-  'prix-demenagement-rouen': 'prix',
-  'prix-demenagement-piano-rouen': 'prix-piano',
+  'déménagement-economique': 'pas-cher',
+  'demenagement-economique': 'pas-cher',
+  'demenagement-etudiant': 'etudiant',
+  'demenagement-entreprise': 'entreprise', 
+  'demenagement-piano': 'piano',
+  'demenagement-international': 'international',
+  'demenagement-longue-distance': 'longue-distance',
+  'demenagement-pas-cher': 'pas-cher',
+  'demenagement-urgent': 'urgent',
+  'devis-demenagement': 'devis',
+  'garde-meuble': 'garde-meuble',
+  'prix-demenagement': 'prix',
+  'piliers': 'general',
+  'satellites': 'conseils',
   // Gestion des catégories avec espaces (fallback)
   'Déménagement entreprise': 'entreprise',
   'Déménagement étudiant': 'etudiant',
   'Déménagement piano': 'piano',
-  'Déménagement international': 'international'
+  'Déménagement international': 'international',
+  'Déménagement économique': 'pas-cher'
 };
 
 // Fonction pour extraire la catégorie du chemin du fichier
@@ -147,9 +151,6 @@ export function getAllBlogPosts(): BlogPost[] {
         }
       }
 
-      // Calculer word_count si non présent dans frontmatter
-      const wordCount = data.word_count || content.split(/\s+/).filter(word => word.length > 0).length;
-
       allPosts.push({
         slug: originalSlug,
         title: data.title,
@@ -159,8 +160,8 @@ export function getAllBlogPosts(): BlogPost[] {
         category: category,
         type: postType,
         keywords: keywordsArray,
-        word_count: wordCount,
-        publish_date: data.publish_date || data.date || data.publishedAt || new Date().toISOString().split('T')[0],
+        word_count: data.word_count || content.split(/\s+/).filter(word => word.length > 0).length,
+        publish_date: data.publish_date || data.date || new Date().toISOString().split('T')[0],
         featured: data.featured || false,
         content,
         // URLs optimisées

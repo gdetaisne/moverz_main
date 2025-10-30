@@ -4,22 +4,26 @@ import matter from 'gray-matter';
 
 // Mapping des catégories pour URLs courtes
 const CATEGORY_MAPPING = {
-  'demenagement-etudiant-rouen': 'etudiant',
-  'demenagement-entreprise-rouen': 'entreprise', 
-  'demenagement-piano-rouen': 'piano',
-  'demenagement-international-rouen': 'international',
-  'demenagement-longue-distance-rouen': 'longue-distance',
-  'demenagement-pas-cher-rouen': 'pas-cher',
-  'demenagement-urgent-rouen': 'urgent',
-  'devis-demenagement-rouen': 'devis',
-  'garde-meuble-rouen': 'garde-meuble',
-  'prix-demenagement-rouen': 'prix',
-  'prix-demenagement-piano-rouen': 'prix-piano',
+  'déménagement-economique': 'pas-cher',
+  'demenagement-economique': 'pas-cher',
+  'demenagement-etudiant': 'etudiant',
+  'demenagement-entreprise': 'entreprise', 
+  'demenagement-piano': 'piano',
+  'demenagement-international': 'international',
+  'demenagement-longue-distance': 'longue-distance',
+  'demenagement-pas-cher': 'pas-cher',
+  'demenagement-urgent': 'urgent',
+  'devis-demenagement': 'devis',
+  'garde-meuble': 'garde-meuble',
+  'prix-demenagement': 'prix',
+  'piliers': 'general',
+  'satellites': 'conseils',
   // Gestion des catégories avec espaces (fallback)
   'Déménagement entreprise': 'entreprise',
   'Déménagement étudiant': 'etudiant',
   'Déménagement piano': 'piano',
-  'Déménagement international': 'international'
+  'Déménagement international': 'international',
+  'Déménagement économique': 'pas-cher'
 };
 
 // Fonction pour extraire la catégorie du chemin du fichier
