@@ -18,11 +18,11 @@ const city = getCityDataFromUrl(env.SITE_URL);
 
 export const metadata: Metadata = {
   title: {
-    default: `Comparateur Déménagement ${city.nameCapitalized} : 5 Devis Gratuits`,
-    template: `%s | Comparateur Déménagement ${city.nameCapitalized}`,
+    default: `Déménagement Lyon Pas Cher | 5 Devis Gratuits 2min | -40%`,
+    template: `%s | Déménageur Lyon`,
   },
   description:
-    `Estimation par photos en 30 min → 5 devis personnalisés de déménageurs. 100% gratuit. Économisez jusqu'à 40% sur votre déménagement à ${city.nameCapitalized}.`,
+    `Déménagement Lyon : comparez 5 devis en 2min. Prix dès 295€. Économisez 40%. ✓ Déménageurs Rhône certifiés ✓ Gratuit ✓ Sans engagement ✓ Réponse rapide.`,
   metadataBase: new URL(city.siteUrl),
   robots: {
     index: true,

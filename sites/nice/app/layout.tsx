@@ -18,11 +18,11 @@ const city = getCityDataFromUrl(env.SITE_URL);
 
 export const metadata: Metadata = {
   title: {
-    default: `Comparateur Déménagement ${city.nameCapitalized} : 5 Devis Gratuits`,
-    template: `%s | Comparateur Déménagement ${city.nameCapitalized}`,
+    default: `Déménagement Nice dès 299€ | Comparateur Gratuit | -40% 2024`,
+    template: `%s | Déménageur Nice`,
   },
   description:
-    `Estimation par photos en 30 min → 5 devis personnalisés de déménageurs. 100% gratuit. Économisez jusqu'à 40% sur votre déménagement à ${city.nameCapitalized}.`,
+    `Déménagement Nice : comparez 5 devis en 2min. Prix dès 299€. Économisez 40%. ✓ Gratuit ✓ Déménageurs Alpes-Maritimes certifiés ✓ Réponse rapide.`,
   metadataBase: new URL(city.siteUrl),
   robots: {
     index: true,

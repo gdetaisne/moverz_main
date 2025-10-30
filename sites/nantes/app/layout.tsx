@@ -18,11 +18,11 @@ const city = getCityDataFromUrl(env.SITE_URL);
 
 export const metadata: Metadata = {
   title: {
-    default: `Comparateur Déménagement ${city.nameCapitalized} : 5 Devis Gratuits`,
-    template: `%s | Comparateur Déménagement ${city.nameCapitalized}`,
+    default: `Déménageur Nantes dès 299€ | Devis Gratuit 2min | -40% 2024`,
+    template: `%s | Déménagement Nantes Pas Cher`,
   },
   description:
-    `Estimation par photos en 30 min → 5 devis personnalisés de déménageurs. 100% gratuit. Économisez jusqu'à 40% sur votre déménagement à ${city.nameCapitalized}.`,
+    `Comparateur déménageurs Nantes : 5 devis en 2min. Prix transparents dès 299€. Économisez 40%. ✓ Gratuit ✓ Sans engagement ✓ Déménageurs vérifiés 2024.`,
   metadataBase: new URL(city.siteUrl),
   robots: {
     index: true,

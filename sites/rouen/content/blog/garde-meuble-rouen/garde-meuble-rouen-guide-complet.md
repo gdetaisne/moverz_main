@@ -340,6 +340,25 @@ Sélectionnez en confiance :
 Protégez vos biens :
 - **[Assurance Garde-Meuble](/blog/garde-meuble-rouen/assurance-garde-meuble-rouen-obligatoire)** - Obligations légales et garanties
 
+## 📚 Services de Déménagement Connexes
+
+**Déménagement complet :**
+- [Déménageur professionnel Rouen](/blog/demenageur-rouen/demenageur-rouen-guide-complet) - Toutes formules
+- [Prix déménagement Rouen](/blog/prix-demenagement-rouen/prix-demenagement-rouen-guide-complet) - Budgets et tarifs
+- [Déménagement pas cher](/blog/demenageur-rouen-pas-cher/demenageur-rouen-pas-cher-guide) - Solutions économiques
+
+**Services spécialisés :**
+- [Déménagement entreprise](/blog/demenagement-entreprise-rouen/demenagement-entreprise-rouen-guide-complet) - Stockage archives professionnelles
+- [Déménagement international](/blog/demenagement-international-rouen/demenagement-international-rouen-guide-complet) - Garde-meuble avant expatriation  
+- [Petit déménagement](/blog/petit-demenagement-rouen/petit-demenagement-rouen-guide-complet) - Studios, petits volumes
+
+**Satellites garde-meuble :**
+- [Prix garde-meuble Rouen 2025](/blog/satellites/prix-garde-meuble-rouen-2025) - Tarifs détaillés
+- [Self-stockage vs garde-meuble](/blog/satellites/self-stockage-vs-garde-meuble-traditionnel-rouen) - Comparatif
+- [Garde-meuble étudiant](/blog/satellites/garde-meuble-etudiant-rouen) - Solutions étudiants
+- [Stockage pendant déménagement](/blog/satellites/stockage-pendant-demenagement-rouen-duree) - Durées recommandées
+- [Taille box stockage](/blog/satellites/taille-box-stockage-rouen) - Choisir la bonne taille
+
 ---
 
 ## Conclusion

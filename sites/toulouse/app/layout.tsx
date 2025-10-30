@@ -18,11 +18,11 @@ const city = getCityDataFromUrl(env.SITE_URL);
 
 export const metadata: Metadata = {
   title: {
-    default: `Comparateur Déménagement ${city.nameCapitalized} : 5 Devis Gratuits`,
-    template: `%s | Comparateur Déménagement ${city.nameCapitalized}`,
+    default: `Déménageur Toulouse dès 285€ | Devis Gratuit 2min | -40%`,
+    template: `%s | Déménagement Toulouse`,
   },
   description:
-    `Estimation par photos en 30 min → 5 devis personnalisés de déménageurs. 100% gratuit. Économisez jusqu'à 40% sur votre déménagement à ${city.nameCapitalized}.`,
+    `Déménagement Toulouse : 5 devis en 2min. Prix dès 285€. Économisez 40%. ✓ 100% gratuit ✓ Déménageurs Haute-Garonne vérifiés ✓ Sans engagement.`,
   metadataBase: new URL(city.siteUrl),
   robots: {
     index: true,

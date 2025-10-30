@@ -86,7 +86,7 @@ export default function BlogPostPage({ params }: BlogPostPageProps) {
       .replace(/^### (.*$)/gim, '<h3 class="text-xl font-medium text-white mb-3 mt-6">$1</h3>')
       .replace(/^\- \[ \] (.*$)/gim, '<li class="flex items-start mb-2 text-white/90"><span class="inline-block w-4 h-4 border border-white/30 rounded mr-2 mt-1"></span>$1</li>')
       .replace(/^\- \[x\] (.*$)/gim, '<li class="flex items-start mb-2 text-white/90"><span class="inline-block w-4 h-4 bg-[#6bcfcf] rounded mr-2 mt-1"></span>$1</li>')
-      .replace(/^\- (.*$)/gim, '<li class="mb-3 text-white/90 ml-4">• $1</li>')
+      .replace(/^\- (.*$)/gim, '<li class="mb-3 text-white/90">$1</li>')
       .replace(/\*\*(.*?)\*\*/g, '<strong class="font-semibold text-white">$1</strong>')
       .replace(/\*(.*?)\*/g, '<em class="italic text-white/95">$1</em>')
       .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" class="text-[#6bcfcf] hover:text-[#2b7a78] underline font-medium transition-colors">$1</a>')
@@ -159,7 +159,7 @@ export default function BlogPostPage({ params }: BlogPostPageProps) {
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="bg-white/5 backdrop-blur-sm border border-white/10 rounded-2xl p-6 md:p-10">
             <article 
-              className="prose prose-lg max-w-none"
+              className="blog-content max-w-none"
               dangerouslySetInnerHTML={{ 
                 __html: `<p class="mb-5 text-white/90 leading-relaxed text-base">${formattedContent}</p>` 
               }}

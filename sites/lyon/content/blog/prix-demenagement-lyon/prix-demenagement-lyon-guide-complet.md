@@ -572,3 +572,20 @@ T2 formule standard : **1800-2800€**. T3 formule standard : **2200-3500€**. 
 
 Déménageur dispose assurance RC professionnelle obligatoire mais couverture forfaitaire insuffisante (6-10€/kg, soit 1200-2000€ pour T2 200kg). Pour mobilier valeur/objets précieux, souscrivez **assurance valeur déclarée** : déclarez valeur réelle biens (exemple 15000€), assurance couvre cette valeur en cas dommage. Coût : 2-4% valeur déclarée = 300-600€ supplémentaires pour T2 15000€. Vérifie aussi votre **assurance habitation** : clause "biens hors habitation" couvre parfois déménagement (montant limité 3000-5000€). Lisez contrat ou appelez assureur. Pour biens >8000€, assurance valeur déclarée fortement recommandée.
 
+## 📚 Articles Connexes
+
+**Solutions économiques :**
+- [Déménagement pas cher Lyon](/blog/demenagement-lyon-pas-cher/demenagement-lyon-pas-cher-guide-complet) - Astuces économies
+- [Petit déménagement Lyon](/blog/demenagement-petit-volume-lyon/demenagement-petit-volume-lyon-guide-complet) - Studios, petits volumes
+
+**Services complets :**
+- [Déménageur professionnel Lyon](/blog/demenageur-lyon/demenageur-lyon-guide-complet) - Toutes formules
+- [Déménagement entreprise](/blog/demenagement-entreprise-lyon/demenagement-entreprise-lyon-guide-complet) - Bureaux, PME
+- [Déménagement piano](/blog/demenagement-piano-lyon/demenagement-piano-lyon-guide-complet) - Instruments délicats
+- [Déménagement international](/blog/demenagement-international-lyon/demenagement-international-lyon-guide-complet) - Expatriation
+
+**Alternatives :**
+- [Location camion Lyon](/blog/location-camion-demenagement-lyon/location-camion-demenagement-lyon-guide-complet) - Faire soi-même
+- [Aide au déménagement](/blog/aide-au-demenagement-lyon/aide-au-demenagement-lyon-guide-complet) - Manutention ponctuelle
+- [Garde-meuble Lyon](/blog/garde-meuble-lyon/garde-meuble-lyon-guide-complet) - Stockage temporaire
+

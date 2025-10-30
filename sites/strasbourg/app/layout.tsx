@@ -18,11 +18,11 @@ const city = getCityDataFromUrl(env.SITE_URL);
 
 export const metadata: Metadata = {
   title: {
-    default: `Comparateur Déménagement ${city.nameCapitalized} : 5 Devis Gratuits`,
-    template: `%s | Comparateur Déménagement ${city.nameCapitalized}`,
+    default: `Déménagement Strasbourg dès 290€ | Devis Gratuit 2min | -40%`,
+    template: `%s | Déménageur Strasbourg`,
   },
   description:
-    `Estimation par photos en 30 min → 5 devis personnalisés de déménageurs. 100% gratuit. Économisez jusqu'à 40% sur votre déménagement à ${city.nameCapitalized}.`,
+    `Déménagement Strasbourg : comparez 5 devis en 2min. Prix dès 290€. Économisez 40%. ✓ Gratuit ✓ Déménageurs Bas-Rhin certifiés ✓ Sans engagement.`,
   metadataBase: new URL(city.siteUrl),
   robots: {
     index: true,

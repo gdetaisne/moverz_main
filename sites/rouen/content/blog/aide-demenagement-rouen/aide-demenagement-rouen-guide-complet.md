@@ -237,10 +237,10 @@ Pouvez-vous consacrer 2-3 jours complets à l'emballage ? Êtes-vous disponible 
 Un studio nécessite moins d'assistance qu'une maison de 5 pièces avec cave, garage et grenier remplis.
 
 **Complexité d'accès :**
-Logement au rez-de-chaussée avec parking devant la porte VS 4ème étage sans ascenseur dans le Vieux-Rouen avec 100 mètres de portage en rue piétonne : l'aide professionnelle devient indispensable dans le second cas.
+Logement au rez-de-chaussée avec parking devant la porte VS 4ème étage sans ascenseur dans le Vieux-Rouen avec 100 mètres de portage en rue piétonne : l'aide professionnelle devient indispensable dans le second cas. Découvrez nos [solutions déménagement centre historique Rouen](/blog/satellites/demenageur-centre-historique-rouen).
 
 **Objets spécifiques :**
-Possédez-vous un piano, des œuvres d'art, une armoire normande ancienne, du matériel professionnel fragile ?
+Possédez-vous un piano, des œuvres d'art, une armoire normande ancienne, du matériel professionnel fragile ? Consultez notre [guide déménagement piano Rouen](/blog/demenagement-piano-rouen/demenagement-piano-rouen-guide-complet).
 
 ### Comparaison des options
 
@@ -443,6 +443,24 @@ Déménager à Rouen ne signifie pas affronter seul les contraintes du centre hi
 5. **Renseignez-vous sur les aides financières** dont vous pourriez bénéficier
 
 **Besoin d'un accompagnement personnalisé pour votre déménagement à Rouen ?** Notre équipe vous propose des formules flexibles adaptées à chaque situation : de la simple aide au chargement à la prestation complète incluant emballage, transport et installation. **Contactez-nous pour un devis gratuit et des conseils sur mesure.**
+
+## 📚 Solutions Complémentaires
+
+**Solutions économiques :**
+- [Déménagement pas cher Rouen](/blog/demenageur-rouen-pas-cher/demenageur-rouen-pas-cher-guide) - Astuces et formules budget
+- [Petit déménagement Rouen](/blog/petit-demenagement-rouen/petit-demenagement-rouen-guide-complet) - Studios, petits volumes
+- [Location camion Rouen](/blog/location-camion-demenagement-rouen/location-camion-demenagement-rouen-guide-complet) - Autonomie totale
+
+**Services complets :**
+- [Déménageur professionnel Rouen](/blog/demenageur-rouen/demenageur-rouen-guide-complet) - Formules clé en main
+- [Prix déménagement Rouen](/blog/prix-demenagement-rouen/prix-demenagement-rouen-guide-complet) - Budgets et tarifs
+
+**Services spécialisés :**
+- [Déménagement entreprise](/blog/demenagement-entreprise-rouen/demenagement-entreprise-rouen-guide-complet) - Bureaux, PME
+- [Déménagement étudiant](/blog/satellites/demenagement-etudiant-rouen-solutions) - Solutions étudiants
+
+**Stockage :**
+- [Garde-meuble Rouen](/blog/garde-meuble-rouen/garde-meuble-rouen-guide-complet) - Stockage temporaire
 
 ---
 
