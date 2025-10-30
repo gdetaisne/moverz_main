@@ -138,6 +138,23 @@ const nextConfig = {
       { source: '/estimation-demenagement-toulouse/', destination: '/estimation-rapide', permanent: true },
       { source: '/prix-demenagement-rennes/', destination: '/blog/prix-demenagement-rennes/prix-demenagement-rennes-guide-complet', permanent: true },
       { source: '/devis-demenagement-rennes/', destination: '/estimation-rapide', permanent: true },
+
+      // MAJUSCULES QUARTIERS → minuscules (Fix CSV 30/10/2025)
+      { source: '/Rennes/centre-ville', destination: '/rennes/centre-ville', permanent: true },
+      { source: '/Rennes/thabor', destination: '/rennes/thabor', permanent: true },
+      { source: '/Rennes/villejean', destination: '/rennes/villejean', permanent: true },
+      { source: '/Rennes/beaulieu', destination: '/rennes/beaulieu', permanent: true },
+      { source: '/Rennes/cleunay', destination: '/rennes/cleunay', permanent: true },
+
+      // CATÉGORIES BLOG VIDES → /blog (Fix CSV 30/10/2025)
+      { source: '/blog/etudiant', destination: '/blog', permanent: true },
+      { source: '/blog/urgent', destination: '/blog', permanent: true },
+      { source: '/blog/devis', destination: '/blog', permanent: true },
+      { source: '/blog/longue-distance', destination: '/blog', permanent: true },
+
+      // ARTICLE SATELLITE SPÉCIFIQUE cassé
+      { source: '/blog/pas-cher/entraide-demenagement-rennes-plateformes', destination: '/blog', permanent: true },
+      { source: '/blog/petit-demenagement-rennes/petit-demenagement-auto-rennes', destination: '/blog/petit-demenagement-rennes/petit-demenagement-rennes-guide', permanent: true },
     ];
   }
 };

@@ -241,6 +241,20 @@ const nextConfig = {
       { source: '/estimation-demenagement-marseille/', destination: '/estimation-rapide', permanent: true },
       { source: '/prix-demenagement-marseille/', destination: '/blog', permanent: true },
       { source: '/devis-demenagement-marseille/', destination: '/estimation-rapide', permanent: true },
+
+      // MAJUSCULES QUARTIERS → minuscules (Fix CSV 30/10/2025)
+      { source: '/quartiers-Marseille', destination: '/quartiers-marseille', permanent: true },
+      { source: '/Marseille/le-vieux-port', destination: '/marseille/vieux-port', permanent: true },
+      { source: '/Marseille/la-plaine', destination: '/marseille/plaine', permanent: true },
+      { source: '/Marseille/le-panier', destination: '/marseille/panier', permanent: true },
+      { source: '/Marseille/endoume', destination: '/marseille/endoume', permanent: true },
+      { source: '/Marseille/la-joliette', destination: '/marseille/joliette', permanent: true },
+
+      // CATÉGORIES BLOG VIDES → /blog (Fix CSV 30/10/2025)
+      { source: '/blog/etudiant', destination: '/blog', permanent: true },
+      { source: '/blog/urgent', destination: '/blog', permanent: true },
+      { source: '/blog/devis', destination: '/blog', permanent: true },
+      { source: '/blog/longue-distance', destination: '/blog', permanent: true },
     ];
   }
 };

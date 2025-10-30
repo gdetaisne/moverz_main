@@ -123,6 +123,17 @@ const nextConfig = {
       { source: '/estimation-demenagement-rouen/', destination: '/estimation-rapide', permanent: true },
       { source: '/prix-demenagement-rouen/', destination: '/blog/prix-demenagement-rouen/prix-demenagement-rouen-guide-complet', permanent: true },
       { source: '/devis-demenagement-rouen/', destination: '/estimation-rapide', permanent: true },
+
+      // CATÉGORIES BLOG VIDES → /blog (Fix CSV 30/10/2025)
+      { source: '/blog/etudiant', destination: '/blog', permanent: true },
+      { source: '/blog/urgent', destination: '/blog', permanent: true },
+      { source: '/blog/devis', destination: '/blog', permanent: true },
+      { source: '/blog/longue-distance', destination: '/blog', permanent: true },
+      { source: '/blog/entreprise', destination: '/blog', permanent: true },
+      { source: '/blog/prix', destination: '/blog', permanent: true },
+      
+      // URL /toulouse (erreur indexation cross-ville)
+      { source: '/toulouse', destination: '/', permanent: true },
     ];
   }
 };

@@ -331,6 +331,68 @@ const nextConfig = {
         destination: '/blog/satellites/assurance-demenageur-strasbourg',
         permanent: true,
       },
+
+      // ========================================
+      // 6. CATÉGORIES BLOG VIDES → /blog
+      // ========================================
+      {
+        source: '/blog/etudiant',
+        destination: '/blog',
+        permanent: true,
+      },
+      {
+        source: '/blog/urgent',
+        destination: '/blog',
+        permanent: true,
+      },
+      {
+        source: '/blog/devis',
+        destination: '/blog',
+        permanent: true,
+      },
+      {
+        source: '/blog/longue-distance',
+        destination: '/blog',
+        permanent: true,
+      },
+      {
+        source: '/blog/prix',
+        destination: '/blog',
+        permanent: true,
+      },
+      {
+        source: '/blog/entreprise',
+        destination: '/blog',
+        permanent: true,
+      },
+
+      // ========================================
+      // 7. URL /toulouse (erreur indexation)
+      // ========================================
+      {
+        source: '/toulouse',
+        destination: '/',
+        permanent: true,
+      },
+
+      // ========================================
+      // 8. FICHIERS PLACEHOLDER/BATCH (cache Google)
+      // ========================================
+      {
+        source: '/blog/satellites/PILIER-:number',
+        destination: '/blog',
+        permanent: true,
+      },
+      {
+        source: '/blog/satellites/PILIER-:number-:rest*',
+        destination: '/blog',
+        permanent: true,
+      },
+      {
+        source: '/blog/satellites',
+        destination: '/blog',
+        permanent: true,
+      },
     ];
   },
 };

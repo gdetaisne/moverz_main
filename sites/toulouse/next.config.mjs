@@ -233,6 +233,12 @@ const nextConfig = {
       { source: '/estimation-demenagement-toulouse/', destination: '/estimation-rapide', permanent: true },
       { source: '/prix-demenagement-toulouse/', destination: '/blog', permanent: true },
       { source: '/devis-demenagement-toulouse/', destination: '/estimation-rapide', permanent: true },
+
+      // CATÉGORIES BLOG VIDES → /blog (Fix CSV 30/10/2025)
+      { source: '/blog/etudiant', destination: '/blog', permanent: true },
+      { source: '/blog/urgent', destination: '/blog', permanent: true },
+      { source: '/blog/devis', destination: '/blog', permanent: true },
+      { source: '/blog/longue-distance', destination: '/blog', permanent: true },
     ];
   }
 };

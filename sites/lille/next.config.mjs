@@ -108,6 +108,20 @@ const nextConfig = {
       
       // Ancienne URL estimation
       { source: '/estimation-demenagement-lille/', destination: '/estimation-rapide', permanent: true },
+
+      // MAJUSCULES QUARTIERS → minuscules (Fix CSV 30/10/2025)
+      { source: '/quartiers-Lille', destination: '/quartiers-lille', permanent: true },
+      { source: '/Lille/vieux-Lille', destination: '/lille/vieux-lille', permanent: true },
+      { source: '/Lille/centre', destination: '/lille/centre', permanent: true },
+      { source: '/Lille/wazemmes', destination: '/lille/wazemmes', permanent: true },
+      { source: '/Lille/moulins', destination: '/lille/moulins', permanent: true },
+      { source: '/Lille/lomme', destination: '/lille/lomme', permanent: true },
+
+      // CATÉGORIES BLOG VIDES → /blog (Fix CSV 30/10/2025)
+      { source: '/blog/etudiant', destination: '/blog', permanent: true },
+      { source: '/blog/urgent', destination: '/blog', permanent: true },
+      { source: '/blog/devis', destination: '/blog', permanent: true },
+      { source: '/blog/longue-distance', destination: '/blog', permanent: true },
     ];
   }
 };

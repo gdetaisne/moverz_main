@@ -230,6 +230,15 @@ const nextConfig = {
       { source: '/estimation-demenagement-nice/', destination: '/estimation-rapide', permanent: true },
       { source: '/prix-demenagement-nice/', destination: '/blog/prix-demenagement-nice/prix-demenagement-nice-guide', permanent: true },
       { source: '/devis-demenagement-nice/', destination: '/estimation-rapide', permanent: true },
+
+      // MAJUSCULES QUARTIERS → minuscules (Fix CSV 30/10/2025)
+      { source: '/Nice/cimiez', destination: '/nice/cimiez', permanent: true },
+
+      // CATÉGORIES BLOG VIDES → /blog (Fix CSV 30/10/2025)
+      { source: '/blog/etudiant', destination: '/blog', permanent: true },
+      { source: '/blog/urgent', destination: '/blog', permanent: true },
+      { source: '/blog/devis', destination: '/blog', permanent: true },
+      { source: '/blog/longue-distance', destination: '/blog', permanent: true },
     ];
   }
 };

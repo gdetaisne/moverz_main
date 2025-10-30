@@ -179,6 +179,15 @@ const nextConfig = {
       { source: '/estimation-demenagement-nantes/', destination: '/estimation-rapide', permanent: true },
       { source: '/prix-demenagement-nantes/', destination: '/blog/prix-demenagement-nantes/prix-demenagement-nantes-guide', permanent: true },
       { source: '/devis-demenagement-nantes/', destination: '/estimation-rapide', permanent: true },
+
+      // CATÉGORIES BLOG VIDES → /blog (Fix CSV 30/10/2025)
+      { source: '/blog/etudiant', destination: '/blog', permanent: true },
+      { source: '/blog/urgent', destination: '/blog', permanent: true },
+      { source: '/blog/devis', destination: '/blog', permanent: true },
+      { source: '/blog/longue-distance', destination: '/blog', permanent: true },
+      
+      // URL /toulouse (erreur indexation cross-ville)
+      { source: '/toulouse', destination: '/', permanent: true },
     ];
   }
 };
