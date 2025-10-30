@@ -306,7 +306,7 @@ export default function FAQPage() {
             </h1>
             <p className="text-lg md:text-xl text-white/90">
               Vous trouverez ici les réponses aux questions les plus fréquentes. Pour un chiffrage précis, utilisez notre{" "}
-              <a className="underline text-[#6bcfcf] hover:text-[#6bcfcf]/80 transition-colors" href="/devis-demenagement-nice/">devis de déménagement à nice</a>.
+              <a className="underline text-[#6bcfcf] hover:text-[#6bcfcf]/80 transition-colors" href="https://devis-demenageur-nice.fr/inventaire-ia">devis de déménagement à nice</a>.
             </p>
           </div>
         </div>
@@ -375,7 +375,7 @@ export default function FAQPage() {
                         {item.q.includes("estimer le volume") && (
                           <p className="text-sm text-white/70">
                             Lancez votre{" "}
-                            <a className="underline text-accent" href="/estimation-demenagement-nice/">estimation de déménagement</a>{" "}
+                            <a className="underline text-accent" href="https://devis-demenageur-nice.fr/inventaire-ia">estimation de déménagement</a>{" "}
                             en quelques minutes.
                           </p>
                         )}
@@ -416,7 +416,7 @@ export default function FAQPage() {
                     {item.q.includes("estimer le volume") && (
                       <p className="text-sm text-white/70">
                         Lancez votre{" "}
-                        <a className="underline text-accent" href="/estimation-demenagement-nice/">estimation de déménagement</a>{" "}
+                        <a className="underline text-accent" href="https://devis-demenageur-nice.fr/inventaire-ia">estimation de déménagement</a>{" "}
                         en quelques minutes.
                       </p>
                     )}
