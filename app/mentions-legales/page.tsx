@@ -4,7 +4,6 @@ export const metadata: Metadata = {
   title: "Mentions légales | Moverz",
   description:
     "Mentions légales de Moverz (GSLV) : éditeur, hébergeur, responsabilité, propriété intellectuelle et données personnelles.",
-  alternates: { canonical: "https://devis-demenageur-toulouse.fr/mentions-legales" },
 };
 
 export default function MentionsLegalesPage() {
@@ -127,4 +126,3 @@ export default function MentionsLegalesPage() {
     </main>
   );
 }
-
