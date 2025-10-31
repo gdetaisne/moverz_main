@@ -38,7 +38,7 @@ interface LocalPageProps {
 export function generateLocalPageMetadata(zone: string, zoneDisplay: string): Metadata {
   return {
     title: `Déménageurs ${zoneDisplay} (Rennes) : Devis Comparables | 2025`,
-    description: `Cahier des charges en clics → devis comparables ${zoneDisplay}. Contraintes locales (parking, accès). Sélection minucieuse. 100% en ligne, gratuit.`,
+    description: `Cahier des charges en quelques clics → devis comparables ${zoneDisplay}. Contraintes locales (parking, accès). Sélection minucieuse. 100% en ligne, gratuit.`,
   };
 }
 
