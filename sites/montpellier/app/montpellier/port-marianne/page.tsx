@@ -1,11 +1,9 @@
 import { Metadata } from 'next';
 import LocalPage from '@/app/_templates/LocalPage';
+import { generateLocalPageMetadata } from '@/app/_templates/LocalPage';
 
-export const metadata: Metadata = {
-  title: `Déménagement à Port Marianne (Montpellier) | Devis gratuit & IA`,
-  description: `Déménagement à Port Marianne (Montpellier). Nouveau quartier moderne au bord du Lez, architecture contemporaine. Résidences récentes et espaces verts. Accès: Larges avenues, stationnement facile, accès aisé pour tous véhicules. Devis gratuit avec estimation IA.`,
-  keywords: `déménagement Port Marianne Montpellier, déménageurs Montpellier, devis déménagement Montpellier, quartier moderne`,
-};
+export const metadata: Metadata = generateLocalPageMetadata('port-marianne', 'Port Marianne');
+
 
 const montpellierPortMarianneData = {
   zone: "port-marianne",

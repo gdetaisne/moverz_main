@@ -1,11 +1,8 @@
 import { Metadata } from 'next';
 import LocalPage from '@/app/_templates/LocalPage';
+import { generateLocalPageMetadata } from '@/app/_templates/LocalPage';
 
-export const metadata: Metadata = {
-  title: `Déménagement à Vieux Lille (Lille) | Devis gratuit & IA`,
-  description: `Déménagement à Vieux Lille (Lille). Cœur historique de Lille, patrimoine flamand et commerces. Rues pavées et accès délicat. Accès: Rues pavées, circulation limitée, parkings payants, escaliers anciens. Devis gratuit avec estimation IA.`,
-  keywords: `déménagement Vieux Lille Lille, déménageurs Lille, devis déménagement Lille, Rues pavées, circulation limitée, parkings payants, escaliers anciens`,
-};
+export const metadata: Metadata = generateLocalPageMetadata('vieux-lille', 'Vieux Lille');
 
 const lilleVieuxLilleData = {
   zone: "vieux-lille",

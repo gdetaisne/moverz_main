@@ -1,11 +1,9 @@
 import { Metadata } from 'next';
 import LocalPage from '@/app/_templates/LocalPage';
+import { generateLocalPageMetadata } from '@/app/_templates/LocalPage';
 
-export const metadata: Metadata = {
-  title: `Déménagement à Centre-ville (Nantes) | Devis gratuit & IA`,
-  description: `Déménagement à Centre-ville (Nantes). Cœur historique de Nantes, château des Ducs et patrimoine. Rues commerçantes et accès délicat. Accès: Rues commerçantes, circulation limitée, parkings payants, escaliers anciens. Devis gratuit avec estimation IA.`,
-  keywords: `déménagement Centre-ville Nantes, déménageurs Nantes, devis déménagement Nantes, Rues commerçantes, circulation limitée, parkings payants, escaliers anciens`,
-};
+export const metadata: Metadata = generateLocalPageMetadata('centre-ville', 'Centre-ville');
+
 
 const nantesCentrevilleData = {
   zone: "centre-ville",

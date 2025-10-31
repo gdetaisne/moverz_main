@@ -1,11 +1,9 @@
 import { Metadata } from 'next';
 import LocalPage from '@/app/_templates/LocalPage';
+import { generateLocalPageMetadata } from '@/app/_templates/LocalPage';
 
-export const metadata: Metadata = {
-  title: `Déménagement à Grande Île (Strasbourg) | Devis gratuit & IA`,
-  description: `Déménagement à Grande Île (Strasbourg). Cœur historique de Strasbourg, patrimoine UNESCO, rues pavées et maisons à colombages. Accès délicat pour les déménagements. Accès: Rues étroites, circulation limitée, parkings difficiles, escaliers anciens. Devis gratuit avec estimation IA.`,
-  keywords: `déménagement Grande Île Strasbourg, déménageurs Strasbourg, devis déménagement Strasbourg, Rues étroites, circulation limitée, parkings difficiles, escaliers anciens`,
-};
+export const metadata: Metadata = generateLocalPageMetadata('grande-ile', 'Grande Île');
+
 
 const strasbourgGrandeleData = {
   zone: "grande-ile",

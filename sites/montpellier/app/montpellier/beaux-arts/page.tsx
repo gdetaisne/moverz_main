@@ -1,11 +1,9 @@
 import { Metadata } from 'next';
 import LocalPage from '@/app/_templates/LocalPage';
+import { generateLocalPageMetadata } from '@/app/_templates/LocalPage';
 
-export const metadata: Metadata = {
-  title: `Déménagement aux Beaux-Arts (Montpellier) | Devis gratuit & IA`,
-  description: `Déménagement au quartier des Beaux-Arts (Montpellier). Quartier historique et culturel, proche du musée Fabre. Immeubles haussmanniens et commerces de proximité. Accès: Rues moyennement larges, stationnement limité, circulation modérée. Devis gratuit avec estimation IA.`,
-  keywords: `déménagement Beaux-Arts Montpellier, déménageurs Montpellier, devis déménagement Montpellier, quartier historique`,
-};
+export const metadata: Metadata = generateLocalPageMetadata('beaux-arts', 'Beaux-Arts');
+
 
 const montpellierBeauxArtsData = {
   zone: "beaux-arts",

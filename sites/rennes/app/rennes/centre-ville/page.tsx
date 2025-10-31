@@ -1,11 +1,9 @@
 import { Metadata } from 'next';
 import LocalPage from '@/app/_templates/LocalPage';
+import { generateLocalPageMetadata } from '@/app/_templates/LocalPage';
 
-export const metadata: Metadata = {
-  title: `Déménagement à Centre-ville (Rennes) | Devis gratuit & IA`,
-  description: `Déménagement à Centre-ville (Rennes). Cœur historique de Rennes, patrimoine médiéval et commerces. Rues pavées et accès délicat. Accès: Rues pavées, circulation limitée, parkings payants, escaliers anciens. Devis gratuit avec estimation IA.`,
-  keywords: `déménagement Centre-ville Rennes, déménageurs Rennes, devis déménagement Rennes, Rues pavées, circulation limitée, parkings payants, escaliers anciens`,
-};
+export const metadata: Metadata = generateLocalPageMetadata('centre-ville', 'Centre-ville');
+
 
 const rennesCentrevilleData = {
   zone: "centre-ville",

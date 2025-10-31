@@ -1,11 +1,9 @@
 import { Metadata } from 'next';
 import LocalPage from '@/app/_templates/LocalPage';
+import { generateLocalPageMetadata } from '@/app/_templates/LocalPage';
 
-export const metadata: Metadata = {
-  title: `Déménagement à Joli-Mai (Rouen) | Devis gratuit & IA`,
-  description: `Déménagement à Joli-Mai (Rouen). Quartier populaire de Rouen, logements sociaux et privés. Accès généralement facilité par les grandes rues. Accès: Boulevards larges, parkings disponibles, immeubles avec ascenseurs. Devis gratuit avec estimation IA.`,
-  keywords: `déménagement Joli-Mai Rouen, déménageurs Rouen, devis déménagement Rouen, Boulevards larges, parkings disponibles, immeubles avec ascenseurs`,
-};
+export const metadata: Metadata = generateLocalPageMetadata('joli-mai', 'Joli-Mai');
+
 
 const rouenJoliMaiData = {
   zone: "joli-mai",

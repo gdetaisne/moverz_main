@@ -1,11 +1,9 @@
 import { Metadata } from 'next';
 import LocalPage from '@/app/_templates/LocalPage';
+import { generateLocalPageMetadata } from '@/app/_templates/LocalPage';
 
-export const metadata: Metadata = {
-  title: `Déménagement à La Croix-Rousse (Lyon) | Devis gratuit & IA`,
-  description: `Déménagement à La Croix-Rousse (Lyon). Quartier historique de Lyon, ancien quartier des canuts. Pentes raides et patrimoine industriel. Accès: Rues en pente, parkings difficiles, immeubles anciens, escaliers nombreux. Devis gratuit avec estimation IA.`,
-  keywords: `déménagement La Croix-Rousse Lyon, déménageurs Lyon, devis déménagement Lyon, Rues en pente, parkings difficiles, immeubles anciens, escaliers nombreux`,
-};
+export const metadata: Metadata = generateLocalPageMetadata('croix-rousse', 'La Croix-Rousse');
+
 
 const lyonLaCroixRousseData = {
   zone: "croix-rousse",

@@ -1,11 +1,9 @@
 import { Metadata } from 'next';
 import LocalPage from '@/app/_templates/LocalPage';
+import { generateLocalPageMetadata } from '@/app/_templates/LocalPage';
 
-export const metadata: Metadata = {
-  title: `Déménagement à Centre-ville (Rouen) | Devis gratuit & IA`,
-  description: `Déménagement à Centre-ville (Rouen). Cœur historique de Rouen, patrimoine médiéval, rues piétonnes et commerces. Accès délicat pour les déménagements. Accès: Rues piétonnes, circulation limitée, parkings payants, escaliers anciens. Devis gratuit avec estimation IA.`,
-  keywords: `déménagement Centre-ville Rouen, déménageurs Rouen, devis déménagement Rouen, Rues piétonnes, circulation limitée, parkings payants, escaliers anciens`,
-};
+export const metadata: Metadata = generateLocalPageMetadata('centre-ville', 'Centre-ville');
+
 
 const rouenCentrevilleData = {
   zone: "centre-ville",

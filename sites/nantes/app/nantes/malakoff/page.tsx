@@ -1,11 +1,9 @@
 import { Metadata } from 'next';
 import LocalPage from '@/app/_templates/LocalPage';
+import { generateLocalPageMetadata } from '@/app/_templates/LocalPage';
 
-export const metadata: Metadata = {
-  title: `Déménagement à Malakoff (Nantes) | Devis gratuit & IA`,
-  description: `Déménagement à Malakoff (Nantes). Quartier populaire de Nantes, proche du centre. Mixité sociale et accès varié. Accès: Rues normales, parkings de rue, mixité ancien/moderne. Devis gratuit avec estimation IA.`,
-  keywords: `déménagement Malakoff Nantes, déménageurs Nantes, devis déménagement Nantes, Rues normales, parkings de rue, mixité ancien/moderne`,
-};
+export const metadata: Metadata = generateLocalPageMetadata('malakoff', 'Malakoff');
+
 
 const nantesMalakoffData = {
   zone: "malakoff",

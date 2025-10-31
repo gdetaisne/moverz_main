@@ -1,11 +1,9 @@
 import { Metadata } from 'next';
 import LocalPage from '@/app/_templates/LocalPage';
+import { generateLocalPageMetadata } from '@/app/_templates/LocalPage';
 
-export const metadata: Metadata = {
-  title: `Déménagement à La Presqu'île (Lyon) | Devis gratuit & IA`,
-  description: `Déménagement à La Presqu'île (Lyon). Cœur commercial de Lyon entre Rhône et Saône. Patrimoine historique et commerces. Accès délicat. Accès: Rues commerçantes, circulation limitée, parkings payants, escaliers anciens. Devis gratuit avec estimation IA.`,
-  keywords: `déménagement La Presqu'île Lyon, déménageurs Lyon, devis déménagement Lyon, Rues commerçantes, circulation limitée, parkings payants, escaliers anciens`,
-};
+export const metadata: Metadata = generateLocalPageMetadata('presquile', 'La Presqu'île');
+
 
 const lyonLaPresquleData = {
   zone: "presquile",

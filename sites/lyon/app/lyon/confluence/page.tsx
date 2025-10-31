@@ -1,11 +1,9 @@
 import { Metadata } from 'next';
 import LocalPage from '@/app/_templates/LocalPage';
+import { generateLocalPageMetadata } from '@/app/_templates/LocalPage';
 
-export const metadata: Metadata = {
-  title: `Déménagement à Confluence (Lyon) | Devis gratuit & IA`,
-  description: `Déménagement à Confluence (Lyon). Nouveau quartier de Lyon, architecture contemporaine. Logements modernes et accès facilité. Accès: Avenues modernes, parkings souterrains, immeubles récents. Devis gratuit avec estimation IA.`,
-  keywords: `déménagement Confluence Lyon, déménageurs Lyon, devis déménagement Lyon, Avenues modernes, parkings souterrains, immeubles récents`,
-};
+export const metadata: Metadata = generateLocalPageMetadata('confluence', 'Confluence');
+
 
 const lyonConfluenceData = {
   zone: "confluence",

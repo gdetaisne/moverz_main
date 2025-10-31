@@ -1,11 +1,9 @@
 import { Metadata } from 'next';
 import LocalPage from '@/app/_templates/LocalPage';
+import { generateLocalPageMetadata } from '@/app/_templates/LocalPage';
 
-export const metadata: Metadata = {
-  title: `Déménagement à Saint-Sever (Rouen) | Devis gratuit & IA`,
-  description: `Déménagement à Saint-Sever (Rouen). Quartier commerçant de Rouen, rive gauche de la Seine. Accès facilité par les grandes avenues. Accès: Avenues larges, parkings commerciaux, immeubles modernes. Devis gratuit avec estimation IA.`,
-  keywords: `déménagement Saint-Sever Rouen, déménageurs Rouen, devis déménagement Rouen, Avenues larges, parkings commerciaux, immeubles modernes`,
-};
+export const metadata: Metadata = generateLocalPageMetadata('saint-sever', 'Saint-Sever');
+
 
 const rouenSaintSeverData = {
   zone: "saint-sever",

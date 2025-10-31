@@ -1,11 +1,9 @@
 import { Metadata } from 'next';
 import LocalPage from '@/app/_templates/LocalPage';
+import { generateLocalPageMetadata } from '@/app/_templates/LocalPage';
 
-export const metadata: Metadata = {
-  title: `Déménagement à Villejean (Rennes) | Devis gratuit & IA`,
-  description: `Déménagement à Villejean (Rennes). Quartier populaire de Rennes, universités et logements sociaux. Accès généralement facilité. Accès: Boulevards larges, parkings disponibles, immeubles avec ascenseurs. Devis gratuit avec estimation IA.`,
-  keywords: `déménagement Villejean Rennes, déménageurs Rennes, devis déménagement Rennes, Boulevards larges, parkings disponibles, immeubles avec ascenseurs`,
-};
+export const metadata: Metadata = generateLocalPageMetadata('villejean', 'Villejean');
+
 
 const rennesVillejeanData = {
   zone: "villejean",

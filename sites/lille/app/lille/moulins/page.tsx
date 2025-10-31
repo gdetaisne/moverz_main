@@ -1,11 +1,8 @@
 import { Metadata } from 'next';
 import LocalPage from '@/app/_templates/LocalPage';
+import { generateLocalPageMetadata } from '@/app/_templates/LocalPage';
 
-export const metadata: Metadata = {
-  title: `Déménagement à Moulins (Lille) | Devis gratuit & IA`,
-  description: `Déménagement à Moulins (Lille). Quartier résidentiel de Lille, proche du centre. Logements variés et accès facilité. Accès: Avenues principales, parkings disponibles, immeubles modernes. Devis gratuit avec estimation IA.`,
-  keywords: `déménagement Moulins Lille, déménageurs Lille, devis déménagement Lille, Avenues principales, parkings disponibles, immeubles modernes`,
-};
+export const metadata: Metadata = generateLocalPageMetadata('moulins', 'Moulins');
 
 const lilleMoulinsData = {
   zone: "moulins",

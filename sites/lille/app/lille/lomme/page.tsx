@@ -1,11 +1,8 @@
 import { Metadata } from 'next';
 import LocalPage from '@/app/_templates/LocalPage';
+import { generateLocalPageMetadata } from '@/app/_templates/LocalPage';
 
-export const metadata: Metadata = {
-  title: `Déménagement à Lomme (Lille) | Devis gratuit & IA`,
-  description: `Déménagement à Lomme (Lille). Quartier résidentiel moderne de Lille, proche des zones d'activité. Accès facilité. Accès: Boulevards larges, parkings nombreux, immeubles récents. Devis gratuit avec estimation IA.`,
-  keywords: `déménagement Lomme Lille, déménageurs Lille, devis déménagement Lille, Boulevards larges, parkings nombreux, immeubles récents`,
-};
+export const metadata: Metadata = generateLocalPageMetadata('lomme', 'Lomme');
 
 const lilleLommeData = {
   zone: "lomme",

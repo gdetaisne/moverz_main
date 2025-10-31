@@ -1,11 +1,9 @@
 import { Metadata } from 'next';
 import LocalPage from '@/app/_templates/LocalPage';
+import { generateLocalPageMetadata } from '@/app/_templates/LocalPage';
 
-export const metadata: Metadata = {
-  title: `Déménagement à Saint-Marc (Rouen) | Devis gratuit & IA`,
-  description: `Déménagement à Saint-Marc (Rouen). Quartier résidentiel de Rouen, proche du centre et des transports. Mixité de logements anciens et récents. Accès: Rues normales, parkings de rue, mixité ancien/moderne. Devis gratuit avec estimation IA.`,
-  keywords: `déménagement Saint-Marc Rouen, déménageurs Rouen, devis déménagement Rouen, Rues normales, parkings de rue, mixité ancien/moderne`,
-};
+export const metadata: Metadata = generateLocalPageMetadata('saint-marc', 'Saint-Marc');
+
 
 const rouenSaintMarcData = {
   zone: "saint-marc",

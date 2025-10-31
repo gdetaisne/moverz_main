@@ -1,11 +1,9 @@
 import { Metadata } from 'next';
 import LocalPage from '@/app/_templates/LocalPage';
+import { generateLocalPageMetadata } from '@/app/_templates/LocalPage';
 
-export const metadata: Metadata = {
-  title: `Déménagement à Vieux Lyon (Lyon) | Devis gratuit & IA`,
-  description: `Déménagement à Vieux Lyon (Lyon). Quartier Renaissance de Lyon, patrimoine UNESCO. Rues pavées et traboules. Accès très délicat. Accès: Rues piétonnes, traboules étroites, parkings inexistants, escaliers anciens. Devis gratuit avec estimation IA.`,
-  keywords: `déménagement Vieux Lyon Lyon, déménageurs Lyon, devis déménagement Lyon, Rues piétonnes, traboules étroites, parkings inexistants, escaliers anciens`,
-};
+export const metadata: Metadata = generateLocalPageMetadata('vieux-lyon', 'Vieux Lyon');
+
 
 const lyonVieuxLyonData = {
   zone: "vieux-lyon",

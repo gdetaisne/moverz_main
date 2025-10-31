@@ -1,11 +1,8 @@
 import { Metadata } from 'next';
 import LocalPage from '@/app/_templates/LocalPage';
+import { generateLocalPageMetadata } from '@/app/_templates/LocalPage';
 
-export const metadata: Metadata = {
-  title: `Déménagement à Wazemmes (Lille) | Devis gratuit & IA`,
-  description: `Déménagement à Wazemmes (Lille). Quartier populaire de Lille, marché et mixité sociale. Accès varié selon les secteurs. Accès: Rues normales, parkings limités, mixité ancien/moderne. Devis gratuit avec estimation IA.`,
-  keywords: `déménagement Wazemmes Lille, déménageurs Lille, devis déménagement Lille, Rues normales, parkings limités, mixité ancien/moderne`,
-};
+export const metadata: Metadata = generateLocalPageMetadata('wazemmes', 'Wazemmes');
 
 const lilleWazemmesData = {
   zone: "wazemmes",

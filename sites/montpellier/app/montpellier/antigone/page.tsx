@@ -1,11 +1,9 @@
 import { Metadata } from 'next';
 import LocalPage from '@/app/_templates/LocalPage';
+import { generateLocalPageMetadata } from '@/app/_templates/LocalPage';
 
-export const metadata: Metadata = {
-  title: `Déménagement à Antigone (Montpellier) | Devis gratuit & IA`,
-  description: `Déménagement à Antigone (Montpellier). Quartier néo-classique des années 80, architecture monumentale signée Ricardo Bofill. Larges avenues et immeubles modernes. Accès: Avenues larges, stationnement aisé, accès facile pour gros véhicules. Devis gratuit avec estimation IA.`,
-  keywords: `déménagement Antigone Montpellier, déménageurs Montpellier, devis déménagement Montpellier, avenues larges, stationnement facile`,
-};
+export const metadata: Metadata = generateLocalPageMetadata('antigone', 'Antigone');
+
 
 const montpellierAntigoneData = {
   zone: "antigone",

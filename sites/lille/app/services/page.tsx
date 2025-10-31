@@ -1,6 +1,22 @@
 import Hero from "@/components/Hero";
 import CtaPrimary from "@/components/CtaPrimary";
 import Breadcrumbs from "@/components/Breadcrumbs";
+import { getCanonicalUrl } from "@/lib/canonical-helper";
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Nos Services de Déménagement Lille - Comparateur Gratuit",
+  description: "Découvrez nos formules de déménagement à Lille : Économique, Standard, Premium. Estimation IA gratuite, devis personnalisés sous 7j. Comparaison transparente.",
+  alternates: {
+    canonical: getCanonicalUrl('services'),
+  },
+  openGraph: {
+    title: "Services Déménagement Lille",
+    description: "Formules adaptées à tous les budgets. Estimation IA gratuite.",
+    url: getCanonicalUrl('services'),
+    type: 'website',
+  },
+};
 
 export default function ServicesPage() {
   return (

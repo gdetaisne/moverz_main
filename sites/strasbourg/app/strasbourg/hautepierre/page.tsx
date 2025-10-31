@@ -1,11 +1,9 @@
 import { Metadata } from 'next';
 import LocalPage from '@/app/_templates/LocalPage';
+import { generateLocalPageMetadata } from '@/app/_templates/LocalPage';
 
-export const metadata: Metadata = {
-  title: `Déménagement à Hautepierre (Strasbourg) | Devis gratuit & IA`,
-  description: `Déménagement à Hautepierre (Strasbourg). Grand ensemble moderne de Strasbourg, architecture des années 70. Accès facilité par les grandes avenues. Accès: Boulevards larges, parkings nombreux, immeubles avec ascenseurs. Devis gratuit avec estimation IA.`,
-  keywords: `déménagement Hautepierre Strasbourg, déménageurs Strasbourg, devis déménagement Strasbourg, Boulevards larges, parkings nombreux, immeubles avec ascenseurs`,
-};
+export const metadata: Metadata = generateLocalPageMetadata('hautepierre', 'Hautepierre');
+
 
 const strasbourgHautepierreData = {
   zone: "hautepierre",

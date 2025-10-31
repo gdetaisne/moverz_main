@@ -1,11 +1,9 @@
 import { Metadata } from 'next';
 import LocalPage from '@/app/_templates/LocalPage';
+import { generateLocalPageMetadata } from '@/app/_templates/LocalPage';
 
-export const metadata: Metadata = {
-  title: `Déménagement à Dervallières (Nantes) | Devis gratuit & IA`,
-  description: `Déménagement à Dervallières (Nantes). Quartier résidentiel de Nantes, logements sociaux et privés. Accès généralement facilité. Accès: Boulevards larges, parkings disponibles, immeubles avec ascenseurs. Devis gratuit avec estimation IA.`,
-  keywords: `déménagement Dervallières Nantes, déménageurs Nantes, devis déménagement Nantes, Boulevards larges, parkings disponibles, immeubles avec ascenseurs`,
-};
+export const metadata: Metadata = generateLocalPageMetadata('dervallieres', 'Dervallières');
+
 
 const nantesDervalliresData = {
   zone: "dervallieres",

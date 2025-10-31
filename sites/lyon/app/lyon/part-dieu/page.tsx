@@ -1,11 +1,9 @@
 import { Metadata } from 'next';
 import LocalPage from '@/app/_templates/LocalPage';
+import { generateLocalPageMetadata } from '@/app/_templates/LocalPage';
 
-export const metadata: Metadata = {
-  title: `Déménagement à Part-Dieu (Lyon) | Devis gratuit & IA`,
-  description: `Déménagement à Part-Dieu (Lyon). Quartier d'affaires moderne de Lyon, gare TGV et centre commercial. Accès facilité. Accès: Boulevards larges, parkings nombreux, immeubles avec ascenseurs. Devis gratuit avec estimation IA.`,
-  keywords: `déménagement Part-Dieu Lyon, déménageurs Lyon, devis déménagement Lyon, Boulevards larges, parkings nombreux, immeubles avec ascenseurs`,
-};
+export const metadata: Metadata = generateLocalPageMetadata('part-dieu', 'Part-Dieu');
+
 
 const lyonPartDieuData = {
   zone: "part-dieu",

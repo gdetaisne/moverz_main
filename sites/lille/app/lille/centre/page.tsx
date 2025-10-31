@@ -1,11 +1,8 @@
 import { Metadata } from 'next';
 import LocalPage from '@/app/_templates/LocalPage';
+import { generateLocalPageMetadata } from '@/app/_templates/LocalPage';
 
-export const metadata: Metadata = {
-  title: `Déménagement à Centre (Lille) | Devis gratuit & IA`,
-  description: `Déménagement à Centre (Lille). Quartier commerçant de Lille, Grand Place et shopping. Accès délicat par la circulation. Accès: Rues commerçantes, circulation dense, parkings payants. Devis gratuit avec estimation IA.`,
-  keywords: `déménagement Centre Lille, déménageurs Lille, devis déménagement Lille, Rues commerçantes, circulation dense, parkings payants`,
-};
+export const metadata: Metadata = generateLocalPageMetadata('centre', 'Centre');
 
 const lilleCentreData = {
   zone: "centre",

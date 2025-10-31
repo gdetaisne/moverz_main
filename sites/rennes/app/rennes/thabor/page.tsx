@@ -1,11 +1,9 @@
 import { Metadata } from 'next';
 import LocalPage from '@/app/_templates/LocalPage';
+import { generateLocalPageMetadata } from '@/app/_templates/LocalPage';
 
-export const metadata: Metadata = {
-  title: `Déménagement à Thabor (Rennes) | Devis gratuit & IA`,
-  description: `Déménagement à Thabor (Rennes). Quartier résidentiel de Rennes, proche du parc du Thabor. Logements anciens et accès varié. Accès: Rues normales, parkings de rue, immeubles anciens. Devis gratuit avec estimation IA.`,
-  keywords: `déménagement Thabor Rennes, déménageurs Rennes, devis déménagement Rennes, Rues normales, parkings de rue, immeubles anciens`,
-};
+export const metadata: Metadata = generateLocalPageMetadata('thabor', 'Thabor');
+
 
 const rennesThaborData = {
   zone: "thabor",

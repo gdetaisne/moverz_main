@@ -1,11 +1,9 @@
 import { Metadata } from 'next';
 import LocalPage from '@/app/_templates/LocalPage';
+import { generateLocalPageMetadata } from '@/app/_templates/LocalPage';
 
-export const metadata: Metadata = {
-  title: `Déménagement à Beaulieu (Rennes) | Devis gratuit & IA`,
-  description: `Déménagement à Beaulieu (Rennes). Quartier résidentiel moderne de Rennes, proche des zones d'activité. Accès facilité. Accès: Avenues modernes, parkings nombreux, immeubles récents. Devis gratuit avec estimation IA.`,
-  keywords: `déménagement Beaulieu Rennes, déménageurs Rennes, devis déménagement Rennes, Avenues modernes, parkings nombreux, immeubles récents`,
-};
+export const metadata: Metadata = generateLocalPageMetadata('beaulieu', 'Beaulieu');
+
 
 const rennesBeaulieuData = {
   zone: "beaulieu",

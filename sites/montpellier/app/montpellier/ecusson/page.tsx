@@ -1,11 +1,9 @@
 import { Metadata } from 'next';
 import LocalPage from '@/app/_templates/LocalPage';
+import { generateLocalPageMetadata } from '@/app/_templates/LocalPage';
 
-export const metadata: Metadata = {
-  title: `Déménagement dans l'Écusson (Montpellier) | Devis gratuit & IA`,
-  description: `Déménagement dans l'Écusson (Montpellier). Centre historique médiéval, ruelles pavées et hôtels particuliers. Cœur patrimonial de la ville. Accès: Ruelles très étroites, zone piétonne, accès impossible pour gros véhicules, manutention manuelle. Devis gratuit avec estimation IA.`,
-  keywords: `déménagement Écusson Montpellier, déménageurs Montpellier, devis déménagement Montpellier, centre historique, ruelles médiévales`,
-};
+export const metadata: Metadata = generateLocalPageMetadata('ecusson', 'Écusson');
+
 
 const montpellierEcussonData = {
   zone: "ecusson",

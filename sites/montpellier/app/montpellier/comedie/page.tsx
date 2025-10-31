@@ -1,11 +1,9 @@
 import { Metadata } from 'next';
 import LocalPage from '@/app/_templates/LocalPage';
+import { generateLocalPageMetadata } from '@/app/_templates/LocalPage';
 
-export const metadata: Metadata = {
-  title: `Déménagement Place de la Comédie (Montpellier) | Devis gratuit & IA`,
-  description: `Déménagement à la Comédie (Montpellier). Cœur névralgique de Montpellier, place emblématique et zone commerçante. Immeubles du XIXe siècle. Accès: Zone piétonne, accès très limité, autorisations nécessaires, horaires stricts. Devis gratuit avec estimation IA.`,
-  keywords: `déménagement Comédie Montpellier, déménageurs Montpellier, devis déménagement Montpellier, centre-ville`,
-};
+export const metadata: Metadata = generateLocalPageMetadata('comedie', 'Comédie');
+
 
 const montpellierComedieData = {
   zone: "comedie",

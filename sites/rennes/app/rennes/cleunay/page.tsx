@@ -1,11 +1,9 @@
 import { Metadata } from 'next';
 import LocalPage from '@/app/_templates/LocalPage';
+import { generateLocalPageMetadata } from '@/app/_templates/LocalPage';
 
-export const metadata: Metadata = {
-  title: `Déménagement à Cleunay (Rennes) | Devis gratuit & IA`,
-  description: `Déménagement à Cleunay (Rennes). Quartier résidentiel de Rennes, proche du centre. Mixité de logements et accès varié. Accès: Rues normales, parkings disponibles, mixité ancien/moderne. Devis gratuit avec estimation IA.`,
-  keywords: `déménagement Cleunay Rennes, déménageurs Rennes, devis déménagement Rennes, Rues normales, parkings disponibles, mixité ancien/moderne`,
-};
+export const metadata: Metadata = generateLocalPageMetadata('cleunay', 'Cleunay');
+
 
 const rennesCleunayData = {
   zone: "cleunay",

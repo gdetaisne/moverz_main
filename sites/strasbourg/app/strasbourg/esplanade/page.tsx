@@ -1,11 +1,9 @@
 import { Metadata } from 'next';
 import LocalPage from '@/app/_templates/LocalPage';
+import { generateLocalPageMetadata } from '@/app/_templates/LocalPage';
 
-export const metadata: Metadata = {
-  title: `Déménagement à Esplanade (Strasbourg) | Devis gratuit & IA`,
-  description: `Déménagement à Esplanade (Strasbourg). Quartier universitaire de Strasbourg, proche du campus et des résidences étudiantes. Accès varié selon les secteurs. Accès: Avenues principales, parkings limités, mixité immeubles/maisons. Devis gratuit avec estimation IA.`,
-  keywords: `déménagement Esplanade Strasbourg, déménageurs Strasbourg, devis déménagement Strasbourg, Avenues principales, parkings limités, mixité immeubles/maisons`,
-};
+export const metadata: Metadata = generateLocalPageMetadata('esplanade', 'Esplanade');
+
 
 const strasbourgEsplanadeData = {
   zone: "esplanade",

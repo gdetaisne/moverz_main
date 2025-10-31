@@ -1,11 +1,9 @@
 import { Metadata } from 'next';
 import LocalPage from '@/app/_templates/LocalPage';
+import { generateLocalPageMetadata } from '@/app/_templates/LocalPage';
 
-export const metadata: Metadata = {
-  title: `Déménagement à Ile de Nantes (Nantes) | Devis gratuit & IA`,
-  description: `Déménagement à Ile de Nantes (Nantes). Quartier en reconversion de Nantes, Loire et créativité. Logements modernes et accès facilité. Accès: Boulevards larges, parkings souterrains, immeubles récents. Devis gratuit avec estimation IA.`,
-  keywords: `déménagement Ile de Nantes Nantes, déménageurs Nantes, devis déménagement Nantes, Boulevards larges, parkings souterrains, immeubles récents`,
-};
+export const metadata: Metadata = generateLocalPageMetadata('ile-nantes', 'Ile de Nantes');
+
 
 const nantesIledeNantesData = {
   zone: "ile-nantes",

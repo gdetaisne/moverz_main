@@ -1,11 +1,9 @@
 import { Metadata } from 'next';
 import LocalPage from '@/app/_templates/LocalPage';
+import { generateLocalPageMetadata } from '@/app/_templates/LocalPage';
 
-export const metadata: Metadata = {
-  title: `Déménagement à Neudorf (Strasbourg) | Devis gratuit & IA`,
-  description: `Déménagement à Neudorf (Strasbourg). Quartier résidentiel moderne de Strasbourg, proche du centre-ville et des transports. Accès facilité pour les déménagements. Accès: Avenues larges, parkings disponibles, immeubles récents avec ascenseurs. Devis gratuit avec estimation IA.`,
-  keywords: `déménagement Neudorf Strasbourg, déménageurs Strasbourg, devis déménagement Strasbourg, Avenues larges, parkings disponibles, immeubles récents avec ascenseurs`,
-};
+export const metadata: Metadata = generateLocalPageMetadata('neudorf', 'Neudorf');
+
 
 const strasbourgNeudorfData = {
   zone: "neudorf",

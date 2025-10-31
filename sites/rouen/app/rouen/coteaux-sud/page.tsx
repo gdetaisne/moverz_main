@@ -1,11 +1,9 @@
 import { Metadata } from 'next';
 import LocalPage from '@/app/_templates/LocalPage';
+import { generateLocalPageMetadata } from '@/app/_templates/LocalPage';
 
-export const metadata: Metadata = {
-  title: `Déménagement à Coteaux-Sud (Rouen) | Devis gratuit & IA`,
-  description: `Déménagement à Coteaux-Sud (Rouen). Quartier résidentiel sur les hauteurs de Rouen, vue sur la Seine. Maisons individuelles et petits immeubles. Accès: Rues en pente, parkings privés, maisons individuelles. Devis gratuit avec estimation IA.`,
-  keywords: `déménagement Coteaux-Sud Rouen, déménageurs Rouen, devis déménagement Rouen, Rues en pente, parkings privés, maisons individuelles`,
-};
+export const metadata: Metadata = generateLocalPageMetadata('coteaux-sud', 'Coteaux-Sud');
+
 
 const rouenCoteauxSudData = {
   zone: "coteaux-sud",

@@ -1,11 +1,9 @@
 import { Metadata } from 'next';
 import LocalPage from '@/app/_templates/LocalPage';
+import { generateLocalPageMetadata } from '@/app/_templates/LocalPage';
 
-export const metadata: Metadata = {
-  title: `Déménagement à Cronenbourg (Strasbourg) | Devis gratuit & IA`,
-  description: `Déménagement à Cronenbourg (Strasbourg). Quartier populaire de Strasbourg avec mixité sociale. Logements variés et accès généralement facilité. Accès: Rues normales, parkings de rue, immeubles et maisons individuelles. Devis gratuit avec estimation IA.`,
-  keywords: `déménagement Cronenbourg Strasbourg, déménageurs Strasbourg, devis déménagement Strasbourg, Rues normales, parkings de rue, immeubles et maisons individuelles`,
-};
+export const metadata: Metadata = generateLocalPageMetadata('cronenbourg', 'Cronenbourg');
+
 
 const strasbourgCronenbourgData = {
   zone: "cronenbourg",
