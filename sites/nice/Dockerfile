@@ -1,5 +1,5 @@
 # Dockerfile multi-sites Moverz - nice
-# Version canonique: 2025-10-29
+# Version canonique: 2025-10-31 (fixed SITE_URL default)
 #
 # ⚠️  WARNING: Ce fichier est généré depuis .templates/Dockerfile.template
 # ⚠️  NE PAS MODIFIER CE FICHIER DIRECTEMENT
@@ -9,6 +9,7 @@ FROM node:20-alpine AS base
 RUN apk add --no-cache libc6-compat
 WORKDIR /app
 ARG SITE_URL=https://www.nice-demenageur.fr
+ENV SITE_URL=${SITE_URL}
 
 # Install dependencies
 FROM base AS deps
