@@ -37,8 +37,8 @@ interface LocalPageProps {
 
 export function generateLocalPageMetadata(zone: string, zoneDisplay: string): Metadata {
   return {
-    title: `Déménagement ${zoneDisplay} Strasbourg - Tarifs & Devis Gratuit | Moverz`,
-    description: `Déménageur local ${zoneDisplay} à Strasbourg : tarifs détaillés, disponibilités immédiates. Devis personnalisé gratuit sous 7j. Équipe locale expérimentée. Réservation en ligne simple.`,
+    title: `Déménageurs ${zoneDisplay} (Strasbourg) : Devis Comparables | 2025`,
+    description: `Cahier des charges en clics → devis comparables ${zoneDisplay}. Contraintes locales (parking, accès). Sélection minucieuse. 100% en ligne, gratuit.`,
   };
 }
 

@@ -37,8 +37,8 @@ interface LocalPageProps {
 
 export function generateLocalPageMetadata(zone: string, zoneDisplay: string): Metadata {
   return {
-    title: `Déménagement ${zoneDisplay} Rouen - Tarifs & Devis Gratuit | Moverz`,
-    description: `Déménageur local ${zoneDisplay} à Rouen : tarifs détaillés, disponibilités immédiates. Devis personnalisé gratuit sous 7j. Équipe locale expérimentée. Réservation en ligne simple.`,
+    title: `Déménageurs ${zoneDisplay} (Rouen) : Devis Comparables | 2025`,
+    description: `Cahier des charges en clics → devis comparables ${zoneDisplay}. Contraintes locales (parking, accès). Sélection minucieuse. 100% en ligne, gratuit.`,
   };
 }
 
