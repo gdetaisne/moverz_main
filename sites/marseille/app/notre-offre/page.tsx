@@ -26,7 +26,7 @@ export default function NotreOffrePage() {
             <Breadcrumbs 
               items={[
                 { label: "Accueil", href: "/" },
-                { label: "Comment ça marche", href: "/comment-ca-marche" }
+                { label: "Comment ça marche", href: "/comment-ca-marche/" }
               ]}
             />
             <h1 className="mt-6 text-3xl font-bold tracking-tight sm:text-4xl md:text-5xl">

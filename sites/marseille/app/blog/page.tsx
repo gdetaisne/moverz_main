@@ -89,7 +89,7 @@ export default function BlogPage() {
             <Breadcrumbs 
               items={[
                 { label: "Accueil", href: "/" },
-                { label: "Blog", href: "/blog" }
+                { label: "Blog", href: "/blog/" }
               ]}
             />
             

@@ -126,7 +126,7 @@ export default function BlogPostPage({ params }: BlogPostPageProps) {
           <Breadcrumbs 
             items={[
               { label: "Accueil", href: "/" },
-              { label: "Blog", href: "/blog" },
+              { label: "Blog", href: "/blog/" },
               { label: categoryLabel, href: `/blog/${post.cleanCategory}` },
               { label: post.title, href: `/blog/${post.cleanCategory}/${post.cleanSlug}` }
             ]}

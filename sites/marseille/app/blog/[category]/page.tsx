@@ -115,7 +115,7 @@ export default function CategoryPage({ params }: CategoryPageProps) {
             <Breadcrumbs 
               items={[
                 { label: "Accueil", href: "/" },
-                { label: "Blog", href: "/blog" },
+                { label: "Blog", href: "/blog/" },
                 { label: categoryLabel, href: `/blog/${params.category}` }
               ]}
             />
