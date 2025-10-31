@@ -236,7 +236,7 @@ featured: false
 **Déménagement F3-F4 Nice famille :**
 - **Garde enfants J** : Obligatoire (babysitter 96-144€/jour 2 enfants)
 - **Chambres enfants priorité** : Lits montés J (vs parents dépliage canapé)
-- [Déménager avec enfants Nice](/blog/demenagement-general/demenagement-etudiant-nice-guide)
+- [Déménager avec enfants Nice](/blog/demenagement-general/demenagement-avec-enfants-nice)
 
 **Répartition couple parents :**
 - Partenaire A : Supervision déménagement

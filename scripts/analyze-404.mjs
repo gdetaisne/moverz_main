@@ -29,7 +29,7 @@ const categoryMappings = {
     'prix-demenagement-piano-marseille': 'prix-piano',
   },
   nice: {
-    // Catégories standardisées (format court, pas de mapping)
+    // Catégories standardisées (format court, SANS suffix -nice)
     'aide-demenagement-nice': 'aide-demenagement',
     'aide-demenagement': 'aide-demenagement',
     'demenagement-entreprise-nice': 'demenagement-entreprise',
@@ -51,13 +51,17 @@ const categoryMappings = {
     'petit-demenagement': 'petit-demenagement',
     'prix-demenagement-nice': 'prix-demenagement',
     'prix-demenagement': 'prix-demenagement',
-    'demenagement-nice': 'demenagement-general',
+    'demenagement-general-nice': 'demenagement-general',
     'demenagement-general': 'demenagement-general',
+    // IMPORTANT: satellites n'est PAS une catégorie URL, c'est juste un dossier de structure
+    // Les articles satellites utilisent les catégories réelles ci-dessus selon leur contenu
+    'satellites': null, // Ne pas générer d'URL avec /blog/satellites/ ou /blog/conseils/
+  },
+  toulouse: {
+    // Mapping basé sur les dossiers et le frontmatter
+    'piliers': 'piliers-multiple', // Les piliers ont chacun leur catégorie dans le frontmatter
     'satellites': 'conseils',
     'conseils': 'conseils',
-    'demenagement-objets-fragiles': 'demenagement-objets-fragiles',
-    'demenagement-longue-distance': 'demenagement-longue-distance',
-    'demenagement-local': 'demenagement-local',
   }
 };
 
@@ -69,6 +73,34 @@ function cleanSlug(slug, category, city) {
   clean = clean.replace(/-guide-complet$/i, '-guide');
   
   return clean;
+}
+
+// Fonction pour lire le frontmatter et extraire la catégorie
+function getCategoryFromFrontmatter(filePath, city) {
+  try {
+    const content = fs.readFileSync(filePath, 'utf8');
+    const frontmatterMatch = content.match(/^---\n([\s\S]*?)\n---/);
+    
+    if (frontmatterMatch) {
+      const frontmatter = frontmatterMatch[1];
+      const categoryMatch = frontmatter.match(/^category:\s*["']?([^"'\n]+)["']?/m);
+      
+      if (categoryMatch) {
+        let category = categoryMatch[1].trim();
+        
+        // Pour Nice : retirer le suffix -nice de la catégorie
+        if (city === 'nice' && category.endsWith('-nice')) {
+          category = category.replace(/-nice$/, '');
+        }
+        
+        return category;
+      }
+    }
+  } catch (error) {
+    // Ignorer les erreurs de lecture
+  }
+  
+  return null;
 }
 
 // Récupérer tous les articles existants pour une ville
@@ -94,12 +126,31 @@ function getExistingArticles(city) {
 
     files.forEach(file => {
       const slug = file.replace('.md', '');
-      const cleanCategory = categoryMap[category] || category;
+      const filePath = path.join(categoryPath, file);
+      
+      // Pour Nice et Toulouse : lire le frontmatter pour obtenir la vraie catégorie
+      let cleanCategory;
+      if (city === 'nice' || city === 'toulouse') {
+        cleanCategory = getCategoryFromFrontmatter(filePath, city);
+        
+        // Fallback au mapping si pas de frontmatter
+        if (!cleanCategory) {
+          cleanCategory = categoryMap[category] || category;
+        }
+      } else {
+        cleanCategory = categoryMap[category] || category;
+      }
+      
+      // Skip si la catégorie est null (cas des satellites mal configurés)
+      if (cleanCategory === null) {
+        return;
+      }
+      
       const cleanedSlug = cleanSlug(slug, category, city);
       const url = `/blog/${cleanCategory}/${cleanedSlug}`;
       
       articles.set(url, {
-        file: path.join(categoryPath, file),
+        file: filePath,
         category: cleanCategory,
         slug: cleanedSlug,
         originalSlug: slug,
