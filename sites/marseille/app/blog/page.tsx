@@ -310,7 +310,7 @@ export default function BlogPage() {
             {allPosts.filter(p => p.type === 'satellite').length > 9 && (
               <div className="mt-12 text-center">
                 <Link
-                  href="/blog"
+                  href="/blog/"
                   className="inline-flex items-center gap-3 px-8 py-4 rounded-2xl bg-white/5 border border-white/20 text-white font-semibold hover:bg-white/10 hover:border-[#6bcfcf]/50 hover:scale-105 transition-all duration-300"
                 >
                   Voir tous les articles
@@ -340,7 +340,7 @@ export default function BlogPage() {
                 <strong> Rapide, gratuit, et sans engagement.</strong>
               </p>
               <Link 
-                href="/inventaire-ia" 
+                href="/inventaire-ia/" 
                 className="inline-flex items-center gap-3 px-10 py-5 rounded-2xl bg-white text-[#04163a] font-bold text-lg hover:bg-[#04163a] hover:text-white hover:scale-110 transition-all duration-300 shadow-2xl"
               >
                 Obtenir 5 devis gratuits

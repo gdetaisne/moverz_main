@@ -176,7 +176,7 @@ export default function BlogPostPage({ params }: BlogPostPageProps) {
             pour vous accompagner dans votre projet.
           </p>
           <Link 
-            href="/inventaire-ia" 
+            href="/inventaire-ia/" 
             className="inline-flex items-center px-6 py-3 rounded-2xl bg-[#2b7a78] text-white font-medium hover:brightness-110 transition duration-300"
           >
             Obtenir un devis gratuit
