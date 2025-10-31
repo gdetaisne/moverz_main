@@ -149,6 +149,8 @@ Si vous avez le permis B, êtes en bonne condition physique, et disposez d'amis 
 - **Camion 20m³** : 80-140€/jour (T2, T3)
 - **Camion 30m³** : 120-200€/jour (T4, maison)
 
+Pour tous les détails pratiques sur la location (comparatif loueurs, conseils conduite, options), découvrez notre [guide location camion Nice](/blog/location-camion-demenagement-nice/location-camion-demenagement-nice-guide).
+
 **Où louer à Nice** :
 - Locations traditionnelles : Europcar, Sixt, Hertz (aéroport et centre-ville)
 - Locations entre particuliers : Getaround, Yescapa (souvent moins cher)
@@ -204,6 +206,8 @@ La **formule économique** est le meilleur compromis pour ceux qui veulent écon
 - T2 : 650-1 100€
 - T3 : 900-1 600€
 - T4 : 1 400-2 200€
+
+Pour une analyse complète des tarifs incluant toutes les formules et facteurs de prix, consultez notre [guide prix déménagement Nice](/blog/prix-demenagement-nice/prix-demenagement-nice-guide).
 
 **Pour qui ?** Particuliers organisés, disposant de temps pour préparer, et cherchant à économiser 40-50% par rapport à une formule standard.
 
@@ -277,6 +281,8 @@ Certains **déménageurs à Nice** proposent des **prestations à la carte** pou
 - Si votre nouveau logement n'est pas encore disponible
 - Stockage sécurisé de quelques jours à plusieurs mois
 - Évite de payer un double loyer
+
+Pour comparer toutes les options de stockage temporaire et éviter un double loyer, consultez notre [guide garde-meuble Nice](/blog/garde-meuble-nice/garde-meuble-nice-guide-complet).
 
 ## Comparatif des options de déménagement à Nice selon votre budget
 

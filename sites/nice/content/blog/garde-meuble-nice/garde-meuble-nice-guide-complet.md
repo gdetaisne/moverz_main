@@ -98,7 +98,7 @@ Le **garde meuble traditionnel** fonctionne différemment : vos affaires sont en
 - **Idéal pour du stockage longue durée** : Si vous n'avez pas besoin d'accéder régulièrement à vos meubles
 - **Service de manutention** : Certains prestataires s'occupent du chargement et déchargement
 
-Cette solution convient particulièrement pour un déménagement à l'étranger, un stockage pendant plusieurs mois, ou lorsque vous n'avez pas besoin d'accès fréquent.
+Cette solution convient particulièrement pour un déménagement à l'étranger, un stockage pendant plusieurs mois, ou lorsque vous n'avez pas besoin d'accès fréquent. Si vous combinez stockage et déménagement, consultez notre [guide déménagement pas cher Nice](/blog/demenagement-pas-cher-nice/demenagement-pas-cher-nice-guide) pour optimiser l'ensemble de vos coûts.
 
 ### Services complémentaires disponibles à Nice
 
@@ -281,7 +281,7 @@ En tant que spécialiste du **déménagement à Nice**, Moverz vous accompagne d
 
 **Restitution** : À la fin de la période de stockage, nous récupérons vos affaires et les livrons à votre nouvelle adresse, à Nice ou ailleurs en France.
 
-**Tarifs dégressifs** : Plus la durée de stockage est longue, plus le tarif mensuel diminue. Nous vous proposons les meilleures conditions du marché niçois.
+**Tarifs dégressifs** : Plus la durée de stockage est longue, plus le tarif mensuel diminue. Nous vous proposons les meilleures conditions du marché niçois. Pour une estimation complète incluant déménagement et stockage, consultez notre [guide prix déménagement Nice](/blog/prix-demenagement-nice/prix-demenagement-nice-guide).
 
 **Besoin d'une solution déménagement + stockage à Nice ?** Notre [service de mise en relation déménageurs Nice](/) vous permet de comparer instantanément les offres combinées garde-meuble et déménagement. Déménageurs vérifiés, tarifs transparents, économie moyenne de 40% en comparant. Trouvez votre solution complète en 2 minutes.
 
