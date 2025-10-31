@@ -1,5 +1,6 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
+import { getCanonicalUrl } from '@/lib/canonical-helper';
 
 interface CorridorPageProps {
   destination: string;
@@ -20,16 +21,18 @@ interface CorridorPageProps {
 }
 
 export function generateCorridorPageMetadata(destination: string): Metadata {
+  const canonicalUrl = getCanonicalUrl(`marseille-vers-${destination.toLowerCase()}`);
+  
   return {
     title: `Déménagement Marseille → ${destination} — Comparez des devis | Moverz`,
     description: `Un seul dossier, 20 déménageurs qualifiés. 3 devis sous 7 jours pour Marseille → ${destination}.`,
     alternates: {
-      canonical: `https://www.marseille-demenageur.fr/marseille-vers-${destination.toLowerCase()}`,
+      canonical: canonicalUrl,
     },
     openGraph: {
       title: `Déménagement Marseille → ${destination} — Comparez des devis | Moverz`,
       description: `Un seul dossier, 20 déménageurs qualifiés. 3 devis sous 7 jours pour Marseille → ${destination}.`,
-      url: `https://www.marseille-demenageur.fr/marseille-vers-${destination.toLowerCase()}`,
+      url: canonicalUrl,
       type: 'website',
     },
   };
