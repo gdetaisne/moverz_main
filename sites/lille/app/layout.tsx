@@ -17,11 +17,8 @@ const inter = Inter({ subsets: ["latin"], display: "swap" });
 // Résoudre les données de ville dynamiquement
 const city = getCityDataFromUrl(env.SITE_URL);
 
-// Metadata centralisée avec wording spécifique Lille (source unique)
+// Metadata centralisée - wording intent transactionnel (isMoneyPage: true)
 export const metadata: Metadata = buildSiteMetadata({
-  customTitle: `Déménageur Lille dès 275€ | Comparateur Gratuit | -40% 2025`,
-  customTemplate: `%s | Déménagement Lille`,
-  customDescription: `Déménagement Lille : 5 devis gratuits en 2min. Prix dès 275€. Comparez et économisez 40%. ✓ Déménageurs Nord vérifiés ✓ 100% gratuit ✓ Réponse rapide.`,
   isMoneyPage: true,
 });
 

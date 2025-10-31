@@ -17,11 +17,8 @@ const inter = Inter({ subsets: ["latin"], display: "swap" });
 // Résoudre les données de ville dynamiquement
 const city = getCityDataFromUrl(env.SITE_URL);
 
-// Metadata centralisée avec wording spécifique Nantes (source unique)
+// Metadata centralisée - wording intent transactionnel (isMoneyPage: true)
 export const metadata: Metadata = buildSiteMetadata({
-  customTitle: `Déménageur Nantes dès 299€ | Devis Gratuit 2min | -40% 2025`,
-  customTemplate: `%s | Déménagement Nantes Pas Cher`,
-  customDescription: `Comparateur déménageurs Nantes : 5 devis en 2min. Prix transparents dès 299€. Économisez 40%. ✓ Gratuit ✓ Sans engagement ✓ Déménageurs vérifiés 2025.`,
   isMoneyPage: true,
 });
 

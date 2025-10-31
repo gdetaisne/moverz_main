@@ -17,11 +17,8 @@ const inter = Inter({ subsets: ["latin"], display: "swap" });
 // Résoudre les données de ville dynamiquement
 const city = getCityDataFromUrl(env.SITE_URL);
 
-// Metadata centralisée avec wording spécifique Rennes (source unique)
+// Metadata centralisée - wording intent transactionnel (isMoneyPage: true)
 export const metadata: Metadata = buildSiteMetadata({
-  customTitle: `Déménageur Rennes dès 280€ | 5 Devis Gratuits 2min | -40%`,
-  customTemplate: `%s | Déménagement Rennes`,
-  customDescription: `Déménagement Rennes : 5 devis en 2min. Prix dès 280€. Économisez 40%. ✓ 100% gratuit ✓ Déménageurs Ille-et-Vilaine vérifiés ✓ Sans engagement.`,
   isMoneyPage: true,
 });
 

@@ -17,11 +17,8 @@ const inter = Inter({ subsets: ["latin"], display: "swap" });
 // Résoudre les données de ville dynamiquement
 const city = getCityDataFromUrl(env.SITE_URL);
 
-// Metadata centralisée avec wording spécifique Montpellier (source unique)
+// Metadata centralisée - wording intent transactionnel (isMoneyPage: true)
 export const metadata: Metadata = buildSiteMetadata({
-  customTitle: `Déménageur Montpellier dès 295€ | Devis Gratuit 2min | -40%`,
-  customTemplate: `%s | Déménagement Montpellier`,
-  customDescription: `Déménagement Montpellier : 5 devis en 2min. Prix dès 295€. Économisez 40%. ✓ 100% gratuit ✓ Déménageurs Hérault vérifiés ✓ Réponse rapide.`,
   isMoneyPage: true,
 });
 

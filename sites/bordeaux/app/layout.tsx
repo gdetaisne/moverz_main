@@ -17,11 +17,8 @@ const inter = Inter({ subsets: ["latin"], display: "swap" });
 // Résoudre les données de ville dynamiquement
 const city = getCityDataFromUrl(env.SITE_URL);
 
-// Metadata centralisée avec wording spécifique Bordeaux (source unique)
+// Metadata centralisée - wording intent transactionnel (isMoneyPage: true)
 export const metadata: Metadata = buildSiteMetadata({
-  customTitle: `Déménagement Bordeaux Pas Cher | Devis Gratuit | -40% 2025`,
-  customTemplate: `%s | Déménageur Bordeaux`,
-  customDescription: `Déménagement Bordeaux : comparez 5 devis en 2min. Prix transparents dès 290€. Économisez 40%. ✓ Gratuit ✓ Déménageurs Gironde certifiés ✓ Sans engagement.`,
   isMoneyPage: true,
 });
 

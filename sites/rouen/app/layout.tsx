@@ -17,11 +17,8 @@ const inter = Inter({ subsets: ["latin"], display: "swap" });
 // Résoudre les données de ville dynamiquement
 const city = getCityDataFromUrl(env.SITE_URL);
 
-// Metadata centralisée avec wording spécifique Rouen (source unique)
+// Metadata centralisée - wording intent transactionnel (isMoneyPage: true)
 export const metadata: Metadata = buildSiteMetadata({
-  customTitle: `Déménageur Rouen dès 280€ | 5 Devis Gratuits en 2min | 2025`,
-  customTemplate: `%s | Déménagement Rouen`,
-  customDescription: `Déménagement Rouen : 5 devis gratuits en 2min. Prix dès 280€. Comparez et économisez 40%. ✓ Sans engagement ✓ Déménageurs locaux vérifiés ✓ Réponse rapide.`,
   isMoneyPage: true,
 });
 
