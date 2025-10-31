@@ -520,7 +520,7 @@ Clés succès mobilité internationale Lyon :
 
 De Lyon vers Genève, New York, Singapour ou Sydney, votre expatriation mérite accompagnement professionnel garantissant transition sereine vers votre nouvelle vie internationale.
 
-**Projet déménagement international depuis Lyon ? Contactez nos experts certifiés FIDI pour audit gratuit et devis personnalisé. Expertise destinations mondiales, coordination complète, tranquillité assurée !**
+**Déménagement international depuis Lyon ?** Notre [plateforme déménageurs internationaux Lyon](/) vous met en relation avec les meilleurs transporteurs certifiés FIDI. Comparez 5 devis gratuits, expertise douanes incluse, suivi en temps réel. Déménageurs internationaux vérifiés Lyon.
 
 ---
 

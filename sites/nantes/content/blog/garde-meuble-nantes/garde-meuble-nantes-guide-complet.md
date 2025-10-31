@@ -268,6 +268,8 @@ Choisir un garde-meuble à Nantes ne se limite pas à comparer des prix au mètr
 
 Que vous cherchiez un petit box pour quelques cartons d'archives ou un vaste espace pour stocker l'intégralité du mobilier de votre maison pendant des travaux, l'offre nantaise est riche et variée. Les solutions de self-stockage modernes offrent une sécurité optimale avec alarme, surveillance et contrôle d'accès, tout en garantissant une flexibilité maximale avec des horaires d'accès étendus.
 
+**Besoin d'une solution déménagement + stockage à Nantes ?** Notre [service de mise en relation déménageurs Nantes](/) vous permet de comparer instantanément les offres combinées garde-meuble et déménagement. Plus de 120 dossiers traités en 2025, économisez jusqu'à 40% en comparant plusieurs devis. Trouvez votre solution complète en 2 minutes.
+
 **Prochaines étapes pour louer votre garde-meuble à Nantes** :
 
 1. **Estimez votre volume** : Faites l'inventaire précis de ce que vous devez stocker

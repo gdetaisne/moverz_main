@@ -291,7 +291,7 @@ Prenez le temps de comparer les agences, réservez en avance pour bénéficier d
 
 De la Presqu'île à Villeurbanne, de Monplaisir à la Croix-Rousse, votre déménagement lyonnais en autonomie complète devient une expérience maîtrisée et économique.
 
-**Besoin d'un camion de déménagement à Lyon ? Comparez les tarifs des meilleures agences lyonnaises et réservez dès maintenant votre utilitaire au meilleur prix !**
+**Location camion ou déménageur professionnel ?** Comparez les deux options avec notre [service comparatif déménagement Lyon](/). Obtenez 5 devis déménageurs + tarifs location camion en 2 minutes. Faites le meilleur choix pour votre budget et situation.
 
 ---
 

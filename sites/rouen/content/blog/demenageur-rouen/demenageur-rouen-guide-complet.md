@@ -348,11 +348,7 @@ Nous nous engageons à répondre à toute demande de devis sous 24h et à effect
 
 Vous préparez un déménagement à Rouen ou dans l'agglomération ? Contactez Moverz pour obtenir votre devis gratuit et personnalisé en moins de 24h.
 
-📞 **Appelez-nous** : Notre équipe vous répond du lundi au samedi de 8h à 19h  
-💻 **Devis en ligne** : Remplissez notre formulaire, nous vous recontactons rapidement  
-📧 **Email** : Envoyez-nous les détails de votre projet
-
-**Offre du moment** : Réservez votre déménagement avant fin janvier et bénéficiez de -10% sur toutes nos formules + premier mois de garde-meuble offert !
+**Cherchez un déménageur à Rouen ?** Notre [comparateur déménageurs locaux Rouen](/) vous met en relation avec les meilleurs professionnels certifiés. Comparez 5 devis gratuits, avis clients vérifiés, disponibilités en temps réel. Déménageurs Rouen vérifiés.
 
 ## Questions fréquentes sur les déménageurs à Rouen
 

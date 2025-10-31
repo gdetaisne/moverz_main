@@ -390,7 +390,7 @@ Vous connaissez désormais tous les facteurs influençant le prix d'un déménag
 4. **Comparez les offres** sur le prix, les prestations ET la réputation
 5. **Réservez 4-6 semaines à l'avance** (8 semaines en haute saison)
 
-**Besoin d'un devis gratuit et personnalisé pour votre déménagement à Rouen ?** Notre équipe se déplace chez vous pour évaluer précisément votre projet, vous conseiller sur la formule adaptée et vous proposer un tarif transparent sans surprise. **Contactez-nous dès aujourd'hui pour organiser votre visite technique.**
+**Estimez votre déménagement à Rouen ?** Utilisez notre [calculateur de prix déménagement Rouen](/) : renseignez votre volume en 2 minutes et recevez 5 devis personnalisés instantanément. Prix transparents, comparaison détaillée, économie moyenne de 40%.
 
 ---
 

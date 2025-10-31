@@ -271,11 +271,7 @@ Notre équipe rouennaise connaît parfaitement les spécificités locales. Nous 
 
 Vous bénéficiez de nos conseils pour optimiser l'organisation de votre box, emballer correctement vos objets fragiles et protéger vos meubles. Notre objectif : que vous retrouviez vos affaires dans l'état exact où vous les avez entreposées.
 
-### Demandez votre devis gratuit
-
-Prêt à libérer de l'espace chez vous ? Contactez-nous dès maintenant pour obtenir votre devis gratuit et personnalisé. Nos conseillers vous répondent rapidement et vous proposent la solution la plus adaptée à votre situation et votre budget.
-
-Profitez de notre offre du moment : premier mois offert pour toute nouvelle location de box à Rouen.
+**Besoin d'une solution déménagement + stockage à Rouen ?** Notre [service de mise en relation déménageurs Rouen](/) vous permet de comparer instantanément les offres combinées garde-meuble et déménagement. Déménageurs vérifiés, tarifs transparents, économie moyenne de 40% en comparant. Trouvez votre solution complète en 2 minutes.
 
 ## Questions fréquentes sur le garde meuble à Rouen
 

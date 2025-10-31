@@ -417,6 +417,8 @@ Si immeuble avec ascenseur, réservez-le pour la plage horaire (souvent via le g
 
 Un petit déménagement à Nantes mérite autant d'attention qu'un grand. Les solutions adaptées existent, des plus économiques (transport seul avec aide de vos amis) aux plus confortables (formule mini-tout compris où vous ne faites rien). L'important est de choisir l'option correspondant à votre budget, votre situation, et votre capacité physique.
 
+**Studio ou petit volume à déménager à Nantes ?** Utilisez notre [comparateur déménageurs petits volumes Nantes](/) spécialisés dans les studios et T1. Obtenez 5 devis adaptés à votre situation, formules économiques dès 250€. Plus de 120 dossiers traités à Nantes en 2025.
+
 **Les clés d'un petit déménagement réussi à Nantes** :
 
 1. **Évaluez précisément votre volume** (10, 15 ou 20 m³ ?)

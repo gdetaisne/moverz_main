@@ -72,6 +72,8 @@ Bordeaux et la métropole proposent plusieurs dispositifs d'aide au déménageme
 
 La métropole de Bordeaux propose également des dispositifs d'aide au logement et à l'installation qui peuvent inclure une participation aux frais de déménagement pour certaines catégories de population. Les associations caritatives et les fonds de solidarité locaux peuvent également apporter une aide ponctuelle en cas de difficultés financières. Il est recommandé de se renseigner auprès des services sociaux de sa commune et des associations locales pour identifier les aides disponibles selon sa situation personnelle.
 
+**Besoin d'un déménagement à Bordeaux ?** Découvrez notre [comparateur de déménageurs Bordeaux](/) pour obtenir 5 devis personnalisés en 2 minutes. Déménageurs vérifiés, tarifs transparents, économie moyenne de 40% en comparant. Trouvez la formule économique idéale pour votre budget bordelais.
+
 ## FAQ - Questions fréquentes sur le déménagement pas cher
 
 ### Est-il vraiment possible de déménager à moins de 300 € ?
