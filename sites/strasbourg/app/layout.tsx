@@ -17,11 +17,8 @@ const inter = Inter({ subsets: ["latin"], display: "swap" });
 // Résoudre les données de ville dynamiquement
 const city = getCityDataFromUrl(env.SITE_URL);
 
-// Metadata centralisée avec wording spécifique Strasbourg (source unique)
+// Metadata centralisée - wording intent transactionnel (isMoneyPage: true)
 export const metadata: Metadata = buildSiteMetadata({
-  customTitle: `Déménagement Strasbourg dès 290€ | Devis Gratuit 2min | -40%`,
-  customTemplate: `%s | Déménageur Strasbourg`,
-  customDescription: `Déménagement Strasbourg : comparez 5 devis en 2min. Prix dès 290€. Économisez 40%. ✓ Gratuit ✓ Déménageurs Bas-Rhin certifiés ✓ Sans engagement.`,
   isMoneyPage: true,
 });
 

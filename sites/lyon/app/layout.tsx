@@ -17,11 +17,8 @@ const inter = Inter({ subsets: ["latin"], display: "swap" });
 // Résoudre les données de ville dynamiquement
 const city = getCityDataFromUrl(env.SITE_URL);
 
-// Metadata centralisée avec wording spécifique Lyon (source unique)
+// Metadata centralisée - wording intent transactionnel (isMoneyPage: true)
 export const metadata: Metadata = buildSiteMetadata({
-  customTitle: `Déménagement Lyon Pas Cher | 5 Devis Gratuits 2min | -40%`,
-  customTemplate: `%s | Déménageur Lyon`,
-  customDescription: `Déménagement Lyon : comparez 5 devis en 2min. Prix dès 295€. Économisez 40%. ✓ Déménageurs Rhône certifiés ✓ Gratuit ✓ Sans engagement ✓ Réponse rapide.`,
   isMoneyPage: true,
 });
 
