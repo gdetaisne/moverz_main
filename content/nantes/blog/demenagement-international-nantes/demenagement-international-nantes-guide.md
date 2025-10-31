@@ -404,6 +404,8 @@ Cette connaissance locale optimise la logistique et évite les imprévus.
 
 Déménager à l'international depuis ou vers Nantes est un projet d'envergure qui nécessite expertise, organisation et anticipation. Entre la gestion logistique complexe, les formalités douanières multiples, et les risques liés au transport longue distance, faire appel à un déménageur international professionnel est indispensable.
 
+**Déménagement international depuis Nantes ?** Notre [plateforme déménageurs internationaux Nantes](/) vous met en relation avec les meilleurs transporteurs certifiés FIDI. Comparez 5 devis gratuits, expertise douanes incluse, suivi en temps réel. Plus de 120 dossiers traités à Nantes en 2025.
+
 **Les clés d'un déménagement international réussi** :
 
 1. **Anticipez** : Commencez vos démarches 3-6 mois avant le départ

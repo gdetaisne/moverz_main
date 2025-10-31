@@ -86,6 +86,8 @@ Le stockage temporaire, souvent nécessaire lors d'un déménagement, peut repr�
 
 Les entreprises de déménagement proposent souvent des tarifs préférentiels pour le stockage temporaire, particulièrement lorsqu'il s'agit d'une solution d'attente entre deux déménagements. Ces tarifs peuvent être négociés selon la durée de stockage et le volume concerné, représentant une économie significative par rapport aux tarifs de garde-meuble classiques.
 
+**Estimez votre déménagement à Bordeaux ?** Utilisez notre [calculateur de prix déménagement Bordeaux](/) : renseignez votre volume en 2 minutes et recevez 5 devis personnalisés instantanément. Prix transparents, comparaison détaillée, économie moyenne de 40%.
+
 ## FAQ - Questions fréquentes sur les prix
 
 **Quels sont les facteurs qui font le plus augmenter le prix d'un déménagement à Bordeaux ?**

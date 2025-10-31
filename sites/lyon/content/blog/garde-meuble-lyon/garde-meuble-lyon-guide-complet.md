@@ -237,7 +237,7 @@ Que vous déménagiez entre la Presqu'île et Villeurbanne, manquiez d'espace à
 
 La location d'un box de stockage sécurisé vous apporte flexibilité, sérénité et tranquillité d'esprit. Prenez le temps de comparer les offres, visitez les centres, vérifiez les conditions de sécurité et choisissez la taille adaptée à votre situation.
 
-**Besoin d'aide pour choisir votre solution de stockage ? Notre équipe vous accompagne dans votre projet à Lyon. Demandez votre devis gratuit et personnalisé dès maintenant !**
+**Besoin d'une solution déménagement + stockage à Lyon ?** Notre [service de mise en relation déménageurs Lyon](/) vous permet de comparer instantanément les offres combinées garde-meuble et déménagement. Déménageurs vérifiés, tarifs transparents, économie moyenne de 40% en comparant. Trouvez votre solution complète en 2 minutes.
 
 ---
 

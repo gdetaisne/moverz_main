@@ -327,7 +327,7 @@ Planifiez 3-6 mois minimum, désignez un chef de projet interne, sélectionnez u
 
 De Part-Dieu à Villeurbanne, de Gerland à Confluence, votre entreprise lyonnaise mérite un transfert à la hauteur de vos ambitions professionnelles.
 
-**Projet de déménagement d'entreprise à Lyon ? Contactez nos experts B2B pour un audit gratuit et un devis personnalisé. Solutions sur mesure, coordination complète, garantie continuité activité !**
+**Déménagement d'entreprise à Lyon ?** Notre [solution déménagement professionnel Lyon](/) vous connecte aux meilleurs spécialistes du transfert d'entreprise. Comparez 5 devis adaptés PME/Grandes entreprises, planification sur mesure, intervention week-end/nuit. Déménageurs professionnels vérifiés Lyon.
 
 ---
 

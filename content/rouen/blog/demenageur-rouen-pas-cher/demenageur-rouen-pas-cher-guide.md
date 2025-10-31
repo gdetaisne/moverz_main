@@ -386,9 +386,7 @@ Vous préparez un déménagement à Rouen et cherchez une solution économique e
 
 **🏠 Visite gratuite** : Demandez une visite technique à domicile à Rouen, sans engagement.
 
-**Offre spéciale en cours** : Réservez votre déménagement avant fin février et bénéficiez de **-15% sur toutes les formules** + **50 cartons de déménagement offerts** (valeur 100€) !
-
-Ne laissez pas un budget limité compromettre la qualité de votre déménagement. Avec Moverz, économie rime avec professionnalisme et tranquillité d'esprit.
+**Besoin d'un déménagement à Rouen ?** Découvrez notre [comparateur de déménageurs Rouen](/) pour obtenir 5 devis personnalisés en 2 minutes. Déménageurs vérifiés, tarifs transparents, économie moyenne de 40% en comparant. Trouvez la formule économique idéale pour votre budget rouennais.
 
 ## Questions fréquentes sur les déménageurs pas cher à Rouen
 

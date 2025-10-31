@@ -480,7 +480,7 @@ Déménager à l'international représente un projet complexe mobilisant des com
 4. **Vérifiez les certifications** (FIDI, IAM) et les assurances
 5. **Planifiez 4-6 mois à l'avance** pour les démarches administratives
 
-**Besoin d'un expert pour votre déménagement international depuis ou vers Rouen ?** Notre équipe spécialisée vous accompagne dans tous les pays du monde : transport maritime et aérien, formalités douanières, assurance complète, réseau international de partenaires FIDI. **Contactez-nous pour une étude personnalisée de votre projet d'expatriation.**
+**Déménagement international depuis Rouen ?** Notre [plateforme déménageurs internationaux Rouen](/) vous met en relation avec les meilleurs transporteurs certifiés FIDI. Comparez 5 devis gratuits, expertise douanes incluse, suivi en temps réel. Déménageurs internationaux vérifiés Rouen.
 
 ---
 

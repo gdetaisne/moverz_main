@@ -164,9 +164,7 @@ Organiser un déménagement étudiant demande du temps et de l'organisation. Si 
 
 Nous proposons des services adaptés aux étudiants : tarifs préférentiels, emballage sécurisé, et assurance complète. Nos déménageurs connaissent parfaitement Bordeaux et ses quartiers étudiants, garantissant un service efficace et personnalisé.
 
-**Demandez votre devis gratuit** et découvrez comment nous pouvons vous accompagner dans cette nouvelle étape de votre vie étudiante à Bordeaux.
-
-[Obtenir un devis gratuit pour mon déménagement étudiant →](/contact)
+**Déménagement étudiant à Bordeaux ?** Notre [comparateur déménageurs étudiants Bordeaux](/) vous propose des formules économiques adaptées. Comparez 5 devis, tarifs spéciaux étudiants, flexibilité dates. Déménageurs étudiants vérifiés Bordeaux.
 
 ---
 

@@ -249,7 +249,7 @@ Privilégiez une approche hybride : gérez l'emballage et le démontage vous-mê
 
 Le déménagement économique réussi combine anticipation, comparaison, et choix intelligents adaptés à votre situation personnelle. De la Presqu'île à Villeurbanne, de Guillotière à Monplaisir, votre projet lyonnais devient accessible financièrement.
 
-**Besoin d'un déménagement économique et fiable à Lyon ? Demandez gratuitement 3 devis personnalisés auprès de déménageurs lyonnais sélectionnés pour leur rapport qualité-prix !**
+**Besoin d'un déménagement à Lyon ?** Découvrez notre [comparateur de déménageurs Lyon](/) pour obtenir 5 devis personnalisés en 2 minutes. Déménageurs vérifiés, tarifs transparents, économie moyenne de 40% en comparant. Trouvez la formule économique idéale pour votre budget lyonnais.
 
 ---
 

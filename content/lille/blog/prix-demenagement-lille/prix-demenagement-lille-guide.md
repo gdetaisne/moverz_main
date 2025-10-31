@@ -117,6 +117,8 @@ Chez Moverz Lille, nous prônons la **transparence totale** : devis détaillé, 
 6. **Récupérez des cartons gratuits** : Supermarchés lillois.
 7. **Demandez les aides** : CAF, Action Logement, Pôle Emploi.
 
+**Estimez votre déménagement à Lille ?** Utilisez notre [calculateur de prix déménagement Lille](/) : renseignez votre volume en 2 minutes et recevez 5 devis personnalisés instantanément. Prix transparents, comparaison détaillée, économie moyenne de 40%.
+
 ## Conclusion
 
 Le prix d'un déménagement à Lille dépend de nombreux facteurs (volume, distance, formule, accès, période). Avec ce guide, vous comprenez comment se construit le tarif et comment l'optimiser. Ne vous contentez jamais d'un seul devis : comparez, négociez, et choisissez un déménageur transparent et professionnel.

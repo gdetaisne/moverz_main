@@ -442,7 +442,7 @@ Déménager à Rouen ne signifie pas affronter seul les contraintes du centre hi
 4. **Demandez plusieurs devis** pour comparer les services et tarifs
 5. **Renseignez-vous sur les aides financières** dont vous pourriez bénéficier
 
-**Besoin d'un accompagnement personnalisé pour votre déménagement à Rouen ?** Notre équipe vous propose des formules flexibles adaptées à chaque situation : de la simple aide au chargement à la prestation complète incluant emballage, transport et installation. **Contactez-nous pour un devis gratuit et des conseils sur mesure.**
+**Besoin d'aide pour déménager à Rouen ?** Découvrez notre [plateforme de mise en relation déménagement Rouen](/) : comparez 5 devis de professionnels adaptés à votre budget, formules économiques disponibles, ou options d'aide ponctuelle. Solutions d'aide adaptées à Rouen.
 
 ---
 

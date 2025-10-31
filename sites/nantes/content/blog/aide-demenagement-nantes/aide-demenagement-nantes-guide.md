@@ -465,6 +465,8 @@ Avec ou sans aide, une bonne préparation optimise tout.
 
 Déménager à Nantes ne doit pas être une épreuve solitaire et stressante. De nombreuses formes d'aide existent à votre portée : professionnels expérimentés avec des formules adaptées à tous les budgets, aides financières publiques pouvant couvrir jusqu'à 100% de vos frais, plateformes d'entraide solidaire, et bien sûr le soutien de vos proches.
 
+**Besoin d'aide pour déménager à Nantes ?** Découvrez notre [plateforme de mise en relation déménagement Nantes](/) : comparez 5 devis de professionnels adaptés à votre budget (formules économiques dès 250€), accès aux aides financières CAF/Action Logement, ou options d'aide ponctuelle. Plus de 120 dossiers traités à Nantes en 2025.
+
 **Les clés pour obtenir l'aide adaptée** :
 
 1. **Identifiez vos besoins** : Aide physique (portage) ? Financière ? Organisationnelle ? Matérielle ?

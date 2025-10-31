@@ -344,7 +344,7 @@ L'anticipation reste la clé : renseignez-vous 2-3 mois avant votre déménageme
 
 Combinez aides financières, astuces logistiques (cartons gratuits, entraide de quartier) et comparaison rigoureuse des devis pour déménager à Lyon dans les meilleures conditions financières. De la Presqu'île à Villeurbanne, de Monplaisir à la Croix-Rousse, votre installation lyonnaise devient accessible.
 
-**Besoin d'aide pour votre déménagement à Lyon ? Contactez-nous pour un accompagnement personnalisé et des conseils sur les aides mobilisables selon votre situation !**
+**Besoin d'aide pour déménager à Lyon ?** Découvrez notre [plateforme de mise en relation déménagement Lyon](/) : comparez 5 devis de professionnels adaptés à votre budget, formules économiques disponibles, ou options d'aide ponctuelle. Solutions d'aide adaptées à Lyon.
 
 ---
 

@@ -538,7 +538,7 @@ Clés d'un déménagement au meilleur rapport qualité-prix à Lyon :
 
 Un déménagement réussi à Lyon combine budget maîtrisé, prestations adaptées et tranquillité d'esprit. Investir 100-200€ de plus pour professionnels fiables vaut largement la sécurité et sérénité apportées.
 
-**Besoin d'un devis précis pour votre déménagement à Lyon ? Demandez gratuitement 3 devis personnalisés auprès de déménageurs lyonnais sélectionnés !**
+**Estimez votre déménagement à Lyon ?** Utilisez notre [calculateur de prix déménagement Lyon](/) : renseignez votre volume en 2 minutes et recevez 5 devis personnalisés instantanément. Prix transparents, comparaison détaillée, économie moyenne de 40%.
 
 ---
 
