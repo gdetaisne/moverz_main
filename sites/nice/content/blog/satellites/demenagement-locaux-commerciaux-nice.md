@@ -3,7 +3,7 @@ title: "Déménagement Locaux Commerciaux Nice : Commerce, Boutique, Restaurant"
 meta_title: "Déménagement Commerce Nice : 2000-8000€ | Weekend, Équipements"
 meta_description: "Déménagement locaux commerciaux Nice 50-200m² : 2000-8000€. Weekend sans fermeture, équipements spécialisés (cuisine pro, vitrines). Guide."
 slug: "demenagement-locaux-commerciaux-nice"
-category: "demenagement-entreprise"
+category: "demenagement-entreprise-nice"
 type: "satellite"
 pilier_parent: "demenagement-entreprise-nice-guide"
 keywords:

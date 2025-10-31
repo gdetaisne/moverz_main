@@ -3,7 +3,7 @@ title: "Caution Location Camion Nice : Montant, CB, Restitution 2025"
 meta_title: "Caution Camion Nice : 800-1500€ | CB Obligatoire | Restitution 7j"
 meta_description: "Caution location utilitaire Nice : 800-1500€ selon véhicule (12m³ 800€, 20m³ 1000€, 35m³ 1500€). CB obligatoire. Restitution 7-10j. Guide."
 slug: "caution-location-camion-nice"
-category: "location-camion"
+category: "location-camion-nice"
 type: "satellite"
 pilier_parent: "location-camion-nice-guide"
 keywords:

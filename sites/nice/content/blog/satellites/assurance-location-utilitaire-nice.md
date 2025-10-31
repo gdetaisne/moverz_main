@@ -3,7 +3,7 @@ title: "Assurance Location Utilitaire Nice : RC, Tous Risques, Franchise 2025"
 meta_title: "Assurance Camion Nice : RC Incluse, Tous Risques +20€ | Guide"
 meta_description: "Assurance location utilitaire Nice : RC incluse, tous risques +15-25€/jour (franchise 150-300€ vs 1500€). Vieux-Nice recommandée. Guide complet."
 slug: "assurance-location-utilitaire-nice"
-category: "location-camion"
+category: "location-camion-nice"
 type: "satellite"
 pilier_parent: "location-camion-nice-guide"
 keywords:

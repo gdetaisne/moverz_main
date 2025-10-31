@@ -3,7 +3,7 @@ title: "Kilomètres Inclus Location Camion Nice : 100-150km/jour, Suppléments"
 meta_title: "Km Inclus Camion Nice : 100-150km/jour | 0,25-0,40€/km Sup"
 meta_description: "Km inclus location Nice : 100-150km/jour (métropole 51 communes OK). Km supplémentaires 0,25-0,40€. Nice-Cannes 60km aller-retour = 20km sup 6€. Guide."
 slug: "km-inclus-location-camion-nice"
-category: "location-camion"
+category: "location-camion-nice"
 type: "satellite"
 pilier_parent: "location-camion-nice-guide"
 keywords:

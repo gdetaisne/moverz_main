@@ -3,7 +3,7 @@ title: "Aide Pôle Emploi Déménagement Nice : Mobilité Professionnelle 2025"
 meta_title: "Aide Pôle Emploi Nice : Jusqu'à 1000€ Mobilité | Conditions"
 meta_description: "Aide Pôle Emploi déménagement Nice : jusqu'à 1000€ si mobilité professionnelle (> 60km, nouveau poste). Conditions, démarche. Guide complet."
 slug: "aide-pole-emploi-demenagement-nice"
-category: "aide-demenagement"
+category: "aide-demenagement-nice"
 type: "satellite"
 pilier_parent: "aide-demenagement-nice-guide"
 keywords:

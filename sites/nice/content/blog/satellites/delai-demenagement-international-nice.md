@@ -3,7 +3,7 @@ title: "Délai Déménagement International depuis Nice : UE 3-5j, Hors-UE 7-14j
 meta_title: "Délai International Nice : Italie 3j, Suisse 7j, USA 30-45j"
 meta_description: "Délai déménagement international Nice : Italie 3-5j, Suisse 7-10j, UK 10-14j, USA/Canada 30-45j. Transport, douane, livraison. Guide."
 slug: "delai-demenagement-international-nice"
-category: "demenagement-international"
+category: "demenagement-international-nice"
 type: "satellite"
 pilier_parent: "demenagement-international-nice-guide"
 keywords:

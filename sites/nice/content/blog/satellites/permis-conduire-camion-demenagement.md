@@ -3,7 +3,7 @@ title: "Quel Permis pour Louer un Camion de Déménagement à Nice ? 2025"
 meta_title: "Permis Camion Déménagement : Permis B Suffit < 3,5T | Nice"
 meta_description: "Permis camion déménagement Nice : Permis B suffit pour 12m³, 20m³, 35m³ (< 3,5T). Permis C si > 3,5T (rare déménagement). Guide complet."
 slug: "permis-conduire-camion-demenagement"
-category: "location-camion"
+category: "location-camion-nice"
 type: "satellite"
 pilier_parent: "location-camion-nice-guide"
 keywords:

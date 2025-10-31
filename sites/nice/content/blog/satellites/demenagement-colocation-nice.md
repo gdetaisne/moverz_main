@@ -3,7 +3,7 @@ title: "Déménagement Colocation Nice : Chambre, Partiel, Prix 2025"
 meta_title: "Déménagement Colocation Nice : 200-500€ Chambre | Partiel"
 meta_description: "Déménagement colocation Nice : 200-500€ chambre seule (10-15m³), 700-1200€ coloc complète (40-50m³). Libération, Riquier, Arenas. 35K étudiants. Guide."
 slug: "demenagement-colocation-nice"
-category: "petit-demenagement"
+category: "petit-demenagement-nice"
 type: "satellite"
 pilier_parent: "petit-demenagement-nice-guide"
 keywords:

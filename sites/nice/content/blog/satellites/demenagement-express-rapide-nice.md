@@ -3,7 +3,7 @@ title: "Déménagement Express Nice : Urgent, Rapide, Même Jour 2025"
 meta_title: "Déménagement Express Nice : +30-50% | Même Jour Possible"
 meta_description: "Déménagement express Nice : surcoût +30-50% (studio 400€ → 550€), délai 24-48h possible (vs 1-2 semaines standard). Urgence, mutation. Guide."
 slug: "demenagement-express-rapide-nice"
-category: "petit-demenagement"
+category: "petit-demenagement-nice"
 type: "satellite"
 pilier_parent: "petit-demenagement-nice-guide"
 keywords:

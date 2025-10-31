@@ -3,7 +3,7 @@ title: "Petit Déménagement Nice : Solutions et Prix pour Petits Volumes 2025"
 meta_title: "Petit Déménagement Nice : 300-700€ | Studio, Chambre | Guide"
 meta_description: "Petit déménagement Nice (< 30m³) : 300-700€ pro, 120-200€ auto. Solutions chambre étudiant, studio, une pièce. Utilitaire 12m³ 70-90€. Guide."
 slug: "petit-demenagement-nice-solutions"
-category: "petit-demenagement"
+category: "petit-demenagement-nice"
 type: "satellite"
 pilier_parent: "petit-demenagement-nice-guide"
 keywords:

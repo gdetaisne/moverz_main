@@ -3,7 +3,7 @@ title: "Déménageur Vieux-Nice : Spécialistes Accès Difficile 2025"
 meta_title: "Déménageur Vieux-Nice : Rues Étroites, Monte-Meuble | Guide 2025"
 meta_description: "Déménagement Vieux-Nice : rues 2-4m, monte-meuble +150-300€, autorisation obligatoire. Surcoût +15-25%. Akte 21, Les Collinettes spécialisés. Guide."
 slug: "demenageur-vieux-nice-acces-difficile"
-category: "demenageur"
+category: "demenageur-nice"
 type: "satellite"
 pilier_parent: "demenageur-nice-guide-complet"
 keywords:
@@ -164,7 +164,7 @@ Les acteurs niçois recommandés incluent **Akte 21** (4,1/5 - 15 avis, expérie
 - T2 : 900-1 200€ (vs 700-1 000€)
 - T3 : 1 200-1 800€ (vs 1 000-1 500€)
 
-Pour limiter surcoûts : désencombrez, demandez autorisation 10j avant, optez pour formule économique mixte (vous emballez, déménageur gère contraintes). Pour comparer les [prix détaillés selon quartiers](/blog/demenageur/prix-demenageur-nice-2025), consultez notre guide tarifaire Nice 2025.
+Pour limiter surcoûts : désencombrez, demandez autorisation 10j avant, optez pour formule économique mixte (vous emballez, déménageur gère contraintes). Pour comparer les [prix détaillés selon quartiers](/blog/demenageur-nice/prix-demenageur-nice-2025), consultez notre guide tarifaire Nice 2025.
 
 ---
 

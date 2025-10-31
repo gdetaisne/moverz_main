@@ -3,7 +3,7 @@ title: "Self-Stockage ou Garde-Meuble Traditionnel à Nice ? Comparatif 2025"
 meta_title: "Self-Stockage vs Garde-Meuble Nice : Quel Type Choisir en 2025"
 meta_description: "Self-stockage vs garde-meuble traditionnel à Nice : accès 24/7, prix 20-30€/m² vs 15-20€/m³. Comparatif 4 acteurs + avantages/inconvénients. Guide complet."
 slug: "self-stockage-vs-garde-meuble-traditionnel-nice"
-category: "garde-meuble"
+category: "garde-meuble-nice"
 type: "satellite"
 pilier_parent: "garde-meuble-nice-guide-complet"
 keywords:

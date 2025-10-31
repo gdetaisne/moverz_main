@@ -3,7 +3,7 @@ title: "Devis Déménagement Nice Gratuit : Comment Obtenir et Comparer ? 2025"
 meta_title: "Devis Déménagement Nice : Visite Gratuite, 3-4 Devis | Guide"
 meta_description: "Devis déménagement Nice : visite technique gratuite obligatoire, comparer 3-4 devis (écarts 30-50%). Akte 21, Les Collinettes. Délai 24-48h. Guide."
 slug: "devis-demenagement-nice-gratuit"
-category: "prix-demenagement"
+category: "prix-demenagement-nice"
 type: "satellite"
 pilier_parent: "prix-demenagement-nice-guide"
 keywords:

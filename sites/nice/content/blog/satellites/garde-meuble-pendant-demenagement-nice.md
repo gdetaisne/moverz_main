@@ -3,7 +3,7 @@ title: "Stockage Temporaire Pendant Déménagement Nice : Solutions 2025"
 meta_title: "Garde-Meuble Déménagement Nice : Transition 1-3 Mois | Guide 2025"
 meta_description: "Stockage temporaire déménagement Nice : 1-3 mois fréquent (marché tendu 4500€/m²). Homebox, Shurgard flexibles. Prix standard sans surcoût. Guide complet."
 slug: "garde-meuble-pendant-demenagement-nice"
-category: "garde-meuble"
+category: "garde-meuble-nice"
 type: "satellite"
 pilier_parent: "garde-meuble-nice-guide-complet"
 keywords:
@@ -275,7 +275,7 @@ Le **stockage temporaire pendant déménagement** concerne 30-40% des Niçois en
 
 **Acteur recommandé Nice :** Shurgard avec promotion "premier mois offert" (-16%) offre le meilleur rapport flexibilité-prix pour les transitions. Homebox convient si vous prévoyez de nombreux accès pendant la période (24/7). Annexx ou Stock Avenue si budget très serré et accès rares acceptables.
 
-Pour choisir la taille de box exacte selon votre logement, consultez notre [guide de calcul des besoins](/blog/garde-meuble/quelle-taille-box-stockage-nice). Pour comparer les prix détaillés, voir notre [comparatif tarifaire Nice 2025](/blog/garde-meuble/prix-garde-meuble-nice-2025).
+Pour choisir la taille de box exacte selon votre logement, consultez notre [guide de calcul des besoins](/blog/garde-meuble-nice/quelle-taille-box-stockage-nice). Pour comparer les prix détaillés, voir notre [comparatif tarifaire Nice 2025](/blog/garde-meuble-nice/prix-garde-meuble-nice-2025).
 
 ---
 

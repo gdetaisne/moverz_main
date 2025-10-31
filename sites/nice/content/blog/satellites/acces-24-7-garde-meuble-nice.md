@@ -3,7 +3,7 @@ title: "Garde-Meuble Accès 24/7 Nice : Qui Propose l'Accès Libre ? 2025"
 meta_title: "Box Stockage Accès 24h/24 Nice : Homebox, Shurgard | Guide 2025"
 meta_description: "Accès 24/7 garde-meuble Nice : Homebox, Shurgard (3 centres). Badge personnel, vidéo, +0-10€/mois. Professionnels, horaires décalés. Guide complet."
 slug: "acces-24-7-garde-meuble-nice"
-category: "garde-meuble"
+category: "garde-meuble-nice"
 type: "satellite"
 pilier_parent: "garde-meuble-nice-guide-complet"
 keywords:

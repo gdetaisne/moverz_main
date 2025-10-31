@@ -3,7 +3,7 @@ title: "Facteurs Influençant le Prix d'un Déménagement à Nice 2025"
 meta_title: "Prix Déménagement Nice : Volume, Quartier, Formule, Saison"
 meta_description: "Facteurs prix déménagement Nice : volume (400-3000€), quartier (Vieux-Nice +15-25%), formule (économique vs clé en main +40%), saison (-10-15% hiver). Guide."
 slug: "facteurs-prix-demenagement-nice"
-category: "prix-demenagement"
+category: "prix-demenagement-nice"
 type: "satellite"
 pilier_parent: "prix-demenagement-nice-guide"
 keywords:

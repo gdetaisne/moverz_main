@@ -3,7 +3,7 @@ title: "Assurance Déménageur Nice : Couverture, Garanties et Sinistres 2025"
 meta_title: "Assurance Déménagement Nice : RC Pro, Tous Risques | Guide 2025"
 meta_description: "Assurance déménageur Nice : RC pro obligatoire, tous risques +20-50€. Plafond 50-300k€, franchise 150-300€. Démarche sinistre. Guide complet."
 slug: "assurance-demenageur-nice"
-category: "demenageur"
+category: "demenageur-nice"
 type: "satellite"
 pilier_parent: "demenageur-nice-guide-complet"
 keywords:

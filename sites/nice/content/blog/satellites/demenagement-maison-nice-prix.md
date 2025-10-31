@@ -3,7 +3,7 @@ title: "Prix Déménagement Maison Nice : Tarifs 100-200m² Mont-Boron, Cimiez 2
 meta_title: "Déménagement Maison Nice : 1500-3000€ | Mont-Boron, Cimiez"
 meta_description: "Prix déménagement maison Nice 100-200m² : 1500-3000€. Mont-Boron/Cimiez 2000-3000€, Arenas 1500-2200€. 80-150m³, 2 camions. Guide."
 slug: "demenagement-maison-nice-prix"
-category: "prix-demenagement"
+category: "prix-demenagement-nice"
 type: "satellite"
 pilier_parent: "prix-demenagement-nice-guide"
 keywords:

@@ -3,7 +3,7 @@ title: "10 Astuces pour un Déménagement Pas Cher à Nice 2025"
 meta_title: "Déménagement Pas Cher Nice : 10 Astuces Économiser 30-50%"
 meta_description: "Déménagement pas cher Nice : désencombrer, cartons gratuits marchés, basse saison -10-15%, semaine, formule économique. Économie 300-600€. Guide."
 slug: "astuces-demenagement-pas-cher-nice"
-category: "demenagement-pas-cher"
+category: "demenagement-pas-cher-nice"
 type: "satellite"
 pilier_parent: "demenagement-pas-cher-nice-guide"
 keywords:

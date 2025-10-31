@@ -3,7 +3,7 @@ title: "Garde-Meuble Vieux-Nice : Solutions Stockage Centre Historique 2025"
 meta_title: "Box Stockage Vieux-Nice : Acteurs Proches Centre Historique"
 meta_description: "Garde-meuble Vieux-Nice : aucun acteur dans centre historique. Homebox (2km), Shurgard proches. Contraintes accès, stockage temporaire déménagement. Guide."
 slug: "garde-meuble-vieux-nice-centre"
-category: "garde-meuble"
+category: "garde-meuble-nice"
 type: "satellite"
 pilier_parent: "garde-meuble-nice-guide-complet"
 keywords:
@@ -233,7 +233,7 @@ Certains **déménageurs spécialisés Vieux-Nice** proposent formule "déménag
 - Budget prioritaire, économie de 240-360€/an importante
 - Affaires standards (meubles, cartons, pas objets grande valeur)
 
-Pour évaluer précisément vos besoins en taille de box, consultez notre [guide pour calculer la taille idéale selon votre logement](/blog/garde-meuble/quelle-taille-box-stockage-nice).
+Pour évaluer précisément vos besoins en taille de box, consultez notre [guide pour calculer la taille idéale selon votre logement](/blog/garde-meuble-nice/quelle-taille-box-stockage-nice).
 
 ## Conclusion
 

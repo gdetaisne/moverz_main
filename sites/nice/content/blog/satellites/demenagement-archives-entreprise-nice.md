@@ -3,7 +3,7 @@ title: "Déménagement Archives Entreprise Nice : Stockage, Tri, Destruction"
 meta_title: "Archives Entreprise Nice : Tri, Destruction 70%, Stockage"
 meta_description: "Déménagement archives Nice : tri obligatoire (détruire 70% périmé), stockage 30% utiles (garde-meuble pro 15-20€/m³). Destructions sécurisées. Guide."
 slug: "demenagement-archives-entreprise-nice"
-category: "demenagement-entreprise"
+category: "demenagement-entreprise-nice"
 type: "satellite"
 pilier_parent: "demenagement-entreprise-nice-guide"
 keywords:

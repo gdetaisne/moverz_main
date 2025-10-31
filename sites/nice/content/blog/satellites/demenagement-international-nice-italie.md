@@ -3,7 +3,7 @@ title: "Déménagement Nice Italie : Prix, Formalités, Délais 2025"
 meta_title: "Déménagement Nice Italie : 1500-4000€ | Douane, Délai | Guide"
 meta_description: "Déménagement Nice → Italie : 1500-4000€ selon volume/distance. Frontière 30 km, douane UE simplifiée, délai 3-7 jours. Rome, Milan, Turin. Guide."
 slug: "demenagement-international-nice-italie"
-category: "demenagement-international"
+category: "demenagement-international-nice"
 type: "satellite"
 pilier_parent: "demenagement-international-nice-guide"
 keywords:

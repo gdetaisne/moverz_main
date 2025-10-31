@@ -3,7 +3,7 @@ title: "Déménagement Chambre Étudiant Nice : 9-12m² Prix et Solutions 2025"
 meta_title: "Chambre Étudiant Nice : 120-450€ | 10-12m³ | 35K Étudiants"
 meta_description: "Déménagement chambre 9-12m² Nice : 120-180€ auto (Kangoo + amis), 300-450€ pro. 35 000 étudiants, Riquier/Libération/Arenas. Guide."
 slug: "demenagement-chambre-etudiant-nice"
-category: "petit-demenagement"
+category: "petit-demenagement-nice"
 type: "satellite"
 pilier_parent: "petit-demenagement-nice-guide"
 keywords:

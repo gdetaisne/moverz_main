@@ -3,7 +3,7 @@ title: "Déménagement Studio Nice : Prix, Solutions et Conseils 2025"
 meta_title: "Prix Déménagement Studio Nice : 400-800€ | Guide Complet 2025"
 meta_description: "Déménagement studio Nice 20-25m² : 400-800€ pro, 150-250€ location utilitaire. Vieux-Nice 500-800€. Formules, quartiers, astuces. Guide."
 slug: "demenagement-studio-nice-prix"
-category: "petit-demenagement"
+category: "petit-demenagement-nice"
 type: "satellite"
 pilier_parent: "petit-demenagement-nice-guide"
 keywords:

@@ -3,7 +3,7 @@ title: "Déménagement Groupé Nice : Économiser 30-40% en Partageant Camion"
 meta_title: "Déménagement Groupé Nice : -30-40% | Partage Camion | Guide"
 meta_description: "Déménagement groupé Nice : partage camion 90m³ = -30-40% tarif (T2 1000€ → 650€). Délai +3-5j. Longue distance. Économie 350-500€. Guide."
 slug: "demenagement-groupe-nice"
-category: "demenagement-pas-cher"
+category: "demenagement-pas-cher-nice"
 type: "satellite"
 pilier_parent: "demenagement-pas-cher-nice-guide"
 keywords:

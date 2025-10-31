@@ -3,7 +3,7 @@ title: "Garde-Meuble Étudiant Nice Pas Cher : Solutions Économiques 2025"
 meta_title: "Box Étudiant Nice : Dès 25€/mois | Stockage Été 35 000 Étudiants"
 meta_description: "Garde-meuble étudiant Nice : 25-95€/mois, boxes 1-3m². 35 000 étudiants, quartiers Riquier/Libération/Arenas. Stockage été juin-sept. Guide complet."
 slug: "garde-meuble-etudiant-nice-pas-cher"
-category: "garde-meuble"
+category: "garde-meuble-nice"
 type: "satellite"
 pilier_parent: "garde-meuble-nice-guide-complet"
 keywords:
@@ -239,7 +239,7 @@ Les **quartiers étudiants** (Riquier, Libération, Arenas, Pasteur) sont bien d
 - Coût total : 210-315€
 - Économie vs allers-retours Paris : 200-300€
 
-Pour optimiser votre stockage, consultez notre [guide de la taille de box idéale selon vos affaires](/blog/garde-meuble/quelle-taille-box-stockage-nice) et notre [comparatif des prix à Nice](/blog/garde-meuble/prix-garde-meuble-nice-2025).
+Pour optimiser votre stockage, consultez notre [guide de la taille de box idéale selon vos affaires](/blog/garde-meuble-nice/quelle-taille-box-stockage-nice) et notre [comparatif des prix à Nice](/blog/garde-meuble-nice/prix-garde-meuble-nice-2025).
 
 ---
 

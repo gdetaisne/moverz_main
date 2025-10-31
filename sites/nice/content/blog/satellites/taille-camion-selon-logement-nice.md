@@ -3,7 +3,7 @@ title: "Quelle Taille de Camion pour Déménager à Nice ? Guide par Logement 20
 meta_title: "Taille Camion Nice : 12m³ (Studio), 20m³ (T2), 35m³ (T3) | Guide"
 meta_description: "Taille camion déménagement Nice : 12m³ studio/T1 (70-90€), 20m³ T2 (90-130€), 35m³ T3 (130-180€). Vieux-Nice max 12m³. Location Europcar, Sixt."
 slug: "taille-camion-selon-logement-nice"
-category: "location-camion"
+category: "location-camion-nice"
 type: "satellite"
 pilier_parent: "location-camion-nice-guide"
 keywords:

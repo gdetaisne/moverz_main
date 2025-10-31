@@ -3,7 +3,7 @@ title: "Conduire un Camion dans le Vieux-Nice : Conseils et Précautions 2025"
 meta_title: "Conduire Camion Vieux-Nice : Rues 2-4m | Max 12m³ | Conseils"
 meta_description: "Conduire camion Vieux-Nice : max 12m³ (largeur 1,9m), rues 2-4m, 20m³ impossible. Risque rayures 60-70%. Assurance tous risques +20€. Guide."
 slug: "conduire-camion-vieux-nice-conseils"
-category: "location-camion"
+category: "location-camion-nice"
 type: "satellite"
 pilier_parent: "location-camion-nice-guide"
 keywords:

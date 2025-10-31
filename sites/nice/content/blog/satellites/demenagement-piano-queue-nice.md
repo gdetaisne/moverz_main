@@ -3,7 +3,7 @@ title: "Déménagement Piano Queue Nice : Prix, Spécialistes, Monte-Meuble"
 meta_title: "Piano Queue Nice : 400-800€ | 300-500kg | Spécialistes"
 meta_description: "Déménagement piano queue Nice 300-500 kg : 400-800€ selon distance/étage. Monte-meuble souvent obligatoire +200€. Démontage pieds. Spécialistes. Guide."
 slug: "demenagement-piano-queue-nice"
-category: "demenagement-piano"
+category: "demenagement-piano-nice"
 type: "satellite"
 pilier_parent: "demenagement-piano-nice-guide"
 keywords:

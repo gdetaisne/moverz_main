@@ -81,7 +81,7 @@ Un déménagement à Nice implique **25-40 démarches administratives** (résili
 - Papier bulle (objets fragiles)
 - Scotch renforcé (6 rouleaux)
 - Ou récupérer gratuits : Supermarchés Nice (Carrefour TNL, Auchan Lingostière)
-- [Cartons gratuits Nice](/blog/demenagement-pas-cher/cartons-gratuits-nice-ou-trouver)
+- [Cartons gratuits Nice](/blog/location-camion-demenagement-nice/cartons-gratuits-nice-ou-trouver)
 
 ## Checklist J-30 à J-15 (4-2 Semaines)
 
@@ -362,7 +362,7 @@ Demande sur **metropole.nice.fr** (Service Autorisations Temporaires) **10-15 jo
 
 ### Combien de cartons faut-il pour un déménagement F2 ou F3 à Nice ?
 
-**F2 40m²** : 30-50 cartons (selon encombrement), **F3 60m²** : 50-80 cartons. Types : standards (livres, vêtements), renforcés (vaisselle, 4-6€/pièce), penderie (vêtements suspendus, 8-12€). Nice : récupérer gratuits Carrefour TNL, Auchan Lingostière, pharmacies (économie 100-250€ vs achat). [Cartons gratuits Nice](/blog/demenagement-pas-cher/cartons-gratuits-nice-ou-trouver).
+**F2 40m²** : 30-50 cartons (selon encombrement), **F3 60m²** : 50-80 cartons. Types : standards (livres, vêtements), renforcés (vaisselle, 4-6€/pièce), penderie (vêtements suspendus, 8-12€). Nice : récupérer gratuits Carrefour TNL, Auchan Lingostière, pharmacies (économie 100-250€ vs achat). [Cartons gratuits Nice](/blog/location-camion-demenagement-nice/cartons-gratuits-nice-ou-trouver).
 
 ### Que faire avec les cartons après le déménagement à Nice ?
 

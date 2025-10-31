@@ -3,7 +3,7 @@ title: "Formule Économique Déménagement Nice : Prix, Prestations 2025"
 meta_title: "Formule Économique Nice : 400-1300€ | Vous Emballez | -30-40%"
 meta_description: "Formule économique Nice : 400-1300€ (studio-T3). Vous emballez/démontez, pro transporte. Économie 30-40% vs clé en main. 35K étudiants. Guide."
 slug: "demenagement-formule-economique-nice"
-category: "demenagement-pas-cher"
+category: "demenagement-pas-cher-nice"
 type: "satellite"
 pilier_parent: "demenagement-pas-cher-nice-guide"
 keywords:

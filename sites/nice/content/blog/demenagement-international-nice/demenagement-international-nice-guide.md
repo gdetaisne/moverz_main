@@ -2,7 +2,7 @@
 title: "Déménagement International depuis/vers Nice : Votre Expert pour un Transfert Mondial Serein"
 description: "Déménagement international depuis/vers Nice ? Nos experts vous accompagnent. Fret maritime/aérien, douanes, emballage export. Devis gratuit pour votre expatriation."
 slug: "demenagement-international-nice-guide"
-category: "demenagement-general"
+category: "demenagement-nice"
 keywords:
   - "déménagement international nice"
   - "déménageur international nice"
@@ -27,12 +27,12 @@ Dans ce guide complet, découvrez toutes les étapes d'un déménagement interna
 Préparez votre expatriation depuis/vers Nice avec nos guides spécialisés :
 
 **Formalités et Délais :**
-- [Formalités douanières déménagement international Nice](/blog/demenagement-international/demenagement-formalites-douane-nice) - Documents, déclarations, restrictions
-- [Délais déménagement international depuis Nice](/blog/demenagement-international/delai-demenagement-international-nice) - Maritime vs aérien, timing complet
+- [Formalités douanières déménagement international Nice](/blog/demenagement-international-nice/satellites/demenagement-formalites-douane-nice) - Documents, déclarations, restrictions
+- [Délais déménagement international depuis Nice](/blog/demenagement-international-nice/satellites/delai-demenagement-international-nice) - Maritime vs aérien, timing complet
 
 **Destinations Populaires :**
-- [Déménagement Nice-Italie](/blog/demenagement-international/demenagement-international-nice-italie) - Voisin frontalier, spécificités Europe
-- [Déménagement Nice-Suisse](/blog/demenagement-international/demenagement-international-nice-suisse) - Hors UE, formalités complètes
+- [Déménagement Nice-Italie](/blog/demenagement-international-nice/satellites/demenagement-international-nice-italie) - Voisin frontalier, spécificités Europe
+- [Déménagement Nice-Suisse](/blog/demenagement-international-nice/satellites/demenagement-international-nice-suisse) - Hors UE, formalités complètes
 
 ## Pourquoi un déménagement international depuis/vers Nice est-il si particulier ?
 

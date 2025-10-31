@@ -3,7 +3,7 @@ title: "Prix Garde-Meuble Nice 2025 : Tarifs & Comparatif Complet"
 meta_title: "Prix Garde-Meuble Nice 2025 : De 25€ à 280€/mois | Comparatif"
 meta_description: "Prix garde-meuble Nice 2025 : 25-280€/mois selon taille et quartier. Comparatif 4 acteurs locaux + astuces pour économiser jusqu'à 30%. Guide complet."
 slug: "prix-garde-meuble-nice-2025"
-category: "garde-meuble"
+category: "garde-meuble-nice"
 type: "satellite"
 pilier_parent: "garde-meuble-nice-guide-complet"
 keywords:
@@ -193,7 +193,7 @@ Pour un box de 5m² à Nice :
 
 En choisissant intelligemment votre emplacement et votre période de location, vous économisez jusqu'à 30% sur votre budget stockage à Nice.
 
-Vous ne savez pas quelle taille choisir ? Consultez notre guide pour [calculer la taille de box dont vous avez besoin à Nice](/blog/garde-meuble/quelle-taille-box-stockage-nice) selon votre logement et vos affaires.
+Vous ne savez pas quelle taille choisir ? Consultez notre guide pour [calculer la taille de box dont vous avez besoin à Nice](/blog/garde-meuble-nice/quelle-taille-box-stockage-nice) selon votre logement et vos affaires.
 
 ## Conclusion
 

@@ -3,7 +3,7 @@ title: "Location Utilitaire Déménagement Nice : Prix, Agences, Conseils 2025"
 meta_title: "Location Camion Nice : 60-130€/jour | Europcar, Sixt, Hertz"
 meta_description: "Location utilitaire Nice : 60-90€ (12m³), 90-130€ (20m³). Europcar, Sixt, Hertz. Permis B. Caution 800-1500€. Conduite Vieux-Nice. Guide complet."
 slug: "location-utilitaire-demenagement-nice"
-category: "location-camion"
+category: "location-camion-nice"
 type: "satellite"
 pilier_parent: "location-camion-nice-guide"
 keywords:
@@ -21,7 +21,7 @@ Louer un utilitaire pour déménager à Nice coûte **60-90€/jour pour un 12m�
 
 À Nice, la location utilitaire séduit les **35 000 étudiants** (auto-déménagement chambre 9m² pour 100-150€ vs déménageur 400€) et les budgets serrés. Contrainte : **conduire dans le Vieux-Nice** (rues 2-4m) ou Cimiez (pentes raides) nécessite expérience et prudence. Les utilitaires 12m³ passent difficilement, les 20m³ sont impossibles dans le centre historique.
 
-Ce guide détaille les prix par taille de véhicule, les agences niçoises, le permis nécessaire, l'assurance, et nos conseils pour conduire en toute sécurité à Nice. Pour tout comprendre sur [la location de camion à Nice](/blog/demenagement-nice/location-camion-nice-guide), consultez notre guide complet.
+Ce guide détaille les prix par taille de véhicule, les agences niçoises, le permis nécessaire, l'assurance, et nos conseils pour conduire en toute sécurité à Nice. Pour tout comprendre sur [la location de camion à Nice](/blog/location-camion-nice/location-camion-nice-guide), consultez notre guide complet.
 
 ## Prix Location Utilitaire Nice 2025
 
