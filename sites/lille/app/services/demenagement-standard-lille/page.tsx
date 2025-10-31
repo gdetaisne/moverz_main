@@ -1,5 +1,26 @@
 import Breadcrumbs from "@/components/Breadcrumbs";
 import CtaPrimary from "@/components/CtaPrimary";
+import { getCanonicalUrl } from "@/lib/canonical-helper";
+import { getCityDataFromUrl } from "@/lib/cityData";
+import { env } from "@/lib/env";
+import type { Metadata } from "next";
+
+export const metadata: Metadata = (() => {
+  const city = getCityDataFromUrl(env.SITE_URL);
+  return {
+    title: `Déménagement Standard ${city.nameCapitalized} - Tarifs & Devis | Moverz`,
+    description: `Formule standard pour déménager à ${city.nameCapitalized}. Rapport qualité/prix optimal. Estimation IA gratuite, devis sous 7j. À partir de 750€.`,
+    alternates: {
+      canonical: getCanonicalUrl(`services/demenagement-standard-${city.slug}`),
+    },
+    openGraph: {
+      title: `Déménagement Standard ${city.nameCapitalized}`,
+      description: `Formule standard pour déménager à ${city.nameCapitalized}`,
+      url: getCanonicalUrl(`services/demenagement-standard-${city.slug}`),
+      type: 'website',
+    },
+  };
+})();
 
 export default function DemenagementStandardPage() {
   return (

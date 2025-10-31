@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { Metadata } from 'next';
 import Breadcrumbs from '@/components/Breadcrumbs';
+import { getCanonicalUrl } from '@/lib/canonical-helper';
 
 interface BlogPostPageProps {
   params: {
@@ -34,13 +35,19 @@ export async function generateMetadata({ params }: BlogPostPageProps): Promise<M
     };
   }
 
+  const canonicalUrl = getCanonicalUrl(`blog/${params.category}/${params.slug}`);
+
   return {
     title: post.meta_title || post.title,
     description: post.meta_description,
     keywords: post.keywords.join(', '),
+    alternates: {
+      canonical: canonicalUrl,
+    },
     openGraph: {
       title: post.title,
       description: post.meta_description,
+      url: canonicalUrl,
       type: 'article',
       publishedTime: post.publish_date,
     },

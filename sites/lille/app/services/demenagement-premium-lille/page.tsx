@@ -1,5 +1,26 @@
 import Breadcrumbs from "@/components/Breadcrumbs";
 import CtaPrimary from "@/components/CtaPrimary";
+import { getCanonicalUrl } from "@/lib/canonical-helper";
+import { getCityDataFromUrl } from "@/lib/cityData";
+import { env } from "@/lib/env";
+import type { Metadata } from "next";
+
+export const metadata: Metadata = (() => {
+  const city = getCityDataFromUrl(env.SITE_URL);
+  return {
+    title: `Déménagement Premium ${city.nameCapitalized} - Service Haut de Gamme | Moverz`,
+    description: `Formule premium pour déménager à ${city.nameCapitalized}. Service tout compris haut de gamme. Estimation IA gratuite, devis sous 7j. À partir de 1200€.`,
+    alternates: {
+      canonical: getCanonicalUrl(`services/demenagement-premium-${city.slug}`),
+    },
+    openGraph: {
+      title: `Déménagement Premium ${city.nameCapitalized}`,
+      description: `Formule premium pour déménager à ${city.nameCapitalized}`,
+      url: getCanonicalUrl(`services/demenagement-premium-${city.slug}`),
+      type: 'website',
+    },
+  };
+})();
 
 export default function DemenagementPremiumPage() {
   return (

@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import Breadcrumbs from '@/components/Breadcrumbs';
 import { Metadata } from 'next';
+import { getCanonicalUrl } from '@/lib/canonical-helper';
 
 interface CategoryPageProps {
   params: {
@@ -43,9 +44,20 @@ export async function generateMetadata({ params }: CategoryPageProps): Promise<M
   const categoryLabel = categoryLabels[params.category] || params.category;
   const categoryDescription = categoryDescriptions[params.category] || `Découvrez tous nos articles sur ${categoryLabel.toLowerCase()}.`;
   
+  const canonicalUrl = getCanonicalUrl(`blog/${params.category}`);
+  
   return {
     title: `${categoryLabel} - Blog Déménagement lille`,
     description: categoryDescription,
+    alternates: {
+      canonical: canonicalUrl,
+    },
+    openGraph: {
+      title: `${categoryLabel} - Blog Déménagement Lille`,
+      description: categoryDescription,
+      url: canonicalUrl,
+      type: 'website',
+    },
   };
 }
 

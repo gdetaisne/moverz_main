@@ -1,8 +1,18 @@
 import { Metadata } from 'next';
+import { getCanonicalUrl } from '@/lib/canonical-helper';
 
 export const metadata: Metadata = {
   title: 'Contact Déménagement lille | Devis Gratuits | Moverz',
   description: 'Contactez nos experts déménageurs à lille. Estimation gratuite en 30 min, 5 devis précis sous 7 jours.',
+  alternates: {
+    canonical: getCanonicalUrl('contact'),
+  },
+  openGraph: {
+    title: 'Contact Déménagement Lille',
+    description: 'Contactez nos experts déménageurs à Lille',
+    url: getCanonicalUrl('contact'),
+    type: 'website',
+  },
 };
 
 export default function ContactPage() {

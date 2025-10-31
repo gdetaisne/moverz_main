@@ -1,5 +1,26 @@
 import Breadcrumbs from "@/components/Breadcrumbs";
 import CtaPrimary from "@/components/CtaPrimary";
+import { getCanonicalUrl } from "@/lib/canonical-helper";
+import { getCityDataFromUrl } from "@/lib/cityData";
+import { env } from "@/lib/env";
+import type { Metadata } from "next";
+
+export const metadata: Metadata = (() => {
+  const city = getCityDataFromUrl(env.SITE_URL);
+  return {
+    title: `Déménagement Économique ${city.nameCapitalized} - Tarifs & Devis | Moverz`,
+    description: `Formule économique pour déménager à ${city.nameCapitalized}. Idéal petits budgets. Estimation IA gratuite, devis sous 7j. À partir de 450€.`,
+    alternates: {
+      canonical: getCanonicalUrl(`services/demenagement-economique-${city.slug}`),
+    },
+    openGraph: {
+      title: `Déménagement Économique ${city.nameCapitalized}`,
+      description: `Formule économique pour déménager à ${city.nameCapitalized}`,
+      url: getCanonicalUrl(`services/demenagement-economique-${city.slug}`),
+      type: 'website',
+    },
+  };
+})();
 
 export default function DemenagementEconomiquePage() {
   return (

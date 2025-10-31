@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { Metadata } from 'next';
 import Breadcrumbs from '@/components/Breadcrumbs';
+import { getCanonicalUrl } from '@/lib/canonical-helper';
 
 interface BlogPostPageProps {
   params: {
@@ -34,13 +35,19 @@ export async function generateMetadata({ params }: BlogPostPageProps): Promise<M
     };
   }
 
+  const canonicalUrl = getCanonicalUrl(`blog/${params.category}/${params.slug}`);
+
   return {
     title: post.meta_title || post.title,
     description: post.meta_description,
     keywords: post.keywords.join(', '),
+    alternates: {
+      canonical: canonicalUrl,
+    },
     openGraph: {
       title: post.title,
       description: post.meta_description,
+      url: canonicalUrl,
       type: 'article',
       publishedTime: post.publish_date,
     },
@@ -86,7 +93,7 @@ export default function BlogPostPage({ params }: BlogPostPageProps) {
       .replace(/^### (.*$)/gim, '<h3 class="text-xl font-medium text-white mb-3 mt-6">$1</h3>')
       .replace(/^\- \[ \] (.*$)/gim, '<li class="flex items-start mb-2 text-white/90"><span class="inline-block w-4 h-4 border border-white/30 rounded mr-2 mt-1"></span>$1</li>')
       .replace(/^\- \[x\] (.*$)/gim, '<li class="flex items-start mb-2 text-white/90"><span class="inline-block w-4 h-4 bg-[#6bcfcf] rounded mr-2 mt-1"></span>$1</li>')
-      .replace(/^\- (.*$)/gim, '<li class="mb-3 text-white/90">$1</li>')
+      .replace(/^\- (.*$)/gim, '<li class="mb-3 text-white/90 ml-4">• $1</li>')
       .replace(/\*\*(.*?)\*\*/g, '<strong class="font-semibold text-white">$1</strong>')
       .replace(/\*(.*?)\*/g, '<em class="italic text-white/95">$1</em>')
       .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" class="text-[#6bcfcf] hover:text-[#2b7a78] underline font-medium transition-colors">$1</a>')
@@ -159,7 +166,7 @@ export default function BlogPostPage({ params }: BlogPostPageProps) {
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="bg-white/5 backdrop-blur-sm border border-white/10 rounded-2xl p-6 md:p-10">
             <article 
-              className="blog-content max-w-none"
+              className="prose prose-lg max-w-none"
               dangerouslySetInnerHTML={{ 
                 __html: `<p class="mb-5 text-white/90 leading-relaxed text-base">${formattedContent}</p>` 
               }}
@@ -172,7 +179,7 @@ export default function BlogPostPage({ params }: BlogPostPageProps) {
             Besoin d'aide pour votre déménagement ?
           </h3>
           <p className="text-white/80 mb-6">
-            Notre équipe de déménageurs professionnels à rouen est à votre disposition 
+            Notre équipe de déménageurs professionnels à lille est à votre disposition 
             pour vous accompagner dans votre projet.
           </p>
           <Link 
