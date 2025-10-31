@@ -146,6 +146,8 @@ Le niveau de service influe directement sur le tarif :
 - Vous gagnez 30-40% vs formule standard
 - Idéale si vous avez du temps devant vous
 
+Pour maximiser vos économies avec cette formule, découvrez toutes nos astuces dans le [guide déménagement pas cher Nantes](/blog/demenagement-pas-cher-nantes/demenagement-pas-cher-nantes-guide).
+
 **Formule Standard** (emballage fragile + démontage/remontage meubles) :
 - Prix de référence (base 100%)
 - Meilleur compromis coût/confort

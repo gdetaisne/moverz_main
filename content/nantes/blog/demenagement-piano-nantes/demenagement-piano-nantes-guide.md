@@ -201,7 +201,7 @@ Une grue hydraulique (camion élévateur) ou un monte-charge vertical est instal
 - Certaines rues très étroites du centre historique ne permettent pas le positionnement du monte-meuble
 
 **Coût** :
-180-400€ selon la hauteur (2ème étage vs 5ème étage) et la durée d'utilisation.
+180-400€ selon la hauteur (2ème étage vs 5ème étage) et la durée d'utilisation. Pour une estimation complète incluant le transport standard + monte-meuble, consultez notre [guide prix déménagement Nantes](/blog/prix-demenagement-nantes/prix-demenagement-nantes-guide).
 
 ### 5. Transport sécurisé
 

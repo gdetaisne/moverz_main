@@ -342,7 +342,7 @@ Déménager à Lyon avec un soutien financier ou logistique transforme un projet
 
 L'anticipation reste la clé : renseignez-vous 2-3 mois avant votre déménagement lyonnais, constituez vos dossiers en avance, et ne négligez aucune piste d'aide potentielle. Même 200-400€ d'aide représentent 30-50% du coût d'un déménagement économique.
 
-Combinez aides financières, astuces logistiques (cartons gratuits, entraide de quartier) et comparaison rigoureuse des devis pour déménager à Lyon dans les meilleures conditions financières. De la Presqu'île à Villeurbanne, de Monplaisir à la Croix-Rousse, votre installation lyonnaise devient accessible.
+Combinez aides financières, astuces logistiques (cartons gratuits, entraide de quartier) et comparaison rigoureuse des devis pour déménager à Lyon dans les meilleures conditions financières. Notre [guide déménagement pas cher Lyon](/blog/demenagement-lyon-pas-cher/demenagement-lyon-pas-cher-guide-complet) regroupe toutes les astuces pour maximiser vos économies. De la Presqu'île à Villeurbanne, de Monplaisir à la Croix-Rousse, votre installation lyonnaise devient accessible.
 
 **Besoin d'aide pour déménager à Lyon ?** Découvrez notre [plateforme de mise en relation déménagement Lyon](/) : comparez 5 devis de professionnels adaptés à votre budget, formules économiques disponibles, ou options d'aide ponctuelle. Solutions d'aide adaptées à Lyon.
 

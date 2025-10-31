@@ -215,7 +215,7 @@ Les offres de location proposent généralement :
 - Supplément "frais de réacheminement" : 100-300€ selon la distance
 - Intéressant uniquement pour très longue distance pour éviter le trajet retour à vide
 
-À Nantes, l'aller simple est rarement pertinent sauf pour un déménagement définitif vers une autre région.
+À Nantes, l'aller simple est rarement pertinent sauf pour un déménagement définitif vers une autre région. Pour comparer les coûts location vs déménageur professionnel, consultez notre [guide prix déménagement Nantes](/blog/prix-demenagement-nantes/prix-demenagement-nantes-guide).
 
 ## Où louer un camion de déménagement à Nantes ? Comparatif des agences
 

@@ -156,7 +156,7 @@ Le déménagement participatif avec vos proches est la solution la plus économi
 
 ### Louez uniquement le camion (sans déménageur)
 
-La location d'utilitaire représente la dépense principale d'un déménagement économique, mais reste bien inférieure au coût d'un déménageur complet.
+La location d'utilitaire représente la dépense principale d'un déménagement économique, mais reste bien inférieure au coût d'un déménageur complet. Consultez notre [guide location camion Nantes](/blog/location-camion-demenagement-nantes/location-camion-demenagement-nantes-guide) pour tous les détails : où louer, quel volume choisir, et comment économiser sur la location.
 
 **Prix location de camion à Nantes (2025)** :
 - Fourgon 6-9 m³ : 50-80€/jour (idéal studio)
@@ -217,11 +217,11 @@ Les entreprises de déménagement nantaises proposent des formules "économiques
 - T2 : 700-1 100€
 - T3 : 1 200-1 800€
 
-**Pour qui** : Personnes seules, couples sans réseau familial proche, ou ceux qui valorisent leur temps libre. Cette formule reste 30-40% moins chère qu'un service complet.
+**Pour qui** : Personnes seules, couples sans réseau familial proche, ou ceux qui valorisent leur temps libre. Cette formule reste 30-40% moins chère qu'un service complet. Pour plus de détails sur les fourchettes tarifaires, consultez notre [guide des prix de déménagement à Nantes](/blog/prix-demenagement-nantes/prix-demenagement-nantes-guide).
 
 ### Déménagement en groupage
 
-Le groupage consiste à partager un camion avec d'autres clients allant dans la même direction. Cette solution est surtout intéressante pour les **déménagements longue distance** (Nantes vers Paris, Nantes vers Lyon, Nantes vers Bordeaux).
+Le groupage consiste à partager un camion avec d'autres clients allant dans la même direction. Cette solution est surtout intéressante pour les **déménagements longue distance** (Nantes vers Paris, Nantes vers Lyon, Nantes vers Bordeaux). Entre deux logements, envisagez un [garde-meuble temporaire à Nantes](/blog/garde-meuble-nantes/garde-meuble-nantes-guide-complet) pour éviter le double loyer pendant la transition.
 
 **Fonctionnement** :
 - Le déménageur charge vos affaires avec celles d'autres clients

@@ -518,6 +518,8 @@ Clés succès mobilité internationale Lyon :
 - **Mode transport adapté** : Routier Europe, maritime long-courriers gros volumes, aérien urgences/petits volumes
 - **Budget réaliste** : 3000-12000€ selon destination/volume, prévision imprévus +10-15%
 
+Pour une estimation détaillée des coûts internationaux, consultez notre [guide prix déménagement Lyon](/blog/prix-demenagement-lyon/prix-demenagement-lyon-guide-complet). Si besoin de stockage temporaire entre deux pays, le [guide garde-meuble Lyon](/blog/garde-meuble-lyon/garde-meuble-lyon-guide-complet) détaille les options.
+
 De Lyon vers Genève, New York, Singapour ou Sydney, votre expatriation mérite accompagnement professionnel garantissant transition sereine vers votre nouvelle vie internationale.
 
 **Déménagement international depuis Lyon ?** Notre [plateforme déménageurs internationaux Lyon](/) vous met en relation avec les meilleurs transporteurs certifiés FIDI. Comparez 5 devis gratuits, expertise douanes incluse, suivi en temps réel. Déménageurs internationaux vérifiés Lyon.

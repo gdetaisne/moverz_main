@@ -184,6 +184,8 @@ Indispensable pour couvrir les risques liés au transport longue distance.
 - Coût : 2-4% de la valeur déclarée
 - Exemple : 30 000€ de biens = 600-1 200€ d'assurance
 
+Pour une vue d'ensemble des coûts d'un déménagement international (transport + assurance + formalités), consultez notre [guide prix déménagement Nantes](/blog/prix-demenagement-nantes/prix-demenagement-nantes-guide).
+
 **Garanties couvertes** :
 - Dommages pendant le transport (mer, route, air)
 - Vol ou perte complète

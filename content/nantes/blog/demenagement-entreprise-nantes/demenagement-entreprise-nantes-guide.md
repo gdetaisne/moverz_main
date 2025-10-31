@@ -250,6 +250,8 @@ Une méthodologie rigoureuse garantit un transfert réussi.
 - 200 m² (20-40 postes) : 1-2 jours
 - 500 m²+ : 2-5 jours possibles (selon complexité)
 
+Pour les tarifs détaillés déménagement entreprise selon la surface, consultez notre [guide prix déménagement Nantes](/blog/prix-demenagement-nantes/prix-demenagement-nantes-guide). Si vous devez stocker du matériel ou archives temporairement, le [guide garde-meuble Nantes](/blog/garde-meuble-nantes/garde-meuble-nantes-guide-complet) détaille les solutions professionnelles.
+
 ### 5. Communication interne et externe
 
 **En interne** :

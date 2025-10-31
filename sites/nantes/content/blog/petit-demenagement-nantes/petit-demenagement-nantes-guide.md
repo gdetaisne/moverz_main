@@ -139,6 +139,8 @@ Vous gérez entièrement l'emballage, le démontage/remontage des meubles, et vo
 - Studio/chambre (< 15 m³) : 150-280€
 - T1 (15-20 m³) : 250-400€
 
+Pour détailler ces fourchettes et comprendre les facteurs de variation, consultez notre [guide prix déménagement Nantes](/blog/prix-demenagement-nantes/prix-demenagement-nantes-guide). Si vous envisagez le DIY complet, le [guide location camion Nantes](/blog/location-camion-demenagement-nantes/location-camion-demenagement-nantes-guide) compare les coûts et contraintes.
+
 **Ce qui est inclus** :
 - Fourgon adapté (6-14 m³)
 - Chauffeur professionnel

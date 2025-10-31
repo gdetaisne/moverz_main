@@ -94,11 +94,11 @@ Cette formule haut de gamme convient aux professionnels qui manquent de temps, a
 
 **Location de monte-meuble** : Indispensable pour les immeubles sans ascenseur du centre-ville de Nantes, du Marchix ou de la Petite Hollande. Le monte-meuble permet de hisser les meubles volumineux directement par les fenêtres, évitant les escaliers étroits. Le coût varie de 200 à 500€ selon la durée d'utilisation et la hauteur.
 
-**Garde-meuble temporaire** : Si vos dates de déménagement ne coïncident pas parfaitement, les déménageurs nantais proposent un stockage sécurisé de vos affaires. Cette solution est fréquente lorsque vous vendez votre appartement avant d'avoir trouvé le suivant, ou lorsque vous réalisez des travaux dans votre nouveau logement. Les tarifs mensuels varient selon le volume stocké (voir notre guide complet sur les garde-meubles à Nantes).
+**Garde-meuble temporaire** : Si vos dates de déménagement ne coïncident pas parfaitement, les déménageurs nantais proposent un stockage sécurisé de vos affaires. Cette solution est fréquente lorsque vous vendez votre appartement avant d'avoir trouvé le suivant, ou lorsque vous réalisez des travaux dans votre nouveau logement. Consultez notre [guide garde-meuble Nantes](/blog/garde-meuble-nantes/garde-meuble-nantes-guide-complet) pour les tarifs et options de stockage.
 
 **Fourniture de cartons et matériel d'emballage** : Les entreprises fournissent des cartons de déménagement renforcés de différentes tailles, du papier bulle, du film étirable, des housses de protection pour matelas et canapés. Compter 1-3€ par carton selon la taille et la qualité. Certains déménageurs incluent un lot de cartons dans leurs formules.
 
-**Déménagement d'objets spécifiques** : Transport de piano (droit ou à queue), œuvres d'art, coffres-forts, aquariums, matériel informatique professionnel. Ces objets nécessitent des compétences et un matériel spécialisés. Les déménageurs nantais expérimentés disposent des sangles, chariots et protections adaptés.
+**Déménagement d'objets spécifiques** : Transport de piano (droit ou à queue), œuvres d'art, coffres-forts, aquariums, matériel informatique professionnel. Pour le déménagement de piano spécifiquement, consultez notre [guide déménagement piano Nantes](/blog/demenagement-piano-nantes/demenagement-piano-nantes-guide) qui détaille les précautions et tarifs spécifiques.
 
 **Nettoyage de l'ancien logement** : Service apprécié pour récupérer votre caution ou respecter les obligations de votre bail. Les équipes de nettoyage interviennent après le déménagement pour un nettoyage complet (sols, murs, sanitaires, cuisine).
 
