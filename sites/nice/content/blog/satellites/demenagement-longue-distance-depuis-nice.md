@@ -3,7 +3,7 @@ title: "Déménagement Longue Distance depuis Nice : Prix Paris, Lyon, Marseille
 meta_title: "Nice → Paris/Lyon/Marseille : 2000-5000€ | Longue Distance"
 meta_description: "Déménagement Nice → Paris 1000 km : 2500-5000€. Lyon 500 km : 1800-3500€. Marseille 200 km : 1200-2500€. Délais, conseils. Guide complet."
 slug: "demenagement-longue-distance-depuis-nice"
-category: "prix-demenagement-nice"
+category: "prix-demenagement"
 type: "satellite"
 pilier_parent: "prix-demenagement-nice-guide"
 keywords:

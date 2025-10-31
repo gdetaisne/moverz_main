@@ -3,7 +3,7 @@ title: "Déménagement Bureaux Entreprise Nice : Prix, Planning, Solutions 2025"
 meta_title: "Déménagement Bureaux Nice : 2000-8000€ | Weekend, Planning"
 meta_description: "Déménagement entreprise Nice : 2000-8000€ selon taille. Weekend sans interruption, planning détaillé, IT, archives. Sophia-Antipolis. Guide PME."
 slug: "demenagement-bureaux-entreprise-nice"
-category: "demenagement-entreprise-nice"
+category: "demenagement-entreprise"
 type: "satellite"
 pilier_parent: "demenagement-entreprise-nice-guide"
 keywords:

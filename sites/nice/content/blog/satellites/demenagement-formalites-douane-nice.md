@@ -3,7 +3,7 @@ title: "Formalités Douane Déménagement International Nice : UE vs Hors-UE 202
 meta_title: "Douane Déménagement Nice : UE Simplifié, Hors-UE Complexe"
 meta_description: "Formalités douane Nice : UE (Italie) simplifié 1h, hors-UE (Suisse) complexe formulaires 2-4h. Inventaire, justificatifs. Guide."
 slug: "demenagement-formalites-douane-nice"
-category: "demenagement-international-nice"
+category: "demenagement-international"
 type: "satellite"
 pilier_parent: "demenagement-international-nice-guide"
 keywords:

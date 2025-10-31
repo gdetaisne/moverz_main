@@ -3,7 +3,7 @@ title: "Déménagement Une Pièce Nice : Chambre, Bureau, Cave - Prix 2025"
 meta_title: "Déménagement 1 Pièce Nice : 200-500€ | Chambre, Bureau, Cave"
 meta_description: "Déménagement 1 pièce Nice : 200-500€ pro, 80-150€ auto. Chambre 9m², bureau 12m², cave 8m³. Volume 8-15m³. Utilitaire 12m³ 70€. Guide."
 slug: "demenagement-une-piece-nice"
-category: "petit-demenagement-nice"
+category: "petit-demenagement"
 type: "satellite"
 pilier_parent: "petit-demenagement-nice-guide"
 keywords:

@@ -3,7 +3,7 @@ title: "Quelle Période pour Déménager Pas Cher à Nice ? Calendrier 2025"
 meta_title: "Meilleure Période Déménagement Nice : Janvier-Mars -10-15%"
 meta_description: "Période pas chère déménagement Nice : janvier-mars -10-15% (hors Carnaval). Éviter septembre +20-30% (35K étudiants). Semaine vs weekend -20-30%. Guide."
 slug: "periode-pas-chere-demenagement-nice"
-category: "demenagement-pas-cher-nice"
+category: "demenagement-pas-cher"
 type: "satellite"
 pilier_parent: "demenagement-pas-cher-nice-guide"
 keywords:

@@ -3,7 +3,7 @@ title: "Déménagement Piano Nice : Prix, Spécialistes, Monte-Meuble 2025"
 meta_title: "Transport Piano Nice : 200-600€ | Droit, Queue | Spécialistes"
 meta_description: "Déménagement piano Nice : 200-400€ (droit), 400-600€ (queue). Spécialistes, monte-meuble Vieux-Nice +150€, protection. Akte 21. Guide."
 slug: "demenagement-piano-nice-prix"
-category: "demenagement-piano-nice"
+category: "demenagement-piano"
 type: "satellite"
 pilier_parent: "demenagement-piano-nice-guide"
 keywords:

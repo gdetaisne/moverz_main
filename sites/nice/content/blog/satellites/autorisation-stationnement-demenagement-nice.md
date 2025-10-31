@@ -3,7 +3,7 @@ title: "Autorisation Stationnement Déménagement Nice : Démarche 2025"
 meta_title: "Autorisation Stationnement Nice : Délai 5-7j, 50-100€ | Mairie"
 meta_description: "Autorisation déménagement Nice : obligatoire Vieux-Nice, recommandée centre. Délai 5-7j, coût 50-100€. Démarche nice.fr. Amende 135€ sans. Guide."
 slug: "autorisation-stationnement-demenagement-nice"
-category: "demenageur-nice"
+category: "demenageur"
 type: "satellite"
 pilier_parent: "demenageur-nice-guide-complet"
 keywords:
@@ -119,7 +119,7 @@ Stationnement libre généralement disponible. Autorisation inutile sauf rues sp
 
 Sans autorisation : amende 135€ + temps perdu 2h = +200€ → **autorisation est rentable**.
 
-Pour tout savoir sur [les contraintes du Vieux-Nice](/blog/demenageur-nice/demenageur-vieux-nice-acces-difficile), consultez notre guide spécialisé. Ces éléments s'inscrivent dans le contexte plus large de notre [déménagement professionnel à Nice](/blog/demenageur/demenageur-nice-guide-complet).
+Pour tout savoir sur [les contraintes du Vieux-Nice](/blog/demenageur/demenageur-vieux-nice-acces-difficile), consultez notre guide spécialisé. Ces éléments s'inscrivent dans le contexte plus large de notre [déménagement professionnel à Nice](/blog/demenageur/demenageur-nice-guide-complet).
 
 Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [nos services de déménagement niçois](/blog/demenageur/demenageur-nice-guide-complet).
 

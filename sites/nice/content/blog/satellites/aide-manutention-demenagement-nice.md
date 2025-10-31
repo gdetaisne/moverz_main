@@ -3,7 +3,7 @@ title: "Aide Manutention Déménagement Nice : Amis, Pros, Étudiants 2025"
 meta_title: "Aide Manutention Nice : Amis Gratuit, Étudiants 15-20€/h"
 meta_description: "Aide manutention Nice : amis gratuit (repas 50-80€), étudiants 15-20€/h via plateformes, pros 25-35€/h. 4-5 personnes T2. Guide."
 slug: "aide-manutention-demenagement-nice"
-category: "aide-demenagement-nice"
+category: "aide-demenagement"
 type: "satellite"
 pilier_parent: "aide-demenagement-nice-guide"
 keywords:

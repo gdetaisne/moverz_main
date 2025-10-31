@@ -3,7 +3,7 @@ title: "Comment Préparer ses Affaires pour un Garde-Meuble à Nice 2025"
 meta_title: "Préparer Box Stockage Nice : Matériel, Emballage, Protection"
 meta_description: "Préparer stockage Nice : cartons 1-3€, protection humidité mer, climat 13-27°C. Matériel Homebox, Leroy Merlin. Emballage optimal. Guide complet."
 slug: "preparer-affaires-garde-meuble-nice"
-category: "garde-meuble-nice"
+category: "garde-meuble"
 type: "satellite"
 pilier_parent: "garde-meuble-nice-guide-complet"
 keywords:
@@ -246,7 +246,7 @@ L'**organisation stratégique** de votre box (zones arrière/centrale/avant, all
 - ✅ Photos affaires de valeur (assurance)
 - ✅ Plan d'organisation box (zones d'accès)
 
-Pour choisir la taille exacte de box selon vos affaires, consultez notre [guide de calcul des besoins](/blog/garde-meuble-nice/quelle-taille-box-stockage-nice). Pour comparer les acteurs et leurs services, voir notre [comparatif complet Nice](/blog/garde-meuble/garde-meuble-nice-guide-complet).
+Pour choisir la taille exacte de box selon vos affaires, consultez notre [guide de calcul des besoins](/blog/garde-meuble/quelle-taille-box-stockage-nice). Pour comparer les acteurs et leurs services, voir notre [comparatif complet Nice](/blog/garde-meuble/garde-meuble-nice-guide-complet).
 
 ---
 

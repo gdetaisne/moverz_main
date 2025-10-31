@@ -3,7 +3,7 @@ title: "Déménager un Piano Droit à Nice : Prix, Protection, Étapes 2025"
 meta_title: "Déménagement Piano Droit Nice : 200-400€ | 120-180kg"
 meta_description: "Déménagement piano droit Nice 120-180 kg : 200-400€ (RDC-3ème), +150€ monte-meuble Vieux-Nice. Protection, démontage pieds. Spécialistes. Guide."
 slug: "demenagement-piano-droit-nice"
-category: "demenagement-piano-nice"
+category: "demenagement-piano"
 type: "satellite"
 pilier_parent: "demenagement-piano-nice-guide"
 keywords:

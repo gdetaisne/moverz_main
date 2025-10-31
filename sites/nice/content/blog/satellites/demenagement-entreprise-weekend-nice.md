@@ -3,7 +3,7 @@ title: "Déménagement Entreprise Weekend Nice : 0 Interruption Activité"
 meta_title: "Déménagement Entreprise Weekend Nice : +20-30% vs -9000€ CA"
 meta_description: "Déménagement weekend Nice entreprise : surcoût +20-30% (bureaux 100m² 3500€ → 4500€ +1000€) vs perte CA 3-5j semaine 9000€. Planning. Guide."
 slug: "demenagement-entreprise-weekend-nice"
-category: "demenagement-entreprise-nice"
+category: "demenagement-entreprise"
 type: "satellite"
 pilier_parent: "demenagement-entreprise-nice-guide"
 keywords:

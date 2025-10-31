@@ -3,7 +3,7 @@ title: "Comment Calculer le Prix de son Déménagement à Nice ? Guide 2025"
 meta_title: "Calculer Prix Déménagement Nice : Volume, Distance, Formule"
 meta_description: "Calculer prix déménagement Nice : volume (m³), étage, quartier, formule. Studio 400-800€, T2 700-1200€, T3 1000-1800€. Simulateur. Guide."
 slug: "calculer-prix-demenagement-nice"
-category: "prix-demenagement-nice"
+category: "prix-demenagement"
 type: "satellite"
 pilier_parent: "prix-demenagement-nice-guide"
 keywords:

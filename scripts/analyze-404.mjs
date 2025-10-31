@@ -27,36 +27,46 @@ const categoryMappings = {
     'garde-meuble-marseille': 'garde-meuble',
     'prix-demenagement-marseille': 'prix',
     'prix-demenagement-piano-marseille': 'prix-piano',
+  },
+  nice: {
+    // Catégories standardisées (format court, pas de mapping)
+    'aide-demenagement-nice': 'aide-demenagement',
+    'aide-demenagement': 'aide-demenagement',
+    'demenagement-entreprise-nice': 'demenagement-entreprise',
+    'demenagement-entreprise': 'demenagement-entreprise',
+    'demenagement-international-nice': 'demenagement-international',
+    'demenagement-international': 'demenagement-international',
+    'demenagement-pas-cher-nice': 'demenagement-pas-cher',
+    'demenagement-pas-cher': 'demenagement-pas-cher',
+    'demenagement-piano-nice': 'demenagement-piano',
+    'demenagement-piano': 'demenagement-piano',
+    'demenageur-nice': 'demenageur',
+    'demenageur': 'demenageur',
+    'garde-meuble-nice': 'garde-meuble',
+    'garde-meuble': 'garde-meuble',
+    'location-camion-demenagement-nice': 'location-camion',
+    'location-camion-nice': 'location-camion',
+    'location-camion': 'location-camion',
+    'petit-demenagement-nice': 'petit-demenagement',
+    'petit-demenagement': 'petit-demenagement',
+    'prix-demenagement-nice': 'prix-demenagement',
+    'prix-demenagement': 'prix-demenagement',
+    'demenagement-nice': 'demenagement-general',
+    'demenagement-general': 'demenagement-general',
+    'satellites': 'conseils',
+    'conseils': 'conseils',
+    'demenagement-objets-fragiles': 'demenagement-objets-fragiles',
+    'demenagement-longue-distance': 'demenagement-longue-distance',
+    'demenagement-local': 'demenagement-local',
   }
 };
 
 function cleanSlug(slug, category, city) {
+  // Ne PAS retirer les préfixes - garder les slugs complets (aligné avec blog.ts Nice)
   let clean = slug;
   
-  const categoryPatterns = [
-    `demenagement-etudiant-${city}-`,
-    `demenagement-entreprise-${city}-`,
-    `demenagement-piano-${city}-`,
-    `demenagement-international-${city}-`,
-    `demenagement-longue-distance-${city}-`,
-    `demenagement-pas-cher-${city}-`,
-    `demenagement-urgent-${city}-`,
-    `devis-demenagement-${city}-`,
-    `garde-meuble-${city}-`,
-    `prix-demenagement-${city}-`,
-    `prix-demenagement-piano-${city}-`,
-  ];
-  
-  categoryPatterns.forEach(pattern => {
-    if (clean.startsWith(pattern)) {
-      clean = clean.replace(pattern, '');
-    }
-  });
-  
-  // ✅ Option B appliquée: garder ville dans slug (SEO local)
-  // clean = clean.replace(new RegExp(`-${city}$`, 'i'), '');  // COMMENTÉ comme dans blog.ts
+  // Seulement simplifier "-guide-complet" → "-guide"
   clean = clean.replace(/-guide-complet$/i, '-guide');
-  clean = clean.replace(/-reperes-2025$/i, '-2025');
   
   return clean;
 }

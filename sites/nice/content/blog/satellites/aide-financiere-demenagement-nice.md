@@ -3,7 +3,7 @@ title: "Aides Financières Déménagement Nice : CAF, Employeur, Pôle Emploi 20
 meta_title: "Aides Déménagement Nice : CAF 1000€, Employeur, Mobili-Pass"
 meta_description: "Aides déménagement Nice : CAF jusqu'à 1000€, aide employeur, Mobili-Pass, Pôle Emploi, Action Logement. Conditions, démarches. Guide complet."
 slug: "aide-financiere-demenagement-nice"
-category: "aide-demenagement-nice"
+category: "aide-demenagement"
 type: "satellite"
 pilier_parent: "aide-demenagement-nice-guide"
 keywords:

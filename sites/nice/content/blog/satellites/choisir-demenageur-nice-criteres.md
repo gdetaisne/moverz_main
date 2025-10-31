@@ -3,7 +3,7 @@ title: "Comment Choisir un Déménageur à Nice ? 10 Critères Essentiels 2025"
 meta_title: "Choisir Déménageur Nice : 10 Critères | Avis, Prix, Assurance"
 meta_description: "Choisir déménageur Nice : avis vérifiés, assurance, connaissance Vieux-Nice, devis transparent. Akte 21 (4,1/5), Les Collinettes (4/5). Guide 10 critères."
 slug: "choisir-demenageur-nice-criteres"
-category: "demenageur-nice"
+category: "demenageur"
 type: "satellite"
 pilier_parent: "demenageur-nice-guide-complet"
 keywords:

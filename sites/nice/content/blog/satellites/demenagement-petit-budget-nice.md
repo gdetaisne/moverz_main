@@ -3,7 +3,7 @@ title: "Déménagement Petit Budget Nice : Solutions Moins de 500€ en 2025"
 meta_title: "Déménagement < 500€ Nice : Auto, Formule Économique, Aides"
 meta_description: "Déménagement petit budget Nice < 500€ : auto 150-300€ (studio/T1), formule économique 400-600€, aides CAF/Pôle Emploi. 35K étudiants. Guide."
 slug: "demenagement-petit-budget-nice"
-category: "demenagement-pas-cher-nice"
+category: "demenagement-pas-cher"
 type: "satellite"
 pilier_parent: "demenagement-pas-cher-nice-guide"
 keywords:

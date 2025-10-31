@@ -3,7 +3,7 @@ title: "Déménagement Cabinet Médical Nice : Planning, Prix, Matériel Sensibl
 meta_title: "Déménagement Cabinet Médical Nice : 2500-6000€ | Weekend"
 meta_description: "Déménagement cabinet médical Nice : 2500-6000€ selon taille. Weekend sans interruption patients. Matériel médical sensible. Pasteur, centre. Guide."
 slug: "demenagement-cabinet-medical-nice"
-category: "demenagement-entreprise-nice"
+category: "demenagement-entreprise"
 type: "satellite"
 pilier_parent: "demenagement-entreprise-nice-guide"
 keywords:

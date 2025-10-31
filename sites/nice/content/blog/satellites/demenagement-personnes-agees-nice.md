@@ -3,7 +3,7 @@ title: "Déménagement Personnes Âgées Nice : Aides, Services, Prix 2025"
 meta_title: "Déménagement Seniors Nice : Clé en Main, Aides CCAS, 800-2000€"
 meta_description: "Déménagement personnes âgées Nice : formule clé en main 800-2000€, aides CCAS/CARSAT, services spécialisés. Cimiez, centre. Guide seniors."
 slug: "demenagement-personnes-agees-nice"
-category: "aide-demenagement-nice"
+category: "aide-demenagement"
 type: "satellite"
 pilier_parent: "aide-demenagement-nice-guide"
 keywords:

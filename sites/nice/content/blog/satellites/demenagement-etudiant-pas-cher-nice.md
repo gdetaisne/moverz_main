@@ -3,7 +3,7 @@ title: "Déménagement Étudiant Pas Cher Nice : Solutions 35 000 Étudiants"
 meta_title: "Déménagement Étudiant Nice : 300-600€ | 35K Étudiants | Guide"
 meta_description: "Déménagement étudiant Nice : 300-600€ chambre/studio. 35 000 étudiants, rentrée septembre, formule économique, location utilitaire, aides. Guide complet."
 slug: "demenagement-etudiant-pas-cher-nice"
-category: "demenagement-pas-cher-nice"
+category: "demenagement-pas-cher"
 type: "satellite"
 pilier_parent: "demenagement-pas-cher-nice-guide"
 keywords:

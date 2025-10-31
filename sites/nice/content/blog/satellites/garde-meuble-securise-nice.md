@@ -3,7 +3,7 @@ title: "Garde-Meuble Sécurisé Nice : Normes, Dispositifs et Assurance 2025"
 meta_title: "Sécurité Garde-Meuble Nice : Vidéo 24/7, Alarmes, Badge | Guide 2025"
 meta_description: "Sécurité garde-meuble Nice : vidéosurveillance 24/7, alarmes individuelles, badge. Homebox, Shurgard, Annexx. Assurance 10-20€/mois. Guide complet."
 slug: "garde-meuble-securise-nice"
-category: "garde-meuble-nice"
+category: "garde-meuble"
 type: "satellite"
 pilier_parent: "garde-meuble-nice-guide-complet"
 keywords:

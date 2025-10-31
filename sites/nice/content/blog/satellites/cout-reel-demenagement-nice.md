@@ -86,7 +86,7 @@ Le **coût annoncé** d'un déménagement à Nice (800-1 500€ pour un F2) repr
 
 Inclut : Cartons + emballage fragiles (vaisselle, miroirs) + films protecteurs.
 
-**Alternative gratuite :** [Récupérer cartons gratuits Nice](/blog/location-camion-demenagement-nice/cartons-gratuits-nice-ou-trouver) (supermarchés, pharmacies) = **économie 60-250€**.
+**Alternative gratuite :** [Récupérer cartons gratuits Nice](/blog/demenagement-pas-cher/cartons-gratuits-nice-ou-trouver) (supermarchés, pharmacies) = **économie 60-250€**.
 
 ### 3. Autorisations Stationnement (+50-150€)
 
@@ -215,7 +215,7 @@ Inclut : Cartons + emballage fragiles (vaisselle, miroirs) + films protecteurs.
 - Supermarchés Nice (Carrefour TNL, Auchan Lingostière)
 - Pharmacies (cartons médicaments solides)
 - Librairies Nice (cartons livres)
-- [Guide cartons gratuits Nice](/blog/location-camion-demenagement-nice/cartons-gratuits-nice-ou-trouver)
+- [Guide cartons gratuits Nice](/blog/demenagement-pas-cher/cartons-gratuits-nice-ou-trouver)
 
 **2. Déménagement Basse Saison = -15-20%**
 - **Janvier-mars** : -300-600€ (vs septembre haute saison)
@@ -293,7 +293,7 @@ Les **5 principaux coûts non mentionnés** dans les devis standards : **monte-m
 
 ### Comment réduire le coût d'un déménagement à Nice sans sacrifier la qualité ?
 
-**5 économies majeures** : récupérer [cartons gratuits](/blog/location-camion-demenagement-nice/cartons-gratuits-nice-ou-trouver) (-60-250€), déménager en [basse saison](/blog/pas-cher/demenagement-pas-cher-nice-guide) janvier-mars (-15-20%), demander autorisation 15j avant (gratuit vs 60-100€ express), choisir formule économique où vous emballez (-30-40%), comparer 3 devis (-10-20%). **Économies totales : 500-1 500€**.
+**5 économies majeures** : récupérer [cartons gratuits](/blog/demenagement-pas-cher/cartons-gratuits-nice-ou-trouver) (-60-250€), déménager en [basse saison](/blog/pas-cher/demenagement-pas-cher-nice-guide) janvier-mars (-15-20%), demander autorisation 15j avant (gratuit vs 60-100€ express), choisir formule économique où vous emballez (-30-40%), comparer 3 devis (-10-20%). **Économies totales : 500-1 500€**.
 
 ### Le monte-meuble est-il vraiment nécessaire à Nice ?
 

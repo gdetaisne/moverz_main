@@ -3,7 +3,7 @@ title: "Prix Déménagement T3 Nice : Tarifs 60-90m² par Quartier 2025"
 meta_title: "Prix T3 Nice : 1000-1800€ | Cimiez, Fabron, Libération"
 meta_description: "Prix déménagement T3 Nice 60-90m² : 1000-1800€. Cimiez 1200-1800€, Libération 1100-1600€, Arenas 1000-1400€. 55-70m³. Guide complet."
 slug: "prix-demenagement-t3-nice"
-category: "prix-demenagement-nice"
+category: "prix-demenagement"
 type: "satellite"
 pilier_parent: "prix-demenagement-nice-guide"
 keywords:

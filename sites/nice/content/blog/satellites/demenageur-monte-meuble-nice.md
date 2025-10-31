@@ -3,7 +3,7 @@ title: "Déménageur avec Monte-Meuble Nice : Quand Nécessaire ? Prix 2025"
 meta_title: "Monte-Meuble Nice : Vieux-Nice, Cimiez | +150-300€ | Guide 2025"
 meta_description: "Monte-meuble Nice : nécessaire Vieux-Nice (40-50% cas), Cimiez, immeubles sans ascenseur. Coût +150-300€. Autorisation mairie. Akte 21, Les Collinettes."
 slug: "demenageur-monte-meuble-nice"
-category: "demenageur-nice"
+category: "demenageur"
 type: "satellite"
 pilier_parent: "demenageur-nice-guide-complet"
 keywords:
@@ -173,7 +173,7 @@ Le monte-meuble est **nécessaire pour 40-50% des déménagements du Vieux-Nice*
 - Studio 3ème étage : 500-650€ + 180€ monte-meuble = **680-830€**
 - T2 4ème étage : 900-1 100€ + 220€ monte-meuble = **1 120-1 320€**
 
-Vérifiez lors du **devis** que le déménageur possède l'équipement, a l'expérience du Vieux-Nice/Cimiez et gère l'autorisation mairie (nécessaire pour installer sur voie publique). Alternative économique : démontage poussé des meubles si techniquement possible. Pour tout savoir sur [les prix détaillés selon quartiers](/blog/demenageur-nice/prix-demenageur-nice-2025), consultez notre comparatif tarifaire.
+Vérifiez lors du **devis** que le déménageur possède l'équipement, a l'expérience du Vieux-Nice/Cimiez et gère l'autorisation mairie (nécessaire pour installer sur voie publique). Alternative économique : démontage poussé des meubles si techniquement possible. Pour tout savoir sur [les prix détaillés selon quartiers](/blog/demenageur/prix-demenageur-nice-2025), consultez notre comparatif tarifaire.
 
 ---
 

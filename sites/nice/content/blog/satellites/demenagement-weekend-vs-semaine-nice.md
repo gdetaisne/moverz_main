@@ -3,7 +3,7 @@ title: "Déménagement Weekend vs Semaine Nice : Économie 200-400€"
 meta_title: "Weekend vs Semaine Nice : +20-40% Weekend | Économie 300€"
 meta_description: "Déménagement semaine Nice : 900€ (lundi-jeudi) vs weekend 1200€ (samedi +20-30%, dimanche +30-40%). Économie 300€ T2 en posant 1 jour congé."
 slug: "demenagement-weekend-vs-semaine-nice"
-category: "demenagement-pas-cher-nice"
+category: "demenagement-pas-cher"
 type: "satellite"
 pilier_parent: "demenagement-pas-cher-nice-guide"
 keywords:

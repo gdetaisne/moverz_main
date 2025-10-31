@@ -3,7 +3,7 @@ title: "Déménagement Piano avec Monte-Meuble Nice : Vieux-Nice, Cimiez 2025"
 meta_title: "Piano Monte-Meuble Nice : +150-300€ | Vieux-Nice 40-50% Cas"
 meta_description: "Piano monte-meuble Nice : nécessaire Vieux-Nice 40-50% cas (escaliers < 90cm), Cimiez. Coût +150-300€. Piano droit OK, piano queue souvent. Guide."
 slug: "demenagement-piano-monte-meuble-nice"
-category: "demenagement-piano-nice"
+category: "demenagement-piano"
 type: "satellite"
 pilier_parent: "demenagement-piano-nice-guide"
 keywords:

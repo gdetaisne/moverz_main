@@ -3,7 +3,7 @@ title: "Comparateur Devis Déménagement Nice : Économiser 30-50% en 2025"
 meta_title: "Comparateur Déménagement Nice : 3-4 Devis = -300-600€ Économie"
 meta_description: "Comparer 3-4 devis Nice : écarts 30-50% (750€ vs 1200€ T2). Akte 21, Les Collinettes, +2 acteurs. Visite technique obligatoire. Guide."
 slug: "comparateur-devis-demenagement-nice"
-category: "demenagement-pas-cher-nice"
+category: "demenagement-pas-cher"
 type: "satellite"
 pilier_parent: "demenagement-pas-cher-nice-guide"
 keywords:

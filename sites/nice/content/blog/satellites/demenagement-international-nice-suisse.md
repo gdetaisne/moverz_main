@@ -3,7 +3,7 @@ title: "Déménagement Nice Suisse : Prix, Douane, Délais Genève-Zurich 2025"
 meta_title: "Nice → Suisse : 2500-5500€ | Douane Hors-UE | Délai 5-10j"
 meta_description: "Déménagement Nice Suisse : 2500-5500€ (Genève 450 km, Zurich 700 km). Douane hors-UE complexe, formulaires, délai 5-10j. Guide complet."
 slug: "demenagement-international-nice-suisse"
-category: "demenagement-international-nice"
+category: "demenagement-international"
 type: "satellite"
 pilier_parent: "demenagement-international-nice-guide"
 keywords:

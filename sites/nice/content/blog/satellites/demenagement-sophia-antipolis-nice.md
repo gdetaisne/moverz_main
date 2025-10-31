@@ -3,7 +3,7 @@ title: "Déménagement Nice Sophia-Antipolis : 20 km, Prix, Entreprises Tech"
 meta_title: "Nice → Sophia-Antipolis : 600-1500€ | 20km | 30K Emplois"
 meta_description: "Déménagement Nice Sophia-Antipolis 20 km : 600-1500€ selon volume. Technopole 30 000 emplois, entreprises tech. Arenas ↔ Sophia fréquent. Guide."
 slug: "demenagement-sophia-antipolis-nice"
-category: "demenagement-entreprise-nice"
+category: "demenagement-entreprise"
 type: "satellite"
 pilier_parent: "demenagement-entreprise-nice-guide"
 keywords:

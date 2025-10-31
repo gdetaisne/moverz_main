@@ -3,7 +3,7 @@ title: "Où Trouver des Cartons Gratuits à Nice pour Déménager ? 2025"
 meta_title: "Cartons Gratuits Nice : Marchés, Supermarchés | Économie 30-90€"
 meta_description: "Cartons gratuits Nice : marchés Libération/Cours Saleya (7h-9h), Carrefour Lingostière, Leclerc. 30 cartons = 60-90€ économie. Guide complet."
 slug: "cartons-gratuits-nice-ou-trouver"
-category: "demenagement-pas-cher-nice"
+category: "demenagement-pas-cher"
 type: "satellite"
 pilier_parent: "demenagement-pas-cher-nice-guide"
 keywords:

@@ -3,7 +3,7 @@ title: "Location Camion Weekend Nice : Tarifs Samedi-Dimanche 2025"
 meta_title: "Location Camion Weekend Nice : 140-280€ (48h) | Guide 2025"
 meta_description: "Location camion weekend Nice : 140-200€ (20m³ 48h), 100-140€ (12m³). Disponibilité limitée septembre. Europcar, Sixt, Hertz. Guide."
 slug: "location-camion-weekend-nice"
-category: "location-camion-nice"
+category: "location-camion"
 type: "satellite"
 pilier_parent: "location-camion-nice-guide"
 keywords:

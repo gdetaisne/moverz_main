@@ -3,7 +3,7 @@ title: "Prix Déménagement T2 Nice : Tarifs Détaillés par Quartier 2025"
 meta_title: "Prix T2 Nice : 700-1200€ | Vieux-Nice, Libération, Arenas"
 meta_description: "Prix déménagement T2 Nice 40-50m² : 700-1200€ selon quartier/formule. Vieux-Nice 900-1200€ (+15-25%), Arenas 700-950€. Guide complet."
 slug: "prix-demenagement-t2-nice"
-category: "prix-demenagement-nice"
+category: "prix-demenagement"
 type: "satellite"
 pilier_parent: "prix-demenagement-nice-guide"
 keywords:

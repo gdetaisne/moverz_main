@@ -3,7 +3,7 @@ title: "Déménagement sans Interruption Activité Nice : Weekend, Nuit, Plannin
 meta_title: "Déménagement 0 Interruption Nice : Weekend +25%, Nuit +50%"
 meta_description: "Déménagement sans interruption Nice : weekend vendredi soir-lundi (surcoût +20-30%), nuit (+ 50%), planning détaillé. Entreprises, commerces. Guide."
 slug: "demenagement-sans-interruption-activite-nice"
-category: "demenagement-entreprise-nice"
+category: "demenagement-entreprise"
 type: "satellite"
 pilier_parent: "demenagement-entreprise-nice-guide"
 keywords:

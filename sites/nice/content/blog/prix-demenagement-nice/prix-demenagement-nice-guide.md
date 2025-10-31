@@ -2,7 +2,7 @@
 title: "Prix Déménagement Nice : Comprendre les Coûts et Obtenir un Devis Transparent"
 description: "Quel est le prix d'un déménagement à Nice ? Découvrez nos tarifs indicatifs et obtenez un devis gratuit et personnalisé. Transparence et expertise niçoise garanties !"
 slug: "prix-demenagement-nice-guide"
-category: "demenagement-nice"
+category: "demenagement-general"
 keywords:
   - "prix déménagement nice"
   - "tarif déménagement nice"
@@ -27,17 +27,17 @@ Dans ce guide complet, découvrez tous les **facteurs influençant le prix d'un 
 Tout comprendre sur les tarifs de déménagement à Nice :
 
 **Prix par Type de Logement :**
-- [Prix déménagement T2 à Nice 2025](/blog/prix-demenagement-nice/satellites/prix-demenagement-t2-nice) - Fourchettes 600-1400€ selon formule
-- [Prix déménagement T3 à Nice 2025](/blog/prix-demenagement-nice/satellites/prix-demenagement-t3-nice) - Tarifs 900-2000€ détaillés
-- [Prix déménagement maison Nice](/blog/prix-demenagement-nice/satellites/demenagement-maison-nice-prix) - Budget T4-T5 complet
+- [Prix déménagement T2 à Nice 2025](/blog/prix-demenagement/prix-demenagement-t2-nice) - Fourchettes 600-1400€ selon formule
+- [Prix déménagement T3 à Nice 2025](/blog/prix-demenagement/prix-demenagement-t3-nice) - Tarifs 900-2000€ détaillés
+- [Prix déménagement maison Nice](/blog/prix-demenagement/demenagement-maison-nice-prix) - Budget T4-T5 complet
 
 **Facteurs de Prix :**
-- [Facteurs influençant le prix déménagement Nice](/blog/prix-demenagement-nice/satellites/facteurs-prix-demenagement-nice) - Volume, distance, étage, services
-- [Comment calculer le prix de son déménagement](/blog/prix-demenagement-nice/satellites/calculer-prix-demenagement-nice) - Estimateur DIY
+- [Facteurs influençant le prix déménagement Nice](/blog/prix-demenagement/facteurs-prix-demenagement-nice) - Volume, distance, étage, services
+- [Comment calculer le prix de son déménagement](/blog/prix-demenagement/calculer-prix-demenagement-nice) - Estimateur DIY
 
 **Devis et Longue Distance :**
-- [Devis déménagement Nice gratuit](/blog/prix-demenagement-nice/satellites/devis-demenagement-nice-gratuit) - 3-5 devis comparatifs
-- [Prix déménagement longue distance depuis Nice](/blog/prix-demenagement-nice/satellites/demenagement-longue-distance-depuis-nice) - Nice-Paris, Nice-Lyon, interrégional
+- [Devis déménagement Nice gratuit](/blog/prix-demenagement/devis-demenagement-nice-gratuit) - 3-5 devis comparatifs
+- [Prix déménagement longue distance depuis Nice](/blog/prix-demenagement/demenagement-longue-distance-depuis-nice) - Nice-Paris, Nice-Lyon, interrégional
 
 ## Quels sont les principaux facteurs qui influencent le prix d'un déménagement à Nice ?
 

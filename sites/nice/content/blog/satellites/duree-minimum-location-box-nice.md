@@ -3,7 +3,7 @@ title: "Durée Minimum Location Box Nice : Flexibilité & Engagements 2025"
 meta_title: "Durée Minimum Box Nice : 1 Mois | Contrats Flexibles 2025"
 meta_description: "Durée minimum location box Nice : 1 mois chez tous acteurs. Préavis 15-30j. Engagement 6-12 mois = -5-10%. Étudiants, expatriés, déménagement. Guide complet."
 slug: "duree-minimum-location-box-nice"
-category: "garde-meuble-nice"
+category: "garde-meuble"
 type: "satellite"
 pilier_parent: "garde-meuble-nice-guide-complet"
 keywords:
@@ -134,7 +134,7 @@ Les quartiers étudiants (Riquier, Libération, Arenas, Pasteur) voient leurs bo
 - **Coût total : 210€** pour l'été
 - Alternative : laisser chez parents (gratuit mais 200 km aller-retour = 100€ essence)
 
-Découvrez toutes nos [solutions pour étudiants à Nice](/blog/garde-meuble-nice/garde-meuble-etudiant-nice-pas-cher) avec tarifs négociés et conseils spécifiques.
+Découvrez toutes nos [solutions pour étudiants à Nice](/blog/garde-meuble/garde-meuble-etudiant-nice-pas-cher) avec tarifs négociés et conseils spécifiques.
 
 ### Expatriés et Temporaires
 

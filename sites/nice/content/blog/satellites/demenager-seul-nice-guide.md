@@ -3,7 +3,7 @@ title: "Déménager Seul à Nice : Guide Complet et Coûts 2025"
 meta_title: "Déménager Seul Nice : 150-400€ | Location, Aide, Conseils"
 meta_description: "Déménager seul Nice : location utilitaire 70-130€, aide amis, matériel 30€. Total 150-400€ vs 700-1800€ pro. Vieux-Nice déconseillé. Guide complet."
 slug: "demenager-seul-nice-guide"
-category: "demenagement-pas-cher-nice"
+category: "demenagement-pas-cher"
 type: "satellite"
 pilier_parent: "demenagement-pas-cher-nice-guide"
 keywords:

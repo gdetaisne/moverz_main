@@ -3,7 +3,7 @@ title: "Prix Déménageur Nice 2025 : Tarifs par Type de Logement"
 meta_title: "Prix Déménageur Nice 2025 : 400-1800€ Selon Volume | Tarifs"
 meta_description: "Prix déménageur Nice 2025 : 400-800€ (studio), 700-1200€ (T2), 1000-1800€ (T3). Vieux-Nice +15-25%. 3 acteurs comparés. Devis gratuit."
 slug: "prix-demenageur-nice-2025"
-category: "demenageur-nice"
+category: "demenageur"
 type: "satellite"
 pilier_parent: "demenageur-nice-guide-complet"
 keywords:
