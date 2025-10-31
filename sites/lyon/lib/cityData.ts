@@ -87,7 +87,7 @@ export const cityData: Record<string, CityData> = {
     name: 'Lyon',
     nameCapitalized: 'Lyon',
     region: 'Auvergne-Rhône-Alpes',
-    siteUrl: 'https://devis-demenageur-lyon.fr',
+    siteUrl: 'https://devis-demenageur-lyon.fr/',
     coordinates: {
       latitude: 45.7640,
       longitude: 4.8357

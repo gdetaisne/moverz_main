@@ -172,7 +172,7 @@ export const cityData: Record<string, CityData> = {
     name: 'Lille',
     nameCapitalized: 'Lille',
     region: 'Hauts-de-France',
-    siteUrl: 'https://devis-demenageur-lille.fr',
+    siteUrl: 'https://devis-demenageur-lille.fr/',
     coordinates: {
       latitude: 50.6292,
       longitude: 3.0573

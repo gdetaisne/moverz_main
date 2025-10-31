@@ -312,7 +312,7 @@ export const cityData: Record<string, CityData> = {
     name: 'Montpellier',
     nameCapitalized: 'Montpellier',
     region: 'Occitanie',
-    siteUrl: 'https://devis-demenageur-montpellier.fr',
+    siteUrl: 'https://devis-demenageur-montpellier.fr/',
     coordinates: {
       latitude: 43.6108,
       longitude: 3.8767

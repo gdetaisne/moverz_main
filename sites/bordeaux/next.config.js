@@ -2,6 +2,9 @@
 const nextConfig = {
   // CRITICAL: Standalone output pour Docker/CapRover
   output: 'standalone',
+
+  // SEO: Force trailing slash sur toutes les URLs (y compris homepage)
+  trailingSlash: true,
   
   // Optimisations pour build CapRover
   typescript: {

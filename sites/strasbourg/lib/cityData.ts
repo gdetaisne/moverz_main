@@ -284,7 +284,7 @@ export const cityData: Record<string, CityData> = {
     name: 'Strasbourg',
     nameCapitalized: 'Strasbourg',
     region: 'Grand Est',
-    siteUrl: 'https://devis-demenageur-strasbourg.fr',
+    siteUrl: 'https://devis-demenageur-strasbourg.fr/',
     coordinates: {
       latitude: 48.5734,
       longitude: 7.7521

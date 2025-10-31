@@ -228,7 +228,7 @@ export const cityData: Record<string, CityData> = {
     name: 'Rennes',
     nameCapitalized: 'Rennes',
     region: 'Bretagne',
-    siteUrl: 'https://devis-demenageur-rennes.fr',
+    siteUrl: 'https://devis-demenageur-rennes.fr/',
     coordinates: {
       latitude: 48.1173,
       longitude: -1.6778

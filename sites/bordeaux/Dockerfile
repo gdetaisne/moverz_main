@@ -18,7 +18,7 @@ RUN npm install --production=false
 FROM base AS builder
 COPY --from=deps /app/node_modules ./node_modules
 COPY . .
-ARG SITE_URL
+ARG SITE_URL=https://www.bordeaux-demenageur.fr/
 ENV SITE_URL=${SITE_URL}
 ENV NEXT_TELEMETRY_DISABLED=1
 RUN npm run build
@@ -30,7 +30,7 @@ RUN apk add --no-cache dumb-init && \
     adduser --system --uid 1001 nextjs
 
 WORKDIR /app
-ARG SITE_URL
+ARG SITE_URL=https://www.bordeaux-demenageur.fr/
 ENV NODE_ENV=production
 ENV PORT=3000
 ENV SITE_URL=${SITE_URL}

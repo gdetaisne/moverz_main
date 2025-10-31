@@ -144,7 +144,7 @@ export const cityData: Record<string, CityData> = {
     name: 'Nantes',
     nameCapitalized: 'Nantes',
     region: 'Pays de la Loire',
-    siteUrl: 'https://devis-demenageur-nantes.fr',
+    siteUrl: 'https://devis-demenageur-nantes.fr/',
     coordinates: {
       latitude: 47.2184,
       longitude: -1.5536

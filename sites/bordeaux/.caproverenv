@@ -1,0 +1,3 @@
+SITE_URL=https://www.bordeaux-demenageur.fr/
+NODE_ENV=production
+NEXT_TELEMETRY_DISABLED=1

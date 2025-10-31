@@ -4,221 +4,222 @@ import CtaPrimary from "@/components/CtaPrimary";
 import Section from "@/components/Section";
 import PartnerCard from "@/components/PartnerCard";
 import PartnersList from "@/components/PartnersList";
+import { getCanonicalUrl } from "@/lib/canonical-helper";
 
 export const metadata: Metadata = {
-  title: "Partenaires déménageurs - Déménageurs strasbourg (IA)",
-  description: "Découvrez nos partenaires déménageurs certifiés à strasbourg. Qualité garantie, tarifs transparents, service client premium.",
+  title: "Partenaires déménageurs - Déménageurs Marseille (IA)",
+  description: "Découvrez nos partenaires déménageurs certifiés à Marseille. Qualité garantie, tarifs transparents, service client premium.",
   alternates: {
-    canonical: "https://www.strasbourg-demenageur.fr/partenaires/",
+    canonical: getCanonicalUrl('partenaires'),
   },
   openGraph: {
-    title: "Partenaires déménageurs - Déménageurs strasbourg (IA)",
-    description: "Découvrez nos partenaires déménageurs certifiés à strasbourg. Qualité garantie, tarifs transparents, service client premium.",
-    url: "https://www.strasbourg-demenageur.fr/partenaires/",
+    title: "Partenaires déménageurs - Déménageurs Marseille (IA)",
+    description: "Découvrez nos partenaires déménageurs certifiés à Marseille. Qualité garantie, tarifs transparents, service client premium.",
+    url: getCanonicalUrl('partenaires'),
     type: "website",
   },
 };
 
 const partners = [
   {
-    name: "Déménageurs Strasbourg Pro",
-    city: "Strasbourg",
-    rating: 4.9,
-    reviews: 127,
-    specialties: ["Déménagements sur mesure", "Service personnalisé", "Grand Est"],
+    name: "Déménageurs Provence Pro",
+    city: "Aix-en-Provence",
+    rating: 4.8,
+    reviews: 366,
+    specialties: ["Déménagements sur mesure", "Service personnalisé"],
   },
   {
-    name: "Les Déménageurs d'Alsace",
-    city: "Illkirch-Graffenstaden",
-    rating: 4.7,
-    reviews: 89,
-    specialties: ["Déménagements locaux", "Alsace et Lorraine", "Emballage professionnel"],
+    name: "Les Déménageurs Marseillais",
+    city: "Aubagne",
+    rating: 4.8,
+    reviews: 69,
+    specialties: ["Déménagements locaux", "Gironde et Nouvelle-Provence-Alpes-Côte d'Azur"],
   },
   {
-    name: "Euro Déménagements Strasbourg",
-    city: "Strasbourg",
-    rating: 4.6,
-    reviews: 156,
-    specialties: ["Déménagements particuliers", "Déménagements professionnels", "Europe"],
+    name: "Déménageur Marseille Express",
+    city: "Marseille",
+    rating: 4.8,
+    reviews: 69,
+    specialties: ["Déménagements particuliers", "Déménagements professionnels"],
   },
   {
-    name: "Strasbourg Stockage & Déménagements",
-    city: "Schiltigheim",
+    name: "Méditerranée Déménagements Marseille",
+    city: "Marseille",
     rating: 4.5,
-    reviews: 73,
-    specialties: ["Garde-meuble", "Stockage d'archives", "Déménagements express"],
+    reviews: 66,
+    specialties: ["Garde-meuble", "Stockage d'archives"],
   },
   {
-    name: "Les Déménageurs d'Alsace Pro",
-    city: "Hoenheim",
+    name: "Les Déménageurs du Sud-Est",
+    city: "La Ciotat",
     rating: 5.0,
     reviews: 81,
-    specialties: ["Déménagements qualifiés", "Tout l'Alsace"],
+    specialties: ["Déménagements qualifiés", "Tout le sud-ouest"],
   },
   {
-    name: "Les Déménageurs du Grand Est",
-    city: "Bischheim",
+    name: "Les Déménageurs PACA",
+    city: "Cassis",
     rating: 4.5,
     reviews: 50,
-    specialties: ["Déménagements nationaux", "Réseau Grand Est"],
+    specialties: ["Déménagements nationaux", "Réseau national"],
   },
   {
     name: "Alex Déménagement",
-    city: "strasbourg",
+    city: "Marseille",
     rating: 4.7,
     reviews: 45,
     specialties: ["Déménagements express", "Emballage professionnel"],
   },
   {
-    name: "strasbourg Déménagement",
-    city: "strasbourg",
+    name: "Marseille Déménagement",
+    city: "Marseille",
     rating: 4.0,
     reviews: 32,
     specialties: ["Déménagements résidentiels", "Déménagements commerciaux"],
   },
   {
     name: "Hontas Déménagements",
-    city: "strasbourg",
+    city: "Marseille",
     rating: 4.0,
     reviews: 1,
     specialties: ["Déménagements longue distance", "Équipe professionnelle"],
   },
   {
     name: "Déménageurs Bretons",
-    city: "strasbourg",
+    city: "Marseille",
     rating: 5.0,
     reviews: 1,
     specialties: ["Déménagements complets", "Services nationaux"],
   },
   {
     name: "SAM'DÉMÉNAGE",
-    city: "strasbourg",
+    city: "Marseille",
     rating: 4.6,
     reviews: 28,
     specialties: ["Déménagements efficaces", "Équipe bienveillante"],
   },
   {
     name: "Rachid Chaty (GÈRE FOR YOU)",
-    city: "strasbourg",
+    city: "Marseille",
     rating: 4.8,
     reviews: 15,
     specialties: ["Manutention", "Nettoyage avant état des lieux"],
   },
   {
     name: "Ben Ben",
-    city: "strasbourg",
+    city: "Marseille",
     rating: 4.9,
     reviews: 12,
     specialties: ["Aide au déménagement", "Livraison", "Retrait de colis"],
   },
   {
     name: "Phone Course",
-    city: "strasbourg",
+    city: "Marseille",
     rating: 4.5,
     reviews: 8,
     specialties: ["Transport routier", "Livraison"],
   },
   {
     name: "Burdigala Déménagement",
-    city: "strasbourg",
+    city: "Marseille",
     rating: 4.3,
     reviews: 6,
     specialties: ["Déménagements locaux", "Services adaptés"],
   },
   {
     name: "Larnaudie Déménagements",
-    city: "strasbourg",
+    city: "Marseille",
     rating: 4.7,
     reviews: 5,
     specialties: ["Déménagements familiaux", "Garde-meuble"],
   },
   {
     name: "Déménagements Grée",
-    city: "strasbourg",
+    city: "Marseille",
     rating: 4.4,
     reviews: 4,
     specialties: ["Services personnalisés", "Particuliers et professionnels"],
   },
   {
     name: "Air Déménagement",
-    city: "strasbourg",
+    city: "Marseille",
     rating: 4.6,
     reviews: 3,
     specialties: ["Solutions adaptées", "Besoins spécifiques"],
   },
   {
     name: "Alexandre Meigne-Sakr",
-    city: "strasbourg",
+    city: "Marseille",
     rating: 4.8,
     reviews: 2,
     specialties: ["Services sur mesure", "Déménagements particuliers"],
   },
   {
     name: "Alain Lagache",
-    city: "strasbourg",
+    city: "Marseille",
     rating: 4.5,
     reviews: 2,
     specialties: ["Déménagements locaux", "Services de qualité"],
   },
   {
     name: "A À Z Service",
-    city: "strasbourg",
+    city: "Marseille",
     rating: 4.2,
     reviews: 1,
     specialties: ["Déménagements", "Nettoyage"],
   },
   {
     name: "Sédégo",
-    city: "strasbourg",
+    city: "Marseille",
     rating: 4.0,
     reviews: 1,
     specialties: ["Solutions adaptées", "Services complets"],
   },
   {
     name: "Transport Joël Latrille",
-    city: "strasbourg",
+    city: "Marseille",
     rating: 4.3,
     reviews: 1,
     specialties: ["Transport", "Déménagements professionnels"],
   },
   {
     name: "Adema",
-    city: "strasbourg",
+    city: "Marseille",
     rating: 4.1,
     reviews: 1,
     specialties: ["Services complets", "Particuliers et professionnels"],
   },
   {
-    name: "Les Déménageurs Strasbourgeois",
-    city: "Ostwald",
+    name: "Les Déménageurs Girondins",
+    city: "Allauch",
     rating: 4.4,
     reviews: 8,
     specialties: ["Déménagements locaux", "Services adaptés"],
   },
   {
-    name: "Express Déménagements Alsace",
-    city: "Lingolsheim",
+    name: "Bouexpress",
+    city: "Marignane",
     rating: 4.6,
     reviews: 6,
     specialties: ["Déménagements rapides", "Satisfaction client"],
   },
   {
     name: "TTD Turbo Transport Déménagement",
-    city: "Geispolsheim",
+    city: "Vitrolles",
     rating: 4.5,
     reviews: 4,
     specialties: ["Solutions rapides", "Particuliers et entreprises"],
   },
   {
-    name: "Déménagement Transport 67",
-    city: "Eckbolsheim",
+    name: "Déménagement Transport 33",
+    city: "Septèmes-les-Vallons",
     rating: 4.3,
     reviews: 3,
     specialties: ["Transport", "Services personnalisés"],
   },
   {
-    name: "Transport Bas-Rhin",
-    city: "Wolfisheim",
+    name: "Transport Gironde",
+    city: "Gignac-la-Nerthe",
     rating: 4.2,
     reviews: 2,
     specialties: ["Transport", "Solutions sur mesure"],
@@ -236,7 +237,7 @@ export default function PartenairesPage() {
         <div className="absolute inset-0">
           <img 
             src="https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=2000&auto=format&fit=crop"
-            alt="Partenaires déménageurs certifiés à strasbourg"
+            alt="Partenaires déménageurs certifiés à Marseille"
             className="w-full h-full object-cover"
           />
           <div className="absolute inset-0 bg-gradient-to-br from-[#04163a]/95 via-[#2b7a78]/88 to-[#04163a]/92"></div>
@@ -264,7 +265,7 @@ export default function PartenairesPage() {
             </h1>
             <p className="text-lg md:text-xl text-white/90">
               Nous travaillons exclusivement avec des déménageurs locaux certifiés et expérimentés. 
-              Chaque partenaire est sélectionné pour sa qualité de service, sa transparence tarifaire et sa connaissance du terrain strasbourgeois.
+              Chaque partenaire est sélectionné pour sa qualité de service, sa transparence tarifaire et sa connaissance du terrain marseillais.
             </p>
           </div>
         </div>
@@ -304,7 +305,7 @@ export default function PartenairesPage() {
               </div>
               <h3 className="text-xl font-semibold mb-3">Connaissance locale</h3>
               <p className="text-white/80">
-                Expertise du terrain strasbourgeois : accès, stationnement, contraintes spécifiques à chaque quartier.
+                Expertise du terrain marseillais : accès, stationnement, contraintes spécifiques à chaque quartier.
               </p>
             </div>
           </div>
@@ -318,7 +319,7 @@ export default function PartenairesPage() {
               Devenir partenaire Moverz
             </h2>
             <p className="text-white/80 mb-6 max-w-2xl mx-auto">
-              Vous êtes déménageur à strasbourg et souhaitez rejoindre notre réseau ? 
+              Vous êtes déménageur à Marseille et souhaitez rejoindre notre réseau ? 
               Bénéficiez de notre technologie IA et de notre visibilité en ligne.
             </p>
             <a 

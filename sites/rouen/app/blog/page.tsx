@@ -2,17 +2,18 @@ import type { Metadata } from 'next'
 import { getAllBlogPosts, getPilierPosts } from '@/lib/blog';
 import Link from 'next/link';
 import Breadcrumbs from '@/components/Breadcrumbs';
+import { getCanonicalUrl } from '@/lib/canonical-helper';
 
 export const metadata: Metadata = {
-  title: "Blog Déménagement Rouen - Guides & Conseils Experts | Moverz",
-  description: "Guides complets et conseils d'experts pour réussir votre déménagement à Rouen. Astuces budget, checklist, comparatifs, conseils pratiques. Articles rédigés par des professionnels.",
+  title: "Blog Déménagement Marseille - Guides & Conseils Experts | Moverz",
+  description: "Guides complets et conseils d'experts pour réussir votre déménagement à Marseille. Astuces budget, checklist, comparatifs, conseils pratiques. Articles rédigés par des professionnels.",
   alternates: {
-    canonical: `https://devis-demenageur-rouen.fr/blog`,
+    canonical: getCanonicalUrl('blog'),
   },
   openGraph: {
-    title: "Blog Déménagement Rouen - Tous nos guides pratiques",
-    description: "Conseils d'experts, guides détaillés et astuces pour déménager sereinement à Rouen.",
-    url: `https://devis-demenageur-rouen.fr/blog`,
+    title: "Blog Déménagement Marseille - Tous nos guides pratiques",
+    description: "Conseils d'experts, guides détaillés et astuces pour déménager sereinement à Marseille.",
+    url: getCanonicalUrl('blog'),
     type: 'website',
   },
 }
@@ -88,7 +89,7 @@ export default function BlogPage() {
             <Breadcrumbs 
               items={[
                 { label: "Accueil", href: "/" },
-                { label: "Blog", href: "/blog" }
+                { label: "Blog", href: "/blog/" }
               ]}
             />
             
@@ -98,7 +99,7 @@ export default function BlogPage() {
             </div>
 
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight mb-6 text-white">
-              Guides Déménagement <span className="text-[#6bcfcf]">Rouen</span>
+              Guides Déménagement <span className="text-[#6bcfcf]">Marseille</span>
             </h1>
             <p className="text-xl md:text-2xl text-white/90 max-w-3xl mx-auto font-light">
               Conseils d'experts, astuces pratiques et guides complets pour un déménagement réussi
@@ -309,7 +310,7 @@ export default function BlogPage() {
             {allPosts.filter(p => p.type === 'satellite').length > 9 && (
               <div className="mt-12 text-center">
                 <Link
-                  href="/blog"
+                  href="/blog/"
                   className="inline-flex items-center gap-3 px-8 py-4 rounded-2xl bg-white/5 border border-white/20 text-white font-semibold hover:bg-white/10 hover:border-[#6bcfcf]/50 hover:scale-105 transition-all duration-300"
                 >
                   Voir tous les articles
@@ -332,14 +333,14 @@ export default function BlogPage() {
             <div className="relative p-12 md:p-16 text-center">
               <div className="text-6xl mb-6">🚀</div>
               <h2 className="text-3xl md:text-4xl font-bold text-white mb-6">
-                Prêt à déménager à Rouen ?
+                Prêt à déménager à Marseille ?
               </h2>
               <p className="text-xl text-white/90 mb-10 max-w-2xl mx-auto">
                 Comparez gratuitement les devis de déménageurs professionnels. 
                 <strong> Rapide, gratuit, et sans engagement.</strong>
               </p>
               <Link 
-                href="/inventaire-ia" 
+                href="/inventaire-ia/" 
                 className="inline-flex items-center gap-3 px-10 py-5 rounded-2xl bg-white text-[#04163a] font-bold text-lg hover:bg-[#04163a] hover:text-white hover:scale-110 transition-all duration-300 shadow-2xl"
               >
                 Obtenir 5 devis gratuits

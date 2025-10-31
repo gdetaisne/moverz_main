@@ -256,7 +256,7 @@ export const cityData: Record<string, CityData> = {
     name: 'Rouen',
     nameCapitalized: 'Rouen',
     region: 'Normandie',
-    siteUrl: 'https://devis-demenageur-rouen.fr',
+    siteUrl: 'https://devis-demenageur-rouen.fr/',
     coordinates: {
       latitude: 49.4432,
       longitude: 1.0993

@@ -6,7 +6,7 @@ const envSchema = z.object({
   NODE_ENV: z.enum(['development', 'production', 'test']).default('development'),
   
   // URLs et services
-  SITE_URL: z.string().url().default('https://devis-demenageur-montpellier.fr'),
+  SITE_URL: z.string().url().default('https://devis-demenageur-montpellier.fr/'),
   MAKE_WEBHOOK_URL: z.string().url().optional(),
   
   // Configuration Next.js
