@@ -1,0 +1,386 @@
+{
+  "summary": {
+    "total": 44,
+    "totalReferences": 934,
+    "impactPercent": "57.7",
+    "byCity": {
+      "rennes": 7,
+      "marseille": 3,
+      "lyon": 8,
+      "bordeaux": 10,
+      "strasbourg": 2,
+      "montpellier": 9,
+      "lille": 2,
+      "nantes": 3
+    },
+    "byFrequency": {
+      "haute (50+)": 2,
+      "très_haute (20-49)": 12,
+      "moyenne (10-19)": 30
+    },
+    "phases": {
+      "phase1": {
+        "articles": 14,
+        "references": 528
+      },
+      "phase2": {
+        "articles": 30,
+        "references": 406
+      }
+    }
+  },
+  "articles": [
+    {
+      "url": "/blog/demenagement-rennes/demenageur-rennes",
+      "city": "rennes",
+      "references": 90,
+      "category": "demenagement-rennes",
+      "slug": "demenageur-rennes",
+      "priority": "HAUTE"
+    },
+    {
+      "url": "/blog/demenagement-marseille/prix-demenagement-marseille",
+      "city": "marseille",
+      "references": 60,
+      "category": "demenagement-marseille",
+      "slug": "prix-demenagement-marseille",
+      "priority": "HAUTE"
+    },
+    {
+      "url": "/blog/demenagement-marseille/demenageur-marseille",
+      "city": "marseille",
+      "references": 45,
+      "category": "demenagement-marseille",
+      "slug": "demenageur-marseille",
+      "priority": "HAUTE"
+    },
+    {
+      "url": "/blog/demenagement-rennes/demenagement-piano-rennes",
+      "city": "rennes",
+      "references": 40,
+      "category": "demenagement-rennes",
+      "slug": "demenagement-piano-rennes",
+      "priority": "HAUTE"
+    },
+    {
+      "url": "/blog/demenageur-lyon/meilleurs-demenageurs-lyon",
+      "city": "lyon",
+      "references": 36,
+      "category": "demenageur-lyon",
+      "slug": "meilleurs-demenageurs-lyon",
+      "priority": "HAUTE"
+    },
+    {
+      "url": "/blog/demenagement-rennes/aide-demenagement-rennes",
+      "city": "rennes",
+      "references": 36,
+      "category": "demenagement-rennes",
+      "slug": "aide-demenagement-rennes",
+      "priority": "HAUTE"
+    },
+    {
+      "url": "/blog/demenagement-rennes/location-camion-demenagement-rennes",
+      "city": "rennes",
+      "references": 36,
+      "category": "demenagement-rennes",
+      "slug": "location-camion-demenagement-rennes",
+      "priority": "HAUTE"
+    },
+    {
+      "url": "/blog/devis/guide",
+      "city": "bordeaux",
+      "references": 33,
+      "category": "devis",
+      "slug": "guide",
+      "priority": "HAUTE"
+    },
+    {
+      "url": "/blog/demenagement-rennes/demenagement-international-rennes",
+      "city": "rennes",
+      "references": 33,
+      "category": "demenagement-rennes",
+      "slug": "demenagement-international-rennes",
+      "priority": "HAUTE"
+    },
+    {
+      "url": "/blog/demenagement-rennes/demenagement-pas-cher-rennes",
+      "city": "rennes",
+      "references": 30,
+      "category": "demenagement-rennes",
+      "slug": "demenagement-pas-cher-rennes",
+      "priority": "HAUTE"
+    },
+    {
+      "url": "/blog/etudiant/guide",
+      "city": "bordeaux",
+      "references": 25,
+      "category": "etudiant",
+      "slug": "guide",
+      "priority": "HAUTE"
+    },
+    {
+      "url": "/blog/demenagement-marseille/location-camion-demenagement-marseille",
+      "city": "marseille",
+      "references": 24,
+      "category": "demenagement-marseille",
+      "slug": "location-camion-demenagement-marseille",
+      "priority": "HAUTE"
+    },
+    {
+      "url": "/blog/demenagement-entreprise-lyon/planification-demenagement-bureaux-lyon",
+      "city": "lyon",
+      "references": 20,
+      "category": "demenagement-entreprise-lyon",
+      "slug": "planification-demenagement-bureaux-lyon",
+      "priority": "HAUTE"
+    },
+    {
+      "url": "/blog/demenagement-strasbourg/demenageur-strasbourg",
+      "city": "strasbourg",
+      "references": 20,
+      "category": "demenagement-strasbourg",
+      "slug": "demenageur-strasbourg",
+      "priority": "HAUTE"
+    },
+    {
+      "url": "/blog/aide-demenagement-lyon/manutentionnaire-demenagement-lyon",
+      "city": "lyon",
+      "references": 19,
+      "category": "aide-demenagement-lyon",
+      "slug": "manutentionnaire-demenagement-lyon",
+      "priority": "MOYENNE"
+    },
+    {
+      "url": "/blog/longue-distance/guide",
+      "city": "bordeaux",
+      "references": 19,
+      "category": "longue-distance",
+      "slug": "guide",
+      "priority": "MOYENNE"
+    },
+    {
+      "url": "/blog/garde-meuble/guide",
+      "city": "bordeaux",
+      "references": 18,
+      "category": "garde-meuble",
+      "slug": "guide",
+      "priority": "MOYENNE"
+    },
+    {
+      "url": "/blog/demenagement-piano-lyon/prix-demenagement-piano-droit-lyon",
+      "city": "lyon",
+      "references": 17,
+      "category": "demenagement-piano-lyon",
+      "slug": "prix-demenagement-piano-droit-lyon",
+      "priority": "MOYENNE"
+    },
+    {
+      "url": "/blog/demenageur-lyon/devis-demenagement-gratuit-lyon",
+      "city": "lyon",
+      "references": 17,
+      "category": "demenageur-lyon",
+      "slug": "devis-demenagement-gratuit-lyon",
+      "priority": "MOYENNE"
+    },
+    {
+      "url": "/blog/demenageur-montpellier/demenageur-montpellier",
+      "city": "montpellier",
+      "references": 17,
+      "category": "demenageur-montpellier",
+      "slug": "demenageur-montpellier",
+      "priority": "MOYENNE"
+    },
+    {
+      "url": "/blog/petit-demenagement-montpellier/petit-demenagement-montpellier",
+      "city": "montpellier",
+      "references": 16,
+      "category": "petit-demenagement-montpellier",
+      "slug": "petit-demenagement-montpellier",
+      "priority": "MOYENNE"
+    },
+    {
+      "url": "/blog/prix/guide",
+      "city": "bordeaux",
+      "references": 15,
+      "category": "prix",
+      "slug": "guide",
+      "priority": "MOYENNE"
+    },
+    {
+      "url": "/blog/demenagement-pas-cher-montpellier/demenagement-pas-cher-montpellier",
+      "city": "montpellier",
+      "references": 15,
+      "category": "demenagement-pas-cher-montpellier",
+      "slug": "demenagement-pas-cher-montpellier",
+      "priority": "MOYENNE"
+    },
+    {
+      "url": "/blog/prix-demenagement-montpellier/prix-demenagement-montpellier",
+      "city": "montpellier",
+      "references": 15,
+      "category": "prix-demenagement-montpellier",
+      "slug": "prix-demenagement-montpellier",
+      "priority": "MOYENNE"
+    },
+    {
+      "url": "/blog/demenagement-petit-volume-lyon/prix-petit-demenagement-lyon",
+      "city": "lyon",
+      "references": 14,
+      "category": "demenagement-petit-volume-lyon",
+      "slug": "prix-petit-demenagement-lyon",
+      "priority": "MOYENNE"
+    },
+    {
+      "url": "/blog/demenageur-lyon/tarifs-demenageur-lyon",
+      "city": "lyon",
+      "references": 14,
+      "category": "demenageur-lyon",
+      "slug": "tarifs-demenageur-lyon",
+      "priority": "MOYENNE"
+    },
+    {
+      "url": "/blog/etudiant/aide-financiere-demenagement-etudiant",
+      "city": "bordeaux",
+      "references": 14,
+      "category": "etudiant",
+      "slug": "aide-financiere-demenagement-etudiant",
+      "priority": "MOYENNE"
+    },
+    {
+      "url": "/blog/demenageur-lille/formule-economique-cle-en-main-lille",
+      "city": "lille",
+      "references": 14,
+      "category": "demenageur-lille",
+      "slug": "formule-economique-cle-en-main-lille",
+      "priority": "MOYENNE"
+    },
+    {
+      "url": "/blog/location-camion-demenagement-montpellier/location-camion-demenagement-montpellier",
+      "city": "montpellier",
+      "references": 14,
+      "category": "location-camion-demenagement-montpellier",
+      "slug": "location-camion-demenagement-montpellier",
+      "priority": "MOYENNE"
+    },
+    {
+      "url": "/blog/urgent/guide",
+      "city": "bordeaux",
+      "references": 13,
+      "category": "urgent",
+      "slug": "guide",
+      "priority": "MOYENNE"
+    },
+    {
+      "url": "/blog/international/guide",
+      "city": "bordeaux",
+      "references": 13,
+      "category": "international",
+      "slug": "guide",
+      "priority": "MOYENNE"
+    },
+    {
+      "url": "/blog/demenagement-pas-cher-nantes/astuces-reduire-cout-demenagement-nantes",
+      "city": "nantes",
+      "references": 12,
+      "category": "demenagement-pas-cher-nantes",
+      "slug": "astuces-reduire-cout-demenagement-nantes",
+      "priority": "MOYENNE"
+    },
+    {
+      "url": "/blog/demenagement-rennes/petit-demenagement-rennes",
+      "city": "rennes",
+      "references": 12,
+      "category": "demenagement-rennes",
+      "slug": "petit-demenagement-rennes",
+      "priority": "MOYENNE"
+    },
+    {
+      "url": "/blog/demenagement-piano-montpellier/demenagement-piano-montpellier",
+      "city": "montpellier",
+      "references": 12,
+      "category": "demenagement-piano-montpellier",
+      "slug": "demenagement-piano-montpellier",
+      "priority": "MOYENNE"
+    },
+    {
+      "url": "/blog/demenagement-international-montpellier/demenagement-international-montpellier",
+      "city": "montpellier",
+      "references": 12,
+      "category": "demenagement-international-montpellier",
+      "slug": "demenagement-international-montpellier",
+      "priority": "MOYENNE"
+    },
+    {
+      "url": "/blog/prix/frais-caches-demenagement",
+      "city": "bordeaux",
+      "references": 11,
+      "category": "prix",
+      "slug": "frais-caches-demenagement",
+      "priority": "MOYENNE"
+    },
+    {
+      "url": "/blog/pas-cher/guide",
+      "city": "bordeaux",
+      "references": 11,
+      "category": "pas-cher",
+      "slug": "guide",
+      "priority": "MOYENNE"
+    },
+    {
+      "url": "/blog/aide-demenagement-lille/aide-demenagement-particuliers-lille",
+      "city": "lille",
+      "references": 11,
+      "category": "aide-demenagement-lille",
+      "slug": "aide-demenagement-particuliers-lille",
+      "priority": "MOYENNE"
+    },
+    {
+      "url": "/blog/demenagement-entreprise-montpellier/demenagement-entreprise-montpellier",
+      "city": "montpellier",
+      "references": 11,
+      "category": "demenagement-entreprise-montpellier",
+      "slug": "demenagement-entreprise-montpellier",
+      "priority": "MOYENNE"
+    },
+    {
+      "url": "/blog/demenagement-entreprise-lyon/prix-demenagement-entreprise-lyon",
+      "city": "lyon",
+      "references": 10,
+      "category": "demenagement-entreprise-lyon",
+      "slug": "prix-demenagement-entreprise-lyon",
+      "priority": "MOYENNE"
+    },
+    {
+      "url": "/blog/demenagement-piano-nantes/demenagement-piano-queue-nantes",
+      "city": "nantes",
+      "references": 10,
+      "category": "demenagement-piano-nantes",
+      "slug": "demenagement-piano-queue-nantes",
+      "priority": "MOYENNE"
+    },
+    {
+      "url": "/blog/garde-meuble-nantes/garde-meuble-pas-cher-nantes",
+      "city": "nantes",
+      "references": 10,
+      "category": "garde-meuble-nantes",
+      "slug": "garde-meuble-pas-cher-nantes",
+      "priority": "MOYENNE"
+    },
+    {
+      "url": "/blog/demenagement-strasbourg/garde-meuble-strasbourg",
+      "city": "strasbourg",
+      "references": 10,
+      "category": "demenagement-strasbourg",
+      "slug": "garde-meuble-strasbourg",
+      "priority": "MOYENNE"
+    },
+    {
+      "url": "/blog/aide-au-demenagement-particulier-montpellier/aide-demenagement-particulier-montpellier",
+      "city": "montpellier",
+      "references": 10,
+      "category": "aide-au-demenagement-particulier-montpellier",
+      "slug": "aide-demenagement-particulier-montpellier",
+      "priority": "MOYENNE"
+    }
+  ]
+}

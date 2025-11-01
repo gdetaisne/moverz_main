@@ -1,0 +1,167 @@
+# RÈGLES OBLIGATOIRES - GESTION DES TÂCHES
+
+## ⚠️ CONTRAINTES STRICTES
+
+### 1. AVANT TOUTE MODIFICATION DE CODE
+
+**INTERDICTION** de coder sans tâche documentée.
+
+**WORKFLOW OBLIGATOIRE** :
+1. Vérifier si tâche existe dans `.cursor/BACKLOG.md`
+2. Si NON → Créer tâche dans BACKLOG.md avec évaluation (priorité + temps)
+3. Demander à Cursor d'évaluer les priorités
+4. Créer dossier de doc `.cursor/tasks/TASK-XXX-nom/`
+5. Déplacer tâche dans TODO personnel (Guillaume ou Associée)
+6. ALORS SEULEMENT commencer à coder
+
+**SI USER DEMANDE DE CODER DIRECTEMENT** :
+→ Cursor DOIT refuser poliment et dire :
+"⚠️ On doit d'abord créer/documenter la tâche dans le BACKLOG. 
+Je crée la tâche maintenant :
+- Titre : [proposition]
+- Priorité estimée : [P?]
+- Temps estimé : [Xh]
+- Documentation : .cursor/tasks/TASK-XXX-[nom]/
+Valides-tu ?"
+
+---
+
+### 2. PRIORITÉ DES TÂCHES INCOMPLÈTES
+
+**RÈGLE** : Les tâches ⚠️ INCOMPLET sont TOUJOURS prioritaires.
+
+**SI TÂCHES INCOMPLET EXISTENT** :
+→ Cursor DOIT rappeler au démarrage de session :
+"⚠️ Tu as X tâches INCOMPLÈTES à finir en priorité :
+1. TASK-XXX : [titre] (en pause depuis X jours)
+2. TASK-YYY : [titre] (en pause depuis Y jours)
+
+Veux-tu :
+A) Reprendre une tâche INCOMPLET
+B) Abandonner une tâche (avec revert code + doc raison)
+C) Exceptionnellement démarrer du nouveau (justifie pourquoi)"
+
+---
+
+### 3. DEFINITION OF DONE STRICTE
+
+**INTERDICTION** de marquer une tâche ✅ FINALISÉ sans :
+- [x] 1. Code propre et documenté
+- [x] 2. Commits sur GitHub main + tous dépôts concernés (SHA documentés)
+- [x] 3. Testé en live sur minimum 2 sites (résultats documentés)
+
+**WORKFLOW** :
+→ Cursor vérifie la checklist et refuse si critères non remplis
+
+---
+
+### 4. ABANDON DE TÂCHE = NETTOYAGE CODE
+
+**INTERDICTION** de marquer ❌ ABANDONNÉE sans :
+- [x] Code complètement reverté (git revert + SHA documentés)
+- [x] Sites redéployés en version clean si nécessaire
+- [x] git status clean (aucun fichier modifié résiduel)
+- [x] Raison d'abandon documentée
+
+**SI USER VEUT ABANDONNER** :
+→ Cursor liste tous les commits à revert
+→ Cursor vérifie le nettoyage AVANT de marquer abandonné
+
+---
+
+### 5. DOCUMENTATION OBLIGATOIRE
+
+**CHAQUE TÂCHE** doit avoir son dossier `.cursor/tasks/TASK-XXX-nom/` avec :
+- README.md (vue d'ensemble)
+- context.md (pourquoi)
+- progress.md (journal chronologique)
+- commits.md (SHA GitHub)
+- tests.md (sites testés + résultats)
+- decisions.md (choix techniques)
+
+**INTERDICTION** de documenter dans le code source (commentaires OK, mais pas de gros blocs de contexte)
+
+---
+
+### 6. ÉVALUATION SYSTÉMATIQUE
+
+**AVANT** de démarrer une tâche, Cursor DOIT évaluer :
+- **Priorité** : P0 (critique) | P1 (important) | P2 (normal) | P3 (nice-to-have)
+- **Temps** : Estimation en heures/jours
+- **Assignation** : Guillaume | Associée | Les deux
+- **Raison** : Justification de la priorisation
+
+**FORMAT RÉPONSE CURSOR** :
+```
+📊 ÉVALUATION TÂCHE
+
+Priorité : P1
+Temps estimé : 5h
+Assigné à : Guillaume
+Raison : Bug impactant 3 sites en prod, bloque les users
+
+Ordre de traitement recommandé :
+1. Cette tâche (P1, 5h)
+2. [Autre tâche] (P2, 3h)
+...
+```
+
+---
+
+### 7. COMMANDES CURSOR AUTORISÉES
+
+User peut demander :
+- "Cursor, évalue le backlog"
+- "Cursor, crée la tâche [description]"
+- "Cursor, je démarre TASK-XXX"
+- "Cursor, log ma session pour TASK-XXX"
+- "Cursor, je mets TASK-XXX en pause" (→ ⚠️ INCOMPLET)
+- "Cursor, j'abandonne TASK-XXX : [raison]" (→ vérif revert)
+- "Cursor, finalise TASK-XXX" (→ vérif DoD)
+- "Cursor, montre les INCOMPLET"
+
+---
+
+## 📁 FICHIERS SYSTÈME
+
+- **BACKLOG** : `.cursor/BACKLOG.md`
+- **TODO Guillaume** : `.cursor/TODO-GUILLAUME.md`
+- **TODO Associée** : `.cursor/TODO-ASSOCIEE.md`
+- **Archive** : `.cursor/DONE.md`
+- **Doc tâches** : `.cursor/tasks/TASK-XXX-nom/`
+- **Workflows** : `.cursor/WORKFLOWS.md`
+- **Guide** : `.cursor/README.md`
+
+---
+
+## 🚫 INTERDICTIONS
+
+1. ❌ Coder sans tâche documentée
+2. ❌ Marquer FINALISÉ sans les 3 critères
+3. ❌ Abandonner sans revert du code
+4. ❌ Démarrer du nouveau avec des INCOMPLET non justifiées
+5. ❌ Documentation/contexte dans le code source
+
+---
+
+## ✅ RÉSUMÉ WORKFLOW
+
+```
+BACKLOG.md (évaluation Cursor)
+    ↓
+TODO-[PERSONNE].md
+    ↓
+.cursor/tasks/TASK-XXX-nom/ (création doc)
+    ↓
+🔄 En cours (code + log progress.md)
+    ↓
+    ├→ ⚠️ INCOMPLET (pause avec contexte) → reprendre en priorité
+    ├→ ❌ ABANDONNÉE (revert code + raison)
+    └→ ✅ FINALISÉ (3 critères validés) → DONE.md
+```
+
+---
+
+**Ces règles sont OBLIGATOIRES pour Guillaume ET Associée.**
+**Cursor doit les appliquer systématiquement et de façon bienveillante.**
+
