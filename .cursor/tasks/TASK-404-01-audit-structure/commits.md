@@ -47,10 +47,13 @@ Prochaine étape : TASK-404-02 - Harmonisation technique
 
 ---
 
-## 📊 SHA à documenter (après push)
+## 📊 SHA GitHub
 
 **Repo principal** :
-- [ ] SHA : `________` (commit documentation)
+- [x] SHA : `a98ecc6` - Nettoyage + restructuration (124 fichiers, -99K lignes docs anciennes)
+- [x] SHA : `f7e8414` - Documentation complète TASK-404-01 (25 fichiers, +10.7K lignes)
+
+**Pushed** : ✅ origin/main (01/11/2025 18h45)
 
 ---
 
