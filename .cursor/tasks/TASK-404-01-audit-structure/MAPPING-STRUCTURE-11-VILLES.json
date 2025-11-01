@@ -1,0 +1,286 @@
+{
+  "timestamp": "2025-11-01T18:00:00Z",
+  "metadata": {
+    "totalArticles": 1044,
+    "totalCities": 11,
+    "analysisSource": "verify-real-missing-articles.mjs + manual audit",
+    "totalBrokenLinks": 2125,
+    "resolvableByLinkFix": 963,
+    "trulyMissing": 104
+  },
+  "cities": {
+    "marseille": {
+      "totalArticles": 70,
+      "categories": 3,
+      "cleanSlugRules": [
+        {"pattern": "-bordeaux-", "note": "BUG: Clean patterns mentionnent Bordeaux au lieu de Marseille"},
+        {"note": "Inconsistence: Patterns nettoyent préfixes bordeaux-, pas marseille-"}
+      ],
+      "categoryMapping": {
+        "piliers": "general",
+        "satellites": "conseils",
+        "demenagement-etudiant": "etudiant",
+        "garde-meuble": "garde-meuble"
+      },
+      "inconsistencies": [
+        {
+          "type": "CRITIQUE",
+          "severity": "HIGH",
+          "issue": "cleanSlug() patterns mentionnent BORDEAUX au lieu de MARSEILLE",
+          "impact": "Slugs Marseille pas nettoyés correctement",
+          "example": "Pattern: /^demenagement-etudiant-bordeaux-/ (devrait être marseille)"
+        }
+      ],
+      "structure": "Simple (3 catégories seulement vs 11 autres villes)"
+    },
+    "toulouse": {
+      "totalArticles": 93,
+      "categories": 2,
+      "cleanSlugRules": [
+        {"pattern": "^demenagement-*-toulouse-", "action": "remove prefix"},
+        {"pattern": "-toulouse-", "action": "remove infix"},
+        {"note": "Patterns toulouse cohérents (pas de copy-paste bugué)"}
+      ],
+      "categoryMapping": {
+        "piliers": "general",
+        "satellites": "conseils",
+        "deménageur-professionnel": "demenageur",
+        "aide-deménagement": "aide"
+      },
+      "inconsistencies": [
+        {
+          "type": "STRUCTURE",
+          "severity": "MEDIUM",
+          "issue": "Seulement 2 dossiers catégories (piliers + satellites) mais CATEGORY_MAPPING en a 15",
+          "impact": "Dossiers ≠ catégories URL",
+          "solution": "C'est VOULU (frontmatter category détermine URL, pas dossier)"
+        }
+      ],
+      "structure": "Piliers + Satellites (dossiers) → Multiple catégories (frontmatter)"
+    },
+    "lyon": {
+      "totalArticles": 99,
+      "categories": 11,
+      "cleanSlugRules": [
+        {"pattern": "-bordeaux-", "note": "BUG: Clean patterns mentionnent Bordeaux au lieu de Lyon"},
+        {"note": "Inconsistence: Patterns nettoyent préfixes bordeaux-, pas lyon-"}
+      ],
+      "categoryMapping": {
+        "piliers": "general",
+        "satellites": "conseils",
+        "demenagement-etudiant": "etudiant"
+      },
+      "inconsistencies": [
+        {
+          "type": "CRITIQUE",
+          "severity": "HIGH",
+          "issue": "cleanSlug() patterns mentionnent BORDEAUX au lieu de LYON",
+          "impact": "Slugs Lyon pas nettoyés correctement",
+          "example": "Pattern: /^demenagement-etudiant-bordeaux-/ (devrait être lyon)",
+          "trulyMissing": 18
+        }
+      ],
+      "structure": "Standard (11 catégories)"
+    },
+    "bordeaux": {
+      "totalArticles": 100,
+      "categories": 11,
+      "cleanSlugRules": [
+        {"pattern": "^demenagement-*-bordeaux-", "action": "remove prefix"},
+        {"pattern": "-bordeaux-", "action": "remove infix"},
+        {"note": "Patterns bordeaux cohérents"}
+      ],
+      "categoryMapping": {
+        "piliers": "general",
+        "satellites": "conseils"
+      },
+      "inconsistencies": [],
+      "structure": "Standard (11 catégories)",
+      "status": "REFERENCE (patterns propres)"
+    },
+    "nantes": {
+      "totalArticles": 72,
+      "categories": 11,
+      "cleanSlugRules": [
+        {"pattern": "^demenagement-*-nantes-", "action": "remove prefix"},
+        {"pattern": "-nantes-", "action": "remove infix"}
+      ],
+      "categoryMapping": {
+        "piliers": "general",
+        "satellites": "conseils"
+      },
+      "inconsistencies": [],
+      "structure": "Standard (11 catégories)"
+    },
+    "lille": {
+      "totalArticles": 111,
+      "categories": 11,
+      "cleanSlugRules": [
+        {"pattern": "^demenagement-*-lille-", "action": "remove prefix"},
+        {"pattern": "-lille-", "action": "remove infix"}
+      ],
+      "categoryMapping": {
+        "piliers": "general",
+        "satellites": "conseils"
+      },
+      "inconsistencies": [],
+      "structure": "Standard (11 catégories)"
+    },
+    "nice": {
+      "totalArticles": 119,
+      "categories": 11,
+      "cleanSlugRules": [
+        {"note": "cleanSlug() retourne slug inchangé (pas de transformation)"}
+      ],
+      "categoryMapping": {
+        "satellites": null,
+        "aide-demenagement-nice": "aide-demenagement",
+        "demenagement-entreprise-nice": "demenagement-entreprise",
+        "demenagement-international-nice": "demenagement-international",
+        "garde-meuble-nice": "garde-meuble",
+        "location-camion": "location-camion",
+        "petit-demenagement-nice": "petit-demenagement",
+        "prix-demenagement-nice": "prix-demenagement"
+      },
+      "inconsistencies": [
+        {
+          "type": "WARNING",
+          "severity": "LOW",
+          "issue": "CATEGORY_MAPPING['satellites'] = null",
+          "impact": "Articles dans dossier satellites sans catégorie URL",
+          "solution": "Utiliser frontmatter category (déjà fait)"
+        }
+      ],
+      "structure": "Standard (11 catégories), cleanSlug minimal"
+    },
+    "strasbourg": {
+      "totalArticles": 92,
+      "categories": 3,
+      "cleanSlugRules": [
+        {"pattern": "^demenagement-*-strasbourg-", "action": "remove prefix"},
+        {"pattern": "-strasbourg-", "action": "remove infix"}
+      ],
+      "categoryMapping": {
+        "piliers": "general",
+        "satellites": "conseils"
+      },
+      "inconsistencies": [],
+      "structure": "Simple (3 catégories seulement comme Marseille)"
+    },
+    "rouen": {
+      "totalArticles": 61,
+      "categories": 11,
+      "cleanSlugRules": [
+        {"pattern": "^demenagement-*-rouen-", "action": "remove prefix"},
+        {"pattern": "-rouen-", "action": "remove infix"}
+      ],
+      "categoryMapping": {
+        "piliers": "general",
+        "satellites": "conseils"
+      },
+      "inconsistencies": [],
+      "structure": "Standard (11 catégories)",
+      "trulyMissing": 34,
+      "note": "Ville avec le + d'articles manquants (34)"
+    },
+    "rennes": {
+      "totalArticles": 113,
+      "categories": 3,
+      "cleanSlugRules": [
+        {"pattern": "^demenagement-*-rennes-", "action": "remove prefix"},
+        {"pattern": "-rennes-", "action": "remove infix"}
+      ],
+      "categoryMapping": {
+        "piliers": "general",
+        "satellites": "conseils"
+      },
+      "inconsistencies": [],
+      "structure": "Simple (3 catégories seulement)"
+    },
+    "montpellier": {
+      "totalArticles": 114,
+      "categories": 11,
+      "cleanSlugRules": [
+        {"pattern": "^demenagement-*-montpellier-", "action": "remove prefix"},
+        {"pattern": "-montpellier-", "action": "remove infix"}
+      ],
+      "categoryMapping": {
+        "piliers": "general",
+        "satellites": "conseils"
+      },
+      "inconsistencies": [],
+      "structure": "Standard (11 catégories)",
+      "trulyMissing": 33,
+      "note": "2ème ville avec le + d'articles manquants (33)"
+    }
+  },
+  "globalInconsistencies": [
+    {
+      "type": "CRITIQUE",
+      "severity": "HIGH",
+      "cities": ["marseille", "lyon"],
+      "issue": "cleanSlug() patterns copier-collé depuis Bordeaux sans adaptation ville",
+      "impact": "Marseille et Lyon n'appliquent pas nettoyage slugs correct",
+      "solution": "TASK-404-02: Remplacer patterns bordeaux par marseille/lyon",
+      "affectedArticles": "~169 articles (70 + 99)"
+    },
+    {
+      "type": "STRUCTURE",
+      "severity": "MEDIUM",
+      "cities": ["marseille", "strasbourg", "rennes"],
+      "issue": "3 catégories seulement vs 11 autres villes",
+      "impact": "Moins de granularité catégories, structure différente",
+      "solution": "ACCEPTABLE (choix architectural, pas bug)"
+    },
+    {
+      "type": "MAPPING",
+      "severity": "MEDIUM",
+      "cities": ["toulouse"],
+      "issue": "Dossiers (2) ≠ Catégories URL (15+)",
+      "impact": "Confusion structure, doit s'appuyer sur frontmatter",
+      "solution": "ACCEPTABLE (frontmatter category détermine URL)"
+    },
+    {
+      "type": "ENCODING",
+      "severity": "MEDIUM",
+      "cities": ["toulouse"],
+      "issue": "CATEGORY_MAPPING a variantes avec/sans accents",
+      "impact": "Accents dans URLs peuvent créer problèmes encoding",
+      "solution": "TASK-404-02: Standardiser sans accents"
+    }
+  ],
+  "articlesVraimentManquants": {
+    "total": 104,
+    "byCity": {
+      "rouen": 34,
+      "montpellier": 33,
+      "lyon": 18,
+      "bordeaux": 7,
+      "toulouse": 6,
+      "lille": 4,
+      "strasbourg": 2
+    },
+    "note": "Liste détaillée dans VERIFICATION-ARTICLES.json"
+  },
+  "summary": {
+    "totalCities": 11,
+    "totalArticles": 1044,
+    "citiesWithBugs": 2,
+    "criticalInconsistencies": 1,
+    "mediumInconsistencies": 3,
+    "lowInconsistencies": 1,
+    "citiesNeedingFix": ["marseille", "lyon"],
+    "citiesOK": ["bordeaux", "nantes", "lille", "nice", "rouen", "montpellier", "toulouse", "strasbourg", "rennes"]
+  },
+  "recommendations": {
+    "immediate": [
+      "TASK-404-02: Fix cleanSlug() Marseille et Lyon (remplacer bordeaux par marseille/lyon)",
+      "TASK-404-02: Standardiser CATEGORY_MAPPING (retirer accents)"
+    ],
+    "optional": [
+      "Harmoniser structure 3 vs 11 catégories (si besoin futur)",
+      "Documenter pourquoi Toulouse utilise frontmatter (expliquer choix)"
+    ]
+  }
+}
+
