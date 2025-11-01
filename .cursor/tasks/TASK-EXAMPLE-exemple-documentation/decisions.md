@@ -194,3 +194,5 @@ Ni trop simple (on perd l'info INCOMPLET), ni trop complexe (overhead inutile)
 
 **Ces décisions peuvent évoluer avec l'usage. Documenter les changements ici.**
 
+
+

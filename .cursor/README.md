@@ -398,3 +398,4 @@ Voir `.cursor/tasks/TASK-EXAMPLE-exemple-documentation/` pour un exemple complet
 
 **Dernière mise à jour** : 2025-11-01
 
+

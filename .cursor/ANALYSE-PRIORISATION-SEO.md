@@ -542,3 +542,5 @@ Finaliser les 6 tâches à 75-90% AVANT de reprendre TASK-001 (104 articles).
 
 *Dernière mise à jour : 2025-11-01*
 
+
+
