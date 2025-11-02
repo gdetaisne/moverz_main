@@ -47,3 +47,17 @@ npm-debug.log*
 out/
 pnpm-debug.log*
 yarn-error.log*
+
+# === Ajouté 2025-11-02 - Performance & Cleanup ===
+# Backups automatiques (créés par scripts)
+/backups/
+
+# Données d'analyse temporaires
+/404-analysis.json
+/VERIFICATION-ARTICLES.json
+/etat-lieux-blogs.json
+/scripts-audit-*.json
+/scripts-audit-*.csv
+
+# Logs de migration
+/migration-log.txt
