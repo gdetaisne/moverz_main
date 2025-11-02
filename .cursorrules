@@ -165,4 +165,57 @@ TODO-[PERSONNE].md
 **Ces règles sont OBLIGATOIRES pour Guillaume ET Associée.**
 **Cursor doit les appliquer systématiquement et de façon bienveillante.**
 
+---
+
+## 🚀 DÉMARRAGE SESSION CURSOR (AUTOMATIQUE)
+
+**À CHAQUE nouveau chat, Cursor DOIT OBLIGATOIREMENT** :
+
+### ÉTAPE 1 : Lire Documentation Obligatoire
+```
+1. Lire `.cursor/INDEX-DOCUMENTATION.md` (checklist complète)
+2. Lire `.cursor/BACKLOG.md` (vérifier section INCOMPLET)
+3. Lire `.cursor/TODO-GUILLAUME.md` OU `.cursor/TODO-Lucie.md` (selon user)
+```
+
+### ÉTAPE 2 : Exécuter Health Check
+```bash
+node tools/tasks/scripts/health-check.mjs
+```
+
+**Afficher résultat** avant toute interaction :
+```
+🏥 HEALTH CHECK SYSTÈME TASKS
+
+📊 X tâches trouvées
+⚠️ Y tâches INCOMPLET → PRIORITAIRE
+🧟 Z tâches zombies (>7j)
+
+🎯 ACTIONS RECOMMANDÉES:
+[Liste des actions]
+```
+
+### ÉTAPE 3 : Attendre Instructions User
+
+**Si user demande de coder AVANT health check** :
+→ Exécuter health check d'abord
+→ Afficher résultat
+→ PUIS demander confirmation si INCOMPLET existent
+
+---
+
+## 🔧 SCRIPTS DISPONIBLES
+
+Cursor peut utiliser ces scripts :
+
+| Script | Usage | Quand |
+|--------|-------|-------|
+| `tools/tasks/scripts/health-check.mjs` | Health check complet | Démarrage session |
+| `tools/tasks/scripts/validate-tasks.mjs` | Valide structure | Avant commit |
+| `tools/tasks/scripts/check-incomplete-tasks.mjs` | Rappel INCOMPLET | Démarrage |
+| `tools/tasks/scripts/tasks-dashboard.mjs` | Métriques | À la demande |
+| `tools/tasks/scripts/create-task-template.sh` | Template tâche | Nouvelle tâche |
+
+---
+
 
