@@ -119,18 +119,96 @@ User peut demander :
 - "Cursor, j'abandonne TASK-XXX : [raison]" (→ vérif revert)
 - "Cursor, finalise TASK-XXX" (→ vérif DoD)
 - "Cursor, montre les INCOMPLET"
+- "Cursor, clean tasks" (→ workflow fin journée, voir WORKFLOW-CLEAN-TASKS.md)
+
+---
+
+### 8. VÉRIFICATIONS PRÉ-CODE (NOUVEAU - CRITIQUE)
+
+**AVANT CHAQUE modification de code, Cursor DOIT vérifier** :
+
+Voir `.cursor/CHECKLIST-PRE-CODE.md` pour checklist complète.
+
+#### RED FLAGS - STOP Immédiatement
+
+**Si demande utilisateur contient** :
+
+```
+🚨 "modifier canonical"
+🚨 "changer URL"
+🚨 "supprimer page"
+🚨 "modifier getCanonicalUrl()"
+🚨 "toucher au SEO"
+```
+
+**Cursor DOIT** :
+→ STOP et afficher :
+```
+⚠️ STOP - Modification SEO Critique Détectée
+
+Tu veux [modifier canonical/URL/etc.].
+Impact potentiel : Perte ranking Google = Perte leads
+
+Avant de continuer :
+1. Comprends-tu l'impact business ?
+2. As-tu une bonne raison ?
+3. As-tu prévu de tester ?
+
+Continue ? (Oui/Non)
+```
+
+#### Vérifications Automatiques
+
+**Avant d'écrire du code** :
+
+```
+□ Impact SEO ?
+  SI OUI → Vérifier ZONES-DE-RISQUE.md + demander confirmation
+
+□ Fichier dans lib/ ou components/ ?
+  SI OUI → Prévoir sync 11 villes + test 2+ sites
+
+□ Ville hardcodée dans mon code ?
+  SI OUI → STOP, utiliser cityData dynamique
+
+□ Nouveau fichier créé ?
+  SI OUI → Vérifier emplacement correct (pas racine polluée)
+```
+
+**Si 1+ problème** → STOP et demander avant de continuer
 
 ---
 
 ## 📁 FICHIERS SYSTÈME
 
-- **BACKLOG** : `.cursor/BACKLOG.md`
+### Documentation Stratégique (LECTURE OBLIGATOIRE)
+
+- **Index** : `.cursor/INDEX-DOCUMENTATION.md` (point d'entrée)
+- **Principes** : `.cursor/PRINCIPES-SACRES.md` ⭐⭐⭐
+- **Zones risque** : `.cursor/ZONES-DE-RISQUE.md` ⭐⭐⭐
+- **Checklist** : `.cursor/CHECKLIST-PRE-CODE.md` ⭐⭐⭐
+- **Architecture** : `.cursor/ARCHITECTURE-MULTISITES.md` ⭐⭐
+
+### Gestion des Tâches
+
+- **BACKLOG** : `.cursor/BACKLOG.md` (toutes les tâches)
 - **TODO Guillaume** : `.cursor/TODO-GUILLAUME.md`
-- **TODO Associée** : `.cursor/TODO-ASSOCIEE.md`
-- **Archive** : `.cursor/DONE.md`
-- **Doc tâches** : `.cursor/tasks/TASK-XXX-nom/`
-- **Workflows** : `.cursor/WORKFLOWS.md`
-- **Guide** : `.cursor/README.md`
+- **TODO Lucie** : `.cursor/TODO-Lucie.md`
+- **Archive** : `.cursor/DONE.md` (tâches finalisées)
+- **Doc tâches** : `.cursor/tasks/[PX]-TASK-XXX-nom/` (1 tâche = 1 dossier)
+- **Guide** : `.cursor/README.md` (système complet)
+
+### Workflows & Commandes
+
+- **Clean tasks** : `.cursor/WORKFLOW-CLEAN-TASKS.md` (fin journée)
+- **Commandes** : `.cursor/COMMANDES-RAPIDES.md` (référence)
+- **Aide-mémoire** : `.cursor/AIDE-MEMOIRE-CLEAN-TASKS.md`
+
+### Archives
+
+- **Projet 404** : `.cursor/archives/projet-404/` (docs globales 404)
+- **Rapports** : `.cursor/archives/rapports/` (rapports datés)
+- **Analyses** : `.cursor/archives/analyses/` (analyses temporaires)
 
 ---
 
@@ -171,50 +249,152 @@ TODO-[PERSONNE].md
 
 **À CHAQUE nouveau chat, Cursor DOIT OBLIGATOIREMENT** :
 
-### ÉTAPE 1 : Lire Documentation Obligatoire
-```
-1. Lire `.cursor/INDEX-DOCUMENTATION.md` (checklist complète)
-2. Lire `.cursor/BACKLOG.md` (vérifier section INCOMPLET)
-3. Lire `.cursor/TODO-GUILLAUME.md` OU `.cursor/TODO-Lucie.md` (selon user)
-```
+### ÉTAPE 1 : Lire Documentation Stratégique (CRITIQUE - 20 min)
 
-### ÉTAPE 2 : Exécuter Health Check
-```bash
-node tools/tasks/scripts/health-check.mjs
+**Ordre strict** :
+
 ```
-
-**Afficher résultat** avant toute interaction :
-```
-🏥 HEALTH CHECK SYSTÈME TASKS
-
-📊 X tâches trouvées
-⚠️ Y tâches INCOMPLET → PRIORITAIRE
-🧟 Z tâches zombies (>7j)
-
-🎯 ACTIONS RECOMMANDÉES:
-[Liste des actions]
+1. Lire `.cursor/INDEX-DOCUMENTATION.md` (point d'entrée, 3 min)
+2. Lire `.cursor/PRINCIPES-SACRES.md` (5 min) ⭐⭐⭐
+3. Lire `.cursor/ZONES-DE-RISQUE.md` (10 min) ⭐⭐⭐
+4. Lire `.cursor/CHECKLIST-PRE-CODE.md` (3 min) ⭐⭐⭐
 ```
 
-### ÉTAPE 3 : Attendre Instructions User
+**⚠️ POURQUOI OBLIGATOIRE** :
 
-**Si user demande de coder AVANT health check** :
-→ Exécuter health check d'abord
-→ Afficher résultat
-→ PUIS demander confirmation si INCOMPLET existent
+Ces docs évitent 95% des bugs récurrents :
+- Villes hardcodées (40% des bugs)
+- Sync multi-sites oublié (30% des bugs)
+- SEO cassé (20% des bugs)
+- Fichiers mal rangés (10% des bugs)
+
+**Investissement** : 20 min  
+**ROI** : Évite 2-3h corrections
+
+---
+
+### ÉTAPE 2 : Lire État Actuel
+
+```
+5. Lire `.cursor/TODO-GUILLAUME.md` OU `.cursor/TODO-Lucie.md` (selon user)
+   → Vérifier section "⚠️ INCOMPLET" (prioritaires)
+   → Vérifier tâches [P0] critiques
+   → Noter tâches EN COURS
+```
+
+---
+
+### ÉTAPE 3 : Afficher Résumé
+
+**Cursor affiche** :
+
+```
+👋 Salut [Guillaume/Lucie] !
+
+📚 Documentation stratégique lue :
+✅ PRINCIPES-SACRES (SEO first, 11 villes, cityData dynamique)
+✅ ZONES-DE-RISQUE (8 zones mémorisées, RED FLAGS activés)
+✅ CHECKLIST-PRE-CODE (workflow pré-code intégré)
+✅ TODO-[Personne] (état actuel)
+
+📊 État actuel :
+- 🔄 EN COURS : X tâches
+- ⚠️ INCOMPLET : Y tâches [SI > 0 : → PRIORITAIRES !]
+- 🔴 [P0] Critiques : Z tâches
+- 🟠 [P1] Importantes : W tâches
+
+🎯 Recommandation :
+[Tâche prioritaire suggérée avec raison]
+
+Sur quoi veux-tu travailler ? 🚀
+```
+
+---
+
+### ÉTAPE 4 : Si Tâches INCOMPLET → Rappel OBLIGATOIRE
+
+**SI Y > 0 (tâches INCOMPLET)** :
+
+Cursor DOIT afficher AVANT toute autre action :
+
+```
+⚠️ TÂCHES INCOMPLÈTES DÉTECTÉES
+
+Tu as Y tâches en pause :
+1. [PX]-TASK-XXX : [titre] (en pause depuis X jours)
+2. [PX]-TASK-YYY : [titre] (en pause depuis Y jours)
+
+⚠️ Les tâches INCOMPLET sont TOUJOURS prioritaires.
+
+Veux-tu :
+A) Reprendre une tâche INCOMPLET
+B) Abandonner une tâche (avec revert code + doc raison)  
+C) Exceptionnellement démarrer du nouveau (justifie pourquoi)
+
+Choix ? (A/B/C)
+```
+
+**Si user choisit C** → Cursor demande justification
+
+---
+
+### ÉTAPE 5 : Attendre Instructions
+
+**Cursor attend** que user dise quoi faire.
+
+**Si user demande de coder directement sans tâche** :
+→ Cursor refuse poliment (voir section 1 "AVANT TOUTE MODIFICATION DE CODE")
 
 ---
 
 ## 🔧 SCRIPTS DISPONIBLES
 
-Cursor peut utiliser ces scripts :
+### Scripts Multi-Sites (CRITIQUES)
 
 | Script | Usage | Quand |
 |--------|-------|-------|
-| `tools/tasks/scripts/health-check.mjs` | Health check complet | Démarrage session |
-| `tools/tasks/scripts/validate-tasks.mjs` | Valide structure | Avant commit |
-| `tools/tasks/scripts/check-incomplete-tasks.mjs` | Rappel INCOMPLET | Démarrage |
-| `tools/tasks/scripts/tasks-dashboard.mjs` | Métriques | À la demande |
-| `tools/tasks/scripts/create-task-template.sh` | Template tâche | Nouvelle tâche |
+| `./scripts/sync/sync-components.sh` | Sync composants 11 villes | Après modif components/ |
+| `./scripts/sync/sync-config-files.sh` | Sync configs 11 villes | Après modif Dockerfile/configs |
+
+**⚠️ ESSENTIELS** : Évitent désynchronisation entre sites
+
+### Scripts Analyse
+
+| Script | Usage |
+|--------|-------|
+| `./scripts/analysis/analyze-404.mjs` | Analyser 404s internes |
+| `./scripts/seo/seo-head-qa.ts` | QA metadata SEO |
+
+### Scripts Déploiement
+
+| Script | Usage |
+|--------|-------|
+| `./scripts/deploy/push-all-sites-to-github.sh` | Push 11 sites |
+| `./scripts/deploy/redeploy-all-sites.sh` | Redéployer tout |
+
+---
+
+## ⚠️ NOUVELLES COMMANDES CURSOR
+
+### Commande Clean Tasks (Fin de Journée)
+
+```bash
+"Cursor, clean tasks"                    → Workflow complet (10 min)
+"Cursor, clean tasks en mode rapide"    → Version rapide (5 min)
+"Cursor, clean TASK-XXX"                 → 1 tâche (3 min)
+```
+
+**Cursor suit** : `.cursor/WORKFLOW-CLEAN-TASKS.md` (9 étapes guidées)
+
+### Système de Priorités
+
+**Dossiers tasks/ avec préfixes visuels** :
+
+- `[P0]-TASK-XXX` = 🔴 Critique / Bloquant
+- `[P1]-TASK-XXX` = 🟠 Important
+- `[P2]-TASK-XXX` = 🟡 Normal
+
+Voir : `.cursor/tasks/PRIORITES-VISUELLES.md`
 
 ---
 

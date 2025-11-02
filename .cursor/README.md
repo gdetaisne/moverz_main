@@ -303,6 +303,14 @@ Voir `.cursor/WORKFLOWS.md` pour la liste complète des commandes pré-écrites.
 - `Cursor, je mets TASK-XXX en pause`
 - `Cursor, j'abandonne TASK-XXX : [raison]`
 - `Cursor, finalise TASK-XXX`
+- `Cursor, clean tasks` → **Workflow interactif fin de journée** 🧹
+
+**Variantes clean tasks** :
+- `Cursor, clean tasks en mode rapide` → Version rapide (5 min)
+- `Cursor, clean TASK-XXX` → Nettoyer 1 seule tâche
+- `Cursor, clean tasks auto : [résumé]` → Automatique avec résumé global
+
+**Détails** : Voir `.cursor/WORKFLOW-CLEAN-TASKS.md`
 
 ---
 
@@ -384,9 +392,16 @@ Voir `.cursor/WORKFLOWS.md` pour la liste complète des commandes pré-écrites.
 
 ### Soir
 
-1. Logger la session de la journée
-2. Si tâche non terminée → mettre en pause avec notes détaillées
-3. Si tâche terminée → finaliser (vérif DoD)
+1. `"Cursor, clean tasks"` → **Workflow interactif guidé (5-10 min)**
+   - Logger toutes les sessions
+   - Documenter les commits
+   - Mettre à jour les statuts (terminé/pause/en cours/abandonné)
+   - Nettoyer fichiers temporaires
+   - MAJ TODO-Guillaume.md
+   - Préparer plan demain
+   - Commit documentation (optionnel)
+
+**Alternative rapide** : `"Cursor, clean tasks en mode rapide"` (si pressé)
 
 ---
 
@@ -396,6 +411,7 @@ Voir `.cursor/tasks/TASK-EXAMPLE-exemple-documentation/` pour un exemple complet
 
 ---
 
-**Dernière mise à jour** : 2025-11-01
+**Dernière mise à jour** : 2025-11-02  
+**Nouvelle commande** : `Cursor, clean tasks` - Workflow interactif fin de journée
 
 
