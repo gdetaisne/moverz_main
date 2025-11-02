@@ -1,6 +1,6 @@
-# TODO ACTIFS - Associée
+# TODO ACTIFS - Lucie
 
-> **Instructions Cursor** : Ce fichier contient les tâches EN COURS de l'Associée.
+> **Instructions Cursor** : Ce fichier contient les tâches EN COURS de Lucie.
 > Quand elle te demande d'évaluer :
 > - Vérifie qu'elle n'est pas sur trop de tâches en parallèle (max 3 recommandé)
 > - Identifie les tâches incomplètes/abandonnées
