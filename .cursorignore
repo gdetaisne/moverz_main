@@ -1,0 +1,39 @@
+# ⚡ Performance Cursor - Moverz Multi-Sites
+# Créé: 2025-11-02
+# Impact: Scan 5x plus rapide (ignore 90% fichiers inutiles)
+
+# === Archives & Backups ===
+archive/
+backups/
+
+# === Données temporaires volumineuses ===
+*.json
+!package.json
+!package-lock.json
+!tsconfig.json
+!components.json
+!next-sitemap.config.json
+
+# === Rapports & Analyses ===
+*.csv
+*.log
+migration-log.txt
+
+# === Dépendances (node_modules déjà dans .gitignore) ===
+node_modules/
+.next/
+dist/
+out/
+
+# === Git ===
+.git/
+
+# === Dossiers volumineux peu pertinents ===
+moverz-template/
+seo-briefs/
+
+# === Cache & Build ===
+.cache/
+.turbo/
+coverage/
+
