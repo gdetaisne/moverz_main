@@ -10,8 +10,6 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "seed:content": "tsx scripts/seedContent.ts",
-    "gen:quartiers": "tsx scripts/genQuartiers.ts",
     "qa:seo:head": "tsx scripts/seo-head-qa.ts",
     "qa:seo:year": "node scripts/seo-qa.cjs",
     "qa:seo:breadcrumb": "tsx scripts/seo-breadcrumb-qa.ts",
