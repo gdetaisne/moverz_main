@@ -16,7 +16,7 @@ featured: false
 
 # Déménagement international : garder ses biens à Bordeaux
 
-Un [déménagement international](/blog/international/guide) depuis Bordeaux nécessite souvent une phase de stockage intermédiaire pour gérer la transition entre votre départ et l'arrivée de vos biens à destination. Cette solution temporaire permet de préparer sereinement votre expatriation tout en préservant vos affaires dans des conditions optimales. Voici un guide complet pour utiliser un [garde-meuble](/blog/garde-meuble/guide) bordelais avant votre départ à l'étranger.
+Un [déménagement international](/blog/international/demenagement-international-bordeaux-guide) depuis Bordeaux nécessite souvent une phase de stockage intermédiaire pour gérer la transition entre votre départ et l'arrivée de vos biens à destination. Cette solution temporaire permet de préparer sereinement votre expatriation tout en préservant vos affaires dans des conditions optimales. Voici un guide complet pour utiliser un [garde-meuble](/blog/garde-meuble/garde-meuble-bordeaux-guide) bordelais avant votre départ à l'étranger.
 
 ## Les spécificités du stockage pré-expatriation
 

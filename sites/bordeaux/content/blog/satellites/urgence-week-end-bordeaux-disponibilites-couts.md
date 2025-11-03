@@ -16,7 +16,7 @@ featured: false
 
 # Déménagement urgent à Bordeaux le week-end
 
-Gérer un [déménagement urgent](/blog/urgent/guide) un samedi ou dimanche à Bordeaux présente des défis spécifiques liés aux contraintes administratives, à la disponibilité des professionnels et aux coûts supplémentaires. Cette situation particulière nécessite une approche adaptée et une parfaite connaissance des réalités du terrain bordelais. Voici un guide complet pour naviguer dans cette configuration complexe.
+Gérer un [déménagement urgent](/blog/urgent/demenagement-urgent-bordeaux-guide) un samedi ou dimanche à Bordeaux présente des défis spécifiques liés aux contraintes administratives, à la disponibilité des professionnels et aux coûts supplémentaires. Cette situation particulière nécessite une approche adaptée et une parfaite connaissance des réalités du terrain bordelais. Voici un guide complet pour naviguer dans cette configuration complexe.
 
 ## Les contraintes administratives du week-end
 

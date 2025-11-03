@@ -68,7 +68,7 @@ Pour réduire significativement les coûts de votre déménagement étudiant à 
 
 ### Gérer ses affaires personnelles
 
-Le déménagement étudiant se distingue par la nature des biens transportés. Contrairement à un déménagement familial, vous transportez principalement des vêtements, des livres, du petit électroménager et quelques meubles d'occasion Pour en savoir plus, consultez nos guides sur [tarifs préférentiels étudiants](/blog/pas-cher/guide), [solutions express](/blog/urgent/guide) et [budget optimisé](/blog/prix/guide). Cette particularité offre plusieurs avantages :
+Le déménagement étudiant se distingue par la nature des biens transportés. Contrairement à un déménagement familial, vous transportez principalement des vêtements, des livres, du petit électroménager et quelques meubles d'occasion Pour en savoir plus, consultez nos guides sur [tarifs préférentiels étudiants](/blog/pas-cher/demenagement-pas-cher-bordeaux-guide), [solutions express](/blog/urgent/demenagement-urgent-bordeaux-guide) et [budget optimisé](/blog/prix/prix-demenagement-bordeaux-guide). Cette particularité offre plusieurs avantages :
 
 **Volume réduit** : un studio ou une chambre d'étudiant se vide rapidement, ce qui limite les frais de transport.
 
@@ -168,7 +168,7 @@ Nous proposons des services adaptés aux étudiants : tarifs préférentiels, em
 
 ---
 
-*Cet article fait partie de notre série dédiée aux étudiants. Découvrez également nos guides sur le [déménagement pas cher à Bordeaux](/blog/pas-cher/guide) et les [prix de déménagement à Bordeaux](/blog/prix/guide) pour optimiser votre budget.*
+*Cet article fait partie de notre série dédiée aux étudiants. Découvrez également nos guides sur le [déménagement pas cher à Bordeaux](/blog/pas-cher/demenagement-pas-cher-bordeaux-guide) et les [prix de déménagement à Bordeaux](/blog/prix/prix-demenagement-bordeaux-guide) pour optimiser votre budget.*
 
 
 ---

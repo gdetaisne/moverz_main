@@ -14,7 +14,7 @@ featured: false
 ---
 
 
-# Quels délais pour un [déménagement international](/blog/international/guide) depuis Bordeaux ?
+# Quels délais pour un [déménagement international](/blog/international/demenagement-international-bordeaux-guide) depuis Bordeaux ?
 
 Les délais de déménagement international depuis Bordeaux varient considérablement selon la destination, le mode de transport et les contraintes logistiques. Cette variabilité, souvent sous-estimée par les expatriés, peut compromettre les plans d'installation et générer des coûts supplémentaires. Avec Bordeaux comme point de départ, les délais s'établissent selon des critères spécifiques liés à la position géographique de la métropole et aux infrastructures de transport disponibles. Voici un guide complet pour anticiper les délais et planifier efficacement votre déménagement.
 

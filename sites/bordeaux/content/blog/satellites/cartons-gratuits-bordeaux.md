@@ -17,7 +17,7 @@ featured: false
 
 # Cartons gratuits à Bordeaux : bons plans étudiants
 
-Récupérer des cartons gratuits pour votre [déménagement étudiant](/blog/etudiant/guide) à Bordeaux est non seulement économique, mais aussi écologique. Avec un peu d'organisation et de connaissance des bons endroits, vous pouvez équiper votre déménagement sans dépenser un euro en emballage. Voici tous les bons plans pour trouver des cartons gratuits dans la métropole bordelaise.
+Récupérer des cartons gratuits pour votre [déménagement étudiant](/blog/etudiant/demenagement-etudiant-bordeaux-guide-complet) à Bordeaux est non seulement économique, mais aussi écologique. Avec un peu d'organisation et de connaissance des bons endroits, vous pouvez équiper votre déménagement sans dépenser un euro en emballage. Voici tous les bons plans pour trouver des cartons gratuits dans la métropole bordelaise.
 
 ## Les grandes surfaces : vos alliées
 
@@ -137,4 +137,4 @@ Nous fournissons tous les cartons et matériels d'emballage nécessaires, avec d
 
 ---
 
-*Cet article complète notre [guide complet du déménagement étudiant à Bordeaux](/blog/etudiant/guide). Découvrez également nos conseils pour un [déménagement pas cher](/blog/etudiant/demenagement-etudiant-pas-cher) et notre [checklist détaillée](/blog/etudiant/checklist-demenagement-etudiant) pour ne rien oublier.*
+*Cet article complète notre [guide complet du déménagement étudiant à Bordeaux](/blog/etudiant/demenagement-etudiant-bordeaux-guide-complet). Découvrez également nos conseils pour un [déménagement pas cher](/blog/etudiant/demenagement-etudiant-pas-cher) et notre [checklist détaillée](/blog/etudiant/checklist-demenagement-etudiant) pour ne rien oublier.*

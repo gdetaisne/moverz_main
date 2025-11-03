@@ -16,7 +16,7 @@ featured: false
 
 # Déménager de Bordeaux à Paris : le budget à prévoir
 
-Déménager de Bordeaux à Paris représente l'un des trajets [longue distance](/blog/longue-distance/guide) les plus fréquents en France, avec ses 584 kilomètres de distance. Cette migration, souvent liée à des mutations professionnelles ou à des opportunités de carrière, nécessite une planification budgétaire rigoureuse. Comprendre les facteurs qui influencent les tarifs vous permet d'anticiper le coût réel de votre projet et d'identifier les options d'économies.
+Déménager de Bordeaux à Paris représente l'un des trajets [longue distance](/blog/longue-distance/demenagement-longue-distance-bordeaux-guide) les plus fréquents en France, avec ses 584 kilomètres de distance. Cette migration, souvent liée à des mutations professionnelles ou à des opportunités de carrière, nécessite une planification budgétaire rigoureuse. Comprendre les facteurs qui influencent les tarifs vous permet d'anticiper le coût réel de votre projet et d'identifier les options d'économies.
 
 ## Les fourchettes de prix selon le volume
 
@@ -80,7 +80,7 @@ Préparez vos affaires fragiles en les emballant soigneusement. Les déménageme
 
 Un déménagement Bordeaux-Paris représente donc un investissement important mais qu'il convient de planifier soigneusement. En comprenant les facteurs qui influencent les tarifs, en identifiant les options d'économies et en choisissant le bon professionnel, vous pouvez optimiser votre budget tout en bénéficiant d'un service de qualité adapté à vos besoins.
 
-**Prêt pour votre déménagement Bordeaux-Paris ?** [Obtenez votre devis personnalisé](/blog/devis/guide) en quelques clics. Nos experts maîtrisent les contraintes de ce trajet et vous proposent des solutions adaptées.
+**Prêt pour votre déménagement Bordeaux-Paris ?** [Obtenez votre devis personnalisé](/blog/devis/devis-demenagement-bordeaux-guide) en quelques clics. Nos experts maîtrisent les contraintes de ce trajet et vous proposent des solutions adaptées.
 
 ---
 
