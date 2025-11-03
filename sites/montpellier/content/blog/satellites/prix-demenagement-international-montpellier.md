@@ -19,7 +19,7 @@ author: "Équipe Moverz Montpellier"
 # Prix Déménagement International Depuis Montpellier : Guide Complet 2025
 
 
-Pour comprendre tous les aspects du déménagement international Montpellier, consultez notre [guide déménagement international depuis Montpellier](/blog/demenagement-international-montpellier/demenagement-international-montpellier).
+Pour comprendre tous les aspects du déménagement international Montpellier, consultez notre [guide déménagement international depuis Montpellier](/blog/demenagement-montpellier/demenagement-international-montpellier).
 
 
 Déménager à l'étranger depuis Montpellier représente un investissement conséquent, variant de 2 000€ pour un petit volume vers l'Espagne à plus de 12 000€ pour une maison complète expédiée en Asie. Contrairement à un déménagement local dans l'Hérault où les prix tournent autour de 400-2 500€, l'international multiplie les coûts par un facteur de 2 à 5 selon la destination et le mode de transport choisi.

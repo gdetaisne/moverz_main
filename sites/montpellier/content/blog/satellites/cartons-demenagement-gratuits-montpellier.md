@@ -19,7 +19,7 @@ author: "Équipe Moverz Montpellier"
 # Cartons de Déménagement Gratuits à Montpellier : Où les Trouver ?
 
 
-Pour comprendre tous les aspects du déménagement pas cher à Montpellier, consultez notre [guide déménagement économique Montpellier](/blog/demenagement-pas-cher-montpellier/demenagement-pas-cher-montpellier).
+Pour comprendre tous les aspects du déménagement pas cher à Montpellier, consultez notre [guide déménagement économique Montpellier](/blog/demenagement-montpellier/demenagement-pas-cher-montpellier).
 
 
 Acheter des cartons neufs représente un budget de 80 à 120€ pour équiper un T2, une dépense évitable quand on sait où chercher à Montpellier. La récupération de cartons gratuits constitue l'une des astuces les plus efficaces pour réduire le coût de votre déménagement dans l'Hérault.

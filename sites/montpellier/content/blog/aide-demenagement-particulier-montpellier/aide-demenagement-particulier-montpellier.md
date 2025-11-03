@@ -105,7 +105,7 @@ Au-delà des aides financières, d'autres formes de soutien peuvent faciliter vo
 
 ### La location de matériel à prix réduit
 
-**Location d'utilitaire** : Pour un [déménagement pas cher à Montpellier](/blog/demenagement-pas-cher-montpellier/demenagement-pas-cher-montpellier), la location d'une camionnette ou d'un fourgon est la solution la plus économique (50€ à 120€ par jour selon le volume). Consultez notre guide sur la [location de camion de déménagement à Montpellier](/blog/location-camion-demenagement-montpellier/location-camion-demenagement-montpellier).
+**Location d'utilitaire** : Pour un [déménagement pas cher à Montpellier](/blog/demenagement-montpellier/demenagement-pas-cher-montpellier), la location d'une camionnette ou d'un fourgon est la solution la plus économique (50€ à 120€ par jour selon le volume). Consultez notre guide sur la [location de camion de déménagement à Montpellier](/blog/demenagement-montpellier/location-camion-demenagement-montpellier).
 
 **Cartons gratuits ou à prix réduit** : Récupérez des cartons gratuitement dans les supermarchés montpelliérains (Carrefour, Auchan, Leclerc, Intermarché), les commerces de proximité, ou sur les sites de petites annonces (Leboncoin, Facebook Marketplace) où des personnes offrent leurs cartons après leur propre déménagement.
 
@@ -113,7 +113,7 @@ Au-delà des aides financières, d'autres formes de soutien peuvent faciliter vo
 
 ### Les services de déménagement économiques
 
-**Formules économiques** : Les déménageurs professionnels à Montpellier proposent souvent des formules "transport seul" (vous emballez, ils transportent) beaucoup moins chères que les formules clé en main. Consultez notre page sur les [déménageurs à Montpellier](/blog/demenageur-montpellier/demenageur-montpellier).
+**Formules économiques** : Les déménageurs professionnels à Montpellier proposent souvent des formules "transport seul" (vous emballez, ils transportent) beaucoup moins chères que les formules clé en main. Consultez notre page sur les [déménageurs à Montpellier](/blog/demenagement-montpellier/demenageur-montpellier).
 
 **Entreprises d'insertion** : Certaines entreprises d'insertion ou associations de réinsertion dans l'Hérault proposent des services de déménagement à tarifs sociaux pour les personnes en difficulté. Renseignez-vous auprès du CCAS de Montpellier.
 
@@ -176,7 +176,7 @@ Oui, Pôle Emploi propose une **aide à la mobilité** incluant les frais de dé
 
 ### Existe-t-il des aides spécifiques pour les étudiants à Montpellier ?
 
-Les aides nationales spécifiques "déménagement étudiant" sont limitées, mais plusieurs pistes existent. **Action Logement Jeunes** : si vous êtes **étudiant salarié** (alternance, contrat étudiant dans une entreprise de 10 salariés et plus) ou en formation professionnelle, vous pouvez bénéficier de l'aide Mobili-Jeune (subvention pour le loyer) qui facilite indirectement votre installation. **CROUS de Montpellier** : le CROUS propose parfois des **aides d'urgence ponctuelle** pour les étudiants en grande difficulté. Contactez le service social du CROUS de Montpellier. **Université de Montpellier** : certaines associations étudiantes ou services universitaires organisent des **systèmes d'entraide** pour les déménagements étudiants (prêt de matériel, covoiturage de meubles, bénévoles). Renseignez-vous au BDE ou aux services de la vie étudiante. **Astuce principale** : pour un [petit déménagement étudiant à Montpellier](/blog/petit-demenagement-montpellier/petit-demenagement-montpellier), la **location d'utilitaire DIY** (50€ à 80€) + aide de copains reste la solution la plus accessible.
+Les aides nationales spécifiques "déménagement étudiant" sont limitées, mais plusieurs pistes existent. **Action Logement Jeunes** : si vous êtes **étudiant salarié** (alternance, contrat étudiant dans une entreprise de 10 salariés et plus) ou en formation professionnelle, vous pouvez bénéficier de l'aide Mobili-Jeune (subvention pour le loyer) qui facilite indirectement votre installation. **CROUS de Montpellier** : le CROUS propose parfois des **aides d'urgence ponctuelle** pour les étudiants en grande difficulté. Contactez le service social du CROUS de Montpellier. **Université de Montpellier** : certaines associations étudiantes ou services universitaires organisent des **systèmes d'entraide** pour les déménagements étudiants (prêt de matériel, covoiturage de meubles, bénévoles). Renseignez-vous au BDE ou aux services de la vie étudiante. **Astuce principale** : pour un [petit déménagement étudiant à Montpellier](/blog/demenagement-montpellier/petit-demenagement-montpellier), la **location d'utilitaire DIY** (50€ à 80€) + aide de copains reste la solution la plus accessible.
 
 ### Le CCAS de Montpellier peut-il m'aider à déménager ?
 

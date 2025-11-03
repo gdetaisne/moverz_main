@@ -18,7 +18,7 @@ author: "Équipe Moverz Montpellier"
 # Déménagement TPE/PME Montpellier 5-20 Postes
 
 
-Pour comprendre tous les aspects du déménagement entreprise à Montpellier, consultez notre [guide déménagement entreprise Montpellier](/blog/demenagement-entreprise-montpellier/demenagement-entreprise-montpellier).
+Pour comprendre tous les aspects du déménagement entreprise à Montpellier, consultez notre [guide déménagement entreprise Montpellier](/blog/demenagement-montpellier/demenagement-entreprise-montpellier).
 
 
 Déménager une TPE ou petite PME montpelliéraine de 5-20 postes coûte 1 500-8 000€ selon taille, matériel IT, et contraintes. Une startup de 8 postes (Port Marianne→Antigone) paie 2 500-4 000€ pour déménagement en 1 journée, tandis que PME 18 postes (Odysseum→zone périphérique) atteint 5 000-7 500€ sur 2 jours.

@@ -19,7 +19,7 @@ author: "Équipe Moverz Montpellier"
 # Aides Financières Pour Déménager à Montpellier : Guide Complet 2025
 
 
-Pour comprendre tous les aspects du déménagement pas cher à Montpellier, consultez notre [guide déménagement économique Montpellier](/blog/demenagement-pas-cher-montpellier/demenagement-pas-cher-montpellier).
+Pour comprendre tous les aspects du déménagement pas cher à Montpellier, consultez notre [guide déménagement économique Montpellier](/blog/demenagement-montpellier/demenagement-pas-cher-montpellier).
 
 
 Déménager représente souvent un investissement conséquent, entre 400€ pour un studio et 2 500€ pour une maison à Montpellier. Heureusement, plusieurs dispositifs d'aides financières existent pour alléger cette charge, mais ils restent méconnus d'une grande partie des Montpelliérains.

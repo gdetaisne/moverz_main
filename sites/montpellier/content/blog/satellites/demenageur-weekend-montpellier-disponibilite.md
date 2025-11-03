@@ -18,7 +18,7 @@ author: "Équipe Moverz Montpellier"
 # Déménageur Weekend à Montpellier
 
 
-Pour comprendre tous les aspects du déménageur à Montpellier, consultez notre [guide complet déménageur Montpellier](/blog/demenageur-montpellier/demenageur-montpellier).
+Pour comprendre tous les aspects du déménageur à Montpellier, consultez notre [guide complet déménageur Montpellier](/blog/demenagement-montpellier/demenageur-montpellier).
 
 
 Déménager un weekend à Montpellier coûte 10-15% plus cher qu'en semaine (T2 passe de 850€ à 935-980€). Surcoût expliqué par forte demande (particuliers travaillent semaine) et heures majorées déménageurs. Disponibilité réduite nécessite réservation 2 semaines minimum, 3-4 semaines fin août (saturation rentrée 70K étudiants Boutonnet/Hôpitaux-Facultés).

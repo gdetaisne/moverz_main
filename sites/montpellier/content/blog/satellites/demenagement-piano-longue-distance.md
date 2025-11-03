@@ -18,7 +18,7 @@ author: "Équipe Moverz Montpellier"
 # Déménagement Piano Longue Distance Depuis Montpellier
 
 
-Pour comprendre tous les aspects du déménagement piano Montpellier, consultez notre [guide transport piano à Montpellier](/blog/demenagement-piano-montpellier/demenagement-piano-montpellier).
+Pour comprendre tous les aspects du déménagement piano Montpellier, consultez notre [guide transport piano à Montpellier](/blog/demenagement-montpellier/demenagement-piano-montpellier).
 
 
 Déménager un piano sur longue distance depuis Montpellier (> 300 km) coûte 400-1 000€ selon la destination et le type d'instrument. Montpellier-Paris (750 km) : 450-700€ pour un piano droit, 700-1 000€ pour une queue. Le transport nécessite un camion capitonné, une assurance renforcée (+150-300€), et des protections maximales contre vibrations et chocs durant 8-12h de route.

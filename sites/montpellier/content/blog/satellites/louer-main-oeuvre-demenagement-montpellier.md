@@ -18,7 +18,7 @@ author: "Équipe Moverz Montpellier"
 # Louer Main d'Œuvre Déménagement à Montpellier
 
 
-Pour comprendre tous les aspects du aide déménagement particulier Montpellier, consultez notre [guide aide déménagement à Montpellier](/blog/aide-demenagement-montpellier/aide-demenagement-particulier-montpellier).
+Pour comprendre tous les aspects du aide déménagement particulier Montpellier, consultez notre [guide aide déménagement à Montpellier](/blog/demenagement-montpellier/aide-demenagement-particulier-montpellier).
 
 
 Louer uniquement la main d'œuvre (2 déménageurs sans camion) coûte 150-250€ pour 2h à Montpellier. Cette formule convient si vous louez déjà un véhicule (Trafic 70€) mais avez besoin de bras professionnels pour porter meubles lourds dans les escaliers de l'Écusson (3-5 étages sans ascenseur), des Beaux-Arts ou de Figuerolles.
