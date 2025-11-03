@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import LocalPage from '@/app/_templates/LocalPage';
 import { generateLocalPageMetadata } from '@/app/_templates/LocalPage';
 
-export const metadata: Metadata = generateLocalPageMetadata('presquile', 'La Presqu'île');
+export const metadata: Metadata = generateLocalPageMetadata('presquile', 'La Presqu\'île');
 
 
 const lyonLaPresquleData = {
