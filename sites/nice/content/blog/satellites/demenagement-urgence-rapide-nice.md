@@ -307,7 +307,7 @@ Demande express **<7 jours** : 60-100€ sur metropole.nice.fr (délai traitemen
 
 ### Quelles sont les solutions si aucun déménageur n'est disponible en urgence ?
 
-**3 alternatives** : 1) [Location camion](/blog/demenagement-nice/location-camion-demenagement-nice-guide/) 12-20m³ (70-150€/jour) + aide amis (repas ~100€) = 200-400€ total, 2) [Déménagement partiel](/demenagement/demenagement-une-piece-nice) essentiels (5-10 cartons, lit) puis complet 7-15j après, 3) [Garde-meuble temporaire](/blog/demenagement-nice/garde-meuble-nice-guide/) 1-2 mois (80-180€/mois) puis déménagement standard.
+**3 alternatives** : 1) [Location camion](/blog/demenagement-nice/location-camion-demenagement-nice-guide/) 12-20m³ (70-150€/jour) + aide amis (repas ~100€) = 200-400€ total, 2) [Déménagement partiel](/blog/petit-demenagement-nice/demenagement-une-piece-nice/) essentiels (5-10 cartons, lit) puis complet 7-15j après, 3) [Garde-meuble temporaire](/blog/demenagement-nice/garde-meuble-nice-guide/) 1-2 mois (80-180€/mois) puis déménagement standard.
 
 ### Un déménagement urgent est-il aussi bien assuré qu'un déménagement standard ?
 

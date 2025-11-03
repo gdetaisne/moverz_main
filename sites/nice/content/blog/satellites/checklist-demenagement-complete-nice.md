@@ -23,7 +23,7 @@ Un déménagement à Nice implique **25-40 démarches administratives** (résili
 **☐ Budget déménagement**
 - Estimer coût (F2 : 1 000-1 400€, F3 : 1 600-2 200€)
 - Prévoir suppléments (monte-meuble 300-500€, cartons 100-180€)
-- [Calculer coût réel Nice](/demenagement/cout-reel-demenagement-nice)
+- [Calculer coût réel Nice](/blog/prix/cout-reel-demenagement-nice/)
 
 **☐ Rechercher déménageurs Nice**
 - Demander 3 devis minimum (Akte 21, Les Collinettes, Sterling)
@@ -74,7 +74,7 @@ Un déménagement à Nice implique **25-40 démarches administratives** (résili
 - Maternelle/Primaire : Mairie quartier (metropole.nice.fr)
 - Collège : Académie Nice (ac-nice.fr)
 - Lycée : Rectorat Nice
-- [Déménager avec enfants Nice](/blog/demenagement-etudiant-nice/demenagement-etudiant-nice-guide)
+- [Déménager avec enfants Nice](/blog/demenagement-pas-cher-nice/demenagement-etudiant-pas-cher-nice/)
 
 **☐ Commander cartons/matériel**
 - 30-50 cartons (F2), 50-80 (F3)
@@ -153,7 +153,7 @@ Un déménagement à Nice implique **25-40 démarches administratives** (résili
 **☐ Réservation garde enfants/animaux J**
 - Babysitter (12-18€/h), famille, amis
 - Pension animaux Nice (25-40€/jour chien, 20-30€ chat)
-- [Déménager avec animaux Nice](/demenagement/demenagement-avec-animaux-nice)
+- [Déménager avec animaux Nice](/blog/aide-demenagement/demenagement-avec-animaux-nice/)
 
 **☐ Préparation "Sac Essentiel"**
 - Documents : Baux, assurances, devis déménageur, cartes identité
