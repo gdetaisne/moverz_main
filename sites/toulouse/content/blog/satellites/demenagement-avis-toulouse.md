@@ -2,7 +2,7 @@
 title: "Déménagement Avis Toulouse : Témoignages et Références Clients"
 description: "Avis déménagement à Toulouse : témoignages et références clients. Retours d'expérience, évaluations, satisfaction garantie. Lisez nos avis."
 date: "2024-01-15"
-category: "avis-deménagement"
+category: "avis-demenagement"
 tags: ["déménagement", "avis", "toulouse", "témoignages", "clients"]
 author: "Moverz Toulouse"
 featured: false

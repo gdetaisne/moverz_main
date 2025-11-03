@@ -2,7 +2,7 @@
 title: "Déménagement Express Soir Toulouse : Service Express en Soirée"
 description: "Déménagement express soir à Toulouse : service express en soirée. Intervention rapide, équipe disponible, solution instantanée. Devis gratuit."
 date: "2024-01-15"
-category: "deménagement-express-soir"
+category: "demenagement-express-soir"
 tags: ["déménagement", "express", "soir", "toulouse", "rapide"]
 author: "Moverz Toulouse"
 featured: false

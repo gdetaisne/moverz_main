@@ -2,7 +2,7 @@
 title: "Déménagement Immédiat 24h Toulouse : Service d'Intervention Immédiate 24h/24"
 description: "Déménagement immédiat 24h à Toulouse : service d'intervention immédiate 24h/24. Intervention instantanée, équipe disponible, solution immédiate. Devis gratuit."
 date: "2024-01-15"
-category: "deménagement-immédiat-24h"
+category: "demenagement-immediat-24h"
 tags: ["déménagement", "immédiat", "24h", "toulouse", "instantané"]
 author: "Moverz Toulouse"
 featured: false

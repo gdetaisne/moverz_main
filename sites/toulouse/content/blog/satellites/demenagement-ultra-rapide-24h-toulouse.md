@@ -2,7 +2,7 @@
 title: "Déménagement Ultra-Rapide 24h Toulouse : Service Ultra-Rapide 24h/24"
 description: "Déménagement ultra-rapide 24h à Toulouse : service ultra-rapide 24h/24. Intervention immédiate, équipe disponible, solution instantanée. Devis gratuit."
 date: "2024-01-15"
-category: "deménagement-ultra-rapide-24h"
+category: "demenagement-ultra-rapide-24h"
 tags: ["déménagement", "ultra-rapide", "24h", "toulouse", "immédiat"]
 author: "Moverz Toulouse"
 featured: false

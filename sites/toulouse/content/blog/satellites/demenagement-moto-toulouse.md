@@ -2,7 +2,7 @@
 title: "Déménagement Moto Toulouse : Transport de Deux-Roues Sécurisé"
 description: "Déménagement de moto à Toulouse : transport de deux-roues sécurisé. Équipement spécialisé, équipe formée, assurance complète. Devis gratuit."
 date: "2024-01-15"
-category: "deménagement-moto"
+category: "demenagement-moto"
 tags: ["déménagement", "moto", "toulouse", "deux-roues", "sécurisé"]
 author: "Moverz Toulouse"
 featured: false

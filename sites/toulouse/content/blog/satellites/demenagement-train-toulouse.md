@@ -2,7 +2,7 @@
 title: "Déménagement Train Toulouse : Transport Ferroviaire Sécurisé"
 description: "Déménagement de train à Toulouse : transport ferroviaire sécurisé. Équipement spécialisé, équipe formée, assurance complète. Devis gratuit."
 date: "2024-01-15"
-category: "deménagement-train"
+category: "demenagement-train"
 tags: ["déménagement", "train", "toulouse", "ferroviaire", "sécurisé"]
 author: "Moverz Toulouse"
 featured: false

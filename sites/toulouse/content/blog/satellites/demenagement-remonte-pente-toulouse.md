@@ -2,7 +2,7 @@
 title: "Déménagement Remonte-Pente Toulouse : Transport de Véhicule de Transport Public"
 description: "Déménagement de remonte-pente à Toulouse : transport de véhicule de transport public. Équipement spécialisé, équipe formée, assurance complète. Devis gratuit."
 date: "2024-01-15"
-category: "deménagement-remonte-pente"
+category: "demenagement-remonte-pente"
 tags: ["déménagement", "remonte-pente", "toulouse", "transport", "public"]
 author: "Moverz Toulouse"
 featured: false

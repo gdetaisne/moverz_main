@@ -2,7 +2,7 @@
 title: "Déménagement Express Nuit Toulouse : Service Express la Nuit"
 description: "Déménagement express nuit à Toulouse : service express la nuit. Intervention rapide, équipe disponible, solution instantanée. Devis gratuit."
 date: "2024-01-15"
-category: "deménagement-express-nuit"
+category: "demenagement-express-nuit"
 tags: ["déménagement", "express", "nuit", "toulouse", "rapide"]
 author: "Moverz Toulouse"
 featured: false

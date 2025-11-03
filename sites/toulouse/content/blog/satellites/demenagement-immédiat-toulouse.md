@@ -2,7 +2,7 @@
 title: "Déménagement Immédiat Toulouse : Service d'Intervention Immédiate"
 description: "Déménagement immédiat à Toulouse : service d'intervention immédiate. Intervention instantanée, équipe disponible, solution immédiate. Devis gratuit."
 date: "2024-01-15"
-category: "deménagement-immédiat"
+category: "demenagement-immediat"
 tags: ["déménagement", "immédiat", "toulouse", "instantané", "intervention"]
 author: "Moverz Toulouse"
 featured: false

@@ -4,7 +4,7 @@ export default function NeighborhoodsTeaser() {
   // Quartiers populaires avec liens vers les pages zones desservies
   const picks = [
     { title: "Centre-ville", href: "/nantes/centre-ville" },
-    { title: "Ile de Nantes", href: "/nantes/ile-de-nantes" },
+    { title: "Ile de Nantes", href: "/nantes/ile-nantes" },
     { title: "Malakoff", href: "/nantes/malakoff" },
     { title: "Dervallières", href: "/nantes/dervallieres" },
     { title: "Beaulieu", href: "/nantes/beaulieu" },

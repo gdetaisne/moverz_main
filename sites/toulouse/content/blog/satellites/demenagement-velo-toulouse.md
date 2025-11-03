@@ -2,7 +2,7 @@
 title: "Déménagement Vélo Toulouse : Transport de Bicyclettes Sécurisé"
 description: "Déménagement de vélo à Toulouse : transport de bicyclettes sécurisé. Équipement spécialisé, équipe formée, assurance complète. Devis gratuit."
 date: "2024-01-15"
-category: "deménagement-vélo"
+category: "demenagement-velo"
 tags: ["déménagement", "vélo", "toulouse", "bicyclette", "sécurisé"]
 author: "Moverz Toulouse"
 featured: false

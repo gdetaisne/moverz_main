@@ -2,7 +2,7 @@
 title: "Déménagement Ascenseur Toulouse : Solutions pour les Étages"
 description: "Déménagement avec ascenseur à Toulouse : solutions pour transporter vos biens aux étages. Équipement adapté, équipe formée, sécurité garantie. Devis gratuit."
 date: "2024-01-15"
-category: "deménagement-ascenseur"
+category: "demenagement-ascenseur"
 tags: ["déménagement", "ascenseur", "toulouse", "étages", "sécurité"]
 author: "Moverz Toulouse"
 featured: false

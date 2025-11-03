@@ -2,7 +2,7 @@
 title: "Déménagement Hélicoptère Toulouse : Transport Aérien Spécialisé"
 description: "Déménagement d'hélicoptère à Toulouse : transport aérien spécialisé. Équipement spécialisé, équipe formée, assurance complète. Devis gratuit."
 date: "2024-01-15"
-category: "deménagement-hélicoptère"
+category: "demenagement-helicoptere"
 tags: ["déménagement", "hélicoptère", "toulouse", "aérien", "spécialisé"]
 author: "Moverz Toulouse"
 featured: false

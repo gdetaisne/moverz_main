@@ -2,7 +2,7 @@
 title: "Déménagement Contact Toulouse : Service Client et Support"
 description: "Contact déménagement à Toulouse : service client et support. Équipe disponible, conseils personnalisés, accompagnement complet. Contactez-nous."
 date: "2024-01-15"
-category: "contact-deménagement"
+category: "contact-demenagement"
 tags: ["déménagement", "contact", "toulouse", "service", "client"]
 author: "Moverz Toulouse"
 featured: false

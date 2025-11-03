@@ -2,7 +2,7 @@
 title: "Déménagement Flash Toulouse : Service Ultra-Rapide en 1 Heure"
 description: "Déménagement flash à Toulouse : service ultra-rapide en 1 heure. Intervention immédiate, équipe spécialisée, résultat garanti. Devis gratuit."
 date: "2024-01-15"
-category: "deménagement-flash"
+category: "demenagement-flash"
 tags: ["déménagement", "flash", "toulouse", "1h", "ultra-rapide"]
 author: "Moverz Toulouse"
 featured: false

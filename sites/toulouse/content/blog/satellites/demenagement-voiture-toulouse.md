@@ -2,7 +2,7 @@
 title: "Déménagement Voiture Toulouse : Transport de Véhicule Sécurisé"
 description: "Déménagement de voiture à Toulouse : transport de véhicule sécurisé. Équipement spécialisé, équipe formée, assurance complète. Devis gratuit."
 date: "2024-01-15"
-category: "deménagement-voiture"
+category: "demenagement-voiture"
 tags: ["déménagement", "voiture", "toulouse", "transport", "sécurisé"]
 author: "Moverz Toulouse"
 featured: false

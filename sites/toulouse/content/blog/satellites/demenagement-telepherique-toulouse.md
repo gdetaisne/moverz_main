@@ -2,7 +2,7 @@
 title: "Déménagement Téléphérique Toulouse : Transport de Véhicule de Transport Public"
 description: "Déménagement de téléphérique à Toulouse : transport de véhicule de transport public. Équipement spécialisé, équipe formée, assurance complète. Devis gratuit."
 date: "2024-01-15"
-category: "deménagement-téléphérique"
+category: "demenagement-telepherique"
 tags: ["déménagement", "téléphérique", "toulouse", "transport", "public"]
 author: "Moverz Toulouse"
 featured: false

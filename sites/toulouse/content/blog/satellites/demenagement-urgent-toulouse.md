@@ -2,7 +2,7 @@
 title: "Déménagement Urgent Toulouse : Service Express 24h/24"
 description: "Déménagement urgent à Toulouse : service express 24h/24 pour vos urgences. Intervention rapide, équipe disponible, solution immédiate. Devis gratuit."
 date: "2024-01-15"
-category: "deménagement-urgent"
+category: "demenagement-urgent"
 tags: ["déménagement", "urgent", "toulouse", "express", "24h"]
 author: "Moverz Toulouse"
 featured: false

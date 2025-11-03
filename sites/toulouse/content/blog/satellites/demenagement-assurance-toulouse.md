@@ -2,7 +2,7 @@
 title: "Déménagement Assurance Toulouse : Protection Complète de vos Biens"
 description: "Assurance déménagement à Toulouse : protection complète de vos biens. Couverture maximale, évaluation rapide, indemnisation équitable. Devis gratuit."
 date: "2024-01-15"
-category: "assurance-deménagement"
+category: "assurance-demenagement"
 tags: ["déménagement", "assurance", "toulouse", "protection", "biens"]
 author: "Moverz Toulouse"
 featured: false

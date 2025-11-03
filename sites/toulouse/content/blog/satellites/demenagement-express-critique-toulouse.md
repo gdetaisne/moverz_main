@@ -2,7 +2,7 @@
 title: "Déménagement Express Critique Toulouse : Service Express Critique"
 description: "Déménagement express critique à Toulouse : service express critique. Intervention immédiate, équipe disponible, solution instantanée. Devis gratuit."
 date: "2024-01-15"
-category: "deménagement-express-critique"
+category: "demenagement-express-critique"
 tags: ["déménagement", "express", "critique", "toulouse", "immédiat"]
 author: "Moverz Toulouse"
 featured: false

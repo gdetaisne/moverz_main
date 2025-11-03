@@ -2,7 +2,7 @@
 title: "Déménagement Camion Toulouse : Transport Lourd et Volumineux"
 description: "Déménagement de camion à Toulouse : transport lourd et volumineux. Équipement spécialisé, équipe formée, assurance complète. Devis gratuit."
 date: "2024-01-15"
-category: "deménagement-camion"
+category: "demenagement-camion"
 tags: ["déménagement", "camion", "toulouse", "transport", "lourd"]
 author: "Moverz Toulouse"
 featured: false

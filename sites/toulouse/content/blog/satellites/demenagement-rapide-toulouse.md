@@ -2,7 +2,7 @@
 title: "Déménagement Rapide Toulouse : Service Express et Efficace"
 description: "Déménagement rapide à Toulouse : service express et efficace. Intervention rapide, équipe disponible, solution immédiate. Devis gratuit."
 date: "2024-01-15"
-category: "deménagement-rapide"
+category: "demenagement-rapide"
 tags: ["déménagement", "rapide", "toulouse", "express", "efficace"]
 author: "Moverz Toulouse"
 featured: false

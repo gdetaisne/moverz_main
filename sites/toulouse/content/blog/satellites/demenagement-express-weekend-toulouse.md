@@ -2,7 +2,7 @@
 title: "Déménagement Express Week-end Toulouse : Service Express le Week-end"
 description: "Déménagement express week-end à Toulouse : service express le week-end. Intervention rapide, équipe disponible, solution instantanée. Devis gratuit."
 date: "2024-01-15"
-category: "deménagement-express-weekend"
+category: "demenagement-express-weekend"
 tags: ["déménagement", "express", "weekend", "toulouse", "rapide"]
 author: "Moverz Toulouse"
 featured: false
