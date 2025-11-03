@@ -60,5 +60,19 @@ Centre UNESCO = difficultés extrêmes. Rues 2-4m, escaliers 70cm, immeubles col
 
 Vérifier expérience Grande Île déménageur avant signer devis.
 
+## FAQ : Piano Grande Île Strasbourg
+
+### Pourquoi le monte-meuble est-il obligatoire Grande Île ?
+
+**Escaliers 70-80cm** immeubles anciens UNESCO : impossibles piano (largeur 150cm, même démontage pieds 95cm > 70cm). Tournants multiples, pas ascenseur, 3-5 étages = portage physiquement impossible. Monte-meuble extérieur fenêtre/balcon : **unique solution**. Coût : +200-300€. Quartiers modernes (Neudorf, Esplanade) : ascenseurs = jamais monte-meuble. Grande Île = spécificité contraintes patrimoniales.
+
+### Combien coûte déménager un piano queue Grande Île ?
+
+**Piano queue Grande Île** : **600-900€ total** (déménagement 400-600€ + monte-meuble obligatoire 200-300€). Poids 300-500kg, dimensions XXL, escaliers 70cm impossibles = toujours monte-meuble. Autorisation mairie 10-15j. Assurance renforcée recommandée (valeur piano 10 000-50 000€+). Créneaux optimaux : dimanche matin 6h-10h (rues désertes, touristes absents, trafic 0).
+
+### Comment obtenir l'autorisation monte-meuble ?
+
+**Procédure** : demande mairie Strasbourg 10-15 jours avant (occupation voie publique), informer syndic immeuble, fournir attestation assurance déménageur + plan installation. Délai traitement : 5-10 jours. Coût : gratuit/20-50€ selon zone. Grande Île (UNESCO) : délais parfois longs, anticipez 3 semaines. Sans autorisation : PV + arrêt opération (monte-meuble interdit). Déménageur pro gère généralement démarches (+50-100€ service).
+
 Pour plus d'informations, consultez notre [guide déménagement piano Strasbourg](/blog/demenagement-strasbourg/demenagement-piano-strasbourg).
 
