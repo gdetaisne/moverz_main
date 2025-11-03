@@ -18,7 +18,7 @@ author: "Équipe Moverz Montpellier"
 # Déménagement Entrepôt à Montpellier : Zones Logistiques
 
 
-Pour comprendre tous les aspects du déménagement entreprise à Montpellier, consultez notre [guide déménagement entreprise Montpellier](/blog/demenagement-entreprise-montpellier/demenagement-entreprise-montpellier).
+Pour comprendre tous les aspects du déménagement entreprise à Montpellier, consultez notre [guide déménagement entreprise Montpellier](/blog/demenagement-montpellier/demenagement-entreprise-montpellier).
 
 
 Déménager un entrepôt montpelliérain (500-2000m²) coûte 10 000-50 000€ selon surface, quantité stock, et matériel (racks, chariots élévateurs). Les zones logistiques principales de Montpellier (Mosson près A9, ZAC Eureka, Garosud) concentrent entrepôts et bénéficient d'accès optimaux (voies larges, quais chargement, proximité autoroutes).

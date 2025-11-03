@@ -18,7 +18,7 @@ author: "Équipe Moverz Montpellier"
 # Garde-Meuble Par Quartier à Montpellier : Prix et Localisation
 
 
-Pour comprendre tous les aspects du garde-meuble à Montpellier, consultez notre [guide complet du garde-meuble à Montpellier](/blog/garde-meuble-montpellier/garde-meuble-montpellier-guide-complet).
+Pour comprendre tous les aspects du garde-meuble à Montpellier, consultez notre [guide complet du garde-meuble à Montpellier](/blog/demenagement-montpellier/garde-meuble-montpellier-guide-complet).
 
 
 Les prix au m² varient de 30€ à 70€/mois selon le quartier montpelliérain. Le centre (Antigone, Parc 2000) facture 50-70€/m²/mois, Lavérune à l'ouest propose 35-50€/m², et Vendargues à l'est affiche 30-45€/m². Sur une box de 5m² stockée 6 mois, l'écart entre centre (350€/mois) et périphérie (225€) représente 750€ d'économies.

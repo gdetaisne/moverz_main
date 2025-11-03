@@ -18,7 +18,7 @@ author: "Équipe Moverz Montpellier"
 # Location Camion Déménagement Weekend à Montpellier
 
 
-Pour comprendre tous les aspects du location camion déménagement Montpellier, consultez notre [guide location camion déménagement à Montpellier](/blog/location-camion-demenagement-montpellier/location-camion-demenagement-montpellier).
+Pour comprendre tous les aspects du location camion déménagement Montpellier, consultez notre [guide location camion déménagement à Montpellier](/blog/demenagement-montpellier/location-camion-demenagement-montpellier).
 
 
 Le forfait weekend (vendredi 18h récupération → lundi 9h restitution = 63h) coûte 160-250€ pour Master 20m³ à Montpellier, soit +10-15% vs 2 jours semaine isolés (mais moins cher que 3 jours pleins). Idéal salariés Montpelliérains ne pouvant déménager en semaine.

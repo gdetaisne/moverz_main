@@ -18,7 +18,7 @@ author: "Équipe Moverz Montpellier"
 # Kilométrage Inclus Location Camion à Montpellier
 
 
-Pour comprendre tous les aspects du location camion déménagement Montpellier, consultez notre [guide location camion déménagement à Montpellier](/blog/location-camion-demenagement-montpellier/location-camion-demenagement-montpellier).
+Pour comprendre tous les aspects du location camion déménagement Montpellier, consultez notre [guide location camion déménagement à Montpellier](/blog/demenagement-montpellier/location-camion-demenagement-montpellier).
 
 
 Les contrats incluent généralement 100-200 km/jour (agence à agence, variable). Au-delà : 0,20-0,30€/km supplémentaire facturé. Location semaine : forfait 700-1 400 km inclus (vs 7×150 = 1 050 km si calcul journalier).

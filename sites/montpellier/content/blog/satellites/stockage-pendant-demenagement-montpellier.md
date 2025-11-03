@@ -18,7 +18,7 @@ author: "Équipe Moverz Montpellier"
 # Stockage Temporaire Pendant Déménagement à Montpellier
 
 
-Pour comprendre tous les aspects du garde-meuble à Montpellier, consultez notre [guide complet du garde-meuble à Montpellier](/blog/garde-meuble-montpellier/garde-meuble-montpellier-guide-complet).
+Pour comprendre tous les aspects du garde-meuble à Montpellier, consultez notre [guide complet du garde-meuble à Montpellier](/blog/demenagement-montpellier/garde-meuble-montpellier-guide-complet).
 
 
 Stocker vos affaires durant la transition entre deux logements montpellierains coûte 60-200€/mois selon le volume, pour une durée moyenne de 2-4 mois. Cette solution résout le décalage fréquent entre la sortie de votre ancien appartement (Écusson, Beaux-Arts, Boutonnet) et l'entrée dans le nouveau (Antigone, Port Marianne, Croix d'Argent).

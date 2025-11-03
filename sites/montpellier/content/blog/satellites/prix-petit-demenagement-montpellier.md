@@ -18,7 +18,7 @@ author: "Équipe Moverz Montpellier"
 # Prix Petit Déménagement à Montpellier : Guide Tarifs 2025
 
 
-Pour comprendre tous les aspects du petit déménagement à Montpellier, consultez notre [guide petit déménagement Montpellier](/blog/petit-demenagement-montpellier/petit-demenagement-montpellier).
+Pour comprendre tous les aspects du petit déménagement à Montpellier, consultez notre [guide petit déménagement Montpellier](/blog/demenagement-montpellier/petit-demenagement-montpellier).
 
 
 Un petit déménagement à Montpellier (studio, chambre étudiante, petit T1) coûte entre 150€ et 500€ selon la formule choisie. Le DIY avec location Kangou revient à 40-60€/jour + aide d'amis (total 80-150€), le groupage à 150-300€, et un déménageur professionnel en formule économique à 250-400€.

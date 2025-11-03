@@ -18,7 +18,7 @@ author: "Équipe Moverz Montpellier"
 # Quelle Taille de Box Garde-Meuble Choisir à Montpellier ?
 
 
-Pour comprendre tous les aspects du garde-meuble à Montpellier, consultez notre [guide complet du garde-meuble à Montpellier](/blog/garde-meuble-montpellier/garde-meuble-montpellier-guide-complet).
+Pour comprendre tous les aspects du garde-meuble à Montpellier, consultez notre [guide complet du garde-meuble à Montpellier](/blog/demenagement-montpellier/garde-meuble-montpellier-guide-complet).
 
 
 Pour un studio montpelliérain de Boutonnet ou des Hôpitaux-Facultés, une box de 3-5m² suffit (coût 60-105€/mois). Un T2 d'Antigone ou de l'Écusson nécessite 5-9m² (100-160€/mois), tandis qu'un T3 de Port Marianne ou une maison de Croix d'Argent requiert 10-15m² (140-240€/mois).
