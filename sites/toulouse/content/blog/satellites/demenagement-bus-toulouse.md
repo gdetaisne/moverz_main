@@ -2,7 +2,7 @@
 title: "Déménagement Bus Toulouse : Transport de Véhicule de Transport"
 description: "Déménagement de bus à Toulouse : transport de véhicule de transport. Équipement spécialisé, équipe formée, assurance complète. Devis gratuit."
 date: "2024-01-15"
-category: "demenagement-bus"
+category: "deménagement-bus"
 tags: ["déménagement", "bus", "toulouse", "transport", "véhicule"]
 author: "Moverz Toulouse"
 featured: false

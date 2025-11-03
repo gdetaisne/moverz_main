@@ -4,6 +4,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 import Breadcrumbs from '@/components/Breadcrumbs';
 import { getCanonicalUrl } from '@/lib/canonical-helper';
+import { getCityDataFromUrl } from '@/lib/cityData';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import rehypeRaw from 'rehype-raw';
@@ -58,6 +59,7 @@ export async function generateMetadata({ params }: BlogPostPageProps): Promise<M
 }
 
 export default function BlogPostPage({ params }: BlogPostPageProps) {
+  const city = getCityDataFromUrl(process.env.SITE_URL!);
   const post = getBlogPostByCleanSlug(params.category, params.slug);
   
   if (!post) {

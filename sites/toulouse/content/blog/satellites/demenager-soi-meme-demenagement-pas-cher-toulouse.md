@@ -2,7 +2,7 @@
 title: "Déménager Soi-Même Déménagement Pas Cher Toulouse : Guide Complet"
 description: "Apprenez à déménager soi-même à Toulouse pour économiser. Conseils pratiques, matériel nécessaire, organisation. Déménagement pas cher et efficace."
 date: "2024-01-15"
-category: "demenagement-economique"
+category: "deménagement-economique"
 tags: ["déménagement", "soi-même", "toulouse", "économique", "conseils"]
 author: "Moverz Toulouse"
 featured: false

@@ -2,7 +2,7 @@
 title: "Déménagement Éclair 24h Toulouse : Service Ultra-Rapide 24h/24"
 description: "Déménagement éclair 24h à Toulouse : service ultra-rapide 24h/24. Intervention immédiate, équipe disponible, solution instantanée. Devis gratuit."
 date: "2024-01-15"
-category: "demenagement-eclair-24h"
+category: "deménagement-éclair-24h"
 tags: ["déménagement", "éclair", "24h", "toulouse", "ultra-rapide"]
 author: "Moverz Toulouse"
 featured: false

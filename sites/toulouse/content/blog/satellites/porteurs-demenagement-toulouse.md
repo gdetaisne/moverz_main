@@ -2,7 +2,7 @@
 title: "Porteurs Déménagement Toulouse : Coup de Main Professionnel"
 description: "Porteurs déménagement à Toulouse : coup de main professionnel pour vos meubles lourds. Équipe qualifiée, matériel inclus, tarif horaire attractif. Devis gratuit."
 date: "2024-01-15"
-category: "aide-demenagement"
+category: "aide-deménagement"
 tags: ["porteurs", "déménagement", "toulouse", "professionnel", "coup de main"]
 author: "Moverz Toulouse"
 featured: false

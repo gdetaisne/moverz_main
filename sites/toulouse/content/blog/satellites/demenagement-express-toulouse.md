@@ -2,7 +2,7 @@
 title: "Déménagement Express Toulouse : Service Ultra-Rapide et Professionnel"
 description: "Déménagement express à Toulouse : service ultra-rapide et professionnel. Intervention immédiate, équipe spécialisée, résultat garanti. Devis gratuit."
 date: "2024-01-15"
-category: "demenagement-express"
+category: "deménagement-express"
 tags: ["déménagement", "express", "toulouse", "ultra-rapide", "professionnel"]
 author: "Moverz Toulouse"
 featured: false

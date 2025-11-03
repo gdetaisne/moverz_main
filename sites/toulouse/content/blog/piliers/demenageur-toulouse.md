@@ -2,7 +2,7 @@
 title: "Déménageur à Toulouse : Votre Partenaire de Confiance"
 description: "Déménageur professionnel à Toulouse. Équipe formée, matériel adapté, assurance complète. Devis gratuit et personnalisé pour tous vos déménagements."
 date: "2024-01-15"
-category: "demenageur-professionnel"
+category: "deménageur-professionnel"
 tags: ["déménageur", "toulouse", "professionnel", "fiable", "devis"]
 author: "Moverz Toulouse"
 featured: true

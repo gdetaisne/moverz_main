@@ -2,7 +2,7 @@
 title: "Déménagement Étudiant à Toulouse : Solutions Économiques et Adaptées"
 description: "Déménagement étudiant à Toulouse : solutions économiques, formules spéciales, conseils pratiques. Déménagez sans vous ruiner pendant vos études."
 date: "2024-01-15"
-category: "demenagement-etudiant"
+category: "deménagement-etudiant"
 tags: ["déménagement", "étudiant", "toulouse", "économique", "solutions"]
 author: "Moverz Toulouse"
 featured: false

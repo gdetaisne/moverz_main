@@ -2,7 +2,7 @@
 title: "Entraide Déménagement Pas Cher Toulouse : Solidarité et Économies"
 description: "Découvrez l'entraide déménagement à Toulouse. Échangez vos services, trouvez de l'aide, économisez ensemble. Solidarité et économies pour tous."
 date: "2024-01-15"
-category: "demenagement-economique"
+category: "deménagement-economique"
 tags: ["entraide", "déménagement", "toulouse", "solidarité", "économies"]
 author: "Moverz Toulouse"
 featured: false

@@ -2,7 +2,7 @@
 title: "Déménagement Week-end Toulouse : Service 7j/7 Adapté"
 description: "Déménagement week-end à Toulouse : service 7j/7 adapté à vos contraintes. Tarifs attractifs, équipe disponible, solution pratique. Devis gratuit."
 date: "2024-01-15"
-category: "demenagement-weekend"
+category: "deménagement-weekend"
 tags: ["déménagement", "week-end", "toulouse", "7j/7", "adapté"]
 author: "Moverz Toulouse"
 featured: false

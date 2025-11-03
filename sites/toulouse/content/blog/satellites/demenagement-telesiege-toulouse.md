@@ -2,7 +2,7 @@
 title: "Déménagement Télésiège Toulouse : Transport de Véhicule de Transport Public"
 description: "Déménagement de télésiège à Toulouse : transport de véhicule de transport public. Équipement spécialisé, équipe formée, assurance complète. Devis gratuit."
 date: "2024-01-15"
-category: "demenagement-telesiege"
+category: "deménagement-télésiège"
 tags: ["déménagement", "télésiège", "toulouse", "transport", "public"]
 author: "Moverz Toulouse"
 featured: false

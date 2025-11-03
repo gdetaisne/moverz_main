@@ -2,7 +2,7 @@
 title: "Cartons Pas Chers Déménagement Pas Cher Toulouse : Économisez sur l'Emballage"
 description: "Trouvez des cartons pas chers pour votre déménagement à Toulouse. Récupération gratuite, achat économique, conseils d'emballage. Économisez sur l'emballage !"
 date: "2024-01-15"
-category: "demenagement-economique"
+category: "deménagement-economique"
 tags: ["cartons", "pas cher", "déménagement", "toulouse", "emballage"]
 author: "Moverz Toulouse"
 featured: false

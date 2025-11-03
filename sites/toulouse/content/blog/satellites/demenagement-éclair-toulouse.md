@@ -2,7 +2,7 @@
 title: "Déménagement Éclair Toulouse : Service Ultra-Rapide en 30 Minutes"
 description: "Déménagement éclair à Toulouse : service ultra-rapide en 30 minutes. Intervention immédiate, équipe spécialisée, résultat garanti. Devis gratuit."
 date: "2024-01-15"
-category: "demenagement-eclair"
+category: "deménagement-éclair"
 tags: ["déménagement", "éclair", "toulouse", "30min", "ultra-rapide"]
 author: "Moverz Toulouse"
 featured: false

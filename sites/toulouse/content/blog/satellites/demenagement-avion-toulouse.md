@@ -2,7 +2,7 @@
 title: "Déménagement Avion Toulouse : Transport Aérien Sécurisé"
 description: "Déménagement d'avion à Toulouse : transport aérien sécurisé. Équipement spécialisé, équipe formée, assurance complète. Devis gratuit."
 date: "2024-01-15"
-category: "demenagement-avion"
+category: "deménagement-avion"
 tags: ["déménagement", "avion", "toulouse", "aérien", "sécurisé"]
 author: "Moverz Toulouse"
 featured: false

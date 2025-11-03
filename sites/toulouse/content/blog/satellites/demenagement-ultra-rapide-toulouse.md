@@ -2,7 +2,7 @@
 title: "Déménagement Ultra-Rapide Toulouse : Service Ultra-Rapide et Efficace"
 description: "Déménagement ultra-rapide à Toulouse : service ultra-rapide et efficace. Intervention immédiate, équipe spécialisée, résultat garanti. Devis gratuit."
 date: "2024-01-15"
-category: "demenagement-ultra-rapide"
+category: "deménagement-ultra-rapide"
 tags: ["déménagement", "ultra-rapide", "toulouse", "efficace", "immédiat"]
 author: "Moverz Toulouse"
 featured: false

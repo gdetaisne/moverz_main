@@ -2,7 +2,7 @@
 title: "Déménagement Emballage Toulouse : Protection Professionnelle de vos Biens"
 description: "Emballage déménagement à Toulouse : protection professionnelle de vos biens. Matériel adapté, techniques expertes, sécurité garantie. Devis gratuit."
 date: "2024-01-15"
-category: "emballage-demenagement"
+category: "emballage-deménagement"
 tags: ["déménagement", "emballage", "toulouse", "protection", "professionnel"]
 author: "Moverz Toulouse"
 featured: false

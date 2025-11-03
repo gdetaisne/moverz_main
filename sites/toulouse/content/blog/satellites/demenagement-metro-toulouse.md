@@ -2,7 +2,7 @@
 title: "Déménagement Métro Toulouse : Transport de Véhicule de Transport Public"
 description: "Déménagement de métro à Toulouse : transport de véhicule de transport public. Équipement spécialisé, équipe formée, assurance complète. Devis gratuit."
 date: "2024-01-15"
-category: "demenagement-metro"
+category: "deménagement-métro"
 tags: ["déménagement", "métro", "toulouse", "transport", "public"]
 author: "Moverz Toulouse"
 featured: false

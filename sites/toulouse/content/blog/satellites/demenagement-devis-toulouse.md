@@ -2,7 +2,7 @@
 title: "Déménagement Devis Toulouse : Estimation Gratuite et Personnalisée"
 description: "Devis déménagement à Toulouse : estimation gratuite et personnalisée. Calcul précis, transparence totale, sans engagement. Demandez votre devis gratuit."
 date: "2024-01-15"
-category: "devis-demenagement"
+category: "devis-deménagement"
 tags: ["déménagement", "devis", "toulouse", "estimation", "gratuit"]
 author: "Moverz Toulouse"
 featured: false

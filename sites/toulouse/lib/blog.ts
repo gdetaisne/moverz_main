@@ -18,6 +18,19 @@ const CATEGORY_MAPPING = {
   'prix-demenagement': 'prix',
   'piliers': 'general',
   'satellites': 'conseils',
+  
+  // Variantes AVEC accents (catégories frontmatter Toulouse - COPIÉES EXACTEMENT)
+  'deménagement-economique': 'pas-cher',
+  'deménagement-entreprise': 'entreprise',
+  'deménagement-etudiant': 'etudiant',
+  'déménageur-professionnel': 'demenageur',
+  'prix-deménagement': 'prix',
+  'aide-deménagement': 'aide',
+  'demenagement-piano': 'piano',
+  'location-camion': 'location',
+  'international': 'international',
+  'garde-meuble': 'garde-meuble',
+  
   // Gestion des catégories avec espaces (fallback)
   'Déménagement entreprise': 'entreprise',
   'Déménagement étudiant': 'etudiant',

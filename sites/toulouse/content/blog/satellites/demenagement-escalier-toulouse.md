@@ -2,7 +2,7 @@
 title: "Déménagement Escalier Toulouse : Solutions pour les Passages Difficiles"
 description: "Déménagement par escalier à Toulouse : solutions pour les passages difficiles. Équipement spécialisé, équipe formée, techniques professionnelles. Devis gratuit."
 date: "2024-01-15"
-category: "demenagement-escalier"
+category: "deménagement-escalier"
 tags: ["déménagement", "escalier", "toulouse", "passages", "difficiles"]
 author: "Moverz Toulouse"
 featured: false

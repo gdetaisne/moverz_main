@@ -2,7 +2,7 @@
 title: "Déménagement Prix Toulouse : Tarifs Transparents et Compétitifs"
 description: "Prix déménagement à Toulouse : tarifs transparents et compétitifs. Calcul détaillé, pas de surprise, qualité garantie. Devis gratuit."
 date: "2024-01-15"
-category: "prix-demenagement"
+category: "prix-deménagement"
 tags: ["déménagement", "prix", "toulouse", "tarifs", "transparent"]
 author: "Moverz Toulouse"
 featured: false
