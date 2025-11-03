@@ -248,9 +248,6 @@ export default function BlogPage() {
           satellitePosts={satellitePosts}
         />
       )}
-          </div>
-        </section>
-      )}
 
       {/* CTA Premium */}
       <section className="section pt-20">
