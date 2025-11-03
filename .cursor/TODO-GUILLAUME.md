@@ -11,15 +11,22 @@
 
 ## 🔥 EN COURS MAINTENANT
 
-*Aucune tâche en cours - Session terminée*
+*Aucune tâche en cours*
+
+**Session terminée** : TASK-404-02 🔄 ROLLBACK (03/11/2025, 1h15)
+- Fix appliqué puis rollback après auto-critique
+- Bug cosmétique sans impact fonctionnel
+- **Leçon** : Toujours valider impact URLs avant commit
 
 **Dernière session** : TASK-404-01 ✅ TERMINÉ (01/11/2025, 2h30)
 
 ---
 
-## 📅 PLANIFIÉ DEMAIN
+## 📅 PLANIFIÉ PROCHAINE SESSION
 
-### TASK-404-02 : Harmonisation Technique (1h15-2h15)
+### ~~TASK-404-02~~ : SKIP (bug cosmétique sans effet)
+
+### TASK-404-03 : Décision Stratégique 104 Articles (1h)
 
 **Priorité** : P0 (BLOQUE tout le reste projet 404)
 

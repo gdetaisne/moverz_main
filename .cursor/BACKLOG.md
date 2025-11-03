@@ -59,24 +59,35 @@
 
 ---
 
-### [P0] [Temps: 1-2h] [Qui: Guillaume] TASK-404-02 : Harmonisation Technique
+### [P0] [Temps: 1-2h] [Qui: Guillaume] TASK-404-02 : Harmonisation Technique 🔄 ROLLBACK
 
 📁 **Doc** : `.cursor/tasks/TASK-404-02-harmonisation-technique/`
 
 **Type** : Refactor / Fix technique
 
-**Objectif** : Harmoniser base technique (cleanSlug, encoding accents, CATEGORY_MAPPING)
+**Objectif initial** : Harmoniser base technique (cleanSlug, encoding accents, CATEGORY_MAPPING)
 
-**Actions** :
-- [ ] Fix encoding accents (200 URLs GPT)
-- [ ] Standardiser cleanSlug() (11 villes)
-- [ ] Aligner CATEGORY_MAPPING
-- [ ] Tests validation
+**Actions réalisées** :
+- [x] Fix cleanSlug() Marseille/Lyon
+- [x] Retirer accents CATEGORY_MAPPING (11 villes)
+- [x] Tests validation (syntaxe)
+- [x] **Auto-critique** ✅
+- [x] **ROLLBACK** (validation insuffisante)
 
-**Dépendances** : TASK-404-01  
-**Bloque** : Toutes les autres tasks 404
+**Commits** :
+- [x] #8b6cf4a : Fix technique (revert après)
+- [x] #ee3e441 : Revert (fix allait changer ~167 URLs)
 
-**Statut** : 📋 PENDING
+**Découverte** : Bug initial était **cosmétique** (pas d'impact fonctionnel)
+
+**Recommandation** : **SKIP cette tâche** (bug sans effet, correction risquée)
+
+**Dépendances** : TASK-404-01 ✅  
+**Bloque** : ~~Toutes les autres tasks 404~~ → Plus bloquant
+
+**Statut** : 🔄 ROLLBACK + SKIP recommandé  
+**Temps réel** : 1h15min (45min fix + 30min analyse/rollback)  
+**Session** : 03 novembre 2025
 
 ---
 
