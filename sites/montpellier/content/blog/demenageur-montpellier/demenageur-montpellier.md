@@ -85,7 +85,7 @@ Le déménagement d'une entreprise, d'un cabinet professionnel ou d'un commerce 
 
 **Manutention spécialisée** : Certains équipements professionnels nécessitent un savoir-faire particulier : machines industrielles, équipements médicaux, serveurs informatiques, matériel de laboratoire. Nos déménageurs sont formés à ces manutentions délicates et disposent du matériel adapté.
 
-**Gestion des archives** : Les entreprises doivent conserver de nombreux documents pendant plusieurs années. Nous proposons un service d'archivage sécurisé avec inventaire précis, emballage dans des cartons spécifiques, et possibilité de [stockage temporaire dans notre garde-meuble à Montpellier](/blog/garde-meuble-montpellier/garde-meuble-montpellier-guide-complet) le temps d'installer vos nouveaux locaux.
+**Gestion des archives** : Les entreprises doivent conserver de nombreux documents pendant plusieurs années. Nous proposons un service d'archivage sécurisé avec inventaire précis, emballage dans des cartons spécifiques, et possibilité de [stockage temporaire dans notre garde-meuble à Montpellier](/blog/garde-meuble-montpellier/garde-meuble-montpellier) le temps d'installer vos nouveaux locaux.
 
 Pour votre [déménagement d'entreprise à Montpellier](/blog/demenagement-entreprise-montpellier/demenagement-entreprise-montpellier), nos équipes assurent un transfert sans interruption de votre activité grâce à une organisation rigoureuse et une discrétion totale.
 
@@ -97,7 +97,7 @@ Au-delà du déménagement standard, nous proposons des prestations spécialisé
 
 **Déménagement international** : Un projet d'expatriation depuis Montpellier vers l'étranger, ou au contraire une arrivée en France ? Nous organisons des [déménagements internationaux depuis Montpellier](/blog/demenagement-international-montpellier/demenagement-international-montpellier) vers toute l'Europe et au-delà. Nous gérons la logistique complexe : conteneur maritime ou aérien, formalités douanières, assurance internationale, entreposage temporaire si nécessaire. Notre réseau de partenaires internationaux garantit un service de qualité de bout en bout.
 
-**Garde-meuble et stockage** : Vous avez besoin d'entreposer vos affaires temporairement entre deux logements, pendant des travaux, ou dans l'attente de trouver votre nouveau lieu de vie à Montpellier ? Nous proposons une solution de [garde-meuble à Montpellier](/blog/garde-meuble-montpellier/garde-meuble-montpellier-guide-complet) sécurisée avec accès flexible. Nos espaces de stockage sont surveillés 24h/24, protégés contre le vol et l'incendie, et disponibles en différentes tailles selon votre volume. La location est mensuelle sans engagement de durée.
+**Garde-meuble et stockage** : Vous avez besoin d'entreposer vos affaires temporairement entre deux logements, pendant des travaux, ou dans l'attente de trouver votre nouveau lieu de vie à Montpellier ? Nous proposons une solution de [garde-meuble à Montpellier](/blog/garde-meuble-montpellier/garde-meuble-montpellier) sécurisée avec accès flexible. Nos espaces de stockage sont surveillés 24h/24, protégés contre le vol et l'incendie, et disponibles en différentes tailles selon votre volume. La location est mensuelle sans engagement de durée.
 
 **Débarras et nettoyage** : Si vous devez vider un appartement, une maison ou une cave encombrée avant votre déménagement, nous proposons un service de débarras. Nous évacuons les encombrants, le mobilier dont vous ne voulez plus, et pouvons organiser un nettoyage final pour rendre le logement propre lors de l'état des lieux de sortie.
 

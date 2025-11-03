@@ -117,7 +117,7 @@ La gestion des archives professionnelles nécessite un soin particulier.
 
 **Remise en place selon plan** : Les archives sont livrées et rangées dans vos nouveaux locaux d'archivage à Montpellier selon votre plan d'organisation, facilitant leur consultation ultérieure.
 
-**Stockage temporaire** : Si vos nouveaux locaux ne sont pas encore prêts à recevoir les archives, nous proposons un service de [garde-meuble sécurisé à Montpellier](/blog/garde-meuble-montpellier/garde-meuble-montpellier-guide-complet) avec accès contrôlé.
+**Stockage temporaire** : Si vos nouveaux locaux ne sont pas encore prêts à recevoir les archives, nous proposons un service de [garde-meuble sécurisé à Montpellier](/blog/garde-meuble-montpellier/garde-meuble-montpellier) avec accès contrôlé.
 
 ### Déménagement de locaux commerciaux et industriels
 

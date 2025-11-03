@@ -18,7 +18,7 @@ author: "Équipe Moverz Montpellier"
 # Garde-Meuble Étudiant Pas Cher à Montpellier : Guide Complet
 
 
-Pour comprendre tous les aspects du garde-meuble à Montpellier, consultez notre [guide complet du garde-meuble à Montpellier](/blog/garde-meuble-montpellier/garde-meuble-montpellier-guide-complet).
+Pour comprendre tous les aspects du garde-meuble à Montpellier, consultez notre [guide complet du garde-meuble à Montpellier](/blog/garde-meuble-montpellier/garde-meuble-montpellier).
 
 
 Pour les 70 000 étudiants montpelliérains, un garde-meuble de 1-2m² coûte 23-55€/mois selon l'acteur et la localisation, soit 69-165€ pour un stockage de 3 mois durant un stage d'été. Cette solution évite de vendre puis racheter mobilier (perte 300-800€) ou de payer un loyer vide durant une absence (400-650€/mois dans les quartiers étudiants de Boutonnet et Hôpitaux-Facultés).
