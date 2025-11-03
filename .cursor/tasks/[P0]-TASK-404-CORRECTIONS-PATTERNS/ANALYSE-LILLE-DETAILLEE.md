@@ -86,3 +86,4 @@ Mais fichier s'appelle : demenageur-lille/demenageur-lille-guide.md (pas -expert
 
 **Action** : Regarder dans les articles satellites Lille pour voir comment ils linkent
 
+

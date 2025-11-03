@@ -153,3 +153,4 @@ console.log(`   - /demenagement/{slug} (missing /blog/): ${patternCounts['missin
 console.log(`   - /blog/demenagement-etudiant-nice/: ${patternCounts['etudiant-inexistant']}`);
 console.log(`   - Catégories vides: ${patternCounts['empty-category']}`);
 
+

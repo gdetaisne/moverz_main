@@ -21,3 +21,4 @@ curl -I https://devis-demenageur-marseille.fr/blog/garde-meuble-marseille/garde-
 - [ ] Corrections validées
 - [ ] Deploy OK
 
+

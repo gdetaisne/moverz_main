@@ -297,3 +297,4 @@ node scripts/fix-remaining-404s.mjs
 **Résultat** : 97% des 404s corrigés (108/119)  
 **11 404s restants** : Documentés avec 3 solutions possibles
 
+

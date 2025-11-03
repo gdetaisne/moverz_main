@@ -89,3 +89,4 @@ curl -I https://devis-demenageur-nantes.fr/blog/demenagement-nantes/prix-demenag
 **Architecture** : Fourre-tout (identique Lille)  
 **Status** : 📋 TODO
 
+

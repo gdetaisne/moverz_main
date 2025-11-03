@@ -110,3 +110,4 @@ Pour chaque slug dans la liste 404 :
 - **CATEGORY_MAPPING** : Vérifier avant correction
 - **Test production** : Obligatoire avant commit massif
 
+

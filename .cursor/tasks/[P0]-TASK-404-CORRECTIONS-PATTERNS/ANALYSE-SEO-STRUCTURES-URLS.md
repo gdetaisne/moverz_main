@@ -228,3 +228,4 @@ A) Court terme : Fixer les 404s, garder structure actuelle
 B) Moyen terme : Nouvelles villes en Structure C optimale  
 C) Vision long terme : Tout migrer vers Structure C (avec redirections)
 
+

@@ -75,3 +75,4 @@ curl -I https://devis-demenageur-rouen.fr/blog/demenagement-rouen/prix-demenagem
 **Architecture** : Fourre-tout (identique Lille)  
 **Status** : 📋 TODO
 
+

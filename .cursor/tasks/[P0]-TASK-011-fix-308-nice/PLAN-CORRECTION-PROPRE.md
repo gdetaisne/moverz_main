@@ -260,3 +260,4 @@ curl -I https://devis-demenageur-nice.fr/blog/demenagement-nice/garde-meuble-nic
 
 Guillaume valide l'approche et on génère le script de correction automatique.
 
+

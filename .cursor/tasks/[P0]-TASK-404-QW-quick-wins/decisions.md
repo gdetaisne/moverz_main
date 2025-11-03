@@ -5,3 +5,4 @@
 - Scope strict Quick Wins: éviter changements structurels (redir massives) → reporter en TASK-404-07.
 
 
+

@@ -307,3 +307,4 @@ module.exports = {
 **Date validation** : 03/11/2025  
 **Prêt à démarrer** : ✅ Oui (quand Guillaume décide)
 
+

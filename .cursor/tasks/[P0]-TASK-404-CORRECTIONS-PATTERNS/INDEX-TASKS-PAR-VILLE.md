@@ -301,3 +301,4 @@ Prêt ? 🚀
 **Date** : 03/11/2025  
 **Contexte** : Pattern #5 Blog, post-Bordeaux
 
+

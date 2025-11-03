@@ -20,3 +20,4 @@ curl -I https://devis-demenageur-rennes.fr/blog/garde-meuble-rennes/garde-meuble
 - [ ] Patterns = 0
 - [ ] Deploy OK
 
+

@@ -6,3 +6,4 @@ Quick Wins pour réduire rapidement le volume de 404 détectées par le scan du 
 - Hotfix ponctuels (FAQ scope)
 
 
+

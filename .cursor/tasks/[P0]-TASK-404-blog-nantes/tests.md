@@ -29,3 +29,4 @@ grep -r "](/blog/garde-meuble-nantes/" . --include="*.md" | wc -l  # → 0
 - [ ] Git diff propre
 - [ ] Deploy OK
 
+

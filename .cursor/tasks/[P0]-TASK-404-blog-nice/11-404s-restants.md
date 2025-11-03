@@ -155,3 +155,4 @@ redirects: async () => [
 
 **Action recommandée** : Créer les 5 pages de catégories (P2, après tâches P0/P1)
 
+

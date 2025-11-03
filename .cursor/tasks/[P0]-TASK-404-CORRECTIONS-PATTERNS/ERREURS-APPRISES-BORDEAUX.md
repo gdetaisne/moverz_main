@@ -259,3 +259,4 @@ grep -r "{lien-casse}" . --include="*.md" | wc -l
 
 **CE DOCUMENT DOIT ÊTRE LU PAR CHAQUE CURSOR TRAVAILLANT SUR UNE VILLE**
 
+

@@ -37,3 +37,4 @@ cat sites/toulouse/next.config.mjs | grep -A50 "redirects"
 - [ ] 13 liens résolus
 - [ ] Deploy OK
 
+
