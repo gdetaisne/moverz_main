@@ -11,6 +11,9 @@
 - [x] SHA : `bc3a95ba` - Optimize titles 11 cities
 - [x] SHA : `59b965f1` - Canonical URL trailing slash GSC
 
+## 03 novembre 2025
+- [x] SHA : `a9000d3` - docs(task-014): analyse SERP + plan correctifs metadata (LocalPage/contact) + QA
+
 **Pushed** : ✅ origin/main (30-31 octobre 2025)
 
 ---

@@ -46,7 +46,7 @@ Correction critique des sitemaps 11 villes : URLs générées avec category/slug
 - Attendu J+7 : 37 → 800+ pages indexées (+2000%)
 - Leçon deploy workflow documentée (évite erreurs futures)
 
-**Commits** : `697a477`, `dd4ca89`, `69c23d4`, `1dddf5f`, `c09b8fb`, `d813924`
+**Commits** : `697a477`, `dd4ca89`, `69c23d4`, `4e32035`, `1dddf5f`, `c09b8fb`, `d813924`
 
 **Action post-code (Guillaume)** :
 - Resubmit Search Console (11 villes, 30min)

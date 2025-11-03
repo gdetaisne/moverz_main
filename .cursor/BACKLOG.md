@@ -10,7 +10,9 @@
 
 ## ⚠️ TÂCHES INCOMPLÈTES (TOUJOURS PRIORITAIRES)
 
-*Aucune tâche incomplet actuellement - Tâches 404 restructurées en 9 sous-tâches (voir section dédiée)*
+1. [P0]-TASK-404-blog-lille — ERREUR À CORRIGER (commit `58053c4` + sync `c973717`)  
+   - État: ⚠️ Corrections probablement incorrectes (catégories frontmatter satellites).  
+   - Plan: Revert commits → Analyse structure → Mapping correct → Re-correction (méthode Nice).
 
 ---
 

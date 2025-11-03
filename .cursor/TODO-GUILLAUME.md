@@ -16,6 +16,14 @@
 **Dernière session** : TASK-404-blog-nice ✅ FINALISÉ (03/11/2025, 3h)  
 **Session précédente** : TASK-404-blog-lille ⚠️ INCOMPLET (03/11/2025, 1h30)
 
+### ✅ FAIT AUJOURD'HUI (03/11/2025)
+- TASK-025 (Sitemaps 11 villes) — commits documentés (incl. `4e32035`), DONE mis à jour
+- TASK-404-blog-nice — commits documentés (`2e3f5f6`, `e27484b`, `7747ef4`, `4b8e3c9`)
+- TASK-012 (villes hardcodées) — commits 7 villes + Lille ajoutés
+- TASK-013 (maillage interne) — optimisations 6 villes ajoutées
+- TASK-014 (metadata) — analyse SERP doc ajoutée (`a9000d3`)
+- Création dossier `.cursor/tasks/[P0]-TASK-404-QW-quick-wins/` + journal/commits/tests
+
 
 ---
 
