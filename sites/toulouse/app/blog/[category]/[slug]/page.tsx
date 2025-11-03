@@ -4,6 +4,9 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 import Breadcrumbs from '@/components/Breadcrumbs';
 import { getCanonicalUrl } from '@/lib/canonical-helper';
+import ReactMarkdown from 'react-markdown';
+import remarkGfm from 'remark-gfm';
+import rehypeRaw from 'rehype-raw';
 
 interface BlogPostPageProps {
   params: {
@@ -85,23 +88,20 @@ export default function BlogPostPage({ params }: BlogPostPageProps) {
   // Combiner et limiter à 6 articles max
   const recommendedPosts = [...sameCategoryPosts, ...connectedPosts].slice(0, 6);
 
-  // Convert markdown content to HTML (simplified version)
-  const formatContent = (content: string) => {
-    return content
-      .replace(/^# (.*$)/gim, '<h1 class="text-3xl font-bold text-white mb-6 mt-8 first:mt-0">$1</h1>')
-      .replace(/^## (.*$)/gim, '<h2 class="text-2xl font-semibold text-white mb-4 mt-8">$1</h2>')
-      .replace(/^### (.*$)/gim, '<h3 class="text-xl font-medium text-white mb-3 mt-6">$1</h3>')
-      .replace(/^\- \[ \] (.*$)/gim, '<li class="flex items-start mb-2 text-white/90"><span class="inline-block w-4 h-4 border border-white/30 rounded mr-2 mt-1"></span>$1</li>')
-      .replace(/^\- \[x\] (.*$)/gim, '<li class="flex items-start mb-2 text-white/90"><span class="inline-block w-4 h-4 bg-[#6bcfcf] rounded mr-2 mt-1"></span>$1</li>')
-      .replace(/^\- (.*$)/gim, '<li class="mb-3 text-white/90 ml-4">• $1</li>')
-      .replace(/\*\*(.*?)\*\*/g, '<strong class="font-semibold text-white">$1</strong>')
-      .replace(/\*(.*?)\*/g, '<em class="italic text-white/95">$1</em>')
-      .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" class="text-[#6bcfcf] hover:text-[#2b7a78] underline font-medium transition-colors">$1</a>')
-      .replace(/\n\n/g, '</p><p class="mb-5 text-white/90 leading-relaxed text-base">')
-      .replace(/\n/g, '<br>');
+  // ReactMarkdown custom components for styling
+  const markdownComponents = {
+    h1: ({node, ...props}: any) => <h1 className="text-3xl font-bold text-white mb-6 mt-8 first:mt-0" {...props} />,
+    h2: ({node, ...props}: any) => <h2 className="text-2xl font-semibold text-white mb-4 mt-8" {...props} />,
+    h3: ({node, ...props}: any) => <h3 className="text-xl font-medium text-white mb-3 mt-6" {...props} />,
+    p: ({node, ...props}: any) => <p className="mb-5 text-white/90 leading-relaxed text-base" {...props} />,
+    ul: ({node, ...props}: any) => <ul className="list-none ml-6 mb-5 space-y-2" {...props} />,
+    ol: ({node, ...props}: any) => <ol className="list-decimal ml-6 mb-5 space-y-2 text-white/90" {...props} />,
+    li: ({node, ...props}: any) => <li className="text-white/90 pl-2 relative before:content-['•'] before:absolute before:-left-6 before:text-white/60 before:font-bold" {...props} />,
+    strong: ({node, ...props}: any) => <strong className="font-semibold text-white" {...props} />,
+    em: ({node, ...props}: any) => <em className="italic text-white/95" {...props} />,
+    a: ({node, ...props}: any) => <a className="text-[#6bcfcf] hover:text-[#2b7a78] underline font-medium transition-colors" {...props} />,
+    blockquote: ({node, ...props}: any) => <blockquote className="border-l-4 border-[#6bcfcf] pl-4 italic text-white/80 my-4" {...props} />,
   };
-
-  const formattedContent = formatContent(post.content);
   
   // Determine category label
   const categoryLabels: { [key: string]: string } = {
@@ -165,12 +165,15 @@ export default function BlogPostPage({ params }: BlogPostPageProps) {
       <section className="section">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="bg-white/5 backdrop-blur-sm border border-white/10 rounded-2xl p-6 md:p-10">
-            <article 
-              className="prose prose-lg max-w-none"
-              dangerouslySetInnerHTML={{ 
-                __html: `<p class="mb-5 text-white/90 leading-relaxed text-base">${formattedContent}</p>` 
-              }}
-            />
+            <article className="prose prose-lg max-w-none markdown-content">
+              <ReactMarkdown 
+                remarkPlugins={[remarkGfm]}
+                rehypePlugins={[rehypeRaw]}
+                components={markdownComponents}
+              >
+                {post.content}
+              </ReactMarkdown>
+            </article>
           </div>
 
         {/* CTA */}

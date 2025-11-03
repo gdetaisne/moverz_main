@@ -11,7 +11,29 @@
 
 ## 🔥 EN COURS MAINTENANT
 
-*Aucune tâche en cours - Prête à démarrer !*
+### [P3]-TASK-005 : Audit Qualité Blogs - Amélioration Contenu (10-15h)
+
+**Priorité** : P3 (Nice-to-have)  
+**Type** : Content / SEO
+
+**Objectif** : Améliorer qualité contenu blog (articles courts, maillage, FAQ)
+
+**Actions** :
+1. Audit global (identifier articles à améliorer)
+2. Enrichir contenu articles courts (<800 mots → 1000-1200)
+3. Améliorer maillage interne (liens piliers + satellites)
+4. Ajouter FAQ stratégiques (rich snippets)
+
+**Documentation** : `.cursor/tasks/[P3]-TASK-005-audit-qualite-blogs/`
+
+**Démarrée le** : 2025-11-03
+
+**Prochaines étapes** :
+- Décider par où commencer (audit vs enrichissement direct)
+- Choisir ville(s) prioritaire(s) (Nice ? Top 3 ? Toutes ?)
+- Définir métriques succès
+
+---
 
 ---
 

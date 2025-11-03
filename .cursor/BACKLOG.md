@@ -537,20 +537,23 @@ Optimisation complète métadonnées SEO pour améliorer CTR et positionnement G
 
 ## 🟢 NICE-TO-HAVE (P3)
 
-### [P3] [Temps: 10-15h] [Qui: Associée] TASK-005 : Audit qualité blogs - Amélioration contenu
+### [P3] [Temps: 10-15h] [Qui: Lucie] TASK-005 : Audit qualité blogs - Amélioration contenu
 
-📁 **Doc** : `.cursor/tasks/TASK-005-audit-qualite-blogs/`
+📁 **Doc** : `.cursor/tasks/[P3]-TASK-005-audit-qualite-blogs/`
 
 **Type** : Content / SEO
 
 **Contexte** : Articles courts (<800 mots), maillage faible, FAQ manquantes
 
-**À faire** :
-- Enrichir articles courts
-- Améliorer maillage interne
-- Ajouter FAQ
+**Actions** :
+- Enrichir articles courts (<800 → 1000-1200 mots)
+- Améliorer maillage interne (piliers + satellites)
+- Ajouter FAQ (rich snippets)
 
-**Statut** : 📋 À faire
+**Statut** : 🔄 EN COURS
+
+**Démarrée le** : 03 novembre 2025  
+**Assignée à** : Lucie
 
 ---
 
@@ -583,7 +586,7 @@ Voir DONE.md
 
 **⚠️ INCOMPLET** : 0 tâches
 
-**🎯 PROJET 404** : 9 tâches (1 EN COURS, 8 PENDING)
+**🎯 PROJET 404** : 9 tâches (1 TERMINÉ, 8 PENDING)
 - TASK-404-01 : Audit structure (EN COURS)
 - TASK-404-02 à 404-09 : PENDING (séquence logique)
 
@@ -594,12 +597,16 @@ Voir DONE.md
 - TASK-013 : Internal linking → Homepage (P2, 75% fait)
 - TASK-014 : Optimisation Metadata (P2, 80% fait)
 - TASK-009 : Amélioration SEO Schema (P2, 70% fait)
-- TASK-404-01 : Audit structure 404 (P0, EN COURS)
+- TASK-005 : Audit qualité blogs (P3, Lucie - vient de démarrer)
 
 **✅ À ARCHIVER** : 2 tâches
 - TASK-008, TASK-010
 
-**Total backlog actif** : 15 tâches (6 EN COURS + 1 TERMINÉ + 8 PENDING projet 404)
+**Total backlog actif** : 15 tâches (7 EN COURS + 1 TERMINÉ + 8 PENDING projet 404)
+
+**Répartition** :
+- Guillaume : 6 tâches EN COURS
+- Lucie : 1 tâche EN COURS (TASK-005)
 
 ---
 
