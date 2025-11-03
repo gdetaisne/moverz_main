@@ -74,7 +74,7 @@ Un déménagement à Nice implique **25-40 démarches administratives** (résili
 - Maternelle/Primaire : Mairie quartier (metropole.nice.fr)
 - Collège : Académie Nice (ac-nice.fr)
 - Lycée : Rectorat Nice
-- [Déménager avec enfants Nice](/blog/satellites/demenagement-etudiant-pas-cher-nice/)
+- [Déménager avec enfants Nice](/blog/demenagement-etudiant-nice/demenagement-etudiant-nice-guide)
 
 **☐ Commander cartons/matériel**
 - 30-50 cartons (F2), 50-80 (F3)
