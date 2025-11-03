@@ -3,15 +3,17 @@ import { getCityDataFromUrl } from '@/lib/cityData';
 import { env } from '@/lib/env';
 import { getCanonicalUrl } from '@/lib/canonical-helper';
 
+const city = getCityDataFromUrl(env.SITE_URL);
+
 export const metadata: Metadata = {
-  title: 'Contact Déménagement lille | Devis Gratuits | Moverz',
-  description: 'Contactez nos experts déménageurs à lille. Estimation gratuite en 30 min, 5 devis précis sous 7 jours.',
+  title: `Contact Déménagement ${city.nameCapitalized} | Devis Gratuits | Moverz`,
+  description: `Contactez nos experts déménageurs à ${city.nameCapitalized}. Estimation gratuite en 30 min, 5 devis précis sous 7 jours.`,
   alternates: {
     canonical: getCanonicalUrl('contact'),
   },
   openGraph: {
-    title: 'Contact Déménagement Lille',
-    description: 'Contactez nos experts déménageurs à Lille',
+    title: `Contact Déménagement ${city.nameCapitalized}`,
+    description: `Contactez nos experts déménageurs à ${city.nameCapitalized}`,
     url: getCanonicalUrl('contact'),
     type: 'website',
   },
