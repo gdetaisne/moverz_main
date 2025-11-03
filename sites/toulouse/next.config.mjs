@@ -73,33 +73,8 @@ const nextConfig = {
 
       // CATÉGORIES BLOG RÉELLEMENT VIDES → /blog (Fix CSV 30/10/2025)
       { source: '/blog/devis', destination: '/blog', permanent: true },
-
-      // CATÉGORIES ACCENTUÉES → SANS ACCENTS (Pattern #7 - Fix 404s accents)
-      { source: '/blog/déménagement-economique/:slug*', destination: '/blog/demenagement-economique/:slug*', permanent: true },
-      { source: '/blog/dem%C3%A9nagement-economique/:slug*', destination: '/blog/demenagement-economique/:slug*', permanent: true },
-      { source: '/blog/déménagement-entreprise/:slug*', destination: '/blog/demenagement-entreprise/:slug*', permanent: true },
-      { source: '/blog/dem%C3%A9nagement-entreprise/:slug*', destination: '/blog/demenagement-entreprise/:slug*', permanent: true },
-      { source: '/blog/déménageur-professionnel/:slug*', destination: '/blog/demenageur-professionnel/:slug*', permanent: true },
-      { source: '/blog/dem%C3%A9nageur-professionnel/:slug*', destination: '/blog/demenageur-professionnel/:slug*', permanent: true },
-      { source: '/blog/prix-déménagement/:slug*', destination: '/blog/prix-demenagement/:slug*', permanent: true },
-      { source: '/blog/prix-dem%C3%A9nagement/:slug*', destination: '/blog/prix-demenagement/:slug*', permanent: true },
-      { source: '/blog/aide-déménagement/:slug*', destination: '/blog/aide-demenagement/:slug*', permanent: true },
-      { source: '/blog/aide-dem%C3%A9nagement/:slug*', destination: '/blog/aide-demenagement/:slug*', permanent: true },
-      { source: '/blog/assurance-déménagement/:slug*', destination: '/blog/assurance-demenagement/:slug*', permanent: true },
-      { source: '/blog/assurance-dem%C3%A9nagement/:slug*', destination: '/blog/assurance-demenagement/:slug*', permanent: true },
-      { source: '/blog/avis-déménagement/:slug*', destination: '/blog/avis-demenagement/:slug*', permanent: true },
-      { source: '/blog/avis-dem%C3%A9nagement/:slug*', destination: '/blog/avis-demenagement/:slug*', permanent: true },
-      { source: '/blog/déménagement-ascenseur/:slug*', destination: '/blog/demenagement-ascenseur/:slug*', permanent: true },
-      { source: '/blog/dem%C3%A9nagement-ascenseur/:slug*', destination: '/blog/demenagement-ascenseur/:slug*', permanent: true },
-      { source: '/blog/déménagement-avion/:slug*', destination: '/blog/demenagement-avion/:slug*', permanent: true },
-      { source: '/blog/dem%C3%A9nagement-avion/:slug*', destination: '/blog/demenagement-avion/:slug*', permanent: true },
-      { source: '/blog/déménagement-bateau/:slug*', destination: '/blog/demenagement-bateau/:slug*', permanent: true },
-      { source: '/blog/dem%C3%A9nagement-bateau/:slug*', destination: '/blog/demenagement-bateau/:slug*', permanent: true },
-      { source: '/blog/déménagement-etudiant/:slug*', destination: '/blog/demenagement-etudiant/:slug*', permanent: true },
-      { source: '/blog/dem%C3%A9nagement-etudiant/:slug*', destination: '/blog/demenagement-etudiant/:slug*', permanent: true },
     ];
   }
 };
-
 
 export default nextConfig;
