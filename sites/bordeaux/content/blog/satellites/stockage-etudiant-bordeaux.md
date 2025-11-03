@@ -191,6 +191,24 @@ Le stockage temporaire est souvent nécessaire lors d'un [déménagement étudia
 
 ---
 
+## FAQ : Stockage Étudiant Bordeaux
+
+### Quelle est la solution de stockage la moins chère pour étudiants ?
+
+La **solution la moins chère** : **stockage entre étudiants** 5-15€/mois (groupes Facebook "Étudiants Bordeaux", BDE universités), **stockage particuliers** 10-20€/mois (BoxMySpace, StockMyBox), **garde-meuble low-cost** 20-40€/mois (U-Storage, Box à la Cart). Économie : 10-20€/mois vs 30-40€ garde-meubles classiques = 120-240€/été. Alternative gratuite : stockage chez proches, cave résidence étudiante. Consultez notre [guide garde-meuble](/blog/garde-meuble/guide).
+
+### Combien coûte le stockage d'une chambre étudiante l'été ?
+
+**Stockage chambre étudiante** (1-2m³) **3 mois été** : garde-meuble classique 20-30€/mois = 60-90€ total, stockage particuliers 10-15€/mois = 30-45€ total, stockage entre étudiants 5-10€/mois = 15-30€ total. Volume moyen : bureau + lit + cartons affaires = 1,5-2m³. Optimisation : vendez/donnez meubles bas gamme, gardez seulement objets valeur/affaires personnelles. Comparé relouer logement été : 1 200€ (400€/mois x3) vs stockage 60€ = 1 140€ économie.
+
+### Les garde-meubles sont-ils sécurisés à Bordeaux ?
+
+Oui, **garde-meubles pro sécurisés** : Shurgard/Box à la Cart = vidéosurveillance 24/7, accès contrôlé badge/code, alarmes individuelles, bâtiments gardiennés. Assurance incluse : incendie minimum. **Stockage particuliers** : sécurité variable, vérifiez conditions (cave fermée, assurance habitation propriétaire), demandez photos espace, inventaire signé. Red flags : prix ultra-bas, pas de contrat écrit, accès non sécurisé. Toujours visiter avant, vérifier avis.
+
+### Où stocker près du campus de Talence ?
+
+**Solutions Talence/Pessac** (campus Bordeaux Montaigne/Sciences) : **U-Storage Pessac** (20-30€/mois, 5 min campus), **Box à la Cart Talence** (25-35€/mois, proche tram B), **stockage particuliers** Forums Étudiants Bordeaux (10-20€/mois). Transport : tram B direct, accessibilité optimale. Alternative : BDE campus propose parfois stockage collectif mutualisé (économies groupe). Évitez Bordeaux-Lac (trop loin, transports compliqués depuis Talence).
+
 ## Besoin d'aide pour votre stockage étudiant ?
 
 Organiser le stockage de vos affaires pendant votre déménagement étudiant à Bordeaux demande du temps et de l'organisation. Si vous préférez vous concentrer sur vos études, notre équipe de déménageurs professionnels peut vous accompagner dans cette étape.

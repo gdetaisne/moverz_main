@@ -60,6 +60,24 @@ Même pour un déménagement économique, comparer plusieurs devis reste essenti
 
 Vérifiez toujours les conditions générales, notamment les assurances, les frais de stationnement et les majorations éventuelles. Un devis détaillé et transparent vaut mieux qu'une offre floue qui réserve des mauvaises surprises.
 
+## FAQ : Astuces Déménagement Pas Cher Bordeaux
+
+### Quelle est la meilleure période pour déménager pas cher à Bordeaux ?
+
+La **meilleure période** est **automne-hiver** (octobre-mars) : tarifs -30-40% vs haute saison juillet-août, disponibilité optimale, négociation facilitée. Évitez fins de mois (rentrée étudiante septembre, départs juillet). Jour optimal : mardi-jeudi (weekend = majorations 15-25%). Un déménagement 15m³ : 1 500€ juillet vs 900€ février = 600€ économie. Flexibilité dates = meilleur levier négociation. Consultez notre [guide déménagement pas cher](/blog/pas-cher/guide).
+
+### Comment économiser 50% sur son déménagement bordelais ?
+
+**Cumul d'astuces** : 1) Période creuse automne-hiver (-30-40%), 2) DIY location utilitaire vs pro (-60-70%), 3) Groupage (-40-50%), 4) Cartons gratuits Ressourcerie/supermarchés (-60-100€), 5) Désencombrement Le Bon Coin (-10-20% volume), 6) Entraide Yoojo/amis (-200-400€), 7) Jour semaine (-15-25%). Exemple : 1 500€ haute saison weekend pro → 750€ hiver semaine DIY groupé = 750€ (50%) économie. Anticipation 2-3 mois = clé succès.
+
+### Les plateformes d'entraide sont-elles légales à Bordeaux ?
+
+Oui, **entraide légale** si respecte cadre : **Yoojo, AlloVoisins** = prestataires déclarés (auto-entrepreneurs, micro-entreprise), facturation légale, assurances RC pro. Tarif moyen : 15-25€/h/personne = 120-200€/jour 2 pers. **Attention** : travail non déclaré = illégal (amendes, responsabilité accidents). Vérifiez toujours statut légal prestataire, assurances, contrat écrit. Alternative sûre : amis/famille bénévoles (couverts votre assurance habitation, prévenir assureur).
+
+### Comment obtenir l'autorisation de stationnement à Bordeaux ?
+
+**Autorisation stationnement** Bordeaux : demande mairie Bordeaux (en ligne bordeaux.fr ou guichet), délai 7-15 jours minimum, gratuit centre-ville/payant certaines zones (20-50€), espace nécessaire 10m camionnette/15m camion. Documents : date déménagement, adresse précise, type véhicule. Zones très demandées (centre historique, Chartrons) : anticipez 3-4 semaines. **Sans autorisation** : PV 135€ + blocage déménagement. Prévoyez panneaux signalisation fournis mairie.
+
 En appliquant cette stratégie et en planifiant soigneusement chaque étape, vous pourrez organiser un déménagement à Bordeaux sans dépasser votre budget. L'anticipation, la comparaison des offres et l'utilisation des solutions alternatives locales sont les clés d'un déménagement économique et réussi.
 
 **Besoin d'un devis personnalisé pour votre déménagement à Bordeaux ?** [Demandez votre devis gratuit](https://moverz-bordeaux.fr/devis) et découvrez nos solutions adaptées à votre budget.
