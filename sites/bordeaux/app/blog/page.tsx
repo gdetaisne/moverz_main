@@ -4,6 +4,7 @@ import Link from 'next/link';
 import Breadcrumbs from '@/components/Breadcrumbs';
 import { getCanonicalUrl } from '@/lib/canonical-helper';
 
+import { SatelliteArticlesSection } from '@/components/blog/SatelliteArticlesSection';
 export const metadata: Metadata = {
   title: "Blog Déménagement Marseille - Guides & Conseils Experts | Moverz",
   description: "Guides complets et conseils d'experts pour réussir votre déménagement à Marseille. Astuces budget, checklist, comparatifs, conseils pratiques. Articles rédigés par des professionnels.",
@@ -65,7 +66,7 @@ function getImageForPost(post: any, index: number) {
 export default function BlogPage() {
   const allPosts = getAllBlogPosts();
   const pilierPosts = getPilierPosts();
-  const satellitePosts = allPosts.filter(post => post.type === 'satellite').slice(0, 9);
+  const satellitePosts = allPosts.filter(post => post.type === 'satellite');
 
   return (
     <main className="bg-hero min-h-screen">
@@ -235,89 +236,13 @@ export default function BlogPage() {
         </div>
       </section>
 
-      {/* Articles Satellites - Style Magazine */}
+      {/* Articles Satellites - Style Magazine (Client Component) */}
       {satellitePosts.length > 0 && (
-        <section className="section pt-20">
-          <div className="container">
-            <div className="mb-12 text-center">
-              <span className="inline-block px-4 py-2 rounded-full bg-white/5 text-white/70 text-sm font-semibold mb-4">
-                CONSEILS & ASTUCES
-              </span>
-              <h2 className="text-4xl font-bold text-white mb-4">
-                📝 Articles Pratiques
-              </h2>
-              <p className="text-lg text-white/70 max-w-2xl mx-auto">
-                Découvrez nos meilleurs conseils pour chaque aspect de votre déménagement
-              </p>
-            </div>
-            
-            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-6xl mx-auto">
-              {satellitePosts.map((post, index) => {
-                const image = getImageForPost(post, index);
-                
-                return (
-                  <Link 
-                    key={post.slug} 
-                    href={`/blog/${post.cleanCategory}/${post.cleanSlug}`}
-                    className="group"
-                  >
-                    <article className="bg-white/5 backdrop-blur-sm border border-white/10 rounded-2xl overflow-hidden hover:border-white/30 hover:scale-105 hover:shadow-2xl hover:shadow-[#6bcfcf]/10 transition-all duration-300 h-full">
-                      {/* Image avec overlay gradient */}
-                      <div className="relative h-56 overflow-hidden">
-                        <img 
-                          src={image}
-                          alt={post.title}
-                          className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
-                        />
-                        <div className="absolute inset-0 bg-gradient-to-t from-[#04163a] via-[#04163a]/50 to-transparent"></div>
-                        
-                        {/* Badge catégorie */}
-                        <div className="absolute top-4 left-4">
-                          <span className="inline-block px-3 py-1 rounded-full bg-[#6bcfcf]/90 backdrop-blur-sm text-[#04163a] text-xs font-bold">
-                            Article
-                          </span>
-                        </div>
-                      </div>
-                      
-                      {/* Contenu */}
-                      <div className="p-6">
-                        <h3 className="text-lg font-bold text-white group-hover:text-[#6bcfcf] transition-colors mb-3 line-clamp-2 leading-snug">
-                          {post.title}
-                        </h3>
-                        
-                        <div className="flex items-center justify-between text-xs text-white/50">
-                          <span className="flex items-center gap-1">
-                            <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
-                            </svg>
-                            {Math.ceil((post.word_count || 0) / 200)} min
-                          </span>
-                          <span className="text-[#6bcfcf] font-medium group-hover:text-white flex items-center gap-1">
-                            Lire
-                            <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-                            </svg>
-                          </span>
-                        </div>
-                      </div>
-                    </article>
-                  </Link>
-                );
-              })}
-            </div>
-
-            {/* Bouton Voir Plus */}
-            {allPosts.filter(p => p.type === 'satellite').length > 9 && (
-              <div className="mt-12 text-center">
-                <Link
-                  href="/blog/"
-                  className="inline-flex items-center gap-3 px-8 py-4 rounded-2xl bg-white/5 border border-white/20 text-white font-semibold hover:bg-white/10 hover:border-[#6bcfcf]/50 hover:scale-105 transition-all duration-300"
-                >
-                  Voir tous les articles
-                  <span className="text-[#6bcfcf]">({allPosts.filter(p => p.type === 'satellite').length})</span>
-                </Link>
-              </div>
-            )}
+        <SatelliteArticlesSection 
+          satellitePosts={satellitePosts}
+          getImageForPost={getImageForPost}
+        />
+      )}
           </div>
         </section>
       )}
