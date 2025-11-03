@@ -44,7 +44,7 @@ Les ports, particulièrement sensibles aux conditions météorologiques, peuvent
 
 Les grèves portuaires, bien que rares, peuvent également générer des retards considérables. Ces conflits sociaux, souvent imprévisibles, peuvent retarder la livraison de plusieurs semaines. Cette contrainte, particulièrement importante pour les déménagements urgents, nécessite des solutions de repli et une communication étroite avec le transporteur.
 
-## Les [formalités douanières](/blog/international/formalites-douanieres-demenagement-international) : anticiper les délais
+## Les [formalités douanières](/blog/demenagement-international-bordeaux/formalites-douanieres-demenagement-international) : anticiper les délais
 
 Les formalités douanières, obligatoires pour les destinations hors Union européenne, peuvent générer des retards importants. Les pays comme les États-Unis ou le Canada exigent une déclaration préalable qui peut retarder la livraison de plusieurs jours. Cette contrainte, souvent sous-estimée, peut compromettre les dates d'arrivée prévues.
 

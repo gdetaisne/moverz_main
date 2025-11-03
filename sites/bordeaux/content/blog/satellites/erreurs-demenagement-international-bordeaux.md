@@ -38,7 +38,7 @@ Les normes internationales, particulièrement la norme ISPM 15 pour les caisses 
 
 ## Les délais irréalistes : compromettre la planification
 
-Les délais irréalistes, souvent sous-estimés par les expatriés, peuvent compromettre la planification du déménagement international. Les [formalités douanières](/blog/international/formalites-douanieres-demenagement-international), particulièrement complexes pour les destinations lointaines, nécessitent souvent plusieurs semaines de traitement. Cette contrainte, souvent négligée, peut retarder le départ et générer des coûts de stockage supplémentaires.
+Les délais irréalistes, souvent sous-estimés par les expatriés, peuvent compromettre la planification du déménagement international. Les [formalités douanières](/blog/demenagement-international-bordeaux/formalites-douanieres-demenagement-international), particulièrement complexes pour les destinations lointaines, nécessitent souvent plusieurs semaines de traitement. Cette contrainte, souvent négligée, peut retarder le départ et générer des coûts de stockage supplémentaires.
 
 Les contraintes portuaires, particulièrement importantes en période de forte demande, peuvent générer des retards de plusieurs semaines. Les ports, confrontés à une congestion importante, peuvent retarder la livraison et compromettre les plans d'installation. Cette contrainte, particulièrement importante pour les déménagements estivaux, nécessite une marge de sécurité importante dans la planification.
 

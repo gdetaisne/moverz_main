@@ -25,7 +25,7 @@ Un déménagement étudiant réussi commence par une organisation rigoureuse. Ce
 - [ ] **Résilier votre abonnement actuel** : prévenez votre propriétaire ou colocataire dans les délais
 - [ ] **Organiser le transfert des services** : électricité, gaz, internet, assurance habitation
 - [ ] **Mettre à jour votre adresse** : banque, mutuelle, université, famille
-- [ ] **Vérifier les [aides financières](/blog/etudiant/aide-financiere-demenagement-etudiant)** : CAF, bourses, aides locales bordelaises
+- [ ] **Vérifier les [aides financières](/blog/demenagement-etudiant-bordeaux/aide-financiere-demenagement-etudiant)** : CAF, bourses, aides locales bordelaises
 
 ### Commencer le tri et la préparation
 - [ ] **Faire l'inventaire de vos affaires** : dressez une liste de ce que vous emportez, vendez ou donnez
@@ -138,4 +138,4 @@ Nous connaissons parfaitement les spécificités du déménagement étudiant et 
 
 ---
 
-*Cet article complète notre [guide complet du déménagement étudiant à Bordeaux](/blog/demenagement-etudiant-bordeaux/guide-complet). Découvrez également nos conseils pour un [déménagement pas cher](/blog/etudiant/demenagement-etudiant-pas-cher) et nos astuces pour [éviter les erreurs courantes](/blog/etudiant/erreurs-demenagement-etudiant).*
+*Cet article complète notre [guide complet du déménagement étudiant à Bordeaux](/blog/demenagement-etudiant-bordeaux/guide-complet). Découvrez également nos conseils pour un [déménagement pas cher](/blog/demenagement-etudiant-bordeaux/demenagement-etudiant-pas-cher) et nos astuces pour [éviter les erreurs courantes](/blog/demenagement-etudiant-bordeaux/erreurs-demenagement-etudiant).*

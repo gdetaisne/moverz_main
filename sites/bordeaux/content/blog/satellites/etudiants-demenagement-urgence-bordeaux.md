@@ -56,7 +56,7 @@ Il est essentiel de conserver tous les justificatifs de votre ancien et nouveau 
 
 ## Les solutions d'urgence spécifiques
 
-En cas d'urgence absolue, plusieurs solutions spécifiques s'offrent aux étudiants. Les services sociaux de votre université peuvent vous orienter vers des solutions d'hébergement temporaire ou des [aides financières](/blog/etudiant/aide-financiere-demenagement-etudiant) pour faire face aux coûts d'un déménagement urgent.
+En cas d'urgence absolue, plusieurs solutions spécifiques s'offrent aux étudiants. Les services sociaux de votre université peuvent vous orienter vers des solutions d'hébergement temporaire ou des [aides financières](/blog/demenagement-etudiant-bordeaux/aide-financiere-demenagement-etudiant) pour faire face aux coûts d'un déménagement urgent.
 
 Les associations étudiantes peuvent également vous aider à trouver des solutions d'entraide ou des professionnels proposant des tarifs préférentiels. Cette solidarité étudiante peut être précieuse dans les situations difficiles.
 

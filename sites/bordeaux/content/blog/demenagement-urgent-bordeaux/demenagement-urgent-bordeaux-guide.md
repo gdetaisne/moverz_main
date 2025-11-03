@@ -90,7 +90,7 @@ L'utilisation des réseaux d'entraide locaux, particulièrement développés dan
 
 ## FAQ - Questions fréquentes sur les déménagements urgents
 
-**Peut-on vraiment [déménager en 48h](/blog/urgent/demenager-48h-realites-solutions) à Bordeaux ?**
+**Peut-on vraiment [déménager en 48h](/blog/demenagement-urgent-bordeaux/demenager-48h-realites-solutions) à Bordeaux ?**
 
 Oui, c'est techniquement possible avec les services spécialisés, mais cela nécessite une organisation parfaite et implique des surcoûts importants (30-50% de majoration). Les entreprises d'urgence peuvent mobiliser des équipes en quelques heures, mais la qualité du service peut être compromise par la rapidité d'exécution.
 

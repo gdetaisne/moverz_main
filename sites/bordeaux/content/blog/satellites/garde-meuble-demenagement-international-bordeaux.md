@@ -30,7 +30,7 @@ Les biens destinés à l'export nécessitent des conditions de stockage particul
 
 Les conditions de sécurité doivent également être renforcées, avec des accès contrôlés et des inventaires détaillés. Ces mesures sont nécessaires pour respecter les exigences douanières et faciliter les démarches d'exportation.
 
-## Les [formalités douanières](/blog/international/formalites-douanieres-demenagement-international) et administratives
+## Les [formalités douanières](/blog/demenagement-international-bordeaux/formalites-douanieres-demenagement-international) et administratives
 
 Le stockage avant export nécessite le respect de certaines formalités douanières et administratives. Vos biens doivent être inventoriés et déclarés selon les réglementations en vigueur, avec des justificatifs d'origine et de valeur.
 
