@@ -19,7 +19,23 @@ Louer un camion 20m³ Lille pour moins de 70€/jour : les **10 astuces maximale
 
 À Lille, optimiser tous leviers réduit location weekend 20m³ de **145€ (Sixt standard)** à **100-115€** (Leclerc semaine basse saison comparé refus assurance = économie 30-45€ = 21-31%). Mais refus assurance expose à franchise 1 000-1 500€ : accident frottement parking 600€ = vous payez intégralement vs 36€ assurance weekend Europcar + franchise réduite 150€ = 186€ total (économie 414€ si accident). Arbitrage risque/économie : novice camion → prenez assurance (8-12% prob accident, 36€ protection rationnel), expérimenté utilitaires → auto-assurez (prob <3%, économie 36€ justifiée).
 
-Ce guide liste 10 astuces location camion pas cher Lille avec économies chiffrées, risques et arbitrages. Consultez notre [guide location Lille](/blog/demenagement-lille/location-camion-demenagement-lille-guide).
+Ce guide liste 10 astuces location camion pas cher Lille avec économies chiffrées, risques et arbitrages.
+
+## FAQ : Location Camion Pas Cher Lille
+
+### Quel est le prix minimum pour louer un camion à Lille ?
+
+Le **prix minimum** est **65€/jour** (Leclerc Englos, camion 20m³, semaine basse saison). Avec cumul astuces : 60-65€ possible (négociation basse saison -5€, carte fidélité -5%). Weekend : 120€ minimum (Leclerc). DIY complet T2 : location 65€ + carburant 20€ + assurance 18€ = 103€ total vs déménageur 920€ = économie 817€ (89%). Mais fatigue physique, risque casse, responsabilité totale.
+
+### L'assurance camion est-elle vraiment utile ?
+
+**OUI fortement recommandée** : franchise sans assurance 1 000-1 500€ (accident mineur 600€ = vous payez intégral). Assurance 18-25€/jour réduit franchise à 150-300€. Probabilité accident novice camion : 8-12% (étroit Vieux-Lille, angles morts). ROI : 18€ assurance protège contre 1 500€ risque. Expérimentés utilitaires (10+ locations) : auto-assurance acceptable (prob <3%). Novices : PRENEZ assurance (tranquillité).
+
+### Peut-on louer un camion Lille pour aller à Paris ?
+
+Oui, **aller simple Lille-Paris** possible : Sixt/Europcar/Hertz proposent (Leclerc non). Tarif : ~200-300€ (vs A/R 140-180€ + essence retour 60€ = 240€, donc aller simple compétitif). Idéal déménagement définitif sans retour Lille. Contrainte : restitution agence Paris (vérifiez horaires). Alternative économique : groupage Lille-Paris 500-800€/pers (camion partagé).
+
+Consultez notre [guide location Lille](/blog/location-camion-lille/location-camion-demenagement-lille-guide).
 
 ## 10 Astuces Économies Location
 
@@ -86,7 +102,7 @@ Mais refus assurance (-40€ weekend) expose franchise 1 500€ : accident 800�
 
 Lillois budgets mini : Leclerc Englos (65€/j) + refus assurance (risque assumé) + semaine vs weekend (-15€) + plein avant restitution (-12€) = **65€ location nette** (économie 95€ vs Sixt weekend assuré 160€). Total DIY T2 Wazemmes : camion 65€ + essence 20€ + aide amis 0€ = **85€** vs déménageur 1 000€ (économie 915€ = 91%) en échange 10h travail à 4.
 
-Consultez notre [guide location Lille](/blog/demenagement-lille/location-camion-demenagement-lille-guide), notre [comparatif agences](/blog/demenagement-lille/agences-location-camion-lille-comparatif), notre [article assurance](/blog/demenagement-lille/assurance-location-camion-lille-franchise) et notre [comparatif DIY vs pro](/blog/demenagement-lille/location-camion-vs-demenageur-lille).
+Consultez notre [guide location Lille](/blog/location-camion-lille/location-camion-demenagement-lille-guide), notre [comparatif agences](/blog/location-camion-lille/agences-location-camion-lille-comparatif), notre [article assurance](/blog/location-camion-lille/assurance-location-camion-lille-franchise) et notre [comparatif DIY vs pro](/blog/location-camion-lille/location-camion-vs-demenageur-lille).
 
 
 

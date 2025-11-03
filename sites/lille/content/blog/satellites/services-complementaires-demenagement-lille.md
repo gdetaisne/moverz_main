@@ -19,7 +19,7 @@ Les **services complémentaires déménagement Lille** (options ajoutées forfai
 
 À Lille, les **services complémentaires** représentent **30-40% revenus** déménageurs selon acteurs (vs 60-70% prestations déménagement core) : nettoyage fin bail demandé 50-60% clients locataires (récupération caution prioritaire, propriétaires Lille exigeants états lieux), garde-meuble temporaire 15-20% (chevauchements baux fréquents dates fixes 1er mois), montage IKEA 25-30% (mobilier plat démonté déménagement, clients pas temps/compétence remonter), mise au rebut 20-25% (tri cave/grenier avant, déchetterie Lille Lezennes 15 km éloignement), piano 3-5% (possesseurs rares, technique spécialisée). Les **forfaits combinés** (déménagement + services) économisent vs à la carte : pack "Sérénité" Lefebvre T2 1 300€ (standard 1 000€ + nettoyage 200€ + montage 100€ = 1 300€ vs séparés 1 300€ = 0€ mais inclus commodité) vs Bretons pack similaire 1 250€.
 
-Ce guide détaille services complémentaires déménagement Lille : nettoyage, montage, mise au rebut, garde-meuble, piano, emballage, tarifs, rentabilité, acteurs. Consultez notre [guide déménageur Lille](/blog/demenagement-lille/demenageur-lille-expert).
+Ce guide détaille services complémentaires déménagement Lille : nettoyage, montage, mise au rebut, garde-meuble, piano, emballage, tarifs, rentabilité, acteurs. Consultez notre [guide déménageur Lille](/blog/demenageur-lille/demenageur-lille-expert).
 
 ## Nettoyage Ancien Logement (150-300€)
 
@@ -189,7 +189,7 @@ Montage inclus standard : déménageurs démontent meubles Lille avant chargemen
 
 Garde-meuble temporaire évite double loyer : chevauchement 1 mois (bail ancien termine 30 juin nouveau démarre 1er août) = stockage HOMEBOX 150€ vs payer ancien vide 800€ + nouveau acompte 850€ simultanément 1 650€ = économie 1 500€ (91%). Alternative garde chez parents/amis gratuit (si espace garage/cave 35m³ disponible, vs HOMEBOX 150€ sécurisé assurance). Durée optimale stockage temporaire : 1-3 mois chevauchements (vs >6 mois coûts cumulés 720-1 080€ = vente meubles Leboncoin + rachat IKEA destination plus rationnel).
 
-Consultez notre [guide déménageur Lille](/blog/demenagement-lille/demenageur-lille-expert), notre [guide garde-meuble](/blog/demenagement-lille/garde-meuble-lille-guide), notre [guide piano](/blog/demenagement-lille/demenagement-piano-lille-prix), notre [guide formule économique](/blog/demenagement-lille/formule-economique-vs-standard-demenagement) et notre [guide nettoyage](/blog/demenagement-lille/demenagement-pas-cher-lille-guide).
+Consultez notre [guide déménageur Lille](/blog/demenageur-lille/demenageur-lille-expert), notre [guide garde-meuble](/blog/garde-meuble-lille/garde-meuble-lille-guide), notre [guide piano](/blog/demenagement-piano-lille/demenagement-piano-lille-prix), notre [guide formule économique](/blog/demenagement-pas-cher-lille/formule-economique-vs-standard-demenagement) et notre [guide nettoyage](/blog/demenagement-pas-cher-lille/demenagement-pas-cher-lille-guide).
 
 
 

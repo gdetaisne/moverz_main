@@ -19,7 +19,7 @@ Les **différences transport piano droit vs queue** Lille sont drastiques : **pi
 
 À Lille, la **répartition pianos** : droits **85-90%** (1 300-1 800 pianos Lille sur 1 500-2 000 totaux, particuliers familles enfants cours musique, professeurs, valeur 5-18k€ moyenne 10k€, marques Yamaha/Kawai/Pleyel droits), queues **10-15%** (150-300 pianos, pianistes professionnels, Conservatoire Lille, écoles musique, salles concert rares, valeur 20-60k€ moyenne 35k€, marques Steinway/Bösendorfer/Yamaha C1-C3-C5-C7). Les **déménagements** : droits 180-250/an (turnover 12-15% possesseurs, mobilité résidentielle), queues 20-40/an (5-10% turnover, instruments stables salles concert/conservatoires, particuliers aisés mobilité réduite). Les **spécialistes piano Lille** traitent 95% queues (Monte-Piano Lille, 2-3 autres) vs déménageurs généralistes acceptent 80% droits RDC (refusent queues 90% risque/assurance/expertise insuffisants).
 
-Ce guide compare piano droit vs queue transport : dimensions, poids, équipes, durées, coûts, contraintes, démontage pieds, matériel. Consultez notre [guide déménagement piano Lille](/blog/demenagement-lille/demenagement-piano-lille-prix).
+Ce guide compare piano droit vs queue transport : dimensions, poids, équipes, durées, coûts, contraintes, démontage pieds, matériel. Consultez notre [guide déménagement piano Lille](/blog/demenagement-piano-lille/demenagement-piano-lille-prix).
 
 ## Caractéristiques Piano Droit
 
@@ -177,7 +177,7 @@ Démontage pieds queue procédure : 1) Soulèvement corps piano vérins hydrauli
 
 Portage queue coordination : 6 porteurs disposés 3+3 (clavier + queue), chef central commande "1-2-3-levez" synchronisation parfaite (désynchronisation 0,5 sec = déséquilibre 400 kg oscillation dangereuse), progression lente (1 pas/seconde, vs droit 2 pas/sec), tournants (rotation coordonnée 180° couloirs, longueur 200 cm vs largeur 120 cm = précision centimétrique), escaliers (si ascenseur assez large 150×120 cm rare, inclinaison 6 porteurs coordination extrême vs droit 4 gérable).
 
-Consultez notre [guide déménagement piano Lille](/blog/demenagement-lille/demenagement-piano-lille-prix), notre [guide monte-piano](/blog/demenagement-lille/monte-piano-specialiste-lille), notre [guide spécialistes](/blog/demenagement-lille/specialistes-piano-lille) et notre [guide assurance](/blog/demenagement-lille/assurance-piano-demenagement-lille).
+Consultez notre [guide déménagement piano Lille](/blog/demenagement-piano-lille/demenagement-piano-lille-prix), notre [guide monte-piano](/blog/demenagement-piano-lille/monte-piano-specialiste-lille), notre [guide spécialistes](/blog/demenagement-piano-lille/specialistes-piano-lille) et notre [guide assurance](/blog/demenagement-piano-lille/assurance-piano-demenagement-lille).
 
 
 

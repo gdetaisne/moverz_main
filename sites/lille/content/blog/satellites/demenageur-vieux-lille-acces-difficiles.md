@@ -20,7 +20,7 @@ Déménager dans le Vieux-Lille, avec ses rues médiévales pavées de 3-5m de l
 
 À Lille, tous les déménageurs ne sont pas équipés monte-meuble ni familiers des contraintes du Vieux-Lille. Les 15+ acteurs lillois se répartissent : spécialistes Centre historique (3-5 entreprises expérimentées, matériel adapté, connaissent autorisations mairie) et généralistes périphérie (Lomme, Fives, zones résidentielles faciles). Choisir un généraliste pour Vieux-Lille = risque de refus, improvisation jour J ou surcoût imprévu. Les déménageurs expérimentés Centre (à identifier via avis Google mentionnant "Vieux-Lille", "Centre") anticipent : autorisation stationnement mairie (délai 10-15j, gratuit), monte-meuble télescopique, équipe 4-5 porteurs (vs 2-3 standard), timing 7h-11h (plage autorisations livraisons).
 
-Ce guide détaille les contraintes spécifiques Vieux-Lille, les déménageurs lillois spécialistes, le fonctionnement du monte-meuble, la démarche autorisation mairie et les surcoûts détaillés. Consultez notre [guide expert déménageurs Lille](/blog/demenagement-lille/demenageur-lille-expert) pour comparer tous les acteurs locaux.
+Ce guide détaille les contraintes spécifiques Vieux-Lille, les déménageurs lillois spécialistes, le fonctionnement du monte-meuble, la démarche autorisation mairie et les surcoûts détaillés. Consultez notre [guide expert déménageurs Lille](/blog/demenageur-lille/demenageur-lille-expert) pour comparer tous les acteurs locaux.
 
 ## Contraintes Spécifiques Vieux-Lille
 
@@ -286,7 +286,7 @@ Les contraintes spécifiques : rues pavées étroites 3-5m (Rue de la Monnaie 3,
 
 Le monte-meuble accélère le déménagement Vieux-Lille de 30-40% (7-9h vs 10-12h portage manuel) et sécurise les gros meubles (canapés, armoires normandes, frigos américains) ne passant pas escaliers étroits. Facturation 150-400€ selon hauteur (2ème-5ème étage). Visite technique gratuite détermine besoin réel : déménageur mesure cage escaliers, évalue passages, vous informe avant signature devis (pas de surprise jour J).
 
-Consultez notre [guide expert déménageurs Lille](/blog/demenagement-lille/demenageur-lille-expert), notre [article monte-meuble](/blog/demenagement-lille/demenageur-monte-meuble-lille-quand-necessaire) et notre [guide autorisation stationnement](/blog/demenagement-lille/autorisation-stationnement-demenagement-lille) pour maîtriser toutes les contraintes Centre historique lillois.
+Consultez notre [guide expert déménageurs Lille](/blog/demenageur-lille/demenageur-lille-expert), notre [article monte-meuble](/blog/demenageur-lille/demenageur-monte-meuble-lille-quand-necessaire) et notre [guide autorisation stationnement](/blog/demenageur-lille/autorisation-stationnement-demenagement-lille) pour maîtriser toutes les contraintes Centre historique lillois.
 
 
 

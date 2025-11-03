@@ -58,7 +58,7 @@ La négociation des tarifs reste possible, particulièrement pour les engagement
 
 Pour choisir votre garde-meuble, privilégiez les installations proches de votre nouveau domicile. La proximité réduit les frais de transport et facilite l'accès à vos biens. Vérifiez la qualité des installations, notamment la climatisation et la sécurité.
 
-Lisez attentivement les conditions générales, particulièrement les clauses d'assurance et de responsabilité. Certains contrats incluent des [frais cachés](/blog/prix-demenagement-bordeaux/frais-caches-demenagement) ou des conditions restrictives. Un garde-meuble sérieux propose des conditions claires et transparentes.
+Lisez attentivement les conditions générales, particulièrement les clauses d'assurance et de responsabilité. Certains contrats incluent des [frais cachés](/blog/prix-demenagement-bordeaux/frais-caches-demenagement-bordeaux) ou des conditions restrictives. Un garde-meuble sérieux propose des conditions claires et transparentes.
 
 ## Les spécificités des quartiers bordelais
 

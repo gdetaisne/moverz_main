@@ -19,7 +19,7 @@ Un T2 Wazemmes (35m³) nécessite un camion **20m³** (2 voyages Wazemmes-Saint-
 
 À Lille, les agences (Sixt Euralille, Europcar Flandres, Leclerc Englos) proposent 4 tailles : **12m³** (studio, 50-70€/j), **20m³** (T1-T2, 70-95€/j), **35m³** (T2-T3, 100-140€/j), **50m³** (maison, 140-200€/j). Les Lillois sous-estiment souvent : "Mon T2 = 35m³ donc camion 20m³ suffit" mais 35m³ tassé ≠ 35m³ chargé camion (vides 25%). Résultat : 80% affaires rentrent, 20% restent (meubles volumineux canapé, armoire). Solution : 2ème voyage (fatigue, temps) ou amis avec voiture (appoint 5-8m³). Privilégiez camion taille supérieure (+20-30% vs volume calculé) pour sécurité : T2 43m³ × 1,25 = 54m³ → camion 35m³ minimum 1 voyage confortable.
 
-Ce guide détaille volumes camions vs logements Lille, calcul majoration 20-30%, 1 vs 2 voyages arbitrage, tailles disponibles agences. Consultez notre [guide location Lille](/blog/demenagement-lille/location-camion-demenagement-lille-guide).
+Ce guide détaille volumes camions vs logements Lille, calcul majoration 20-30%, 1 vs 2 voyages arbitrage, tailles disponibles agences. Consultez notre [guide location Lille](/blog/location-camion-lille/location-camion-demenagement-lille-guide).
 
 ## Correspondance Logement → Volume Camion
 
@@ -115,7 +115,21 @@ T2 Lille (35m³ tassé, 44-54m³ chargé) : camion **20m³ en 2 voyages** (70-95
 
 Agences Lille proposent : 12m³ (50-70€, studio mini), 20m³ (70-95€, T1-T2), 35m³ (100-140€, T2-T3), 50m³ (140-200€, T3-maison). Choisissez taille supérieure (+20-30% volume calculé) : marge sécurité évite 2ème voyage imprévu (+4h stress). T2 optimisé : camion 35m³ (120€ weekend) avec aide 3 amis = 1 voyage fluide 6-8h vs 20m³ 2 voyages (80€ mais 9-11h fatigue).
 
-Consultez notre [guide location Lille](/blog/demenagement-lille/location-camion-demenagement-lille-guide), notre [article prix 20m³](/blog/demenagement-lille/prix-location-camion-20m3-lille) et notre [comparatif vs déménageur](/blog/demenagement-lille/location-camion-vs-demenageur-lille).
+## FAQ : Volume Camion Lille
+
+### Quelle taille de camion pour un T2 ?
+
+**T2** (30-35m²) = **20-35m³** volume : mobilier standard 15-20m³, cartons 60× = 10-15m³, total 25-35m³. Recommandation : **camion 35m³** (marge sécurité 20%, 1 voyage) vs 20m³ risque serré (2 voyages si mal estimé). Coût : 35m³ = 100-140€ vs 20m³ = 70-95€, surcoût 30-45€ justifié (évite 2ème voyage 4h + essence 20€). T2 minimaliste désencombré : 20m³ suffit.
+
+### Comment calculer le volume exact ?
+
+**Calcul volume** : règle 1m³ = 10m² surface (T2 35m² = 35m³ max) OU inventaire pièce/pièce (lit 2m³, canapé 3m³, table 1m³...). Lille : calculateurs en ligne agences (Sixt, Europcar), apps (Demenageo). Marge 20-30% obligatoire (objets oubliés, protection). Visite technique déménageur gratuite (estimation pro précise). Sous-estimation fréquente : 30% novices (T2 estimé 20m³ réalité 30m³ = 2ème voyage).
+
+### Vaut-il mieux surdimensionner le camion ?
+
+Oui, **surdimensionner +20%** recommandé : marge sécurité, 1 voyage unique, moins stress, chargement aisé (pas tétris). Surcoût : 30-50€ (35m³ vs 20m³) vs économie éviter 2ème voyage (essence 20€ + temps 4h + fatigue). Seul cas sous-dimensionner acceptable : budget ultra-serré + certitude volume exact (inventaire rigoureux fait).
+
+Consultez notre [guide location Lille](/blog/location-camion-lille/location-camion-demenagement-lille-guide), notre [article prix 20m³](/blog/location-camion-lille/prix-location-camion-20m3-lille) et notre [comparatif vs déménageur](/blog/location-camion-lille/location-camion-vs-demenageur-lille).
 
 
 

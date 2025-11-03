@@ -19,7 +19,7 @@ Le **déménagement piano Vieux-Lille** cumule contraintes extrêmes : **escalie
 
 À Lille, le **Vieux-Lille** concentre **15-20% possesseurs pianos** (220-400 pianos estimés sur 1 500-2 000 métropole) : bourgeoisie lilloise (demeures familiales XVII-XIXème, salons musique tradition, pianos droits anciens Pleyel 1900-1950 valeur 10-25k€, queues 1/4-1/2 rares 5-10 = 3-5% Vieux-Lille), professions libérales (avocats/médecins/notaires cabinets/domiciles rue Esquermoise/Gand/Basse, pianos réception clients + passion personnelle). Les **déménagements Vieux-Lille** piano représentent **20-40/an** (10-15% flux piano total Lille 200-300) dont spécialistes acceptent 80% (Monte-Piano Lille expertise accès maîtrisée, 2-3 autres spécialistes), refusent 20% cas extrêmes (5ème étage + escaliers <1,1m + rue piétonne camion totalement interdit = combinaison impossible même monte-piano, alternative démontage fenêtre menuisier 300-800€ vs piano). Les **quartiers difficiles similaires** : Wazemmes habitat ancien (escaliers 1,2-1,4m limites, stationnement marché weekend impossible), Centre République immeubles hausmanniens (étages 3-5ème, escaliers 1,4-1,6m piano passe juste), Moulins résidences étudiantes (escaliers 1,8m OK mais étroitesse relative).
 
-Ce guide détaille contraintes piano Vieux-Lille : escaliers colimaçon, rues pavées, étages, portes, façades, surcoûts, refus spécialistes, alternatives. Consultez notre [guide déménagement piano Lille](/blog/demenagement-lille/demenagement-piano-lille-prix).
+Ce guide détaille contraintes piano Vieux-Lille : escaliers colimaçon, rues pavées, étages, portes, façades, surcoûts, refus spécialistes, alternatives. Consultez notre [guide déménagement piano Lille](/blog/demenagement-piano-lille/demenagement-piano-lille-prix).
 
 ## Contraintes Cumulées Vieux-Lille
 
@@ -179,7 +179,7 @@ Quartiers similaires difficultés : **Wazemmes** habitat ancien (escaliers 1,2-1
 
 Conseils propriétaires Vieux-Lille piano : **anticipation déménagement** (3-4 sem avant contactez spécialiste visite technique gratuite évalue faisabilité mesure escaliers/portes/rues, confirme coût 600-1 200€ selon contraintes vs refus cas impossible évite mauvaise surprise jour J), **dérogation ABF** si façade classée (demande 4 sem avant mairie DUSA évite retards, gratuit mais paperasse), **budget réaliste** 600-1 200€ Vieux-Lille (vs 250-450€ périphérie, ×2,4-4,8 ratio acceptez ou vendez piano sur place alternative).
 
-Consultez notre [guide déménagement piano Lille](/blog/demenagement-lille/demenagement-piano-lille-prix), notre [guide monte-piano](/blog/demenagement-lille/monte-piano-specialiste-lille), notre [guide spécialistes](/blog/demenagement-lille/specialistes-piano-lille) et notre [guide assurance](/blog/demenagement-lille/assurance-piano-demenagement-lille).
+Consultez notre [guide déménagement piano Lille](/blog/demenagement-piano-lille/demenagement-piano-lille-prix), notre [guide monte-piano](/blog/demenagement-piano-lille/monte-piano-specialiste-lille), notre [guide spécialistes](/blog/demenagement-piano-lille/specialistes-piano-lille) et notre [guide assurance](/blog/demenagement-piano-lille/assurance-piano-demenagement-lille).
 
 
 

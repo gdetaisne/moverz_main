@@ -52,7 +52,7 @@ Le transport d'objets spécifiques comme un piano ou des œuvres d'art nécessit
 
 Pour obtenir une estimation précise, commencez par inventorier méticuleusement vos biens. Prenez en photo chaque pièce et listez les meubles volumineux. Cette démarche vous aide à évaluer plus précisément le volume réel à déménager. N'oubliez pas les objets stockés dans les caves, greniers ou garages qui peuvent représenter plusieurs mètres cubes supplémentaires.
 
-Contactez au moins trois entreprises de déménagement pour [comparer les devis](/blog/prix-demenagement-bordeaux/comparatif-prix-devis-demenagement). Les professionnels sérieux proposent des visites techniques gratuites qui permettent d'établir des estimations précises. Cette étape est cruciale car elle révèle les contraintes d'accès que vous n'auriez peut-être pas identifiées.
+Contactez au moins trois entreprises de déménagement pour [comparer les devis](/blog/prix-demenagement-bordeaux/comparatif-prix-devis-demenagement-bordeaux). Les professionnels sérieux proposent des visites techniques gratuites qui permettent d'établir des estimations précises. Cette étape est cruciale car elle révèle les contraintes d'accès que vous n'auriez peut-être pas identifiées.
 
 ## Optimiser votre budget déménagement
 
