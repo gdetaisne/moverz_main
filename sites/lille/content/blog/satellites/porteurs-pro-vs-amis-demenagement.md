@@ -19,7 +19,7 @@ featured: false
 
 À Lille, **65-70% déménagements DIY** (étudiants 70 000, jeunes actifs budgets serrés) utilisent **aide amis gratuite** (capital social solide, entraide étudiante/jeunesse Lille forte communautés fac/entreprises) vs 30-35% louent **porteurs pros/étudiants Leboncoin** (budgets modérés 400-700€ acceptent payer aide 200-400€, sans réseau amis Lille nouvel arrivant, contraintes techniques Vieux-Lille/étages élevés expertise requise). Les **profils sans amis** : nouveaux arrivants Lille mutation <6 mois (réseau social limité, collègues travail peu mobilisables weekends), étrangers expats (isolement social, barrière langue, recours pros obligé), célibataires >35-40 ans (amis vie famille moins disponibles vs jeunes 20-30 célibataires amis disponibles), seniors (amis âgés incapacité physique, famille enfants éloignés géographiquement). Les **situations pros obligatoires** : Vieux-Lille 4ème sans ascenseur escaliers 1,2m (expertise portage professionnel évite chute/casse), objets lourds piano 200 kg (4 pros spécialisés monte-piano vs amis impossible), T3-T4 >50m³ (coordination 5-6 porteurs pros rodés vs amis chaos).
 
-Ce guide compare porteurs pros vs amis déménagement Lille : coûts, risques casse/blessure, fiabilité, lenteur, dette sociale, calcul rentabilité, profils adaptés. Consultez notre [guide aide déménagement Lille](/blog/aide-demenagement-lille/aide-demenagement-particuliers-lille).
+Ce guide compare porteurs pros vs amis déménagement Lille : coûts, risques casse/blessure, fiabilité, lenteur, dette sociale, calcul rentabilité, profils adaptés. Consultez notre [guide aide déménagement Lille](/blog/demenagement-lille/aide-demenagement-particuliers-lille).
 
 ## Comparatif Détaillé Pros vs Amis
 
@@ -182,7 +182,7 @@ Profils sans amis Lille : nouveaux arrivants mutation <6 mois (réseau social li
 
 65-70% déménagements DIY Lille utilisent aide amis (étudiants 70 000, jeunes actifs budgets serrés capital social solide entraide forte communautés fac Lille 1-2-3/entreprises EuraTechnologies) vs 30-35% porteurs pros/Leboncoin (budgets modérés 400-700€ acceptent payer 200-400€ aide, sans réseau, contraintes techniques). Économie réelle amis après coûts cachés : 118€ (vs 286€ affiché, réduction 59% économie réelle décevante mais significative budgets <1 800€).
 
-Consultez notre [guide aide déménagement Lille](/blog/aide-demenagement-lille/aide-demenagement-particuliers-lille), notre [guide porteurs heure](/blog/aide-demenagement-lille/porteurs-heure-demenagement-lille), notre [guide DIY](/blog/demenagement-pas-cher-lille/diy-demenagement-lille-budget-mini) et notre [guide déménageur](/blog/demenageur-lille/demenageur-lille-expert).
+Consultez notre [guide aide déménagement Lille](/blog/demenagement-lille/aide-demenagement-particuliers-lille), notre [guide porteurs heure](/blog/demenagement-lille/porteurs-heure-demenagement-lille), notre [guide DIY](/blog/demenagement-lille/diy-demenagement-lille-budget-mini) et notre [guide déménageur](/blog/demenagement-lille/demenageur-lille-expert).
 
 
 

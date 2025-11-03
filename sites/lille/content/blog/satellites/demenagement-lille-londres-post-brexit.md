@@ -19,7 +19,7 @@ Déménager Lille → Londres post-Brexit (depuis 1er janvier 2021) coûte **3 6
 
 À Lille, la **proximité UK** (Calais 120 km, Eurotunnel 35 min traversée) maintient Lille-Londres accessible vs autres villes françaises : Marseille-Londres 1 600 km (routier 18-22h pénible vs Lille 5-6h) ou maritime Le Havre-Southampton +4-6 jours. Les 25-30 déménageurs internationaux Lille spécialisés UK post-Brexit (AGS Lille, Crown Relocations, Allied Pickfords, Grospiron, Britannia Sandersteads, acteurs franco-britanniques) gèrent intégralement nouvelles formalités : préparation **déclaration ToR** (Transfer of Residence, document douanier UK prouvant déménagement définitif, pas importation commerciale), traduction inventaire français → anglais (250-400 lignes T2), relations commissionnaires douane UK agréés port Douvres, suivi dédouanement temps réel. Les Lillois expatriés Londres (cadres multinationales, fonctionnaires post-Brexit, chercheurs Imperial/UCL) représentent 800-1 200 déménagements Lille-UK/an selon estimations vs 1 500-2 000 pré-Brexit (baisse -30-40% flux Brexit complexité).
 
-Ce guide détaille déménagement Lille-Londres post-Brexit 2025 : prix, formalités douanières ToR, documents obligatoires, délais, comparatif pré/post-Brexit, acteurs spécialisés. Consultez notre [guide déménagement international Lille](/blog/demenagement-international-lille/demenagement-international-lille-guide).
+Ce guide détaille déménagement Lille-Londres post-Brexit 2025 : prix, formalités douanières ToR, documents obligatoires, délais, comparatif pré/post-Brexit, acteurs spécialisés. Consultez notre [guide déménagement international Lille](/blog/demenagement-lille/demenagement-international-lille-guide).
 
 ## Prix Détaillé Lille-Londres Post-Brexit
 
@@ -182,7 +182,7 @@ Acteurs Lille-UK spécialisés post-Brexit : AGS Lille (leader international, ex
 
 Proximité Lille-UK avantage : Calais 120 km (vs Marseille-Calais 1 100 km), Eurotunnel 35 min (vs ferry Le Havre-Portsmouth 4-6h), Londres 340 km total (vs Marseille-Londres 1 600 km routier 18-22h pénible). Flux Lille-Londres : 800-1 200 déménagements/an 2025 (vs 1 500-2 000 pré-Brexit, baisse -30-40% complexité Brexit dissuasion).
 
-Consultez notre [guide déménagement international Lille](/blog/demenagement-international-lille/demenagement-international-lille-guide), notre [article prix international](/blog/demenagement-international-lille/prix-demenagement-international-lille-2025), notre [guide douanes](/blog/demenagement-international-lille/formalites-douanieres-demenagement-international) et notre [guide conteneurs](/blog/demenagement-international-lille/transport-conteneur-demenagement-international).
+Consultez notre [guide déménagement international Lille](/blog/demenagement-lille/demenagement-international-lille-guide), notre [article prix international](/blog/demenagement-lille/prix-demenagement-international-lille-2025), notre [guide douanes](/blog/demenagement-lille/formalites-douanieres-demenagement-international) et notre [guide conteneurs](/blog/demenagement-lille/transport-conteneur-demenagement-international).
 
 
 

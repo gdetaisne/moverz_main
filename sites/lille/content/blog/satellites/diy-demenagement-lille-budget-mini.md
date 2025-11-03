@@ -19,7 +19,7 @@ Déménager un T2 Lille soi-même coûte **95-162€** : camion 20m³ Leclerc En
 
 À Lille, le DIY total convient aux 70 000 étudiants (budgets ultra-serrés, colocs disponibles, studios/T1/T2 20-35m³), jeunes actifs <28 ans sportifs (capacité physique, amis mobilisables weekend), situations financières précaires (RSA, chômage, 838€ économie = 1 mois loyer Wazemmes). Les limites DIY : volume >T3 50m³ (épuisant 14-18h, 3 voyages), âge >35 ans (dos fragiles, fatigue), Vieux-Lille (rues étroites risquées novice camion), mobilier valeur >6 000€ (risque casse 20% = 1 200€ perte), absence aide (impossible seul porter canapé 80kg). 65% Lillois utilisent déménageur (temps valorisé, confort, assurance) vs 35% DIY (budget prioritaire).
 
-Ce guide détaille DIY déménagement Lille budget mini : chiffrage exhaustif, organisation jour par jour, matériel nécessaire, aide amis mobilisation, risques et arbitrages. Consultez notre [guide déménagement pas cher](/blog/demenagement-pas-cher-lille/demenagement-pas-cher-lille-guide).
+Ce guide détaille DIY déménagement Lille budget mini : chiffrage exhaustif, organisation jour par jour, matériel nécessaire, aide amis mobilisation, risques et arbitrages. Consultez notre [guide déménagement pas cher](/blog/demenagement-lille/demenagement-pas-cher-lille-guide).
 
 ## Chiffrage Exhaustif DIY T2 Lille
 
@@ -193,7 +193,7 @@ Risques : casse 20-35% (espérance 200€), accident camion 8-12% (franchise 1 0
 
 Profil optimal DIY : étudiant 20-25 ans (Moulins, Vauban, 70 000 Lille), studio/T1/T2 max 35m³, colocs/amis fac disponibles, budget <300€ impératif (838€ économie vitale), quartiers faciles (Lomme, Fives, pas Vieux-Lille), mobilier IKEA valeur <3 000€ (casse acceptable), weekend entier libre, capacité physique (sport régulier, dos sain).
 
-Consultez notre [guide DIY vs pro](/blog/location-camion-lille/location-camion-vs-demenageur-lille), notre [guide location camion](/blog/location-camion-lille/location-camion-demenagement-lille-guide) et notre [article cartons gratuits](/blog/demenagement-pas-cher-lille/cartons-gratuits-lille-recuperer).
+Consultez notre [guide DIY vs pro](/blog/demenagement-lille/location-camion-vs-demenageur-lille), notre [guide location camion](/blog/demenagement-lille/location-camion-demenagement-lille-guide) et notre [article cartons gratuits](/blog/demenagement-lille/cartons-gratuits-lille-recuperer).
 
 
 

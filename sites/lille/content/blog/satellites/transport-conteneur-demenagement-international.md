@@ -19,7 +19,7 @@ Le transport conteneur maritime déménagement international propose **2 tailles
 
 À Lille, les déménagements internationaux maritimes partent majoritairement **ports Anvers** (Belgique, 100 km, 1er port Europe conteneurs 14M EVP/an, liaisons mondiales quotidiennes) et **Rotterdam** (Pays-Bas, 220 km, 2ème Europe 15M EVP, hub Asie-Europe). Le schéma type Lille → New York T2 35m³ : **1) Chargement Lille** (déménageur emballe meubles, charge camion routier 6-8h), **2) Transport Lille → Anvers** (100 km, 1,5h, camion livré terminal conteneur), **3) Empotage conteneur 20 pieds** (transfert affaires camion → conteneur, calage, scellé douanier), **4) Maritime Anvers → Newark NYC** (5 850 km, 18-25 jours traversée Atlantique, lignes régulières Maersk/MSC/CMA-CGM), **5) Dédouanement USA** (7-15 jours port Newark inspections CBP), **6) Livraison finale NYC** (dépotage conteneur entrepôt, camion local → appartement, déchargement, 1-3 jours). Total Lille → NYC : **6-8 semaines** porte-à-porte (vs aérien 5-10 jours mais ×10 prix).
 
-Ce guide détaille conteneurs 20/40 pieds (dimensions, capacités, prix), groupage vs exclusif, maritime vs aérien/routier, ports départ Lille, délais. Consultez notre [guide déménagement international Lille](/blog/demenagement-international-lille/demenagement-international-lille-guide).
+Ce guide détaille conteneurs 20/40 pieds (dimensions, capacités, prix), groupage vs exclusif, maritime vs aérien/routier, ports départ Lille, délais. Consultez notre [guide déménagement international Lille](/blog/demenagement-lille/demenagement-international-lille-guide).
 
 ## Conteneurs Standards
 
@@ -226,7 +226,7 @@ Modes transport : **Maritime** (95% longue distance, 120-180€/m³ économique 
 
 Ports Lille : Anvers Belgique (100 km optimal, 1er Europe 14M EVP/an, liaisons quotidiennes mondiales, formalités UE simples), Rotterdam Pays-Bas (220 km alternative, 15M EVP, hub Asie-Europe), Le Havre France (300 km, 2,9M EVP, lignes Amériques). Schéma Lille → NYC : chargement Lille (6-8h), routier Lille → Anvers (100 km, 1,5h), empotage conteneur (6-8h transfert affaires, calage, scellé), attente navire (2-7j), traversée Anvers → Newark (18-25j), dédouanement USA (7-15j), livraison NYC (1-3j). Total 6-8 semaines porte-à-porte.
 
-Consultez notre [guide déménagement international Lille](/blog/demenagement-international-lille/demenagement-international-lille-guide), notre [article prix international](/blog/demenagement-international-lille/prix-demenagement-international-lille-2025), notre [guide douanes](/blog/demenagement-international-lille/formalites-douanieres-demenagement-international) et notre [article Lille-USA](/blog/demenagement-international-lille/demenagement-lille-usa-formalites).
+Consultez notre [guide déménagement international Lille](/blog/demenagement-lille/demenagement-international-lille-guide), notre [article prix international](/blog/demenagement-lille/prix-demenagement-international-lille-2025), notre [guide douanes](/blog/demenagement-lille/formalites-douanieres-demenagement-international) et notre [article Lille-USA](/blog/demenagement-lille/demenagement-lille-usa-formalites).
 
 
 

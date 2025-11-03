@@ -19,7 +19,7 @@ L'**aide déménagement Lille** (portage/chargement/déchargement sans transport
 
 À Lille, les **sources aide déménagement** : **réseau amis/famille** (60-70% Lillois sollicitent proches, entraide gratuite symbolicque, fonctionnement capital social "je t'aide, tu m'aideras"), **plateformes Leboncoin/Yoojo/Frizbiz** (100-200 annonces/jour "aide déménagement Lille", étudiants 70 000 cherchent revenus complémentaires 80-150€/jour, jeunes actifs bricole/déménage weekends), **agences intérim** (Adecco Lille 8 agences, Manpower 6, Randstad 5 proposent porteurs déménagement mission ponctuelle 150-200€/jour client, 15-20€/h porteur, expertise variable), **associations solidaires** (Emmaüs Lomme, Petits Frères Pauvres, AGIRabcd Lille proposent aide déménagement seniors/précaires 50-100€ symbolique bénévoles, limité publics fragiles). Les **risques aide non-pro** : casse responsabilité floue (ami casse TV 800€, rembourse-t-il ? conflit relationnel), blessure (portage incorrect lombalgie ami, arrêt travail 1 sem = culpabilité vs porteur pro couvert accident travail), désistement dernière minute (ami imprévu annule J-1, déménagement compromis).
 
-Ce guide détaille aide déménagement Lille : sources (amis, porteurs pros, étudiants, associations), tarifs, nombre optimal, responsabilités, comparatif. Consultez notre [guide déménagement Lille](/blog/demenageur-lille/demenageur-lille-expert).
+Ce guide détaille aide déménagement Lille : sources (amis, porteurs pros, étudiants, associations), tarifs, nombre optimal, responsabilités, comparatif. Consultez notre [guide déménagement Lille](/blog/demenagement-lille/demenageur-lille-expert).
 
 ## Sources Aide Déménagement Lille
 
@@ -370,7 +370,7 @@ Responsabilités : casse par ami (entraide gratuite pas responsabilité légale 
 
 Plateformes : Leboncoin 100-200 annonces/jour (recherche Services "Déménagement Lille", filtres prix 80-150€ localisation date <7j, profils étudiants 20-25 ans 80€ jeunes actifs expérience 120€ retraités actifs 100€, sélection description références profil photo contactez 3-5), Yoojo/Frizbiz (mission "Aide T2 6h samedi", profils proposent 15-25€/h = 90-150€, avis vérifiés clients note/5, paiement sécurisé plateforme vs Leboncoin cash, commission +10-15% surcoût, moins annonces 50-80 Lille), Facebook groupes "Entraide Déménagement Lille" 2 500 membres (publications solidarité réponses 5-15 propositions habitants quartier 20-50€ symbolique ou gratuit réciprocité).
 
-Consultez notre [guide déménagement Lille](/blog/demenageur-lille/demenageur-lille-expert), notre [guide petit déménagement](/blog/petit-demenagement-lille/petit-demenagement-lille-studio-t1), notre [guide DIY](/blog/demenagement-pas-cher-lille/diy-demenagement-lille-budget-mini) et notre [guide location camion](/blog/location-camion-lille/location-camion-demenagement-lille-guide).
+Consultez notre [guide déménagement Lille](/blog/demenagement-lille/demenageur-lille-expert), notre [guide petit déménagement](/blog/demenagement-lille/petit-demenagement-lille-studio-t1), notre [guide DIY](/blog/demenagement-lille/diy-demenagement-lille-budget-mini) et notre [guide location camion](/blog/demenagement-lille/location-camion-demenagement-lille-guide).
 
 
 

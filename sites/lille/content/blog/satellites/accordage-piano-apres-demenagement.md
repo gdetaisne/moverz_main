@@ -19,7 +19,7 @@ L'**accordage piano après déménagement** est **obligatoire** : vibrations tra
 
 À Lille, les **200-300 pianos déménagés/an** nécessitent accordage post-déménagement (100% obligatoire vs 80-120€ coût) : pianistes amateurs refusent parfois (économie 100€ mais piano désaccordé inutilisable cours/plaisir = fausse économie), professeurs/pros accordent systématiquement (élèves concerts nécessitent justesse, 100€ investissement obligé vs réputation professionnelle). Le **désaccordage transport** varie intensité : local Lille 10 km routes lisses = **désaccordage léger** 10-20 notes principales (La 440 Hz devient 438-442 Hz, audible oreille entraînée, corrigible 1h accordage 80€), longue distance Lille-Paris 220 km route + vibrations = **désaccordage modéré-sévère** 80-150 notes (438-445 Hz variations importantes, audible tous, 1,5-2h accordage 100-150€). Les **accordeurs recommandés** : Conservatoire Lille oriente (liste agréés, 8-12 pros ville), fabricants pianos (Yamaha Music Europe Lille partenaires accordeurs certifiés), annuaires professionnels (Fédération Française Techniciens et Métiers du Piano FFTMP 2 membres Lille sur 300 nationaux).
 
-Ce guide détaille accordage piano post-déménagement : obligatoire pourquoi, délai 2-4 sem, coût 80-150€, accordeurs Lille, désaccordage intensité, fréquence. Consultez notre [guide déménagement piano Lille](/blog/demenagement-piano-lille/demenagement-piano-lille-prix).
+Ce guide détaille accordage piano post-déménagement : obligatoire pourquoi, délai 2-4 sem, coût 80-150€, accordeurs Lille, désaccordage intensité, fréquence. Consultez notre [guide déménagement piano Lille](/blog/demenagement-lille/demenagement-piano-lille-prix).
 
 ## Pourquoi Accordage Obligatoire Post-Déménagement
 
@@ -195,7 +195,7 @@ Fréquence accordage : post-déménagement obligatoire **2 fois 1ère année** (
 
 200-300 pianos déménagés Lille/an accordés post-déménagement 100% obligatoire (professeurs/pros systématiquement, amateurs 70-80% respectent + 20-30% négligent économie 100€ mais frustration piano faux = fausse économie). Statistiques : 90-95% accordent 2-4 sem délai optimal, 5-10% immédiat (ré-désaccordent 2 sem gaspillage), 2ème accordage 6 mois suivi 60-70% cas (peaufinage vs 30-40% négligent).
 
-Consultez notre [guide déménagement piano Lille](/blog/demenagement-piano-lille/demenagement-piano-lille-prix), notre [guide spécialistes](/blog/demenagement-piano-lille/specialistes-piano-lille), notre [guide droit vs queue](/blog/demenagement-piano-lille/piano-droit-queue-transport-differences) et notre [guide assurance](/blog/demenagement-piano-lille/assurance-piano-demenagement-lille).
+Consultez notre [guide déménagement piano Lille](/blog/demenagement-lille/demenagement-piano-lille-prix), notre [guide spécialistes](/blog/demenagement-lille/specialistes-piano-lille), notre [guide droit vs queue](/blog/demenagement-lille/piano-droit-queue-transport-differences) et notre [guide assurance](/blog/demenagement-lille/assurance-piano-demenagement-lille).
 
 
 

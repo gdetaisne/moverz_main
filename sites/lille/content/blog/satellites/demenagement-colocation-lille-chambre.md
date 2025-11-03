@@ -19,7 +19,7 @@ Le **déménagement chambre colocation Lille** (1 colocataire sur 3-4 quitte app
 
 À Lille, les **colocations** représentent **25-30% logements étudiants/jeunes actifs** selon estimations (vs 70-75% studios/T1 individuels) : **quartiers colocs Lille** Vauban (T3-T4 80-100m² partagés 3-4 étudiants, loyers 250-350€/chambre vs studio 450-600€ économie), Wazemmes (colocs budgets serrés, T2-T3 200-300€/chambre habitat ancien), Moulins (proximité facs, T3 280-380€/chambre), République (jeunes actifs, T3-T4 350-450€/chambre). Les **types mobilier** : **personnel identifié** (lit acheté individuellement avant entrée coloc, bureau/chaise apportés, cartons affaires personnelles vêtements/livres évidents, plantes/déco chambre) vs **commun partagé** (canapé salon acheté collectivement split 3-4 = 100€/pers, table cuisine commune, électroménager propriétaire ou colocs ensemble, vaisselle/ustensiles communs). Les **déménagements coloc** génèrent **rotation élevée** : durée moyenne colocation Lille **1-2 ans** (vs studio 2-3 ans), 40-50% colocataires changent annuellement = 3-5 000 déménagements chambres coloc/an métropole.
 
-Ce guide détaille déménagement chambre colocation Lille : volumes personnel vs commun, tarifs, coordination colocs restants/entrants, quartiers colocs, partage mobilier commun. Consultez notre [guide petit déménagement Lille](/blog/petit-demenagement-lille/petit-demenagement-lille-studio-t1).
+Ce guide détaille déménagement chambre colocation Lille : volumes personnel vs commun, tarifs, coordination colocs restants/entrants, quartiers colocs, partage mobilier commun. Consultez notre [guide petit déménagement Lille](/blog/demenagement-lille/petit-demenagement-lille-studio-t1).
 
 ## Séparation Mobilier Personnel vs Commun
 
@@ -191,7 +191,7 @@ Rotation élevée colocs : durée moyenne 1-2 ans Lille (vs studio 2-3 ans), 40-
 
 25-30% logements étudiants/jeunes actifs Lille sont colocations (vs 70-75% studios/T1 individuels) selon estimations. Avantages coloc : loyer réduit -30-40% (250€ chambre vs 450€ studio), convivialité (vie sociale), espace partagé (salon 25m² vs studio 18m² total). Inconvénients : intimité limitée, gestion conflits potentiels, coordination déménagements complexité légère.
 
-Consultez notre [guide petit déménagement Lille](/blog/petit-demenagement-lille/petit-demenagement-lille-studio-t1), notre [guide déménagement étudiant](/blog/petit-demenagement-lille/demenagement-chambre-etudiant-lille), notre [guide transport meubles](/blog/petit-demenagement-lille/transport-meubles-lille-sans-demenageur) et notre [guide DIY](/blog/demenagement-pas-cher-lille/diy-demenagement-lille-budget-mini).
+Consultez notre [guide petit déménagement Lille](/blog/demenagement-lille/petit-demenagement-lille-studio-t1), notre [guide déménagement étudiant](/blog/demenagement-lille/demenagement-chambre-etudiant-lille), notre [guide transport meubles](/blog/demenagement-lille/transport-meubles-lille-sans-demenageur) et notre [guide DIY](/blog/demenagement-lille/diy-demenagement-lille-budget-mini).
 
 
 

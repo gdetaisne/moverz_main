@@ -19,7 +19,7 @@ Louer un camion 20m³ à Lille coûte **70-95€/jour** (24h) chez Sixt Euralill
 
 À Lille, louer un camion pour déménager soi-même économise **600-900€** vs déménageur professionnel (DIY camion 20m³ jour 80€ + essence 20€ + aide amis = 100€ total vs déménageur T2 1 000€) mais nécessite **8-12h travail physique** à 3-4 personnes (chargement, conduite, déchargement) + risque de casse (inexpérience emballage/arrimage) + stress conduite gros véhicule. Les agences lilloises principales : **Sixt Euralille** (gare Lille-Europe), **Europcar Lille-Flandres** (gare), **Hertz** (aéroport Lesquin 10 km), **Leclerc Englos/Lomme** (périphérie, tarifs -10-15% vs centre). Réservez 2-4 semaines avant (haute saison juin-août = saturation). Permis B suffit jusqu'à 3,5t (camions 20-30m³ OK).
 
-Ce guide détaille prix location camion 20m³ Lille 2025 (jour/weekend/semaine), agences disponibles, km inclus, caution, assurance et comparatif vs déménageur. Consultez notre [guide location camion Lille](/blog/location-camion-lille/location-camion-demenagement-lille-guide).
+Ce guide détaille prix location camion 20m³ Lille 2025 (jour/weekend/semaine), agences disponibles, km inclus, caution, assurance et comparatif vs déménageur. Consultez notre [guide location camion Lille](/blog/demenagement-lille/location-camion-demenagement-lille-guide).
 
 ## Prix Location Camion 20m³ Lille par Durée
 
@@ -184,7 +184,7 @@ Total réel weekend : location 150€ + assurance 40€ + essence 30€ (100 km 
 
 Km inclus 100-150/jour suffisent déménagement local métropole (<30 km A/R). Longue distance Lille-Paris 220 km : location aller simple 400-600€ (vs A/R 150€ = différence 250-450€, agence facture retour camion vide). Retour plein obligatoire : essence manquante facturée 1,80€/L vs 1,50€ station (surcoût 20% = faites plein avant restitution).
 
-Consultez notre [guide location camion Lille](/blog/location-camion-lille/location-camion-demenagement-lille-guide), notre [comparatif agences](/blog/location-camion-lille/agences-location-lille-europcar-sixt-leclerc) et notre [article DIY vs pro](/blog/location-camion-lille/location-camion-vs-demenageur-lille).
+Consultez notre [guide location camion Lille](/blog/demenagement-lille/location-camion-demenagement-lille-guide), notre [comparatif agences](/blog/demenagement-lille/agences-location-lille-europcar-sixt-leclerc) et notre [article DIY vs pro](/blog/demenagement-lille/location-camion-vs-demenageur-lille).
 
 
 

@@ -19,7 +19,7 @@ Le **déménagement handicap PMR Lille** (Personnes à Mobilité Réduite) néce
 
 À Lille, les **personnes handicap** déménageant (500-700/an estimés selon MDPH Maison Départementale Personnes Handicapées Nord 45 000 bénéficiaires métropole, turnover 1-1,5%/an) rencontrent **contraintes spécifiques** : **habitat ancien inaccessible** (Vieux-Lille/Wazemmes immeubles pré-1980 sans ascenseurs = 80% bâti, escaliers 1,1-1,4m étroits fauteuil 70 cm impossible, portes 70-75 cm vs fauteuil 70 cm serré, SDB non-adaptées baignoires vs douches), **habitat PMR récent** limité (constructions post-2005 normes accessibilité 20% parc seulement : Saint-Maurice résidences récentes, Lomme pavillons plain-pied, logements sociaux neufs LMH/Vilogia adaptés 3-5% parc = 1 500-2 500 logements PMR Lille sur 90 000 résidences totales). Les **acteurs spécialisés** Lille : déménageurs formules handicap (Lefebvre, Bretons proposent sur-demande +20%), **associations handicap** (APF France Handicap Nord 03 20 XX XX XX conseils déménagement, partenaires déménageurs conventionnés, aides financières PCH Prestation Compensation Handicap 500-2 000€ déménagement éligibles), **ergothérapeutes** (évaluent accessibilité nouveau logement avant engagement bail, conseils aménagements rampes/barres, 80-150€ visite).
 
-Ce guide détaille déménagement handicap Lille : services PMR, monte-meuble, accessibilité logements, déménageurs spécialisés, aides PCH, contraintes Vieux-Lille. Consultez notre [guide déménageur Lille](/blog/demenageur-lille/demenageur-lille-expert).
+Ce guide détaille déménagement handicap Lille : services PMR, monte-meuble, accessibilité logements, déménageurs spécialisés, aides PCH, contraintes Vieux-Lille. Consultez notre [guide déménageur Lille](/blog/demenagement-lille/demenageur-lille-expert).
 
 ## Services Spécifiques PMR
 
@@ -212,7 +212,7 @@ Personnes handicap Lille : 45 000 bénéficiaires MDPH Nord métropole, 500-700 
 
 Ergothérapeutes Lille : 15-20 libéraux (visite accessibilité logement 80-150€, évaluation complète portes/SDB/cuisine/circulation, rapport écrit bail + aides PCH, conseils aménagements coûts 200-1 500€ rampes aluminium 300-800€ + barres appui 50-200€ + douche plain-pied remplacement baignoire 1 500-3 000€), prescripteurs (médecins traitants orientent, remboursement Sécurité Sociale partiel 60% séances si prescription).
 
-Consultez notre [guide aide déménagement Lille](/blog/aide-demenagement-lille/aide-demenagement-particuliers-lille), notre [guide senior](/blog/aide-demenagement-lille/aide-demenagement-personnes-agees-lille), notre [guide déménageur spécialisé](/blog/demenageur-lille/demenageur-monte-meuble-lille-quand-necessaire) et notre [guide déménageur Lille](/blog/demenageur-lille/demenageur-lille-expert).
+Consultez notre [guide aide déménagement Lille](/blog/demenagement-lille/aide-demenagement-particuliers-lille), notre [guide senior](/blog/demenagement-lille/aide-demenagement-personnes-agees-lille), notre [guide déménageur spécialisé](/blog/demenagement-lille/demenageur-monte-meuble-lille-quand-necessaire) et notre [guide déménageur Lille](/blog/demenagement-lille/demenageur-lille-expert).
 
 
 

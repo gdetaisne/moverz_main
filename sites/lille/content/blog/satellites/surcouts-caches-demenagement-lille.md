@@ -19,7 +19,7 @@ Un devis déménagement Lille annonce 1 000€, la facture finale atteint 1 350�
 
 À Lille, éviter ces surcoûts nécessite vigilance : **devis PDF détaillé écrit** (pas estimation téléphone vague "dans les 900-1 000€"), **visite technique obligatoire** (déménageur voit volume réel, accès, étages = tarif juste), **questions explicites** ("Monte-meuble inclus si nécessaire ou surcoût ?", "Cartons fournis combien ?, "Tarif ferme ou révisable jour J ?"), **lecture conditions générales** (clauses révision tarif, frais additionnels possibles). Les déménageurs sérieux lillois (Déménagements Lefebvre 4.1/5, acteurs établis >5 ans) fournissent devis transparents incluant tous surcoûts prévisibles. Méfiez-vous acteurs low-cost (400€ T2 Leboncoin) omettant volontairement surcoûts pour appâter puis facturer 800-900€ jour J.
 
-Ce guide liste les 7 surcoûts cachés déménagement Lille, comment les détecter devis, questions à poser et astuces éviter. Consultez notre [guide prix Lille](/blog/prix-demenagement-lille/prix-demenagement-lille-guide).
+Ce guide liste les 7 surcoûts cachés déménagement Lille, comment les détecter devis, questions à poser et astuces éviter. Consultez notre [guide prix Lille](/blog/demenagement-lille/prix-demenagement-lille-guide).
 
 ## Les 7 Surcoûts Cachés Fréquents
 
@@ -119,7 +119,7 @@ Déménageurs sérieux lillois (Déménagements Lefebvre, acteurs établis) incl
 
 Budget réaliste T2 Wazemmes : devis initial 1 000€ + marge sécurité 10-15% (100-150€) = budget 1 100-1 150€ (couvre imprévus légers). Si facture finale >devis +20%, contestez (surcoûts abusifs). Payez sous réserve ("Payé sous réserve contestation surcoûts 280€ non justifiés"), réclamation écrite 48h, médiation consommateur si refus.
 
-Consultez notre [guide prix Lille](/blog/prix-demenagement-lille/prix-demenagement-lille-guide), notre [guide choix déménageur](/blog/demenageur-lille/choisir-demenageur-lille-10-criteres) incluant vérification devis détaillé et notre [article devis](/blog/demenageur-lille/devis-demenagement-lille-obtenir-comparer).
+Consultez notre [guide prix Lille](/blog/demenagement-lille/prix-demenagement-lille-guide), notre [guide choix déménageur](/blog/demenagement-lille/choisir-demenageur-lille-10-criteres) incluant vérification devis détaillé et notre [article devis](/blog/demenagement-lille/devis-demenagement-lille-obtenir-comparer).
 
 
 

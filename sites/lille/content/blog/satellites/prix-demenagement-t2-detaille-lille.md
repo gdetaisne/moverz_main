@@ -20,7 +20,7 @@ Un T2 lillois (30-35m², 35m³) coûte **900-1 100€** à déménager en formul
 
 À Lille, les T2 représentent 40% du parc locatif (114 062 ménages selon INSEE 2019, taille moyenne 1,9 personne = dominance studios/T2). Les flux typiques : étudiants/jeunes actifs Moulins-Wazemmes vers couples Saint-Maurice-Vauban (évolution vie), couples vers périphérie Lomme-Marcq (recherche espace), mobilité intra-Centre (Vieux-Lille, République, Opéra). Les déménageurs lillois (15+ acteurs) maîtrisent ces trajets métropole : Wazemmes → Lomme 10 km, Moulins → Saint-Maurice 6 km, Centre → Périphérie 8-12 km.
 
-Ce guide décompose le prix T2 Lille poste par poste : main d'œuvre (450-550€), camion (150-200€), matériel (100-150€), surcoûts (étages, accès, période). Exemples concrets 5 cas typiques lillois et optimisations budget. Consultez notre [guide prix déménagement Lille](/blog/prix-demenagement-lille/prix-demenagement-lille-guide).
+Ce guide décompose le prix T2 Lille poste par poste : main d'œuvre (450-550€), camion (150-200€), matériel (100-150€), surcoûts (étages, accès, période). Exemples concrets 5 cas typiques lillois et optimisations budget. Consultez notre [guide prix déménagement Lille](/blog/demenagement-lille/prix-demenagement-lille-guide).
 
 ## Décomposition Prix T2 Lille 1 000€
 
@@ -202,7 +202,7 @@ Facteurs variation : **Vieux-Lille +150-320€** (accès +150€ + monte-meuble 
 
 Prix T2 représente budget significatif (1 000€ = 1,5× loyer mensuel Wazemmes). Optimisez en sollicitant 3-4 devis (écart 150-300€ fréquent), choisissant formule adaptée (économique si temps disponible = -250€), déménageant basse saison (février vs juillet = -80-120€), évitant Vieux-Lille si possible (surcoût +15-20%). Couples lillois mobiles (changement logement tous 2-3 ans) : maîtriser ces prix optimise budget global mobilité.
 
-Consultez notre [guide prix déménagement Lille](/blog/prix-demenagement-lille/prix-demenagement-lille-guide), notre [article prix selon volume](/blog/demenageur-lille/prix-demenageur-lille-2025-volume) et notre [comparatif formules](/blog/demenageur-lille/formule-economique-cle-en-main-lille).
+Consultez notre [guide prix déménagement Lille](/blog/demenagement-lille/prix-demenagement-lille-guide), notre [article prix selon volume](/blog/demenagement-lille/prix-demenageur-lille-2025-volume) et notre [comparatif formules](/blog/demenagement-lille/formule-economique-cle-en-main-lille).
 
 
 

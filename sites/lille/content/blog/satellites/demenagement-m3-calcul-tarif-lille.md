@@ -20,7 +20,7 @@ Calculer le volume de votre T2 Wazemmes détermine le prix déménagement. Formu
 
 À Lille, estimer précisément votre volume évite sous-estimation (surcoût jour J si déménageur découvre +8m³ cachés) ou sur-estimation (payer pour volume inutile). La visite technique gratuite (déménageur vient compter réellement) reste la méthode la plus fiable : précision ±5% vs ±15-25% estimation personnelle. Les 15+ déménageurs lillois (Déménagements Lefebvre, Bretons, acteurs locaux) utilisent tous le m³ comme base calcul : comprendre ce système permet de vérifier que devis est cohérent (T2 35m³ facturé 1 500€ = 43€/m³ = anormalement cher, creusez).
 
-Ce guide détaille calcul m³ déménagement Lille (formule, coefficients, exemples T2/T3), tarifs moyens au m³ 2025, vérification devis cohérence et astuces réduire volume. Consultez notre [guide prix Lille](/blog/prix-demenagement-lille/prix-demenagement-lille-guide).
+Ce guide détaille calcul m³ déménagement Lille (formule, coefficients, exemples T2/T3), tarifs moyens au m³ 2025, vérification devis cohérence et astuces réduire volume. Consultez notre [guide prix Lille](/blog/demenagement-lille/prix-demenagement-lille-guide).
 
 ## Formule de Calcul Volume m³
 
@@ -169,7 +169,7 @@ Réduire volume économise directement : tri 25% affaires (T2 40m³ → 30m³) =
 
 Volume détermine 60-70% du prix : maîtriser calcul permet anticiper budget réaliste (T2 estimé 38m³ × 28€ = 1 064€ proche devis réels 1 000-1 150€ vs estimation vague "T2 = 800-1 200€" inutile). Formule universelle France mais coefficients Lille légèrement supérieurs grandes villes (accumulation urbaine) vs zones rurales (mobiliers réduits).
 
-Consultez notre [guide prix Lille](/blog/prix-demenagement-lille/prix-demenagement-lille-guide), notre [article facteurs prix](/blog/prix-demenagement-lille/facteurs-prix-demenagement-lille) positionnant volume comme critère #1 et notre [guide économies](/blog/prix-demenagement-lille/economiser-prix-demenagement-lille-astuces) incluant réduction volume.
+Consultez notre [guide prix Lille](/blog/demenagement-lille/prix-demenagement-lille-guide), notre [article facteurs prix](/blog/demenagement-lille/facteurs-prix-demenagement-lille) positionnant volume comme critère #1 et notre [guide économies](/blog/demenagement-lille/economiser-prix-demenagement-lille-astuces) incluant réduction volume.
 
 
 

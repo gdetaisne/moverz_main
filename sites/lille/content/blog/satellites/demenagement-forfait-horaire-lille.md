@@ -19,7 +19,7 @@ Forfait fixe 1 000€ ou tarif horaire 60€/h ? Les déménageurs lillois propo
 
 À Lille, 90% des déménagements T2-T3-maisons sont en **forfait** après visite technique précise (déménageur évalue volume, accès, étages, édite devis forfaitaire ferme). L'horaire se limite aux **petits déménagements** (studio 20m³ prévisible 3h, portage objet unique piano) où la durée est quasi-certaine. Les Déménagements Lefebvre (4.1/5) et acteurs lillois établis recommandent le forfait : transparence tarifaire, 0 surprise jour J, client et déménageur alignés (déménageur optimise temps = augmente marge, pas facturer heures supplémentaires client).
 
-Ce guide compare forfait vs horaire Lille : fonctionnement, calculs T2/T3, avantages/inconvénients, risques horaire et quand choisir chaque mode. Consultez notre [guide prix Lille](/blog/prix-demenagement-lille/prix-demenagement-lille-guide).
+Ce guide compare forfait vs horaire Lille : fonctionnement, calculs T2/T3, avantages/inconvénients, risques horaire et quand choisir chaque mode. Consultez notre [guide prix Lille](/blog/demenagement-lille/prix-demenagement-lille-guide).
 
 ## Forfait : Prix Fixe Sécurisé (90% Cas)
 
@@ -167,7 +167,7 @@ Forfait aligne déménageur/client : déménageur optimise temps (finir vite = r
 
 Studio Moulins 16m³ : horaire 2,5h × 120€ + 120€ = 420€ vs forfait 550€ (économie 130€ si durée respectée). T2 Wazemmes : forfait 1 000€ systématiquement (horaire trop risqué 6-8h variables). Demandez les 2 options dans devis si petit volume, comparez avec marge sécurité (+15% durée prévue horaire pour anticiper dépassements).
 
-Consultez notre [guide prix Lille](/blog/prix-demenagement-lille/prix-demenagement-lille-guide), notre [comparatif formules](/blog/demenageur-lille/formule-economique-cle-en-main-lille) et notre [guide choix déménageur](/blog/demenageur-lille/choisir-demenageur-lille-10-criteres).
+Consultez notre [guide prix Lille](/blog/demenagement-lille/prix-demenagement-lille-guide), notre [comparatif formules](/blog/demenagement-lille/formule-economique-cle-en-main-lille) et notre [guide choix déménageur](/blog/demenagement-lille/choisir-demenageur-lille-10-criteres).
 
 
 

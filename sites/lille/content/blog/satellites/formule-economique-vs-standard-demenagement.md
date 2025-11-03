@@ -19,7 +19,7 @@ Formule économique déménagement Lille (700€ T2) vs standard (1 000€) : **
 
 À Lille, la formule économique représente 25-30% des déménagements professionnels selon acteurs locaux (vs 65% standard tout inclus, 10% DIY intégral camion). Les Déménagements Lefebvre (4,1/5, 72 avis Google), Bretons Déménagements et Moverz proposent cette option. Profils typiques formule éco Lille : couples <35 ans (salaire modeste 1 800-2 200€ net/pers, économie 300€ = 1 semaine courses), étudiants doctorants/M2 (budget limité mais temps disponible soirs), familles monoparentales (contrainte financière, organisation étalée 3 semaines acceptable). Le seuil bascule éco → standard : salaire >2 800€/pers (18h × 25€ = 450€ temps valorisé > économie 300€), âge >40 ans (fatigue emballage 12h, dos sensibles), mobilier fragile valeur >8 000€ (emballage pro sécurise mieux).
 
-Ce guide compare formule économique vs standard déménagement Lille : coûts, prestations incluses/exclues, effort, timing, profils adaptés, calcul rentabilité. Consultez notre [guide déménagement pas cher Lille](/blog/demenagement-pas-cher-lille/demenagement-pas-cher-lille-guide).
+Ce guide compare formule économique vs standard déménagement Lille : coûts, prestations incluses/exclues, effort, timing, profils adaptés, calcul rentabilité. Consultez notre [guide déménagement pas cher Lille](/blog/demenagement-lille/demenagement-pas-cher-lille-guide).
 
 ## Comparatif Détaillé T2 Lille
 
@@ -114,21 +114,7 @@ Profils formule éco Lille : couples jeunes actifs 1 800-2 200€ salaire (écon
 
 Acteurs Lille proposant formule éco : Déménagements Lefebvre (4,1/5), Bretons Déménagements, Moverz (demandez devis "formule économique" explicitement, non affichée systématiquement site). Coût total réel éco : 700€ + 40-180€ matériel = 740-880€ (vs standard 1 000€, écart réel 120-260€ si cartons achetés vs 300€ affiché).
 
-## FAQ : Formule Économique vs Standard Lille
-
-### Quelle formule choisir pour un T2 à Lille ?
-
-**Formule économique** si : budget serré (économie 300€ significative), temps disponible (18h étalées 2-3 semaines), âge < 40 ans (effort acceptable), salaire < 2 000€/pers (temps peu valorisé). **Standard** si : budget confortable, temps limité (8h vs 18h), âge > 40 ans, salaire > 2 500€/pers (18h × 25€ = 450€ > économie 300€), mobilier fragile valeur élevée. Compromis optimal jeunes couples actifs : formule éco + assurance renforcée.
-
-### La formule économique inclut-elle le transport ?
-
-Oui, **formule éco inclut transport complet** : chargement camion (vos cartons/meubles démontés prêts), conduite professionnelle (assurance RC pro, expertise gabarit), déchargement destination, portage étages, installation emplacements. **Vous gérez** : emballage (60 cartons T2 = 12h), démontage meubles (3h), remontage (3h), achat matériel (40-180€). Total effort : 18h vs 8h standard, mais économie 300€.
-
-### Les déménageurs acceptent-ils l'emballage DIY ?
-
-Oui, **déménageurs acceptent** si emballage correct : cartons fermés scotchés, vaisselle protégée papier bulle/journal, meubles démontés rangés. **Refus si** : cartons ouverts (risque casse), objets fragiles non protégés, meubles non démontés (rallonge temps = facturation horaire supplémentaire). Astuce : photos emballage avant jour J, validez avec déménageur si doute. Lille : Lefebvre/Bretons vérifient emballage arrivée, exigent re-protection si insuffisant.
-
-Consultez notre [guide déménagement pas cher Lille](/blog/demenagement-pas-cher-lille/demenagement-pas-cher-lille-guide), notre [article DIY vs pro](/blog/location-camion-lille/location-camion-vs-demenageur-lille), notre [guide déménageurs Lille](/blog/demenageur-lille/demenageur-lille-expert) et notre [article prix T2](/blog/prix-demenagement-lille/prix-demenagement-t2-detaille-lille).
+Consultez notre [guide déménagement pas cher Lille](/blog/demenagement-lille/demenagement-pas-cher-lille-guide), notre [article DIY vs pro](/blog/demenagement-lille/location-camion-vs-demenageur-lille), notre [guide déménageurs Lille](/blog/demenagement-lille/demenageur-lille-expert) et notre [article prix T2](/blog/demenagement-lille/prix-demenagement-t2-detaille-lille).
 
 
 
