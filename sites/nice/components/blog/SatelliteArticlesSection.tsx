@@ -10,16 +10,15 @@ interface SatellitePost {
   title: string;
   word_count?: number;
   type: string;
+  imageUrl: string; // Image calculée côté serveur
 }
 
 interface SatelliteArticlesSectionProps {
   satellitePosts: SatellitePost[];
-  getImageForPost: (post: SatellitePost, index: number) => string;
 }
 
 export function SatelliteArticlesSection({ 
-  satellitePosts, 
-  getImageForPost 
+  satellitePosts
 }: SatelliteArticlesSectionProps) {
   const [showAll, setShowAll] = useState(false);
   
@@ -41,8 +40,7 @@ export function SatelliteArticlesSection({
         </div>
         
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-6xl mx-auto">
-          {displayedPosts.map((post, index) => {
-            const image = getImageForPost(post, index);
+          {displayedPosts.map((post) => {
             
             return (
               <Link 
@@ -50,14 +48,14 @@ export function SatelliteArticlesSection({
                 href={`/blog/${post.cleanCategory}/${post.cleanSlug}/`}
                 className="group"
               >
-                <article className="bg-white/5 backdrop-blur-sm border border-white/10 rounded-2xl overflow-hidden hover:border-white/30 hover:scale-105 hover:shadow-2xl hover:shadow-[#6bcfcf]/10 transition-all duration-300 h-full">
-                  {/* Image avec overlay gradient */}
-                  <div className="relative h-56 overflow-hidden">
-                    <img 
-                      src={image}
-                      alt={post.title}
-                      className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
-                    />
+                    <article className="bg-white/5 backdrop-blur-sm border border-white/10 rounded-2xl overflow-hidden hover:border-white/30 hover:scale-105 hover:shadow-2xl hover:shadow-[#6bcfcf]/10 transition-all duration-300 h-full">
+                      {/* Image avec overlay gradient */}
+                      <div className="relative h-56 overflow-hidden">
+                        <img 
+                          src={post.imageUrl}
+                          alt={post.title}
+                          className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
+                        />
                     <div className="absolute inset-0 bg-gradient-to-t from-[#04163a] via-[#04163a]/50 to-transparent"></div>
                     
                     {/* Badge catégorie */}

@@ -66,7 +66,13 @@ function getImageForPost(post: any, index: number) {
 export default function BlogPage() {
   const allPosts = getAllBlogPosts();
   const pilierPosts = getPilierPosts();
-  const satellitePosts = allPosts.filter(post => post.type === 'satellite');
+  const satellitePostsRaw = allPosts.filter(post => post.type === 'satellite');
+  
+  // Enrichir les posts avec les images côté serveur
+  const satellitePosts = satellitePostsRaw.map((post, index) => ({
+    ...post,
+    imageUrl: getImageForPost(post, index)
+  }));
 
   return (
     <main className="bg-hero min-h-screen">
@@ -240,7 +246,6 @@ export default function BlogPage() {
       {satellitePosts.length > 0 && (
         <SatelliteArticlesSection 
           satellitePosts={satellitePosts}
-          getImageForPost={getImageForPost}
         />
       )}
           </div>
