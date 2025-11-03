@@ -7,13 +7,110 @@
 
 ## 📊 Statistiques
 
-- **Total tâches finalisées** : 6
+- **Total tâches finalisées** : 9
 - **Octobre 2025** : 5
-- **Novembre 2025** : 1
+- **Novembre 2025** : 4
 
 ---
 
 ## ✅ Novembre 2025
+
+### ✅ TASK-022 : Sécurisation Système Tasks (7 scripts automation)
+
+**Finalisée le** : 02 novembre 2025  
+**Type** : Feature / Infrastructure  
+**Priorité** : P1  
+**Assigné** : Guillaume
+
+**Temps estimé** : 1h30  
+**Temps réel** : 1h10
+
+📁 **Documentation** : `.cursor/tasks/[P1]-TASK-022-securisation-systeme-tasks/`
+
+**Résumé** :
+Automatisation complète du système de gestion des tâches : 7 scripts (validation, health-check, détection zombies, dashboard, backup, template) + 7 guides documentation. Versionnés dans tools/tasks/ avec symlink .cursor/scripts. Cursor forcé de run health-check au démarrage via .cursorrules.
+
+**Livrables** :
+- 7 scripts automation (health-check, validate-tasks, check-incomplete, check-zombies, dashboard, backup, create-template)
+- 7 guides complets (installation, intégration, synthèse, etc.)
+- CURSOR-ONBOARDING.md (instructions démarrage Cursor)
+- .cursorrules MÀJ (section démarrage automatique)
+- Symlink .cursor/scripts → tools/tasks/scripts
+
+**Impact** :
+- Système tasks 100% sécurisé (validation forcée)
+- 0 tâches zombies garantie (détection auto)
+- Cursor onboarding automatique (health-check démarrage)
+- Partageable Lucie (versionné GitHub)
+
+**Commits** : `07b05ee`, `7949177`
+
+---
+
+### ✅ TASK-021 : Restructuration Repo (docs/ + scripts/ + perf)
+
+**Finalisée le** : 02 novembre 2025  
+**Type** : Refactor / Organization  
+**Priorité** : P1  
+**Assigné** : Guillaume
+
+**Temps estimé** : 1h30  
+**Temps réel** : 1h20
+
+📁 **Documentation** : `.cursor/tasks/[P1]-TASK-021-restructuration-repo/`
+
+**Résumé** :
+Restructuration complète du repo Moverz pour clarté et performances : documentation centralisée dans docs/, scripts catégorisés par fonction, .cursorignore créé (perf 5x), .gitignore optimisé (backups gitignored).
+
+**Livrables** :
+- Structure docs/ (architecture/, guides/, reports/, archives/)
+- Scripts catégorisés (analysis/, deploy/, sync/, seo/, fix/)
+- .cursorignore (39 lignes, perf 5x)
+- .gitignore MÀJ (backups/, données temp)
+- Package.json fixé (scripts manquants supprimés)
+- Fichiers racine : 27 → 17 (-37%)
+
+**Impact** :
+- Cursor 5x plus rapide (.cursorignore)
+- Repo CTO-grade (structure claire)
+- Documentation navigable (docs/ organisée)
+- Git futur +0MB (vs +37MB/an)
+
+**Commits** : `fd6cb04`, `ea6f06b`, `e035bdd`, `f6f082b`, `c04281f`, `9f1576a`, `ebd63e7`
+
+---
+
+### ✅ TASK-020 : Nettoyage Scripts Repo (Audit Automatique)
+
+**Finalisée le** : 02 novembre 2025  
+**Type** : Maintenance / Cleanup  
+**Priorité** : P2  
+**Assigné** : Guillaume
+
+**Temps estimé** : 1h  
+**Temps réel** : 45 min
+
+📁 **Documentation** : `.cursor/tasks/[P2]-TASK-020-nettoyage-scripts-repo/`
+
+**Résumé** :
+Audit automatique et nettoyage des scripts /scripts : analyse références (code, package.json, CI), suppression versions obsolètes, archivage scripts sans références. Passage de 95 scripts à 20 scripts actifs uniquement.
+
+**Livrables** :
+- Script audit automatique (analyse refs + syntaxe)
+- 14 scripts supprimés (versions test/final/v2/v3)
+- 60 scripts archivés (archive/scripts/20251102/)
+- 20 scripts conservés (actifs)
+- Rapport CSV complet (95 scripts analysés)
+
+**Impact** :
+- -79% scripts (95 → 20)
+- Repo plus clair et navigable
+- Scripts essentiels identifiés
+- 0 régression (aucun script actif supprimé)
+
+**Commits** : `87a28c7`
+
+---
 
 ### ✅ TASK-000 : Création Système TODO/Backlog Cursor 🎉
 

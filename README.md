@@ -78,13 +78,19 @@ cd sites/lille && npm run dev -- -p 4001
 
 ## 📚 Documentation
 
-- **`ARCHITECTURE.md`** - ⭐ **Architecture complète multi-sites (LIRE EN PREMIER)**
+### Architecture & Contexte
+- **`docs/architecture/ARCHITECTURE.md`** - ⭐ **Architecture complète multi-sites (LIRE EN PREMIER)**
+- **`docs/architecture/CONTEXT.md`** - Contexte pour AI/développeurs
+- **`docs/architecture/DECISIONS.md`** - Décisions techniques & historique
+
+### Guides Opérationnels
 - **`scripts/README.md`** - ⭐ **Guide complet des scripts de synchronisation**
-- `DEPLOY.md` - Guide de déploiement rapide
-- `BUILD.md` - Résolution problèmes de build
-- `TROUBLESHOOTING.md` - Dépannage général
-- `CONTEXT.md` - Contexte pour AI/développeurs
-- `SITES.md` - État et URLs des 11 sites
+- **`docs/guides/BUILD.md`** - Résolution problèmes de build
+- **`docs/guides/TROUBLESHOOTING.md`** - Dépannage général
+- **`docs/guides/SITES.md`** - État et URLs des 11 sites
+
+### Rapports & Analyses
+- `docs/reports/` - Rapports d'audit et synthèses de sessions
 
 ## 🛠️ Scripts de Synchronisation
 
@@ -139,7 +145,7 @@ cd sites/lille && npm run dev -- -p 4001
 3. **Vérifier** avec `validate-consistency.sh`
 4. Commit et déployer
 
-**Voir `ARCHITECTURE.md` section "Règles de Cohérence & Garde-Fous"**
+**Voir `docs/architecture/ARCHITECTURE.md` section "Règles de Cohérence & Garde-Fous"**
 
 ## 🐛 Troubleshooting
 
@@ -190,7 +196,7 @@ npm run dev
 
 ## 🚀 Déploiement vers Production
 
-Voir **`ARCHITECTURE.md`** pour la procédure complète de déploiement.
+Voir **`docs/architecture/ARCHITECTURE.md`** pour la procédure complète de déploiement.
 
 **Résumé rapide :**
 ```bash

@@ -11,39 +11,80 @@
 
 ## 🔥 EN COURS MAINTENANT
 
-*Aucune tâche en cours - Session terminée*
+*Aucune tâche en cours - Prêt pour le setup final*
 
-**Dernière session** : TASK-404-01 ✅ TERMINÉ (01/11/2025, 2h30)
+**Dernière session** : Documentation stratégique complète (02/11/2025, 4h)
 
 ---
 
-## 📅 PLANIFIÉ DEMAIN
+## ⚡ À FAIRE CE SOIR (URGENT - 5 MIN)
 
-### TASK-404-02 : Harmonisation Technique (1h15-2h15)
+### [P0]-TASK-023 : Setup Scripts Automation ← MAINTENANT
 
-**Priorité** : P0 (BLOQUE tout le reste projet 404)
+**Priorité** : P0 (Active tout le système créé aujourd'hui)  
+**Temps** : 5 minutes  
+**Type** : Setup one-time
 
 **Actions** :
-1. Fix cleanSlug() Marseille (15 min) → Remplacer bordeaux par marseille
-2. Fix cleanSlug() Lyon (15 min) → Remplacer bordeaux par lyon
-3. Retirer accents CATEGORY_MAPPING (30 min) → 11 villes
-4. Fix Nice satellites: null (2 min)
-5. Tests validation (15-30 min)
+1. ✅ Copie/colle 3 blocs commandes depuis `COMMANDES-A-FAIRE.md`
+2. ✅ Test `moverz` fonctionne
+3. ✅ Commit + push
+4. ✅ Test nouveau chat Cursor
 
-**Fichiers** :
-- `sites/marseille/lib/blog.ts`
-- `sites/lyon/lib/blog.ts`
-- `sites/nice/lib/blog.ts`
-- + 8 autres villes
+**Fichier** : `/COMMANDES-A-FAIRE.md` (tout est prêt à copier/coller)
+
+**Impact** :
+- Active validation pre-commit
+- Active dashboard "moverz"
+- Versionne tout sur GitHub
+- Cursor auto-éduqué au prochain chat
+
+---
+
+## 📅 PLANIFIÉ DEMAIN (2 NOV 2025)
+
+### 🎯 OBJECTIF SESSION : Option A ou B recommandée
+
+**Option A (2-3h) - Quick Wins** ⭐ RECOMMANDÉ :
+- ✅ TASK-404-02 (1h15-2h15) → Base technique propre
+- ✅ Article Toulouse (30 min) → 53 liens résolus
+- ✅ Catégories courtes (1h) → 147 liens résolus
+- **Résultat : 200 liens résolus (17% du CSV)**
+
+**Option B (3-4h) - Fondations complètes** :
+- ✅ TASK-404-02 (1h15-2h15) → Base technique propre
+- ✅ TASK-404-03 (1h) → Décision 104 articles (avec Lucie)
+- **Résultat : Prêt pour correction massive**
+
+---
+
+### TASK-404-02 : Harmonisation Technique (1h15-2h15) ← DÉMARRER ICI
+
+**Priorité** : P0 (BLOQUE tout le reste projet 404)  
+**Type** : 100% technique (Guillaume)
+
+**Actions** :
+1. Fix cleanSlug() Marseille (15 min) → Remplacer `bordeaux` par `marseille`
+2. Fix cleanSlug() Lyon (15 min) → Remplacer `bordeaux` par `lyon`
+3. Retirer accents CATEGORY_MAPPING (30 min) → 11 villes
+4. Fix Nice satellites: null → 'conseils' (2 min)
+5. Tests validation (15-30 min) → Build 3 villes
+
+**Fichiers à modifier** :
+- `sites/marseille/lib/blog.ts` (cleanSlug fix)
+- `sites/lyon/lib/blog.ts` (cleanSlug fix)
+- `sites/nice/lib/blog.ts` (satellites fix + accents)
+- `sites/*/lib/blog.ts` (8 autres villes - retrait accents)
 
 **Commande démarrage** :
 ```bash
 "Cursor, je démarre TASK-404-02"
 ```
 
-**Docs** :
-- `.cursor/RESUME-DEMARRAGE-DEMAIN-404.md` (guide complet)
-- `.cursor/TASKS-404-DETAILLEES.md` section TASK-404-02
+**Docs de référence** :
+- `.cursor/RESUME-DEMARRAGE-DEMAIN-404.md` (guide complet) ✅ déjà lu
+- `.cursor/TASKS-404-DETAILLEES.md` section TASK-404-02 (10 min lecture)
+- `.cursor/tasks/TASK-404-01-audit-structure/RAPPORT-INCONSISTANCES.md` (bugs détaillés)
 
 ---
 
@@ -61,11 +102,12 @@
 
 ---
 
-## ✅ FAIT AUJOURD'HUI (01/11/2025)
+## ✅ FAIT RÉCEMMENT
 
-### TASK-404-01 : Audit Structure Complète ✅
+### TASK-404-01 : Audit Structure Complète ✅ TERMINÉ
 
-**Temps** : 2h30 (estimé 2-3h)
+**Date** : 01/11/2025  
+**Temps** : 2h30 (estimé 2-3h) ✅
 
 **Accomplissements** :
 - ✅ Restructuration TASK-001/007 → 9 sous-tâches
@@ -76,6 +118,11 @@
 - ✅ 17 fichiers documentation créés
 - ✅ Plan TASK-404-02 à 404-09 validé
 - ✅ 3 commits GitHub (#a98ecc6, #f7e8414, #[pending])
+
+**Definition of Done** :
+- ✅ Code propre et documenté (17 fichiers)
+- ✅ Commits GitHub main + SHA documentés
+- ✅ Testé et validé (analyse complète 11 villes)
 
 **Docs créées** :
 - `.cursor/tasks/TASK-404-01-audit-structure/` (17 fichiers)
@@ -132,21 +179,35 @@
 ## 📊 PROGRESSION PROJET 404
 
 ```
-✅ TASK-404-01 : Audit (2h30) ✅ TERMINÉ
+✅ TASK-404-01 : Audit (2h30) ✅ TERMINÉ (01/11)
 
-⏭️ TASK-404-02 : Harmonisation (1h15-2h15) ← DEMAIN
-📋 TASK-404-03 : Décision (1h)
-📋 TASK-404-04 : Création (OPTIONNEL 20-30h)
-📋 TASK-404-05 : Correction AUTO (4-6h) → 963 liens !
-📋 TASK-404-06 : Validation (1h)
-📋 TASK-404-07 : Redirections 301 (3h30-5h30)
-📋 TASK-404-08 : Homepage (2h30-3h30)
-📋 TASK-404-09 : Validation finale (2-3h)
+⏭️ TASK-404-02 : Harmonisation (1h15-2h15) ← DEMAIN [Guillaume]
+📋 TASK-404-03 : Décision (1h) [Guillaume + Lucie]
+📋 TASK-404-04 : Création contenu (20-30h) OPTIONNEL [Lucie]
+📋 TASK-404-05 : Correction AUTO (4-6h) → 963 liens ! [Guillaume]
+📋 TASK-404-06 : Validation (1h) [Guillaume ou Lucie]
+📋 TASK-404-07 : Redirections 301 (3h30-5h30) [Guillaume]
+📋 TASK-404-08 : Homepage (2h30-3h30) [Guillaume ou Lucie]
+📋 TASK-404-09 : Validation finale (2-3h) [Guillaume + Lucie]
 
-Progression : 15% (2h30/16h45 minimum)
-Résolution attendue finale : 95-99% (2400+ liens sur 2500)
+Progression : 11% (2h30/22h estimé sans création contenu)
+Résolution attendue : 95-99% (2400+ liens sur 2500)
 ```
 
 ---
 
-*Dernière mise à jour : 2025-11-01 18h45*
+## 🔥 AUTRES TÂCHES EN COURS (finaliser après 404)
+
+**7 tâches à 70-95% complètes** :
+- TASK-006 : Canonicals bugs (P1, 95%, 2h30 restant)
+- TASK-011 : Fix 308 Nice (P0, 90%, tests deployment)
+- TASK-012 : Villes hardcodées (P1, 85%, tests)
+- TASK-013 : Internal linking (P2, 75%)
+- TASK-014 : Metadata SEO (P2, 80%)
+- TASK-009 : Schema.org (P2, 70%)
+
+**Stratégie** : Finir projet 404 en priorité, puis finaliser ces 7 tâches.
+
+---
+
+*Dernière mise à jour : 2025-11-02*
