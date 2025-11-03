@@ -2,53 +2,13 @@ import { MetadataRoute } from 'next'
 import { env } from '@/lib/env'
 import { getCityDataFromUrl } from '@/lib/cityData'
 import { getCanonicalUrl } from '@/lib/canonical-helper'
-import fs from 'fs'
-import path from 'path'
-import matter from 'gray-matter'
-
-// Fonction pour lire les articles de blog de la ville
-function getCityBlogPosts() {
-  const blogDirectory = path.join(process.cwd(), 'content/blog')
-  
-  if (!fs.existsSync(blogDirectory)) {
-    console.warn('Blog directory not found:', blogDirectory)
-    return []
-  }
-  
-  const categories = fs.readdirSync(blogDirectory, { withFileTypes: true })
-    .filter(dirent => dirent.isDirectory())
-    .map(dirent => dirent.name)
-
-  const allPosts: any[] = []
-
-  categories.forEach(category => {
-    const categoryPath = path.join(blogDirectory, category)
-    const files = fs.readdirSync(categoryPath)
-      .filter(file => file.endsWith('.md') && file !== 'README.md')
-
-    files.forEach(file => {
-      const filePath = path.join(categoryPath, file)
-      const fileContents = fs.readFileSync(filePath, 'utf8')
-      const { data } = matter(fileContents)
-
-      allPosts.push({
-        slug: data.slug || file.replace('.md', ''),
-        title: data.title,
-        category: category,
-        type: data.type || 'satellite',
-        publish_date: data.publish_date || data.date || new Date().toISOString().split('T')[0]
-      })
-    })
-  })
-
-  return allPosts.sort((a, b) => new Date(b.publish_date).getTime() - new Date(a.publish_date).getTime())
-}
+import { getAllBlogPosts } from '@/lib/blog'
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const city = getCityDataFromUrl(env.SITE_URL)
   
-  // Récupérer les articles de blog de la ville
-  const blogPosts = getCityBlogPosts()
+  // Récupérer les articles de blog avec cleanCategory et cleanSlug
+  const blogPosts = getAllBlogPosts()
   
   // Pages statiques principales
   const staticPages: MetadataRoute.Sitemap = [
