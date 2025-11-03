@@ -129,6 +129,20 @@ Franchise = montant votre charge : dégât 800€ = payez 800€ intégralement 
 
 Europcar Flandres optimal assurance novices : franchise réduite 150€ (vs 250-350€ concurrents) avec rachat 18€/j (moins cher). Leclerc rachat 15€/j moins cher mais franchise finale 350€ (moins protecteur). Arbitrage : Europcar = meilleure protection (36€ weekend → franchise 150€), Leclerc = moins cher rachat (30€ → franchise 350€). Probabilité accident ×coût si accident : 10% × 1 350€ (sans rachat) = 135€ vs 36-50€ rachat = rachat rentable.
 
+## FAQ : Assurance Location Camion Lille
+
+### L'assurance camion est-elle obligatoire ?
+
+**Assurance responsabilité civile obligatoire** (incluse location, couvre tiers). **Rachat franchise optionnel** mais fortement recommandé : novices prob accident 8-12%, franchise 1 000-1 500€ sans rachat. Rachat 18-25€/jour réduit franchise à 150-350€. ROI novices : 18€ protège contre 1 500€ = rationnel. Expérimentés (10+ locations) : auto-assurance acceptable si prob < 3%.
+
+### Quelle agence a la meilleure assurance ?
+
+**Europcar Flandres** meilleure : franchise réduite **150€** avec rachat 18€/jour (vs Sixt 250€, Leclerc 350€). Protection weekend : 36€ total (18€×2j) = franchise finale 150€ vs Leclerc 30€ mais franchise 350€. Différence réelle si accident 600€ : Europcar payez 150€, Leclerc 350€ = Europcar +6€ rachat mais -200€ si sinistre.
+
+### Que faire en cas d'accident avec le camion ?
+
+**Procédure accident** : 1) Sécurisez (triangle, gilet), 2) Constat amiable détaillé (photos, témoins), 3) Appelez agence location immédiatement, 4) Déclarez assurance 48h max, 5) Franchise prélevée CB caution puis remboursement si non responsable. Franchise payée : avec rachat 150-350€, sans rachat 1 000-1 500€. Lille Vieux-Lille accident : photos rues étroites prouvent difficultés (expertise favorable).
+
 Consultez notre [guide location Lille](/blog/location-camion-lille/location-camion-demenagement-lille-guide), notre [comparatif agences](/blog/location-camion-lille/agences-location-camion-lille-comparatif) et notre [article permis B](/blog/location-camion-lille/permis-b-camion-demenagement-limites).
 
 

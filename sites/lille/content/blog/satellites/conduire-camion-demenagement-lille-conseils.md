@@ -90,6 +90,20 @@ Erreurs fréquentes novices Lille : rétroviseur arraché rues étroites (35% ac
 
 Spécificités Lille : cyclistes nombreux (pistes cyclables, Vieux-Lille/Centre), rues pavées Vieux-Lille (adhérence réduite pluie), circulation dense République/Opéra (patience), zones 30 km/h (respectez). Camion chargé 3t : freinage +30% distance, accélérations lentes, tenue route réduite (arrimez correctement).
 
+## FAQ : Conduire Camion Déménagement Lille
+
+### Peut-on conduire un camion 20m³ avec permis B ?
+
+Oui, **permis B suffit** si camion PTAC < 3,5t (vérifié carte grise location). Camions 20m³ déménagement : généralement 3,2-3,4t PTAC OK. Camions > 20m³ ou utilitaires lourds : vérifiez PTAC (parfois > 3,5t = permis C nécessaire). Agences Lille (Sixt, Europcar, Leclerc) louent uniquement permis B compatibles (20m³ standard 3,2t). Novices : optez 12-15m³ d'abord (plus maniable, même permis).
+
+### Le Vieux-Lille est-il vraiment difficile en camion ?
+
+Oui, **Vieux-Lille très difficile** : rues 3-4m largeur (camion 2,2m = 40-90cm chaque côté), pavés (adhérence réduite), sens uniques complexes, piétons/cyclistes nombreux, stationnement impossible. Accidents location : 35% Vieux-Lille (rétroviseurs arrachés, rayures). **Évitez si novice**, privilégiez itinéraires périphériques. Si obligé (logement Vieux-Lille) : passager guide à pied, vitesse 10 km/h max, créneaux tôt matin (6h-8h = trafic minimum).
+
+### Combien de temps pour s'habituer à un camion ?
+
+**Adaptation rapide** : 30 min pratique parking vide + 30 min conduite quartier calme = minimum. Novices total : 1-2h recommandées (pratique créneaux, marche arrière, freinage). Après 2-3h conduite : aisance correcte. Expérimentés voiture : adaptation 15-30 min (différences angle mort, gabarit). **Erreur** : louer camion et charger directement sans pratique = accidents 3× plus fréquents.
+
 Consultez notre [guide location Lille](/blog/location-camion-lille/location-camion-demenagement-lille-guide), notre [comparatif agences](/blog/location-camion-lille/agences-location-camion-lille-comparatif) et notre [article assurance](/blog/location-camion-lille/assurance-location-camion-lille-franchise).
 
 
