@@ -69,6 +69,30 @@ Ces éléments s'inscrivent dans le contexte plus large de notre [louer un camio
 
 Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [location véhicule utilitaire Nice](/blog/location-camion/location-camion-demenagement-nice-guide).
 
+Pensez également à vérifier les [conditions de caution](/blog/location-camion/caution-location-camion-nice) et nos [conseils pour conduire un camion dans le Vieux-Nice](/blog/location-camion/conduire-camion-vieux-nice-conseils).
+
+## FAQ : Assurance Location Utilitaire Nice
+
+### L'assurance tous risques est-elle obligatoire pour louer un camion à Nice ?
+
+Non, l'assurance **tous risques n'est pas obligatoire**. Seule la **responsabilité civile** (RC) est obligatoire et elle est automatiquement incluse dans le tarif de location. L'assurance tous risques est **optionnelle** (+15-25€/jour) mais fortement recommandée à Nice, particulièrement si vous conduisez dans le **Vieux-Nice** (rues étroites 2-4m, risque rayures élevé) ou à **Cimiez** (pentes raides). Sans tous risques, vous payez la franchise complète (1 200-1 500€) en cas de dommage même mineur.
+
+### Que couvre exactement l'assurance tous risques ?
+
+L'assurance **tous risques** couvre : 1) Les **dommages au véhicule loué** (rayures, bosses, bris de glace), 2) Le **vol du véhicule**, 3) Les **dommages causés aux tiers** (déjà couvert par RC mais renfort), 4) Parfois le **vol du contenu** (vérifier conditions). Elle **ne couvre généralement pas** : dommages intérieurs (déchirure sièges, taches), dommages sous caisse (frottement trottoir), conduite sous influence. Franchise réduite : 150-300€ au lieu de 1 200-1 500€.
+
+### Comment est prélevée la caution si j'ai l'assurance tous risques ?
+
+Même avec l'assurance tous risques, l'agence prélève une **caution complète** (800-1 500€ selon véhicule) sur votre carte bancaire. La différence : en cas de dommage, vous ne payez que la **franchise réduite** (150-300€) au lieu de la franchise standard (1 200-1 500€). Le reste de la caution est restitué. Exemple : rayure 400€ avec tous risques → vous payez 200€ (franchise réduite), assurance paie 200€, caution restituée 800€ sur 1 000€. Délai restitution : 7-10 jours identique.
+
+### L'assurance de ma carte bancaire couvre-t-elle la location ?
+
+Certaines **cartes bancaires premium** (Visa Premier, Gold Mastercard) incluent une assurance location véhicule, mais attention aux **exclusions** : 1) Souvent limitée aux **véhicules légers** (<3,5 tonnes), excluant les gros camions 35m³, 2) **Franchise élevée** (500-800€ vs 150-300€ avec tous risques loueur), 3) **Démarche complexe** (déclaration sous 48h, expertise, justificatifs). Vérifiez vos conditions avant de refuser l'assurance loueur. À Nice, pour 1 journée +20€, l'assurance loueur reste plus simple et souvent plus protectrice.
+
+### Que se passe-t-il si je rends le camion avec un dommage ?
+
+Si vous rendez le camion avec un **dommage** (rayure, bosse), l'agent constate lors de l'inspection retour et : 1) **Avec tous risques** : vous payez la franchise réduite (150-300€), le reste est couvert, 2) **Sans tous risques** : vous payez l'intégralité jusqu'à la franchise (1 200-1 500€). L'agence fait un **devis réparation** puis prélève le montant sur votre caution. Le solde est restitué sous 7-10 jours. **Conseil** : prenez des photos détaillées à la prise ET au retour pour contester tout dommage contestable.
+
 ## Conclusion
 
 L'assurance **RC est incluse** (couvre tiers). L'assurance **tous risques** (+15-25€/jour) réduit franchise de 1 500€ à 150-300€ et couvre rayures/bosses utilitaire. **Recommandée à Nice** si conduite Vieux-Nice (rues 2-4m = risque élevé), Cimiez (pentes), ou inexpérience camion.

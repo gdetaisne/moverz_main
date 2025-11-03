@@ -103,6 +103,30 @@ Ces éléments s'inscrivent dans le contexte plus large de notre [solutions pas 
 
 Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [réduire le coût de votre déménagement niçois](/blog/demenagement-pas-cher/demenagement-pas-cher-nice-guide).
 
+Si vous cherchez d'autres astuces pour économiser, découvrez nos [15 astuces pour un déménagement pas cher à Nice](/blog/demenagement-pas-cher/astuces-demenagement-pas-cher-nice) et notre guide sur [comment calculer le prix de votre déménagement](/blog/demenagement-general/calculer-prix-demenagement-nice).
+
+## FAQ : Cartons Gratuits Nice
+
+### Où trouver des cartons gratuits à Nice le dimanche ?
+
+Le **dimanche**, vos meilleures options sont les **marchés** qui fonctionnent 7j/7 : le **marché de Libération** (Place du Général de Gaulle, 6h-13h30) et le **Cours Saleya** dans le Vieux-Nice (6h-13h). Allez-y entre 7h et 9h quand les commerçants déballent leurs marchandises. Les supermarchés sont également ouverts le dimanche matin : Carrefour Lingostière et Auchan Cap 3000. Demandez au service drive ou à l'accueil. Comptez 15-25 cartons en une seule visite au marché de Libération.
+
+### Combien de cartons faut-il pour déménager un T2 à Nice ?
+
+Pour un **T2 standard à Nice** (40-45m²), prévoyez **30 à 40 cartons** selon la quantité de possessions. Répartition type : 10-12 cartons cuisine/vaisselle, 8-10 cartons vêtements, 5-8 cartons livres, 5-10 cartons objets divers. Si vous récupérez gratuitement, prenez 10% de plus (certains cartons seront abîmés). Économie : 60-90€ vs achat neuf. Les **étudiants niçois** récupèrent généralement leurs cartons sur 2-3 semaines au marché de Libération (10-15 cartons par visite).
+
+### Les cartons de supermarchés sont-ils assez solides ?
+
+Oui, les **cartons de supermarchés** sont généralement très solides, surtout ceux de **produits lourds** (conserves, bouteilles, produits ménagers). Les meilleurs : cartons de jus de fruits, lait, vin (double épaisseur, renforcés). Évitez les cartons de chips ou céréales (trop légers). Les **cartons de fruits et légumes** des marchés sont particulièrement résistants car conçus pour supporter 10-20kg. Vérifiez toujours que le fond est intact, sans déchirure. Un bon carton gratuit = aussi solide qu'un carton neuf.
+
+### Peut-on récupérer des cartons déjà utilisés sur Leboncoin à Nice ?
+
+Oui, **Leboncoin** et les **groupes Facebook** ("Déménagement Nice 06", "Gratuit Nice", "Vide Maison Nice") proposent régulièrement des lots de cartons d'occasion gratuits ou à prix symbolique (10-20€ les 30 cartons). Avantages : quantité importante d'un coup, déjà aux bonnes dimensions. Inconvénient : dépend des annonces disponibles au moment de votre recherche. Contactez les personnes venant de déménager dans votre quartier pour faciliter la récupération.
+
+### Quand commencer à récupérer des cartons pour son déménagement ?
+
+Commencez à récupérer vos cartons **2 à 3 semaines avant** votre déménagement. C'est le timing optimal : assez tôt pour accumuler la quantité nécessaire sans stress, mais pas trop tôt pour éviter qu'ils n'encombrent votre logement pendant des mois. Méthode efficace : 1-2 visites au marché par semaine (10-15 cartons à chaque), complétées par opportunités (supermarchés quand vous faites vos courses). Stockez les cartons pliés à plat pour gagner de l'espace (20-30 cartons = 15-20cm de hauteur).
+
 ## Conclusion
 
 Les **cartons gratuits à Nice** se trouvent aux **marchés Libération et Cours Saleya** (7h-9h, 20-30 cartons), **Carrefour Lingostière et Leclerc** (demander drive/réception, 10-20 cartons), et **magasins centre-ville** (5-10 cartons par enseigne). **Économie : 30-90€** (vs achat 30 cartons à 2-3€).

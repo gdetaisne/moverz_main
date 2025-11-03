@@ -78,6 +78,30 @@ Ces éléments s'inscrivent dans le contexte plus large de notre [louer un camio
 
 Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [location véhicule utilitaire Nice](/blog/location-camion/location-camion-demenagement-nice-guide).
 
+Consultez également notre guide sur [l'assurance tous risques](/blog/location-camion/assurance-location-utilitaire-nice) et [l'autorisation de stationnement obligatoire](/blog/location-camion/autorisation-stationnement-demenagement-nice) dans le Vieux-Nice.
+
+## FAQ : Conduire Camion Vieux-Nice
+
+### Peut-on vraiment conduire un camion de 20m³ dans le Vieux-Nice ?
+
+**Techniquement oui, pratiquement NON**. Un camion 20m³ (Master, largeur 2,2m avec miroirs) passe dans les rues principales (3-3,5m), mais 50% des rues du Vieux-Nice font 2-2,5m de large, soit seulement **15-30cm de marge totale**. Le risque de rayure est de **60-70%** d'après les agences de location niçoises. Les réparations coûtent 300-800€. Si vous n'êtes pas conducteur professionnel avec expérience quotidienne du Vieux-Nice, **c'est fortement déconseillé**. Privilégiez un 12m³ ou faites appel à un déménageur professionnel local.
+
+### Quelle taille de camion maximum pour le Vieux-Nice ?
+
+La taille **maximum recommandée** est un **12m³** (type Kangoo/Partner, largeur 1,9m + miroirs = 2,1m total). Ce gabarit passe dans 90% des rues du Vieux-Nice avec une marge confortable de 20-40cm de chaque côté. Les **20m³** passent techniquement dans 50% des rues mais nécessitent une expertise professionnelle. Les **35m³** sont **impossibles** dans le Vieux-Nice (largeur 2,4m, trop large). Si vous avez plus de 12m³ à déménager, stationnez en périphérie et faites des navettes.
+
+### L'assurance tous risques est-elle nécessaire pour conduire dans le Vieux-Nice ?
+
+Oui, l'**assurance tous risques est fortement recommandée** (+15-25€/jour) si vous conduisez dans le Vieux-Nice. Sans elle, la franchise en cas de rayure est de **1 200-1 500€**, et les rayures arrivent dans 60-70% des cas. Avec tous risques, la franchise descend à **150-300€**. Économie potentielle : 900-1 300€. Pour 20€ d'investissement, vous êtes protégé contre un risque très probable. C'est **l'une des meilleures assurances** que vous puissiez prendre à Nice.
+
+### Y a-t-il des horaires interdits pour circuler en camion dans le Vieux-Nice ?
+
+Le Vieux-Nice est largement **piétonnier avec accès réglementé**. Les livraisons et déménagements sont généralement autorisés **tôt le matin** (6h-10h ou 6h-12h selon les rues). Après 10h-12h, certaines rues deviennent 100% piétonnes et l'accès est interdit même avec autorisation de stationnement. **Vérifiez avec la mairie** (nice.fr) les horaires précis de votre rue. Une **autorisation de stationnement** (50-100€, délai 5-7j) est quasi-obligatoire et précise les horaires autorisés.
+
+### Faut-il obligatoirement passer par un déménageur pro pour le Vieux-Nice ?
+
+Pas **obligatoirement**, mais c'est **fortement recommandé** : 1) Les pros niçois (Akte 21, Les Collinettes) connaissent parfaitement les rues, 2) Ils ont le matériel adapté (petits utilitaires, monte-meubles, diables), 3) Leur assurance professionnelle couvre les risques, 4) Ils gèrent l'autorisation stationnement. **Surcoût** : +15-25% vs location autonome. Mais **économie de stress et risques** : 0% rayures vs 60-70% en autonomie. Pour un déménagement Vieux-Nice, le professionnel est souvent plus rentable (pas de rayure 500€ + gain temps 3h).
+
 ## Conclusion
 
 **Conduire camion Vieux-Nice FORTEMENT DÉCONSEILLÉ** : rues 2-4m, utilitaires 2-2,2m = risque rayures 60-70% (300-800€ réparations). **Solutions** : 12m³ max (largeur 1,9m acceptable), stationner périphérie + navettes, ou **déménageur pro** (Akte 21, Les Collinettes maîtrisent, surcoût +15-25% justifié vs risque casse/rayures).
