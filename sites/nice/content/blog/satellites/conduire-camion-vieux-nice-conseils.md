@@ -78,7 +78,7 @@ Ces éléments s'inscrivent dans le contexte plus large de notre [louer un camio
 
 Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [location véhicule utilitaire Nice](/blog/location-camion/location-camion-demenagement-nice-guide).
 
-Consultez également notre guide sur [l'assurance tous risques](/blog/location-camion/assurance-location-utilitaire-nice) et [l'autorisation de stationnement obligatoire](/blog/location-camion/autorisation-stationnement-demenagement-nice) dans le Vieux-Nice.
+Consultez également notre guide sur [l'assurance tous risques](/blog/location-camion-nice/assurance-location-utilitaire-nice/) et [l'autorisation de stationnement obligatoire](/blog/demenageur-nice/autorisation-stationnement-demenagement-nice/) dans le Vieux-Nice.
 
 ## FAQ : Conduire Camion Vieux-Nice
 

@@ -79,9 +79,9 @@ Ces éléments s'inscrivent dans le contexte plus large de notre [solutions pas 
 
 Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [réduire le coût de votre déménagement niçois](/blog/demenagement-pas-cher/demenagement-pas-cher-nice-guide).
 
-Pour aller plus loin dans votre recherche, consultez notre [guide complet pour choisir un déménageur à Nice](/blog/demenagement-general/choisir-demenageur-nice-criteres) et notre [analyse des avis déménageurs Nice](/blog/demenagement-general/avis-demenageurs-nice-guide).
+Pour aller plus loin dans votre recherche, consultez notre [guide complet pour choisir un déménageur à Nice](/blog/demenageur-nice/choisir-demenageur-nice-criteres/) et notre [analyse des avis déménageurs Nice](/blog/demenageur-nice/avis-demenageurs-nice-guide/).
 
-Si vous souhaitez estimer précisément votre budget, notre [guide des prix de déménagement à Nice](/blog/prix-demenagement-nice/prix-demenagement-nice-guide) vous donnera toutes les fourchettes tarifaires par type de logement.
+Si vous souhaitez estimer précisément votre budget, notre [guide des prix de déménagement à Nice](/blog/prix-demenagement-nice/prix-demenagement-nice-guide/) vous donnera toutes les fourchettes tarifaires par type de logement.
 
 ## FAQ : Comparateur Devis Déménagement Nice
 

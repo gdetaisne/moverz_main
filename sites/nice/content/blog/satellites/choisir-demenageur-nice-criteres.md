@@ -164,7 +164,7 @@ Un **devis professionnel** doit mentionner :
 
 Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [nos services de déménagement niçois](/blog/demenageur/demenageur-nice-guide-complet).
 
-Pour comparer les offres efficacement, consultez notre [comparateur de devis déménagement à Nice](/blog/demenagement-general/comparateur-devis-demenagement-nice) et notre [analyse des avis déménageurs](/blog/demenagement-general/avis-demenageurs-nice-guide). Si le budget est une préoccupation, découvrez nos [astuces pour un déménagement pas cher à Nice](/blog/demenagement-pas-cher/demenagement-pas-cher-nice-guide).
+Pour comparer les offres efficacement, consultez notre [comparateur de devis déménagement à Nice](/blog/demenagement-pas-cher-nice/comparateur-devis-demenagement-nice/) et notre [analyse des avis déménageurs](/blog/demenageur-nice/avis-demenageurs-nice-guide/). Si le budget est une préoccupation, découvrez nos [astuces pour un déménagement pas cher à Nice](/blog/demenagement-pas-cher-nice/demenagement-pas-cher-nice-guide/).
 
 ## FAQ : Choisir un Déménageur Nice
 

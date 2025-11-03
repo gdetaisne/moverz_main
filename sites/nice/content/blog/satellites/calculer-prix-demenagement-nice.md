@@ -101,7 +101,7 @@ Ces éléments s'inscrivent dans le contexte plus large de notre [tarifs démén
 
 Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [comprendre les coûts de déménagement niçois](/blog/prix-demenagement/prix-demenagement-nice-guide).
 
-Si vous cherchez à réduire vos coûts, découvrez nos [astuces pour un déménagement pas cher à Nice](/blog/demenagement-pas-cher/demenagement-pas-cher-nice-guide) et notre [comparateur de devis](/blog/demenagement-general/comparateur-devis-demenagement-nice) pour économiser 300-600€.
+Si vous cherchez à réduire vos coûts, découvrez nos [astuces pour un déménagement pas cher à Nice](/blog/demenagement-pas-cher-nice/demenagement-pas-cher-nice-guide/) et notre [comparateur de devis](/blog/demenagement-pas-cher-nice/comparateur-devis-demenagement-nice/) pour économiser 300-600€.
 
 ## FAQ : Calculer Prix Déménagement Nice
 
@@ -123,7 +123,7 @@ Les **écarts de 30-50%** entre déménageurs s'expliquent par : 1) **Formule di
 
 ### Comment réduire le prix calculé de 30-50% ?
 
-Pour **réduire le prix** : 1) **Désencombrez** avant (volume -30% = prix -25%), 2) **Déménagez en basse saison** (novembre-mars, -20-30%), 3) **Choisissez un jour de semaine** (mardi-jeudi, -15-25%), 4) **Emballez vous-même** (formule économique, -40%), 5) **Récupérez cartons gratuits** (économie 60-90€), 6) **Négociez** après comparaison devis (-10-15%). Combiner 3-4 astuces = économie totale 40-60%. Consultez nos [15 astuces déménagement pas cher](/blog/demenagement-pas-cher/astuces-demenagement-pas-cher-nice).
+Pour **réduire le prix** : 1) **Désencombrez** avant (volume -30% = prix -25%), 2) **Déménagez en basse saison** (novembre-mars, -20-30%), 3) **Choisissez un jour de semaine** (mardi-jeudi, -15-25%), 4) **Emballez vous-même** (formule économique, -40%), 5) **Récupérez cartons gratuits** (économie 60-90€), 6) **Négociez** après comparaison devis (-10-15%). Combiner 3-4 astuces = économie totale 40-60%. Consultez nos [15 astuces déménagement pas cher](/blog/demenagement-pas-cher-nice/astuces-demenagement-pas-cher-nice/).
 
 ## Conclusion
 

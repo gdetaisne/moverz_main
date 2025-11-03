@@ -69,7 +69,7 @@ Ces éléments s'inscrivent dans le contexte plus large de notre [louer un camio
 
 Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [location véhicule utilitaire Nice](/blog/location-camion/location-camion-demenagement-nice-guide).
 
-Pensez également à vérifier les [conditions de caution](/blog/location-camion/caution-location-camion-nice) et nos [conseils pour conduire un camion dans le Vieux-Nice](/blog/location-camion/conduire-camion-vieux-nice-conseils).
+Pensez également à vérifier les [conditions de caution](/blog/location-camion-nice/caution-location-camion-nice/) et nos [conseils pour conduire un camion dans le Vieux-Nice](/blog/location-camion-nice/conduire-camion-vieux-nice-conseils/).
 
 ## FAQ : Assurance Location Utilitaire Nice
 

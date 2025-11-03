@@ -103,7 +103,7 @@ Ces éléments s'inscrivent dans le contexte plus large de notre [solutions pas 
 
 Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [réduire le coût de votre déménagement niçois](/blog/demenagement-pas-cher/demenagement-pas-cher-nice-guide).
 
-Si vous cherchez d'autres astuces pour économiser, découvrez nos [15 astuces pour un déménagement pas cher à Nice](/blog/demenagement-pas-cher/astuces-demenagement-pas-cher-nice) et notre guide sur [comment calculer le prix de votre déménagement](/blog/demenagement-general/calculer-prix-demenagement-nice).
+Si vous cherchez d'autres astuces pour économiser, découvrez nos [15 astuces pour un déménagement pas cher à Nice](/blog/demenagement-pas-cher-nice/astuces-demenagement-pas-cher-nice/) et notre guide sur [comment calculer le prix de votre déménagement](/blog/prix-demenagement-nice/calculer-prix-demenagement-nice/).
 
 ## FAQ : Cartons Gratuits Nice
 

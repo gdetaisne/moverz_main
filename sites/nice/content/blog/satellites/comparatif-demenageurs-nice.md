@@ -77,7 +77,7 @@ Pour tout comprendre sur [comment choisir selon vos critères](/blog/demenageur/
 
 Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [nos services de déménagement niçois](/blog/demenageur/demenageur-nice-guide-complet).
 
-Consultez également nos guides sur [les avis déménageurs détaillés](/blog/demenagement-general/avis-demenageurs-nice-guide), le [comparateur de devis](/blog/demenagement-general/comparateur-devis-demenagement-nice) et [les prix détaillés](/blog/prix-demenagement/prix-demenagement-nice-guide).
+Consultez également nos guides sur [les avis déménageurs détaillés](/blog/demenageur-nice/avis-demenageurs-nice-guide/), le [comparateur de devis](/blog/demenagement-pas-cher-nice/comparateur-devis-demenagement-nice/) et [les prix détaillés](/blog/prix-demenagement-nice/prix-demenagement-nice-guide/).
 
 ## FAQ : Comparatif Déménageurs Nice
 

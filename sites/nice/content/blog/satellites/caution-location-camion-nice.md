@@ -75,7 +75,7 @@ Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [loca
 
 **Vieux-Nice :** Risque rayures 60-70% (rues 2-4m) → Assurance tous risques +20€/jour recommandée (franchise 200€ vs 1 500€).
 
-Pour plus d'informations, consultez notre guide sur l'[assurance location utilitaire à Nice](/blog/location-camion/assurance-location-utilitaire-nice) et nos [conseils pour conduire dans le Vieux-Nice](/blog/location-camion/conduire-camion-vieux-nice-conseils).
+Pour plus d'informations, consultez notre guide sur l'[assurance location utilitaire à Nice](/blog/location-camion-nice/assurance-location-utilitaire-nice/) et nos [conseils pour conduire dans le Vieux-Nice](/blog/location-camion-nice/conduire-camion-vieux-nice-conseils/).
 
 ## FAQ : Caution Location Camion Nice
 

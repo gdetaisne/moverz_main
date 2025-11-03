@@ -35,9 +35,9 @@ Découvrez toutes les solutions d'accompagnement pour votre déménagement à Ni
 - [Déménagement personnes âgées à Nice](/blog/aide-demenagement/demenagement-personnes-agees-nice) - Accompagnement adapté, services seniors
 
 **Compléments Utiles :**
-- [Prix déménagement Nice](/blog/prix-demenagement/prix-demenagement-nice-guide) - Budget complet, formules tarifaires
-- [Déménageur professionnel Nice](/blog/demenageur/demenageur-nice-guide-complet) - Services complets, devis gratuit
-- [Déménagement pas cher Nice](/blog/demenagement-pas-cher/demenagement-pas-cher-nice-guide) - Astuces économies 30-60%
+- [Prix déménagement Nice](/blog/prix-demenagement-nice/prix-demenagement-nice-guide/) - Budget complet, formules tarifaires
+- [Déménageur professionnel Nice](/blog/demenageur-nice/demenageur-nice-guide-complet/) - Services complets, devis gratuit
+- [Déménagement pas cher Nice](/blog/demenagement-pas-cher-nice/demenagement-pas-cher-nice-guide/) - Astuces économies 30-60%
 
 ## Pourquoi chercher de l'aide pour votre déménagement à Nice ?
 
