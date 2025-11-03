@@ -14,7 +14,7 @@ featured: false
 ---
 
 
-# Checklist [déménagement étudiant](/blog/etudiant/demenagement-etudiant-bordeaux-guide-complet) : les étapes à suivre
+# Checklist [déménagement étudiant](/blog/etudiant/guide) : les étapes à suivre
 
 Un déménagement étudiant réussi commence par une organisation rigoureuse. Cette checklist vous accompagne étape par étape pour éviter les oublis et transformer votre déménagement en une expérience positive. Que vous veniez de Paris, Lyon ou d'une autre ville pour étudier à Bordeaux, ces conseils vous feront gagner du temps et de l'argent.
 
@@ -138,4 +138,4 @@ Nous connaissons parfaitement les spécificités du déménagement étudiant et 
 
 ---
 
-*Cet article complète notre [guide complet du déménagement étudiant à Bordeaux](/blog/etudiant/demenagement-etudiant-bordeaux-guide-complet). Découvrez également nos conseils pour un [déménagement pas cher](/blog/etudiant/demenagement-etudiant-pas-cher) et nos astuces pour [éviter les erreurs courantes](/blog/etudiant/erreurs-demenagement-etudiant).*
+*Cet article complète notre [guide complet du déménagement étudiant à Bordeaux](/blog/etudiant/guide). Découvrez également nos conseils pour un [déménagement pas cher](/blog/etudiant/demenagement-etudiant-pas-cher) et nos astuces pour [éviter les erreurs courantes](/blog/etudiant/erreurs-demenagement-etudiant).*

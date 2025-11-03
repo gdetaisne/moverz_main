@@ -56,6 +56,24 @@ L'assurance constitue un élément crucial à ne pas négliger lors du déménag
 
 Les franchises peuvent varier selon les assureurs, il est donc essentiel de bien comprendre les conditions de couverture avant de signer votre contrat. Certaines entreprises proposent des assurances complémentaires pour une protection optimale de votre investissement musical.
 
+## FAQ : Déménagement Piano Bordeaux
+
+### Combien coûte le déménagement d'un piano droit à Bordeaux ?
+
+Un **piano droit** coûte **350-450€** à Bordeaux : transport local, 2 déménageurs spécialisés, matériel protection (housses, sangles), assurance base. Supplément : étages sans ascenseur +50-100€/étage, grue accès difficile +150-300€, stockage temporaire +80-150€/mois. Poids moyen : 200-300kg. Entreprises spécialisées : Le Piano Déménage, Transport Piano. Consultez notre [guide déménagement longue distance](/blog/longue-distance/guide) pour trajets > 100km.
+
+### Le déménagement de piano à queue est-il plus cher ?
+
+Oui, **piano à queue** : **400-800€** vs 350-450€ piano droit. Différence : poids 300-600kg (vs 200-300kg), démontage pieds nécessaire, manipulation complexe, équipement spécialisé, équipe 3 déménageurs min (vs 2). Risques casse supérieurs = assurance renforcée +100-200€. Centre historique Bordeaux (escaliers étroits) : souvent grue obligatoire +200-400€. Anticipez 3-4 semaines pour réservation haute saison (juin-septembre).
+
+### Une grue est-elle souvent nécessaire à Bordeaux ?
+
+**Grue fréquente centre historique** : immeubles anciens UNESCO, escaliers < 80cm, passages étroits, hauteurs > 2 étages sans ascenseur. Coût grue : 150-300€ supplément. Autorisation mairie Bordeaux : 7-15 jours délai, gratuit/20-50€ selon zone. Quartiers modernes (Caudéran, Le Bouscat) : ascenseurs = pas grue. Visite technique préalable ESSENTIELLE (devis précis, évite surprises). Bordeaux Métropole réglementation : vérifiez occupation voirie.
+
+### L'assurance piano est-elle indispensable ?
+
+Oui, **assurance indispensable** : valeur piano 3 000-50 000€+, risques casse/chocs transport élevés, assurance base (RC pro) couvre 10-15€/kg seulement. Assurance complémentaire valeur déclarée : 50-150€ pour couverture totale. Vérifiez : plafonds, franchises, exclusions (vice caché, usure). Pianos valeur > 10 000€ : expertise préalable recommandée. En cas sinistre : photos état avant, déclaration 48h max. Ne lésinez jamais sur assurance instruments précieux.
+
 ## Conclusion et recommandations
 
 Le déménagement d'un piano à Bordeaux en 2025 représente un investissement qui varie entre 350 et 800 euros selon le type d'instrument et les conditions d'accès. Faire appel à des professionnels spécialisés garantit la sécurité de votre instrument et vous permet de bénéficier d'un service adapté aux spécificités bordelaises.

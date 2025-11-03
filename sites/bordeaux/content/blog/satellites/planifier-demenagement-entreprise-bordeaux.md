@@ -80,7 +80,7 @@ Maintenez une communication transparente avec vos équipes en cas d'imprévu. L'
 
 Planifier un déménagement d'entreprise à Bordeaux nécessite donc une approche méthodique et une anticipation rigoureuse. En suivant ces étapes essentielles, en coordonnant efficacement les intervenants et en gérant les imprévus, vous pouvez assurer la réussite de votre projet et minimiser les perturbations pour vos équipes.
 
-**Besoin d'aide pour planifier votre déménagement d'entreprise ?** [Consultez notre guide complet](/blog/devis/devis-demenagement-bordeaux-guide) et bénéficiez de nos conseils d'experts pour une organisation optimale.
+**Besoin d'aide pour planifier votre déménagement d'entreprise ?** [Consultez notre guide complet](/blog/devis/guide) et bénéficiez de nos conseils d'experts pour une organisation optimale.
 
 ---
 

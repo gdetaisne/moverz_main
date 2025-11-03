@@ -16,7 +16,7 @@ featured: false
 
 # Location de camion étudiant à Bordeaux
 
-Louer un camion pour votre [déménagement étudiant](/blog/etudiant/demenagement-etudiant-bordeaux-guide-complet) à Bordeaux est souvent la solution la plus économique. Avec un budget serré et des besoins spécifiques, il est essentiel de choisir la bonne formule et le bon prestataire. Voici tout ce qu'il faut savoir pour optimiser votre location de camion et réussir votre déménagement à moindre coût.
+Louer un camion pour votre [déménagement étudiant](/blog/etudiant/guide) à Bordeaux est souvent la solution la plus économique. Avec un budget serré et des besoins spécifiques, il est essentiel de choisir la bonne formule et le bon prestataire. Voici tout ce qu'il faut savoir pour optimiser votre location de camion et réussir votre déménagement à moindre coût.
 
 ## Comparatif des loueurs de camions à Bordeaux
 
@@ -263,4 +263,4 @@ Nous proposons des services adaptés aux étudiants : emballage sécurisé, tran
 
 ---
 
-*Cet article complète notre [guide complet du déménagement étudiant à Bordeaux](/blog/etudiant/demenagement-etudiant-bordeaux-guide-complet). Découvrez également nos conseils pour un [déménagement pas cher](/blog/etudiant/demenagement-etudiant-pas-cher) et notre [checklist détaillée](/blog/etudiant/checklist-demenagement-etudiant) pour ne rien oublier.*
+*Cet article complète notre [guide complet du déménagement étudiant à Bordeaux](/blog/etudiant/guide). Découvrez également nos conseils pour un [déménagement pas cher](/blog/etudiant/demenagement-etudiant-pas-cher) et notre [checklist détaillée](/blog/etudiant/checklist-demenagement-etudiant) pour ne rien oublier.*

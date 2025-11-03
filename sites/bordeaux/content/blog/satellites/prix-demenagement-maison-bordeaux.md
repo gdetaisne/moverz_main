@@ -74,7 +74,7 @@ Votre employeur peut également participer aux frais de déménagement dans le c
 
 Un déménagement de maison à Bordeaux représente donc un investissement important mais qu'il convient de planifier soigneusement. En choisissant la bonne période, en participant activement à la préparation et en sélectionnant un professionnel adapté, vous pouvez optimiser votre budget tout en bénéficiant d'un service de qualité adapté à vos besoins.
 
-**Prêt à déménager votre maison à Bordeaux ?** [Obtenez votre devis personnalisé](/blog/devis/devis-demenagement-bordeaux-guide) en quelques clics. Nos experts vous accompagnent avec des tarifs transparents et des conseils adaptés aux volumes importants.
+**Prêt à déménager votre maison à Bordeaux ?** [Obtenez votre devis personnalisé](/blog/devis/guide) en quelques clics. Nos experts vous accompagnent avec des tarifs transparents et des conseils adaptés aux volumes importants.
 
 ---
 

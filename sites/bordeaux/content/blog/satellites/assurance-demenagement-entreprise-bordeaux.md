@@ -86,7 +86,7 @@ Les équipements informatiques non déclarés ne bénéficient d'aucune couvertu
 
 L'assurance d'un déménagement d'entreprise à Bordeaux constitue donc un investissement important mais indispensable. En comprenant les différents types de garanties, en déclarant correctement la valeur de vos biens et en préparant les démarches en cas de sinistre, vous pouvez protéger efficacement vos équipements et éviter les mauvaises surprises.
 
-**Besoin de conseils pour assurer votre déménagement d'entreprise ?** [Consultez notre guide assurance](/blog/devis/devis-demenagement-bordeaux-guide) et bénéficiez de nos conseils d'experts pour choisir la meilleure couverture.
+**Besoin de conseils pour assurer votre déménagement d'entreprise ?** [Consultez notre guide assurance](/blog/devis/guide) et bénéficiez de nos conseils d'experts pour choisir la meilleure couverture.
 
 ---
 

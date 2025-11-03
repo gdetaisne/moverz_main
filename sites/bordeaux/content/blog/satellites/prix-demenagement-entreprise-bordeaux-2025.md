@@ -80,7 +80,7 @@ Prévoyez une marge de sécurité de 15 à 20 % pour faire face aux imprévus. L
 
 Un déménagement d'entreprise à Bordeaux représente donc un investissement important mais qu'il convient de planifier soigneusement. En comprenant les facteurs qui influencent les tarifs, en anticipant les coûts cachés et en choisissant le bon professionnel, vous pouvez optimiser votre budget tout en assurant la réussite de votre projet.
 
-**Besoin d'un devis personnalisé pour votre déménagement d'entreprise ?** [Obtenez votre estimation détaillée](/blog/devis/devis-demenagement-bordeaux-guide) en quelques clics. Nos experts vous accompagnent avec des tarifs transparents et des conseils adaptés.
+**Besoin d'un devis personnalisé pour votre déménagement d'entreprise ?** [Obtenez votre estimation détaillée](/blog/devis/guide) en quelques clics. Nos experts vous accompagnent avec des tarifs transparents et des conseils adaptés.
 
 ---
 

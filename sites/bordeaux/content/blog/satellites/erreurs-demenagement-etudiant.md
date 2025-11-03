@@ -14,7 +14,7 @@ featured: false
 ---
 
 
-# Erreurs fréquentes d'un [déménagement étudiant](/blog/etudiant/demenagement-etudiant-bordeaux-guide-complet)
+# Erreurs fréquentes d'un [déménagement étudiant](/blog/etudiant/guide)
 
 Un déménagement étudiant, même bien préparé, peut réserver des surprises désagréables. En évitant ces erreurs courantes, vous transformerez votre déménagement en une expérience positive et économique. Voici les 7 pièges les plus fréquents et comment les éviter pour réussir votre installation à Bordeaux.
 
@@ -213,4 +213,4 @@ Nous gérons toute l'organisation : emballage sécurisé, transport optimisé, e
 
 ---
 
-*Cet article complète notre [guide complet du déménagement étudiant à Bordeaux](/blog/etudiant/demenagement-etudiant-bordeaux-guide-complet). Découvrez également nos conseils pour un [déménagement pas cher](/blog/etudiant/demenagement-etudiant-pas-cher) et notre [checklist détaillée](/blog/etudiant/checklist-demenagement-etudiant) pour ne rien oublier.*
+*Cet article complète notre [guide complet du déménagement étudiant à Bordeaux](/blog/etudiant/guide). Découvrez également nos conseils pour un [déménagement pas cher](/blog/etudiant/demenagement-etudiant-pas-cher) et notre [checklist détaillée](/blog/etudiant/checklist-demenagement-etudiant) pour ne rien oublier.*

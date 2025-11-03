@@ -14,7 +14,7 @@ featured: false
 ---
 
 
-# Emballer ses biens pour un [déménagement international](/blog/international/demenagement-international-bordeaux-guide)
+# Emballer ses biens pour un [déménagement international](/blog/international/guide)
 
 L'emballage constitue l'élément le plus critique pour la sécurité des biens lors d'un déménagement international depuis Bordeaux. Cette étape, souvent négligée par souci d'économie, peut compromettre l'arrivée de vos biens en bon état. Avec des trajets de plusieurs semaines et des manipulations multiples, les contraintes d'emballage sont particulièrement exigeantes et nécessitent des matériaux et des techniques adaptés. Voici un guide complet pour emballer efficacement vos biens selon les standards internationaux.
 
