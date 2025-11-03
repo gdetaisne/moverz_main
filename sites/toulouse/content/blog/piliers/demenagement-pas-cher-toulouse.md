@@ -2,7 +2,7 @@
 title: "Déménagement Pas Cher à Toulouse : Économisez sur votre Déménagement !"
 description: "Économisez sur votre déménagement à Toulouse ! Découvrez nos formules pas chères et obtenez un devis gratuit en ligne. Déménagez sans stress et à petit prix."
 date: "2024-01-15"
-category: "deménagement-economique"
+category: "demenagement-economique"
 tags: ["déménagement", "toulouse", "pas cher", "économique", "devis"]
 author: "Moverz Toulouse"
 featured: true

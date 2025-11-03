@@ -2,7 +2,7 @@
 title: "Déménagement Satisfaction Toulouse : Satisfaction Client Garantie"
 description: "Satisfaction déménagement à Toulouse : satisfaction client garantie. Retours clients, amélioration continue, service de qualité. Découvrez notre engagement."
 date: "2024-01-15"
-category: "satisfaction-deménagement"
+category: "satisfaction-demenagement"
 tags: ["déménagement", "satisfaction", "toulouse", "client", "garantie"]
 author: "Moverz Toulouse"
 featured: false

@@ -42,15 +42,16 @@ export function generateCorridorPageMetadata(destination: string): Metadata {
 }
 
 export function generateCorridorPageJsonLd(destination: string) {
+  const city = getCityDataFromUrl(env.SITE_URL);
   return {
     "@context": "https://schema.org",
     "@type": "Service",
-    "name": `Déménagement Marseille → ${destination} — comparaison de devis`,
+    "name": `Déménagement ${city.nameCapitalized} → ${destination} — comparaison de devis`,
     "provider": {
       "@type": "Organization",
       "name": "Moverz"
     },
-    "areaServed": `Marseille → ${destination}`,
+    "areaServed": `${city.nameCapitalized} → ${destination}`,
     "serviceType": "Mise en relation et comparaison de devis"
   };
 }
@@ -65,6 +66,7 @@ export default function CorridorPage({
   conseils,
   faq,
 }: CorridorPageProps) {
+  const city = getCityDataFromUrl(env.SITE_URL);
   const jsonLd = generateCorridorPageJsonLd(destination);
 
   return (
@@ -206,17 +208,17 @@ export default function CorridorPage({
         <div className="container max-w-4xl mx-auto px-4 md:px-6 py-12">
           <div className="bg-white/5 backdrop-blur rounded-2xl p-8 border border-white/10 text-center">
             <h2 className="text-xl font-semibold text-white mb-4">
-              Vous déménagez depuis Marseille ?
+              Vous déménagez depuis {city.nameCapitalized} ?
             </h2>
             <div className="flex flex-wrap justify-center gap-4">
               <Link
-                href="/marseille/"
+                href={`/${city.slug}/`}
                 className="bg-[#6bcfcf]/20 text-[#6bcfcf] px-6 py-3 rounded-full hover:bg-[#6bcfcf]/30 transition-colors"
               >
-                Voir Marseille
+                Voir {city.nameCapitalized}
               </Link>
               <Link
-                href="/services/demenagement-standard-marseille/"
+                href={`/services/demenagement-standard-${city.slug}/`}
                 className="bg-[#6bcfcf]/20 text-[#6bcfcf] px-6 py-3 rounded-full hover:bg-[#6bcfcf]/30 transition-colors"
               >
                 Service Standard
@@ -228,7 +230,7 @@ export default function CorridorPage({
         {/* FAQ corridor */}
         <div className="container max-w-4xl mx-auto px-4 md:px-6 py-12">
           <h2 className="text-2xl font-bold text-white mb-8 text-center">
-            FAQ Marseille → {destination}
+            FAQ {city.nameCapitalized} → {destination}
           </h2>
           <div className="space-y-6">
             {faq.map((item, index) => (

@@ -2,7 +2,7 @@
 title: "Déménagement Nettoyage Toulouse : Service de Nettoyage Post-Déménagement"
 description: "Nettoyage déménagement à Toulouse : service de nettoyage post-déménagement. Équipe professionnelle, matériel adapté, résultat garanti. Devis gratuit."
 date: "2024-01-15"
-category: "nettoyage-deménagement"
+category: "nettoyage-demenagement"
 tags: ["déménagement", "nettoyage", "toulouse", "post-déménagement", "professionnel"]
 author: "Moverz Toulouse"
 featured: false

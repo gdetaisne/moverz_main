@@ -98,27 +98,12 @@ const nextConfig = {
       // Pages légales avec trailing slash → sans trailing slash  
       { source: '/mentions-legales/', destination: '/mentions-legales', permanent: true },
       { source: '/cgv/', destination: '/cgv', permanent: true },
-
-      // Quartiers Bordeaux indexés à tort → Quartiers Lille
-      { source: '/lille/pessac', destination: '/quartiers-lille', permanent: true },
-      { source: '/lille/chartrons', destination: '/quartiers-lille', permanent: true },
-      { source: '/lille/bastide', destination: '/quartiers-lille', permanent: true },
-      { source: '/lille/cauderan', destination: '/quartiers-lille', permanent: true },
-      { source: '/lille/merignac', destination: '/quartiers-lille', permanent: true },
-      
-      // Ville incorrecte
-      { source: '/toulouse', destination: '/', permanent: true },
       
       // Ancienne URL estimation
       { source: '/estimation-demenagement-lille/', destination: '/estimation-rapide', permanent: true },
 
       // MAJUSCULES QUARTIERS → minuscules (Fix CSV 30/10/2025)
       { source: '/quartiers-Lille', destination: '/quartiers-lille', permanent: true },
-      { source: '/Lille/vieux-Lille', destination: '/lille/vieux-lille', permanent: true },
-      { source: '/Lille/centre', destination: '/lille/centre', permanent: true },
-      { source: '/Lille/wazemmes', destination: '/lille/wazemmes', permanent: true },
-      { source: '/Lille/moulins', destination: '/lille/moulins', permanent: true },
-      { source: '/Lille/lomme', destination: '/lille/lomme', permanent: true },
 
       // CATÉGORIES BLOG VIDES → /blog (Fix CSV 30/10/2025)
       { source: '/blog/etudiant', destination: '/blog', permanent: true },

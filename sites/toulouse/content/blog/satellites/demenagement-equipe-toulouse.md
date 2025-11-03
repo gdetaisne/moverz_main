@@ -2,7 +2,7 @@
 title: "Déménagement Équipe Toulouse : Professionnels Expérimentés et Qualifiés"
 description: "Équipe déménagement à Toulouse : professionnels expérimentés et qualifiés. Formation continue, expertise, professionnalisme. Découvrez notre équipe."
 date: "2024-01-15"
-category: "équipe-deménagement"
+category: "equipe-demenagement"
 tags: ["déménagement", "équipe", "toulouse", "professionnels", "qualifiés"]
 author: "Moverz Toulouse"
 featured: false

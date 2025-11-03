@@ -2,7 +2,7 @@
 title: "Aide au Déménagement à Toulouse : Coup de Main Professionnel"
 description: "Besoin d'aide pour votre déménagement à Toulouse ? Porteurs qualifiés, matériel inclus, tarif horaire attractif. Demandez votre devis gratuit en ligne."
 date: "2024-01-15"
-category: "aide-deménagement"
+category: "aide-demenagement"
 tags: ["aide déménagement", "toulouse", "porteurs", "coup de main", "professionnel"]
 author: "Moverz Toulouse"
 featured: true

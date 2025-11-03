@@ -44,36 +44,6 @@ const nextConfig = {
       // 1. CORRECTION MAJUSCULES (Case-sensitivity)
       // ========================================
       {
-        source: '/Strasbourg-vers-lyon',
-        destination: '/strasbourg-vers-lyon',
-        permanent: true,
-      },
-      {
-        source: '/Strasbourg-vers-nantes',
-        destination: '/strasbourg-vers-nantes',
-        permanent: true,
-      },
-      {
-        source: '/Strasbourg-vers-paris',
-        destination: '/strasbourg-vers-paris',
-        permanent: true,
-      },
-      {
-        source: '/Strasbourg-vers-toulouse',
-        destination: '/strasbourg-vers-toulouse',
-        permanent: true,
-      },
-      {
-        source: '/Strasbourg-vers-marseille',
-        destination: '/strasbourg-vers-marseille',
-        permanent: true,
-      },
-      {
-        source: '/Strasbourg-vers-espagne',
-        destination: '/strasbourg-vers-espagne',
-        permanent: true,
-      },
-      {
         source: '/quartiers-Strasbourg',
         destination: '/quartiers-strasbourg',
         permanent: true,
@@ -94,34 +64,6 @@ const nextConfig = {
         permanent: true,
       },
 
-      // ========================================
-      // 2. QUARTIERS DE BORDEAUX → Page Quartiers
-      // ========================================
-      {
-        source: '/strasbourg/chartrons',
-        destination: '/quartiers-strasbourg',
-        permanent: true,
-      },
-      {
-        source: '/strasbourg/cauderan',
-        destination: '/quartiers-strasbourg',
-        permanent: true,
-      },
-      {
-        source: '/strasbourg/bastide',
-        destination: '/quartiers-strasbourg',
-        permanent: true,
-      },
-      {
-        source: '/strasbourg/pessac',
-        destination: '/quartiers-strasbourg',
-        permanent: true,
-      },
-      {
-        source: '/strasbourg/merignac',
-        destination: '/quartiers-strasbourg',
-        permanent: true,
-      },
       {
         source: '/strasbourg/saint-pierre',
         destination: '/quartiers-strasbourg',
@@ -369,14 +311,6 @@ const nextConfig = {
         permanent: true,
       },
 
-      // ========================================
-      // 7. URL /toulouse (erreur indexation)
-      // ========================================
-      {
-        source: '/toulouse',
-        destination: '/',
-        permanent: true,
-      },
 
       // ========================================
       // 8. FICHIERS PLACEHOLDER/BATCH (cache Google)

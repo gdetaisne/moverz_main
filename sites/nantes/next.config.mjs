@@ -144,27 +144,8 @@ const nextConfig = {
       { source: '/blog/petit-demenagement-nantes/petit-demenagement-nantes-guide', destination: '/blog/petit-demenagement-nantes/petit-demenagement-nantes-guide', permanent: true },
 
       // QUARTIERS : Majuscules Nantes → nantes
-      { source: '/Nantes/dervallieres', destination: '/nantes/dervallieres', permanent: true },
-      { source: '/Nantes/malakoff', destination: '/nantes/malakoff', permanent: true },
-      { source: '/Nantes/beaulieu', destination: '/nantes/beaulieu', permanent: true },
-      { source: '/Nantes/centre-ville', destination: '/nantes/centre-ville', permanent: true },
-      { source: '/Nantes/ile-de-Nantes', destination: '/nantes/ile-de-nantes', permanent: true },
-
-      // QUARTIERS BORDEAUX sur site Nantes
-      { source: '/nantes/merignac', destination: '/quartiers-nantes', permanent: true },
-      { source: '/nantes/chartrons', destination: '/quartiers-nantes', permanent: true },
-      { source: '/nantes/bastide', destination: '/quartiers-nantes', permanent: true },
-      { source: '/nantes/cauderan', destination: '/quartiers-nantes', permanent: true },
-      { source: '/nantes/pessac', destination: '/quartiers-nantes', permanent: true },
-      { source: '/devis-demenagement-nantes-saint-pierre/', destination: '/quartiers-nantes', permanent: true },
-      { source: '/devis-demenagement-nantes-cauderan/', destination: '/quartiers-nantes', permanent: true },
-      { source: '/devis-demenagement-nantes-chartrons/', destination: '/quartiers-nantes', permanent: true },
 
       // MAJUSCULES : Nantes → nantes
-      { source: '/Nantes-vers-toulouse', destination: '/nantes-vers-toulouse', permanent: true },
-      { source: '/Nantes-vers-paris', destination: '/nantes-vers-paris', permanent: true },
-      { source: '/Nantes-vers-lyon', destination: '/nantes-vers-lyon', permanent: true },
-      { source: '/Nantes-vers-Nantes', destination: '/', permanent: true },
       { source: '/nantes-vers-nantes', destination: '/', permanent: true },
       { source: '/quartiers-Nantes', destination: '/quartiers-nantes', permanent: true },
 
@@ -188,9 +169,6 @@ const nextConfig = {
       { source: '/blog/urgent', destination: '/blog', permanent: true },
       { source: '/blog/devis', destination: '/blog', permanent: true },
       { source: '/blog/longue-distance', destination: '/blog', permanent: true },
-      
-      // URL /toulouse (erreur indexation cross-ville)
-      { source: '/toulouse', destination: '/', permanent: true },
     ];
   }
 };

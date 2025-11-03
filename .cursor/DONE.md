@@ -7,13 +7,52 @@
 
 ## 📊 Statistiques
 
-- **Total tâches finalisées** : 9
+- **Total tâches finalisées** : 10
 - **Octobre 2025** : 5
-- **Novembre 2025** : 4
+- **Novembre 2025** : 5
 
 ---
 
 ## ✅ Novembre 2025
+
+### ✅ TASK-025 : Fix Sitemap URLs 11 villes (SEO Critical)
+
+**Finalisée le** : 03 novembre 2025  
+**Type** : Bugfix / SEO Critical  
+**Priorité** : P0  
+**Assigné** : Guillaume
+
+**Temps estimé** : 2-3h  
+**Temps réel** : 2h30
+
+📁 **Documentation** : `.cursor/tasks/[P0]-TASK-025-fix-sitemap-urls/`
+
+**Résumé** :
+Correction critique des sitemaps 11 villes : URLs générées avec category/slug au lieu de cleanCategory/cleanSlug causaient 858 erreurs 5xx + 243 404s (Toulouse). Fix appliqué sur 11 sitemap.ts, suppression de 440 lignes de code dupliqué, 4 corrections build (Lyon, Bordeaux), documentation workflow deploy 2 étapes + exceptions domaines (Bordeaux, Toulousain).
+
+**Livrables** :
+- 11x sitemap.ts corrigés (cleanCategory + cleanSlug)
+- 1x Lyon apostrophe fix (page.tsx)
+- 2x Bordeaux configs ESM (.mjs/.cjs)
+- 1x Nice cleanup redirections
+- 1x Script push-single-site.sh (debug tool)
+- 10 fichiers documentation (README, LECON-APPRISE, BORDEAUX-EXCEPTION, VALIDATION-FINALE, RAPPORT-VALIDATION-FINAL)
+- PRINCIPES-SACRES.md enrichi (workflow deploy + domaines)
+
+**Impact** :
+- 1272 URLs indexables validées (11/11 sites HTTP 200)
+- 0 URLs undefined détectées
+- Résolution 858 erreurs 5xx bloquant indexation
+- Attendu J+7 : 37 → 800+ pages indexées (+2000%)
+- Leçon deploy workflow documentée (évite erreurs futures)
+
+**Commits** : `697a477`, `dd4ca89`, `69c23d4`, `1dddf5f`, `c09b8fb`, `d813924`
+
+**Action post-code (Guillaume)** :
+- Resubmit Search Console (11 villes, 30min)
+- Monitoring J+7 (10/11/2025)
+
+---
 
 ### ✅ TASK-022 : Sécurisation Système Tasks (7 scripts automation)
 

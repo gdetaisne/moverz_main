@@ -131,29 +131,6 @@ const nextConfig = {
       { source: '/blog/satellites/transport-maritime-container', destination: '/blog/satellites/transport-maritime-container-lyon', permanent: true },
       { source: '/blog/satellites/transport-quelques-meubles', destination: '/blog/satellites/transport-quelques-meubles-lyon', permanent: true },
 
-      // MAJUSCULES : Lyon → lyon (case sensitivity)
-      { source: '/Lyon-vers-toulouse', destination: '/lyon-vers-toulouse', permanent: true },
-      { source: '/Lyon-vers-nantes', destination: '/lyon-vers-nantes', permanent: true },
-      { source: '/Lyon-vers-paris', destination: '/lyon-vers-paris', permanent: true },
-      { source: '/Lyon-vers-Lyon', destination: '/', permanent: true },
-      { source: '/lyon-vers-lyon', destination: '/', permanent: true },
-      { source: '/Lyon', destination: '/', permanent: true },
-      
-      // QUARTIERS LYON : Majuscules + apostrophe
-      { source: '/Lyon/la-presqu\'île', destination: '/lyon/presqu-ile', permanent: true },
-      { source: '/Lyon/part-dieu', destination: '/lyon/part-dieu', permanent: true },
-      { source: '/Lyon/confluence', destination: '/lyon/confluence', permanent: true },
-      { source: '/Lyon/vieux-Lyon', destination: '/lyon/vieux-lyon', permanent: true },
-      { source: '/Lyon/la-croix-rousse', destination: '/lyon/croix-rousse', permanent: true },
-      
-      // QUARTIERS BORDEAUX sur site Lyon (erreur indexation)
-      { source: '/lyon/cauderan', destination: '/quartiers-lyon', permanent: true },
-      { source: '/lyon/pessac', destination: '/quartiers-lyon', permanent: true },
-      { source: '/lyon/chartrons', destination: '/quartiers-lyon', permanent: true },
-      { source: '/lyon/merignac', destination: '/quartiers-lyon', permanent: true },
-      { source: '/lyon/bastide', destination: '/quartiers-lyon', permanent: true },
-      { source: '/devis-demenagement-lyon-chartrons/', destination: '/quartiers-lyon', permanent: true },
-      { source: '/devis-demenagement-lyon-saint-pierre/', destination: '/quartiers-lyon', permanent: true },
       
       // SERVICES : Majuscules
       { source: '/services/demenagement-economique-Lyon', destination: '/services/demenagement-economique-lyon', permanent: true },

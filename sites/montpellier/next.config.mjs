@@ -181,41 +181,10 @@ const nextConfig = {
       { source: '/blog/garde-meuble', destination: '/blog', permanent: true },
       { source: '/blog/etudiant', destination: '/blog', permanent: true },
 
-      // QUARTIERS BORDEAUX sur Montpellier
-      { source: '/montpellier/bastide', destination: '/quartiers-montpellier', permanent: true },
-      { source: '/montpellier/pessac', destination: '/quartiers-montpellier', permanent: true },
-      { source: '/montpellier/merignac', destination: '/quartiers-montpellier', permanent: true },
-      { source: '/montpellier/cauderan', destination: '/quartiers-montpellier', permanent: true },
-      { source: '/montpellier/chartrons', destination: '/quartiers-montpellier', permanent: true },
-      { source: '/devis-demenagement-montpellier-cauderan/', destination: '/quartiers-montpellier', permanent: true },
-      { source: '/devis-demenagement-montpellier-chartrons/', destination: '/quartiers-montpellier', permanent: true },
-      { source: '/devis-demenagement-montpellier-saint-pierre/', destination: '/quartiers-montpellier', permanent: true },
-
-      // URLS TOULOUSE sur Montpellier
-      { source: '/toulouse', destination: '/', permanent: true },
-      { source: '/Toulouse/saint-cyprien', destination: '/quartiers-montpellier', permanent: true },
-      { source: '/Toulouse/carmes', destination: '/quartiers-montpellier', permanent: true },
-      { source: '/Toulouse/capitole', destination: '/quartiers-montpellier', permanent: true },
-      { source: '/Toulouse/jean-jaures', destination: '/quartiers-montpellier', permanent: true },
-      { source: '/Toulouse/compans', destination: '/quartiers-montpellier', permanent: true },
-      { source: '/quartiers-Toulouse', destination: '/quartiers-montpellier', permanent: true },
-      { source: '/devis-demenagement-toulouse/', destination: '/estimation-rapide', permanent: true },
-      { source: '/prix-demenagement-toulouse/', destination: '/blog/prix-demenagement-montpellier/prix-demenagement-montpellier-guide', permanent: true },
-      { source: '/devis-demenagement-toulouse-cauderan/', destination: '/quartiers-montpellier', permanent: true },
-      { source: '/devis-demenagement-toulouse-saint-pierre/', destination: '/quartiers-montpellier', permanent: true },
-      { source: '/devis-demenagement-toulouse-chartrons/', destination: '/quartiers-montpellier', permanent: true },
-      { source: '/Toulouse-vers-Toulouse', destination: '/', permanent: true },
-      { source: '/Toulouse-vers-paris', destination: '/montpellier-vers-paris', permanent: true },
-      { source: '/Toulouse-vers-lyon', destination: '/montpellier-vers-lyon', permanent: true },
-      { source: '/estimation-demenagement-toulouse/', destination: '/estimation-rapide', permanent: true },
-
-      // MAJUSCULES : Montpellier → montpellier
-      { source: '/Montpellier', destination: '/', permanent: true },
       { source: '/montpellier-vers-montpellier', destination: '/', permanent: true },
       { source: '/montpellier-vers-nantes', destination: '/montpellier-vers-nantes', permanent: true },
       { source: '/montpellier-vers-espagne', destination: '/montpellier-vers-espagne', permanent: true },
       { source: '/quartiers-montpellier', destination: '/quartiers-montpellier', permanent: true },
-      { source: '/Nice-vers-toulouse', destination: '/montpellier-vers-toulouse', permanent: true },
 
       // SERVICES : Majuscules + minuscules dupliquées
       { source: '/services/demenagement-standard-Montpellier', destination: '/services/demenagement-standard-montpellier', permanent: true },

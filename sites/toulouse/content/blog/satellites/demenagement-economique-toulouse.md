@@ -2,7 +2,7 @@
 title: "Déménagement Économique Toulouse : Solutions Pas Chères et Efficaces"
 description: "Déménagement économique à Toulouse : solutions pas chères et efficaces pour tous les budgets. Formules adaptées, tarifs attractifs, service de qualité. Devis gratuit."
 date: "2024-01-15"
-category: "deménagement-economique"
+category: "demenagement-economique"
 tags: ["déménagement", "économique", "toulouse", "pas cher", "efficace"]
 author: "Moverz Toulouse"
 featured: false

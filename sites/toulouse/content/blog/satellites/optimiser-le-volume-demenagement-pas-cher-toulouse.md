@@ -2,7 +2,7 @@
 title: "Optimiser le Volume Déménagement Pas Cher Toulouse : Conseils et Astuces"
 description: "Apprenez à optimiser le volume de votre déménagement à Toulouse. Conseils pratiques, astuces d'emballage, organisation. Déménagement efficace et économique."
 date: "2024-01-15"
-category: "deménagement-economique"
+category: "demenagement-economique"
 tags: ["optimiser", "volume", "déménagement", "toulouse", "conseils"]
 author: "Moverz Toulouse"
 featured: false

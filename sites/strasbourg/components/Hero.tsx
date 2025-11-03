@@ -46,7 +46,6 @@ export default function Hero() {
               </span>
               <span className="inline-flex items-center gap-2 rounded-full bg-white/10 px-3 py-1 ring-1 ring-white/15"><span className="h-1 w-1 rounded-full bg-white/50" />Déménageurs vérifiés</span>
             </div>
-            
             <div className="mt-7 flex flex-col items-center justify-center gap-3 sm:flex-row lg:justify-start">
               <a href="/inventaire-ia/" className="btn-primary" aria-label="Obtenez vos devis précis gratuitement">Obtenez vos devis précis gratuitement</a>
             </div>

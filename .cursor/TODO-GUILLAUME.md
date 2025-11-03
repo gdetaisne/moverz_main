@@ -13,40 +13,15 @@
 
 *Aucune tâche en cours*
 
-**Session en cours** : TASK-025 ✅ CODE TERMINÉ (03/11/2025, 2h20)
-- 11/11 villes validées (sitemaps nouveau format + 200 OK)
-- 5 commits (sitemap fix + 4 corrections build)
-- Reste TOI : Resubmit Search Console + monitoring J+7
+**Dernière session** : TASK-025 ✅ FINALISÉ (03/11/2025, 2h30)  
+**Session précédente** : TASK-404-02 ROLLBACK (03/11/2025, 1h15)
 
-**Dernière session** : TASK-404-02 ROLLBACK (03/11/2025, 1h15)
-
-**Session précédente** : Documentation stratégique complète (02/11/2025, 4h)
 
 ---
 
 ## 🚨 URGENT - CRITIQUE SEO (À FAIRE MAINTENANT)
 
-### [P0]-TASK-025 : Fix Sitemap URLs 11 villes ← CRITIQUE
-
-**Priorité** : P0 (BLOQUE indexation Google)  
-**Temps** : 2-3h
-
-**Problème** : 17 alertes Search Console ce matin
-- 858 erreurs 5xx + 243 erreurs 404 (Toulouse)
-- Sitemap génère URLs incorrectes → Google ne peut pas indexer
-- Impact : 37/1120 pages indexées (3.3%)
-
-**Solution** :
-```typescript
-// sitemap.ts ligne ~147
-- url: `blog/${post.category}/${post.slug}`
-+ url: `blog/${post.cleanCategory}/${post.cleanSlug}`
-```
-
-**Commande** :
-```bash
-"Cursor, je démarre TASK-025"
-```
+*Aucune tâche critique SEO en attente*
 
 ---
 
@@ -141,6 +116,41 @@
 ---
 
 ## ✅ FAIT RÉCEMMENT
+
+### [P0]-TASK-025 : Fix Sitemap URLs 11 villes ✅ FINALISÉ
+
+**Date** : 03/11/2025  
+**Temps** : 2h30 (estimé 2-3h) ✅
+
+**Accomplissements** :
+- ✅ 11 sitemaps corrigés (cleanCategory + cleanSlug)
+- ✅ 1272 URLs indexables validées (HTTP 200, 0 undefined)
+- ✅ 6 commits GitHub (sitemap fix + 4 corrections build)
+- ✅ 11/11 sites déployés CapRover et testés en live
+- ✅ Leçon apprise : Workflow deploy 2 étapes documenté
+- ✅ Exceptions documentées : Bordeaux (domaine) + Toulousain
+
+**Impact business** :
+- Résolution 858 erreurs 5xx (Toulouse)
+- 1272 pages prêtes pour réindexation Google
+- Attendu J+7 : 37 → 800+ pages indexées (+2000%)
+
+**Definition of Done** :
+- ✅ Code propre et documenté (10 fichiers)
+- ✅ Commits GitHub main + 11 repos villes
+- ✅ Testé en live (11/11 sites validés)
+
+**Docs créées** :
+- `.cursor/tasks/[P0]-TASK-025-fix-sitemap-urls/` (10 fichiers)
+- RAPPORT-VALIDATION-FINAL.md
+- LECON-APPRISE.md (workflow deploy)
+- BORDEAUX-EXCEPTION.md
+
+**Action restante (Guillaume)** :
+- Resubmit Search Console (11 villes, 30min)
+- Monitoring J+7 (10/11/2025)
+
+---
 
 ### TASK-404-01 : Audit Structure Complète ✅ TERMINÉ
 

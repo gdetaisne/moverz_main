@@ -2,7 +2,7 @@
 title: "Déménagement Matériel Toulouse : Équipement Professionnel et Adapté"
 description: "Matériel déménagement à Toulouse : équipement professionnel et adapté. Véhicules spécialisés, outils, protection. Découvrez notre matériel."
 date: "2024-01-15"
-category: "matériel-deménagement"
+category: "materiel-demenagement"
 tags: ["déménagement", "matériel", "toulouse", "équipement", "professionnel"]
 author: "Moverz Toulouse"
 featured: false

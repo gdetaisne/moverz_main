@@ -95,13 +95,6 @@ const nextConfig = {
       { source: '/blog/international', destination: '/blog', permanent: true },
 
       // MAJUSCULES : Rouen → rouen
-      { source: '/Rouen/centre-ville', destination: '/rouen/centre-ville', permanent: true },
-      { source: '/Rouen/saint-sever', destination: '/rouen/saint-sever', permanent: true },
-      { source: '/Rouen/coteaux-sud', destination: '/rouen/coteaux-sud', permanent: true },
-      { source: '/Rouen/saint-marc', destination: '/rouen/saint-marc', permanent: true },
-      { source: '/Rouen-vers-nantes', destination: '/rouen-vers-nantes', permanent: true },
-      { source: '/Rouen-vers-lyon', destination: '/rouen-vers-lyon', permanent: true },
-      { source: '/Rouen-vers-toulouse', destination: '/rouen-vers-toulouse', permanent: true },
       { source: '/Rouen', destination: '/', permanent: true },
       { source: '/quartiers-Rouen', destination: '/quartiers-rouen', permanent: true },
       
@@ -134,9 +127,6 @@ const nextConfig = {
       { source: '/blog/longue-distance', destination: '/blog', permanent: true },
       { source: '/blog/entreprise', destination: '/blog', permanent: true },
       { source: '/blog/prix', destination: '/blog', permanent: true },
-      
-      // URL /toulouse (erreur indexation cross-ville)
-      { source: '/toulouse', destination: '/', permanent: true },
     ];
   }
 };

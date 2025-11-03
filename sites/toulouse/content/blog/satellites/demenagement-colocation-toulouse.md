@@ -2,7 +2,7 @@
 title: "Déménagement Colocation Toulouse : Solutions Économiques et Pratiques"
 description: "Déménagement de colocation à Toulouse : solutions économiques et pratiques. Formules adaptées, tarifs attractifs, service sur mesure. Devis gratuit."
 date: "2024-01-15"
-category: "deménagement-etudiant"
+category: "demenagement-etudiant"
 tags: ["déménagement", "colocation", "toulouse", "économique", "pratique"]
 author: "Moverz Toulouse"
 featured: false

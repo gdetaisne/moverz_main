@@ -2,7 +2,7 @@
 title: "Déménagement Garantie Toulouse : Garanties et Engagements Qualité"
 description: "Garantie déménagement à Toulouse : garanties et engagements qualité. Satisfaction garantie, qualité assurée, service professionnel. Découvrez nos garanties."
 date: "2024-01-15"
-category: "garantie-deménagement"
+category: "garantie-demenagement"
 tags: ["déménagement", "garantie", "toulouse", "qualité", "engagement"]
 author: "Moverz Toulouse"
 featured: false

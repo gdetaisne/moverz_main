@@ -1,6 +1,9 @@
 "use client";
 
 import React, { useState } from "react";
+import { getCityDataFromUrl } from "@/lib/cityData";
+import { env } from "@/lib/env";
+import { QUARTIERS } from "@/components/NeighborhoodsData";
 
 type QA = { q: string; a: string[]; category: string };
 
@@ -265,6 +268,7 @@ function JsonLd() {
 }
 
 export default function FAQPage() {
+  const city = getCityDataFromUrl(env.SITE_URL);
   const [selectedCategory, setSelectedCategory] = useState<string>("Toutes");
   
   // Récupérer toutes les catégories uniques
@@ -361,21 +365,21 @@ export default function FAQPage() {
                         {item.q.includes("prix") && (
                           <p className="text-sm text-white/70">
                             Voir aussi :{" "}
-                            <a className="underline text-accent" href="/prix-demenagement-toulouse/">Prix d'un déménagement à toulouse</a>.
+                            <a className="underline text-accent" href={`/${city.slug}/`}>Prix d'un déménagement à {city.nameCapitalized}</a>.
                           </p>
                         )}
-                        {item.q.includes("quartiers") && (
+                        {item.q.includes("quartiers") && QUARTIERS.length >= 3 && (
                           <p className="text-sm text-white/70">
                             Utile :{" "}
-                            <a className="underline text-accent" href="/devis-demenagement-toulouse-chartrons/">Chartrons</a>,{" "}
-                            <a className="underline text-accent" href="/devis-demenagement-toulouse-saint-pierre/">Saint-Pierre</a>,{" "}
-                            <a className="underline text-accent" href="/devis-demenagement-toulouse-cauderan/">Caudéran</a>.
+                            <a className="underline text-accent" href={`/${city.slug}/${QUARTIERS[0].slug}/`}>{QUARTIERS[0].title}</a>,{" "}
+                            <a className="underline text-accent" href={`/${city.slug}/${QUARTIERS[1].slug}/`}>{QUARTIERS[1].title}</a>,{" "}
+                            <a className="underline text-accent" href={`/${city.slug}/${QUARTIERS[2].slug}/`}>{QUARTIERS[2].title}</a>.
                           </p>
                         )}
                         {item.q.includes("estimer le volume") && (
                           <p className="text-sm text-white/70">
                             Lancez votre{" "}
-                            <a className="underline text-accent" href="/estimation-demenagement-toulouse/">estimation de déménagement</a>{" "}
+                            <a className="underline text-accent" href="/estimation-rapide/">estimation de déménagement</a>{" "}
                             en quelques minutes.
                           </p>
                         )}
@@ -402,21 +406,21 @@ export default function FAQPage() {
                     {item.q.includes("prix") && (
                       <p className="text-sm text-white/70">
                         Voir aussi :{" "}
-                        <a className="underline text-accent" href="/prix-demenagement-toulouse/">Prix d'un déménagement à toulouse</a>.
+                        <a className="underline text-accent" href={`/${city.slug}/`}>Prix d'un déménagement à {city.nameCapitalized}</a>.
                       </p>
                     )}
-                    {item.q.includes("quartiers") && (
+                    {item.q.includes("quartiers") && QUARTIERS.length >= 3 && (
                       <p className="text-sm text-white/70">
                         Utile :{" "}
-                        <a className="underline text-accent" href="/devis-demenagement-toulouse-chartrons/">Chartrons</a>,{" "}
-                        <a className="underline text-accent" href="/devis-demenagement-toulouse-saint-pierre/">Saint-Pierre</a>,{" "}
-                        <a className="underline text-accent" href="/devis-demenagement-toulouse-cauderan/">Caudéran</a>.
+                        <a className="underline text-accent" href={`/${city.slug}/${QUARTIERS[0].slug}/`}>{QUARTIERS[0].title}</a>,{" "}
+                        <a className="underline text-accent" href={`/${city.slug}/${QUARTIERS[1].slug}/`}>{QUARTIERS[1].title}</a>,{" "}
+                        <a className="underline text-accent" href={`/${city.slug}/${QUARTIERS[2].slug}/`}>{QUARTIERS[2].title}</a>.
                       </p>
                     )}
                     {item.q.includes("estimer le volume") && (
                       <p className="text-sm text-white/70">
                         Lancez votre{" "}
-                        <a className="underline text-accent" href="/estimation-demenagement-toulouse/">estimation de déménagement</a>{" "}
+                        <a className="underline text-accent" href="/estimation-rapide/">estimation de déménagement</a>{" "}
                         en quelques minutes.
                       </p>
                     )}

@@ -2,7 +2,7 @@
 title: "Déménageur Professionnel Toulouse : Expertise et Fiabilité"
 description: "Déménageur professionnel à Toulouse : expertise et fiabilité pour tous vos déménagements. Équipe formée, matériel adapté, assurance complète. Devis gratuit."
 date: "2024-01-15"
-category: "deménageur-professionnel"
+category: "demenageur-professionnel"
 tags: ["déménageur", "professionnel", "toulouse", "expertise", "fiabilité"]
 author: "Moverz Toulouse"
 featured: false

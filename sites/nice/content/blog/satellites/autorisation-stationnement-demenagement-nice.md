@@ -123,27 +123,6 @@ Pour tout savoir sur [les contraintes du Vieux-Nice](/blog/demenageur-nice/demen
 
 Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [nos services de déménagement niçois](/blog/demenageur/demenageur-nice-guide-complet).
 
-## FAQ : Autorisation Stationnement Déménagement Nice
-
-### L'autorisation de stationnement est-elle vraiment obligatoire à Nice ?
-
-L'autorisation est **juridiquement obligatoire dans le Vieux-Nice** (zone piétonne) sous peine d'amende de 135€ + fourrière possible. Dans les autres quartiers, elle n'est **pas légalement obligatoire** mais **fortement recommandée** dans le centre dense (Libération, Musiciens, Gambetta) où le stationnement est très difficile. Sans autorisation, votre déménageur risque de tourner 30min pour trouver une place ou de stationner illégalement, générant surcoûts (temps facturé) et amendes. Coût autorisation 50-100€ < risques sans autorisation.
-
-### Combien de temps à l'avance demander l'autorisation ?
-
-Demandez votre autorisation **minimum 5 jours ouvrés** à l'avance (délai légal de traitement mairie). L'idéal est **10 à 15 jours** pour garantir obtention même si planning Police Municipale chargé. En **haute saison** (juin-septembre), anticipez 2-3 semaines car forte demande (35 000 étudiants + tourisme). Si vous demandez moins de 5 jours avant, la mairie peut refuser faute de temps de traitement. Certains déménageurs professionnels niçois gèrent cette démarche pour vous moyennant 20-30€.
-
-### Que faire si l'autorisation est refusée par la mairie ?
-
-Si votre demande est **refusée**, les raisons courantes : 1) Délai trop court (<5 jours), 2) Rue interdite circulation (événement prévu), 3) Dossier incomplet. **Actions** : 1) Redemandez pour une autre date (flexibilité), 2) Proposez horaires alternatifs (tôt matin 6h-10h), 3) Contactez directement la Police Municipale pour comprendre et trouver solution. En dernier recours, votre déménageur peut stationner parking public proche et faire navettes avec utilitaire (surcoût 150-250€).
-
-### Le déménageur peut-il gérer l'autorisation à ma place ?
-
-Oui, la plupart des **déménageurs niçois professionnels** proposent de gérer l'autorisation pour vous. **Avantages** : gain de temps (pas de démarches), expertise (connaissent procédure), garantie obtention. **Coût** : 20-30€ de frais de gestion en plus du coût autorisation mairie (50-100€), soit **70-130€ total**. C'est une option pratique si vous manquez de temps ou n'êtes pas à l'aise avec les démarches administratives. Le déménageur vous fournit alors l'arrêté municipal et s'occupe de l'affichage le jour J.
-
-### Que risque-t-on en déménageant sans autorisation à Nice ?
-
-Déménager **sans autorisation** à Nice risque : 1) **Amende** de 135€ pour stationnement gênant, 2) **Mise en fourrière** du camion (sortie 150-200€ + immobilisation), 3) **Surcoût temps** si déménageur doit chercher place loin (+100-200€), 4) **Retard** sur planning (stress). Dans le Vieux-Nice, le risque est 100% (contrôles fréquents). Dans le centre, risque 40-60%. En périphérie, risque <10%. Le coût potentiel (135-400€) dépasse largement le coût autorisation (50-100€). La faire est toujours rentable en centre-ville.
 
 ---
 

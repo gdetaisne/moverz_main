@@ -2,7 +2,7 @@
 title: "Déménagement Débarras Toulouse : Service de Débarras et Évacuation"
 description: "Débarras déménagement à Toulouse : service de débarras et évacuation. Équipe professionnelle, évacuation complète, recyclage responsable. Devis gratuit."
 date: "2024-01-15"
-category: "débarras-deménagement"
+category: "debarras-demenagement"
 tags: ["déménagement", "débarras", "toulouse", "évacuation", "recyclage"]
 author: "Moverz Toulouse"
 featured: false

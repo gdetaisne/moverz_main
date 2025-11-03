@@ -16,23 +16,23 @@ const NantesData = {
   accesStationnement: "Nantes présente des défis spécifiques pour les déménagements : rues étroites dans le centre historique, stationnement limité, immeubles anciens avec escaliers. Nos partenaires déménageurs connaissent parfaitement les créneaux autorisés, les zones de déchargement et les contraintes de circulation. Ils s'adaptent aux gabarits de camions selon les rues et optimisent les horaires pour éviter les embouteillages.",
   destinationsFrequentes: [
     {
-      href: "/Nantes-vers-paris",
+      href: "/nantes-vers-paris/",
       title: "Nantes → Paris",
       description: "Flux régulier, accès livraison à anticiper (créneaux)."
     },
     {
-      href: "/Nantes-vers-lyon",
+      href: "/nantes-vers-lyon/",
       title: "Nantes → Lyon",
       description: "Longue distance, optimisation du volume recommandée."
     },
     {
-      href: "/Nantes-vers-toulouse",
+      href: "/nantes-vers-toulouse/",
       title: "Nantes → Toulouse",
       description: "Axe fréquent, stationnement à l'arrivée à planifier."
     },
     {
-      href: "/Nantes-vers-Nantes",
-      title: "Nantes → Nantes",
+      href: "/nantes-vers-marseille/",
+      title: "Nantes → Marseille",
       description: "Accès centre-ville selon zones, créneau conseillé."
     }
   ],

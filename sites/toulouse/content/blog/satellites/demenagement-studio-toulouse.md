@@ -2,7 +2,7 @@
 title: "Déménagement Studio Toulouse : Solutions Économiques et Rapides"
 description: "Déménagement de studio à Toulouse : solutions économiques et rapides. Formules spéciales, tarifs attractifs, service sur mesure. Devis gratuit."
 date: "2024-01-15"
-category: "deménagement-etudiant"
+category: "demenagement-etudiant"
 tags: ["déménagement", "studio", "toulouse", "économique", "rapide"]
 author: "Moverz Toulouse"
 featured: false

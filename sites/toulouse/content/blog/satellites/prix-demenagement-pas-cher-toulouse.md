@@ -2,7 +2,7 @@
 title: "Prix Déménagement Pas Cher Toulouse : Tarifs et Économies"
 description: "Découvrez les prix déménagement pas cher à Toulouse. Tarifs transparents, devis gratuit, économies garanties. Comparez et choisissez le meilleur rapport qualité-prix."
 date: "2024-01-15"
-category: "deménagement-economique"
+category: "demenagement-economique"
 tags: ["prix", "déménagement", "pas cher", "toulouse", "tarifs"]
 author: "Moverz Toulouse"
 featured: false

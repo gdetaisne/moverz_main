@@ -18,14 +18,6 @@ const CATEGORY_MAPPING = {
   'prix-demenagement': 'prix',
   'piliers': 'general',
   'satellites': 'conseils',
-  // Variantes avec accent
-  'déménagement-economique': 'pas-cher',
-  'déménagement-etudiant': 'etudiant',
-  'déménagement-entreprise': 'entreprise',
-  'deménageur-professionnel': 'demenageur',
-  'aide-deménagement': 'aide',
-  'prix-déménagement': 'prix',
-  'location-camion': 'location-camion',
   // Gestion des catégories avec espaces (fallback)
   'Déménagement entreprise': 'entreprise',
   'Déménagement étudiant': 'etudiant',

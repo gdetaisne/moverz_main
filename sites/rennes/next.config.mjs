@@ -98,39 +98,6 @@ const nextConfig = {
       { source: '/blog/demenageur-rennes', destination: '/blog/demenageur-rennes/demenageur-rennes-guide-complet', permanent: true },
       { source: '/blog/location-camion-rennes/location-camion-demenagement-rennes-guide', destination: '/blog/location-camion-demenagement-rennes/location-camion-demenagement-rennes-guide-complet', permanent: true },
 
-      // URLS TOULOUSE sur site RENNES (erreur indexation massive)
-      { source: '/toulouse', destination: '/', permanent: true },
-      { source: '/quartiers-Toulouse', destination: '/quartiers-rennes', permanent: true },
-      { source: '/prix-demenagement-toulouse/', destination: '/blog/prix-demenagement-rennes/prix-demenagement-rennes-guide-complet', permanent: true },
-      { source: '/devis-demenagement-toulouse-saint-pierre/', destination: '/quartiers-rennes', permanent: true },
-      { source: '/devis-demenagement-toulouse-cauderan/', destination: '/quartiers-rennes', permanent: true },
-      { source: '/Toulouse-vers-Toulouse', destination: '/', permanent: true },
-      { source: '/devis-demenagement-toulouse/', destination: '/estimation-rapide', permanent: true },
-      { source: '/Toulouse-vers-paris', destination: '/rennes-vers-paris', permanent: true },
-      { source: '/Toulouse-vers-lyon', destination: '/rennes-vers-lyon', permanent: true },
-      { source: '/Toulouse-vers-nantes', destination: '/rennes-vers-nantes', permanent: true },
-      { source: '/devis-demenagement-toulouse-chartrons/', destination: '/quartiers-rennes', permanent: true },
-      { source: '/Toulouse/compans', destination: '/quartiers-rennes', permanent: true },
-
-      // QUARTIERS BORDEAUX sur site Rennes
-      { source: '/rennes/bastide', destination: '/quartiers-rennes', permanent: true },
-      { source: '/rennes/cauderan', destination: '/quartiers-rennes', permanent: true },
-      { source: '/rennes/pessac', destination: '/quartiers-rennes', permanent: true },
-      { source: '/rennes/merignac', destination: '/quartiers-rennes', permanent: true },
-      { source: '/rennes/chartrons', destination: '/quartiers-rennes', permanent: true },
-      { source: '/devis-demenagement-rennes-chartrons/', destination: '/quartiers-rennes', permanent: true },
-      { source: '/devis-demenagement-rennes-cauderan/', destination: '/quartiers-rennes', permanent: true },
-      { source: '/devis-demenagement-rennes-saint-pierre/', destination: '/quartiers-rennes', permanent: true },
-
-      // MAJUSCULES : Rennes → rennes
-      { source: '/Rennes-vers-paris', destination: '/rennes-vers-paris', permanent: true },
-      { source: '/Rennes-vers-lyon', destination: '/rennes-vers-lyon', permanent: true },
-      { source: '/Rennes-vers-nantes', destination: '/rennes-vers-nantes', permanent: true },
-      { source: '/quartiers-Rennes', destination: '/quartiers-rennes', permanent: true },
-
-      // SERVICES : Majuscules
-      { source: '/services/demenagement-standard-Rennes', destination: '/services/demenagement-standard-rennes', permanent: true },
-
       // PAGES LÉGALES : Trailing slash
       { source: '/mentions-legales/', destination: '/mentions-legales', permanent: true },
       { source: '/cgv/', destination: '/cgv', permanent: true },
@@ -138,16 +105,8 @@ const nextConfig = {
 
       // ANCIENNES URLs
       { source: '/estimation-demenagement-rennes/', destination: '/estimation-rapide', permanent: true },
-      { source: '/estimation-demenagement-toulouse/', destination: '/estimation-rapide', permanent: true },
       { source: '/prix-demenagement-rennes/', destination: '/blog/prix-demenagement-rennes/prix-demenagement-rennes-guide-complet', permanent: true },
       { source: '/devis-demenagement-rennes/', destination: '/estimation-rapide', permanent: true },
-
-      // MAJUSCULES QUARTIERS → minuscules (Fix CSV 30/10/2025)
-      { source: '/Rennes/centre-ville', destination: '/rennes/centre-ville', permanent: true },
-      { source: '/Rennes/thabor', destination: '/rennes/thabor', permanent: true },
-      { source: '/Rennes/villejean', destination: '/rennes/villejean', permanent: true },
-      { source: '/Rennes/beaulieu', destination: '/rennes/beaulieu', permanent: true },
-      { source: '/Rennes/cleunay', destination: '/rennes/cleunay', permanent: true },
 
       // CATÉGORIES BLOG VIDES → /blog (Fix CSV 30/10/2025)
       { source: '/blog/etudiant', destination: '/blog', permanent: true },

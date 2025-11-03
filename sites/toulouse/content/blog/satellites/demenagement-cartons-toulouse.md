@@ -2,7 +2,7 @@
 title: "Déménagement Cartons Toulouse : Matériel d'Emballage Professionnel"
 description: "Cartons déménagement à Toulouse : matériel d'emballage professionnel. Toutes tailles, livraison gratuite, qualité garantie. Devis gratuit."
 date: "2024-01-15"
-category: "emballage-deménagement"
+category: "emballage-demenagement"
 tags: ["déménagement", "cartons", "toulouse", "emballage", "professionnel"]
 author: "Moverz Toulouse"
 featured: false
