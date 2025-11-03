@@ -34,7 +34,7 @@ Votre piano est bien plus qu'un simple meuble. C'est un instrument de musique pr
 - [Assurance transport piano Montpellier](/blog/demenagement-piano-montpellier/assurance-transport-piano-montpellier) - Couverture valeur réelle
 
 **Entretien Post-Transport :**
-- [Accordage piano après déménagement obligatoire](/blog/demenagement-piano-montpellier/accordage-piano-apres-demenagement-obligatoire) - Délai 48-72h, coût 80-120€
+- [Accordage piano après déménagement obligatoire](/blog/demenagement-piano-montpellier/accorder-piano-apres-demenagement) - Délai 48-72h, coût 80-120€
 - [Déménagement piano ancien valeur Montpellier](/blog/demenagement-piano-montpellier/demenagement-piano-ancien-valeur-montpellier) - Instruments collection, précautions spéciales
 
 ## Pourquoi faire appel à un professionnel pour déménager votre piano à Montpellier ?

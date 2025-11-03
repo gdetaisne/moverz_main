@@ -30,7 +30,7 @@ Vous partez depuis Montpellier pour une expatriation professionnelle en Allemagn
 
 **Destinations et Services :**
 - [Déménagement Europe depuis Montpellier](/blog/demenagement-international-montpellier/demenagement-europe-montpellier) - Espagne, Allemagne, Italie, UK
-- [Déménagement DOM-TOM depuis Montpellier](/blog/demenagement-international-montpellier/demenagement-dom-tom-montpellier) - Guadeloupe, Martinique, Réunion, Guyane
+- [Déménagement DOM-TOM depuis Montpellier](/blog/demenagement-international-montpellier/demenagement-outre-mer-montpellier-dom-tom) - Guadeloupe, Martinique, Réunion, Guyane
 - [Choisir déménageur international Montpellier](/blog/demenagement-international-montpellier/choisir-demenageur-international-montpellier) - Licences, certifications, avis
 
 **Assurance et Coûts :**
