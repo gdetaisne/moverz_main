@@ -13,8 +13,8 @@
 
 *Aucune tâche en cours*
 
-**Dernière session** : TASK-025 ✅ FINALISÉ (03/11/2025, 2h30)  
-**Session précédente** : TASK-404-02 ROLLBACK (03/11/2025, 1h15)
+**Dernière session** : TASK-012 ✅ FINALISÉ (03/11/2025, 2h45)  
+**Session précédente** : TASK-025 ✅ FINALISÉ (03/11/2025, 2h30)
 
 
 ---

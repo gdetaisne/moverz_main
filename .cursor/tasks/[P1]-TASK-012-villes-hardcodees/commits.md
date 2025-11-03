@@ -44,5 +44,27 @@
 
 ---
 
-*Dernière mise à jour : 03/11/2025*
+**Session 03/11 (fin) - Lille** :
+- [x] SHA monorepo : `6ea0ee0` - Fix 2 bugs Lille (contact minuscule + quartiers communes Bordeaux)
+- [x] SHA dd-lille : `5a82a32`
+
+**Pushed** : ✅ origin/main + dd-lille (03 novembre 2025)
+
+---
+
+## 📊 Récapitulatif Final
+
+**Total commits monorepo TASK-012** : 9 commits
+- 5 commits session 30-31 octobre
+- 3 commits session 03 novembre (Toulouse, 7 sites, Lille)
+- 1 commit doc finale
+
+**Total repos individuels pushés** : 9 sur 11
+- dd-toulouse, dd-lyon, dd-bordeaux, dd-nantes, dd-rennes, dd-rouen, dd-montpellier, dd-strasbourg, dd-lille
+
+**Sites non pushés** : Marseille, Nice (déjà OK, pas de modif)
+
+---
+
+*Dernière mise à jour : 03/11/2025 (Clôture)*
 
