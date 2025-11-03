@@ -8,7 +8,8 @@ const city = getCityDataFromUrl(env.SITE_URL);
 
 export const metadata = {
   title: `Quartiers & communes — Déménagement à ${city.nameCapitalized} | IA & transparence`,
-  description: `Trouvez votre page quartier/commune pour estimer votre déménagement à ${city.nameCapitalized}. Zones couvertes et tarifs indicatifs.`,
+  description:
+    `Trouvez votre page quartier/commune pour estimer votre déménagement à ${city.nameCapitalized} : Antigone, Beaux-Arts, Comédie, Écusson, Port Marianne… Lattes, Pérols, Castelnau-le-Lez.`,
   alternates: {
     canonical: getCanonicalUrl(`quartiers-${city.slug}`),
   },
@@ -41,5 +42,4 @@ export default function Page() {
     </>
   );
 }
-
 

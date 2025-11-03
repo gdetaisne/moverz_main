@@ -22,8 +22,8 @@ export const COMMUNES: Item[] = [
 ];
 
 export function urlForQuartier(slug: string) {
-  return `/strasbourg/${slug}`;
+  return `/strasbourg/${slug}/`;
 }
 export function urlForCommune(slug: string) {
-  return `/strasbourg/${slug}`;
+  return `/devis-demenagement-${slug}/`;
 }
