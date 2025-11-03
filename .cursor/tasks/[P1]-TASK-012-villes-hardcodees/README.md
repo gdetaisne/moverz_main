@@ -2,10 +2,11 @@
 
 **Type** : Bugfix / Refactor  
 **Priorité** : P1  
-**Temps estimé** : ~3-4h (dont 85% fait)  
-**Assigné à** : Lucie (Associée)  
+**Temps estimé** : ~3-4h (100% fait)  
+**Assigné à** : Lucie (Associée) + Guillaume  
 **Démarrée le** : 30-31 octobre 2025  
-**Statut** : 🔄 EN COURS (85% fait, tests à valider)
+**Finalisée le** : 03 novembre 2025  
+**Statut** : ✅ FINALISÉ (100%, 8 sites déployés en prod)
 
 ---
 
@@ -42,17 +43,22 @@ Corriger villes hardcodées dans le code (ex: "Lille" en dur dans code Bordeaux)
 
 ---
 
-## 📋 Ce qui Reste (15%)
-
-### Sites à tester
-- [ ] 2+ villes : Vérifier pas de ville hardcodée
-- [ ] Vérifier metadata dynamiques correctes
-- [ ] Vérifier emails corrects par ville
+## ✅ TERMINÉ (100%)
 
 ### Definition of Done
-- [x] 1. Code corrigé et documenté (11 villes)
-- [x] 2. Sur GitHub main (5 commits)
-- [ ] 3. Testé sur 2+ sites (zéro hardcodé)
+- [x] 1. Code corrigé et documenté (10 villes)
+- [x] 2. Sur GitHub main (2 commits session 03/11 + 5 commits antérieurs)
+- [x] 3. Testé sur 8 sites en prod (zéro ville hardcodée)
+
+### Sites Testés en Prod
+- [x] Toulouse : 13 pages correctes
+- [x] Lyon : `/contact` correct
+- [x] Bordeaux : `/contact` correct
+- [x] Nantes : `/contact` correct
+- [x] Rennes : `/contact` correct
+- [x] Rouen : `/contact` correct
+- [x] Strasbourg : `/contact` correct
+- [x] Montpellier : `/contact` correct
 
 ---
 

@@ -5,7 +5,7 @@ import { getCanonicalUrl } from "@/lib/canonical-helper";
 export const metadata = {
   title: "Quartiers & communes — Déménagement à Lille | IA & transparence",
   description:
-    "Trouvez votre page quartier/commune pour estimer votre déménagement à Lille : Vieux Lille, Centre, Wazemmes, Moulins, Lomme… Mérignac, Pessac, Talence, Bègles, Villenave-d'Ornon.",
+    "Trouvez votre page quartier/commune pour estimer votre déménagement à Lille : Vieux Lille, Centre, Wazemmes, Moulins, Lomme, Hellemmes, Fives, Moulins.",
   alternates: {
     canonical: getCanonicalUrl('quartiers-lille'),
   },
