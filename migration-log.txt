@@ -1,6 +1,0 @@
-[0;34m╔═══════════════════════════════════════════════════════════════╗[0m
-[0;34m║  🚀 MIGRATION CANONICALS - 7 VILLES RESTANTES                 ║[0m
-[0;34m╚═══════════════════════════════════════════════════════════════╝[0m
-
-./scripts/migrate-canonical-all-cities.sh: line 21: declare: -A: invalid option
-declare: usage: declare [-afFirtx] [-p] [name[=value] ...]

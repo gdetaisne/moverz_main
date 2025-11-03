@@ -17,11 +17,11 @@
 ## 🎯 PROJET 404 - RÉSOLUTION COMPLÈTE (9 SOUS-TÂCHES)
 
 > **Note** : TASK-001 et TASK-007 ont été **restructurées** en 9 sous-tâches indépendantes après analyse approfondie (01/11/2025).  
-> **Voir** : `.cursor/ANALYSE-LOGIQUE-404-COMPLETE.md` et `.cursor/TASKS-404-DETAILLEES.md`
+> **Voir** : `.cursor/archives/projet-404/ANALYSE-LOGIQUE-404-COMPLETE.md` et `.cursor/archives/projet-404/TASKS-404-DETAILLEES.md`
 
 ### [P0] [Temps: 2-3h] [Qui: Guillaume] TASK-404-01 : Audit Structure Complète 🔄 EN COURS
 
-📁 **Doc** : `.cursor/tasks/TASK-404-01-audit-structure/`
+📁 **Doc** : `.cursor/tasks/[P0]-TASK-404-01-audit-structure/`
 
 **Type** : Audit / Investigation
 
@@ -61,7 +61,7 @@
 
 ### [P0] [Temps: 1-2h] [Qui: Guillaume] TASK-404-02 : Harmonisation Technique 🔄 ROLLBACK
 
-📁 **Doc** : `.cursor/tasks/TASK-404-02-harmonisation-technique/`
+📁 **Doc** : `.cursor/tasks/[P0]-TASK-404-02-harmonisation-technique/`
 
 **Type** : Refactor / Fix technique
 
@@ -93,7 +93,7 @@
 
 ### [P1] [Temps: 1h] [Qui: Guillaume + Associée] TASK-404-03 : Décision Stratégique 104 Articles
 
-📁 **Doc** : `.cursor/tasks/TASK-404-03-decision-articles/`
+📁 **Doc** : `.cursor/tasks/[P1]-TASK-404-03-decision-articles/`
 
 **Type** : Stratégie / Décision business
 
@@ -114,7 +114,7 @@
 
 ### [P2] [Temps: 20-30h] [Qui: Associée] TASK-404-04 : Création Contenu Manquant (OPTIONNEL)
 
-📁 **Doc** : `.cursor/tasks/TASK-404-04-creation-contenu/`
+📁 **Doc** : `.cursor/tasks/[P2]-TASK-404-04-creation-contenu/`
 
 **Type** : Content / Production
 
@@ -135,7 +135,7 @@
 
 ### [P0] [Temps: 4-6h] [Qui: Guillaume] TASK-404-05 : Correction Liens Internes Automatique
 
-📁 **Doc** : `.cursor/tasks/TASK-404-05-correction-liens/`
+📁 **Doc** : `.cursor/tasks/[P0]-TASK-404-05-correction-liens/`
 
 **Type** : Refactor / Script automatique
 
@@ -159,7 +159,7 @@
 
 ### [P0] [Temps: 1h] [Qui: Guillaume ou Associée] TASK-404-06 : Validation Liens Internes
 
-📁 **Doc** : `.cursor/tasks/TASK-404-06-validation-liens/`
+📁 **Doc** : `.cursor/tasks/[P0]-TASK-404-06-validation-liens/`
 
 **Type** : Validation / Tests
 
@@ -180,7 +180,7 @@
 
 ### [P1] [Temps: 3-5h] [Qui: Guillaume] TASK-404-07 : Redirections 301 Externes
 
-📁 **Doc** : `.cursor/tasks/TASK-404-07-redirections-externes/`
+📁 **Doc** : `.cursor/tasks/[P1]-TASK-404-07-redirections-externes/`
 
 **Type** : SEO / Redirections
 
@@ -202,7 +202,7 @@
 
 ### [P1] [Temps: 2-3h] [Qui: Guillaume ou Associée] TASK-404-08 : Fix Homepage 11 Villes
 
-📁 **Doc** : `.cursor/tasks/TASK-404-08-fix-homepage/`
+📁 **Doc** : `.cursor/tasks/[P1]-TASK-404-08-fix-homepage/`
 
 **Type** : Audit / Fix
 
@@ -223,7 +223,7 @@
 
 ### [P0] [Temps: 2-3h] [Qui: Guillaume + Associée] TASK-404-09 : Validation Finale + Tests Live
 
-📁 **Doc** : `.cursor/tasks/TASK-404-09-validation-finale/`
+📁 **Doc** : `.cursor/tasks/[P0]-TASK-404-09-validation-finale/`
 
 **Type** : Validation / Tests / QA
 
@@ -243,11 +243,41 @@
 
 ---
 
+## 🔴 PRIORITÉ IMMÉDIATE (Setup Final)
+
+### [P0] [Temps: 5 min] [Qui: Guillaume] TASK-023 : Setup Scripts Automation
+
+📁 **Doc** : `.cursor/tasks/[P0]-TASK-023-setup-scripts-automation/`
+
+**Type** : Setup / Installation
+
+**Contexte / Pourquoi** :
+Scripts automation créés (7 scripts) mais pas encore activés. Setup requis pour activer :
+- Hook git pre-commit (validation automatique)
+- Alias shell "moverz" (dashboard rapide)
+- Test que tout fonctionne
+
+**Actions** :
+- [ ] Créer hook git pre-commit (30 sec)
+- [ ] Ajouter alias shell "moverz" (30 sec)
+- [ ] Tester health-check fonctionne (30 sec)
+- [ ] Commit + push GitHub (3 min)
+
+**Temps estimé** : 5 minutes
+
+**Dépendances** : Documentation + scripts déjà créés  
+**Bloque** : Utilisation quotidienne du système
+
+**Statut** : 📋 PENDING  
+**Créée le** : 02 novembre 2025
+
+---
+
 ## 🔄 EN COURS (à finaliser)
 
 ### [P0] [Temps: ~90% fait] [Qui: Guillaume] TASK-011 : Fix 308 Redirections Nice + Deployment
 
-📁 **Doc** : `.cursor/tasks/TASK-011-fix-308-nice/`
+📁 **Doc** : `.cursor/tasks/[P0]-TASK-011-fix-308-nice/`
 
 **Type** : Bugfix / Deployment
 
@@ -290,7 +320,7 @@
 
 ### [P1] [Temps: ~85% fait] [Qui: Associée] TASK-012 : Correction Global Villes Hardcodées
 
-📁 **Doc** : `.cursor/tasks/TASK-012-villes-hardcodees/`
+📁 **Doc** : `.cursor/tasks/[P1]-TASK-012-villes-hardcodees/`
 
 **Type** : Bugfix / Refactor
 
@@ -336,7 +366,7 @@ Villes hardcodées dans le code (ex: "Lille" en dur dans code Bordeaux). Problè
 
 ### [P1] [Temps: ~2h30 restant] [Qui: Guillaume] TASK-006 : Migration Canonicals Complète - 11 villes
 
-📁 **Doc** : `.cursor/tasks/TASK-006-migration-canonicals-complete/`
+📁 **Doc** : `.cursor/tasks/[P1]-TASK-006-migration-canonicals-complete/`
 
 **Type** : Refactor / SEO Critical
 
@@ -386,7 +416,7 @@ Villes hardcodées dans le code (ex: "Lille" en dur dans code Bordeaux). Problè
 
 ### [P2] [Temps: ~75% fait] [Qui: Guillaume + Associée] TASK-013 : Optimisation Internal Linking → Push Homepage
 
-📁 **Doc** : `.cursor/tasks/TASK-013-internal-linking-homepage/`
+📁 **Doc** : `.cursor/tasks/[P2]-TASK-013-internal-linking-homepage/`
 
 **Type** : SEO / Optimization
 
@@ -431,7 +461,7 @@ Optimisation maillage interne pour pousser autorité vers homepage. Liens strat�
 
 ### [P2] [Temps: ~80% fait] [Qui: Guillaume] TASK-014 : Optimisation Métadonnées SEO - 11 villes
 
-📁 **Doc** : `.cursor/tasks/TASK-014-optimisation-metadata/`
+📁 **Doc** : `.cursor/tasks/[P2]-TASK-014-optimisation-metadata/`
 
 **Type** : SEO / Optimization
 
@@ -477,7 +507,7 @@ Optimisation complète métadonnées SEO pour améliorer CTR et positionnement G
 
 ### [P2] [Temps: ~70% fait] [Qui: Guillaume] TASK-009 : Amélioration SEO - Schema.org + Wording
 
-📁 **Doc** : `.cursor/tasks/TASK-009-amelioration-seo/`
+📁 **Doc** : `.cursor/tasks/[P2]-TASK-009-amelioration-seo/`
 
 **Type** : SEO / Feature
 
@@ -593,9 +623,10 @@ Les tâches TASK-001 et TASK-007 ont été **remplacées** par 9 sous-tâches ap
 - Avec création contenu : 36-54h → Résout 100%
 
 **Docs** :
-- `.cursor/ANALYSE-LOGIQUE-404-COMPLETE.md` (7000 mots)
-- `.cursor/TASKS-404-DETAILLEES.md` (15000 mots)
+- `.cursor/archives/projet-404/ANALYSE-LOGIQUE-404-COMPLETE.md` (7000 mots)
+- `.cursor/archives/projet-404/TASKS-404-DETAILLEES.md` (15000 mots)
 
 ---
 
-*Dernière mise à jour : 2025-11-01*
+*Dernière mise à jour : 2025-11-02*  
+*Réorganisation `.cursor/` : Archives créées, docs 404 déplacées vers `archives/projet-404/`*
