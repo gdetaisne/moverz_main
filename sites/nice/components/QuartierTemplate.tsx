@@ -10,7 +10,7 @@ export default function QuartierTemplate(props: {
   parentLink?: string; // lien vers la page mère devis
   coverImage?: string; // image du quartier (optionnelle)
 }) {
-  const { title, intro, priceRows, parentLink = "/devis-demenagement-Nice/", coverImage } = props;
+  const { title, intro, priceRows, parentLink = "/devis-demenagement-nice/", coverImage } = props;
   return (
     <main className="section">
       <div className="container">
