@@ -5,16 +5,20 @@ import Section from "@/components/Section";
 import PartnerCard from "@/components/PartnerCard";
 import PartnersList from "@/components/PartnersList";
 import { getCanonicalUrl } from "@/lib/canonical-helper";
+import { getCityDataFromUrl } from "@/lib/cityData";
+import { env } from "@/lib/env";
+
+const city = getCityDataFromUrl(env.SITE_URL);
 
 export const metadata: Metadata = {
-  title: "Partenaires déménageurs - Déménageurs nice (IA)",
-  description: "Découvrez nos partenaires déménageurs certifiés à nice. Qualité garantie, tarifs transparents, service client premium.",
+  title: `Partenaires déménageurs - Déménageurs ${city.nameCapitalized} (IA)`,
+  description: `Découvrez nos partenaires déménageurs certifiés à ${city.nameCapitalized}. Qualité garantie, tarifs transparents, service client premium.`,
   alternates: {
     canonical: getCanonicalUrl('partenaires'),
   },
   openGraph: {
-    title: "Partenaires déménageurs - Déménageurs nice (IA)",
-    description: "Découvrez nos partenaires déménageurs certifiés à nice. Qualité garantie, tarifs transparents, service client premium.",
+    title: `Partenaires déménageurs - Déménageurs ${city.nameCapitalized} (IA)`,
+    description: `Découvrez nos partenaires déménageurs certifiés à ${city.nameCapitalized}. Qualité garantie, tarifs transparents, service client premium.`,
     url: getCanonicalUrl('partenaires'),
     type: "website",
   },

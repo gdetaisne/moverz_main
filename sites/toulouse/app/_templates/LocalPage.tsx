@@ -42,12 +42,12 @@ export function generateLocalPageMetadata(zone: string, zoneDisplay: string): Me
   const city = getCityDataFromUrl(env.SITE_URL);
   const canonicalUrl = getCanonicalUrl(`${city.slug}/${zone}`);
   return {
-    title: `Déménagement ${zoneDisplay} Nice - Tarifs & Devis Gratuit | Moverz`,
-    description: `Déménageur local ${zoneDisplay} à Nice : tarifs détaillés, disponibilités immédiates. Devis personnalisé gratuit sous 7j. Équipe locale expérimentée. Réservation en ligne simple.`,
+    title: `Déménagement ${zoneDisplay} ${city.nameCapitalized} - Tarifs & Devis Gratuit | Moverz`,
+    description: `Déménageur local ${zoneDisplay} à ${city.nameCapitalized} : tarifs détaillés, disponibilités immédiates. Devis personnalisé gratuit sous 7j. Équipe locale expérimentée. Réservation en ligne simple.`,
     alternates: { canonical: canonicalUrl },
     openGraph: {
-      title: `Déménagement ${zoneDisplay} Nice`,
-      description: `Déménageur local ${zoneDisplay} à Nice`,
+      title: `Déménagement ${zoneDisplay} ${city.nameCapitalized}`,
+      description: `Déménageur local ${zoneDisplay} à ${city.nameCapitalized}`,
       url: canonicalUrl,
       type: 'website',
     },

@@ -3,16 +3,20 @@ import { getAllBlogPosts, getPilierPosts } from '@/lib/blog';
 import Link from 'next/link';
 import Breadcrumbs from '@/components/Breadcrumbs';
 import { getCanonicalUrl } from '@/lib/canonical-helper';
+import { getCityDataFromUrl } from '@/lib/cityData';
+import { env } from '@/lib/env';
+
+const city = getCityDataFromUrl(env.SITE_URL);
 
 export const metadata: Metadata = {
-  title: "Blog Déménagement Nice - Guides & Conseils Experts | Moverz",
-  description: "Guides complets et conseils d'experts pour réussir votre déménagement à Nice. Astuces budget, checklist, comparatifs, conseils pratiques. Articles rédigés par des professionnels.",
+  title: `Blog Déménagement ${city.nameCapitalized} - Guides & Conseils Experts | Moverz`,
+  description: `Guides complets et conseils d'experts pour réussir votre déménagement à ${city.nameCapitalized}. Astuces budget, checklist, comparatifs, conseils pratiques. Articles rédigés par des professionnels.`,
   alternates: {
     canonical: getCanonicalUrl('blog'),
   },
   openGraph: {
-    title: "Blog Déménagement Nice - Tous nos guides pratiques",
-    description: "Conseils d'experts, guides détaillés et astuces pour déménager sereinement à Nice.",
+    title: `Blog Déménagement ${city.nameCapitalized} - Tous nos guides pratiques`,
+    description: `Conseils d'experts, guides détaillés et astuces pour déménager sereinement à ${city.nameCapitalized}.`,
     url: getCanonicalUrl('blog'),
     type: 'website',
   },
@@ -99,7 +103,7 @@ export default function BlogPage() {
             </div>
 
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight mb-6 text-white">
-              Guides Déménagement <span className="text-[#6bcfcf]">Nice</span>
+              Guides Déménagement <span className="text-[#6bcfcf]">{city.nameCapitalized}</span>
             </h1>
             <p className="text-xl md:text-2xl text-white/90 max-w-3xl mx-auto font-light">
               Conseils d'experts, astuces pratiques et guides complets pour un déménagement réussi
@@ -333,7 +337,7 @@ export default function BlogPage() {
             <div className="relative p-12 md:p-16 text-center">
               <div className="text-6xl mb-6">🚀</div>
               <h2 className="text-3xl md:text-4xl font-bold text-white mb-6">
-                Prêt à déménager à Nice ?
+                Prêt à déménager à {city.nameCapitalized} ?
               </h2>
               <p className="text-xl text-white/90 mb-10 max-w-2xl mx-auto">
                 Comparez gratuitement les devis de déménageurs professionnels. 

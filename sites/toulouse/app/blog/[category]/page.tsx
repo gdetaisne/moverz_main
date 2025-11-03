@@ -4,6 +4,10 @@ import { notFound } from 'next/navigation';
 import Breadcrumbs from '@/components/Breadcrumbs';
 import { Metadata } from 'next';
 import { getCanonicalUrl } from '@/lib/canonical-helper';
+import { getCityDataFromUrl } from '@/lib/cityData';
+import { env } from '@/lib/env';
+
+const city = getCityDataFromUrl(env.SITE_URL);
 
 interface CategoryPageProps {
   params: {
@@ -27,17 +31,17 @@ const categoryLabels: { [key: string]: string } = {
 };
 
 const categoryDescriptions: { [key: string]: string } = {
-  'etudiant': 'Tous nos guides et conseils pour réussir votre déménagement étudiant à lille : astuces budget, aides financières, et solutions pratiques.',
-  'entreprise': 'Guides complets pour organiser votre déménagement d\'entreprise à lille : planification, logistique, et conseils professionnels.',
-  'piano': 'Conseils d\'experts pour déménager votre piano à lille en toute sécurité : tarifs, techniques, et précautions.',
-  'international': 'Tout savoir sur le déménagement international depuis lille : formalités, transport, et organisation.',
-  'longue-distance': 'Guides pratiques pour vos déménagements longue distance depuis lille : préparation, coûts, et astuces.',
-  'pas-cher': 'Astuces et conseils pour déménager à petit prix à lille sans compromettre la qualité.',
-  'urgent': 'Solutions et conseils pour organiser un déménagement urgent à lille dans les meilleures conditions.',
-  'devis': 'Guides pour comprendre et obtenir les meilleurs devis de déménagement à lille.',
-  'garde-meuble': 'Tout savoir sur les solutions de garde-meuble à lille : tarifs, options, et conseils.',
-  'prix': 'Guides détaillés sur les prix de déménagement à lille pour tous types de projets.',
-  'prix-piano': 'Informations complètes sur les tarifs de déménagement de piano à lille.'
+  'etudiant': `Tous nos guides et conseils pour réussir votre déménagement étudiant à ${city.nameCapitalized} : astuces budget, aides financières, et solutions pratiques.`,
+  'entreprise': `Guides complets pour organiser votre déménagement d'entreprise à ${city.nameCapitalized} : planification, logistique, et conseils professionnels.`,
+  'piano': `Conseils d'experts pour déménager votre piano à ${city.nameCapitalized} en toute sécurité : tarifs, techniques, et précautions.`,
+  'international': `Tout savoir sur le déménagement international depuis ${city.nameCapitalized} : formalités, transport, et organisation.`,
+  'longue-distance': `Guides pratiques pour vos déménagements longue distance depuis ${city.nameCapitalized} : préparation, coûts, et astuces.`,
+  'pas-cher': `Astuces et conseils pour déménager à petit prix à ${city.nameCapitalized} sans compromettre la qualité.`,
+  'urgent': `Solutions et conseils pour organiser un déménagement urgent à ${city.nameCapitalized} dans les meilleures conditions.`,
+  'devis': `Guides pour comprendre et obtenir les meilleurs devis de déménagement à ${city.nameCapitalized}.`,
+  'garde-meuble': `Tout savoir sur les solutions de garde-meuble à ${city.nameCapitalized} : tarifs, options, et conseils.`,
+  'prix': `Guides détaillés sur les prix de déménagement à ${city.nameCapitalized} pour tous types de projets.`,
+  'prix-piano': `Informations complètes sur les tarifs de déménagement de piano à ${city.nameCapitalized}.`
 };
 
 export async function generateMetadata({ params }: CategoryPageProps): Promise<Metadata> {
@@ -47,13 +51,13 @@ export async function generateMetadata({ params }: CategoryPageProps): Promise<M
   const canonicalUrl = getCanonicalUrl(`blog/${params.category}`);
   
   return {
-    title: `${categoryLabel} - Blog Déménagement lille`,
+    title: `${categoryLabel} - Blog Déménagement ${city.nameCapitalized}`,
     description: categoryDescription,
     alternates: {
       canonical: canonicalUrl,
     },
     openGraph: {
-      title: `${categoryLabel} - Blog Déménagement Lille`,
+      title: `${categoryLabel} - Blog Déménagement ${city.nameCapitalized}`,
       description: categoryDescription,
       url: canonicalUrl,
       type: 'website',
@@ -63,12 +67,12 @@ export async function generateMetadata({ params }: CategoryPageProps): Promise<M
 
 export default function CategoryPage({ params }: CategoryPageProps) {
   const categoryMapping: { [key: string]: string[] } = {
-    'piano': ['demenagement-piano-lille'],
-    'garde-meuble': ['garde-meuble-lille-guide-complet'],
-    'international': ['demenagement-international-lille'],
-    'entreprise': ['demenagement-d-entreprise-lille'],
-    'prix': ['prix-demenagement-lille'],
-    'pas-cher': ['demenagement-lille-pas-cher'],
+    'piano': [`demenagement-piano-${city.slug}`],
+    'garde-meuble': [`garde-meuble-${city.slug}-guide-complet`],
+    'international': [`demenagement-international-${city.slug}`],
+    'entreprise': [`demenagement-d-entreprise-${city.slug}`],
+    'prix': [`prix-demenagement-${city.slug}`],
+    'pas-cher': [`demenagement-${city.slug}-pas-cher`],
     'urgent': [], 'etudiant': [], 'devis': [], 'longue-distance': [],
   };
   const allPosts = getAllBlogPosts();
@@ -280,10 +284,10 @@ export default function CategoryPage({ params }: CategoryPageProps) {
         <div className="container">
           <div className="bg-gradient-to-r from-[#2b7a78] to-[#6bcfcf] rounded-2xl p-8 md:p-12 text-center text-white">
             <h2 className="text-2xl md:text-3xl font-bold mb-4">
-              Prêt à déménager à lille ?
+              Prêt à déménager à {city.nameCapitalized} ?
             </h2>
             <p className="text-lg text-white/90 mb-8 max-w-2xl mx-auto">
-              Notre équipe de déménageurs professionnels à lille est à votre disposition 
+              Notre équipe de déménageurs professionnels à {city.nameCapitalized} est à votre disposition 
               pour vous accompagner dans votre projet.
             </p>
             <Link 

@@ -82,7 +82,7 @@ export default function CorridorPage({
           <div className="container max-w-7xl mx-auto px-4 md:px-6 py-12">
             <div className="text-center">
               <h1 className="text-3xl md:text-5xl font-bold text-white mb-6">
-                Déménagement Marseille → {destination} : comparez des devis fiables
+                Déménagement {city.nameCapitalized} → {destination} : comparez des devis fiables
               </h1>
               <p className="text-xl text-white/80 mb-8 max-w-3xl mx-auto">
                 30 min pour préparer votre dossier • ≥ 3 devis personnalisés sous 7 jours
@@ -123,7 +123,7 @@ export default function CorridorPage({
         {/* Prix indicatifs corridor */}
         <div className="container max-w-6xl mx-auto px-4 md:px-6 py-12">
           <h2 className="text-2xl font-bold text-white mb-8 text-center">
-            Prix indicatifs Marseille → {destination}
+            Prix indicatifs {city.nameCapitalized} → {destination}
           </h2>
           <div className="grid md:grid-cols-3 gap-6">
             {prixIndicatifs.map((prix, index) => (
