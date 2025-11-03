@@ -11,15 +11,47 @@
 
 ## 🔥 EN COURS MAINTENANT
 
-*Aucune tâche en cours - Prêt pour le setup final*
+*Aucune tâche en cours*
 
-**Dernière session** : Documentation stratégique complète (02/11/2025, 4h)
+**Session en cours** : TASK-025 🔄 EN COURS (03/11/2025, 40min)
+- Code corrigé + déployé (11 villes)
+- Reste : Resubmit Search Console + monitoring J+7
+
+**Dernière session** : TASK-404-02 ROLLBACK (03/11/2025, 1h15)
+
+**Session précédente** : Documentation stratégique complète (02/11/2025, 4h)
 
 ---
 
-## ⚡ À FAIRE CE SOIR (URGENT - 5 MIN)
+## 🚨 URGENT - CRITIQUE SEO (À FAIRE MAINTENANT)
 
-### [P0]-TASK-023 : Setup Scripts Automation ← MAINTENANT
+### [P0]-TASK-025 : Fix Sitemap URLs 11 villes ← CRITIQUE
+
+**Priorité** : P0 (BLOQUE indexation Google)  
+**Temps** : 2-3h
+
+**Problème** : 17 alertes Search Console ce matin
+- 858 erreurs 5xx + 243 erreurs 404 (Toulouse)
+- Sitemap génère URLs incorrectes → Google ne peut pas indexer
+- Impact : 37/1120 pages indexées (3.3%)
+
+**Solution** :
+```typescript
+// sitemap.ts ligne ~147
+- url: `blog/${post.category}/${post.slug}`
++ url: `blog/${post.cleanCategory}/${post.cleanSlug}`
+```
+
+**Commande** :
+```bash
+"Cursor, je démarre TASK-025"
+```
+
+---
+
+## ⚡ À FAIRE APRÈS (5 MIN)
+
+### [P0]-TASK-023 : Setup Scripts Automation
 
 **Priorité** : P0 (Active tout le système créé aujourd'hui)  
 **Temps** : 5 minutes  
@@ -41,50 +73,55 @@
 
 ---
 
-## 📅 PLANIFIÉ DEMAIN (2 NOV 2025)
+## 📅 PLANIFIÉ AUJOURD'HUI (03 NOV 2025)
 
-### 🎯 OBJECTIF SESSION : Option A ou B recommandée
+### 🎯 PROJET 404 - DÉMARRAGE
 
-**Option A (2-3h) - Quick Wins** ⭐ RECOMMANDÉ :
-- ✅ TASK-404-02 (1h15-2h15) → Base technique propre
-- ✅ Article Toulouse (30 min) → 53 liens résolus
-- ✅ Catégories courtes (1h) → 147 liens résolus
-- **Résultat : 200 liens résolus (17% du CSV)**
+**Session actuelle** : Analyse complète + Restructuration tâches ✅
 
-**Option B (3-4h) - Fondations complètes** :
-- ✅ TASK-404-02 (1h15-2h15) → Base technique propre
-- ✅ TASK-404-03 (1h) → Décision 104 articles (avec Lucie)
-- **Résultat : Prêt pour correction massive**
+**Scan réel 03/11** : 513 erreurs 404 identifiées (1168 liens cassés)
+
+**Plan validé** : Quick Wins → Décision → Correction massive → Validation
 
 ---
 
-### TASK-404-02 : Harmonisation Technique (1h15-2h15) ← DÉMARRER ICI
+### TASK-404-QW : Quick Wins (2h) ← DÉMARRER MAINTENANT
 
-**Priorité** : P0 (BLOQUE tout le reste projet 404)  
-**Type** : 100% technique (Guillaume)
+**Priorité** : P0 (Valider workflow + ROI immédiat 35-45%)  
+**Type** : Bugfix simple + Validation workflow
+
+**Objectif** : 
+1. Valider workflow : Code → Deploy → Scan → Compare
+2. Résoudre 170-220 liens (35-45% des 513 erreurs)
 
 **Actions** :
-1. Fix cleanSlug() Marseille (15 min) → Remplacer `bordeaux` par `marseille`
-2. Fix cleanSlug() Lyon (15 min) → Remplacer `bordeaux` par `lyon`
-3. Retirer accents CATEGORY_MAPPING (30 min) → 11 villes
-4. Fix Nice satellites: null → 'conseils' (2 min)
-5. Tests validation (15-30 min) → Build 3 villes
+1. **Fix majuscules URLs (1h)** → 80-100 liens
+   - `/Nice-vers-paris` → `/nice-vers-paris`
+   - `/quartiers-Nice` → `/quartiers-nice`
+   - Fichiers : Templates corridors, quartiers, homepage
+   
+2. **Fix accents Toulouse (30min)** → 60-80 liens
+   - Redirections 301 : `/dem%C3%A9nagement-X/` → `/demenagement-X/`
+   - Fichier : `sites/toulouse/next.config.mjs`
+   
+3. **Fix devis cross-ville (30min)** → 30-40 liens
+   - `/devis-demenagement-lille` dans Bordeaux → Fix dynamique
+   - Fichiers : Templates FAQ, Inventaire-IA
 
-**Fichiers à modifier** :
-- `sites/marseille/lib/blog.ts` (cleanSlug fix)
-- `sites/lyon/lib/blog.ts` (cleanSlug fix)
-- `sites/nice/lib/blog.ts` (satellites fix + accents)
-- `sites/*/lib/blog.ts` (8 autres villes - retrait accents)
+**Validation** :
+- Deploy CapRover 11 villes
+- Régénérer scan
+- Comparer : **513 → 290-340** (objectif)
 
 **Commande démarrage** :
 ```bash
-"Cursor, je démarre TASK-404-02"
+"Cursor, je démarre TASK-404-QW"
 ```
 
 **Docs de référence** :
-- `.cursor/RESUME-DEMARRAGE-DEMAIN-404.md` (guide complet) ✅ déjà lu
-- `.cursor/TASKS-404-DETAILLEES.md` section TASK-404-02 (10 min lecture)
-- `.cursor/tasks/TASK-404-01-audit-structure/RAPPORT-INCONSISTANCES.md` (bugs détaillés)
+- `.cursor/tasks/[P0]-TASK-404-QW-quick-wins/README.md` (plan détaillé)
+- `.cursor/tasks/[P0]-TASK-404-ANALYSE-SCAN-03NOV.md` (analyse scan)
+- `.cursor/tasks/[P0]-TASK-404-PLAN-EXECUTION-FINAL.md` (ordre optimal)
 
 ---
 
@@ -180,18 +217,32 @@
 
 ```
 ✅ TASK-404-01 : Audit (2h30) ✅ TERMINÉ (01/11)
+❌ TASK-404-02 : Harmonisation ❌ SKIP (cosmétique, rollback 03/11)
 
-⏭️ TASK-404-02 : Harmonisation (1h15-2h15) ← DEMAIN [Guillaume]
-📋 TASK-404-03 : Décision (1h) [Guillaume + Lucie]
-📋 TASK-404-04 : Création contenu (20-30h) OPTIONNEL [Lucie]
-📋 TASK-404-05 : Correction AUTO (4-6h) → 963 liens ! [Guillaume]
+🔥 TASK-404-QW : Quick Wins (2h) ← MAINTENANT [Guillaume]
+   → Validation workflow : Code → Deploy → Scan → Compare
+   → ROI 35-45% : 513 → 290-340 attendu
+   → Majuscules + Accents + Devis
+
+📋 TASK-404-03 : Décision (1h) ← APRÈS QW [Guillaume + Lucie]
+   ⚠️ CRITIQUE : AVANT 404-05 (sinon re-correction)
+   → 53 spam Toulouse : Rediriger
+   → 20-30 prioritaires : Créer
+   
+📋 TASK-404-04 : Création contenu (6-9h) OPTIONNEL [Lucie]
+   → Seulement prioritaires (pas les 104)
+   
+📋 TASK-404-05 : Correction AUTO (4-6h) → ~400-500 liens [Guillaume]
+   ⚠️ Dry-run Rennes d'abord
+   
 📋 TASK-404-06 : Validation (1h) [Guillaume ou Lucie]
-📋 TASK-404-07 : Redirections 301 (3h30-5h30) [Guillaume]
-📋 TASK-404-08 : Homepage (2h30-3h30) [Guillaume ou Lucie]
+📋 TASK-404-07 : Redirections 301 (3-5h) [Guillaume]
+📋 TASK-404-08 : Homepage (1h) [Guillaume] (réduit)
 📋 TASK-404-09 : Validation finale (2-3h) [Guillaume + Lucie]
 
-Progression : 11% (2h30/22h estimé sans création contenu)
-Résolution attendue : 95-99% (2400+ liens sur 2500)
+Progression : 11% (2h30/16h30 estimé sans création)
+Scan réel 03/11 : 513 erreurs → Objectif <10
+Résolution attendue : 95-99% (490+/513)
 ```
 
 ---

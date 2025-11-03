@@ -229,7 +229,7 @@ Mauvais canonical = Google confus = Perte de ranking = Perte d'€€€
 
 #### Bug #3 : Canonical pointe vers mauvais domaine
 ```typescript
-❌ siteUrl: 'https://devis-demenageur-bordeaux.fr'
+❌ siteUrl: 'https://www.bordeaux-demenageur.fr'
    Mais domaine réel: https://www.bordeaux-demenageur.fr
 → Canonical incorrect
 ```

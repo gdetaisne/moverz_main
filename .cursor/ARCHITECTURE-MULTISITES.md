@@ -229,7 +229,7 @@ CapRover dd-nice : SITE_URL=https://devis-demenageur-lyon.fr/  ❌
 ```typescript
 // cityData.ts
 bordeaux: {
-  siteUrl: 'https://devis-demenageur-bordeaux.fr',  ❌
+  siteUrl: 'https://www.bordeaux-demenageur.fr',  ❌
 }
 
 // Mais domaine réel :

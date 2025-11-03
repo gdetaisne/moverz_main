@@ -98,6 +98,46 @@ sites/
 
 - Build indépendant
 - Déploiement indépendant (container Docker)
+- **Repo GitHub individuel** : `dd-marseille`, `dd-lyon`, etc.
+
+### ⚠️ DOMAINES (ATTENTION EXCEPTION BORDEAUX)
+
+**10 villes** : Pattern standard
+- `devis-demenageur-marseille.fr`
+- `devis-demenageur-lyon.fr`
+- `devis-demenageur-toulouse.fr` (toulousain)
+- `devis-demenageur-nice.fr`
+- `devis-demenageur-lille.fr`
+- `devis-demenageur-nantes.fr`
+- `devis-demenageur-strasbourg.fr`
+- `devis-demenageur-rouen.fr`
+- `devis-demenageur-rennes.fr`
+- `devis-demenageur-montpellier.fr`
+
+**1 ville** : ⚠️ EXCEPTION
+- `www.bordeaux-demenageur.fr` (PAS devis-demenageur-bordeaux.fr !)
+
+### 🚨 WORKFLOW DEPLOY COMPLET (CRITIQUE)
+
+**⚠️ Pour que CapRover déploie, il faut :**
+
+1️⃣ **Push monorepo** (documentation/historique) :
+```bash
+git add sites/*/[fichiers-modifiés]
+git commit -m "fix: description"
+git push origin main
+```
+
+2️⃣ **Push repos individuels** (déclencheur CapRover) :
+```bash
+bash scripts/deploy/push-to-all-site-repos.sh
+# Push chaque ville vers https://github.com/gdetaisne/dd-$city
+# CapRover webhook détecte → Redeploy automatique
+```
+
+**❌ ERREUR FRÉQUENTE** : Oublier étape 2 → Aucun déploiement !
+
+**✅ TOUJOURS faire les 2 étapes** pour tout changement code sites/
 - Content indépendant (`content/blog/`)
 - Mais **code DUPLIQUÉ** (lib/, components/)
 
