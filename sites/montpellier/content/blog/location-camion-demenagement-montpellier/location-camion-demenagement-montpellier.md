@@ -20,23 +20,13 @@ La location d'un camion ou d'un utilitaire est la solution privilégiée par de 
 ## 📚 Notre Dossier Complet Location Camion Montpellier
 
 **Choix et Taille :**
-- [Quelle taille camion selon logement Montpellier](/blog/location-camion-demenagement-montpellier/quelle-taille-camion-selon-logement-montpellier) - 3m³ studio, 20m³ T3
-- [Volumes camions déménagement disponibles Montpellier](/blog/location-camion-demenagement-montpellier/volumes-camions-demenagement-disponibles-montpellier) - 3m³ à 40m³
 
 **Prix et Comparatif :**
-- [Prix location camion déménagement Montpellier 2025](/blog/location-camion-demenagement-montpellier/prix-location-camion-demenagement-montpellier) - Tarifs par volume et durée
-- [Comparatif loueurs utilitaires Montpellier](/blog/location-camion-demenagement-montpellier/comparatif-loueurs-utilitaires-montpellier) - Hertz, Europcar, Budget, particuliers
 
 **Conditions Location :**
-- [Permis conduire camion déménagement requis](/blog/location-camion-demenagement-montpellier/permis-conduire-camion-demenagement-requis) - Permis B suffit jusqu'à 3,5T
-- [Assurance location utilitaire Montpellier](/blog/location-camion-demenagement-montpellier/assurance-location-utilitaire-montpellier) - CDW, franchises
-- [Caution location camion Montpellier](/blog/location-camion-demenagement-montpellier/caution-location-camion-montpellier) - Montants, déblocage
 
 **Pratique :**
-- [Où louer camion weekend Montpellier](/blog/location-camion-demenagement-montpellier/ou-louer-camion-weekend-montpellier) - Disponibilité samedi-dimanche
 - [Kilométrage inclus location camion Montpellier](/blog/location-camion-demenagement-montpellier/kilometrage-inclus-location-camion-montpellier) - Forfaits, dépassement
-- [Stationnement camion centre Montpellier](/blog/location-camion-demenagement-montpellier/stationnement-camion-centre-montpellier) - Écusson, Comédie, autorisations
-- [Conseils conduire camion Montpellier DIY](/blog/location-camion-demenagement-montpellier/conseils-conduire-camion-montpellier) - Ruelles, manœuvres
 
 ## Pourquoi louer un camion pour votre déménagement à Montpellier ?
 

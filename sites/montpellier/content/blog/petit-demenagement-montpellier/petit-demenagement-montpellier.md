@@ -20,21 +20,11 @@ Vous déménagez un studio d'étudiant dans le quartier de la Comédie, une cham
 ## 📚 Notre Dossier Complet Petit Déménagement Montpellier
 
 **Par Type :**
-- [Déménagement studio étudiant Montpellier](/blog/petit-demenagement-montpellier/demenagement-studio-etudiant-montpellier) - 15-25m², solutions 70 000 étudiants
-- [Transport quelques meubles Montpellier](/blog/petit-demenagement-montpellier/transport-quelques-meubles-montpellier) - Canapé, lit, table uniquement
-- [Déménagement chambre étudiant Montpellier](/blog/petit-demenagement-montpellier/demenagement-chambre-etudiant-montpellier) - 9-12m², résidence universitaire
 
 **Solutions :**
-- [Déménageur spécialisé petit volume Montpellier](/blog/petit-demenagement-montpellier/demenageur-specialise-petit-volume-montpellier) - Acteurs adaptés
-- [Location utilitaire 6m³ Montpellier](/blog/petit-demenagement-montpellier/location-utilitaire-6m3-montpellier) - DIY petit volume
-- [Service coursier déménagement Montpellier](/blog/petit-demenagement-montpellier/service-coursier-demenagement-montpellier) - Livraison rapide
 
 **Prix et Organisation :**
 - [Prix petit déménagement Montpellier 2025](/blog/petit-demenagement-montpellier/prix-petit-demenagement-montpellier) - Fourchettes 100-500€
-- [Déménagement rapide dernière minute Montpellier](/blog/petit-demenagement-montpellier/demenagement-rapide-derniere-minute-montpellier) - 24-48h, urgence
-- [Déménagement colocation Montpellier](/blog/petit-demenagement-montpellier/demenagement-colocation-montpellier) - Une chambre vers autre coloc
-- [Transport piano droit Montpellier petit budget](/blog/petit-demenagement-montpellier/transport-piano-droit-montpellier-petit-budget) - Instrument seul
-- [Déménagement seniors Montpellier assistance](/blog/petit-demenagement-montpellier/demenagement-seniors-montpellier-assistance) - Accompagnement personnes âgées
 
 ## Qu'est-ce qu'un "petit déménagement" ?
 

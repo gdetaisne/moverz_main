@@ -20,20 +20,10 @@ featured: true
 ## 📚 Notre Dossier Complet Prix Déménagement Montpellier
 
 **Par Type de Logement :**
-- [Prix déménagement studio Montpellier](/blog/prix-demenagement-montpellier/prix-demenagement-studio-montpellier) - 15-25m², budget 200-600€
-- [Prix déménagement T2 Montpellier](/blog/prix-demenagement-montpellier/prix-demenagement-t2-montpellier) - 40-50m², tarifs détaillés
-- [Prix déménagement T3 Montpellier](/blog/prix-demenagement-montpellier/prix-demenagement-t3-montpellier) - 60-75m², fourchettes
-- [Prix déménagement maison Montpellier](/blog/prix-demenagement-montpellier/prix-demenagement-maison-montpellier) - T4-T5, budget complet
 
 **Facteurs de Prix :**
-- [Facteurs influençant prix déménagement Montpellier](/blog/prix-demenagement-montpellier/facteurs-influencant-prix-demenagement-montpellier) - Volume, distance, étage
-- [Prix déménagement selon distance Montpellier](/blog/prix-demenagement-montpellier/prix-demenagement-selon-distance-montpellier) - Local vs longue distance
 
 **Calculateur et Devis :**
-- [Calculateur prix déménagement Montpellier DIY](/blog/prix-demenagement-montpellier/calculateur-prix-demenagement-montpellier) - Estimateur gratuit
-- [Devis déménagement gratuit Montpellier](/blog/prix-demenagement-montpellier/devis-demenagement-gratuit-montpellier) - 3-5 devis comparatifs
-- [Prix déménagement dernière minute Montpellier](/blog/prix-demenagement-montpellier/prix-demenagement-derniere-minute-montpellier) - Urgence, surcoûts
-- [Tarifs déménageurs Montpellier : comparaison](/blog/prix-demenagement-montpellier/tarifs-demenageurs-montpellier-comparaison) - Acteurs locaux vs nationaux
 
 ## Les facteurs clés qui influencent le prix d'un déménagement à Montpellier
 
