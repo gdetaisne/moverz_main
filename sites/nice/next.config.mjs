@@ -207,34 +207,10 @@ const nextConfig = {
       { source: '/devis-demenagement-nice-saint-pierre/', destination: '/quartiers-nice/', permanent: true },
       { source: '/devis-demenagement-nice-chartrons/', destination: '/quartiers-nice/', permanent: true },
 
-      // MAJUSCULES : Nice → nice (AVEC trailing slash pour éviter boucle 308)
-      { source: '/Nice/port', destination: '/nice/port/', permanent: true },
-      { source: '/Nice/liberation', destination: '/nice/liberation/', permanent: true },
-      { source: '/Nice/vieux-Nice', destination: '/nice/vieux-nice/', permanent: true },
-      { source: '/Nice/promenade-des-anglais', destination: '/nice/promenade-des-anglais/', permanent: true },
-      { source: '/Nice', destination: '/', permanent: true },
-      { source: '/Nice-vers-toulouse', destination: '/nice-vers-toulouse/', permanent: true },
-      { source: '/Nice-vers-paris', destination: '/nice-vers-paris/', permanent: true },
-      { source: '/Nice-vers-nantes', destination: '/nice-vers-nantes/', permanent: true },
-      { source: '/Nice-vers-lyon', destination: '/nice-vers-lyon/', permanent: true },
-      { source: '/quartiers-Nice', destination: '/quartiers-nice/', permanent: true },
-
-      // SERVICES : Majuscules (AVEC trailing slash pour éviter boucle 308)
-      { source: '/services/demenagement-economique-Nice', destination: '/services/demenagement-economique-nice/', permanent: true },
-      { source: '/services/demenagement-premium-Nice', destination: '/services/demenagement-premium-nice/', permanent: true },
-      { source: '/services/demenagement-standard-Nice', destination: '/services/demenagement-standard-nice/', permanent: true },
-
-      // PAGES LÉGALES : Redirection SANS slash → AVEC slash (Next.js gère automatiquement)
-      // ❌ SUPPRIMÉ - Conflit avec trailingSlash: true
-      // Ces redirections causaient des 308 car elles redirigent À L'ENVERS
-      
       // ANCIENNES URLs
       { source: '/estimation-demenagement-nice/', destination: '/estimation-rapide/', permanent: true },
       { source: '/prix-demenagement-nice/', destination: '/blog/prix-demenagement-nice/prix-demenagement-nice-guide/', permanent: true },
       { source: '/devis-demenagement-nice/', destination: '/estimation-rapide/', permanent: true },
-
-      // MAJUSCULES QUARTIERS → minuscules (Fix CSV 30/10/2025)
-      { source: '/Nice/cimiez', destination: '/nice/cimiez/', permanent: true },
 
       // CATÉGORIES BLOG VIDES → /blog (Fix CSV 30/10/2025)
       { source: '/blog/etudiant', destination: '/blog/', permanent: true },

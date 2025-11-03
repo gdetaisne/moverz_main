@@ -13,9 +13,10 @@
 
 *Aucune tâche en cours*
 
-**Session en cours** : TASK-025 🔄 EN COURS (03/11/2025, 40min)
-- Code corrigé + déployé (11 villes)
-- Reste : Resubmit Search Console + monitoring J+7
+**Session en cours** : TASK-025 ✅ CODE TERMINÉ (03/11/2025, 2h20)
+- 11/11 villes validées (sitemaps nouveau format + 200 OK)
+- 5 commits (sitemap fix + 4 corrections build)
+- Reste TOI : Resubmit Search Console + monitoring J+7
 
 **Dernière session** : TASK-404-02 ROLLBACK (03/11/2025, 1h15)
 
