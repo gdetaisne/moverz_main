@@ -160,6 +160,10 @@ Oui, notre assurance inclut :
 - **Instantané** : Couverture spéciale pour les services instantanés
 - **Indemnisation** : Rapide et équitable
 
+### Dans quels cas faire appel au service instantané ?
+
+**Situations critiques** nécessitant service instantané : **expulsion immédiate** (décision justice < 24h), **annulation déménageur** dernière minute (jour J), **obligations professionnelles urgentes** (mutation, déplacement imprévu), **urgence familiale/médicale** (hospitalisation, raisons santé), **travaux imprévus urgents** (dégât eaux, incendie). Alternative économique : [service rapide](/blog/satellites/demenagement-rapide-toulouse) (délai 2-4h, -40% vs instantané) ou [service immédiat](/blog/satellites/demenagement-immédiat-toulouse) (délai 15-30min).
+
 ## Appel à l'action - Contactez notre service instantané
 
 Votre **déménagement instantané toulouse** mérite une intervention instantanée et professionnelle. Notre équipe d'urgence vous accompagne 24h/24.
