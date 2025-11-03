@@ -246,7 +246,7 @@ L'**organisation stratégique** de votre box (zones arrière/centrale/avant, all
 - ✅ Photos affaires de valeur (assurance)
 - ✅ Plan d'organisation box (zones d'accès)
 
-Pour choisir la taille exacte de box selon vos affaires, consultez notre [guide de calcul des besoins](/blog/demenagement-nice/quelle-taille-box-stockage-nice). Pour comparer les acteurs et leurs services, voir notre [comparatif complet Nice](/blog/demenagement-nice/garde-meuble-nice-guide/).
+Pour choisir la taille exacte de box selon vos affaires, consultez notre [guide de calcul des besoins](/blog/demenagement-nice/quelle-taille-box-stockage-nice/). Pour comparer les acteurs et leurs services, voir notre [comparatif complet Nice](/blog/demenagement-nice/garde-meuble-nice-guide/).
 
 ---
 
