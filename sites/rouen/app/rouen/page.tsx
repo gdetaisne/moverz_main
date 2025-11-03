@@ -16,22 +16,22 @@ const RouenData = {
   accesStationnement: "Rouen présente des défis spécifiques pour les déménagements : rues étroites dans le centre historique, stationnement limité, immeubles anciens avec escaliers. Nos partenaires déménageurs connaissent parfaitement les créneaux autorisés, les zones de déchargement et les contraintes de circulation. Ils s'adaptent aux gabarits de camions selon les rues et optimisent les horaires pour éviter les embouteillages.",
   destinationsFrequentes: [
     {
-      href: "/Rouen-vers-paris",
+      href: "/rouen-vers-paris",
       title: "Rouen → Paris",
       description: "Flux régulier, accès livraison à anticiper (créneaux)."
     },
     {
-      href: "/Rouen-vers-lyon",
+      href: "/rouen-vers-lyon",
       title: "Rouen → Lyon",
       description: "Longue distance, optimisation du volume recommandée."
     },
     {
-      href: "/Rouen-vers-toulouse",
+      href: "/rouen-vers-toulouse",
       title: "Rouen → Toulouse",
       description: "Axe fréquent, stationnement à l'arrivée à planifier."
     },
     {
-      href: "/Rouen-vers-nantes",
+      href: "/rouen-vers-nantes",
       title: "Rouen → Nantes",
       description: "Accès centre-ville selon zones, créneau conseillé."
     }

@@ -137,7 +137,7 @@ export default function Header() {
                   Destinations fréquentes
                 </div>
                 <Link
-                  href="/Rouen-vers-paris"
+                  href="/rouen-vers-paris"
                   className="block px-4 py-2 text-gray-800 hover:bg-white/50 transition-colors"
                   onClick={() => {
                     setIsZonesDropdownOpen(false);
@@ -147,7 +147,7 @@ export default function Header() {
                   Rouen → Paris
                 </Link>
                 <Link
-                  href="/Rouen-vers-lyon"
+                  href="/rouen-vers-lyon"
                   className="block px-4 py-2 text-gray-800 hover:bg-white/50 transition-colors"
                   onClick={() => {
                     setIsZonesDropdownOpen(false);
@@ -157,7 +157,7 @@ export default function Header() {
                   Rouen → Lyon
                 </Link>
                 <Link
-                  href="/Rouen-vers-toulouse"
+                  href="/rouen-vers-toulouse"
                   className="block px-4 py-2 text-gray-800 hover:bg-white/50 transition-colors"
                   onClick={() => {
                     setIsZonesDropdownOpen(false);

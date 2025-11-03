@@ -16,22 +16,22 @@ const LyonData = {
   accesStationnement: "Lyon présente des défis spécifiques pour les déménagements : rues étroites dans le centre historique, stationnement limité, immeubles anciens avec escaliers. Nos partenaires déménageurs connaissent parfaitement les créneaux autorisés, les zones de déchargement et les contraintes de circulation. Ils s'adaptent aux gabarits de camions selon les rues et optimisent les horaires pour éviter les embouteillages.",
   destinationsFrequentes: [
     {
-      href: "/Lyon-vers-paris",
+      href: "/lyon-vers-paris",
       title: "Lyon → Paris",
       description: "Flux régulier, accès livraison à anticiper (créneaux)."
     },
     {
-      href: "/Lyon-vers-Lyon",
-      title: "Lyon → Lyon",
+      href: "/lyon-vers-marseille",
+      title: "Lyon → Marseille",
       description: "Longue distance, optimisation du volume recommandée."
     },
     {
-      href: "/Lyon-vers-toulouse",
+      href: "/lyon-vers-toulouse",
       title: "Lyon → Toulouse",
       description: "Axe fréquent, stationnement à l'arrivée à planifier."
     },
     {
-      href: "/Lyon-vers-nantes",
+      href: "/lyon-vers-nantes",
       title: "Lyon → Nantes",
       description: "Accès centre-ville selon zones, créneau conseillé."
     }

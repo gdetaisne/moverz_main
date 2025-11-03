@@ -3,11 +3,11 @@ import Link from "next/link";
 export default function NeighborhoodsTeaser() {
   // Quartiers populaires avec liens vers les pages zones desservies
   const picks = [
-    { title: "Le Vieux-Port", href: "/Marseille/le-vieux-port" },
-    { title: "La Plaine", href: "/Marseille/la-plaine" },
-    { title: "Le Panier", href: "/Marseille/le-panier" },
-    { title: "Endoume", href: "/Marseille/endoume" },
-    { title: "La Joliette", href: "/Marseille/la-joliette" },
+    { title: "Le Vieux-Port", href: "/marseille/vieux-port" },
+    { title: "La Plaine", href: "/marseille/plaine" },
+    { title: "Le Panier", href: "/marseille/panier" },
+    { title: "Endoume", href: "/marseille/endoume" },
+    { title: "La Joliette", href: "/marseille/joliette" },
   ];
   const items = [
     ...picks,
@@ -18,7 +18,7 @@ export default function NeighborhoodsTeaser() {
     <div>
       <div className="flex items-end justify-between">
         <h2 className="text-2xl md:text-3xl font-semibold text-white">Zones couvertes</h2>
-        <Link href="/quartiers-Marseille/" className="btn-secondary px-4 py-2 text-sm">Voir tous les quartiers</Link>
+        <Link href="/quartiers-marseille/" className="btn-secondary px-4 py-2 text-sm">Voir tous les quartiers</Link>
       </div>
       <div className="mt-6 grid gap-4 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5">
         {items.map((p) => (

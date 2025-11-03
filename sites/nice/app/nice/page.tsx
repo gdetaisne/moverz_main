@@ -16,22 +16,22 @@ const NiceData = {
   accesStationnement: "Nice présente des défis spécifiques pour les déménagements : rues étroites dans le centre historique, stationnement limité, immeubles anciens avec escaliers. Nos partenaires déménageurs connaissent parfaitement les créneaux autorisés, les zones de déchargement et les contraintes de circulation. Ils s'adaptent aux gabarits de camions selon les rues et optimisent les horaires pour éviter les embouteillages.",
   destinationsFrequentes: [
     {
-      href: "/Nice-vers-paris",
+      href: "/nice-vers-paris",
       title: "Nice → Paris",
       description: "Flux régulier, accès livraison à anticiper (créneaux)."
     },
     {
-      href: "/Nice-vers-lyon",
+      href: "/nice-vers-lyon",
       title: "Nice → Lyon",
       description: "Longue distance, optimisation du volume recommandée."
     },
     {
-      href: "/Nice-vers-toulouse",
+      href: "/nice-vers-toulouse",
       title: "Nice → Toulouse",
       description: "Axe fréquent, stationnement à l'arrivée à planifier."
     },
     {
-      href: "/Nice-vers-nantes",
+      href: "/nice-vers-nantes",
       title: "Nice → Nantes",
       description: "Accès centre-ville selon zones, créneau conseillé."
     }

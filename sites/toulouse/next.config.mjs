@@ -242,6 +242,18 @@ const nextConfig = {
       { source: '/blog/urgent', destination: '/blog', permanent: true },
       { source: '/blog/devis', destination: '/blog', permanent: true },
       { source: '/blog/longue-distance', destination: '/blog', permanent: true },
+      
+      // ACCENTS ENCODÉS → Accents normaux (Fix Quick Wins 404 - 03/11/2025)
+      { source: '/blog/d%C3%A9m%C3%A9nagement-:category/:path*', destination: '/blog/demenagement-:category/:path*', permanent: true },
+      { source: '/blog/dem%C3%A9nagement-:category/:path*', destination: '/blog/demenagement-:category/:path*', permanent: true },
+      { source: '/blog/prix-d%C3%A9m%C3%A9nagement/:path*', destination: '/blog/prix-demenagement/:path*', permanent: true },
+      { source: '/blog/prix-dem%C3%A9nagement/:path*', destination: '/blog/prix-demenagement/:path*', permanent: true },
+      { source: '/blog/assurance-d%C3%A9m%C3%A9nagement/:path*', destination: '/blog/assurance-demenagement/:path*', permanent: true },
+      { source: '/blog/assurance-dem%C3%A9nagement/:path*', destination: '/blog/assurance-demenagement/:path*', permanent: true },
+      { source: '/blog/avis-d%C3%A9m%C3%A9nagement/:path*', destination: '/blog/avis-demenagement/:path*', permanent: true },
+      { source: '/blog/avis-dem%C3%A9nagement/:path*', destination: '/blog/avis-demenagement/:path*', permanent: true },
+      { source: '/blog/d%C3%A9m%C3%A9nageur-:city/:path*', destination: '/blog/demenageur-:city/:path*', permanent: true },
+      { source: '/blog/dem%C3%A9nageur-:city/:path*', destination: '/blog/demenageur-:city/:path*', permanent: true },
     ];
   }
 };

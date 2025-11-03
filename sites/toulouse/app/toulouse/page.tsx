@@ -16,22 +16,22 @@ const ToulouseData = {
   accesStationnement: "Toulouse présente des défis spécifiques pour les déménagements : rues étroites dans le centre historique, stationnement limité, immeubles anciens avec escaliers. Nos partenaires déménageurs connaissent parfaitement les créneaux autorisés, les zones de déchargement et les contraintes de circulation. Ils s'adaptent aux gabarits de camions selon les rues et optimisent les horaires pour éviter les embouteillages.",
   destinationsFrequentes: [
     {
-      href: "/Toulouse-vers-paris",
+      href: "/toulouse-vers-paris",
       title: "Toulouse → Paris",
       description: "Flux régulier, accès livraison à anticiper (créneaux)."
     },
     {
-      href: "/Toulouse-vers-lyon",
+      href: "/toulouse-vers-lyon",
       title: "Toulouse → Lyon",
       description: "Longue distance, optimisation du volume recommandée."
     },
     {
-      href: "/Toulouse-vers-Toulouse",
-      title: "Toulouse → Toulouse",
+      href: "/toulouse-vers-marseille",
+      title: "Toulouse → Marseille",
       description: "Axe fréquent, stationnement à l'arrivée à planifier."
     },
     {
-      href: "/Toulouse-vers-nantes",
+      href: "/toulouse-vers-nantes",
       title: "Toulouse → Nantes",
       description: "Accès centre-ville selon zones, créneau conseillé."
     }
