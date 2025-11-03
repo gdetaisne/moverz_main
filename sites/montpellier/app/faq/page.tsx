@@ -7,6 +7,8 @@ import { QUARTIERS } from "@/components/NeighborhoodsData";
 
 type QA = { q: string; a: string[]; category: string };
 
+const city = getCityDataFromUrl(env.SITE_URL);
+
 const faqs: QA[] = [
   // Constitution du dossier (photos & inventaire)
   {
@@ -268,7 +270,6 @@ function JsonLd() {
 }
 
 export default function FAQPage() {
-  const city = getCityDataFromUrl(env.SITE_URL);
   const [selectedCategory, setSelectedCategory] = useState<string>("Toutes");
   
   // Récupérer toutes les catégories uniques
