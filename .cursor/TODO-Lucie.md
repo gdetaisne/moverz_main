@@ -28,10 +28,23 @@
 
 **Démarrée le** : 2025-11-03
 
-**Prochaines étapes** :
-- Décider par où commencer (audit vs enrichissement direct)
-- Choisir ville(s) prioritaire(s) (Nice ? Top 3 ? Toutes ?)
-- Définir métriques succès
+**Session 03/11** :
+- ✅ Fix bug markdown "pouces doubles" (11 villes) - 1h
+- ✅ 11 articles Nice optimisés (maillage + FAQ) - 2h30
+- ✅ 50 FAQ ajoutées, 24 liens internes
+- ✅ Fix URLs internes 404 - 15 min
+- ✅ Tests localhost validés par Lucie ✅
+- ✅ 2 commits GitHub main (`cc93061`, `48bd0b5`)
+
+**Temps total** : 3h45
+
+**Statut** : ⚠️ EN COURS (objectif principal atteint, DoD quasi-validée)
+
+**Prochain step** :
+- [ ] Analyser résultats GSC dans 4-8 semaines
+- [ ] Décider si scale Lyon/Marseille ou continuer Nice
+
+**Rapport** : `.cursor/tasks/[P3]-TASK-005-audit-qualite-blogs/RAPPORT-SESSION-03-NOV-2025.md`
 
 ---
 

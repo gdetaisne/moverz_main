@@ -59,11 +59,29 @@ Ce guide détaille garde-meuble professionnel Lyon (boxes 15-50m² 300-1500€/m
 
 **TVA** : 20% déductible (récupération trimestrielle déclarations TVA entreprise)
 
-## Questions Fréquentes
+Pour en savoir plus, consultez notre [guide garde-meuble entreprise Lyon](/blog/garde-meuble-lyon/garde-meuble-entreprise-lyon/) et notre [guide déménagement entreprise](/blog/demenagement-entreprise-lyon/demenagement-entreprise-lyon-guide/).
 
-### Prix garde-meuble entreprise Lyon ?
+## FAQ : Garde-Meuble Professionnel Entreprise Lyon
 
-**300-1500€/mois HT selon taille (15m² 200 cartons 300-400€, 25m² 500-750€, 50m² 1000-1500€). TVA 20% déductible (coût réel HT). Engagements 12 mois : -10-15% (box 25m² 600€ → 510€, économie 1080€/an). Usages : archives 10 ans (TPE-PME 50-200 cartons, 3600-9000€/an), stock saisonnier (20-100m² e-commerce), mobilier temporaire (1-6 mois déménagements).** Vs salle interne : externe 3600-18K€/an délégation sécurité vs interne 2500-4500€/an économie 1000-5000€ mais gestion/surface. Acteurs : Shurgard Lyon boxes 15-50m² B2B. [Archives →](/blog/demenagement-entreprise-lyon/archives-entreprise-demenagement-lyon)
+### Combien coûte un garde-meuble professionnel pour entreprise à Lyon ?
+
+Un **garde-meuble professionnel** pour entreprise à Lyon coûte **300-1 500€/mois HT** selon la taille : box 15m² (200 cartons) = 300-400€/mois, box 25m² (400 cartons) = 500-750€/mois, box 50m² (800 cartons) = 1 000-1 500€/mois. La **TVA 20% est déductible**, donc le coût réel est HT. Avec engagement 12 mois, bénéficiez de -10-15% de réduction (box 25m² : 600€ → 510€/mois, économie 1 080€/an). Acteurs : Shurgard Lyon propose des boxes B2B adaptés avec facturation professionnelle.
+
+### Quels sont les avantages du garde-meuble professionnel vs stockage interne ?
+
+Le **garde-meuble externe** coûte 3 600-18 000€/an mais offre : sécurité 24/7 déléguée, assurance incluse, accès flexible, pas de gestion interne, surfaces bureaux libérées pour collaborateurs. Le **stockage interne** coûte 2 500-4 500€/an (valorisation 10-20m² surface + rayonnages) avec économie 1 000-5 000€/an, mais nécessite gestion, occupe espace précieux, et moins sécurisé. **Recommandation** : externe si archives rarement consultées (<5×/an), interne si accès fréquents (>10×/an).
+
+### Les garde-meubles acceptent-ils les livraisons directes pour entreprises ?
+
+Oui, la plupart des **garde-meubles professionnels** comme Shurgard Lyon acceptent les **livraisons directes** dans vos boxes. Vos fournisseurs peuvent livrer marchandises, stock ou archives directement à l'adresse du garde-meuble. Service pratique pour e-commerce ou grossistes. Prévenir le garde-meuble à l'avance (nom livreur, créneau), et être présent pour réception ou donner procuration. Ce service est généralement inclus dans l'abonnement professionnel sans surcoût.
+
+### Peut-on déduire fiscalement les frais de garde-meuble professionnel ?
+
+Oui, les **frais de garde-meuble** sont **déductibles fiscalement** comme charges d'exploitation : 1) TVA 20% récupérable sur déclarations trimestrielles (box 600€ TTC = 500€ HT + 100€ TVA récupérée), 2) Loyer HT déductible du résultat imposable (réduction IS/IR), 3) Factures avec SIRET nécessaires (justificatifs comptables). Pour une PME IS 25%, un box 500€/mois HT = 6 000€/an en charges = économie fiscale 1 500€/an (déduction IS). Coût net réel : 4 500€/an.
+
+### Quelle taille de box pour stocker les archives d'une PME ?
+
+Pour une **PME standard** (20-50 salariés), prévoyez : **10-15m²** pour archives 5 ans (100-200 cartons comptabilité, RH, contrats = 300-500€/mois), **15-25m²** pour archives 10 ans obligatoires (200-400 cartons = 400-750€/mois), **25-50m²** si ajout stock ou mobilier (500-1 000€/mois). Calcul : 1 carton standard = 0,06-0,08m², donc 200 cartons = 12-16m² + circulation = box 15-20m². Une **TPE** (<10 salariés) : 5-10m² suffisent (50-100 cartons = 200-300€/mois).
 
 ---
 
