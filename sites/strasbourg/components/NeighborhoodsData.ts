@@ -6,20 +6,10 @@ export const QUARTIERS: Item[] = [
   { slug: "cronenbourg",      title: "Cronenbourg" },
   { slug: "hautepierre",      title: "Hautepierre" },
   { slug: "esplanade",      title: "Esplanade" },
-  { slug: "orangerie",      title: "Orangerie" },
-  { slug: "contades",      title: "Contades" },
-  { slug: "gare",      title: "Gare" },
-  { slug: "robertsau",      title: "Robertsau" },
-  { slug: "koenigshoffen",     title: "Koenigshoffen" },
 ];
 
-export const COMMUNES: Item[] = [
-  { slug: "illkirch-graffenstaden",       title: "Illkirch-Graffenstaden" },
-  { slug: "schiltigheim",       title: "Schiltigheim" },
-  { slug: "bischheim",       title: "Bischheim" },
-  { slug: "hoenheim",       title: "Hoenheim" },
-  { slug: "ostwald",       title: "Ostwald" },
-];
+export const COMMUNES: Item[] = [];
+// Communes satellites à créer ultérieurement
 
 export function urlForQuartier(slug: string) {
   return `/strasbourg/${slug}/`;

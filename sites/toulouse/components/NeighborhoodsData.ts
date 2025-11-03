@@ -6,20 +6,10 @@ export const QUARTIERS: Item[] = [
   { slug: "carmes",      title: "Carmes" },
   { slug: "jean-jaures",      title: "Jean Jaurès" },
   { slug: "compans",      title: "Compans" },
-  { slug: "matabiau",      title: "Matabiau" },
-  { slug: "mirail",      title: "Mirail" },
-  { slug: "rangueil",      title: "Rangueil" },
-  { slug: "purpan",      title: "Purpan" },
-  { slug: "borderouge",     title: "Borderouge" },
 ];
 
-export const COMMUNES: Item[] = [
-  { slug: "blagnac",       title: "Blagnac" },
-  { slug: "colomiers",       title: "Colomiers" },
-  { slug: "tournefeuille",       title: "Tournefeuille" },
-  { slug: "muret",       title: "Muret" },
-  { slug: "cugnaux",       title: "Cugnaux" },
-];
+export const COMMUNES: Item[] = [];
+// Communes satellites à créer ultérieurement
 
 export function urlForQuartier(slug: string) {
   return `/toulouse/${slug}/`;

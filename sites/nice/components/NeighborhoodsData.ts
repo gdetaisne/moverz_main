@@ -6,20 +6,11 @@ export const QUARTIERS: Item[] = [
   { slug: "cimiez",      title: "Cimiez" },
   { slug: "liberation",      title: "Libération" },
   { slug: "port",      title: "Port" },
-  { slug: "mantega",      title: "Mantega" },
-  { slug: "fabron",      title: "Fabron" },
-  { slug: "pasteur",      title: "Pasteur" },
-  { slug: "garibaldi",      title: "Garibaldi" },
-  { slug: "saint-roch",     title: "Saint-Roch" },
 ];
 
-export const COMMUNES: Item[] = [
-  { slug: "cannes",       title: "Cannes" },
-  { slug: "antibes",       title: "Antibes" },
-  { slug: "grasse",       title: "Grasse" },
-  { slug: "menton",       title: "Menton" },
-  { slug: "monaco",       title: "Monaco" },
-];
+export const COMMUNES: Item[] = [];
+// Communes satellites à créer ultérieurement
+// Communes satellites à créer ultérieurement
 
 export function urlForQuartier(slug: string) {
   return `/nice/${slug}/`;

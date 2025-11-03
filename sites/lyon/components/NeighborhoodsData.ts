@@ -6,20 +6,10 @@ export const QUARTIERS: Item[] = [
   { slug: "vieux-lyon",      title: "Vieux Lyon" },
   { slug: "part-dieu",      title: "Part-Dieu" },
   { slug: "confluence",      title: "Confluence" },
-  { slug: "brotteaux",      title: "Brotteaux" },
-  { slug: "montchat",      title: "Montchat" },
-  { slug: "guillotiere",      title: "Guillotière" },
-  { slug: "gerland",      title: "Gerland" },
-  { slug: "tete-dor",     title: "Tête d'Or" },
 ];
 
-export const COMMUNES: Item[] = [
-  { slug: "villeurbanne",       title: "Villeurbanne" },
-  { slug: "venissieux",       title: "Vénissieux" },
-  { slug: "saint-fons",       title: "Saint-Fons" },
-  { slug: "oullins",       title: "Oullins" },
-  { slug: "caluire-et-cuire",       title: "Caluire-et-Cuire" },
-];
+export const COMMUNES: Item[] = [];
+// Communes satellites à créer ultérieurement
 
 export function urlForQuartier(slug: string) {
   return `/lyon/${slug}/`;
