@@ -220,10 +220,10 @@ Déménager seul en tant qu'étudiant demande de l'organisation et de l'énergie
 
 Nous proposons des services adaptés aux déménagements étudiants : emballage sécurisé, transport optimisé, et installation dans votre nouveau logement. Notre connaissance de Bordeaux nous permet d'optimiser les trajets et de gérer les spécificités de la ville.
 
-**Demandez votre devis personnalisé** et découvrez comment nous pouvons vous accompagner dans votre [déménagement étudiant](/blog/etudiant/guide) à Bordeaux.
+**Demandez votre devis personnalisé** et découvrez comment nous pouvons vous accompagner dans votre [déménagement étudiant](/blog/demenagement-etudiant-bordeaux/guide-complet) à Bordeaux.
 
 [Obtenir un devis gratuit →](/contact)
 
 ---
 
-*Cet article complète notre [guide complet du déménagement étudiant à Bordeaux](/blog/etudiant/guide). Découvrez également nos conseils pour [éviter les erreurs courantes](/blog/etudiant/erreurs-demenagement-etudiant) et notre [checklist détaillée](/blog/etudiant/checklist-demenagement-etudiant) pour ne rien oublier.*
+*Cet article complète notre [guide complet du déménagement étudiant à Bordeaux](/blog/demenagement-etudiant-bordeaux/guide-complet). Découvrez également nos conseils pour [éviter les erreurs courantes](/blog/etudiant/erreurs-demenagement-etudiant) et notre [checklist détaillée](/blog/etudiant/checklist-demenagement-etudiant) pour ne rien oublier.*

@@ -68,7 +68,7 @@ Préparez vos affaires fragiles en les emballant soigneusement. Les déménageur
 
 Un petit déménagement à Bordeaux représente donc un investissement modéré mais qu'il convient de planifier soigneusement. En choisissant la bonne période, en participant activement à la préparation et en sélectionnant un professionnel adapté, vous pouvez optimiser votre budget tout en bénéficiant d'un service de qualité.
 
-**Prêt à déménager votre studio à Bordeaux ?** [Obtenez votre devis gratuit](/blog/devis/guide) en quelques clics. Nos experts vous accompagnent avec des tarifs transparents et des conseils personnalisés.
+**Prêt à déménager votre studio à Bordeaux ?** [Obtenez votre devis gratuit](/blog/devis-demenagement-bordeaux/guide) en quelques clics. Nos experts vous accompagnent avec des tarifs transparents et des conseils personnalisés.
 
 ---
 

@@ -14,7 +14,7 @@ featured: false
 ---
 
 
-# Assurer ses biens en [garde-meuble](/blog/garde-meuble/guide) à Bordeaux
+# Assurer ses biens en [garde-meuble](/blog/garde-meuble-bordeaux/guide) à Bordeaux
 
 L'assurance de vos biens stockés en garde-meuble constitue un élément essentiel de votre protection, mais reste souvent mal comprise. Entre les garanties de base, les exclusions spécifiques et les options complémentaires, il est crucial de bien comprendre ce qui est couvert et ce qui ne l'est pas. Voici un guide complet des aspects assurantiels du garde-meuble dans la métropole girondine.
 

@@ -16,7 +16,7 @@ featured: false
 
 # Déménagement étudiant pas cher à Bordeaux
 
-Déménager en tant qu'étudiant à Bordeaux ne doit pas vider votre portefeuille. Avec un budget serré et des priorités différentes, vous pouvez organiser un déménagement efficace tout en maîtrisant vos dépenses. Voici toutes les astuces pour réduire significativement les coûts de votre [déménagement étudiant](/blog/etudiant/guide) dans la métropole girondine.
+Déménager en tant qu'étudiant à Bordeaux ne doit pas vider votre portefeuille. Avec un budget serré et des priorités différentes, vous pouvez organiser un déménagement efficace tout en maîtrisant vos dépenses. Voici toutes les astuces pour réduire significativement les coûts de votre [déménagement étudiant](/blog/demenagement-etudiant-bordeaux/guide-complet) dans la métropole girondine.
 
 ## Optimiser votre budget déménagement
 
@@ -198,4 +198,4 @@ Nous offrons des services personnalisés : emballage économique, transport opti
 
 ---
 
-*Cet article complète notre [guide complet du déménagement étudiant à Bordeaux](/blog/etudiant/guide). Découvrez également nos conseils pour [récupérer des cartons gratuits](/blog/etudiant/cartons-gratuits) et notre [checklist détaillée](/blog/etudiant/checklist-demenagement-etudiant) pour ne rien oublier.*
+*Cet article complète notre [guide complet du déménagement étudiant à Bordeaux](/blog/demenagement-etudiant-bordeaux/guide-complet). Découvrez également nos conseils pour [récupérer des cartons gratuits](/blog/etudiant/cartons-gratuits) et notre [checklist détaillée](/blog/etudiant/checklist-demenagement-etudiant) pour ne rien oublier.*

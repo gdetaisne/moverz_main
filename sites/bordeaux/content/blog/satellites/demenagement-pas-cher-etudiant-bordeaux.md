@@ -52,7 +52,7 @@ Pessac, autre quartier étudiant important, dispose d'un réseau de commerces et
 
 L'entraide étudiante constitue l'une des solutions les plus économiques pour les déménagements à Bordeaux. Les associations étudiantes, très actives dans la métropole, organisent régulièrement des opérations de déménagement collectif. Cette solidarité, caractéristique de la culture étudiante bordelaise, permet de mobiliser des équipes de portage bénévoles.
 
-Les groupes Facebook étudiants, comme "Étudiants Bordeaux" ou "[Déménagement Étudiant](/blog/etudiant/guide) Bordeaux", constituent des espaces d'échange précieux pour organiser l'entraide. Ces communautés, très actives, permettent de mobiliser rapidement des équipes de portage et de partager les équipements nécessaires.
+Les groupes Facebook étudiants, comme "Étudiants Bordeaux" ou "[Déménagement Étudiant](/blog/demenagement-etudiant-bordeaux/guide-complet) Bordeaux", constituent des espaces d'échange précieux pour organiser l'entraide. Ces communautés, très actives, permettent de mobiliser rapidement des équipes de portage et de partager les équipements nécessaires.
 
 ## Les solutions de stockage temporaire : gérer les transitions
 
@@ -62,7 +62,7 @@ Les garde-meubles bordelais proposent souvent des tarifs dégressifs pour les é
 
 ## L'organisation pratique : anticiper les contraintes
 
-Un [déménagement étudiant](/blog/etudiant/guide) nécessite une organisation particulière pour tenir compte des contraintes académiques. Prévoyez votre déménagement en fonction de votre planning universitaire, en évitant les périodes d'examens ou de rendus de projets. Cette anticipation vous permet de consacrer le temps nécessaire à l'organisation sans compromettre vos études.
+Un [déménagement étudiant](/blog/demenagement-etudiant-bordeaux/guide-complet) nécessite une organisation particulière pour tenir compte des contraintes académiques. Prévoyez votre déménagement en fonction de votre planning universitaire, en évitant les périodes d'examens ou de rendus de projets. Cette anticipation vous permet de consacrer le temps nécessaire à l'organisation sans compromettre vos études.
 
 Préparez votre déménagement plusieurs semaines à l'avance pour avoir le temps de comparer les offres et de mobiliser l'entraide nécessaire. Cette préparation, particulièrement importante pour les déménagements de fin d'année universitaire, vous évite les stress de dernière minute.
 
