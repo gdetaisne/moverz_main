@@ -18,7 +18,7 @@ author: "Équipe Moverz Montpellier"
 # Coût Déménagement T3 à Montpellier 2025
 
 
-Pour comprendre tous les aspects du prix déménagement à Montpellier, consultez notre [guide complet des prix déménagement à Montpellier](/blog/demenagement-montpellier/prix-demenagement-montpellier).
+Pour comprendre tous les aspects du prix déménagement à Montpellier, consultez notre [guide complet des prix déménagement à Montpellier](/blog/prix-demenagement-montpellier/prix-demenagement-montpellier).
 
 
 Déménager un T3 montpelliérain (50-60m³) coûte 1 000-1 800€ selon services et contraintes. Formule économique : 1 000-1 300€. Clé en main : 1 400-1 800€. Surcoûts : Étages +50€/niveau, Écusson +15-25% (+150-350€), août +20%.

@@ -18,7 +18,7 @@ author: "Équipe Moverz Montpellier"
 # Préparer l'Aide de Vos Amis Pour le Déménagement
 
 
-Pour comprendre tous les aspects du aide déménagement particulier Montpellier, consultez notre [guide aide déménagement à Montpellier](/blog/demenagement-montpellier/aide-demenagement-particulier-montpellier).
+Pour comprendre tous les aspects du aide déménagement particulier Montpellier, consultez notre [guide aide déménagement à Montpellier](/blog/aide-au-demenagement-particulier-montpellier/aide-demenagement-particulier-montpellier).
 
 
 Organiser efficacement l'aide d'amis nécessite liste précise des tâches, timing optimal (démarrage 9h, pause 12h, fin 14h pour T2), et repas convivial de 10-15€/personne. Une bonne préparation transforme 4h chaotiques en 2h30 efficaces, économisant temps et énergie de tous.

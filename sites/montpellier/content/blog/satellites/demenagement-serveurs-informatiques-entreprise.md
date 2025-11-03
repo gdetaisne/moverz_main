@@ -18,7 +18,7 @@ author: "Équipe Moverz Montpellier"
 # Déménagement de Serveurs Informatiques Montpellier
 
 
-Pour comprendre tous les aspects du déménagement entreprise à Montpellier, consultez notre [guide déménagement entreprise Montpellier](/blog/demenagement-montpellier/demenagement-entreprise-montpellier).
+Pour comprendre tous les aspects du déménagement entreprise à Montpellier, consultez notre [guide déménagement entreprise Montpellier](/blog/demenagement-entreprise-montpellier/demenagement-entreprise-montpellier).
 
 
 Déménager des serveurs informatiques d'entreprise nécessite impérativement spécialistes IT, sauvegardes complètes pré-déménagement, assurance renforcée (100 000-500 000€ couverture données), et protocole zéro perte. Les entreprises montpelliéraines de Port Marianne, Antigone ou Odysseum (secteur tech important) ne peuvent tolérer aucune perte de données ou coupure prolongée.

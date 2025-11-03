@@ -19,7 +19,7 @@ author: "Équipe Moverz Montpellier"
 # Formalités Douanières Pour Déménagement International : Guide Complet
 
 
-Pour comprendre tous les aspects du déménagement international Montpellier, consultez notre [guide déménagement international depuis Montpellier](/blog/demenagement-montpellier/demenagement-international-montpellier).
+Pour comprendre tous les aspects du déménagement international Montpellier, consultez notre [guide déménagement international depuis Montpellier](/blog/demenagement-international-montpellier/demenagement-international-montpellier).
 
 
 Les formalités douanières représentent souvent la partie la plus anxiogène d'un déménagement international. Entre l'inventaire valorisé obligatoire, les documents multiples à fournir, les taxes potentielles de 0 à 25% selon les pays, et les restrictions spécifiques par destination, naviguer dans cette paperasse administrative peut sembler insurmontable.

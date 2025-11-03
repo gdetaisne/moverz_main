@@ -18,7 +18,7 @@ author: "Équipe Moverz Montpellier"
 # Déménager un Meuble Unique à Montpellier : Prix et Services
 
 
-Pour comprendre tous les aspects du petit déménagement à Montpellier, consultez notre [guide petit déménagement Montpellier](/blog/demenagement-montpellier/petit-demenagement-montpellier).
+Pour comprendre tous les aspects du petit déménagement à Montpellier, consultez notre [guide petit déménagement Montpellier](/blog/petit-demenagement-montpellier/petit-demenagement-montpellier).
 
 
 Transporter un seul meuble à Montpellier coûte 80-200€ selon l'objet et les contraintes. Un canapé 3 places : 80-150€, une armoire démontée 100-200€, un frigo 80-150€. Ces services ponctuels séduisent les Montpelliérains achetant un meuble d'occasion sur Le Bon Coin, récupérant un don familial, ou ne déménageant qu'une pièce spécifique.

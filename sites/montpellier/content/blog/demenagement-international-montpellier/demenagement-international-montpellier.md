@@ -20,22 +20,22 @@ Vous partez depuis Montpellier pour une expatriation professionnelle en Allemagn
 ## 📚 Notre Dossier Complet Déménagement International Montpellier
 
 **Formalités et Organisation :**
-- [Formalités douanières déménagement international](/blog/demenagement-montpellier/formalites-douanieres-demenagement-international) - Documents, déclarations, droits
-- [Checklist déménagement international](/blog/demenagement-montpellier/checklist-demenagement-international) - 3 mois avant, 1 mois, J-jour
-- [Délais déménagement international](/blog/demenagement-montpellier/delais-demenagement-international) - Maritime 4-8 semaines, aérien 1-3 semaines
+- [Formalités douanières déménagement international](/blog/demenagement-international-montpellier/formalites-douanieres-demenagement-international) - Documents, déclarations, droits
+- [Checklist déménagement international](/blog/demenagement-international-montpellier/checklist-demenagement-international) - 3 mois avant, 1 mois, J-jour
+- [Délais déménagement international](/blog/demenagement-international-montpellier/delais-demenagement-international) - Maritime 4-8 semaines, aérien 1-3 semaines
 
 **Transport et Conteneurs :**
-- [Conteneur déménagement international Montpellier](/blog/demenagement-montpellier/conteneur-demenagement-international-montpellier) - 20 pieds vs 40 pieds, groupage
-- [Déménagement maritime vs aérien comparatif](/blog/demenagement-montpellier/demenagement-maritime-aerien-montpellier-comparatif) - Coûts, délais, avantages
+- [Conteneur déménagement international Montpellier](/blog/demenagement-international-montpellier/conteneur-demenagement-international-montpellier) - 20 pieds vs 40 pieds, groupage
+- [Déménagement maritime vs aérien comparatif](/blog/demenagement-international-montpellier/demenagement-maritime-aerien-montpellier-comparatif) - Coûts, délais, avantages
 
 **Destinations et Services :**
-- [Déménagement Europe depuis Montpellier](/blog/demenagement-montpellier/demenagement-europe-montpellier) - Espagne, Allemagne, Italie, UK
-- [Déménagement DOM-TOM depuis Montpellier](/blog/demenagement-montpellier/demenagement-dom-tom-montpellier) - Guadeloupe, Martinique, Réunion, Guyane
-- [Choisir déménageur international Montpellier](/blog/demenagement-montpellier/choisir-demenageur-international-montpellier) - Licences, certifications, avis
+- [Déménagement Europe depuis Montpellier](/blog/demenagement-international-montpellier/demenagement-europe-montpellier) - Espagne, Allemagne, Italie, UK
+- [Déménagement DOM-TOM depuis Montpellier](/blog/demenagement-international-montpellier/demenagement-dom-tom-montpellier) - Guadeloupe, Martinique, Réunion, Guyane
+- [Choisir déménageur international Montpellier](/blog/demenagement-international-montpellier/choisir-demenageur-international-montpellier) - Licences, certifications, avis
 
 **Assurance et Coûts :**
-- [Assurance déménagement international](/blog/demenagement-montpellier/assurance-demenagement-international) - Tous risques vs basique, franchises
-- [Prix déménagement international Montpellier](/blog/demenagement-montpellier/prix-demenagement-international-montpellier) - Fourchettes par destination, volume
+- [Assurance déménagement international](/blog/demenagement-international-montpellier/assurance-demenagement-international) - Tous risques vs basique, franchises
+- [Prix déménagement international Montpellier](/blog/demenagement-international-montpellier/prix-demenagement-international-montpellier) - Fourchettes par destination, volume
 
 ## Pourquoi un déménagement international est-il différent ?
 
@@ -169,7 +169,7 @@ Le choix du bon partenaire est crucial pour la réussite de votre déménagement
 
 **Interlocuteur unique** : Un chef de projet dédié vous accompagnant de A à Z simplifie grandement la communication et garantit un suivi personnalisé.
 
-Pour plus d'informations sur les déménageurs professionnels à Montpellier, consultez notre page [déménageur Montpellier](/blog/demenagement-montpellier/demenageur-montpellier).
+Pour plus d'informations sur les déménageurs professionnels à Montpellier, consultez notre page [déménageur Montpellier](/blog/demenageur-montpellier/demenageur-montpellier).
 
 
 **Besoin d'un déménagement à Montpellier ?** Découvrez notre [comparateur de déménageurs Montpellier](/) pour obtenir 5 devis personnalisés en 2 minutes. Déménageurs vérifiés, tarifs transparents, économie moyenne de 40%.

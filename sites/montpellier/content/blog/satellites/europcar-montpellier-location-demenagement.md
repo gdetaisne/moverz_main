@@ -18,7 +18,7 @@ author: "Équipe Moverz Montpellier"
 # Europcar Montpellier Location Déménagement
 
 
-Pour comprendre tous les aspects du location camion déménagement Montpellier, consultez notre [guide location camion déménagement à Montpellier](/blog/demenagement-montpellier/location-camion-demenagement-montpellier).
+Pour comprendre tous les aspects du location camion déménagement Montpellier, consultez notre [guide location camion déménagement à Montpellier](/blog/location-camion-demenagement-montpellier/location-camion-demenagement-montpellier).
 
 
 Europcar à Montpellier propose camions déménagement 3-35m³ (Kangoo 40-60€, Trafic 60-90€, Master 80-130€, Grand volume 140-200€) dans 3 agences principales : Aéroport Méditerranée (24/7 pratique arrivées/départs avion), Gare Saint-Roch (centre, accès tram), Avenue Liberté (proche Antigone). Réservation en ligne, kilométrage 100-200 km/jour inclus.
