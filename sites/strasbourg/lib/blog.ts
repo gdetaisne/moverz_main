@@ -4,7 +4,6 @@ import matter from 'gray-matter';
 
 // Mapping des catégories pour URLs courtes
 const CATEGORY_MAPPING = {
-  'déménagement-economique': 'pas-cher',
   'demenagement-economique': 'pas-cher',
   'demenagement-etudiant': 'etudiant',
   'demenagement-entreprise': 'entreprise', 
@@ -17,13 +16,7 @@ const CATEGORY_MAPPING = {
   'garde-meuble': 'garde-meuble',
   'prix-demenagement': 'prix',
   'piliers': 'general',
-  'satellites': 'conseils',
-  // Gestion des catégories avec espaces (fallback)
-  'Déménagement entreprise': 'entreprise',
-  'Déménagement étudiant': 'etudiant',
-  'Déménagement piano': 'piano',
-  'Déménagement international': 'international',
-  'Déménagement économique': 'pas-cher'
+  'satellites': 'conseils'
 };
 
 // Fonction pour extraire la catégorie du chemin du fichier
