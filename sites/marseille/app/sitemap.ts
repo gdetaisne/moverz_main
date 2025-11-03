@@ -144,7 +144,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   // Articles de blog
   const blogPages: MetadataRoute.Sitemap = blogPosts.map(post => ({
-    url: getCanonicalUrl(`blog/${post.category}/${post.slug}`),
+    url: getCanonicalUrl(`blog/${post.cleanCategory}/${post.cleanSlug}`),
     lastModified: new Date(post.publish_date || new Date()),
     changeFrequency: 'monthly' as const,
     priority: post.type === 'pilier' ? 0.9 : 0.7,
