@@ -18,7 +18,7 @@ Tous nos guides spécialisés pour le stockage à Strasbourg :
 
 ### Prix et Tarifs
 - [Prix garde-meuble Strasbourg 2025](/blog/garde-meuble-strasbourg/prix-garde-meuble-strasbourg-2025) : Tarifs actualisés
-- [Assurance garde-meuble](/blog/garde-meuble-strasbourg/assurance-demenageur-strasbourg) : Protection obligatoire
+- [Assurance garde-meuble](/blog/demenagement-strasbourg/assurance-demenageur-strasbourg) : Protection obligatoire
 
 ### Choisir son Box
 - [Taille box garde-meuble](/blog/demenagement-strasbourg/garde-meuble-strasbourg-guide) : Bien dimensionner

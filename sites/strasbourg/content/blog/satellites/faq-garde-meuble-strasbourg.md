@@ -22,7 +22,7 @@ Toutes vos questions sur le garde-meuble à Strasbourg répondues : prix, taille
 
 ### 2. Tarifs Étudiants Strasbourg ?
 
-**40-90€/mois** (box 1-5m²). Aucun tarif préférentiel carte étudiante officiel, mais promotions rentrée possibles (1er mois offert juin-juillet). 68 000 étudiants louent 3-4 mois été (200-360€ total), économisant 1 400-1 700€ vs loyer vide. [Guide étudiant complet](/blog/demenagement-strasbourg/garde-meuble-etudiant-strasbourg).
+**40-90€/mois** (box 1-5m²). Aucun tarif préférentiel carte étudiante officiel, mais promotions rentrée possibles (1er mois offert juin-juillet). 68 000 étudiants louent 3-4 mois été (200-360€ total), économisant 1 400-1 700€ vs loyer vide. [Guide étudiant complet](/blog/demenagement-strasbourg/garde-meuble-strasbourg-guide#etudiant).
 
 ### 3. Remises Longue Durée ?
 
@@ -146,7 +146,7 @@ Accessibles tram B (15 min Esplanade), bus 2/10 (20 min centre), vélo (10 min K
 
 ### 27. Partager Box Entre Particuliers ?
 
-**Oui autorisé**. Étudiants partagent fréquemment (37,50€/mois chacun au lieu 75€ seul). 1 contrat principal + co-signataires, ou 2 contrats séparés 50% surface chacun. Chacun badge accès personnel. [Astuces partage étudiants](/blog/demenagement-strasbourg/garde-meuble-etudiant-strasbourg).
+**Oui autorisé**. Étudiants partagent fréquemment (37,50€/mois chacun au lieu 75€ seul). 1 contrat principal + co-signataires, ou 2 contrats séparés 50% surface chacun. Chacun badge accès personnel. [Astuces partage étudiants](/blog/demenagement-strasbourg/garde-meuble-strasbourg-guide#etudiant).
 
 ### 28. Visiter Avant Réserver ?
 
@@ -162,7 +162,7 @@ Accessibles tram B (15 min Esplanade), bus 2/10 (20 min centre), vélo (10 min K
 
 ---
 
-Ces 30 réponses couvrent 95% questions garde-meuble Strasbourg. Pour analyses détaillées : [guide complet stockage Strasbourg](/blog/demenagement-strasbourg/garde-meuble-strasbourg), [prix par taille](/blog/demenagement-strasbourg/prix-garde-meuble-strasbourg-2025), [comparatif self vs trad](/blog/demenagement-strasbourg/self-stockage-vs-garde-meuble-strasbourg), [tailles recommandées](/blog/demenagement-strasbourg/taille-box-garde-meuble-strasbourg).
+Ces 30 réponses couvrent 95% questions garde-meuble Strasbourg. Pour analyses détaillées : [guide complet stockage Strasbourg](/blog/demenagement-strasbourg/garde-meuble-strasbourg-guide), [prix par taille](/blog/demenagement-strasbourg/prix-garde-meuble-strasbourg-2025), [comparatif self vs trad](/blog/demenagement-strasbourg/self-stockage-vs-garde-meuble-strasbourg), [tailles recommandées](/blog/demenagement-strasbourg/taille-box-garde-meuble-strasbourg).
 
 **Comparez Homebox, Locakase, Stock Avenue** : devis gratuits, visites sans engagement, conseillers disponibles.
 

@@ -113,5 +113,5 @@ Actifs strasbourgeois semaine chargée 8h-19h : seul créneau = weekend. Accès 
 
 **Horaires Locakase ?** 7h-21h semaine, 8h-18h weekend (pas 24/7).
 
-[Comparatif complet self vs traditionnel Strasbourg](/blog/demenagement-strasbourg/garde-meuble-strasbourg).
+[Comparatif complet self vs traditionnel Strasbourg](/blog/demenagement-strasbourg/garde-meuble-strasbourg-guide).
 

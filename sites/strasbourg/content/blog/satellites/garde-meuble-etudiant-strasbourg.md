@@ -20,7 +20,7 @@ Vous étudiez à Strasbourg, dans un studio de 15m² à Krutenau ou une chambre 
 
 Strasbourg compte 68 000 étudiants (11% de la population totale de 297 878 habitants), soit la 4ème ville étudiante de France. Chaque année, entre juin et septembre, des milliers d'entre vous stockent temporairement pour éviter de payer un loyer vide l'été (400-500€/mois) ou entre deux logements. Mais avec un budget serré (33% des moins de 30 ans sous le seuil de pauvreté à Strasbourg selon l'INSEE 2021, revenu médian 20 260€/an), chaque euro compte. Combien coûte réellement un garde-meuble étudiant à Strasbourg ? Existe-t-il des tarifs préférentiels ? Peut-on partager un box pour diviser les frais ?
 
-Ce guide spécial étudiants Strasbourg détaille les tarifs réels 2025 (40-90€/mois selon taille), les acteurs accessibles depuis les campus (Homebox Neudorf, Locakase), et 6 astuces pour économiser jusqu'à 50% sur votre stockage. Au-delà des tarifs étudiants détaillés ici, découvrez [toutes les solutions de garde-meuble à Strasbourg](/blog/demenagement-strasbourg/garde-meuble-strasbourg) (sécurité, types de box, services professionnels) dans notre guide complet.
+Ce guide spécial étudiants Strasbourg détaille les tarifs réels 2025 (40-90€/mois selon taille), les acteurs accessibles depuis les campus (Homebox Neudorf, Locakase), et 6 astuces pour économiser jusqu'à 50% sur votre stockage. Au-delà des tarifs étudiants détaillés ici, découvrez [toutes les solutions de garde-meuble à Strasbourg](/blog/demenagement-strasbourg/garde-meuble-strasbourg-guide) (sécurité, types de box, services professionnels) dans notre guide complet.
 
 ## Stockage Étudiant à Strasbourg : 4 Situations Courantes
 

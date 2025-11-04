@@ -82,5 +82,5 @@ Sinistre <franchise = pas indemnisation.
 
 **Photos** : Avant déménagement (preuves état initial si casse).
 
-Pour plus d'informations, consultez notre [guide assurance déménagement Strasbourg](/blog/satellites/assurance-demenageur-strasbourg).
+Pour plus d'informations, consultez notre [guide assurance déménagement Strasbourg](/blog/demenagement-strasbourg/assurance-demenageur-strasbourg).
 
