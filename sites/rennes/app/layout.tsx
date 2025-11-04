@@ -20,6 +20,7 @@ const city = getCityDataFromUrl(env.SITE_URL);
 // Metadata centralisée - wording intent transactionnel (isMoneyPage: true)
 export const metadata: Metadata = buildSiteMetadata({
   isMoneyPage: true,
+  customTitle: `Déménageurs ${city.nameCapitalized} — Devis en 7j | Moverz`,
   customDescription:
     `Déménageurs ${city.nameCapitalized} : 3–5 devis comparables en 7 jours. IA par photos (30 min), 100% en ligne. Gratuit. Déménageurs vérifiés.`,
 });
