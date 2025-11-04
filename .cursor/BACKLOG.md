@@ -581,6 +581,84 @@ Optimisation maillage interne pour pousser autorité vers homepage. Liens strat�
 
 ---
 
+## 🟠 META & CTR — Dérivés de TASK-014 (Split par cohérence technique)
+
+### [P1] [Temps: 2-3h] [Qui: Guillaume] TASK-039 : Normalisation Titles 50–60 chars (11 villes)
+
+📁 Doc : `.cursor/tasks/[P1]-TASK-039-titles-normalisation/`  
+**Objectif** : Normaliser les titles à 50–60 caractères, supprimer doublons (ex. “Ville | Déménageurs Ville”), règles par type de page.  
+**Actions** :
+- [ ] Règles par pageType (home/local/service/corridor/faq/contact/blog)
+- [ ] Dédup `/{city}` (LocalPage) + services/contact
+- [ ] QA (prévisualisation SERP) 2 villes  
+**DoD** : 90% pages money 50–60 chars, 0 doublon ville.
+**Statut** : 📋 PENDING
+
+---
+
+### [P1] [Temps: 2-3h] [Qui: Guillaume + Lucie] TASK-040 : Descriptions 150–160 chars — Tier 2 (11 villes)
+
+📁 Doc : `.cursor/tasks/[P1]-TASK-040-descriptions-tier2/`  
+**Objectif** : Appliquer templates descriptions optimisées 150–160 chars sur services éco/standard/premium, contact, notre offre.  
+**Actions** :
+- [ ] Implémenter templates par type de page (déjà validés Phase 2)  
+- [ ] Sync 11 villes  
+- [ ] QA Rich Results + longueurs  
+**DoD** : ≥85% pages money à 150–160 chars.
+**Statut** : 📋 PENDING
+
+---
+
+### [P1] [Temps: 1-1.5h] [Qui: Guillaume] TASK-041 : Price signals (UI + JSON‑LD Service)
+
+📁 Doc : `.cursor/tasks/[P1]-TASK-041-price-signals/`  
+**Objectif** : Renforcer signaux prix (mention “dès …” UI) et, si données fiables, exposer `priceRange`/bornes dans `Service` JSON‑LD.  
+**Actions** :
+- [ ] Audit des fourchettes fiables par ville/type  
+- [ ] UI: mise en avant prix  
+- [ ] JSON‑LD: `priceRange` quand éligible  
+**DoD** : UI visible + JSON‑LD ajouté là où data fiable, QA OK.
+**Statut** : 📋 PENDING
+
+---
+
+### [P2] [Temps: 1-1.5h] [Qui: Guillaume + Lucie] TASK-043 : FAQ rationalisation (snippet efficace)
+
+📁 Doc : `.cursor/tasks/[P2]-TASK-043-faq-rationalisation/`  
+**Objectif** : Limiter à 2–4 Q/A très ciblées par page money; éviter surcharge; améliorer pertinence affichée en SERP.  
+**Actions** :
+- [ ] Sélection Q/A par type de page  
+- [ ] Ajustements JSON‑LD  
+- [ ] QA Rich Results  
+**DoD** : FAQ courte et ciblée sur pages money, QA OK.
+**Statut** : 📋 PENDING
+
+---
+
+### [P2] [Temps: 2-3h] [Qui: Guillaume] TASK-044 : HowTo/Video — POC 2 villes
+
+📁 Doc : `.cursor/tasks/[P2]-TASK-044-howto-video-poc/`  
+**Objectif** : Créer 2 HowTo + 1 VideoObject par 2 villes fortes impressions; mesurer impact rich results.  
+**Actions** :
+- [ ] Sélection contenus (checklist déménagement {Ville})  
+- [ ] Marquage `HowTo`/`VideoObject` + UI  
+- [ ] Rich Results Test + monitoring 2–4 semaines  
+**DoD** : Rich results obtenus sur POC, plan de déploiement.
+**Statut** : 📋 PENDING
+
+---
+
+### [P1] [Temps: 0.5-1h] [Qui: Guillaume] TASK-045 : QA & Monitoring CTR (outillage + baselines)
+
+📁 Doc : `.cursor/tasks/[P1]-TASK-045-qa-monitoring-ctr/`  
+**Objectif** : Baseline CTR par type de page, QA automate (longueurs/head), checkpoints J+14, J+28.  
+**Actions** :
+- [ ] Baselines GSC (export par pageType)  
+- [ ] Intégrer `qa:seo` dans prebuild (déjà fait) + dashboards  
+- [ ] Checkpoints calendrier  
+**DoD** : baselines stockées, alerte/rituel QA défini, suivi à 2 échéances.
+**Statut** : 📋 PENDING
+
 ### [P1] [Temps: 1.5-2h] [Qui: Guillaume] TASK-038 : Corriger Template Literals FAQ (guillemets → backticks)
 
 📁 **Doc** : `.cursor/tasks/[P1]-TASK-038-template-literals-faq/`

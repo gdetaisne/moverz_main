@@ -15,6 +15,34 @@
 
 ## ✅ Novembre 2025
 
+### ✅ TASK-012 : Villes hardcodées (NeighborhoodsTeaser) — 11 villes
+
+**Finalisée le** : 04 novembre 2025  
+**Type** : Refactor / SEO Safety  
+**Priorité** : P1  
+**Assigné** : Guillaume
+
+**Temps estimé** : 1.5-2h  
+**Temps réel** : ~1h
+
+📁 **Documentation** : `.cursor/archives/rapports/tasks-finalisées/P1-TASK-012-villes-hardcodees-2025-11-04.md`
+
+**Résumé** :
+Correction des liens quartiers (href + trailing slash) dans `NeighborhoodsTeaser` sur 11 villes. Alignement des index quartiers `/quartiers-{slug}/`. Pas de modification de canonicals. Déployé et validé en live sur 2 sites (Nice, Lyon).
+
+**Commits GitHub** :
+- Monorepo : `3986fe26533fa988984d2c82de112d6524fe4bf6`
+- 11 sites : push via script (déploiement CapRover déclenché)
+
+**Tests production** :
+- Nice : `href="/quartiers-nice/"` → OK
+- Lyon : `href="/quartiers-lyon/"` → OK
+
+**Definition of Done** :
+- [x] 1. Code propre et documenté
+- [x] 2. Sur GitHub main + 11 dépôts (push script)
+- [x] 3. Testé en live sur 2 sites (Nice, Lyon)
+
 ### ✅ TASK-031 : Breadcrumbs + Schema (11 villes)
 
 **Finalisée le** : 04 novembre 2025  

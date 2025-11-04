@@ -47,6 +47,21 @@
 
 *Aucune tâche en cours*
 
+## 🆕 Nouvelles tâches (split de TASK-014)
+
+- [P1]-TASK-039 : Normalisation Titles 50–60 chars (11 villes) — PENDING  
+  Doc: `.cursor/tasks/[P1]-TASK-039-titles-normalisation/`
+- [P1]-TASK-040 : Descriptions 150–160 chars — Tier 2 (11 villes) — PENDING  
+  Doc: `.cursor/tasks/[P1]-TASK-040-descriptions-tier2/`
+- [P1]-TASK-041 : Price signals (UI + JSON‑LD Service) — PENDING  
+  Doc: `.cursor/tasks/[P1]-TASK-041-price-signals/`
+- [P2]-TASK-043 : FAQ rationalisation (snippet efficace) — PENDING  
+  Doc: `.cursor/tasks/[P2]-TASK-043-faq-rationalisation/`
+- [P2]-TASK-044 : HowTo/Video — POC 2 villes — PENDING  
+  Doc: `.cursor/tasks/[P2]-TASK-044-howto-video-poc/`
+- [P1]-TASK-045 : QA & Monitoring CTR (outillage + baselines) — PENDING  
+  Doc: `.cursor/tasks/[P1]-TASK-045-qa-monitoring-ctr/`
+
 **Toutes les sessions 404 sont ARCHIVÉES dans DONE.md** ✅
 
 **Session 3** : TASK-404-BLOG FINAL (4 villes) ✅ ARCHIVÉ (04/11/2025, 4h)  
