@@ -95,7 +95,7 @@ Un **box de 10m²** (20m³) suffit avec marge. Si vous ne stockez que meubles pr
 
 Les familles strasbourgeoises stockent souvent pendant **travaux 4-6 mois** (rénovation salle de bain, cuisine, sols). Box 10m² à 90-150€/mois = 540-900€ sur 6 mois, moins cher qu'un double déménagement (1 400-2 600€ si allers-retours logement temporaire).
 
-**Conseil :** Utilisez le [calculateur précis de volume](/blog/demenagement-strasbourg/prix-garde-meuble-strasbourg-2025) pour affiner selon inventaire exact. Visitez Homebox 8 rue du Doubs ou Locakase 87 rue Plaine des Bouchers avec liste/photos, conseillers aident gratuitement.
+**Conseil :** Utilisez le [calculateur précis de volume](/blog/garde-meuble-strasbourg/prix-garde-meuble-strasbourg-2025) pour affiner selon inventaire exact. Visitez Homebox 8 rue du Doubs ou Locakase 87 rue Plaine des Bouchers avec liste/photos, conseillers aident gratuitement.
 
 ### T3 60-70m² → Box 15-18m²
 
@@ -276,7 +276,7 @@ Non, un box de 5m² (10m³) est **insuffisant** pour un T2 complet de 45m². Un 
 - T3 65m² → 15m²
 - Maison 90m² → 20-25m²
 
-Pour [calculer précisément](/blog/demenagement-strasbourg/taille-box-garde-meuble-strasbourg), utilisez calculateurs Homebox/Locakase ou visitez avec inventaire détaillé.
+Pour [calculer précisément](/blog/garde-meuble-strasbourg/taille-box-garde-meuble-strasbourg), utilisez calculateurs Homebox/Locakase ou visitez avec inventaire détaillé.
 
 ### Calculateur Ligne Fiable ?
 

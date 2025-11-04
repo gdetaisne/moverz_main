@@ -18,7 +18,7 @@ Toutes vos questions sur le garde-meuble à Strasbourg répondues : prix, taille
 
 **17€/m²/mois** moyenne (location-gardemeuble.fr), soit **40-400€/mois** selon taille : 1m² = 40-60€, 5m² = 60-90€, 10m² = 90-150€, 20m² = 170-260€. Variations selon acteur (Homebox, Locakase, Stock Avenue), quartier (Grande Île +15%, Hautepierre -10%), services (24/7, assurance), engagement (6-12 mois = -10-15%).
 
-[Guide prix détaillé Strasbourg](/blog/demenagement-strasbourg/prix-garde-meuble-strasbourg-2025).
+[Guide prix détaillé Strasbourg](/blog/garde-meuble-strasbourg/prix-garde-meuble-strasbourg-2025).
 
 ### 2. Tarifs Étudiants Strasbourg ?
 
@@ -66,13 +66,13 @@ Box 3-5m² étudiant à 50-75€/mois × 4 = **200-300€** total. Vs loyer vide
 
 ### 12. Prolonger Après Échéance ?
 
-**Oui**, notification 15j avant fin. Reconduction automatique ou renégociation tarif. [Guide durées Strasbourg](/blog/demenagement-strasbourg/duree-location-garde-meuble-strasbourg).
+**Oui**, notification 15j avant fin. Reconduction automatique ou renégociation tarif. [Guide durées Strasbourg](/blog/garde-meuble-strasbourg/duree-location-garde-meuble-strasbourg).
 
 ## Accès & Services
 
 ### 13. Homebox Accès 24/7 ?
 
-**Oui**, Homebox Neudorf (8 rue Doubs) = accès 24/7 avec badge personnel. Vs Locakase 7h-21h semaine, 8h-18h weekend (pas 24/7). [Détails accès 24/7](/blog/demenagement-strasbourg/acces-24-7-self-stockage-strasbourg).
+**Oui**, Homebox Neudorf (8 rue Doubs) = accès 24/7 avec badge personnel. Vs Locakase 7h-21h semaine, 8h-18h weekend (pas 24/7). [Détails accès 24/7](/blog/garde-meuble-strasbourg/acces-24-7-self-stockage-strasbourg).
 
 ### 14. Peut-on Accéder Quotidiennement ?
 
@@ -90,7 +90,7 @@ Box 3-5m² étudiant à 50-75€/mois × 4 = **200-300€** total. Vs loyer vide
 
 ### 17. Assurance Obligatoire ?
 
-**Non légalement**, mais **fortement recommandée** si valeur >2 000€. Coût 5-15€/mois selon valeur (2 000-10 000€). Homebox 8€/mois (3 000€), Locakase inclut 2 000€ base. [Guide assurance complet](/blog/demenagement-strasbourg/assurance-garde-meuble-strasbourg).
+**Non légalement**, mais **fortement recommandée** si valeur >2 000€. Coût 5-15€/mois selon valeur (2 000-10 000€). Homebox 8€/mois (3 000€), Locakase inclut 2 000€ base. [Guide assurance complet](/blog/garde-meuble-strasbourg/assurance-garde-meuble-strasbourg).
 
 ### 18. Assurance Habitation Couvre ?
 
@@ -162,7 +162,7 @@ Accessibles tram B (15 min Esplanade), bus 2/10 (20 min centre), vélo (10 min K
 
 ---
 
-Ces 30 réponses couvrent 95% questions garde-meuble Strasbourg. Pour analyses détaillées : [guide complet stockage Strasbourg](/blog/demenagement-strasbourg/garde-meuble-strasbourg-guide), [prix par taille](/blog/demenagement-strasbourg/prix-garde-meuble-strasbourg-2025), [comparatif self vs trad](/blog/demenagement-strasbourg/self-stockage-vs-garde-meuble-strasbourg), [tailles recommandées](/blog/demenagement-strasbourg/taille-box-garde-meuble-strasbourg).
+Ces 30 réponses couvrent 95% questions garde-meuble Strasbourg. Pour analyses détaillées : [guide complet stockage Strasbourg](/blog/demenagement-strasbourg/garde-meuble-strasbourg-guide), [prix par taille](/blog/garde-meuble-strasbourg/prix-garde-meuble-strasbourg-2025), [comparatif self vs trad](/blog/garde-meuble-strasbourg/self-stockage-vs-garde-meuble-strasbourg), [tailles recommandées](/blog/garde-meuble-strasbourg/taille-box-garde-meuble-strasbourg).
 
 **Comparez Homebox, Locakase, Stock Avenue** : devis gratuits, visites sans engagement, conseillers disponibles.
 

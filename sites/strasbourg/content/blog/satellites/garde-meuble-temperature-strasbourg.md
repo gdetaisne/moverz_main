@@ -128,5 +128,5 @@ Vin conservation optimale : 12-14°C constant, humidité 70-75%, obscurité. Box
 
 **Cave vin Strasbourg acteurs ?** Chercher "garde vin température contrôlée Strasbourg", "cave stockage vin Alsace". Spécialistes proposent 12-14°C précis.
 
-[Comparatif prix Strasbourg](/blog/demenagement-strasbourg/prix-garde-meuble-strasbourg-2025) détaille tarifs standard vs climatisé.
+[Comparatif prix Strasbourg](/blog/garde-meuble-strasbourg/prix-garde-meuble-strasbourg-2025) détaille tarifs standard vs climatisé.
 

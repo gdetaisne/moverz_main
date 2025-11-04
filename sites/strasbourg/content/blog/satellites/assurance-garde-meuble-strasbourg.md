@@ -131,5 +131,5 @@ T2 complet, T3, maison, stock professionnel = 5 000-15 000€+. Assurance 12-18�
 
 **Souscrire après location ?** Oui, possible ajouter assurance après coup. Mais mieux dès début (pas de période non couverte).
 
-[Prix complets Strasbourg](/blog/demenagement-strasbourg/prix-garde-meuble-strasbourg-2025) détaille tarifs totaux (box + assurance + services).
+[Prix complets Strasbourg](/blog/garde-meuble-strasbourg/prix-garde-meuble-strasbourg-2025) détaille tarifs totaux (box + assurance + services).
 
