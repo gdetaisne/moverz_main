@@ -18,7 +18,7 @@ export default function StructuredData() {
         "url": city.siteUrl,
         "logo": {
           "@type": "ImageObject",
-          "url": `${city.siteUrl}/logo.png`,
+          "url": `${city.siteUrl}/icons/android-chrome-512x512.png`,
           "width": 512,
           "height": 512
         },

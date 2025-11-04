@@ -38,7 +38,6 @@ export default function RootLayout({
     <html lang="fr" className="h-full">
       <head>
         <link rel="manifest" href="/manifest.json" />
-        <link rel="icon" href="/logo.svg" type="image/svg+xml" />
         <link rel="icon" type="image/png" sizes="192x192" href="/icons/android-chrome-192x192.png" />
         <link rel="icon" type="image/png" sizes="512x512" href="/icons/android-chrome-512x512.png" />
         <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png" />
