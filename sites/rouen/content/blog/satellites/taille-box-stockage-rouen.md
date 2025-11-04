@@ -19,7 +19,7 @@ Choisir la bonne taille de box de stockage à Rouen est crucial pour optimiser v
 
 La règle générale à Rouen : comptez **1m² de stockage pour 3-4m² de surface habitable**. Un studio de 20m² nécessite un box de 5m², un T2 de 40m² requiert 10m², une maison de 100m² demande 15m² minimum. Ces estimations varient selon la quantité de meubles et votre capacité à optimiser l'espace vertical dans le box.
 
-Dans ce guide complet, découvrez les **tailles standards disponibles à Rouen**, les estimations précises par type de logement, et les astuces pour optimiser votre espace et économiser jusqu'à 30% sur votre budget stockage. Pour comprendre tous les aspects du choix d'un box, consultez [notre guide complet du garde-meuble à Rouen](/blog/garde-meuble-rouen/garde-meuble-rouen-guide-complet).
+Dans ce guide complet, découvrez les **tailles standards disponibles à Rouen**, les estimations précises par type de logement, et les astuces pour optimiser votre espace et économiser jusqu'à 30% sur votre budget stockage. Pour comprendre tous les aspects du choix d'un box, consultez [notre guide complet du garde-meuble à Rouen](/blog/demenagement-rouen/garde-meuble-rouen).
 
 ## Tailles Standards de Box à Rouen
 
@@ -123,7 +123,7 @@ Choisir la bonne taille de box à Rouen dépend de votre type de logement : **1m
 
 Les acteurs rouennais (Homebox, Une Pièce en Plus, Shurgard, Normandie Stockage) proposent tous des estimateurs en ligne et des visites virtuelles pour évaluer précisément vos besoins. En cas de doute entre deux tailles, privilégiez la plus petite et négociez un changement de box ultérieur (généralement gratuit) plutôt que de payer inutilement 50-70€/mois supplémentaires.
 
-En optimisant le chargement (démontage meubles, exploitation hauteur, tri sévère), vous pouvez réduire d'une taille votre box et économiser **600-900€ sur une année de stockage** à Rouen. Découvrez toutes nos [solutions de stockage à Rouen](/blog/garde-meuble-rouen/garde-meuble-rouen-guide-complet) adaptées à vos besoins.
+En optimisant le chargement (démontage meubles, exploitation hauteur, tri sévère), vous pouvez réduire d'une taille votre box et économiser **600-900€ sur une année de stockage** à Rouen. Découvrez toutes nos [solutions de stockage à Rouen](/blog/demenagement-rouen/garde-meuble-rouen) adaptées à vos besoins.
 
 ## Questions Fréquentes
 

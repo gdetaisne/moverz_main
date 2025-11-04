@@ -27,7 +27,7 @@ Vous vous demandez combien de temps minimum vous devez louer un garde-meuble à 
 
 À Rouen, 80% des acteurs de self-stockage proposent des contrats mensuels résiliables avec **1 mois de préavis**, offrant une flexibilité maximale. Les 35 000 étudiants rouennais profitent particulièrement de cette souplesse pour stocker leurs affaires 2-3 mois l'été sans engagement long terme. À l'inverse, le garde-meuble traditionnel au Grand-Quevilly impose généralement 3 mois minimum, voire 6 mois pour certains prestataires.
 
-Ce guide détaille les **durées d'engagement par acteur rouennais**, les conditions de résiliation, et les solutions pour des besoins très courts (< 1 mois). Pour une vue d'ensemble, consultez [notre guide du garde-meuble à Rouen](/blog/garde-meuble-rouen/garde-meuble-rouen-guide-complet).
+Ce guide détaille les **durées d'engagement par acteur rouennais**, les conditions de résiliation, et les solutions pour des besoins très courts (< 1 mois). Pour une vue d'ensemble, consultez [notre guide du garde-meuble à Rouen](/blog/demenagement-rouen/garde-meuble-rouen).
 
 ## Durées Minimum par Type de Stockage
 
@@ -130,7 +130,7 @@ La durée minimum de location d'un garde-meuble à Rouen dépend du type : **1 m
 
 À Rouen, tous les acteurs de self-stockage appliquent un **préavis de résiliation d'1 mois** sans frais, avec renouvellement automatique mensuel après la période minimum. Pour des besoins très courts (< 1 mois), vous devrez soit payer 1 mois complet, soit utiliser les solutions de stockage tampon des déménageurs rouennais (150-300€ selon volume).
 
-Privilégiez la flexibilité sur le prix si votre durée de stockage est incertaine : payer 10-15€/mois de plus pour un contrat sans engagement vous fait économiser plusieurs centaines d'euros si vous stockez finalement moins longtemps que prévu. Découvrez toutes nos [solutions de stockage flexibles à Rouen](/blog/garde-meuble-rouen/garde-meuble-rouen-guide-complet).
+Privilégiez la flexibilité sur le prix si votre durée de stockage est incertaine : payer 10-15€/mois de plus pour un contrat sans engagement vous fait économiser plusieurs centaines d'euros si vous stockez finalement moins longtemps que prévu. Découvrez toutes nos [solutions de stockage flexibles à Rouen](/blog/demenagement-rouen/garde-meuble-rouen).
 
 ## Questions Fréquentes
 
