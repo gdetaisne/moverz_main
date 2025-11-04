@@ -156,7 +156,7 @@ Consommation varie : vide 12L/100, chargé 3t 15-18L/100, urbain stop-and-go Cen
 
 Astuce : Leclerc Englos a station 1,48€/L (moins cher Lille), louez + faites plein restitution même site (économie ×2 : location -10% + essence -2%). Évitez retour vide : pénalité 24-39€ (facturation 1,80€/L + frais service). Photos compteur kilométrique récupération/restitution (preuve km parcourus si litige facturation excédentaire).
 
-Consultez notre [guide location Lille](/blog/demenagement-lille/location-camion-demenagement-lille-guide), notre [article prix 20m³](/blog/location-camion-lille/prix-location-camion-20m3-lille) et notre [comparatif agences](/blog/location-camion-lille/agences-location-camion-lille-comparatif).
+Consultez notre [guide location Lille](/blog/demenagement-lille/location-camion-demenagement-lille-guide), notre [article prix 20m³](/blog/location-camion-demenagement-lille/prix-location-camion-20m3-lille) et notre [comparatif agences](/blog/location-camion-lille/agences-location-camion-lille-comparatif).
 
 
 

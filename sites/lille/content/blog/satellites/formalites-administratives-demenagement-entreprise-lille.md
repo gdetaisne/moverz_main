@@ -515,8 +515,6 @@ Déménager une entreprise à Lille exige **12 formalités obligatoires** dans l
 
 **Liens utiles** :
 - [Déménagement Entreprise Lille : Guide Complet](/blog/demenagement-lille/demenagement-entreprise-lille-guide)
-- [Modification Kbis en Ligne](/blog/modification-kbis-demenagement-lille)
-- [Résiliation Bail Commercial](/blog/resiliation-bail-commercial-lille)
 
 
 

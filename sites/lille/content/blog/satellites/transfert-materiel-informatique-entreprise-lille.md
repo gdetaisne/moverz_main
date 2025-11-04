@@ -541,9 +541,9 @@ Le transfert matériel informatique d'entreprise à Lille exige **protocoles str
 
 **Liens utiles** :
 - [Déménagement Entreprise Lille : Guide Complet](/blog/demenagement-lille/demenagement-entreprise-lille-guide)
-- [Déménagement Bureaux Weekend](/blog/demenagement-bureaux-weekend-lille)
+- [Déménagement Bureaux Weekend](/blog/entreprise/demenagement-bureaux-weekend-lille)
 - [Assurance Matériel Informatique](/blog/entreprise/assurance-demenagement-entreprise-lille)
-- [Checklist Déménagement Professionnel](/blog/checklist-demenagement-entreprise-lille)
+- [Checklist Déménagement Professionnel](/blog/entreprise/checklist-complete-demenagement-entreprise-lille)
 
 
 
