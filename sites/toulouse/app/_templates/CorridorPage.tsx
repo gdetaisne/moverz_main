@@ -29,13 +29,13 @@ export function generateCorridorPageMetadata(destination: string): Metadata {
   
   return {
     title: `Déménagement ${city.nameCapitalized} → ${destination} — Comparez des devis | Moverz`,
-    description: `Un seul dossier, 20 déménageurs qualifiés. 3 devis sous 7 jours pour ${city.nameCapitalized} → ${destination}.`,
+    description: `Déménager de ${city.nameCapitalized} vers ${destination} : 5 devis gratuits sous 7 jours, déménageurs fiables. Envoyez vos photos, l'IA s'occupe de tout. Sans appels.`,
     alternates: {
       canonical: canonicalUrl,
     },
     openGraph: {
       title: `Déménagement ${city.nameCapitalized} → ${destination} — Comparez des devis | Moverz`,
-      description: `Un seul dossier, 20 déménageurs qualifiés. 3 devis sous 7 jours pour ${city.nameCapitalized} → ${destination}.`,
+      description: `Déménager de ${city.nameCapitalized} vers ${destination} : 5 devis gratuits sous 7 jours, déménageurs fiables. Envoyez vos photos, l'IA s'occupe de tout. Sans appels.`,
       url: canonicalUrl,
       type: 'website',
     },

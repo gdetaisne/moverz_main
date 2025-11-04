@@ -129,7 +129,7 @@ Le monte-meuble piano Lyon (200-350€) s'impose à partir du 4ème étage sans 
 
 Le Vieux-Lyon présente le cas particulier : rues trop étroites (1,5-2 m) interdisant monte-meuble extérieur, imposant portage manuel extrême (800-1000€ pour 4ème étage, équipe 4-5 personnes, durée 4-6h, surcoût +40-60%). Privilégier quartiers accès modernes (Villeurbanne, Confluence, Monplaisir) avec ascenseurs 1000+ kg évitant monte-meuble et surcoûts.
 
-Consultez [prix piano droit Lyon](/blog/demenagement-piano-lyon/prix-demenagement-piano-droit-lyon) pour budgétiser, [matériel piano](/blog/demenagement-piano-lyon/materiel-demenagement-piano) pour équipements, et [guide complet](/blog/demenagement-lyon/demenagement-piano-lyon-guide). Bonne montée !
+Consultez [prix piano droit Lyon](/blog/demenagement-piano-lyon/prix-demenagement-piano-droit-lyon) pour budgétiser, [matériel piano](/blog/demenagement-piano-lyon/materiel-demenagement-piano) pour équipements, et [guide complet](/blog/demenagement-piano-lyon/demenagement-piano-lyon-guide-complet). Bonne montée !
 
 ---
 

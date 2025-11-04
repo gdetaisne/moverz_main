@@ -224,7 +224,7 @@ Le choix entre formule économique et standard Lyon dépend de votre budget, tem
 
 Les deux formules garantissent assurance RC pro identique, équipe professionnelle, matériel adapté. La différence porte uniquement sur services additionnels (emballage, démontage/remontage, déballage). Des formules hybrides existent : éco + emballage fragiles uniquement, éco + démontage cuisine, permettant économies ciblées. Demandez 3+ devis déménageurs Lyon (S.I.E.T, Lugnier, Citius, Demenagix, Alizé, Eco'Moov) pour comparer formules et tarifs précis.
 
-Pour budgétiser selon votre logement, consultez [notre guide des prix Lyon 2025](/blog/demenagement-lyon-pas-cher/prix-demenagement-pas-cher-lyon-2025). Explorez aussi [toutes les solutions économiques](/blog/demenagement-lyon/demenagement-lyon-pas-cher-guide) (DIY camion, groupage, aides) pour maximiser économies. Bon choix et bon déménagement !
+Pour budgétiser selon votre logement, consultez [notre guide des prix Lyon 2025](/blog/demenagement-lyon-pas-cher/prix-demenagement-pas-cher-lyon-2025). Explorez aussi [toutes les solutions économiques](/blog/demenagement-lyon-pas-cher/demenagement-lyon-pas-cher-guide-complet) (DIY camion, groupage, aides) pour maximiser économies. Bon choix et bon déménagement !
 
 ---
 

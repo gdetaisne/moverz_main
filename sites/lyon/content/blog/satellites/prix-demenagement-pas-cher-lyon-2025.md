@@ -33,7 +33,7 @@ Déménager à Lyon avec un budget serré en 2025 est parfaitement réalisable :
 
 À Lyon, les prix varient fortement selon plusieurs facteurs. Le quartier joue un rôle majeur : un déménagement depuis le Vieux-Lyon coûte 30 à 50% plus cher qu'un déplacement équivalent depuis Monplaisir ou Villeurbanne, en raison des rues médiévales étroites nécessitant un portage manuel. Le volume intervient également : comptez 400 à 800€ pour un studio en formule économique, 700 à 1800€ pour un T2/T3, et jusqu'à 1800 à 4500€ pour une maison. La période compte aussi : la rentrée universitaire fin août génère une hausse de 10 à 15% des tarifs et rallonge les délais de réservation (3 à 4 semaines au lieu de 1 à 2 semaines hors saison), tandis que novembre à mars offre les meilleurs prix avec des remises de 10 à 15%.
 
-Ce guide détaille les prix réels 2025 pratiqués par les déménageurs lyonnais, quartier par quartier, et révèle comment économiser jusqu'à 40% avec les bonnes stratégies. Pour aller plus loin, consultez [toutes nos astuces pour déménager pas cher à Lyon en 2025](/blog/demenagement-lyon/demenagement-lyon-pas-cher-guide), avec comparatifs et bons plans locaux.
+Ce guide détaille les prix réels 2025 pratiqués par les déménageurs lyonnais, quartier par quartier, et révèle comment économiser jusqu'à 40% avec les bonnes stratégies. Pour aller plus loin, consultez [toutes nos astuces pour déménager pas cher à Lyon en 2025](/blog/demenagement-lyon-pas-cher/demenagement-lyon-pas-cher-guide-complet), avec comparatifs et bons plans locaux.
 
 ## Prix Réels Déménagement Économique Lyon 2025
 
@@ -97,7 +97,7 @@ La formule économique proposée par les déménageurs lyonnais génère une éc
 
 Cette formule convient parfaitement si vous disposez de quelques jours pour emballer méthodiquement vos cartons, si vous n'avez pas d'objets extrêmement fragiles nécessitant un emballage professionnel (piano, œuvres d'art, antiquités), et si vous acceptez de déballer vous-même à l'arrivée. Vous économisez 150-400€ sur l'emballage professionnel tout en conservant la sécurité et l'efficacité d'un transport assuré. La durée d'intervention est généralement de 3-5h pour un T2, contre une journée entière en DIY.
 
-Découvrez dans [notre guide complet des solutions économiques pour déménager à Lyon](/blog/demenagement-lyon/demenagement-lyon-pas-cher-guide) comment choisir entre formule pro et DIY selon votre situation.
+Découvrez dans [notre guide complet des solutions économiques pour déménager à Lyon](/blog/demenagement-lyon-pas-cher/demenagement-lyon-pas-cher-guide-complet) comment choisir entre formule pro et DIY selon votre situation.
 
 ### Location Camion et DIY
 
@@ -181,7 +181,7 @@ Les prix d'un déménagement économique à Lyon en 2025 s'échelonnent de 400-5
 
 Déménager pas cher à Lyon ne signifie pas sacrifier la qualité ou la sécurité de vos biens. En choisissant la bonne période (hors septembre), en comparant plusieurs devis, et en optant pour une formule adaptée à votre situation, vous économisez 30 à 40% tout en bénéficiant d'un service professionnel fiable. Les 170 000 étudiants lyonnais l'ont compris : anticiper la rentrée de mi-juillet permet d'éviter la hausse tarifaire de fin août.
 
-Avant de décider, [comparez toutes les options économiques disponibles à Lyon](/blog/demenagement-lyon/demenagement-lyon-pas-cher-guide) pour trouver celle qui correspond à votre budget et vos contraintes. Demandez 3 devis minimum, vérifiez les assurances incluses, et lisez attentivement les conditions générales pour éviter les mauvaises surprises.
+Avant de décider, [comparez toutes les options économiques disponibles à Lyon](/blog/demenagement-lyon-pas-cher/demenagement-lyon-pas-cher-guide-complet) pour trouver celle qui correspond à votre budget et vos contraintes. Demandez 3 devis minimum, vérifiez les assurances incluses, et lisez attentivement les conditions générales pour éviter les mauvaises surprises.
 
 ---
 

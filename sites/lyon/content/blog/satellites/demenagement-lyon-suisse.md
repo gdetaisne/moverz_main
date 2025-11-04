@@ -22,7 +22,7 @@ Déménager de Lyon vers la Suisse représente l'une des destinations internatio
 
 Toutefois, la Suisse étant hors Union Européenne, le déménagement impose des formalités douanières strictes absentes lors d'un déménagement intra-UE (Italie, Allemagne, Espagne). L'inventaire détaillé et valorisé en français et allemand devient obligatoire, le permis de résidence suisse (B pour résidents, C pour établis) doit être présenté, et le contrôle douanier systématique à la frontière (Bardonnex, Valserine, Saint-Julien-en-Genevois) vérifie la conformité. La franchise douanière exonère de droits les biens personnels usagés (utilisés depuis 6+ mois en France), mais tout objet neuf ou véhicule récent génère des taxes d'importation (TVA suisse 8,1%, droits véhicules 4%).
 
-Ce guide détaille les prix réels Lyon-Genève/Zurich/Lausanne 2025, explique pas à pas les formalités douanières suisses spécifiques, liste les documents obligatoires (permis B/C, inventaire, attestations), compare les déménageurs lyonnais spécialisés Suisse, et révèle les erreurs coûteuses à éviter. Pour d'autres destinations internationales, consultez [notre guide complet déménagement international Lyon](/blog/demenagement-lyon/demenagement-international-lyon-guide).
+Ce guide détaille les prix réels Lyon-Genève/Zurich/Lausanne 2025, explique pas à pas les formalités douanières suisses spécifiques, liste les documents obligatoires (permis B/C, inventaire, attestations), compare les déménageurs lyonnais spécialisés Suisse, et révèle les erreurs coûteuses à éviter. Pour d'autres destinations internationales, consultez [notre guide complet déménagement international Lyon](/blog/demenagement-international-lyon/demenagement-international-lyon-guide-complet).
 
 ## Prix Déménagement Lyon-Suisse 2025
 
@@ -223,7 +223,7 @@ Déménager de Lyon vers la Suisse (Genève 150 km, Zurich 450 km) combine proxi
 
 La franchise douanière exonère les biens personnels usagés (>6 mois usage France) de droits et TVA suisse, mais tout objet neuf génère taxation (8,1% + droits). Le passage frontière (Bardonnex, Valserine) impose contrôle systématique (30 min-2h), avec inspection physique possible. Privilégier un déménageur Lyon spécialisé Suisse (AGS, Allied, S.I.E.T) maîtrisant formalités et disposant d'un réseau partenaires Genève/Zurich garantit sérénité et conformité.
 
-Pour d'autres destinations internationales depuis Lyon (Italie, Allemagne, destinations lointaines), consultez [notre guide complet déménagement international Lyon](/blog/demenagement-lyon/demenagement-international-lyon-guide). Explorez aussi [les prix détaillés international Lyon 2025](/blog/demenagement-international-lyon/prix-demenagement-international-lyon) pour budgétiser précisément. Bon déménagement et bienvenue en Suisse !
+Pour d'autres destinations internationales depuis Lyon (Italie, Allemagne, destinations lointaines), consultez [notre guide complet déménagement international Lyon](/blog/demenagement-international-lyon/demenagement-international-lyon-guide-complet). Explorez aussi [les prix détaillés international Lyon 2025](/blog/demenagement-international-lyon/prix-demenagement-international-lyon) pour budgétiser précisément. Bon déménagement et bienvenue en Suisse !
 
 ---
 

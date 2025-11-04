@@ -1,3 +1,6 @@
+import type { Metadata } from "next";
+import { getCityDataFromUrl } from "@/lib/cityData";
+import { env } from "@/lib/env";
 import Hero from "@/components/Hero";
 import ValueTriad from "@/components/ValueTriad";
 import HowItWorks from "@/components/HowItWorks";
@@ -8,6 +11,14 @@ import Testimonials from "@/components/Testimonials";
 import NeighborhoodsTeaser from "@/components/NeighborhoodsTeaser";
 import StickyCTA from "@/components/StickyCTA";
 import LocalMoneyFAQ from "@/components/LocalMoneyFAQ";
+
+export const metadata: Metadata = (() => {
+  const city = getCityDataFromUrl(env.SITE_URL);
+  return {
+    description:
+      `Préparez votre déménagement à ${city.nameCapitalized} en 30 minutes. Envoyez vos photos, recevez 5 devis fiables sous 7 jours sans appels ni formulaires. L'IA s'occupe de tout.`,
+  };
+})();
 
 export default function Home() {
   return (

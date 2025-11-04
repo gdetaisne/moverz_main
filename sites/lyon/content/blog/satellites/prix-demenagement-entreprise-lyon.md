@@ -51,29 +51,11 @@ Budgets types : startup 5-8 postes open space 80m² (bureaux Ikea, matériel lé
 
 **Inclus vérifier** : Assurance RC pro, matériel protection, personnel qualifié IT
 
-Consultez également notre [guide déménagement entreprise Lyon](/blog/demenagement-entreprise-lyon/demenagement-entreprise-lyon-guide/) et notre [guide aide déménagement professionnel](/blog/aide-demenagement-lyon/aide-demenagement-lyon-guide/).
+## Questions Fréquentes
 
-## FAQ : Prix Déménagement Entreprise Lyon
+### Prix déménagement PME 20 postes Lyon ?
 
-### Combien coûte un déménagement de PME (20 postes) à Lyon ?
-
-Un déménagement de **PME de 20 postes** (300m², bureaux + serveurs + archives) à Lyon coûte **3 000-6 000€** selon les services. Ce tarif inclut : week-end pour continuité activité, volume 40-60m³, serveurs IT (+500-1000€ techniciens), distance intra-Lyon (Part-Dieu → Confluence), déballage/réinstallation (+1 000-2 000€). Un DIY coûte 2 500-3 500€ (location + manutentionnaires) mais présente des risques d'interruption business (10 000-50 000€ pertes potentielles). Comparez 3-5 devis, négociez -10-15%.
-
-### Le déménagement d'entreprise doit-il se faire le week-end à Lyon ?
-
-Le **week-end est recommandé** pour les PME/ETI afin d'éviter l'interruption d'activité. Un déménagement le samedi permet de repartir opérationnel le lundi matin. **Surcoût week-end** : +30-50% vs semaine, mais économie indirecte : 0 jour d'arrêt = 0 perte chiffre d'affaires. Pour une PME réalisant 10 000€/jour, 1-2 jours d'arrêt = 10 000-20 000€ pertes vs surcoût week-end 1 000-2 000€. Le ROI est évident. Les **startups** peuvent déménager en semaine si flexibilité totale.
-
-### Quels sont les coûts cachés d'un déménagement d'entreprise ?
-
-Les **coûts cachés** souvent oubliés : 1) **Interruption activité** (1-3 jours = perte CA 5 000-30 000€ selon taille), 2) **Réinstallation IT** complète (câblage, réseau, téléphonie = 1 000-5 000€), 3) **Garde-meuble temporaire** si décalage baux (500-3 000€/mois), 4) **Nouveaux meubles** si locaux plus grands (+20-30% surfaces = 5 000-15 000€), 5) **Communication clients** (changement adresse, cartes de visite = 500-2 000€), 6) **Mise aux normes** nouveaux locaux (1 000-10 000€).
-
-### Peut-on négocier le prix avec un déménageur professionnel B2B ?
-
-Oui, la **négociation est courante** en B2B. Arguments efficaces : 1) **Volume important** (30-100m³ = pouvoir de négociation), 2) **Plusieurs devis** concurrents (alignement tarifaire), 3) **Flexibilité dates** (créneau faible demande = tarif réduit), 4) **Relation long terme** (déménagements futurs, recommandations clients). Réduction possible : **10-20%** sur devis initial. Pour une PME avec devis 5 000€, négociez vers 4 200-4 500€. Comparez toujours 3-5 prestataires Lyon.
-
-### Faut-il une assurance spécifique pour déménagement d'entreprise ?
-
-Oui, l'**assurance RC Pro** du déménageur doit couvrir le **matériel professionnel** (serveurs, ordinateurs, mobilier de bureau). Plafond minimum recommandé : **100 000-300 000€** selon valeur équipements. Vérifiez que l'assurance couvre spécifiquement : matériel informatique (serveurs 10 000-50 000€), archives/documents sensibles, mobilier de qualité. Pour un data center ou matériel haute valeur, souscrivez une **assurance tous risques complémentaire** (+2-4% du montant total). Exigez l'attestation d'assurance avant signature.
+**3000-6000€ PME 20 postes 300m² (bureaux, serveurs, archives). Week-end continuité activité. Facteurs : volume 40-60m³, IT serveurs +500-1000€, distance intra-Lyon 0€ (Part-Dieu → Confluence), services déballage/réinstallation +1000-2000€. DIY 2500-3500€ (location camions + manutentionnaires) vs pros 5000€ économie 1500€ mais risques interruption business 10000-50000€. Devis : comparer 3-5 prestataires (variations 20-30%), négocier -10-15%.** [Planification →](/blog/demenagement-entreprise-lyon/planification-demenagement-bureaux-lyon)
 
 ---
 

@@ -102,7 +102,7 @@ Ce guide présente solutions garde-meuble étudiants Lyon (tailles adaptées 1-3
 
 Les étudiants Lyon (170 000) stockent massivement affaires été (juin-sept, 4-5 mois, libération chambres résidences) boxes 1-3m² coûtant 55-120€/mois (total été 220-600€). Shurgard Jean Macé (métro B campus Lyon 2/3) propose 1m² 65€, 3m² 110€, promo étudiants -5-10%. Vaise périphérie économise -10-15% (3m² 95€ vs 110€, gain 60€ été) mais métro D moins pratique. Mutualisation box entre étudiants (box 10m² 240€ ÷ 4 = 60€/étudiant) économise 30-50€/mois vs individuel.
 
-Rentabiliser stockage : sous-location chambre juillet-août (900-1100€ revenus vs 220-360€ stockage = gain 540-880€). Consultez [prix](/blog/garde-meuble-lyon/prix-garde-meuble-lyon-2025), [tailles](/blog/garde-meuble-lyon/taille-box-choisir-lyon), [Shurgard](/blog/garde-meuble-lyon/shurgard-lyon-sites-tarifs), [guide](/blog/demenagement-lyon/garde-meuble-lyon-guide). Bon été !
+Rentabiliser stockage : sous-location chambre juillet-août (900-1100€ revenus vs 220-360€ stockage = gain 540-880€). Consultez [prix](/blog/garde-meuble-lyon/prix-garde-meuble-lyon-2025), [tailles](/blog/garde-meuble-lyon/taille-box-choisir-lyon), [Shurgard](/blog/garde-meuble-lyon/shurgard-lyon-sites-tarifs), [guide](/blog/garde-meuble-lyon/garde-meuble-lyon-guide-complet). Bon été !
 
 ---
 
