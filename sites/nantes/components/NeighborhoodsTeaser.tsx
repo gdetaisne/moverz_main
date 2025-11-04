@@ -3,11 +3,11 @@ import Link from "next/link";
 export default function NeighborhoodsTeaser() {
   // Quartiers populaires avec liens vers les pages zones desservies
   const picks = [
-    { title: "Centre-ville", href: "/nantes/centre-ville" },
-    { title: "Ile de Nantes", href: "/nantes/ile-nantes" },
-    { title: "Malakoff", href: "/nantes/malakoff" },
-    { title: "Dervallières", href: "/nantes/dervallieres" },
-    { title: "Beaulieu", href: "/nantes/beaulieu" },
+    { title: "Centre-ville", href: "/nantes/centre-ville/" },
+    { title: "Ile de Nantes", href: "/nantes/ile-nantes/" },
+    { title: "Malakoff", href: "/nantes/malakoff/" },
+    { title: "Dervallières", href: "/nantes/dervallieres/" },
+    { title: "Beaulieu", href: "/nantes/beaulieu/" },
   ];
   const items = [
     ...picks,
@@ -18,7 +18,7 @@ export default function NeighborhoodsTeaser() {
     <div>
       <div className="flex items-end justify-between">
         <h2 className="text-2xl md:text-3xl font-semibold text-white">Zones couvertes</h2>
-        <Link href="/quartiers-nantes" className="btn-secondary px-4 py-2 text-sm">Voir tous les quartiers</Link>
+        <Link href="/quartiers-nantes/" className="btn-secondary px-4 py-2 text-sm">Voir tous les quartiers</Link>
       </div>
       <div className="mt-6 grid gap-4 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5">
         {items.map((p) => (

@@ -3,11 +3,11 @@ import Link from "next/link";
 export default function NeighborhoodsTeaser() {
   // Quartiers populaires avec liens vers les pages zones desservies
   const picks = [
-    { title: "Le Vieux-Port", href: "/marseille/vieux-port" },
-    { title: "La Plaine", href: "/marseille/plaine" },
-    { title: "Le Panier", href: "/marseille/panier" },
-    { title: "Endoume", href: "/marseille/endoume" },
-    { title: "La Joliette", href: "/marseille/joliette" },
+    { title: "Le Vieux-Port", href: "/marseille/vieux-port/" },
+    { title: "La Plaine", href: "/marseille/plaine/" },
+    { title: "Le Panier", href: "/marseille/panier/" },
+    { title: "Endoume", href: "/marseille/endoume/" },
+    { title: "La Joliette", href: "/marseille/joliette/" },
   ];
   const items = [
     ...picks,
