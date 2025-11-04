@@ -9,7 +9,7 @@ export const metadata: Metadata = (() => {
   const city = getCityDataFromUrl(env.SITE_URL);
   return {
     title: `Déménagement Standard ${city.nameCapitalized} - Tarifs & Devis | Moverz`,
-    description: `Formule standard pour déménager à ${city.nameCapitalized}. Rapport qualité/prix optimal. Estimation IA gratuite, devis sous 7j. À partir de 750€.`,
+    description: `Déménagement standard à ${city.nameCapitalized} : rapport qualité/prix optimal, déménageurs vérifiés. Estimation IA gratuite, recevez 5 devis personnalisés sous 7j. Dès 750€.`,
     alternates: {
       canonical: getCanonicalUrl(`services/demenagement-standard-${city.slug}`),
     },
@@ -24,7 +24,6 @@ export const metadata: Metadata = (() => {
 
 export default function DemenagementStandardPage() {
   const city = getCityDataFromUrl(env.SITE_URL);
-  
   return (
     <main className="bg-hero">
       <div className="halo" />
@@ -40,7 +39,7 @@ export default function DemenagementStandardPage() {
               items={[
                 { label: "Accueil", href: "/" },
                 { label: "Services", href: "/services" },
-                { label: "Déménagement Standard", href: `/services/demenagement-standard-${city.slug}` }
+                { label: "Déménagement Standard", href: "/services/demenagement-standard-${city.slug}" }
               ]}
             />
             <h1 className="mt-6 text-3xl font-bold tracking-tight sm:text-4xl md:text-5xl">

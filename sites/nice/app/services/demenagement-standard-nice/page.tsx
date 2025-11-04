@@ -9,7 +9,7 @@ export const metadata: Metadata = (() => {
   const city = getCityDataFromUrl(env.SITE_URL);
   return {
     title: `Déménagement Standard ${city.nameCapitalized} - Tarifs & Devis | Moverz`,
-    description: `Formule standard pour déménager à ${city.nameCapitalized}. Rapport qualité/prix optimal. Estimation IA gratuite, devis sous 7j. À partir de 750€.`,
+    description: `Déménagement standard à ${city.nameCapitalized} : rapport qualité/prix optimal, déménageurs vérifiés. Estimation IA gratuite, recevez 5 devis personnalisés sous 7j. Dès 750€.`,
     alternates: {
       canonical: getCanonicalUrl(`services/demenagement-standard-${city.slug}`),
     },

@@ -9,7 +9,7 @@ const city = getCityDataFromUrl(env.SITE_URL);
 export const metadata: Metadata = {
   title: `FAQ — Déménagement à ${city.nameCapitalized} | Déménageurs ${city.nameCapitalized} (IA)`,
   description:
-    `Toutes les réponses sur le déménagement à ${city.nameCapitalized} : prix, volume en m³, cartons, quartiers difficiles, autorisations de stationnement, périodes, etc.`,
+    `Toutes les réponses sur votre déménagement à ${city.nameCapitalized} : tarifs, volume en m³, cartons nécessaires, quartiers difficiles, stationnement, période idéale.`,
   alternates: {
     canonical: getCanonicalUrl('faq'),
   },
