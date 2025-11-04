@@ -28,14 +28,14 @@ export function generateCorridorPageMetadata(destination: string): Metadata {
   const canonicalUrl = getCanonicalUrl(`${city.slug}-vers-${destination.toLowerCase()}`);
   
   return {
-    title: `Déménagement ${city.nameCapitalized} → ${destination} — Devis en 7j | Moverz`,
-    description: `Déménager de ${city.nameCapitalized} vers ${destination} : 5 devis gratuits sous 7 jours, déménageurs fiables. Envoyez vos photos, l'IA s'occupe de tout. Sans appels.`,
+    title: `Déménagement ${city.nameCapitalized} → ${destination} — 5 devis comparables en 7j | Moverz`,
+    description: `Cahier des charges précis en quelques clics → 5 devis comparables en 7j. 100% en ligne. Sélection minutieuse. Service 100% gratuit`,
     alternates: {
       canonical: canonicalUrl,
     },
     openGraph: {
-      title: `Déménagement ${city.nameCapitalized} → ${destination} — Devis en 7j | Moverz`,
-      description: `Déménager de ${city.nameCapitalized} vers ${destination} : 5 devis gratuits sous 7 jours, déménageurs fiables. Envoyez vos photos, l'IA s'occupe de tout. Sans appels.`,
+      title: `Déménagement ${city.nameCapitalized} → ${destination} — 5 devis comparables en 7j | Moverz`,
+      description: `Cahier des charges précis en quelques clics → 5 devis comparables en 7j. 100% en ligne. Sélection minutieuse. Service 100% gratuit`,
       url: canonicalUrl,
       type: 'website',
     },
