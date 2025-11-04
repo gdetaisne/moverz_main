@@ -10,6 +10,7 @@
 | Script | Type | Usage | Fréquence |
 |--------|------|-------|-----------|
 | **health-check.mjs** | ⭐ Tout-en-un | Health check complet | Démarrage session |
+| **commit-cursor-safe.sh** | 💾 Commit | Commit .cursor/ SÉCURISÉ | Étape 8 workflow |
 | **validate-tasks.mjs** | Validation | Vérifie structure tâches | Pre-commit (auto) |
 | **check-incomplete-tasks.mjs** | Alerte | Rappel INCOMPLET | Démarrage |
 | **check-zombie-tasks.mjs** | Détection | Tâches >7j sans update | Hebdomadaire |
@@ -40,6 +41,38 @@ alias moverz="cd ~/moverz_main-2 && node .cursor/scripts/health-check.mjs"
 ---
 
 ## 📚 DÉTAILS PAR SCRIPT
+
+### commit-cursor-safe.sh ⭐
+**Commit sécurisé des fichiers .cursor/ avec protections anti-modifications accidentelles**
+
+**Contexte** : Utilisé à l'ÉTAPE 8 du workflow "Cursor, clean tasks"
+
+```bash
+bash tools/tasks/scripts/commit-cursor-safe.sh
+```
+
+**Ce qu'il fait** :
+1. ✅ Vérifie l'état git AVANT toute chose
+2. 🚨 Détecte modifications HORS .cursor/
+3. 💾 Propose de stasher automatiquement les modifs non voulues
+4. 📦 Stage SEULEMENT les fichiers .cursor/
+5. 🔍 Vérifie qu'aucun fichier sites/blog n'est inclus
+6. 💬 Demande confirmation avant commit
+7. 🚀 Push optionnel vers GitHub
+
+**Protections** :
+- ❌ Bloque si modifications hors .cursor/ détectées
+- ❌ Refuse de commiter des fichiers sites/
+- ✅ Stash automatique des modifications en cours
+- ✅ Vérification double avant commit
+
+**Avantages vs manuel** :
+- ✅ Impossible de commiter accidentellement des fichiers blog
+- ✅ Workflow guidé étape par étape
+- ✅ Rollback facile (stash) si erreur
+- ✅ Messages de commit cohérents
+
+---
 
 ### health-check.mjs
 **Run tous les checks en une fois**

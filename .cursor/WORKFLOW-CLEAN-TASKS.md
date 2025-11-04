@@ -214,7 +214,7 @@ Valider ce plan ?
 
 ---
 
-### ÉTAPE 8 : Commit documentation (optionnel)
+### ÉTAPE 8 : Commit documentation (SÉCURISÉ)
 
 **Cursor demande** :
 ```
@@ -222,14 +222,37 @@ Valider ce plan ?
 
 Veux-tu commit + push les mises à jour de documentation ?
 
-A) Oui → Je prépare le commit
+A) Oui → Utiliser le script sécurisé (RECOMMANDÉ)
 B) Non → Skip
 ```
 
 **Si OUI** :
-- Cursor prépare un commit message descriptif
-- Montre les fichiers à committer
-- Demande validation avant push
+
+⚠️ **IMPORTANT** : Utiliser le script protégé pour éviter d'inclure des fichiers blog par erreur
+
+**Cursor dit** :
+```
+Je te recommande d'utiliser le script sécurisé :
+
+bash tools/tasks/scripts/commit-cursor-safe.sh
+
+Ce script :
+✅ Vérifie qu'aucun fichier hors .cursor/ n'est inclus
+✅ Propose stash automatique des modifs blog en cours
+✅ Stage SEULEMENT les fichiers .cursor/
+✅ Double vérification avant commit
+✅ Impossible d'inclure sites/ par erreur
+
+Incident évité : 04/11/2025 - 800+ erreurs 404 causées par
+git add -A qui a inclus 696 fichiers blog par erreur.
+```
+
+**Alternative manuelle** (si tu préfères) :
+- Vérifier `git status` manuellement
+- Stasher les modifs hors .cursor/
+- `git add .cursor/` (JAMAIS `git add -A`)
+- Vérifier `git diff --cached`
+- Commit + push
 
 ---
 
