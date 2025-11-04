@@ -80,7 +80,7 @@ Renseignez-vous sur les réglementations spécifiques à votre secteur d'activit
 
 Un déménagement informatique d'entreprise à Bordeaux représente donc un défi complexe mais maîtrisable. En comprenant les enjeux de sécurité, en préparant rigoureusement les sauvegardes et en faisant appel à des professionnels spécialisés, vous pouvez assurer la réussite de votre projet et protéger vos données les plus précieuses.
 
-**Besoin d'aide pour sécuriser votre déménagement informatique ?** [Consultez notre guide spécialisé](/blog/devis/guide) et bénéficiez de nos conseils d'experts pour une transition sécurisée.
+**Besoin d'aide pour sécuriser votre déménagement informatique ?** [Consultez notre guide spécialisé](/blog/devis-demenagement-bordeaux/devis-demenagement-bordeaux-guide) et bénéficiez de nos conseils d'experts pour une transition sécurisée.
 
 ---
 

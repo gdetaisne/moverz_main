@@ -120,4 +120,4 @@ Les services de base incluent généralement l'espace de stockage, l'accès séc
 
 ---
 
-*Cet article fait partie de notre série dédiée aux solutions de stockage. Découvrez également nos guides sur le [déménagement étudiant](/blog/etudiant/guide) à Bordeaux](/blog/etudiant/guide) et le [déménagement international depuis Bordeaux](/blog/international/guide) pour une approche complète de votre projet.*
+*Cet article fait partie de notre série dédiée aux solutions de stockage. Découvrez également nos guides sur le [déménagement étudiant](/blog/demenagement-etudiant-bordeaux/demenagement-etudiant-bordeaux-guide-complet) à Bordeaux](/blog/demenagement-etudiant-bordeaux/demenagement-etudiant-bordeaux-guide-complet) et le [déménagement international depuis Bordeaux](/blog/demenagement-international-bordeaux/demenagement-international-bordeaux-guide) pour une approche complète de votre projet.*

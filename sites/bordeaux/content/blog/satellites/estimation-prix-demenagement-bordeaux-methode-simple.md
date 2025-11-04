@@ -68,7 +68,7 @@ Les étudiants bénéficient parfois d'aides spécifiques de leur université ou
 
 Estimer le prix de votre déménagement à Bordeaux nécessite donc de prendre en compte de nombreux facteurs spécifiques à la ville. En appliquant cette méthode simple et en anticipant les contraintes locales, vous pourrez établir un budget réaliste et choisir les services adaptés à vos besoins et à vos moyens.
 
-**Besoin d'une estimation personnalisée pour votre déménagement à Bordeaux ?** [Demandez votre devis gratuit](/blog/devis/guide) auprès de nos experts Movers. Nous vous accompagnons dans votre projet avec des tarifs transparents et des conseils adaptés à votre situation.
+**Besoin d'une estimation personnalisée pour votre déménagement à Bordeaux ?** [Demandez votre devis gratuit](/blog/devis-demenagement-bordeaux/devis-demenagement-bordeaux-guide) auprès de nos experts Movers. Nous vous accompagnons dans votre projet avec des tarifs transparents et des conseils adaptés à votre situation.
 
 ---
 

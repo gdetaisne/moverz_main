@@ -32,7 +32,7 @@ Commencez l'emballage plusieurs semaines à l'avance pour éviter les stress de 
 
 ## Ignorer les frais de carburant : la surprise de la facture
 
-Les frais de carburant, souvent non inclus dans les devis de base, constituent une source fréquente de mauvaises surprises. Ces frais, particulièrement importants pour les déménagements [longue distance](/blog/longue-distance/guide), peuvent représenter 50 à 150 € selon la distance parcourue. Cette dépense, souvent négligée lors de la comparaison des offres, peut alourdir significativement la facture finale.
+Les frais de carburant, souvent non inclus dans les devis de base, constituent une source fréquente de mauvaises surprises. Ces frais, particulièrement importants pour les déménagements [longue distance](/blog/demenagement-longue-distance-bordeaux/demenagement-longue-distance-bordeaux-guide), peuvent représenter 50 à 150 € selon la distance parcourue. Cette dépense, souvent négligée lors de la comparaison des offres, peut alourdir significativement la facture finale.
 
 Vérifiez toujours si les frais de carburant sont inclus dans votre devis et demandez une estimation précise de ces coûts. Cette vérification, particulièrement importante pour les déménagements longue distance, vous évite les mauvaises surprises et vous permet de comparer réellement les offres. Les péages, particulièrement nombreux autour de Bordeaux, constituent également un poste de dépense non négligeable.
 

@@ -80,7 +80,7 @@ Mettez en place un dispositif de suivi des performances et de la satisfaction de
 
 Un transfert de bureaux à Bordeaux représente donc une opération complexe mais maîtrisable. En comprenant les spécificités des espaces professionnels, en organisant rigoureusement le projet et en anticipant les contraintes, vous pouvez assurer la réussite de votre transfert et minimiser les perturbations pour vos équipes.
 
-**Besoin d'aide pour organiser votre transfert de bureaux ?** [Consultez notre guide complet](/blog/devis/guide) et bénéficiez de nos conseils d'experts pour une organisation optimale.
+**Besoin d'aide pour organiser votre transfert de bureaux ?** [Consultez notre guide complet](/blog/devis-demenagement-bordeaux/devis-demenagement-bordeaux-guide) et bénéficiez de nos conseils d'experts pour une organisation optimale.
 
 ---
 

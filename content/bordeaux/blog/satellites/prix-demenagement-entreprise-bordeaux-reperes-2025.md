@@ -24,7 +24,7 @@ Le coût d'un déménagement d'entreprise à Bordeaux varie considérablement se
 
 Le volume à déménager constitue le premier facteur d'impact sur le prix. Un poste de bureau complet, incluant mobilier, équipements informatiques et effets personnels, représente généralement 100 à 200 euros de coût de transfert. Pour une entreprise de 50 postes, le budget s'élève entre 10 000 et 20 000 euros, tandis que les grandes structures dépassant 100 postes peuvent voir leur facture excéder 20 000 euros, selon la complexité de l'installation.
 
-La distance entre vos anciens et nouveaux locaux influence directement les coûts de transport. Un déménagement intra-Bordeaux reste le plus économique, avec des tarifs variant de 450 à 1 800 euros selon la formule choisie. Pour un transfert [longue distance](/blog/longue-distance/guide), comme un déménagement de Paris à Bordeaux, les coûts peuvent osciller entre 1 200 et 4 500 euros, incluant les frais de carburant, de péages, et le temps de travail des équipes.
+La distance entre vos anciens et nouveaux locaux influence directement les coûts de transport. Un déménagement intra-Bordeaux reste le plus économique, avec des tarifs variant de 450 à 1 800 euros selon la formule choisie. Pour un transfert [longue distance](/blog/demenagement-longue-distance-bordeaux/demenagement-longue-distance-bordeaux-guide), comme un déménagement de Paris à Bordeaux, les coûts peuvent osciller entre 1 200 et 4 500 euros, incluant les frais de carburant, de péages, et le temps de travail des équipes.
 
 ## Les services additionnels et leurs coûts
 
