@@ -29,9 +29,9 @@ Maurepas-Patton, quartier nord Rennes (22 000 habitants, populaire, familles, je
 
 ## FAQ
 
-Pour comprendre tous les aspects de ce sujet, consultez notre [guide complet des déménageurs à Rennes](/blog/demenagement-rennes/demenageur-rennes).
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide complet des déménageurs à Rennes](/blog/demenagement-rennes/demenageur-rennes/).
 
-Pour comprendre tous les aspects de ce sujet, consultez notre [guide complet des déménageurs à Rennes](/blog/demenagement-rennes/demenageur-rennes).
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide complet des déménageurs à Rennes](/blog/demenagement-rennes/demenageur-rennes/).
 
 **Maurepas facile déménagement ?**
 Oui, ascenseurs partout, rues larges, stationnement facile. Auto-déménagement faisable (120-200€).
@@ -39,9 +39,9 @@ Oui, ascenseurs partout, rues larges, stationnement facile. Auto-déménagement 
 **Prix T2 Maurepas ?**
 500-700€ pros (tarifs standards, aucun surcoût vs périphérie).
 
-Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [nos services de déménagement rennais](/blog/demenagement-rennes/demenageur-rennes).
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [nos services de déménagement rennais](/blog/demenagement-rennes/demenageur-rennes/).
 
-Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [nos services de déménagement rennais](/blog/demenagement-rennes/demenageur-rennes).
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [nos services de déménagement rennais](/blog/demenagement-rennes/demenageur-rennes/).
 
 ---
 **Sources :** Fiche Rennes Maurepas
