@@ -25,7 +25,7 @@
 **Temps estimé** : 1.5-2h  
 **Temps réel** : ~1h
 
-📁 **Documentation** : `.cursor/archives/rapports/tasks-finalisées/P1-TASK-012-villes-hardcodees-2025-11-04.md`
+📁 **Documentation** : `.cursor/tasks-finalisees/novembre-2025/[P1]-TASK-012-villes-hardcodees/`
 
 **Résumé** :
 Correction des liens quartiers (href + trailing slash) dans `NeighborhoodsTeaser` sur 11 villes. Alignement des index quartiers `/quartiers-{slug}/`. Pas de modification de canonicals. Déployé et validé en live sur 2 sites (Nice, Lyon).

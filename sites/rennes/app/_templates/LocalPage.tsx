@@ -47,8 +47,8 @@ export function generateLocalPageMetadata(zone: string, zoneDisplay: string): Me
   const isCityPage = zone === city.slug || zoneDisplayNormalized === cityNameNormalized;
 
   const titleText = isCityPage
-    ? `Déménagement ${city.nameCapitalized} - Tarifs & Devis Gratuit | Moverz | Déménageurs ${city.nameCapitalized}`
-    : `Déménagement ${zoneDisplay} ${city.nameCapitalized} - Tarifs & Devis Gratuit | Moverz`;
+    ? `Déménagement ${city.nameCapitalized} — Devis en 7j | Moverz`
+    : `Déménagement ${zoneDisplay} ${city.nameCapitalized} — Devis en 7j | Moverz`;
 
   const descriptionText = isCityPage
     ? `Déménageur local à ${city.nameCapitalized} : tarifs détaillés, disponibilités immédiates. Devis personnalisé gratuit sous 7j. Équipe locale expérimentée. Réservation en ligne simple.`
