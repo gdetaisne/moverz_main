@@ -74,7 +74,7 @@ Déménageur **doit proposer** : gérer démarche (client fournit infos, démén
 
 **Vérifier** : "Gérez-vous autorisation stationnement Grande Île ? Délais ? Coût inclus ?"
 
-[Guide complet autorisations Strasbourg](/blog/demenagement-strasbourg/autorisation-stationnement-demenagement-strasbourg).
+[Guide complet autorisations Strasbourg](/blog/demenagement-strasbourg/autorisation-stationnement-strasbourg).
 
 ### 7. Délai Disponibilité
 
@@ -95,7 +95,7 @@ Conditions report/annulation variables :
 
 ### 9. Services Additionnels (Garde-Meuble, Cartons)
 
-**Garde-meuble** : Si décalage baux, certains déménageurs proposent stockage entrepôt propre. Comparer avec [Homebox/Locakase](/blog/demenagement-strasbourg/garde-meuble-strasbourg-guide) (souvent plus flexible).
+**Garde-meuble** : Si décalage baux, certains déménageurs proposent stockage entrepôt propre. Comparer avec [Homebox/Locakase](/blog/demenagement-strasbourg/garde-meuble-strasbourg) (souvent plus flexible).
 
 **Cartons/matériel** : Fourniture cartons (1-2€/unité), location cartons réutilisables (0,50€/unité), matériel emballage (papier bulle, scotch). Inclus formule clé en main, optionnel formule éco.
 

@@ -18,7 +18,7 @@ author: "Équipe Moverz Montpellier"
 # Aménagement Nouveaux Locaux Entreprise Montpellier
 
 
-Pour comprendre tous les aspects du déménagement entreprise à Montpellier, consultez notre [guide déménagement entreprise Montpellier](/blog/demenagement-montpellier/demenagement-entreprise-montpellier).
+Pour comprendre tous les aspects du déménagement entreprise à Montpellier, consultez notre [guide déménagement entreprise Montpellier](/blog/demenagement-entreprise-montpellier/demenagement-entreprise-montpellier).
 
 
 L'aménagement de nouveaux bureaux montpelliérains (space planning, ergonomie postes, câblage IT) représente 20-40% du budget total projet déménagement. PME 30 postes : 3 000-8 000€ aménagement (mobilier, IT, peinture) + 6 000-10 000€ déménagement = 9 000-18 000€ total.

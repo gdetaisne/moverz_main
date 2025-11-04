@@ -18,7 +18,7 @@ author: "Équipe Moverz Montpellier"
 # Box à Température Contrôlée à Montpellier : Pour Quels Objets ?
 
 
-Pour comprendre tous les aspects du garde-meuble à Montpellier, consultez notre [guide complet du garde-meuble à Montpellier](/blog/demenagement-montpellier/garde-meuble-montpellier).
+Pour comprendre tous les aspects du garde-meuble à Montpellier, consultez notre [guide complet du garde-meuble à Montpellier](/blog/garde-meuble-montpellier/garde-meuble-montpellier-guide-complet).
 
 
 Une box à température contrôlée coûte 20-30% plus cher qu'une box standard à Montpellier (soit +10-50€/mois selon taille), mais protège les objets sensibles aux variations climatiques du climat méditerranéen. Les étés montpelliérains atteignent régulièrement 30-35°C, tandis que l'hiver descend rarement sous 5°C, créant des amplitudes de 25-30°C entre juin et janvier.

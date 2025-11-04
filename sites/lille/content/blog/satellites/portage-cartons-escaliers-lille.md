@@ -205,7 +205,7 @@ Techniques portage : **diable chargement** cartons lourds base (livres) + léger
 
 Optimisation : **tri avant** (réduisez cartons 60 → 40 économise 80€ portage 4ème étage), **garde-meuble RDC** temporaire (stockez 30% affaires HOMEBOX Lezennes 1 mois 100€ vs portage 4ème +180€, récupérez après installation), **ascenseur** (vérifiez disponible immeuble, réservez créneaux si copropriété), **équipe renforcée** (3-4 porteurs rotations vs 2 épuisés), **pauses obligatoires** (15 min/heure évitent accidents fatigue).
 
-Consultez notre [guide petit déménagement Lille](/blog/petit-demenagement-lille/petit-demenagement-lille-studio-t1), notre [guide transport meubles](/blog/petit-demenagement-lille/transport-meubles-lille-sans-demenageur), notre [guide matériel](/blog/demenagement-pas-cher-lille/materiel-demenagement-pas-cher-location-lille) et notre [guide déménageur Lille](/blog/demenagement-lille/demenageur-lille-expert).
+Consultez notre [guide petit déménagement Lille](/blog/petit-demenagement-lille/petit-demenagement-lille-studio-t1), notre [guide transport meubles](/blog/petit-demenagement-lille/transport-meubles-lille-sans-demenageur), notre [guide matériel](/blog/demenagement-pas-cher-lille/materiel-demenagement-pas-cher-location-lille) et notre [guide déménageur Lille](/blog/demenageur-lille/demenageur-lille-expert).
 
 
 

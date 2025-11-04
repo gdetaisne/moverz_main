@@ -10,7 +10,7 @@ publish_date: "2025-01-26"
 author: "Équipe Moverz Strasbourg"
 ---
 
-Combien de temps pouvez-vous louer un garde-meuble à Strasbourg ? Existe-t-il une durée minimum ? Peut-on résilier avant terme ? Entre les 68 000 étudiants qui stockent 3-4 mois l'été, les familles en travaux 6 mois, et les expatriés du quartier Robertsau stockant 1-2 ans, les besoins varient considérablement. Pour une vue complète, consultez notre [guide complet garde-meuble Strasbourg](/blog/demenagement-strasbourg/garde-meuble-strasbourg-guide).
+Combien de temps pouvez-vous louer un garde-meuble à Strasbourg ? Existe-t-il une durée minimum ? Peut-on résilier avant terme ? Entre les 68 000 étudiants qui stockent 3-4 mois l'été, les familles en travaux 6 mois, et les expatriés du quartier Robertsau stockant 1-2 ans, les besoins varient considérablement. Pour une vue complète, consultez notre [guide complet garde-meuble Strasbourg](/blog/garde-meuble-strasbourg/garde-meuble-strasbourg-guide-complet).
 
 Ce guide détaille les durées acceptées par Homebox Neudorf, Locakase et autres acteurs strasbourgeois (minimum 1 mois), les remises engagement long (6-12 mois = -10-15%), et les durées types selon profils. Vous découvrirez aussi les conditions de résiliation anticipée et comment planifier la durée optimale pour économiser.
 
@@ -26,7 +26,7 @@ Tous les acteurs strasbourgeois (Homebox, Locakase, Stock Avenue) acceptent **du
 
 ### Étudiants : 3-4 Mois (Été)
 
-Les **68 000 étudiants strasbourgeois** louent majoritairement **3-4 mois** (mi-juin à mi-septembre). Coût : 150-360€ total selon taille (1-5m²). Économie vs loyer vide : 1 400-1 700€. [Guide complet étudiants Strasbourg](/blog/demenagement-strasbourg/garde-meuble-strasbourg-guide#etudiant).
+Les **68 000 étudiants strasbourgeois** louent majoritairement **3-4 mois** (mi-juin à mi-septembre). Coût : 150-360€ total selon taille (1-5m²). Économie vs loyer vide : 1 400-1 700€. [Guide complet étudiants Strasbourg](/blog/demenagement-strasbourg/garde-meuble-etudiant-strasbourg).
 
 **Astuce :** Réserver juin pour garantir disponibilité rentrée (pics août-septembre).
 
@@ -85,5 +85,5 @@ Engagements **6-12+ mois** permettent remises substantielles :
 
 **Facturation prorata ?** Rare. Généralement mensuel complet (1er-30/31 du mois). Certains acceptent arrangement si <15 jours.
 
-Comparez [tous critères choix Strasbourg](/blog/demenagement-strasbourg/garde-meuble-strasbourg-guide) pour décision éclairée.
+Comparez [tous critères choix Strasbourg](/blog/demenagement-strasbourg/garde-meuble-strasbourg) pour décision éclairée.
 

@@ -20,7 +20,7 @@ Les aides financières déménagement Lille remboursent **1 000-1 800€** couvr
 
 À Lille, la CAF Nord (bd Louis XIV, Lille-Centre) traite ~500 demandes aides déménagement/an selon estimations (sur 16 000-18 000 déménagements annuels Lille = 3%). Action Logement (organisme national, agence Lille rue Nationale) finance ~300-400 déménagements lillois/an (salariés privé). Pôle Emploi Lille (multiple agences : Moulins, Wazemmes, Fives) octroie ~200 aides mobilité/an. Total : 1 000-1 100 Lillois/an bénéficient d'aides (6-7% déménagements) vs 93-94% autofinancent intégralement. L'aide CAF transforme déménagement Wazemmes → emploi Arras (80 km) coûtant 1 050€ en 50€ reste à charge (remboursement 1 000€).
 
-Ce guide détaille les 3 aides déménagement accessibles Lille : conditions précises, montants, démarches, délais, contacts et calcul éligibilité. Consultez notre [guide déménagement pas cher Lille](/blog/demenagement-lille/demenagement-pas-cher-lille-guide).
+Ce guide détaille les 3 aides déménagement accessibles Lille : conditions précises, montants, démarches, délais, contacts et calcul éligibilité. Consultez notre [guide déménagement pas cher Lille](/blog/demenagement-pas-cher-lille/demenagement-pas-cher-lille-guide).
 
 ## Aide CAF Déménagement Lille
 
@@ -192,7 +192,7 @@ Aides financières déménagement Lille remboursent **1 000-1 800€** : **CAF**
 
 Démarches anticipez 2-3 mois avant (constitution dossier, traitement long). Contacts : CAF Nord 3230 ou bd Louis XIV Lille, Action Logement 0 806 706 806 ou rue Nationale Lille, Pôle Emploi agences Moulins/Wazemmes/Fives (RDV conseiller). Cumul aides interdit généralement (1 seule par déménagement). Profils prioritaires : précaires (RSA) mobilité pro, salariés mutations longue distance, demandeurs emploi acceptant éloignement géographique.
 
-Consultez notre [guide déménagement pas cher Lille](/blog/demenagement-lille/demenagement-pas-cher-lille-guide), notre [article astuces économies](/blog/demenagement-pas-cher-lille/demenagement-pas-cher-lille-top-10-astuces) et notre [guide DIY](/blog/demenagement-pas-cher-lille/diy-demenagement-lille-budget-mini).
+Consultez notre [guide déménagement pas cher Lille](/blog/demenagement-pas-cher-lille/demenagement-pas-cher-lille-guide), notre [article astuces économies](/blog/demenagement-pas-cher-lille/demenagement-pas-cher-lille-top-10-astuces) et notre [guide DIY](/blog/demenagement-pas-cher-lille/diy-demenagement-lille-budget-mini).
 
 
 

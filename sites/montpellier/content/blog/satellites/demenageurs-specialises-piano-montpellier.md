@@ -18,7 +18,7 @@ author: "Équipe Moverz Montpellier"
 # Déménageurs Spécialisés Piano à Montpellier : Comment Choisir ?
 
 
-Pour comprendre tous les aspects du déménagement piano Montpellier, consultez notre [guide transport piano à Montpellier](/blog/demenagement-montpellier/demenagement-piano-montpellier).
+Pour comprendre tous les aspects du déménagement piano Montpellier, consultez notre [guide transport piano à Montpellier](/blog/demenagement-piano-montpellier/demenagement-piano-montpellier).
 
 
 Déménager un piano nécessite impérativement un déménageur spécialisé équipé du matériel adapté et formé aux techniques de portage d'instruments fragiles. À Montpellier, 5 à 10 professionnels proposent ce service spécifique, mais tous ne se valent pas en termes d'expérience et de fiabilité.

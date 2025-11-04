@@ -19,7 +19,7 @@ Déménager de Rouen vers une ville éloignée (Paris, Lyon, Bordeaux, Marseille
 
 L'autoroute **A13** reliant Rouen à Paris (130km, 1h30 de trajet) représente l'axe le plus fréquent depuis Rouen avec des dizaines de déménagements quotidiens. Cette densité de flux permet d'accéder à des **solutions de groupage économiques** via FretBay réduisant le coût de 30-40% : un studio en groupage Rouen-Paris descend à **900-1200€** (vs 1500€ exclusif), un T2 à **1600-1900€** (vs 2500€).
 
-Ce guide détaille les **prix réels des déménagements longue distance depuis Rouen** vers les principales destinations françaises, compare les formules exclusives et en groupage, et liste les acteurs spécialisés. Pour une vue d'ensemble, consultez [notre guide du déménageur à Rouen](/blog/demenagement-rouen/demenageur-rouen).
+Ce guide détaille les **prix réels des déménagements longue distance depuis Rouen** vers les principales destinations françaises, compare les formules exclusives et en groupage, et liste les acteurs spécialisés. Pour une vue d'ensemble, consultez [notre guide du déménageur à Rouen](/blog/demenageur/demenageur-rouen-guide-complet).
 
 ## Destinations Fréquentes depuis Rouen
 
@@ -143,7 +143,7 @@ Certains déménageurs rouennais (TDN, Postel) ont des **partenariats** avec con
 
 Les déménagements longue distance depuis Rouen coûtent **1500-6000€** selon destination et volume : Paris 130km (1500-3500€), Le Havre 90km (800-2600€), Lyon 550km (2500-8000€), Bordeaux 650km (3000-9000€). Le **groupage via FretBay** réduit ces tarifs de 30-40% (Paris 900-2400€, Lyon 1800-3500€) contre délai supplémentaire de 3-10 jours acceptable dans la majorité des cas.
 
-À Rouen, Demeco (réseau national) et FretBay (plateforme groupage) sont les acteurs les plus compétents pour ces déménagements. L'A13 vers Paris facilite les trajets quotidiens, les autres destinations (Lyon, Bordeaux) nécessitent anticipation 3-4 semaines pour constituer groupages. Découvrez tous nos [services déménagement longue distance](/blog/demenagement-rouen/demenageur-rouen).
+À Rouen, Demeco (réseau national) et FretBay (plateforme groupage) sont les acteurs les plus compétents pour ces déménagements. L'A13 vers Paris facilite les trajets quotidiens, les autres destinations (Lyon, Bordeaux) nécessitent anticipation 3-4 semaines pour constituer groupages. Découvrez tous nos [services déménagement longue distance](/blog/demenageur/demenageur-rouen-guide-complet).
 
 ## Questions Fréquentes
 

@@ -274,7 +274,7 @@ Acteurs Lille : coursiers locaux (20-30 entreprises métropole Google "coursier 
 
 Contraintes Lille Centre : Vieux-Lille rues pavées 3-4m accès étroit camionnettes OK vs gros véhicules, stationnement payant République 2€/h, zones piétonnes Wazemmes, circulation dense évitez heures pointe 8h-9h/17h-19h. Timing optimal : mardi-jeudi 10h-16h (fluidité max), évitez lundi matin (reprise activité), vendredi soir (embouteillages).
 
-Consultez notre [guide petit déménagement Lille](/blog/petit-demenagement-lille/petit-demenagement-lille-studio-t1), notre [guide location camion](/blog/demenagement-lille/location-camion-demenagement-lille-guide), notre [guide coursiers Lille](/blog/aide-demenagement-lille/aide-demenagement-particuliers-lille) et notre [article DIY](/blog/demenagement-pas-cher-lille/diy-demenagement-lille-budget-mini).
+Consultez notre [guide petit déménagement Lille](/blog/petit-demenagement-lille/petit-demenagement-lille-studio-t1), notre [guide location camion](/blog/location-camion-lille/location-camion-demenagement-lille-guide), notre [guide coursiers Lille](/blog/aide-demenagement-lille/aide-demenagement-particuliers-lille) et notre [article DIY](/blog/demenagement-pas-cher-lille/diy-demenagement-lille-budget-mini).
 
 
 

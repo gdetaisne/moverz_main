@@ -20,7 +20,7 @@ L'assurance déménageur couvre-t-elle vraiment la casse de votre vaisselle ou l
 
 À Lille, les déménageurs sérieux (Lefebvre 4.1/5 72 avis, Delacquis Contini 4.9/5 434 avis) fournissent spontanément leur attestation RC pro à la signature du devis. Méfiez-vous des acteurs refusant ("Pas besoin, on casse jamais rien") ou proposant tarifs très bas (400€ T2 Leboncoin) : souvent travail au noir sans assurance = 0 indemnisation si casse votre mobilier 3 000€. Exigez l'attestation d'assurance datée <1 an avant TOUTE signature contrat : c'est votre unique garantie légale en cas de sinistre.
 
-Ce guide détaille l'assurance déménageur Lille : ce qu'elle couvre (casse, perte, dommages), ce qu'elle exclut, le montant des plafonds et franchises, comment vérifier l'attestation, la procédure indemnisation si casse et les assurances complémentaires possibles. Consultez notre [guide expert déménageurs Lille](/blog/demenagement-lille/demenageur-lille-expert) et notre [guide choix déménageur](/blog/demenageur-lille/choisir-demenageur-lille-10-criteres).
+Ce guide détaille l'assurance déménageur Lille : ce qu'elle couvre (casse, perte, dommages), ce qu'elle exclut, le montant des plafonds et franchises, comment vérifier l'attestation, la procédure indemnisation si casse et les assurances complémentaires possibles. Consultez notre [guide expert déménageurs Lille](/blog/demenageur-lille/demenageur-lille-expert) et notre [guide choix déménageur](/blog/demenageur-lille/choisir-demenageur-lille-10-criteres).
 
 ## Assurance RC Pro Déménageur : Obligation Légale
 
@@ -236,7 +236,7 @@ Procédure sinistre : constat contradictoire jour J (signaler casse immédiateme
 
 Vérifiez franchise dans devis (150-500€) : si dommage <franchise, 0 indemnisation (sinistre trop faible). Objets très haute valeur (piano 12 000€, mobilier luxe 50 000€) : assurance complémentaire "tous risques" via courtier (50-200€ déménagement, couvre 100% valeur déclarée sans franchise déménageur).
 
-Consultez notre [guide expert déménageurs Lille](/blog/demenagement-lille/demenageur-lille-expert), notre [guide choix déménageur](/blog/demenageur-lille/choisir-demenageur-lille-10-criteres) incluant vérification assurance comme critère #1, et notre [comparatif formules](/blog/demenageur-lille/formule-economique-cle-en-main-lille) pour comprendre qui assume responsabilité emballage selon formule.
+Consultez notre [guide expert déménageurs Lille](/blog/demenageur-lille/demenageur-lille-expert), notre [guide choix déménageur](/blog/demenageur-lille/choisir-demenageur-lille-10-criteres) incluant vérification assurance comme critère #1, et notre [comparatif formules](/blog/demenageur-lille/formule-economique-cle-en-main-lille) pour comprendre qui assume responsabilité emballage selon formule.
 
 
 

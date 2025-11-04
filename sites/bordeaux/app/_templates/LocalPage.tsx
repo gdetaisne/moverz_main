@@ -41,10 +41,11 @@ interface LocalPageProps {
 
 export function generateLocalPageMetadata(zone: string, zoneDisplay: string): Metadata {
   const city = getCityDataFromUrl(env.SITE_URL);
-  const canonicalUrl = getCanonicalUrl(`${city.slug}/${zone}`);
   const zoneDisplayNormalized = (zoneDisplay || '').trim().toLowerCase();
   const cityNameNormalized = (city.nameCapitalized || '').trim().toLowerCase();
   const isCityPage = zone === city.slug || zoneDisplayNormalized === cityNameNormalized;
+  const canonicalPath = isCityPage ? `${city.slug}` : `${city.slug}/${(zone || '').toLowerCase()}`;
+  const canonicalUrl = getCanonicalUrl(canonicalPath);
 
   const titleText = isCityPage
     ? `Déménagement ${city.nameCapitalized} — Devis en 7j | Moverz`

@@ -201,7 +201,7 @@ Une grue hydraulique (camion élévateur) ou un monte-charge vertical est instal
 - Certaines rues très étroites du centre historique ne permettent pas le positionnement du monte-meuble
 
 **Coût** :
-180-400€ selon la hauteur (2ème étage vs 5ème étage) et la durée d'utilisation. Pour une estimation complète incluant le transport standard + monte-meuble, consultez notre [guide prix déménagement Nantes](/blog/demenagement-nantes/prix-demenagement-nantes-guide).
+180-400€ selon la hauteur (2ème étage vs 5ème étage) et la durée d'utilisation. Pour une estimation complète incluant le transport standard + monte-meuble, consultez notre [guide prix déménagement Nantes](/blog/prix-demenagement-nantes/prix-demenagement-nantes-guide).
 
 ### 5. Transport sécurisé
 
@@ -382,8 +382,8 @@ Le déménagement d'un piano est une opération à haut risque qui ne s'improvis
 ## 🔗 Pour aller plus loin
 
 **Guides complémentaires utiles :**
-- [Déménageur professionnel](/blog/demenagement-nantes/demenageur-nantes-guide) : Spécialistes instruments
-- [Prix déménagement Nantes](/blog/demenagement-nantes/prix-demenagement-nantes-guide) : Estimation globale
+- [Déménageur professionnel](/blog/demenageur-nantes/demenageur-nantes-guide-complet) : Spécialistes instruments
+- [Prix déménagement Nantes](/blog/prix-demenagement-nantes/prix-demenagement-nantes-guide) : Estimation globale
 ## FAQ : Déménagement de Piano à Nantes
 
 ### Combien coûte le déménagement d'un piano à Nantes ?

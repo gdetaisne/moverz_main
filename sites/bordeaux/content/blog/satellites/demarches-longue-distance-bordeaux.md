@@ -16,7 +16,7 @@ featured: false
 
 # Longue distance depuis Bordeaux : démarches à ne pas oublier
 
-Un déménagement [longue distance](/blog/demenagement-longue-distance-bordeaux/guide) depuis Bordeaux nécessite une préparation administrative rigoureuse pour éviter les mauvaises surprises et assurer une transition en douceur. Ces démarches, souvent négligées dans la précipitation, peuvent compromettre la réussite de votre projet si elles ne sont pas anticipées. Comprendre l'ensemble des formalités vous permet d'organiser efficacement votre départ et d'éviter les complications ultérieures.
+Un déménagement [longue distance](/blog/longue-distance/guide) depuis Bordeaux nécessite une préparation administrative rigoureuse pour éviter les mauvaises surprises et assurer une transition en douceur. Ces démarches, souvent négligées dans la précipitation, peuvent compromettre la réussite de votre projet si elles ne sont pas anticipées. Comprendre l'ensemble des formalités vous permet d'organiser efficacement votre départ et d'éviter les complications ultérieures.
 
 ## Les démarches administratives essentielles
 
@@ -80,7 +80,7 @@ L'inscription dans les services locaux, comme les transports en commun ou les se
 
 Les démarches administratives d'un déménagement longue distance depuis Bordeaux nécessitent donc une organisation rigoureuse et une anticipation importante. En planifiant ces démarches plusieurs mois à l'avance et en suivant une checklist méthodique, vous pouvez éviter les complications et assurer une transition en douceur vers votre nouvelle ville.
 
-**Besoin d'aide pour organiser vos démarches ?** [Consultez notre guide complet](/blog/devis-demenagement-bordeaux/guide) et bénéficiez de nos conseils d'experts pour un déménagement réussi.
+**Besoin d'aide pour organiser vos démarches ?** [Consultez notre guide complet](/blog/devis/guide) et bénéficiez de nos conseils d'experts pour un déménagement réussi.
 
 ---
 

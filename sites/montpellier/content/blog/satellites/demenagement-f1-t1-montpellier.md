@@ -18,7 +18,7 @@ author: "Équipe Moverz Montpellier"
 # Déménagement F1/T1 à Montpellier : Guide Prix 2025
 
 
-Pour comprendre tous les aspects du petit déménagement à Montpellier, consultez notre [guide petit déménagement Montpellier](/blog/demenagement-montpellier/petit-demenagement-montpellier).
+Pour comprendre tous les aspects du petit déménagement à Montpellier, consultez notre [guide petit déménagement Montpellier](/blog/petit-demenagement-montpellier/petit-demenagement-montpellier).
 
 
 Un F1 ou T1 montpelliérain (15-25m³) coûte 100-150€ en DIY complet (location Trafic 60-90€ + aide), 200-350€ en groupage, ou 300-600€ avec déménageur professionnel selon la formule. Le volume intermédiaire (plus qu'un studio, moins qu'un T2) permet encore le DIY si vous êtes organisé, mais le professionnel devient plus pertinent qu'un simple studio.
