@@ -224,6 +224,9 @@ const nextConfig = {
       { source: '/blog/urgent', destination: '/blog/', permanent: true },
       { source: '/blog/devis', destination: '/blog/', permanent: true },
       { source: '/blog/longue-distance', destination: '/blog/', permanent: true },
+
+      // TOP PRIORITÉ (URL 404 → fallback /blog)
+      { source: '/blog/garde-meuble/acces-24-7-garde-meuble-nice', destination: '/blog/', permanent: true },
     ];
   }
 };

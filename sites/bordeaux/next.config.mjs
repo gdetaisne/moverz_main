@@ -22,6 +22,13 @@ const nextConfig = {
   compress: true,
   poweredByHeader: false,
   generateEtags: true,
+  async redirects() {
+    return [
+      // TOP PRIORITÉ (URLs 404 → pilier blog Bordeaux)
+      { source: '/blog/entreprise/checklist-demenagement-entreprise', destination: '/blog/', permanent: true },
+      { source: '/blog/entreprise/transfert-bureaux', destination: '/blog/', permanent: true },
+    ];
+  },
   async headers() {
     return [
       {

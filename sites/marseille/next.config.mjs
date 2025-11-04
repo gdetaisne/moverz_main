@@ -99,6 +99,17 @@ const nextConfig = {
       // Catégories vides
       { source: '/blog/international', destination: '/blog/', permanent: true },
       { source: '/blog/longue-distance', destination: '/blog/', permanent: true },
+
+      // TOP PRIORITÉ (URLs 404 → piliers Marseille)
+      { source: '/blog/demenagement-marseille/petit-demenagement', destination: '/blog/demenagement-marseille/', permanent: true },
+      { source: '/blog/demenageur-lille/autorisation-stationnement-demenagement-lille', destination: '/blog/demenagement-marseille/', permanent: true },
+      { source: '/blog/demenagement-montpellier/demenageur-montpellier', destination: '/blog/demenagement-marseille/', permanent: true },
+      { source: '/blog/demenagement-marseille/demenagement-d-entreprise', destination: '/blog/demenagement-marseille/', permanent: true },
+      { source: '/blog/demenagement-marseille/meilleur-demenageur-pas-cher', destination: '/blog/demenagement-marseille/', permanent: true },
+      { source: '/blog/demenagement-marseille/location-camion-demenagement', destination: '/blog/demenagement-marseille/', permanent: true },
+      { source: '/blog/demenagement-marseille/autorisation-stationnement-demenagement', destination: '/blog/demenagement-marseille/', permanent: true },
+      { source: '/blog/prix-demenagement-montpellier', destination: '/blog/', permanent: true },
+      { source: '/blog/garde-meuble/garde-meuble-etudiant-ete', destination: '/blog/', permanent: true },
       { source: '/blog/devis', destination: '/blog/', permanent: true },
       
       // Pages légales trailing slash

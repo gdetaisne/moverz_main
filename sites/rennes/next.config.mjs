@@ -114,6 +114,9 @@ const nextConfig = {
       { source: '/blog/devis', destination: '/blog', permanent: true },
       { source: '/blog/longue-distance', destination: '/blog', permanent: true },
 
+      // TOP PRIORITÉ : URL hors-ville → page ville
+      { source: '/toulouse', destination: '/rennes/', permanent: true },
+
       // ARTICLE SATELLITE SPÉCIFIQUE cassé
       { source: '/blog/pas-cher/entraide-demenagement-rennes-plateformes', destination: '/blog', permanent: true },
       { source: '/blog/petit-demenagement-rennes/petit-demenagement-auto-rennes', destination: '/blog/petit-demenagement-rennes/petit-demenagement-rennes-guide', permanent: true },

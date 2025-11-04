@@ -148,6 +148,17 @@ const nextConfig = {
       { source: '/blog/urgent', destination: '/blog', permanent: true },
       { source: '/blog/devis', destination: '/blog', permanent: true },
       { source: '/blog/longue-distance', destination: '/blog', permanent: true },
+      
+      // TOP PRIORITÉ (URLs 404 → fallback /blog)
+      { source: '/blog/piano/accordage-piano-apres-demenagement-nantes', destination: '/blog', permanent: true },
+      { source: '/blog/pas-cher/comparatif-formules-economiques-demenagement-nantes', destination: '/blog', permanent: true },
+      { source: '/blog/international/prix-demenagement-international-nantes', destination: '/blog', permanent: true },
+      { source: '/blog/international/transport-maritime-aerien-demenagement-international-nantes', destination: '/blog', permanent: true },
+      { source: '/blog/garde-meuble/garde-meuble-pas-cher-nantes', destination: '/blog', permanent: true },
+      { source: '/blog/international/demenagement-nantes-usa-canada', destination: '/blog', permanent: true },
+      { source: '/blog/garde-meuble/prix-garde-meuble-nantes-2025', destination: '/blog', permanent: true },
+      { source: '/blog/garde-meuble/garde-meuble-vs-self-stockage-nantes', destination: '/blog', permanent: true },
+      { source: '/blog/garde-meuble/duree-minimum-garde-meuble-nantes', destination: '/blog', permanent: true },
     ];
   }
 };
