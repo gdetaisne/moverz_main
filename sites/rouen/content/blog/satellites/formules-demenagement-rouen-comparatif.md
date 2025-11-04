@@ -19,7 +19,7 @@ Les déménageurs professionnels à Rouen proposent généralement trois formule
 
 À Rouen, les déménageurs établis (TDN Déménagements, Déménagements Postel, Demeco) proposent systématiquement ces trois formules, tandis que les acteurs économiques (FretBay, All Transport Efficiency) se concentrent sur la formule économique pour optimiser leurs tarifs. Un T2 rouennais du quartier Saint-Marc vers Pasteur coûte **680€ en formule économique** (vous emballez tout vous-même), **1000€ en formule standard** (déménageur emballe les fragiles), ou **1350€ en formule clé en main** (déménageur emballe absolument tout et déballe dans le nouveau logement).
 
-Ce guide compare en détail ces **trois formules de déménagement à Rouen**, détaille ce qui est inclus et exclu dans chacune, et vous aide à choisir selon votre budget, votre disponibilité et votre condition physique. Pour une vue d'ensemble, consultez [notre guide du déménageur à Rouen](/blog/demenagement-rouen/demenageur-rouen-guide-complet).
+Ce guide compare en détail ces **trois formules de déménagement à Rouen**, détaille ce qui est inclus et exclu dans chacune, et vous aide à choisir selon votre budget, votre disponibilité et votre condition physique. Pour une vue d'ensemble, consultez [notre guide du déménageur à Rouen](/blog/demenageur/demenageur-rouen-guide-complet).
 
 ## Formule Économique : Participation Client Maximale
 
@@ -241,7 +241,7 @@ Une retraitée rouennaise témoigne : "Maison Grieu formule tout inclus TDN 3400
 
 Les trois formules de déménagement à Rouen s'adaptent à différents budgets et profils. La **formule économique** (600-2200€ selon volume) économise 40-60% contre participation active maximale (3-4 jours effort), idéale budgets serrés et jeunes en bonne santé. La **formule standard** (900-2900€) équilibre effort modéré (1-2 jours) et économie de 200-400€ vs luxe, recommandée pour 70% des Rouennais. La **formule clé en main** (1200-4000€) supprime tout effort contre surcoût 300-1100€, indispensable seniors, familles jeunes enfants, et professionnels sans temps.
 
-À Rouen, TDN, Postel et Demeco proposent les trois formules avec qualité constante. FretBay et All Transport se concentrent sur économique pour optimiser tarifs. Choisissez selon votre budget (< 800€ = économique, 800-1800€ = standard, > 1800€ = clé en main) et votre capacité d'effort. Découvrez tous nos [services et tarifs à Rouen](/blog/demenagement-rouen/prix-demenageur-rouen-2025).
+À Rouen, TDN, Postel et Demeco proposent les trois formules avec qualité constante. FretBay et All Transport se concentrent sur économique pour optimiser tarifs. Choisissez selon votre budget (< 800€ = économique, 800-1800€ = standard, > 1800€ = clé en main) et votre capacité d'effort. Découvrez tous nos [services et tarifs à Rouen](/blog/prix/prix-demenageur-rouen-2025).
 
 ## Questions Fréquentes
 

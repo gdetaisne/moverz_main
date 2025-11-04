@@ -18,24 +18,24 @@ Déménager représente une étape majeure, souvent source de stress et d'appré
 Découvrez tous nos guides pour obtenir l'aide parfaite à Rouen :
 
 ### Services Professionnels
-- **[Aide Professionnelle Déménagement](/blog/demenagement-rouen/aide-professionnelle-demenagement-rouen)** : Services à la carte, manutentionnaires, prestations partielles
-- **[Manutentionnaire Déménagement Rouen](/blog/demenagement-rouen/manutentionnaire-demenagement-rouen)** : Embauche, tarifs, missions
+- **[Aide Professionnelle Déménagement](/blog/aide-demenagement-rouen/aide-professionnelle-demenagement-rouen)** : Services à la carte, manutentionnaires, prestations partielles
+- **[Manutentionnaire Déménagement Rouen](/blog/aide-demenagement-rouen/manutentionnaire-demenagement-rouen)** : Embauche, tarifs, missions
 
 ### Solutions Economiques
-- **[Aide Bénévole Déménagement](/blog/demenagement-rouen/aide-benevole-demenagement-rouen)** : Organiser famille/amis, motivations, récompenses
-- **[Aide Déménagement Étudiant](/blog/demenagement-rouen/aide-demenagement-etudiant-rouen)** : Solutions étudiants, réseau solidaire
+- **[Aide Bénévole Déménagement](/blog/aide-demenagement-rouen/aide-benevole-demenagement-rouen)** : Organiser famille/amis, motivations, récompenses
+- **[Aide Déménagement Étudiant](/blog/aide-demenagement-rouen/aide-demenagement-etudiant-rouen)** : Solutions étudiants, réseau solidaire
 
 ### Services Spécialisés
-- **[Aide Emballage Rouen](/blog/demenagement-rouen/aide-emballage-demenagement-rouen)** : Techniques pros, matériel, objets fragiles
-- **[Aide Monte-Meuble Rouen](/blog/demenagement-rouen/aide-monte-meuble-rouen)** : Équipement spécialisé étages élevés
+- **[Aide Emballage Rouen](/blog/aide-demenagement-rouen/aide-emballage-demenagement-rouen)** : Techniques pros, matériel, objets fragiles
+- **[Aide Monte-Meuble Rouen](/blog/aide-demenagement-rouen/aide-monte-meuble-rouen)** : Équipement spécialisé étages élevés
 
 ### Prestations Ciblées
-- **[Aide Démontage Remontage](/blog/demenagement-rouen/aide-demontage-remontage-rouen)** : Meubles complexes, outillage professionnel
-- **[Aide Transport Objets Lourds](/blog/demenagement-rouen/aide-transport-objets-lourds-rouen)** : Électroménager, piano, mobilier
+- **[Aide Démontage Remontage](/blog/aide-demenagement-rouen/aide-demontage-remontage-rouen)** : Meubles complexes, outillage professionnel
+- **[Aide Transport Objets Lourds](/blog/aide-demenagement-rouen/aide-transport-objets-lourds-rouen)** : Électroménager, piano, mobilier
 
 ### Organisations et Réseaux
-- **[Services Aide Domicile Rouen](/blog/demenagement-rouen/services-aide-domicile-rouen-demenagement)** : CESU, associations, plateformes
-- **[Aide Seniors Déménagement](/blog/demenagement-rouen/aide-seniors-demenagement-rouen)** : Solutions adaptées personnes âgées
+- **[Services Aide Domicile Rouen](/blog/aide-demenagement-rouen/services-aide-domicile-rouen-demenagement)** : CESU, associations, plateformes
+- **[Aide Seniors Déménagement](/blog/aide-demenagement-rouen/aide-seniors-demenagement-rouen)** : Solutions adaptées personnes âgées
 
 ---
 
