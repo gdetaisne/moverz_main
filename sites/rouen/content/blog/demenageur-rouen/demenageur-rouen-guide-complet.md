@@ -35,9 +35,11 @@ Découvrez tous nos guides détaillés sur les déménageurs à Rouen :
 
 ### Services Connexes
 - **[Formules Déménagement Rouen](/blog/demenageur-rouen/formules-demenagement-rouen-comparatif)** : Standard, Premium, Clé-en-main
+- **[Déménagement Week-End Rouen](/blog/demenageur-rouen/demenagement-weekend-rouen)** : Disponibilités, surcoûts, planning
 - **[Autorisations Stationnement Rouen](/blog/demenagement-rouen/autorisation-stationnement-demenagement-rouen-mairie)** : Procédures mairie, quartiers concernés
 
 ### Aspects Pratiques
+- **[Planning Déménagement Rouen](/blog/demenageur-rouen/planning-demenagement-rouen-organisation)** : Organisation optimale, check-lists
 - **[Déménagement Longue Distance](/blog/demenageur-rouen/demenagement-longue-distance-rouen)** : Rouen vers autres régions, spécificités
 
 ---
@@ -404,6 +406,8 @@ Sélectionnez le bon prestataire :
 ### Organisation Pratique
 Planifiez efficacement :
 - **[Autorisations Stationnement](/blog/demenagement-rouen/autorisation-stationnement-demenagement-rouen-mairie)** - Procédures mairie obligatoires
+- **[Planning Déménagement](/blog/demenageur-rouen/planning-demenagement-rouen-organisation)** - Check-lists et organisation
+- **[Déménagement Week-End](/blog/demenageur-rouen/demenagement-weekend-rouen)** - Disponibilités et surcoûts
 
 ### Cas Particuliers
 Solutions spécifiques :
