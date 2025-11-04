@@ -19,7 +19,7 @@ Déménager Lille → USA nécessite **3 formalités obligatoires critiques** : 
 
 À Lille, les **déménagements USA** (New York, San Francisco, Boston, Chicago destinations principales expatriés lillois) représentent 300-500 déménagements/an selon déménageurs internationaux AGS/Crown/Allied : cadres multinationales (Decathlon USA, OVH cloud US, EuraTechnologies startups levées fonds Silicon Valley), chercheurs (MIT, Stanford, Harvard recrutent Lille/Pasteur/Inria), fonctionnaires internationaux (ONU, Banque Mondiale). Les **spécificités USA strictes** : interdictions alimentaires (fromages lait cru français interdits FDA, charcuteries proscrites USDA, conserves inspection), armes réglementées (déclaration BATF Bureau of Alcohol Tobacco Firearms obligatoire fusils chasse, pistolets interdits États restrictifs NY/CA), inspections conteneurs aléatoires 10-15% (scan rayons X, ouverture physique, délai +3-5 jours). La **procédure immigration** longue (visa H1B loterie avril résultats juin début octobre = 6 mois anticipation, carte verte 1-3 ans) oblige déménager "en différé" : expatrié part USA 3-6 mois avant (installation, travail débute), conteneur suit après (stockage garde-meuble Lille temporaire HOMEBOX Lezennes 120-180€/mois pendant attente visa/logement US).
 
-Ce guide détaille déménagement Lille-USA : visas (H1B, L1, carte verte), formalités douanières CBP 3299, inventaire, interdictions, prix, délais, procédure complète. Consultez notre [guide déménagement international Lille](/blog/demenagement-international-lille/demenagement-international-lille-guide).
+Ce guide détaille déménagement Lille-USA : visas (H1B, L1, carte verte), formalités douanières CBP 3299, inventaire, interdictions, prix, délais, procédure complète. Consultez notre [guide déménagement international Lille](/blog/demenagement-lille/demenagement-international-lille-guide).
 
 ## Visas Immigration USA Obligatoires
 
@@ -207,7 +207,7 @@ Procédure Lille-NYC : expatrié Lille obtient visa H1B loterie avril résultats
 
 Acteurs Lille-USA spécialisés : AGS Lille (leader, expertise douanes US), Crown Relocations (multinationales cadres), Allied Pickfords (global réseau 600 bureaux), Grospiron (franco-français), acteurs locaux. Gèrent visas conseils (pas obtention visa = avocat immigration), formulaire CBP 3299 (préparation inventaire anglais, soumission CBP), relations commissionnaires US agréés ports Newark/LA/Houston, suivi dédouanement temps réel, livraison finale NYC appartement.
 
-Consultez notre [guide déménagement international Lille](/blog/demenagement-international-lille/demenagement-international-lille-guide), notre [article prix international](/blog/demenagement-international-lille/prix-demenagement-international-lille-2025), notre [guide douanes](/blog/demenagement-international-lille/formalites-douanieres-demenagement-international) et notre [guide conteneurs](/blog/demenagement-international-lille/transport-conteneur-demenagement-international).
+Consultez notre [guide déménagement international Lille](/blog/demenagement-lille/demenagement-international-lille-guide), notre [article prix international](/blog/demenagement-international-lille/prix-demenagement-international-lille-2025), notre [guide douanes](/blog/demenagement-international-lille/formalites-douanieres-demenagement-international) et notre [guide conteneurs](/blog/demenagement-international-lille/transport-conteneur-demenagement-international).
 
 
 

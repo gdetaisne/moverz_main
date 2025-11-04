@@ -26,9 +26,9 @@ Thabor-Saint-Hélier, quartier résidentiel haut de gamme Rennes : **immeubles b
 
 ## FAQ
 
-Pour comprendre tous les aspects de ce sujet, consultez notre [guide complet des déménageurs à Rennes](/blog/demenagement-rennes/demenageur-rennes).
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide complet des déménageurs à Rennes](/blog/demenagement-rennes/demenageur-rennes/).
 
-Pour comprendre tous les aspects de ce sujet, consultez notre [guide complet des déménageurs à Rennes](/blog/demenagement-rennes/demenageur-rennes).
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide complet des déménageurs à Rennes](/blog/demenagement-rennes/demenageur-rennes/).
 
 **Thabor toujours sans ascenseur ?**
 80% immeubles (1900-1930). Vérifier avant devis (étages = surcoût +90-200€).
@@ -36,9 +36,9 @@ Pour comprendre tous les aspects de ce sujet, consultez notre [guide complet des
 **Surcoût Thabor combien ?**
 +15-20% (T2 : +100-150€). Étages + stationnement + temps supplémentaire.
 
-Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [nos services de déménagement rennais](/blog/demenagement-rennes/demenageur-rennes).
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [nos services de déménagement rennais](/blog/demenagement-rennes/demenageur-rennes/).
 
-Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [nos services de déménagement rennais](/blog/demenagement-rennes/demenageur-rennes).
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [nos services de déménagement rennais](/blog/demenagement-rennes/demenageur-rennes/).
 
 ---
 **Sources :** Fiche Rennes Thabor, ABC Lemarié

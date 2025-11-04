@@ -50,5 +50,19 @@ Piano droit 150kg, H 120cm × L 150cm × P 60cm : **200-400€** intra-Strasbour
 **Inclinaison** : Maximum 30° (mécanique interne cordes/marteaux fragile).  
 **Fixation camion** : Sangles murales, piano immobile transport.
 
+## FAQ : Déménagement Piano Droit Strasbourg
+
+### Combien coûte le déménagement d'un piano droit ?
+
+**Piano droit** intra-Strasbourg : **200-400€** : 2-3 déménageurs spécialisés, matériel protection (couvertures, sangles 500kg), transport camion suspendu. Supplément : démontage pieds +30-50€ (escaliers tournants Krutenau), monte-meuble 3ème+ +150-300€, stockage temporaire +80-150€/mois. Poids 150-300kg. Distance > 50km : +0,80-1,20€/km.
+
+### Faut-il démonter les pieds du piano ?
+
+**Démontage pieds nécessaire** si : escaliers tournants < 90cm (Krutenau, Grande Île 70-80cm), portes < 110cm, couloirs étroits. Gain : 40cm hauteur (piano 120cm → 80cm horizontal = passage facilité). Opération : 20-30 min démontage, 20-30 min remontage destination (inclus tarif généralement). Escaliers droits larges > 1m : pieds montés OK.
+
+### Un piano droit peut-il monter 4 étages ?
+
+Oui mais **monte-meuble quasi obligatoire** 4ème+ : poids 150-300kg + 4 étages = risque élevé (blessures déménageurs, chute piano). Coût monte-meuble : +200-350€ selon hauteur/accessibilité. Alternative portage manuel : 4+ déménageurs (surcoût +100-150€) mais déconseillé (sécurité). Grande Île immeubles anciens : monte-meuble systématique 3ème+ (escaliers 70cm).
+
 Pour plus d'informations, consultez notre [guide déménagement piano Strasbourg](/blog/demenagement-strasbourg/demenagement-piano-strasbourg).
 

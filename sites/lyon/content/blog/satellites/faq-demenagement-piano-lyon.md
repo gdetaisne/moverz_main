@@ -17,7 +17,7 @@ author: "Équipe Moverz Lyon"
 
 # FAQ Déménagement Piano Lyon : Toutes Vos Questions
 
-Cette FAQ compile les 15 questions les plus fréquentes sur le déménagement de piano à Lyon, avec réponses détaillées basées sur le marché lyonnais 2025 et contraintes urbaines spécifiques (Vieux-Lyon escaliers médiévaux 80 cm, Croix-Rousse pentes raides, Presqu'île immeubles 5-7 étages sans ascenseur). Les réponses couvrent prix (piano droit 250-800€, demi-queue 600-1200€, queue concert 1200-2500€), équipement obligatoire (chariots 400 kg, sangles 10-15 cm, housses 5-8 mm), monte-meuble (200-350€ si 4ème+ étage), assurance valeur déclarée (2-5% valeur piano 5000-150 000€), accordage post-déménagement obligatoire (80-150€, 48-72h après), et spécialistes Lyon (S.I.E.T, Lugnier, recommandations conservatoire). Pour guide complet, consultez [déménagement piano Lyon](/blog/demenagement-piano-lyon/demenagement-piano-lyon-guide-complet).
+Cette FAQ compile les 15 questions les plus fréquentes sur le déménagement de piano à Lyon, avec réponses détaillées basées sur le marché lyonnais 2025 et contraintes urbaines spécifiques (Vieux-Lyon escaliers médiévaux 80 cm, Croix-Rousse pentes raides, Presqu'île immeubles 5-7 étages sans ascenseur). Les réponses couvrent prix (piano droit 250-800€, demi-queue 600-1200€, queue concert 1200-2500€), équipement obligatoire (chariots 400 kg, sangles 10-15 cm, housses 5-8 mm), monte-meuble (200-350€ si 4ème+ étage), assurance valeur déclarée (2-5% valeur piano 5000-150 000€), accordage post-déménagement obligatoire (80-150€, 48-72h après), et spécialistes Lyon (S.I.E.T, Lugnier, recommandations conservatoire). Pour guide complet, consultez [déménagement piano Lyon](/blog/demenagement-lyon/demenagement-piano-lyon-guide).
 
 ## Prix
 
@@ -97,7 +97,7 @@ Cette FAQ déménagement piano Lyon 2025 répond aux 15 questions essentielles c
 
 Les 200-600 kg pianos nécessitent expertise professionnelle (équipe formée, équipement adapté, assurance), DIY fortement déconseillé (risque blessure grave + casse). Les quartiers anciens Lyon (Vieux-Lyon, Croix-Rousse, Presqu'île) imposent surcoûts (escaliers étroits raides, portage extrême) vs quartiers modernes (Confluence, Villeurbanne ascenseurs 1000+ kg, accès faciles).
 
-Pour approfondir : [prix droit](/blog/demenagement-piano-lyon/prix-demenagement-piano-droit-lyon), [prix queue](/blog/demenagement-piano-lyon/prix-demenagement-piano-queue-lyon), [monte-meuble](/blog/demenagement-piano-lyon/monte-meuble-piano-lyon), [spécialistes](/blog/demenagement-piano-lyon/demenageur-specialiste-piano-lyon), [assurance](/blog/demenagement-piano-lyon/assurance-demenagement-piano), [accordage](/blog/demenagement-piano-lyon/accordage-piano-apres-demenagement-lyon), [guide complet](/blog/demenagement-piano-lyon/demenagement-piano-lyon-guide-complet). Bon déménagement instrument !
+Pour approfondir : [prix droit](/blog/demenagement-piano-lyon/prix-demenagement-piano-droit-lyon), [prix queue](/blog/demenagement-piano-lyon/prix-demenagement-piano-queue-lyon), [monte-meuble](/blog/demenagement-piano-lyon/monte-meuble-piano-lyon), [spécialistes](/blog/demenagement-piano-lyon/demenageur-specialiste-piano-lyon), [assurance](/blog/demenagement-piano-lyon/assurance-demenagement-piano), [accordage](/blog/demenagement-piano-lyon/accordage-piano-apres-demenagement-lyon), [guide complet](/blog/demenagement-lyon/demenagement-piano-lyon-guide). Bon déménagement instrument !
 
 ---
 

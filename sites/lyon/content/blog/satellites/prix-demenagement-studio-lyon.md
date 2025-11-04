@@ -188,7 +188,7 @@ Ce guide détaille prix déménagement studio Lyon 280-450€ facteurs (étages 
 
 ### Déménagement studio étudiant Lyon pas cher ?
 
-**PME locaux 280-350€ optimaux budgets étudiants 200-400€ (vs S.I.E.T 380-450€ +30-50% injustifiés mobilier IKEA 1000-3000€ remplaçable). Optimisations : (1) Désencombrement sévère 15-20m³ → 10-12m³ (-50-120€), (2) Basse saison janvier-mars/octobre -5-10% négociations, (3) Semaine lundi-jeudi éviter +5-40% week-ends, (4) DIY emballage (-150€ vs services), (5) Transport seul 200-300€ effort personnel vs standard 280-450€. Alternative longue distance >100 km : TER 15-25€ + cartons postaux 50-150€ + mobilier neuf 300-800€ = 365-975€ vs déménageur 580-850€ (arbitrage si <2000€ valeur).** Acteurs étudiants : Déménagements Martin 280-340€ 4,0/5, Move Lyon 290-360€ 3,8/5 (incidents 3-8% acceptables vs fiabilité 0,5% inutile). Éviter low-cost <250€ casse 15-25%. [Pas cher →](/blog/demenagement-lyon-pas-cher/demenagement-economique-lyon)
+**PME locaux 280-350€ optimaux budgets étudiants 200-400€ (vs S.I.E.T 380-450€ +30-50% injustifiés mobilier IKEA 1000-3000€ remplaçable). Optimisations : (1) Désencombrement sévère 15-20m³ → 10-12m³ (-50-120€), (2) Basse saison janvier-mars/octobre -5-10% négociations, (3) Semaine lundi-jeudi éviter +5-40% week-ends, (4) DIY emballage (-150€ vs services), (5) Transport seul 200-300€ effort personnel vs standard 280-450€. Alternative longue distance >100 km : TER 15-25€ + cartons postaux 50-150€ + mobilier neuf 300-800€ = 365-975€ vs déménageur 580-850€ (arbitrage si <2000€ valeur).** Acteurs étudiants : Déménagements Martin 280-340€ 4,0/5, Move Lyon 290-360€ 3,8/5 (incidents 3-8% acceptables vs fiabilité 0,5% inutile). Éviter low-cost <250€ casse 15-25%.
 
 ---
 
@@ -196,7 +196,7 @@ Ce guide détaille prix déménagement studio Lyon 280-450€ facteurs (étages 
 
 Prix déménagement studio Lyon 280-450€ facteurs multiples : étages (RDC-2ème base 280-350€ vs 5ème+ 380-480€ +25-35%), distance (intra-Lyon base vs +20-200€ métropole/région), acteurs (PME 280-380€ économiques vs Lugnier 300-420€ vs S.I.E.T 320-450€ premium), volumes (standard 12-15m³ vs meublé 8-10m³ -15-25% vs loft 15-20m³ +20-30%), périodes (semaine vs +5-40% week-ends, basse -5-10% vs haute +10-20%). Étudiants 60-70% déménagements budgets 200-400€ privilégient PME incidents 3-8% acceptables mobilier <3000€ vs S.I.E.T surcoûts +30-50% injustifiés sauf meubles >5000€.
 
-Optimisations : désencombrement -20-30% volumes, basse saison -5-10%, DIY emballage -150€, transport seul -25-35%. Alternatives : location camion 160-220€ économies 110-170€ vs effort 6-8h, longue distance TER + cartons + mobilier neuf vs déménageur +70-115%. Acteurs : PME <350€ corrects, Lugnier/S.I.E.T 320-450€ fiabilité, éviter low-cost <250€. Consultez [prix global](/blog/demenagement-lyon-pas-cher/prix-demenagement-pas-cher-lyon-2025), [économique](/blog/demenagement-lyon-pas-cher/demenagement-economique-lyon). Bon déménagement studio !
+Optimisations : désencombrement -20-30% volumes, basse saison -5-10%, DIY emballage -150€, transport seul -25-35%. Alternatives : location camion 160-220€ économies 110-170€ vs effort 6-8h, longue distance TER + cartons + mobilier neuf vs déménageur +70-115%. Acteurs : PME <350€ corrects, Lugnier/S.I.E.T 320-450€ fiabilité, éviter low-cost <250€. Consultez notre [guide déménagement pas cher Lyon](/blog/demenagement-lyon/demenagement-lyon-pas-cher-guide). Bon déménagement studio !
 
 ---
 

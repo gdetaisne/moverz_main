@@ -21,7 +21,7 @@ Les cartons représentent une dépense souvent sous-estimée lors d'un déménag
 
 À Lyon, la densité commerciale élevée (centre-ville Presqu'île, Part-Dieu, Confluence, Villeurbanne) multiplie les sources d'approvisionnement gratuit. Les cartons de supermarchés présentent l'avantage d'être solides (conçus pour supporter 10-20 kg de marchandises), propres, et variés en tailles (petits cartons fruits/légumes, moyens épicerie, grands lessives/boissons). Les commerces spécialisés (Cultura, Fnac, Boulanger, Leroy Merlin) fournissent des cartons ultra-résistants adaptés aux livres, électronique, ou objets fragiles.
 
-Ce guide liste les meilleures adresses lyonnaises pour récupérer des cartons gratuits, détaille les quantités nécessaires par type de logement, donne les astuces pour obtenir les meilleurs cartons (timing, demande, sélection), et propose des alternatives économiques si la récupération échoue. Consultez aussi [notre guide complet du déménagement économique à Lyon](/blog/demenagement-lyon-pas-cher/demenagement-lyon-pas-cher-guide-complet) pour maximiser vos économies.
+Ce guide liste les meilleures adresses lyonnaises pour récupérer des cartons gratuits, détaille les quantités nécessaires par type de logement, donne les astuces pour obtenir les meilleurs cartons (timing, demande, sélection), et propose des alternatives économiques si la récupération échoue. Consultez aussi [notre guide complet du déménagement économique à Lyon](/blog/demenagement-lyon/demenagement-lyon-pas-cher-guide) pour maximiser vos économies.
 
 ## Supermarchés Lyon : Les Meilleures Adresses
 
@@ -259,7 +259,7 @@ Récupérer des cartons gratuits à Lyon est simple, rapide, et économise 40-10
 
 Anticiper 1-2 semaines avant le déménagement permet d'étaler la récupération sur 3-5 passages, de sélectionner les meilleurs cartons, et d'éviter le stress de dernière minute. Un T2 nécessite 30-40 cartons (3 passages supermarchés suffisent), tandis qu'une maison exige 80-120 cartons (6-8 passages + commerces + marketplace). L'économie de 50-100€ peut être réinvestie dans d'autres postes du déménagement (location camion meilleur standing, assurance complémentaire, services additionnels).
 
-Pour compléter votre préparation économique, consultez [notre guide complet du déménagement pas cher à Lyon](/blog/demenagement-lyon-pas-cher/demenagement-lyon-pas-cher-guide-complet) et explorez [les prix réels du déménagement économique Lyon 2025](/blog/demenagement-lyon-pas-cher/prix-demenagement-pas-cher-lyon-2025) pour budgétiser précisément. Bon déménagement et bonne récup !
+Pour compléter votre préparation économique, consultez [notre guide complet du déménagement pas cher à Lyon](/blog/demenagement-lyon/demenagement-lyon-pas-cher-guide) et explorez [les prix réels du déménagement économique Lyon 2025](/blog/demenagement-lyon-pas-cher/prix-demenagement-pas-cher-lyon-2025) pour budgétiser précisément. Bon déménagement et bonne récup !
 
 ---
 

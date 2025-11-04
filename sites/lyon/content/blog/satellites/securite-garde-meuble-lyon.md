@@ -111,7 +111,7 @@ Ce guide détaille dispositifs sécurité standards Lyon (vidéosurveillance, al
 
 La sécurité garde-meuble Lyon (sites Shurgard, Homebox, Une Pièce en Plus) repose sur dispositifs cumulés : vidéosurveillance 24/7 (20-50 caméras, enregistrement 30j, salle surveillance sites majeurs), alarmes intrusion (détecteurs boxes + centrale télésurveillance intervention 5-20 min), badges accès électroniques (traçabilité, double sécurité PIN), et cadenas personnels (clé unique client). Incidents <0,1%/an (quasi-nuls). Assurance optionnelle 3-8€/mois couvre résiduel (vol malgré sécurités, incendie, dégâts eaux).
 
-Vérifier dispositifs visite site (caméras, alarmes, badge test, éclairages nuit, solidité boxes) avant location. Sites low-cost surveillance réduite = risques. Shurgard Jean Macé/États-Unis surveillance renforcée (agents nuit, rondes). Consultez [prix](/blog/garde-meuble-lyon/prix-garde-meuble-lyon-2025), [Shurgard](/blog/garde-meuble-lyon/shurgard-lyon-sites-tarifs), [guide](/blog/garde-meuble-lyon/garde-meuble-lyon-guide-complet). Bon stockage sécurisé !
+Vérifier dispositifs visite site (caméras, alarmes, badge test, éclairages nuit, solidité boxes) avant location. Sites low-cost surveillance réduite = risques. Shurgard Jean Macé/États-Unis surveillance renforcée (agents nuit, rondes). Consultez [prix](/blog/garde-meuble-lyon/prix-garde-meuble-lyon-2025), [Shurgard](/blog/garde-meuble-lyon/shurgard-lyon-sites-tarifs), [guide](/blog/demenagement-lyon/garde-meuble-lyon-guide). Bon stockage sécurisé !
 
 ---
 

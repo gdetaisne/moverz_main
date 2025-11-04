@@ -14,7 +14,7 @@ featured: false
 ---
 
 
-# Quels délais pour un [déménagement international](/blog/international/guide) depuis Bordeaux ?
+# Quels délais pour un [déménagement international](/blog/demenagement-international-bordeaux/guide) depuis Bordeaux ?
 
 Les délais de déménagement international depuis Bordeaux varient considérablement selon la destination, le mode de transport et les contraintes logistiques. Cette variabilité, souvent sous-estimée par les expatriés, peut compromettre les plans d'installation et générer des coûts supplémentaires. Avec Bordeaux comme point de départ, les délais s'établissent selon des critères spécifiques liés à la position géographique de la métropole et aux infrastructures de transport disponibles. Voici un guide complet pour anticiper les délais et planifier efficacement votre déménagement.
 
@@ -44,7 +44,7 @@ Les ports, particulièrement sensibles aux conditions météorologiques, peuvent
 
 Les grèves portuaires, bien que rares, peuvent également générer des retards considérables. Ces conflits sociaux, souvent imprévisibles, peuvent retarder la livraison de plusieurs semaines. Cette contrainte, particulièrement importante pour les déménagements urgents, nécessite des solutions de repli et une communication étroite avec le transporteur.
 
-## Les [formalités douanières](/blog/international/formalites-douanieres-demenagement-international) : anticiper les délais
+## Les [formalités douanières](/blog/demenagement-international-bordeaux/formalites-douanieres-demenagement-international) : anticiper les délais
 
 Les formalités douanières, obligatoires pour les destinations hors Union européenne, peuvent générer des retards importants. Les pays comme les États-Unis ou le Canada exigent une déclaration préalable qui peut retarder la livraison de plusieurs jours. Cette contrainte, souvent sous-estimée, peut compromettre les dates d'arrivée prévues.
 

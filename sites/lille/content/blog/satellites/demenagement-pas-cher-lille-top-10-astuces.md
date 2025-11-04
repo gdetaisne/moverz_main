@@ -20,7 +20,7 @@ Déménager un T2 Lille pour moins de 500€ au lieu de 1 000€ : les **10 astu
 
 À Lille, optimiser son budget déménagement nécessite arbitrages effort/économie. Les 70 000 étudiants lillois (Université, Sciences Po) privilégient DIY intégral (95€ studio Moulins, économie 555€ vs déménageur 650€) en mobilisant colocs weekend. Les jeunes actifs <30 ans choisissent formule économique déménageur (700€ T2, compromis effort 18h emballage / sécurité transport pro). Les couples >35 ans valorisant temps préfèrent standard (1 000€, délégation technique, 8h perso seulement). L'économie réaliste sans sacrifice extrême : formule éco (700€) + basse saison (-50€) + tri 20% (-150€) + cartons gratuits (-180€) = **320€ vs 1 000€**, économie 680€ (68%) avec effort acceptable 25h étalées 3 semaines.
 
-Ce guide liste 10 astuces déménagement pas cher Lille avec économies chiffrées, faisabilité, profils adaptés. Consultez notre [guide déménagement pas cher Lille](/blog/demenagement-pas-cher-lille/demenagement-pas-cher-lille-guide).
+Ce guide liste 10 astuces déménagement pas cher Lille avec économies chiffrées, faisabilité, profils adaptés. Consultez notre [guide déménagement pas cher Lille](/blog/demenagement-lille/demenagement-pas-cher-lille-guide).
 
 ## Top 10 Astuces Économies Déménagement Lille
 
@@ -151,7 +151,7 @@ Top 10 astuces : DIY total (-905€), formule éco (-300€), tri 30% + ventes (
 
 Aides financières Lille : CAF (RSA/APL, emploi >70 km, 1 000€), Action Logement (salariés privé, 1 000€ prêt 0%), Pôle Emploi (demandeurs emploi, 1 800€). Cartons gratuits : Auchan Lille, Carrefour Euralille, Leclerc, Décathlon, pharmacies (demandez réserves 18h-19h). Profils : étudiants 70 000 = DIY (budget absolu, temps disponible), jeunes actifs = formule éco (compromis), couples >35 = standard (temps valorisé).
 
-Consultez notre [guide déménagement pas cher Lille](/blog/demenagement-pas-cher-lille/demenagement-pas-cher-lille-guide), notre [article DIY](/blog/location-camion-lille/location-camion-vs-demenageur-lille), notre [guide formule éco](/blog/demenageur-lille/formule-economique-cle-en-main-lille) et notre [article aides](/blog/demenagement-pas-cher-lille/aides-financieres-demenagement-lille).
+Consultez notre [guide déménagement pas cher Lille](/blog/demenagement-lille/demenagement-pas-cher-lille-guide), notre [article DIY](/blog/location-camion-demenagement-lille/location-camion-vs-demenageur-lille), notre [guide formule éco](/blog/demenageur-lille/formule-economique-cle-en-main-lille) et notre [article aides](/blog/demenagement-pas-cher-lille/aides-financieres-demenagement-lille).
 
 
 

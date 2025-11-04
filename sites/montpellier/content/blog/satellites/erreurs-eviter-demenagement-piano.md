@@ -18,7 +18,7 @@ author: "Équipe Moverz Montpellier"
 # Erreurs à Éviter Lors d'un Déménagement de Piano
 
 
-Pour comprendre tous les aspects du déménagement piano Montpellier, consultez notre [guide transport piano à Montpellier](/blog/demenagement-piano-montpellier/demenagement-piano-montpellier).
+Pour comprendre tous les aspects du déménagement piano Montpellier, consultez notre [guide transport piano à Montpellier](/blog/demenagement-montpellier/demenagement-piano-montpellier).
 
 
 Trois erreurs détruisent 80% des pianos endommagés lors de déménagements : le DIY (tentative amateur), le recours à un déménageur généraliste non spécialisé, et l'absence d'assurance adaptée. Ces erreurs génèrent en moyenne 2 000€ de dégâts sur un piano, parfois plus (5 000-10 000€ pour une queue endommagée irrémédiablement).

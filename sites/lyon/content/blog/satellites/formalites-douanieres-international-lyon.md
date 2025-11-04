@@ -21,7 +21,7 @@ Les formalités douanières d'un déménagement international depuis Lyon varien
 
 Lyon dispose de plusieurs consulats facilitant l'obtention de documents spécifiques : Consulat Suisse (102 Rue Duguesclin, 69006), Consulat Italie (12 Rue de Sèze, 69006), Consulat USA (1 Quai Jules Courmont, 69002), Consulat Allemagne, et consulats Maghreb (Algérie Rue Bourgelat, Maroc Rue Tronchet, Tunisie). Ces représentations fournissent visas, attestations, légalisations documents, et conseils formalités spécifiques destination. Le déménageur international professionnel (AGS Lyon, Allied Pickfords, Crown Relocations implantés Part-Dieu ou Gerland) maîtrise formalités et peut déléguer gestion douane complète (+300-600€ option assistance renforcée).
 
-Ce guide détaille formalités par zone géographique (UE, Suisse, intercontinental), explique comment remplir l'inventaire détaillé exigé (format, contenu, valorisation), liste documents universels et spécifiques, révèle franchises douanières économisant droits/taxes, et expose erreurs fréquentes entraînant retards ou surcoûts. Pour compléter, consultez [notre guide complet international Lyon](/blog/demenagement-international-lyon/demenagement-international-lyon-guide-complet).
+Ce guide détaille formalités par zone géographique (UE, Suisse, intercontinental), explique comment remplir l'inventaire détaillé exigé (format, contenu, valorisation), liste documents universels et spécifiques, révèle franchises douanières économisant droits/taxes, et expose erreurs fréquentes entraînant retards ou surcoûts. Pour compléter, consultez [notre guide complet international Lyon](/blog/demenagement-lyon/demenagement-international-lyon-guide).
 
 ## Formalités par Zone Géographique
 
@@ -218,7 +218,7 @@ Les formalités douanières déménagement international depuis Lyon s'échelonn
 
 L'inventaire détaillé constitue le pivot : liste exhaustive biens (description, état, valeur), bilingue si Suisse/USA/Canada, format Excel/PDF téléchargeable sites douane officiels (admin.ch Suisse, cbp.gov USA) ou fourni déménageur international. La franchise douanière (biens usagés >6 mois/1 an exonérés) économise 5-15% valeur mobilier. Les consulats Lyon (Suisse, Italie, USA, Maghreb) facilitent obtention documents, légalisations, conseils spécifiques.
 
-Pour formalités détaillées par destination, consultez [Lyon-Suisse](/blog/demenagement-international-lyon/demenagement-lyon-suisse) et [Lyon-Italie](/blog/demenagement-international-lyon/demenagement-lyon-italie). Explorez aussi [notre guide complet international](/blog/demenagement-international-lyon/demenagement-international-lyon-guide-complet) et [les documents nécessaires](/blog/demenagement-international-lyon/documents-demenagement-international-lyon). Bonnes formalités et bon déménagement !
+Pour formalités détaillées par destination, consultez [Lyon-Suisse](/blog/demenagement-international-lyon/demenagement-lyon-suisse) et [Lyon-Italie](/blog/demenagement-international-lyon/demenagement-lyon-italie). Explorez aussi [notre guide complet international](/blog/demenagement-lyon/demenagement-international-lyon-guide) et [les documents nécessaires](/blog/demenagement-international-lyon/documents-demenagement-international-lyon). Bonnes formalités et bon déménagement !
 
 ---
 

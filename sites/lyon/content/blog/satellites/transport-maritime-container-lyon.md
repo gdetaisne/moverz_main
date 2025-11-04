@@ -222,7 +222,7 @@ Le transport maritime par container depuis Lyon vers destinations intercontinent
 
 Le groupage LCL convient aux volumes <25m³ (studio, T2) avec flexibilité dates (+5-10j délai constitution), l'exclusif FCL aux volumes >25m³ (T3+) ou objets précieux nécessitant manutention unique. Les délais totaux (25-65 jours) incluent pré-acheminement Lyon-port (1-2j), transit maritime (7-50j selon destination), dédouanement arrivée (3-10j), et livraison finale (1-3j). L'aérien (5-10j) reste réservé urgences absolues (coût 3-5× supérieur maritime).
 
-Pour destinations Europe (<1500 km), privilégiez [transport routier direct](/blog/demenagement-international-lyon/demenagement-europe-lyon) (2-7j, 2000-6500€). Explorez aussi [prix détaillés international Lyon](/blog/demenagement-international-lyon/prix-demenagement-international-lyon) et [notre guide complet](/blog/demenagement-international-lyon/demenagement-international-lyon-guide-complet). Bon voyage maritime !
+Pour destinations Europe (<1500 km), privilégiez [transport routier direct](/blog/demenagement-international-lyon/demenagement-europe-lyon) (2-7j, 2000-6500€). Explorez aussi [prix détaillés international Lyon](/blog/demenagement-international-lyon/prix-demenagement-international-lyon) et [notre guide complet](/blog/demenagement-lyon/demenagement-international-lyon-guide). Bon voyage maritime !
 
 ---
 

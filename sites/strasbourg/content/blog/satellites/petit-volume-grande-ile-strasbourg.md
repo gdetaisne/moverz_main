@@ -56,5 +56,5 @@ Studio 15m² centre UNESCO. Utilitaire Kangoo autorisé (largeur 1,8m passe ruel
 
 **Habitants aidants** : Résidents Grande Île connaissent contraintes, parfois prêtent badge accès (demander voisins).
 
-Pour plus d'informations, consultez notre [guide déménagement Grande Île Strasbourg](/blog/satellites/demenageur-grande-ile-strasbourg).
+Pour plus d'informations, consultez notre [guide déménagement Grande Île Strasbourg](/blog/demenagement-strasbourg/demenageur-grande-ile-strasbourg).
 

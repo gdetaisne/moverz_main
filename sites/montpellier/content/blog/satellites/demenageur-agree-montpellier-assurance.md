@@ -18,7 +18,7 @@ author: "Équipe Moverz Montpellier"
 # Déménageur Agréé à Montpellier : Agrément et Assurances
 
 
-Pour comprendre tous les aspects du déménageur à Montpellier, consultez notre [guide complet déménageur Montpellier](/blog/demenageur-montpellier/demenageur-montpellier).
+Pour comprendre tous les aspects du déménageur à Montpellier, consultez notre [guide complet déménageur Montpellier](/blog/demenagement-montpellier/demenageur-montpellier).
 
 
 Un déménageur agréé possède assurance RC professionnelle minimum 500 000€ (obligatoire) couvrant dommages causés durant prestation, attestation à jour vérifiable, et parfois agrément préfecture Hérault. Ces garanties protègent Montpelliérains déménageant depuis Écusson, Antigone ou Port Marianne contre pertes non indemnisées.

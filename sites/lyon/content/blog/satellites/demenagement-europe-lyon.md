@@ -189,7 +189,7 @@ Déménager de Lyon vers l'Europe (Allemagne 3000-6500€ T2, UK 4000-6500€, E
 
 La position centrale Lyon facilite accès Allemagne (Stuttgart 450 km, 5h), Espagne (Barcelone 550 km, 6h), et UK (Londres 950 km + Eurotunnel 35 min). Les déménageurs lyonnais internationaux (AGS, Allied, S.I.E.T Europe) maîtrisent trajets, partenaires locaux, et spécificités administratives chaque pays (Anmeldung Allemagne, NI Number UK, NIE Espagne). Demander 3+ devis permet comparaison objective tarifs/services/délais.
 
-Pour destinations Suisse/Italie proches, consultez [Lyon-Suisse](/blog/demenagement-international-lyon/demenagement-lyon-suisse) et [Lyon-Italie](/blog/demenagement-international-lyon/demenagement-lyon-italie). Pour intercontinental, explorez [container maritime Lyon](/blog/demenagement-international-lyon/transport-maritime-container-lyon). Consultez aussi [guide complet international](/blog/demenagement-international-lyon/demenagement-international-lyon-guide-complet). Bon déménagement européen !
+Pour destinations Suisse/Italie proches, consultez [Lyon-Suisse](/blog/demenagement-international-lyon/demenagement-lyon-suisse) et [Lyon-Italie](/blog/demenagement-international-lyon/demenagement-lyon-italie). Pour intercontinental, explorez [container maritime Lyon](/blog/demenagement-international-lyon/transport-maritime-container-lyon). Consultez aussi [guide complet international](/blog/demenagement-lyon/demenagement-international-lyon-guide). Bon déménagement européen !
 
 ---
 

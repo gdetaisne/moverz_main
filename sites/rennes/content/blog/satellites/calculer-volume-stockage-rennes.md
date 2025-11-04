@@ -14,11 +14,11 @@ author: "Équipe Moverz Rennes"
 
 Avant de louer un box de stockage à Rennes, vous devez calculer précisément le volume de vos affaires en m³. Une estimation approximative risque de vous faire louer un box trop petit (transfert coûteux 50-150€) ou trop grand (gaspillage de 10-20€/mois). Calculer votre volume réel est l'étape clé pour optimiser votre budget et choisir la bonne taille de box chez Locakase, Homebox ou Costockage.
 
-À Rennes, les acteurs proposent des calculateurs en ligne gratuits (Locakase, Homebox) qui facilitent l'estimation. Mais comprendre les méthodes de calcul manuel vous permet de vérifier et d'affiner le résultat. Cet article détaille trois méthodes fiables : l'inventaire pièce par pièce (précision maximale), les calculateurs en ligne (rapidité) et les exemples types par logement rennais. Ces éléments s'inscrivent dans le contexte plus large de notre [stockage sécurisé à Rennes](/blog/garde-meuble-rennes/garde-meuble-rennes-guide-complet).
+À Rennes, les acteurs proposent des calculateurs en ligne gratuits (Locakase, Homebox) qui facilitent l'estimation. Mais comprendre les méthodes de calcul manuel vous permet de vérifier et d'affiner le résultat. Cet article détaille trois méthodes fiables : l'inventaire pièce par pièce (précision maximale), les calculateurs en ligne (rapidité) et les exemples types par logement rennais. Ces éléments s'inscrivent dans le contexte plus large de notre [stockage sécurisé à Rennes](/blog/demenagement-rennes/garde-meuble-rennes).
 
 ## Méthode 1 : Inventaire Pièce par Pièce
 
-Pour comprendre tous les aspects de ce sujet, consultez notre [guide complet du garde-meuble à Rennes](/blog/garde-meuble-rennes/garde-meuble-rennes-guide-complet).
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide complet du garde-meuble à Rennes](/blog/demenagement-rennes/garde-meuble-rennes).
 
 La méthode la plus fiable consiste à lister tous vos meubles et cartons, puis à calculer le volume de chacun.
 
@@ -171,7 +171,7 @@ Un carton standard (50×40×30cm) = 0,06 m³. Donc **1 m³ = environ 16-17 carto
 Oui, ajoutez **+10-15%** à votre calcul pour les erreurs d'estimation, espaces de circulation, affaires oubliées. Mieux vaut un box légèrement trop grand (surcoût 10€/mois) qu'un transfert coûteux (50-150€).
 
 
-Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [solutions de garde-meuble rennais](/blog/garde-meuble-rennes/garde-meuble-rennes-guide-complet).
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [solutions de garde-meuble rennais](/blog/demenagement-rennes/garde-meuble-rennes).
 ---
 
 **Sources :** Fiche locale Rennes, Locakase.fr, Homebox.fr, standards secteur garde-meuble

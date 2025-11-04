@@ -51,11 +51,29 @@ Alternatives rémunération cash : repas restaurant post-déménagement 30-60€
 
 **Réciprocité** : Aide leur déménagement futur (solidarité non-monétaire)
 
-## Questions Fréquentes
+Pour en savoir plus, consultez notre [guide aide déménagement entre particuliers Lyon](/blog/aide-demenagement-lyon/aide-demenagement-entre-particuliers-lyon/) et notre [guide des déménageurs professionnels Lyon](/blog/demenagement-lyon/demenageur-lyon-guide/).
 
-### Combien donner amis déménagement Lyon ?
+## FAQ : Rémunération Amis Déménagement Lyon
 
-**50-100€ forfait + 20-40€ repas = 70-140€ total reconnaissance efforts 4-6h (vs 0€ exploitation vs 200-400€ 2 pros). Facteurs : volume (chambre 50€, T2 100€), durée (3h 50€, 6h 100€), étages (RDC 50€, 5ème 80-100€). Communication AVANT : "Je propose 60€ + resto pour compenser efforts". Alternatives : restaurant 30-60€, cadeaux 50-80€, réciprocité services futurs.** Éviter 0€ si >4h ou >10m³ (profite gratuité, ressentiment long terme). [Aide particuliers →](/blog/aide-demenagement-lyon/aide-demenagement-entre-particuliers-lyon)
+### Combien donner à des amis qui aident pour un déménagement à Lyon ?
+
+Le montant éthique est de **50-100€ par ami** plus un repas (20-40€), soit **70-140€ total** pour une journée (4-6h). Pour un T2, avec 2 amis, comptez 80€ × 2 + repas 40€ = 200€ total, vs 400€ pour 2 déménageurs professionnels (économie 200€). Facteurs : volume (chambre 50€, T2 100€), durée (3h 50€, 6h+ 100€), étages (rez-de-chaussée 50€, 5ème 80-100€). Annoncez le montant AVANT de demander l'aide pour éviter tout malaise.
+
+### Est-il acceptable de ne rien donner si ce sont de vrais amis ?
+
+**Non, déconseillé** si les efforts dépassent 4h ou le volume 10m³. Même entre amis proches, porter 300-800kg pendant 4-6h mérite reconnaissance. Ne rien donner crée des **dettes morales** : vos amis attendent réciprocité future (3-5 services obligatoires = 15-25h mobilisées). Pour 50-100€, vous préservez la relation sans créer déséquilibre. Exception : réciprocité établie claire ("je t'aide, tu m'aides") ou si vos amis insistent fermement pour refuser paiement après proposition.
+
+### Faut-il payer avant ou après le déménagement ?
+
+L'idéal est d'**annoncer le montant AVANT** ("Je propose 60€ + resto") mais de **payer APRÈS** le déménagement. Cela montre votre sérieux tout en évitant un échange transactionnel avant l'effort. Préparez l'argent en espèces (enveloppe discrète) ou virement Lydia/PayPal immédiat. Ne traînez jamais la rémunération (source de gêne). Le restaurant peut être le soir même (convivialité) ou semaine suivante selon programme.
+
+### Vaut-il mieux payer en argent ou inviter au restaurant ?
+
+Cela dépend de la **relation** et des **préférences** : 1) **Argent** (50-100€) : reconnaissance directe, liberté d'usage, simple, 2) **Restaurant** (30-60€) : moment convivial, moins transactionnel, renforce lien, mais certains préfèrent cash, 3) **Combinaison** (50€ + repas 30€) : idéale pour efforts importants (6h+, T2-T3). Demandez discrètement leur préférence ou observez leur profil (étudiants apprécient cash, amis aisés préfèrent convivialité). En cas de doute, cash reste universel.
+
+### Comment proposer une rémunération sans vexer ses amis ?
+
+**Formulation recommandée** : "Je sais que c'est physique et que ça prend du temps, je voudrais vous remercier avec 60€ + un bon resto le soir. Ça me semble juste vu les efforts." Ton bienveillant, reconnaissant, non-négociable. Si refus poli ("Pas besoin, c'est normal"), **insistez gentiment** : "Je préfère, ça me fait plaisir, vous méritez vraiment." La plupart acceptent après insistance. Si refus ferme maintenu, respectez mais prévoyez réciprocité claire future ou cadeaux équivalents (70-100€).
 
 ---
 
