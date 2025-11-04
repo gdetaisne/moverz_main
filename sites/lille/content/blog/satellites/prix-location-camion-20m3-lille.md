@@ -184,7 +184,7 @@ Total réel weekend : location 150€ + assurance 40€ + essence 30€ (100 km 
 
 Km inclus 100-150/jour suffisent déménagement local métropole (<30 km A/R). Longue distance Lille-Paris 220 km : location aller simple 400-600€ (vs A/R 150€ = différence 250-450€, agence facture retour camion vide). Retour plein obligatoire : essence manquante facturée 1,80€/L vs 1,50€ station (surcoût 20% = faites plein avant restitution).
 
-Consultez notre [guide location camion Lille](/blog/demenagement-lille/location-camion-demenagement-lille-guide), notre [comparatif agences](/blog/location-camion-lille/agences-location-lille-europcar-sixt-leclerc) et notre [article DIY vs pro](/blog/location-camion-lille/location-camion-vs-demenageur-lille).
+Consultez notre [guide location camion Lille](/blog/demenagement-lille/location-camion-demenagement-lille-guide), notre [comparatif agences](/blog/location-camion-demenagement-lille/agences-location-camion-lille-comparatif) et notre [article DIY vs pro](/blog/location-camion-lille/location-camion-vs-demenageur-lille).
 
 
 

@@ -215,7 +215,7 @@ Chronologie type déménagement international Lille-NYC avec stockage : janvier 
 
 Contrats stockage : mensuel renouvelable 0 engagement (HOMEBOX, Box & Go = flexibilité résiliez 1 mois préavis adaptez durée réelle vs forfait 3-6 mois min certains déménageurs rigide), assurance incluse 30k€ standard (couvre majorité mobilier T2-T3 valeur 20-35k€, objets valeur >1k€ déclarez liste), accès badge nominatif sécurisé (traçabilité entrées/sorties, vidéosurveillance enregistrée 30j).
 
-Consultez notre [guide déménagement international Lille](/blog/demenagement-lille/demenagement-international-lille-guide), notre [guide garde-meuble Lille](/blog/garde-meuble-lille/garde-meuble-lille-guide), notre [article Lille-USA](/blog/demenagement-international-lille/demenagement-lille-usa-formalites) et notre [guide prix international](/blog/demenagement-international-lille/prix-demenagement-international-lille-2025).
+Consultez notre [guide déménagement international Lille](/blog/demenagement-lille/demenagement-international-lille-guide), notre [guide garde-meuble Lille](/blog/demenagement-lille/garde-meuble-lille-guide), notre [article Lille-USA](/blog/demenagement-international-lille/demenagement-lille-usa-formalites) et notre [guide prix international](/blog/demenagement-international-lille/prix-demenagement-international-lille-2025).
 
 
 

@@ -191,7 +191,7 @@ export default function InventaireIAPage() {
             Commencez dès maintenant votre analyse automatique
           </p>
           <a 
-            href="/devis-demenagement-lille/" 
+            href="/estimation-rapide/" 
             className="inline-flex h-11 items-center justify-center rounded-2xl bg-[#2b7a78] px-5 text-sm font-medium text-white shadow-marketing-xl hover:brightness-110 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white/50 transition duration-300"
           >
             Créer mon dossier
