@@ -143,7 +143,7 @@ Oui, **diables indispensables** : frigo 80kg, machine laver 70kg, cartons livres
 
 **Déconseillé** : sangles sécurisent meubles transport (évitent glissements/chocs), coût minimal 3-8€/jour vs risque casse 300-800€ (canapé, table). Camion non sanglé : virages/freinages déplacent meubles (rayures, cassures). Alternative gratuite : cordes solides (bricolage maison) mais moins efficaces. Ne lésinez jamais 3€ sangles pour sécuriser 5 000€ mobilier.
 
-Consultez notre [guide DIY Lille](/blog/demenagement-pas-cher-lille/diy-demenagement-lille-budget-mini), notre [guide cartons gratuits](/blog/demenagement-pas-cher-lille/cartons-gratuits-lille-recuperer), notre [guide location camion](/blog/location-camion-lille/location-camion-demenagement-lille-guide) et notre [article astuces](/blog/demenagement-pas-cher-lille/demenagement-pas-cher-lille-top-10-astuces).
+Consultez notre [guide DIY Lille](/blog/demenagement-pas-cher-lille/diy-demenagement-lille-budget-mini), notre [guide cartons gratuits](/blog/demenagement-pas-cher-lille/cartons-gratuits-lille-recuperer), notre [guide location camion](/blog/demenagement-lille/location-camion-demenagement-lille-guide) et notre [article astuces](/blog/demenagement-pas-cher-lille/demenagement-pas-cher-lille-top-10-astuces).
 
 
 

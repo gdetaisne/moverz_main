@@ -186,7 +186,7 @@ Possesseurs pianos Lille : 1 500-2 000 foyers 1,5-2% ménages (vs 5-8% national 
 
 Assurance piano : incluse forfait déménagement spécialiste (15-50k€ selon droit/queue, franchise 300-500€, couvre casse transport chocs/vibrations, vol rare, dégâts eau infiltration camion), vérifiez attestation avant (Monte-Piano 100k€ tous risques vs généralistes 50k€ RC pro limite parfois 10-15k€/objet insuffisant queue 30k€). Accordage après déménagement : 80-120€ obligatoire (vibrations transport désaccordent cordes, délai 2-4 sem stabilisation bois, accordeur Lille 15-20 pros, vs piano non-accordé post-déménagement = inutilisable concerts/enregistrements professionnels).
 
-Consultez notre [guide déménagement piano Lille](/blog/demenagement-piano-lille/demenagement-piano-lille-guide), notre [guide monte-piano](/blog/demenagement-piano-lille/monte-piano-specialiste-lille), notre [article piano droit vs queue](/blog/demenagement-piano-lille/piano-droit-queue-transport-differences) et notre [guide déménageur Lille](/blog/demenageur-lille/demenageur-lille-expert).
+Consultez notre [guide déménagement piano Lille](/blog/demenagement-piano-lille/demenagement-piano-lille-guide), notre [guide monte-piano](/blog/demenagement-piano-lille/monte-piano-specialiste-lille), notre [article piano droit vs queue](/blog/demenagement-piano-lille/piano-droit-queue-transport-differences) et notre [guide déménageur Lille](/blog/demenagement-lille/demenageur-lille-expert).
 
 
 
