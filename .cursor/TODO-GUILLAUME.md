@@ -13,8 +13,8 @@
 
 *Aucune tâche en cours*
 
-**Dernière session** : TASK-404-blog-lille ✅ FINALISÉ (04/11/2025, 2h30)  
-**Session précédente** : TASK-404-blog-nice ✅ FINALISÉ (03/11/2025, 3h)
+**Dernière session** : TASK-404-ALL-CITIES ✅ FINALISÉ (04/11/2025, 8h total)  
+**Session précédente** : TASK-404-blog-nice + Lille ✅ FINALISÉ (03-04/11/2025)
 
 ### ✅ FAIT AUJOURD'HUI (03/11/2025)
 - TASK-025 (Sitemaps 11 villes) — commits documentés (incl. `4e32035`), DONE mis à jour

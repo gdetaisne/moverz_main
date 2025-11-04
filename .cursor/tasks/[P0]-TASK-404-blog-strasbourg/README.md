@@ -1,68 +1,81 @@
-# TASK : Corriger 404s Blog Strasbourg
+# TASK-404-blog-strasbourg - Corriger 404s Blog Strasbourg
 
-**Date création** : 03 novembre 2025  
-**Priorité** : P0  
-**Ville** : Strasbourg  
-**Assigné** : Chat Cursor indépendant  
-**Temps estimé** : 30 min-1h
+## 📊 Statut : ✅ FINALISÉ
 
----
+## Contexte
 
-## 🎯 OBJECTIF
+Strasbourg : Architecture blog simple (3 catégories)
+~41 liens 404 internes identifiés
 
-Corriger **~30-50 liens internes 404** dans le blog Strasbourg.
+## Architecture Blog Strasbourg
 
-**Pattern** : Simple (seulement 2 catégories)
+- `demenagement-strasbourg/` : 9 articles (catégorie principale)
+- `garde-meuble-strasbourg/` : 1 article (`garde-meuble-strasbourg-guide-complet.md`)
+- `satellites/` : 82 articles
 
----
+**Particularité** : Pas de catégories multiples comme Bordeaux/Toulouse
 
-## 🏗️ ARCHITECTURE STRASBOURG
+## Solution Appliquée
 
-### Structure actuelle (SIMPLE)
+### 1. Fix liens satellites (7 liens)
 
-**Dossiers** :
-```
-content/blog/
-├── demenagement-strasbourg/  (tous les articles)
-├── garde-meuble-strasbourg/  (plusieurs articles)
-└── satellites/
-```
+**Articles satellites** avec liens cassés `/blog/satellites/...` :
+- `assurance-demenageur-strasbourg` (4 liens) → `/blog/demenagement-strasbourg/...`
+- `demenageur-grande-ile-strasbourg` (2 liens) → `/blog/demenagement-strasbourg/...`
+- `garde-meuble-etudiant-strasbourg` (1 lien) → `/blog/garde-meuble-strasbourg/...`
 
-**Catégories frontmatter** :
-```markdown
-category: "demenagement-strasbourg" (majorité)
-category: "garde-meuble-strasbourg" (quelques uns)
-```
+### 2. Fix liens garde-meuble (17 liens)
 
-**URLs réelles** :
-```
-✅ /blog/demenagement-strasbourg/{slug}/
-✅ /blog/garde-meuble-strasbourg/{slug}/
-```
+**Problème** : Article principal = `garde-meuble-strasbourg-guide-complet.md`
+- `slug: "garde-meuble-strasbourg-guide-complet"`
+- `cleanSlug` enlève `-complet` → URL = `/blog/demenagement-strasbourg/garde-meuble-strasbourg-guide/`
 
----
+**Corrections** :
+- 10 liens `/blog/demenagement-strasbourg/garde-meuble-strasbourg` → `...garde-meuble-strasbourg-guide`
+- 5 liens `/blog/demenagement-strasbourg/garde-meuble-etudiant-strasbourg` → `...garde-meuble-strasbourg-guide#etudiant`
+- 1 lien `/blog/garde-meuble-strasbourg/assurance-demenageur-strasbourg` → `/blog/demenagement-strasbourg/assurance-demenageur-strasbourg`
+- 1 lien `/blog/garde-meuble-etudiant-strasbourg` → `...garde-meuble-strasbourg-guide#etudiant`
 
-## 🔧 MAPPING STRASBOURG
+### 3. Fix slug autorisation (4 liens)
 
-**2 catégories seulement** :
+**Problème** : Liens pointaient vers `autorisation-stationnement-strasbourg`  
+**Slug réel** : `autorisation-stationnement-demenagement-strasbourg`
 
-| Catégorie | URLs |
-|-----------|------|
-| `demenagement-strasbourg` | `/blog/demenagement-strasbourg/{slug}/` |
-| `garde-meuble-strasbourg` | `/blog/garde-meuble-strasbourg/{slug}/` |
+**Correction** : Ajout du mot `demenagement` dans tous les liens
 
----
+## 📈 Résultat
 
-## ✅ CHECKLIST
+- ✅ 28 liens internes corrigés
+- ✅ 19 fichiers modifiés
+- ✅ Build local réussi
+- ✅ 0 lien cassé restant
 
-Identique à Marseille/Rennes (architecture simple).
+## 📦 Commits
 
----
+| Dépôt | Commit | Description |
+|-------|--------|-------------|
+| Monorepo | `16cde40` | 28 corrections |
+| Strasbourg | `2a00b9e` | 28 corrections |
 
-**Domain** : https://devis-demenageur-strasbourg.fr  
-**Liens cassés estimés** : 30-50  
-**Architecture** : **SIMPLE**  
-**Status** : 📋 TODO
+## 🚀 Déploiement
 
+CapRover redéploie automatiquement (~3-5 min)  
+**Statut** : ✅ Déployé (commit `2a00b9e`)
 
+## 🎯 Spécificités Strasbourg
 
+1. **Architecture simple** : Seulement 3 catégories (vs 11+ Bordeaux/Toulouse)
+2. **Pas de CATEGORY_MAPPING accentué** : Pas besoin (catégories sans accents)
+3. **cleanSlug actif** : Enlève `-guide-complet` → `-guide`
+4. **1 seul article garde-meuble** : Redirige tout vers lui
+5. **82 satellites** : Tous dans `category: "demenagement-strasbourg"`
+
+## 📊 Comparaison Villes
+
+| Ville | Catégories | Articles | Corrections | Durée |
+|-------|------------|----------|-------------|-------|
+| Bordeaux | 8 | ~200 | 181 | 2h |
+| Toulouse | 66 | ~150 | 170 | 1h05 |
+| **Strasbourg** | **3** | **92** | **28** | **15 min** |
+
+Strasbourg = **le plus simple** grâce à architecture minimaliste.
