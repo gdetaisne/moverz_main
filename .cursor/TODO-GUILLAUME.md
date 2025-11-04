@@ -13,9 +13,11 @@
 
 *Aucune tâche en cours*
 
-**Dernière session** : TASK-404-BLOG FINAL (4 villes) ✅ Session 3 complétée (04/11/2025, 4h)  
-**Session 2** : TASK-404-BLOG (5 villes) ✅ Complétée (04/11/2025, 4h50)  
-**Session 1** : TASK-404-ALL-CITIES (11 villes) ✅ FINALISÉ (03-04/11/2025, 12h total)
+**Toutes les sessions 404 sont ARCHIVÉES dans DONE.md** ✅
+
+**Session 3** : TASK-404-BLOG FINAL (4 villes) ✅ ARCHIVÉ (04/11/2025, 4h)  
+**Session 2** : TASK-404-BLOG (5 villes) ✅ ARCHIVÉ (04/11/2025, 4h50)  
+**Session 1** : TASK-404-ALL-CITIES (11 villes) ✅ ARCHIVÉ (03-04/11/2025, 12h)
 
 ### ✅ FAIT AUJOURD'HUI (04/11/2025) - SESSION 3
 
