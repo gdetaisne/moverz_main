@@ -4,6 +4,7 @@ import React, { useState } from "react";
 import { getCityDataFromUrl } from "@/lib/cityData";
 import { env } from "@/lib/env";
 import { QUARTIERS } from "@/components/NeighborhoodsData";
+import Breadcrumbs from "@/components/Breadcrumbs";
 
 type QA = { q: string; a: string[]; category: string };
 
@@ -301,13 +302,19 @@ export default function FAQPage() {
         
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 md:py-24">
           <div className="text-center max-w-4xl mx-auto">
-            <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white/10 backdrop-blur-sm border border-white/20 mb-6">
+            <Breadcrumbs
+              items={[
+                { label: "Accueil", href: "/" },
+                { label: "FAQ", href: "/faq/" }
+              ]}
+            />
+            <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white/10 backdrop-blur-sm border border-white/20 mb-6 mt-6">
               <span className="text-2xl">❓</span>
               <span className="text-sm font-medium text-white">Questions Fréquentes</span>
             </div>
 
             <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold tracking-tight mb-6">
-              FAQ — Déménagement à ${city.nameCapitalized}
+              FAQ — Déménagement à {city.nameCapitalized}
             </h1>
             <p className="text-lg md:text-xl text-white/90">
               Vous trouverez ici les réponses aux questions les plus fréquentes. Pour un chiffrage précis, utilisez notre{" "}

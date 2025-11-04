@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { getCanonicalUrl } from "@/lib/canonical-helper";
+import Breadcrumbs from "@/components/Breadcrumbs";
 
 export const metadata: Metadata = {
   title: "Mentions légales | Moverz",
@@ -25,7 +26,13 @@ export default function MentionsLegalesPage() {
           <div className="absolute inset-0 bg-gradient-to-br from-[#04163a]/95 via-[#2b7a78]/88 to-[#04163a]/92"></div>
         </div>
         <div className="relative max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-16 md:py-24">
-          <h1 className="text-3xl md:text-5xl font-bold">Mentions légales</h1>
+          <Breadcrumbs
+            items={[
+              { label: "Accueil", href: "/" },
+              { label: "Mentions légales", href: "/mentions-legales/" }
+            ]}
+          />
+          <h1 className="text-3xl md:text-5xl font-bold mt-6">Mentions légales</h1>
           <p className="text-white/85 mt-3 max-w-3xl">
             Informations légales conformément aux articles 6-III et 19 de la loi
             n°2004-575 du 21 juin 2004 (LCEN) et au Code de la consommation.

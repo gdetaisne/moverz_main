@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { getCanonicalUrl } from '@/lib/canonical-helper';
 import { getCityDataFromUrl } from '@/lib/cityData';
 import { env } from '@/lib/env';
+import Breadcrumbs from '@/components/Breadcrumbs';
 
 interface CorridorPageProps {
   destination: string;
@@ -81,7 +82,13 @@ export default function CorridorPage({
         <div className="bg-white/5 backdrop-blur border-b border-white/10">
           <div className="container max-w-7xl mx-auto px-4 md:px-6 py-12">
             <div className="text-center">
-              <h1 className="text-3xl md:text-5xl font-bold text-white mb-6">
+              <Breadcrumbs
+                items={[
+                  { label: "Accueil", href: "/" },
+                  { label: `${city.nameCapitalized} vers ${destination}`, href: `/${city.slug}-vers-${destination.toLowerCase()}/` }
+                ]}
+              />
+              <h1 className="text-3xl md:text-5xl font-bold text-white mb-6 mt-6">
                 Déménagement {city.nameCapitalized} → {destination} : comparez des devis fiables
               </h1>
               <p className="text-xl text-white/80 mb-8 max-w-3xl mx-auto">
@@ -123,7 +130,7 @@ export default function CorridorPage({
         {/* Prix indicatifs corridor */}
         <div className="container max-w-6xl mx-auto px-4 md:px-6 py-12">
           <h2 className="text-2xl font-bold text-white mb-8 text-center">
-            Prix indicatifs {city.nameCapitalized} → {destination}
+            Prix indicatifs Marseille → {destination}
           </h2>
           <div className="grid md:grid-cols-3 gap-6">
             {prixIndicatifs.map((prix, index) => (

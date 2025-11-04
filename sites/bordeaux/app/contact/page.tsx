@@ -1,27 +1,30 @@
 import { Metadata } from 'next';
+import { getCanonicalUrl } from '@/lib/canonical-helper';
 import { getCityDataFromUrl } from '@/lib/cityData';
 import { env } from '@/lib/env';
-import { getCanonicalUrl } from '@/lib/canonical-helper';
+import Breadcrumbs from '@/components/Breadcrumbs';
 
-const city = getCityDataFromUrl(env.SITE_URL);
-
-export const metadata: Metadata = {
-  title: `Contact Déménagement ${city.nameCapitalized} | Devis Gratuits | Moverz`,
-  description: `Contactez nos experts déménageurs à ${city.nameCapitalized}. Estimation gratuite en 30 min, 5 devis précis sous 7 jours.`,
-  alternates: {
-    canonical: getCanonicalUrl('contact'),
-  },
-  openGraph: {
-    title: `Contact Déménagement ${city.nameCapitalized}`,
-    description: `Contactez nos experts déménageurs à ${city.nameCapitalized}`,
-    url: getCanonicalUrl('contact'),
-    type: 'website',
-  },
-};
+export const metadata: Metadata = (() => {
+  const city = getCityDataFromUrl(env.SITE_URL);
+  return {
+    title: `Contact Déménagement ${city.nameCapitalized} | Devis Gratuits | Moverz`,
+    description: `Contactez nos experts déménageurs à ${city.nameCapitalized}. Estimation gratuite en 30 min, 5 devis précis sous 7 jours.`,
+    alternates: {
+      canonical: getCanonicalUrl('contact'),
+    },
+    openGraph: {
+      title: `Contact Déménagement ${city.nameCapitalized}`,
+      description: `Contactez nos experts déménageurs à ${city.nameCapitalized}`,
+      url: getCanonicalUrl('contact'),
+      type: 'website',
+    },
+  };
+})();
 
 export default function ContactPage() {
   const city = getCityDataFromUrl(env.SITE_URL);
   const emailDomain = city.siteUrl.replace(/^https?:\/\//, '').replace(/^www\./, '');
+  
   return (
     <div className="min-h-screen bg-[#04163a]">
       {/* Header avec image de fond */}
@@ -39,7 +42,13 @@ export default function ContactPage() {
         <div className="relative bg-white/5 backdrop-blur border-b border-white/10">
           <div className="container max-w-7xl mx-auto px-4 md:px-6 py-16 md:py-20">
             <div className="text-center max-w-3xl mx-auto">
-              <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white/10 backdrop-blur-sm border border-white/20 mb-6">
+              <Breadcrumbs
+                items={[
+                  { label: "Accueil", href: "/" },
+                  { label: "Contact", href: "/contact/" }
+                ]}
+              />
+              <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white/10 backdrop-blur-sm border border-white/20 mb-6 mt-6">
                 <span className="text-2xl">📞</span>
                 <span className="text-sm font-medium text-white">Nous sommes là pour vous aider</span>
               </div>

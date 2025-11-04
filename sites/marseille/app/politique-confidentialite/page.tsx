@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { getCanonicalUrl } from "@/lib/canonical-helper";
+import Breadcrumbs from "@/components/Breadcrumbs";
 
 export const metadata: Metadata = {
   title: "Politique de confidentialité | Moverz",
@@ -25,7 +26,13 @@ export default function PrivacyPage() {
           <div className="absolute inset-0 bg-gradient-to-br from-[#04163a]/95 via-[#2b7a78]/88 to-[#04163a]/92"></div>
         </div>
         <div className="relative max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-16 md:py-24">
-          <h1 className="text-3xl md:text-5xl font-bold">Politique de confidentialité</h1>
+          <Breadcrumbs
+            items={[
+              { label: "Accueil", href: "/" },
+              { label: "Confidentialité", href: "/politique-confidentialite/" }
+            ]}
+          />
+          <h1 className="text-3xl md:text-5xl font-bold mt-6">Politique de confidentialité</h1>
           <p className="text-white/85 mt-3 max-w-3xl">
             Ce document décrit la manière dont Moverz, marque exploitée par GSLV
             (17290, France) traite vos données personnelles conformément au RGPD.

@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { getCanonicalUrl } from '@/lib/canonical-helper';
 import { getCityDataFromUrl } from '@/lib/cityData';
 import { env } from '@/lib/env';
+import Breadcrumbs from '@/components/Breadcrumbs';
 
 interface LocalPageProps {
   zone: string;
@@ -41,13 +42,29 @@ interface LocalPageProps {
 export function generateLocalPageMetadata(zone: string, zoneDisplay: string): Metadata {
   const city = getCityDataFromUrl(env.SITE_URL);
   const canonicalUrl = getCanonicalUrl(`${city.slug}/${zone}`);
+  const zoneDisplayNormalized = (zoneDisplay || '').trim().toLowerCase();
+  const cityNameNormalized = (city.nameCapitalized || '').trim().toLowerCase();
+  const isCityPage = zone === city.slug || zoneDisplayNormalized === cityNameNormalized;
+
+  const titleText = isCityPage
+    ? `Déménagement ${city.nameCapitalized} - Tarifs & Devis Gratuit | Moverz | Déménageurs ${city.nameCapitalized}`
+    : `Déménagement ${zoneDisplay} ${city.nameCapitalized} - Tarifs & Devis Gratuit | Moverz`;
+
+  const descriptionText = isCityPage
+    ? `Déménageur local à ${city.nameCapitalized} : tarifs détaillés, disponibilités immédiates. Devis personnalisé gratuit sous 7j. Équipe locale expérimentée. Réservation en ligne simple.`
+    : `Déménageur local ${zoneDisplay} à ${city.nameCapitalized} : tarifs détaillés, disponibilités immédiates. Devis personnalisé gratuit sous 7j. Équipe locale expérimentée. Réservation en ligne simple.`;
+
   return {
-    title: `Déménagement ${zoneDisplay} ${city.nameCapitalized} - Tarifs & Devis Gratuit | Moverz`,
-    description: `Déménageur local ${zoneDisplay} à ${city.nameCapitalized} : tarifs détaillés, disponibilités immédiates. Devis personnalisé gratuit sous 7j. Équipe locale expérimentée. Réservation en ligne simple.`,
+    title: titleText,
+    description: descriptionText,
     alternates: { canonical: canonicalUrl },
     openGraph: {
-      title: `Déménagement ${zoneDisplay} ${city.nameCapitalized}`,
-      description: `Déménageur local ${zoneDisplay} à ${city.nameCapitalized}`,
+      title: isCityPage
+        ? `Déménagement ${city.nameCapitalized}`
+        : `Déménagement ${zoneDisplay} ${city.nameCapitalized}`,
+      description: isCityPage
+        ? `Déménageur local à ${city.nameCapitalized}`
+        : `Déménageur local ${zoneDisplay} à ${city.nameCapitalized}`,
       url: canonicalUrl,
       type: 'website',
     },
@@ -95,7 +112,14 @@ export default function LocalPage({
         <div className="bg-white/5 backdrop-blur border-b border-white/10">
           <div className="container max-w-7xl mx-auto px-4 md:px-6 py-12">
             <div className="text-center">
-              <h1 className="text-3xl md:text-5xl font-bold text-white mb-6">
+              <Breadcrumbs
+                items={[
+                  { label: "Accueil", href: "/" },
+                  { label: "Quartiers", href: `/quartiers-${getCityDataFromUrl(env.SITE_URL).slug}/` },
+                  { label: zoneDisplay, href: `/${getCityDataFromUrl(env.SITE_URL).slug}/${zone}/` }
+                ]}
+              />
+              <h1 className="text-3xl md:text-5xl font-bold text-white mb-6 mt-6">
                 Déménageur {zoneDisplay} : comparez des devis fiables
               </h1>
               <p className="text-xl text-white/80 mb-8 max-w-3xl mx-auto">

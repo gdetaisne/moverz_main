@@ -4,6 +4,7 @@ import { useMemo, useState } from "react";
 import { QUARTIERS, COMMUNES, urlForQuartier, urlForCommune } from "@/components/NeighborhoodsData";
 import { getCityDataFromUrl } from "@/lib/cityData";
 import { env } from "@/lib/env";
+import Breadcrumbs from "@/components/Breadcrumbs";
 
 type CardProps = { href: string; title: string; subtitle?: string };
 
@@ -39,7 +40,13 @@ export default function NeighborhoodsIndex() {
   return (
     <main className="section">
       <div className="container">
-        <h1 className="text-3xl md:text-4xl font-semibold">Déménagement par quartiers & communes ({city.nameCapitalized})</h1>
+        <Breadcrumbs
+          items={[
+            { label: "Accueil", href: "/" },
+            { label: "Quartiers", href: `/quartiers-${city.slug}/` }
+          ]}
+        />
+        <h1 className="text-3xl md:text-4xl font-semibold mt-6">Déménagement par quartiers & communes ({city.nameCapitalized})</h1>
         <p className="mt-2 text-white/90 max-w-2xl">
           Sélectionnez votre zone pour obtenir des prix indicatifs et lancer une estimation IA en quelques minutes.
         </p>
