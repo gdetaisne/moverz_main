@@ -311,7 +311,7 @@ Nice compte **344 064 habitants** dont environ **40-45% possèdent un animal dom
 - Puce électronique
 
 **Nice-Monaco (18 km) :**
-- [Déménagement Nice-Monaco](/demenagement/demenagement-international-nice-monaco) : Mêmes règles (Monaco applique législation UE)
+- [Déménagement Nice-Monaco](/blog/satellites/demenagement-international-nice-monaco) : Mêmes règles (Monaco applique législation UE)
 
 **Nice-Suisse :**
 - Certificat sanitaire vétérinaire (<10 jours)

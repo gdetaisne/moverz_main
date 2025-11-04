@@ -39,7 +39,7 @@ Nice attire chaque année **8 000-12 000 nouveaux arrivants** depuis d'autres r�
 **Retraite (25%) :**
 - Climat favorable arthrose, rhumatismes
 - Structures médicales excellentes
-- [Déménagement retraités Nice](/demenagement/demenagement-retraites-seniors-nice)
+- [Déménagement retraités Nice](/blog/satellites/demenagement-retraites-seniors-nice)
 
 ### Freins et Réalités
 

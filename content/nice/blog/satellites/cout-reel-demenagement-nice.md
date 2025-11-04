@@ -313,6 +313,6 @@ Pour un **F2 40m²** : **1 900-2 400€** (emballage, transport, démontage/remo
 
 ---
 
-**Le [coût réel d'un déménagement à Nice](/demenagement/calculer-prix-demenagement-nice) dépasse souvent le devis initial de 30-50% en raison des spécificités locales** (monte-meuble fréquent, immeubles anciens, rues étroites). En anticipant ces postes cachés et en optimisant votre organisation, vous éviterez les mauvaises surprises financières et maîtriserez votre budget déménagement.
+**Le [coût réel d'un déménagement à Nice](/blog/satellites/calculer-prix-demenagement-nice) dépasse souvent le devis initial de 30-50% en raison des spécificités locales** (monte-meuble fréquent, immeubles anciens, rues étroites). En anticipant ces postes cachés et en optimisant votre organisation, vous éviterez les mauvaises surprises financières et maîtriserez votre budget déménagement.
 
 

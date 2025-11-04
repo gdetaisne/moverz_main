@@ -252,7 +252,7 @@ La Côte d'Azur, avec ses **343 km de littoral** entre Menton et Théoule-sur-Me
 **Solutions économiques :**
 - Location camion Europcar/Sixt Nice Aéroport : 70-90€/jour (12m³)
 - Aide manutention amis (carburant + repas)
-- [Astuces déménagement étudiant pas cher Nice](/demenagement/demenagement-etudiant-pas-cher-nice)
+- [Astuces déménagement étudiant pas cher Nice](/blog/satellites/demenagement-etudiant-pas-cher-nice)
 
 ## FAQ Déménagement Côte d'Azur
 
