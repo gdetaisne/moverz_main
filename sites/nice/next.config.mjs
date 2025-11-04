@@ -173,11 +173,11 @@ const nextConfig = {
       { source: '/blog/location-camion-demenagement/location-camion-demenagement-guide', destination: '/blog/location-camion-demenagement-nice/location-camion-demenagement-nice-guide/', permanent: true },
 
       // CATÉGORIES COURTES → Guides complets (Fix 404s satellites)
-      { source: '/blog/garde-meuble', destination: '/blog/garde-meuble-nice/garde-meuble-nice-guide-complet/', permanent: true },
-      { source: '/blog/international', destination: '/blog/demenagement-international-nice/demenagement-international-nice-guide/', permanent: true },
-      { source: '/blog/pas-cher', destination: '/blog/demenagement-pas-cher-nice/demenagement-pas-cher-nice-guide/', permanent: true },
-      { source: '/blog/piano', destination: '/blog/demenagement-piano-nice/demenagement-piano-nice-guide/', permanent: true },
-      { source: '/blog/prix', destination: '/blog/prix-demenagement-nice/prix-demenagement-nice-guide/', permanent: true },
+      { source: '/blog/garde-meuble', destination: '/blog/demenagement-nice/garde-meuble-nice-guide/', permanent: true },
+      { source: '/blog/international', destination: '/blog/demenagement-nice/demenagement-international-nice-guide/', permanent: true },
+      { source: '/blog/pas-cher', destination: '/blog/demenagement-nice/demenagement-pas-cher-nice-guide/', permanent: true },
+      { source: '/blog/piano', destination: '/blog/demenagement-nice/demenagement-piano-nice-guide/', permanent: true },
+      { source: '/blog/prix', destination: '/blog/demenagement-nice/prix-demenagement-nice-guide/', permanent: true },
 
       // MAUVAIS DOSSIER /demenagement/ → correct
       { source: '/demenagement/demenagement-une-piece-nice', destination: '/blog/satellites/demenagement-une-piece-nice/', permanent: true },
