@@ -75,20 +75,13 @@ const nextConfig = {
       { source: '/blog/petit-demenagement/petit-demenagement-guide-complet', destination: '/blog/petit-demenagement-rouen/petit-demenagement-rouen-guide-complet', permanent: true },
       { source: '/blog/location-camion-demenagement/location-camion-demenagement-guide-complet', destination: '/blog/location-camion-demenagement-rouen/location-camion-demenagement-rouen-guide-complet', permanent: true },
       { source: '/blog/demenagement-piano/demenagement-piano-guide-complet', destination: '/blog/demenagement-piano-rouen/demenagement-piano-rouen-guide-complet', permanent: true },
-      { source: '/blog/demenageur/demenageur-guide-complet', destination: '/blog/demenageur-rouen/demenageur-rouen-guide-complet', permanent: true },
-      { source: '/blog/garde-meuble/garde-meuble-guide-complet', destination: '/blog/garde-meuble-rouen/garde-meuble-rouen-guide-complet', permanent: true },
 
       // ARTICLES dans mauvais dossier (demenagement-rouen/ → satellites/ ou piliers/)
       { source: '/blog/demenagement-rouen/demenageur-pas-cher', destination: '/blog/demenageur-pas-cher-rouen/demenageur-pas-cher-rouen-guide', permanent: true },
-      { source: '/blog/demenagement-rouen/taille-box-stockage-rouen', destination: '/blog/satellites/taille-box-stockage-rouen', permanent: true },
-      { source: '/blog/demenagement-rouen/garde-meuble-etudiant-rouen', destination: '/blog/satellites/garde-meuble-etudiant-rouen', permanent: true },
-      { source: '/blog/demenagement-rouen/demenageur', destination: '/blog/demenageur-rouen/demenageur-rouen-guide-complet', permanent: true },
-      { source: '/blog/demenagement-rouen/location-camion-demenagement', destination: '/blog/location-camion-demenagement-rouen/location-camion-demenagement-rouen-guide-complet', permanent: true },
-      { source: '/blog/prix/prix-demenageur-rouen-2025', destination: '/blog/prix-demenagement-rouen/prix-demenagement-rouen-guide-complet', permanent: true },
-      { source: '/blog/garde-meuble/garde-meuble-rouen-guide-complet', destination: '/blog/garde-meuble-rouen/garde-meuble-rouen-guide-complet', permanent: true },
-      { source: '/blog/garde-meuble-rouen/garde-meuble-pas-cher-rouen', destination: '/blog/satellites/garde-meuble-pas-cher-rouen', permanent: true },
-      { source: '/blog/garde-meuble-rouen/meilleurs-garde-meubles-rouen-avis', destination: '/blog/satellites/meilleurs-garde-meubles-rouen-avis', permanent: true },
-      { source: '/blog/garde-meuble-rouen/assurance-garde-meuble-rouen-obligatoire', destination: '/blog/satellites/assurance-garde-meuble-rouen-obligatoire', permanent: true },
+      { source: '/blog/demenagement-rouen/taille-box-stockage-rouen', destination: '/blog/demenagement-rouen/taille-box-stockage-rouen', permanent: true },
+      { source: '/blog/demenagement-rouen/garde-meuble-etudiant-rouen', destination: '/blog/demenagement-rouen/garde-meuble-etudiant-rouen', permanent: true },
+      { source: '/blog/demenagement-rouen/demenageur', destination: '/blog/demenagement-rouen/demenageur-rouen', permanent: true },
+      { source: '/blog/demenagement-rouen/location-camion-demenagement', destination: '/blog/location-camion-demenagement-rouen/location-camion-demenagement-rouen-guide', permanent: true },
 
       // CATÉGORIES VIDES (rediriger vers page blog)
       { source: '/blog/etudiant', destination: '/blog', permanent: true },
@@ -126,7 +119,6 @@ const nextConfig = {
       { source: '/blog/devis', destination: '/blog', permanent: true },
       { source: '/blog/longue-distance', destination: '/blog', permanent: true },
       { source: '/blog/entreprise', destination: '/blog', permanent: true },
-      { source: '/blog/prix', destination: '/blog', permanent: true },
     ];
   }
 };
