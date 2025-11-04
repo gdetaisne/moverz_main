@@ -10,7 +10,7 @@ publish_date: "2025-02-03"
 author: "Équipe Moverz Strasbourg"
 ---
 
-Votre bail se termine le 30 juin à Neudorf, le nouveau logement est disponible le 1er septembre : que faire de vos meubles pendant 2 mois ? Les travaux de votre T3 à Hautepierre durent 5 mois : où stocker le mobilier ? Vous vendez votre maison à Robertsau avant d'acheter la nouvelle : combien de temps prévoir ? Pour une vue complète, consultez notre [guide complet garde-meuble Strasbourg](/blog/garde-meuble-strasbourg/garde-meuble-strasbourg-guide-complet).
+Votre bail se termine le 30 juin à Neudorf, le nouveau logement est disponible le 1er septembre : que faire de vos meubles pendant 2 mois ? Les travaux de votre T3 à Hautepierre durent 5 mois : où stocker le mobilier ? Vous vendez votre maison à Robertsau avant d'acheter la nouvelle : combien de temps prévoir ? Pour une vue complète, consultez notre [guide complet garde-meuble Strasbourg](/blog/demenagement-strasbourg/garde-meuble-strasbourg-guide).
 
 Avec un taux de mobilité résidentielle de 10-12% par an, environ **29 000 strasbourgeois déménagent chaque année** (sur 297 878 habitants). Une majorité rencontre des décalages temporels nécessitant stockage temporaire. Ce guide détaille durées types (1-2 mois, 4-6 mois, 3-12 mois), compare coût stockage vs double déménagement, et conseille sur planification optimale.
 

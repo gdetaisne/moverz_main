@@ -10,7 +10,7 @@ publish_date: "2025-02-01"
 author: "Équipe Moverz Strasbourg"
 ---
 
-L'assurance garde-meuble est-elle obligatoire à Strasbourg ? Combien coûte-t-elle ? Votre assurance habitation couvre-t-elle déjà le stockage externe ? Avec un prix immobilier moyen de 3 400€/m² (biens de valeur dans logements), ces questions reviennent systématiquement. Pour une vue complète, consultez notre [guide complet garde-meuble Strasbourg](/blog/garde-meuble-strasbourg/garde-meuble-strasbourg-guide-complet).
+L'assurance garde-meuble est-elle obligatoire à Strasbourg ? Combien coûte-t-elle ? Votre assurance habitation couvre-t-elle déjà le stockage externe ? Avec un prix immobilier moyen de 3 400€/m² (biens de valeur dans logements), ces questions reviennent systématiquement. Pour une vue complète, consultez notre [guide complet garde-meuble Strasbourg](/blog/demenagement-strasbourg/garde-meuble-strasbourg-guide).
 
 Réponse directe : **non, l'assurance n'est pas obligatoire légalement**, mais **fortement recommandée**. Elle coûte 5-15€/mois selon valeur déclarée (1 000-10 000€). Homebox propose 8€/mois (3 000€ couverture), Locakase inclut 2 000€ en base. Ce guide détaille couvertures, coûts acteurs Strasbourg, et comment vérifier si votre assurance habitation couvre déjà (économie 60-180€/an).
 

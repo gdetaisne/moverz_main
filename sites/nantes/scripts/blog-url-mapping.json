@@ -1,0 +1,650 @@
+{
+  "aide-demenagement-nantes-guide": {
+    "file": "content/blog/aide-demenagement-nantes/aide-demenagement-nantes-guide.md",
+    "originalSlug": "aide-demenagement-nantes-guide",
+    "cleanSlug": "aide-demenagement-nantes-guide",
+    "category": "demenagement-nantes",
+    "cleanCategory": "demenagement-nantes",
+    "url": "/blog/demenagement-nantes/aide-demenagement-nantes-guide/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/demenagement-nantes/aide-demenagement-nantes-guide/"
+  },
+  "demenagement-entreprise-nantes-guide": {
+    "file": "content/blog/demenagement-entreprise-nantes/demenagement-entreprise-nantes-guide.md",
+    "originalSlug": "demenagement-entreprise-nantes-guide",
+    "cleanSlug": "demenagement-entreprise-nantes-guide",
+    "category": "demenagement-nantes",
+    "cleanCategory": "demenagement-nantes",
+    "url": "/blog/demenagement-nantes/demenagement-entreprise-nantes-guide/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/demenagement-nantes/demenagement-entreprise-nantes-guide/"
+  },
+  "demenagement-international-nantes-guide": {
+    "file": "content/blog/demenagement-international-nantes/demenagement-international-nantes-guide.md",
+    "originalSlug": "demenagement-international-nantes-guide",
+    "cleanSlug": "demenagement-international-nantes-guide",
+    "category": "demenagement-nantes",
+    "cleanCategory": "demenagement-nantes",
+    "url": "/blog/demenagement-nantes/demenagement-international-nantes-guide/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/demenagement-nantes/demenagement-international-nantes-guide/"
+  },
+  "demenagement-pas-cher-nantes-guide": {
+    "file": "content/blog/demenagement-pas-cher-nantes/demenagement-pas-cher-nantes-guide.md",
+    "originalSlug": "demenagement-pas-cher-nantes-guide",
+    "cleanSlug": "demenagement-pas-cher-nantes-guide",
+    "category": "demenagement-nantes",
+    "cleanCategory": "demenagement-nantes",
+    "url": "/blog/demenagement-nantes/demenagement-pas-cher-nantes-guide/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/demenagement-nantes/demenagement-pas-cher-nantes-guide/"
+  },
+  "demenagement-piano-nantes-guide": {
+    "file": "content/blog/demenagement-piano-nantes/demenagement-piano-nantes-guide.md",
+    "originalSlug": "demenagement-piano-nantes-guide",
+    "cleanSlug": "demenagement-piano-nantes-guide",
+    "category": "demenagement-nantes",
+    "cleanCategory": "demenagement-nantes",
+    "url": "/blog/demenagement-nantes/demenagement-piano-nantes-guide/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/demenagement-nantes/demenagement-piano-nantes-guide/"
+  },
+  "demenageur-nantes-guide-complet": {
+    "file": "content/blog/demenageur-nantes/demenageur-nantes-guide-complet.md",
+    "originalSlug": "demenageur-nantes-guide-complet",
+    "cleanSlug": "demenageur-nantes-guide",
+    "category": "demenagement-nantes",
+    "cleanCategory": "demenagement-nantes",
+    "url": "/blog/demenagement-nantes/demenageur-nantes-guide/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/demenagement-nantes/demenageur-nantes-guide/"
+  },
+  "garde-meuble-nantes-guide-complet": {
+    "file": "content/blog/garde-meuble-nantes/garde-meuble-nantes-guide-complet.md",
+    "originalSlug": "garde-meuble-nantes-guide-complet",
+    "cleanSlug": "garde-meuble-nantes-guide",
+    "category": "demenagement-nantes",
+    "cleanCategory": "demenagement-nantes",
+    "url": "/blog/demenagement-nantes/garde-meuble-nantes-guide/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/demenagement-nantes/garde-meuble-nantes-guide/"
+  },
+  "location-camion-demenagement-nantes-guide": {
+    "file": "content/blog/location-camion-demenagement-nantes/location-camion-demenagement-nantes-guide.md",
+    "originalSlug": "location-camion-demenagement-nantes-guide",
+    "cleanSlug": "location-camion-demenagement-nantes-guide",
+    "category": "demenagement-nantes",
+    "cleanCategory": "demenagement-nantes",
+    "url": "/blog/demenagement-nantes/location-camion-demenagement-nantes-guide/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/demenagement-nantes/location-camion-demenagement-nantes-guide/"
+  },
+  "petit-demenagement-nantes-guide": {
+    "file": "content/blog/petit-demenagement-nantes/petit-demenagement-nantes-guide.md",
+    "originalSlug": "petit-demenagement-nantes-guide",
+    "cleanSlug": "petit-demenagement-nantes-guide",
+    "category": "demenagement-nantes",
+    "cleanCategory": "demenagement-nantes",
+    "url": "/blog/demenagement-nantes/petit-demenagement-nantes-guide/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/demenagement-nantes/petit-demenagement-nantes-guide/"
+  },
+  "prix-demenagement-nantes-guide": {
+    "file": "content/blog/prix-demenagement-nantes/prix-demenagement-nantes-guide.md",
+    "originalSlug": "prix-demenagement-nantes-guide",
+    "cleanSlug": "prix-demenagement-nantes-guide",
+    "category": "demenagement-nantes",
+    "cleanCategory": "demenagement-nantes",
+    "url": "/blog/demenagement-nantes/prix-demenagement-nantes-guide/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/demenagement-nantes/prix-demenagement-nantes-guide/"
+  },
+  "acces-garde-meuble-nantes-horaires": {
+    "file": "content/blog/satellites/acces-garde-meuble-nantes-horaires.md",
+    "originalSlug": "acces-garde-meuble-nantes-horaires",
+    "cleanSlug": "acces-garde-meuble-nantes-horaires",
+    "category": "garde-meuble-nantes",
+    "cleanCategory": "garde-meuble-nantes",
+    "url": "/blog/garde-meuble-nantes/acces-garde-meuble-nantes-horaires/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/garde-meuble-nantes/acces-garde-meuble-nantes-horaires/"
+  },
+  "accordage-piano-apres-demenagement-nantes": {
+    "file": "content/blog/satellites/accordage-piano-apres-demenagement-nantes.md",
+    "originalSlug": "accordage-piano-apres-demenagement-nantes",
+    "cleanSlug": "accordage-piano-apres-demenagement-nantes",
+    "category": "demenagement-piano-nantes",
+    "cleanCategory": "demenagement-piano-nantes",
+    "url": "/blog/demenagement-piano-nantes/accordage-piano-apres-demenagement-nantes/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/demenagement-piano-nantes/accordage-piano-apres-demenagement-nantes/"
+  },
+  "aide-demenagement-amis-famille-nantes": {
+    "file": "content/blog/satellites/aide-demenagement-amis-famille-nantes.md",
+    "originalSlug": "aide-demenagement-amis-famille-nantes",
+    "cleanSlug": "aide-demenagement-amis-famille-nantes",
+    "category": "demenagement-pas-cher-nantes",
+    "cleanCategory": "demenagement-pas-cher-nantes",
+    "url": "/blog/demenagement-pas-cher-nantes/aide-demenagement-amis-famille-nantes/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/demenagement-pas-cher-nantes/aide-demenagement-amis-famille-nantes/"
+  },
+  "aide-demenagement-famille-amis-nantes": {
+    "file": "content/blog/satellites/aide-demenagement-famille-amis-nantes.md",
+    "originalSlug": "aide-demenagement-famille-amis-nantes",
+    "cleanSlug": "aide-demenagement-famille-amis-nantes",
+    "category": "aide-demenagement-nantes",
+    "cleanCategory": "aide-demenagement-nantes",
+    "url": "/blog/aide-demenagement-nantes/aide-demenagement-famille-amis-nantes/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/aide-demenagement-nantes/aide-demenagement-famille-amis-nantes/"
+  },
+  "aide-ponctuelle-chargement-dechargement-nantes": {
+    "file": "content/blog/satellites/aide-ponctuelle-chargement-dechargement-nantes.md",
+    "originalSlug": "aide-ponctuelle-chargement-dechargement-nantes",
+    "cleanSlug": "aide-ponctuelle-chargement-dechargement-nantes",
+    "category": "aide-demenagement-nantes",
+    "cleanCategory": "aide-demenagement-nantes",
+    "url": "/blog/aide-demenagement-nantes/aide-ponctuelle-chargement-dechargement-nantes/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/aide-demenagement-nantes/aide-ponctuelle-chargement-dechargement-nantes/"
+  },
+  "assurance-demenagement-international-nantes": {
+    "file": "content/blog/satellites/assurance-demenagement-international-nantes.md",
+    "originalSlug": "assurance-demenagement-international-nantes",
+    "cleanSlug": "assurance-demenagement-international-nantes",
+    "category": "demenagement-international-nantes",
+    "cleanCategory": "demenagement-international-nantes",
+    "url": "/blog/demenagement-international-nantes/assurance-demenagement-international-nantes/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/demenagement-international-nantes/assurance-demenagement-international-nantes/"
+  },
+  "assurance-garde-meuble-nantes": {
+    "file": "content/blog/satellites/assurance-garde-meuble-nantes.md",
+    "originalSlug": "assurance-garde-meuble-nantes",
+    "cleanSlug": "assurance-garde-meuble-nantes",
+    "category": "garde-meuble-nantes",
+    "cleanCategory": "garde-meuble-nantes",
+    "url": "/blog/garde-meuble-nantes/assurance-garde-meuble-nantes/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/garde-meuble-nantes/assurance-garde-meuble-nantes/"
+  },
+  "assurance-piano-demenagement-nantes": {
+    "file": "content/blog/satellites/assurance-piano-demenagement-nantes.md",
+    "originalSlug": "assurance-piano-demenagement-nantes",
+    "cleanSlug": "assurance-piano-demenagement-nantes",
+    "category": "demenagement-piano-nantes",
+    "cleanCategory": "demenagement-piano-nantes",
+    "url": "/blog/demenagement-piano-nantes/assurance-piano-demenagement-nantes/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/demenagement-piano-nantes/assurance-piano-demenagement-nantes/"
+  },
+  "assurances-aide-demenagement-particuliers-nantes": {
+    "file": "content/blog/satellites/assurances-aide-demenagement-particuliers-nantes.md",
+    "originalSlug": "assurances-aide-demenagement-particuliers-nantes",
+    "cleanSlug": "assurances-aide-demenagement-particuliers-nantes",
+    "category": "aide-demenagement-nantes",
+    "cleanCategory": "aide-demenagement-nantes",
+    "url": "/blog/aide-demenagement-nantes/assurances-aide-demenagement-particuliers-nantes/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/aide-demenagement-nantes/assurances-aide-demenagement-particuliers-nantes/"
+  },
+  "astuces-reduire-cout-demenagement-nantes": {
+    "file": "content/blog/satellites/astuces-reduire-cout-demenagement-nantes.md",
+    "originalSlug": "astuces-reduire-cout-demenagement-nantes",
+    "cleanSlug": "astuces-reduire-cout-demenagement-nantes",
+    "category": "demenagement-pas-cher-nantes",
+    "cleanCategory": "demenagement-pas-cher-nantes",
+    "url": "/blog/demenagement-pas-cher-nantes/astuces-reduire-cout-demenagement-nantes/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/demenagement-pas-cher-nantes/astuces-reduire-cout-demenagement-nantes/"
+  },
+  "basse-saison-demenagement-nantes": {
+    "file": "content/blog/satellites/basse-saison-demenagement-nantes.md",
+    "originalSlug": "basse-saison-demenagement-nantes",
+    "cleanSlug": "basse-saison-demenagement-nantes",
+    "category": "demenagement-pas-cher-nantes",
+    "cleanCategory": "demenagement-pas-cher-nantes",
+    "url": "/blog/demenagement-pas-cher-nantes/basse-saison-demenagement-nantes/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/demenagement-pas-cher-nantes/basse-saison-demenagement-nantes/"
+  },
+  "budget-complet-demenagement-piano-nantes": {
+    "file": "content/blog/satellites/budget-complet-demenagement-piano-nantes.md",
+    "originalSlug": "budget-complet-demenagement-piano-nantes",
+    "cleanSlug": "budget-complet-demenagement-piano-nantes",
+    "category": "demenagement-piano-nantes",
+    "cleanCategory": "demenagement-piano-nantes",
+    "url": "/blog/demenagement-piano-nantes/budget-complet-demenagement-piano-nantes/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/demenagement-piano-nantes/budget-complet-demenagement-piano-nantes/"
+  },
+  "cartons-gratuits-nantes-demenagement": {
+    "file": "content/blog/satellites/cartons-gratuits-nantes-demenagement.md",
+    "originalSlug": "cartons-gratuits-nantes-demenagement",
+    "cleanSlug": "cartons-gratuits-nantes-demenagement",
+    "category": "demenagement-pas-cher-nantes",
+    "cleanCategory": "demenagement-pas-cher-nantes",
+    "url": "/blog/demenagement-pas-cher-nantes/cartons-gratuits-nantes-demenagement/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/demenagement-pas-cher-nantes/cartons-gratuits-nantes-demenagement/"
+  },
+  "choisir-taille-box-stockage-nantes": {
+    "file": "content/blog/satellites/choisir-taille-box-stockage-nantes.md",
+    "originalSlug": "choisir-taille-box-stockage-nantes",
+    "cleanSlug": "choisir-taille-box-stockage-nantes",
+    "category": "garde-meuble-nantes",
+    "cleanCategory": "garde-meuble-nantes",
+    "url": "/blog/garde-meuble-nantes/choisir-taille-box-stockage-nantes/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/garde-meuble-nantes/choisir-taille-box-stockage-nantes/"
+  },
+  "comparatif-diy-vs-professionnel-petit-demenagement-nantes": {
+    "file": "content/blog/satellites/comparatif-diy-vs-professionnel-petit-demenagement-nantes.md",
+    "originalSlug": "comparatif-diy-vs-professionnel-petit-demenagement-nantes",
+    "cleanSlug": "comparatif-diy-vs-professionnel-petit-demenagement-nantes",
+    "category": "petit-demenagement-nantes",
+    "cleanCategory": "petit-demenagement-nantes",
+    "url": "/blog/petit-demenagement-nantes/comparatif-diy-vs-professionnel-petit-demenagement-nantes/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/petit-demenagement-nantes/comparatif-diy-vs-professionnel-petit-demenagement-nantes/"
+  },
+  "comparatif-formules-economiques-nantes": {
+    "file": "content/blog/satellites/comparatif-formules-economiques-nantes.md",
+    "originalSlug": "comparatif-formules-economiques-nantes",
+    "cleanSlug": "comparatif-formules-economiques-nantes",
+    "category": "demenagement-pas-cher-nantes",
+    "cleanCategory": "demenagement-pas-cher-nantes",
+    "url": "/blog/demenagement-pas-cher-nantes/comparatif-formules-economiques-nantes/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/demenagement-pas-cher-nantes/comparatif-formules-economiques-nantes/"
+  },
+  "delais-demenagement-international-nantes": {
+    "file": "content/blog/satellites/delais-demenagement-international-nantes.md",
+    "originalSlug": "delais-demenagement-international-nantes",
+    "cleanSlug": "delais-demenagement-international-nantes",
+    "category": "demenagement-international-nantes",
+    "cleanCategory": "demenagement-international-nantes",
+    "url": "/blog/demenagement-international-nantes/delais-demenagement-international-nantes/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/demenagement-international-nantes/delais-demenagement-international-nantes/"
+  },
+  "demenagement-colocation-nantes": {
+    "file": "content/blog/satellites/demenagement-colocation-nantes.md",
+    "originalSlug": "demenagement-colocation-nantes",
+    "cleanSlug": "demenagement-colocation-nantes",
+    "category": "petit-demenagement-nantes",
+    "cleanCategory": "petit-demenagement-nantes",
+    "url": "/blog/petit-demenagement-nantes/demenagement-colocation-nantes/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/petit-demenagement-nantes/demenagement-colocation-nantes/"
+  },
+  "demenagement-derniere-minute-nantes": {
+    "file": "content/blog/satellites/demenagement-derniere-minute-nantes.md",
+    "originalSlug": "demenagement-derniere-minute-nantes",
+    "cleanSlug": "demenagement-derniere-minute-nantes",
+    "category": "petit-demenagement-nantes",
+    "cleanCategory": "petit-demenagement-nantes",
+    "url": "/blog/petit-demenagement-nantes/demenagement-derniere-minute-nantes/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/petit-demenagement-nantes/demenagement-derniere-minute-nantes/"
+  },
+  "demenagement-economique-vs-standard-nantes": {
+    "file": "content/blog/satellites/demenagement-economique-vs-standard-nantes.md",
+    "originalSlug": "demenagement-economique-vs-standard-nantes",
+    "cleanSlug": "demenagement-economique-vs-standard-nantes",
+    "category": "demenagement-pas-cher-nantes",
+    "cleanCategory": "demenagement-pas-cher-nantes",
+    "url": "/blog/demenagement-pas-cher-nantes/demenagement-economique-vs-standard-nantes/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/demenagement-pas-cher-nantes/demenagement-economique-vs-standard-nantes/"
+  },
+  "demenagement-equipement-bebe-nantes": {
+    "file": "content/blog/satellites/demenagement-equipement-bebe-nantes.md",
+    "originalSlug": "demenagement-equipement-bebe-nantes",
+    "cleanSlug": "demenagement-equipement-bebe-nantes",
+    "category": "petit-demenagement-nantes",
+    "cleanCategory": "petit-demenagement-nantes",
+    "url": "/blog/petit-demenagement-nantes/demenagement-equipement-bebe-nantes/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/petit-demenagement-nantes/demenagement-equipement-bebe-nantes/"
+  },
+  "demenagement-etudiant-nantes-astuces": {
+    "file": "content/blog/satellites/demenagement-etudiant-nantes-astuces.md",
+    "originalSlug": "demenagement-etudiant-nantes-astuces",
+    "cleanSlug": "demenagement-etudiant-nantes-astuces",
+    "category": "petit-demenagement-nantes",
+    "cleanCategory": "petit-demenagement-nantes",
+    "url": "/blog/petit-demenagement-nantes/demenagement-etudiant-nantes-astuces/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/petit-demenagement-nantes/demenagement-etudiant-nantes-astuces/"
+  },
+  "demenagement-etudiant-pas-cher-nantes": {
+    "file": "content/blog/satellites/demenagement-etudiant-pas-cher-nantes.md",
+    "originalSlug": "demenagement-etudiant-pas-cher-nantes",
+    "cleanSlug": "demenagement-etudiant-pas-cher-nantes",
+    "category": "demenagement-pas-cher-nantes",
+    "cleanCategory": "demenagement-pas-cher-nantes",
+    "url": "/blog/demenagement-pas-cher-nantes/demenagement-etudiant-pas-cher-nantes/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/demenagement-pas-cher-nantes/demenagement-etudiant-pas-cher-nantes/"
+  },
+  "demenagement-meuble-seul-nantes": {
+    "file": "content/blog/satellites/demenagement-meuble-seul-nantes.md",
+    "originalSlug": "demenagement-meuble-seul-nantes",
+    "cleanSlug": "demenagement-meuble-seul-nantes",
+    "category": "petit-demenagement-nantes",
+    "cleanCategory": "petit-demenagement-nantes",
+    "url": "/blog/petit-demenagement-nantes/demenagement-meuble-seul-nantes/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/petit-demenagement-nantes/demenagement-meuble-seul-nantes/"
+  },
+  "demenagement-nantes-asie": {
+    "file": "content/blog/satellites/demenagement-nantes-asie.md",
+    "originalSlug": "demenagement-nantes-asie",
+    "cleanSlug": "demenagement-nantes-asie",
+    "category": "demenagement-international-nantes",
+    "cleanCategory": "demenagement-international-nantes",
+    "url": "/blog/demenagement-international-nantes/demenagement-nantes-asie/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/demenagement-international-nantes/demenagement-nantes-asie/"
+  },
+  "demenagement-nantes-uk-post-brexit": {
+    "file": "content/blog/satellites/demenagement-nantes-uk-post-brexit.md",
+    "originalSlug": "demenagement-nantes-uk-post-brexit",
+    "cleanSlug": "demenagement-nantes-uk-post-brexit",
+    "category": "demenagement-international-nantes",
+    "cleanCategory": "demenagement-international-nantes",
+    "url": "/blog/demenagement-international-nantes/demenagement-nantes-uk-post-brexit/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/demenagement-international-nantes/demenagement-nantes-uk-post-brexit/"
+  },
+  "demenagement-nantes-usa-canada": {
+    "file": "content/blog/satellites/demenagement-nantes-usa-canada.md",
+    "originalSlug": "demenagement-nantes-usa-canada",
+    "cleanSlug": "demenagement-nantes-usa-canada",
+    "category": "demenagement-international-nantes",
+    "cleanCategory": "demenagement-international-nantes",
+    "url": "/blog/demenagement-international-nantes/demenagement-nantes-usa-canada/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/demenagement-international-nantes/demenagement-nantes-usa-canada/"
+  },
+  "demenagement-objets-lourds-nantes": {
+    "file": "content/blog/satellites/demenagement-objets-lourds-nantes.md",
+    "originalSlug": "demenagement-objets-lourds-nantes",
+    "cleanSlug": "demenagement-objets-lourds-nantes",
+    "category": "petit-demenagement-nantes",
+    "cleanCategory": "petit-demenagement-nantes",
+    "url": "/blog/petit-demenagement-nantes/demenagement-objets-lourds-nantes/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/petit-demenagement-nantes/demenagement-objets-lourds-nantes/"
+  },
+  "demenagement-petites-distances-nantes": {
+    "file": "content/blog/satellites/demenagement-petites-distances-nantes.md",
+    "originalSlug": "demenagement-petites-distances-nantes",
+    "cleanSlug": "demenagement-petites-distances-nantes",
+    "category": "petit-demenagement-nantes",
+    "cleanCategory": "petit-demenagement-nantes",
+    "url": "/blog/petit-demenagement-nantes/demenagement-petites-distances-nantes/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/petit-demenagement-nantes/demenagement-petites-distances-nantes/"
+  },
+  "demenagement-piano-etages-sans-ascenseur-nantes": {
+    "file": "content/blog/satellites/demenagement-piano-etages-sans-ascenseur-nantes.md",
+    "originalSlug": "demenagement-piano-etages-sans-ascenseur-nantes",
+    "cleanSlug": "demenagement-piano-etages-sans-ascenseur-nantes",
+    "category": "demenagement-piano-nantes",
+    "cleanCategory": "demenagement-piano-nantes",
+    "url": "/blog/demenagement-piano-nantes/demenagement-piano-etages-sans-ascenseur-nantes/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/demenagement-piano-nantes/demenagement-piano-etages-sans-ascenseur-nantes/"
+  },
+  "demenagement-piano-nantes-prix": {
+    "file": "content/blog/satellites/demenagement-piano-nantes-prix.md",
+    "originalSlug": "demenagement-piano-nantes-prix",
+    "cleanSlug": "demenagement-piano-nantes-prix",
+    "category": "demenagement-piano-nantes",
+    "cleanCategory": "demenagement-piano-nantes",
+    "url": "/blog/demenagement-piano-nantes/demenagement-piano-nantes-prix/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/demenagement-piano-nantes/demenagement-piano-nantes-prix/"
+  },
+  "demenagement-piano-queue-nantes": {
+    "file": "content/blog/satellites/demenagement-piano-queue-nantes.md",
+    "originalSlug": "demenagement-piano-queue-nantes",
+    "cleanSlug": "demenagement-piano-queue-nantes",
+    "category": "demenagement-piano-nantes",
+    "cleanCategory": "demenagement-piano-nantes",
+    "url": "/blog/demenagement-piano-nantes/demenagement-piano-queue-nantes/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/demenagement-piano-nantes/demenagement-piano-queue-nantes/"
+  },
+  "demenagement-sans-carton-nantes": {
+    "file": "content/blog/satellites/demenagement-sans-carton-nantes.md",
+    "originalSlug": "demenagement-sans-carton-nantes",
+    "cleanSlug": "demenagement-sans-carton-nantes",
+    "category": "petit-demenagement-nantes",
+    "cleanCategory": "petit-demenagement-nantes",
+    "url": "/blog/petit-demenagement-nantes/demenagement-sans-carton-nantes/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/petit-demenagement-nantes/demenagement-sans-carton-nantes/"
+  },
+  "demenagement-semaine-vs-weekend-nantes": {
+    "file": "content/blog/satellites/demenagement-semaine-vs-weekend-nantes.md",
+    "originalSlug": "demenagement-semaine-vs-weekend-nantes",
+    "cleanSlug": "demenagement-semaine-vs-weekend-nantes",
+    "category": "demenagement-pas-cher-nantes",
+    "cleanCategory": "demenagement-pas-cher-nantes",
+    "url": "/blog/demenagement-pas-cher-nantes/demenagement-semaine-vs-weekend-nantes/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/demenagement-pas-cher-nantes/demenagement-semaine-vs-weekend-nantes/"
+  },
+  "demenagement-studio-nantes-prix": {
+    "file": "content/blog/satellites/demenagement-studio-nantes-prix.md",
+    "originalSlug": "demenagement-studio-nantes-prix",
+    "cleanSlug": "demenagement-studio-nantes-prix",
+    "category": "petit-demenagement-nantes",
+    "cleanCategory": "petit-demenagement-nantes",
+    "url": "/blog/petit-demenagement-nantes/demenagement-studio-nantes-prix/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/petit-demenagement-nantes/demenagement-studio-nantes-prix/"
+  },
+  "demenagement-t1-nantes-prix": {
+    "file": "content/blog/satellites/demenagement-t1-nantes-prix.md",
+    "originalSlug": "demenagement-t1-nantes-prix",
+    "cleanSlug": "demenagement-t1-nantes-prix",
+    "category": "petit-demenagement-nantes",
+    "cleanCategory": "petit-demenagement-nantes",
+    "url": "/blog/petit-demenagement-nantes/demenagement-t1-nantes-prix/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/petit-demenagement-nantes/demenagement-t1-nantes-prix/"
+  },
+  "demenager-soi-meme-nantes-location-utilitaire": {
+    "file": "content/blog/satellites/demenager-soi-meme-nantes-location-utilitaire.md",
+    "originalSlug": "demenager-soi-meme-nantes-location-utilitaire",
+    "cleanSlug": "demenager-soi-meme-nantes-location-utilitaire",
+    "category": "demenagement-pas-cher-nantes",
+    "cleanCategory": "demenagement-pas-cher-nantes",
+    "url": "/blog/demenagement-pas-cher-nantes/demenager-soi-meme-nantes-location-utilitaire/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/demenagement-pas-cher-nantes/demenager-soi-meme-nantes-location-utilitaire/"
+  },
+  "duree-minimum-garde-meuble-nantes": {
+    "file": "content/blog/satellites/duree-minimum-garde-meuble-nantes.md",
+    "originalSlug": "duree-minimum-garde-meuble-nantes",
+    "cleanSlug": "duree-minimum-garde-meuble-nantes",
+    "category": "garde-meuble-nantes",
+    "cleanCategory": "garde-meuble-nantes",
+    "url": "/blog/garde-meuble-nantes/duree-minimum-garde-meuble-nantes/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/garde-meuble-nantes/duree-minimum-garde-meuble-nantes/"
+  },
+  "emballage-diy-demenagement-nantes": {
+    "file": "content/blog/satellites/emballage-diy-demenagement-nantes.md",
+    "originalSlug": "emballage-diy-demenagement-nantes",
+    "cleanSlug": "emballage-diy-demenagement-nantes",
+    "category": "petit-demenagement-nantes",
+    "cleanCategory": "petit-demenagement-nantes",
+    "url": "/blog/petit-demenagement-nantes/emballage-diy-demenagement-nantes/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/petit-demenagement-nantes/emballage-diy-demenagement-nantes/"
+  },
+  "erreurs-eviter-demenagement-piano-nantes": {
+    "file": "content/blog/satellites/erreurs-eviter-demenagement-piano-nantes.md",
+    "originalSlug": "erreurs-eviter-demenagement-piano-nantes",
+    "cleanSlug": "erreurs-eviter-demenagement-piano-nantes",
+    "category": "demenagement-piano-nantes",
+    "cleanCategory": "demenagement-piano-nantes",
+    "url": "/blog/demenagement-piano-nantes/erreurs-eviter-demenagement-piano-nantes/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/demenagement-piano-nantes/erreurs-eviter-demenagement-piano-nantes/"
+  },
+  "etudiants-aide-demenagement-nantes": {
+    "file": "content/blog/satellites/etudiants-aide-demenagement-nantes.md",
+    "originalSlug": "etudiants-aide-demenagement-nantes",
+    "cleanSlug": "etudiants-aide-demenagement-nantes",
+    "category": "aide-demenagement-nantes",
+    "cleanCategory": "aide-demenagement-nantes",
+    "url": "/blog/aide-demenagement-nantes/etudiants-aide-demenagement-nantes/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/aide-demenagement-nantes/etudiants-aide-demenagement-nantes/"
+  },
+  "formalites-douanes-demenagement-international-nantes": {
+    "file": "content/blog/satellites/formalites-douanes-demenagement-international-nantes.md",
+    "originalSlug": "formalites-douanes-demenagement-international-nantes",
+    "cleanSlug": "formalites-douanes-demenagement-international-nantes",
+    "category": "demenagement-international-nantes",
+    "cleanCategory": "demenagement-international-nantes",
+    "url": "/blog/demenagement-international-nantes/formalites-douanes-demenagement-international-nantes/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/demenagement-international-nantes/formalites-douanes-demenagement-international-nantes/"
+  },
+  "garde-meuble-centre-nantes-peripherie": {
+    "file": "content/blog/satellites/garde-meuble-centre-nantes-peripherie.md",
+    "originalSlug": "garde-meuble-centre-nantes-peripherie",
+    "cleanSlug": "garde-meuble-centre-nantes-peripherie",
+    "category": "garde-meuble-nantes",
+    "cleanCategory": "garde-meuble-nantes",
+    "url": "/blog/garde-meuble-nantes/garde-meuble-centre-nantes-peripherie/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/garde-meuble-nantes/garde-meuble-centre-nantes-peripherie/"
+  },
+  "garde-meuble-courte-duree-nantes": {
+    "file": "content/blog/satellites/garde-meuble-courte-duree-nantes.md",
+    "originalSlug": "garde-meuble-courte-duree-nantes",
+    "cleanSlug": "garde-meuble-courte-duree-nantes",
+    "category": "petit-demenagement-nantes",
+    "cleanCategory": "petit-demenagement-nantes",
+    "url": "/blog/petit-demenagement-nantes/garde-meuble-courte-duree-nantes/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/petit-demenagement-nantes/garde-meuble-courte-duree-nantes/"
+  },
+  "garde-meuble-etudiant-nantes": {
+    "file": "content/blog/satellites/garde-meuble-etudiant-nantes.md",
+    "originalSlug": "garde-meuble-etudiant-nantes",
+    "cleanSlug": "garde-meuble-etudiant-nantes",
+    "category": "garde-meuble-nantes",
+    "cleanCategory": "garde-meuble-nantes",
+    "url": "/blog/garde-meuble-nantes/garde-meuble-etudiant-nantes/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/garde-meuble-nantes/garde-meuble-etudiant-nantes/"
+  },
+  "garde-meuble-pas-cher-nantes": {
+    "file": "content/blog/satellites/garde-meuble-pas-cher-nantes.md",
+    "originalSlug": "garde-meuble-pas-cher-nantes",
+    "cleanSlug": "garde-meuble-pas-cher-nantes",
+    "category": "garde-meuble-nantes",
+    "cleanCategory": "garde-meuble-nantes",
+    "url": "/blog/garde-meuble-nantes/garde-meuble-pas-cher-nantes/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/garde-meuble-nantes/garde-meuble-pas-cher-nantes/"
+  },
+  "garde-meuble-vs-self-stockage-nantes": {
+    "file": "content/blog/satellites/garde-meuble-vs-self-stockage-nantes.md",
+    "originalSlug": "garde-meuble-vs-self-stockage-nantes",
+    "cleanSlug": "garde-meuble-vs-self-stockage-nantes",
+    "category": "garde-meuble-nantes",
+    "cleanCategory": "garde-meuble-nantes",
+    "url": "/blog/garde-meuble-nantes/garde-meuble-vs-self-stockage-nantes/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/garde-meuble-nantes/garde-meuble-vs-self-stockage-nantes/"
+  },
+  "groupage-international-demenagement-nantes": {
+    "file": "content/blog/satellites/groupage-international-demenagement-nantes.md",
+    "originalSlug": "groupage-international-demenagement-nantes",
+    "cleanSlug": "groupage-international-demenagement-nantes",
+    "category": "demenagement-international-nantes",
+    "cleanCategory": "demenagement-international-nantes",
+    "url": "/blog/demenagement-international-nantes/groupage-international-demenagement-nantes/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/demenagement-international-nantes/groupage-international-demenagement-nantes/"
+  },
+  "location-camion-demenagement-nantes": {
+    "file": "content/blog/satellites/location-camion-demenagement-nantes.md",
+    "originalSlug": "location-camion-demenagement-nantes",
+    "cleanSlug": "location-camion-demenagement-nantes",
+    "category": "petit-demenagement-nantes",
+    "cleanCategory": "petit-demenagement-nantes",
+    "url": "/blog/petit-demenagement-nantes/location-camion-demenagement-nantes/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/petit-demenagement-nantes/location-camion-demenagement-nantes/"
+  },
+  "monte-meuble-demenagement-nantes": {
+    "file": "content/blog/satellites/monte-meuble-demenagement-nantes.md",
+    "originalSlug": "monte-meuble-demenagement-nantes",
+    "cleanSlug": "monte-meuble-demenagement-nantes",
+    "category": "petit-demenagement-nantes",
+    "cleanCategory": "petit-demenagement-nantes",
+    "url": "/blog/petit-demenagement-nantes/monte-meuble-demenagement-nantes/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/petit-demenagement-nantes/monte-meuble-demenagement-nantes/"
+  },
+  "outils-utiles-petit-demenagement-nantes": {
+    "file": "content/blog/satellites/outils-utiles-petit-demenagement-nantes.md",
+    "originalSlug": "outils-utiles-petit-demenagement-nantes",
+    "cleanSlug": "outils-utiles-petit-demenagement-nantes",
+    "category": "petit-demenagement-nantes",
+    "cleanCategory": "petit-demenagement-nantes",
+    "url": "/blog/petit-demenagement-nantes/outils-utiles-petit-demenagement-nantes/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/petit-demenagement-nantes/outils-utiles-petit-demenagement-nantes/"
+  },
+  "piano-ancien-collection-demenagement-nantes": {
+    "file": "content/blog/satellites/piano-ancien-collection-demenagement-nantes.md",
+    "originalSlug": "piano-ancien-collection-demenagement-nantes",
+    "cleanSlug": "piano-ancien-collection-demenagement-nantes",
+    "category": "demenagement-piano-nantes",
+    "cleanCategory": "demenagement-piano-nantes",
+    "url": "/blog/demenagement-piano-nantes/piano-ancien-collection-demenagement-nantes/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/demenagement-piano-nantes/piano-ancien-collection-demenagement-nantes/"
+  },
+  "plateformes-aide-demenagement-nantes": {
+    "file": "content/blog/satellites/plateformes-aide-demenagement-nantes.md",
+    "originalSlug": "plateformes-aide-demenagement-nantes",
+    "cleanSlug": "plateformes-aide-demenagement-nantes",
+    "category": "aide-demenagement-nantes",
+    "cleanCategory": "aide-demenagement-nantes",
+    "url": "/blog/aide-demenagement-nantes/plateformes-aide-demenagement-nantes/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/aide-demenagement-nantes/plateformes-aide-demenagement-nantes/"
+  },
+  "preparation-piano-avant-demenagement-nantes": {
+    "file": "content/blog/satellites/preparation-piano-avant-demenagement-nantes.md",
+    "originalSlug": "preparation-piano-avant-demenagement-nantes",
+    "cleanSlug": "preparation-piano-avant-demenagement-nantes",
+    "category": "demenagement-piano-nantes",
+    "cleanCategory": "demenagement-piano-nantes",
+    "url": "/blog/demenagement-piano-nantes/preparation-piano-avant-demenagement-nantes/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/demenagement-piano-nantes/preparation-piano-avant-demenagement-nantes/"
+  },
+  "prix-demenagement-international-nantes": {
+    "file": "content/blog/satellites/prix-demenagement-international-nantes.md",
+    "originalSlug": "prix-demenagement-international-nantes",
+    "cleanSlug": "prix-demenagement-international-nantes",
+    "category": "demenagement-international-nantes",
+    "cleanCategory": "demenagement-international-nantes",
+    "url": "/blog/demenagement-international-nantes/prix-demenagement-international-nantes/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/demenagement-international-nantes/prix-demenagement-international-nantes/"
+  },
+  "prix-demenagement-pas-cher-nantes-2025": {
+    "file": "content/blog/satellites/prix-demenagement-pas-cher-nantes-2025.md",
+    "originalSlug": "prix-demenagement-pas-cher-nantes-2025",
+    "cleanSlug": "prix-demenagement-pas-cher-nantes-2025",
+    "category": "demenagement-pas-cher-nantes",
+    "cleanCategory": "demenagement-pas-cher-nantes",
+    "url": "/blog/demenagement-pas-cher-nantes/prix-demenagement-pas-cher-nantes-2025/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/demenagement-pas-cher-nantes/prix-demenagement-pas-cher-nantes-2025/"
+  },
+  "prix-garde-meuble-nantes-2025": {
+    "file": "content/blog/satellites/prix-garde-meuble-nantes-2025.md",
+    "originalSlug": "prix-garde-meuble-nantes-2025",
+    "cleanSlug": "prix-garde-meuble-nantes-2025",
+    "category": "garde-meuble-nantes",
+    "cleanCategory": "garde-meuble-nantes",
+    "url": "/blog/garde-meuble-nantes/prix-garde-meuble-nantes-2025/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/garde-meuble-nantes/prix-garde-meuble-nantes-2025/"
+  },
+  "tarif-horaire-porteur-demenagement-nantes": {
+    "file": "content/blog/satellites/tarif-horaire-porteur-demenagement-nantes.md",
+    "originalSlug": "tarif-horaire-porteur-demenagement-nantes",
+    "cleanSlug": "tarif-horaire-porteur-demenagement-nantes",
+    "category": "aide-demenagement-nantes",
+    "cleanCategory": "aide-demenagement-nantes",
+    "url": "/blog/aide-demenagement-nantes/tarif-horaire-porteur-demenagement-nantes/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/aide-demenagement-nantes/tarif-horaire-porteur-demenagement-nantes/"
+  },
+  "transport-maritime-vs-aerien-demenagement-nantes": {
+    "file": "content/blog/satellites/transport-maritime-vs-aerien-demenagement-nantes.md",
+    "originalSlug": "transport-maritime-vs-aerien-demenagement-nantes",
+    "cleanSlug": "transport-maritime-vs-aerien-demenagement-nantes",
+    "category": "demenagement-international-nantes",
+    "cleanCategory": "demenagement-international-nantes",
+    "url": "/blog/demenagement-international-nantes/transport-maritime-vs-aerien-demenagement-nantes/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/demenagement-international-nantes/transport-maritime-vs-aerien-demenagement-nantes/"
+  },
+  "transport-piano-longue-distance-nantes": {
+    "file": "content/blog/satellites/transport-piano-longue-distance-nantes.md",
+    "originalSlug": "transport-piano-longue-distance-nantes",
+    "cleanSlug": "transport-piano-longue-distance-nantes",
+    "category": "demenagement-piano-nantes",
+    "cleanCategory": "demenagement-piano-nantes",
+    "url": "/blog/demenagement-piano-nantes/transport-piano-longue-distance-nantes/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/demenagement-piano-nantes/transport-piano-longue-distance-nantes/"
+  },
+  "trouver-aide-demenagement-dernier-moment-nantes": {
+    "file": "content/blog/satellites/trouver-aide-demenagement-dernier-moment-nantes.md",
+    "originalSlug": "trouver-aide-demenagement-dernier-moment-nantes",
+    "cleanSlug": "trouver-aide-demenagement-dernier-moment-nantes",
+    "category": "aide-demenagement-nantes",
+    "cleanCategory": "aide-demenagement-nantes",
+    "url": "/blog/aide-demenagement-nantes/trouver-aide-demenagement-dernier-moment-nantes/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/aide-demenagement-nantes/trouver-aide-demenagement-dernier-moment-nantes/"
+  },
+  "vehicule-demenagement-international-nantes": {
+    "file": "content/blog/satellites/vehicule-demenagement-international-nantes.md",
+    "originalSlug": "vehicule-demenagement-international-nantes",
+    "cleanSlug": "vehicule-demenagement-international-nantes",
+    "category": "demenagement-international-nantes",
+    "cleanCategory": "demenagement-international-nantes",
+    "url": "/blog/demenagement-international-nantes/vehicule-demenagement-international-nantes/",
+    "fullUrl": "https://devis-demenageur-nantes.fr/blog/demenagement-international-nantes/vehicule-demenagement-international-nantes/"
+  }
+}

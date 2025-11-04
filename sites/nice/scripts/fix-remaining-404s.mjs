@@ -154,3 +154,4 @@ console.log(`   - /blog/demenagement-etudiant-nice/: ${patternCounts['etudiant-i
 console.log(`   - Catégories vides: ${patternCounts['empty-category']}`);
 
 
+

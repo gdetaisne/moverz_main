@@ -287,10 +287,10 @@ La métropole nantaise facilite votre recherche avec des centres bien répartis 
 ## 🔗 Pour aller plus loin
 
 **Guides complémentaires utiles :**
-- [Déménageur professionnel à Nantes](/blog/demenageur-nantes/demenageur-nantes-guide-complet) : trouver une entreprise pour gérer transport et stockage
-- [Déménagement pas cher à Nantes](/blog/demenagement-pas-cher-nantes/demenagement-pas-cher-nantes-guide) : combiner stockage et déménagement économique
-- [Déménagement international](/blog/demenagement-international-nantes/demenagement-international-nantes-guide) : stockage temporaire lors d'un déménagement à l'étranger
-- [Petit déménagement](/blog/petit-demenagement-nantes/petit-demenagement-nantes-guide) : garde-meuble pour studio ou T1
+- [Déménageur professionnel à Nantes](/blog/demenagement-nantes/demenageur-nantes-guide) : trouver une entreprise pour gérer transport et stockage
+- [Déménagement pas cher à Nantes](/blog/demenagement-nantes/demenagement-pas-cher-nantes-guide) : combiner stockage et déménagement économique
+- [Déménagement international](/blog/demenagement-nantes/demenagement-international-nantes-guide) : stockage temporaire lors d'un déménagement à l'étranger
+- [Petit déménagement](/blog/demenagement-nantes/petit-demenagement-nantes-guide) : garde-meuble pour studio ou T1
 
 ---
 

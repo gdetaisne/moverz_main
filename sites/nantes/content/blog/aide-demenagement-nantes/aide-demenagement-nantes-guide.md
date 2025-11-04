@@ -177,7 +177,7 @@ Plusieurs dispositifs publics peuvent financer tout ou partie de votre déménag
 - Téléphone : 3230 (service gratuit + prix d'un appel local)
 - Adresse : CAF de Loire-Atlantique, plusieurs points d'accueil à Nantes
 
-Cette aide représente 70-100% du coût d'un déménagement standard pour un T3 familial, c'est considérable ! Pour optimiser davantage vos économies, combinez cette aide avec les astuces de notre [guide déménagement pas cher Nantes](/blog/demenagement-pas-cher-nantes/demenagement-pas-cher-nantes-guide).
+Cette aide représente 70-100% du coût d'un déménagement standard pour un T3 familial, c'est considérable ! Pour optimiser davantage vos économies, combinez cette aide avec les astuces de notre [guide déménagement pas cher Nantes](/blog/demenagement-nantes/demenagement-pas-cher-nantes-guide).
 
 ### Mobili-Pass (Action Logement)
 
@@ -486,8 +486,8 @@ Que vous optiez pour un déménageur professionnel nantais qui gère tout, une f
 ## 🔗 Pour aller plus loin
 
 **Guides complémentaires utiles :**
-- [Déménagement pas cher](/blog/demenagement-pas-cher-nantes/demenagement-pas-cher-nantes-guide) : Économiser avec aide particuliers
-- [Déménageur professionnel](/blog/demenageur-nantes/demenageur-nantes-guide-complet) : Comparer avec pro
+- [Déménagement pas cher](/blog/demenagement-nantes/demenagement-pas-cher-nantes-guide) : Économiser avec aide particuliers
+- [Déménageur professionnel](/blog/demenagement-nantes/demenageur-nantes-guide) : Comparer avec pro
 ## FAQ : Aide Déménagement à Nantes
 
 ### Quelles aides financières pour déménager à Nantes ?

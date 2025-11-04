@@ -202,7 +202,7 @@ Cuisine équipée, bibliothèque sur-mesure, installation électrique complexe p
 | **Standard** | 1 000 - 1 500€ |
 | **Clé en main** | 1 400 - 2 100€ |
 
-Pour découvrir toutes les astuces permettant d'optimiser ces coûts, consultez notre [guide déménageur pas cher Rouen](/blog/demenageur-rouen-pas-cher/demenageur-rouen-pas-cher-guide).
+Pour découvrir toutes les astuces permettant d'optimiser ces coûts, consultez notre [guide déménageur pas cher Rouen](/blog/demenagement-rouen/demenageur-rouen-pas-cher-guide).
 
 **Durée de prestation :** 6-8 heures  
 **Équipe type :** 3 déménageurs + camion 30m³
