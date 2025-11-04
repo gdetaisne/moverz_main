@@ -123,7 +123,7 @@ Les prix des garde-meubles à Nantes varient de 22 à 167€ par mois en 2025, a
 
 Avec six acteurs présents et une forte concurrence, le marché nantais propose des solutions pour tous les profils : de l'étudiant stockant 15 cartons à 22€/mois, à la famille nécessitant 14m² à 167€ pour une maison complète. Prenez le temps de comparer les offres, visitez les centres avant de vous engager, et n'hésitez pas à négocier sur les locations longue durée.
 
-Pour aller plus loin, explorez notre [guide complet du garde-meuble à Nantes](/blog/demenagement-nantes/garde-meuble-nantes-guide) qui détaille tous les aspects du stockage : sécurité, assurance, accès, et conseils d'optimisation. Vous pouvez également consulter nos guides sur l'[assurance garde-meuble](/blog/garde-meuble-nantes/assurance-garde-meuble-nantes) et la [durée minimum de location](/blog/garde-meuble-nantes/duree-minimum-garde-meuble-nantes).
+Pour aller plus loin, explorez notre [guide complet du garde-meuble à Nantes](/blog/demenagement-nantes/garde-meuble-nantes-guide) qui détaille tous les aspects du stockage : sécurité, assurance, accès, et conseils d'optimisation. Vous pouvez également consulter nos guides sur l'[assurance garde-meuble](/blog/garde-meuble-nantes/assurance-garde-meuble-nantes-obligatoire) et la [durée minimum de location](/blog/garde-meuble-nantes/duree-minimum-garde-meuble-nantes).
 
 ## Questions Fréquentes
 

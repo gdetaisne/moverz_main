@@ -57,20 +57,23 @@ function analyzeMarkdownFile(filePath) {
   const { data } = matter(content);
   
   const fileName = path.basename(filePath, '.md');
+  // Utiliser slug frontmatter si présent, sinon nom fichier (comme blog.ts ligne 124)
+  const originalSlug = data.slug || fileName;
   const category = data.category || 'default';
   
   // Appliquer CATEGORY_MAPPING
   const cleanCategory = CATEGORY_MAPPING[category] || category;
   
   // Appliquer cleanSlug
-  const slug = cleanSlug(fileName);
+  const slug = cleanSlug(originalSlug);
   
   // Construire l'URL
   const url = `/blog/${cleanCategory}/${slug}/`;
   
   return {
     file: filePath.replace(root, ''),
-    originalSlug: fileName,
+    fileName: fileName,
+    originalSlug: originalSlug,
     cleanSlug: slug,
     category,
     cleanCategory,

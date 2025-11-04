@@ -36,7 +36,7 @@ Tous nos guides pour déménager à l'étranger depuis Nantes :
 
 ### Transport
 - [Groupage international](/blog/demenagement-international-nantes/groupage-international-demenagement-nantes) : Économiser en groupage
-- [Maritime vs Aérien](/blog/demenagement-international-nantes/transport-maritime-vs-aerien-demenagement-nantes) : Quel mode choisir ?
+- [Maritime vs Aérien](/blog/demenagement-international-nantes/transport-maritime-aerien-demenagement-international-nantes) : Quel mode choisir ?
 - [Expédier un véhicule](/blog/demenagement-international-nantes/vehicule-demenagement-international-nantes) : Voiture à l'étranger
 
 

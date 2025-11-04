@@ -24,12 +24,12 @@ Découvrez nos guides spécialisés pour réduire le coût de votre déménageme
 ### Prix et Comparatifs
 - [Prix déménagement pas cher Nantes 2025](/blog/demenagement-pas-cher-nantes/prix-demenagement-pas-cher-nantes-2025) : Tarifs réels et fourchettes
 - [Astuces pour réduire les coûts](/blog/demenagement-pas-cher-nantes/astuces-reduire-cout-demenagement-nantes) : 10 conseils pratiques
-- [Comparatif des formules économiques](/blog/demenagement-pas-cher-nantes/comparatif-formules-economiques-nantes) : Quelle option choisir ?
+- [Comparatif des formules économiques](/blog/demenagement-pas-cher-nantes/comparatif-formules-economiques-demenagement-nantes) : Quelle option choisir ?
 - [Formule économique vs standard](/blog/demenagement-pas-cher-nantes/demenagement-economique-vs-standard-nantes) : Différences et choix
 
 ### Optimiser le Budget
-- [Déménager en basse saison](/blog/demenagement-pas-cher-nantes/basse-saison-demenagement-nantes) : Économisez 20-30%
-- [Semaine vs Week-end](/blog/demenagement-pas-cher-nantes/demenagement-semaine-vs-weekend-nantes) : Quel jour est moins cher ?
+- [Déménager en basse saison](/blog/demenagement-pas-cher-nantes/basse-saison-demenagement-nantes-economies) : Économisez 20-30%
+- [Semaine vs Week-end](/blog/demenagement-pas-cher-nantes/demenagement-semaine-weekend-nantes-prix) : Quel jour est moins cher ?
 - [Où trouver des cartons gratuits](/blog/demenagement-pas-cher-nantes/cartons-gratuits-nantes-demenagement) : Points de collecte
 - [Emballage DIY](/blog/petit-demenagement-nantes/emballage-diy-demenagement-nantes) : Techniques économiques
 

@@ -40,10 +40,10 @@ Pour approfondir chaque aspect du stockage à Nantes, consultez nos guides spéc
 
 ### Accès et Services
 - [Accès et horaires](/blog/garde-meuble-nantes/acces-garde-meuble-nantes-horaires) : 24/7 ou limité ?
-- [Assurance garde-meuble](/blog/garde-meuble-nantes/assurance-garde-meuble-nantes) : Protection obligatoire ?
+- [Assurance garde-meuble](/blog/garde-meuble-nantes/assurance-garde-meuble-nantes-obligatoire) : Protection obligatoire ?
 
 ### Solutions Spécifiques
-- [Garde-meuble étudiant](/blog/garde-meuble-nantes/garde-meuble-etudiant-nantes) : Offres adaptées aux étudiants
+- [Garde-meuble étudiant](/blog/garde-meuble-nantes/garde-meuble-etudiant-nantes-pas-cher) : Offres adaptées aux étudiants
 
 ## Pourquoi avoir besoin d'un garde-meuble à Nantes ?
 
