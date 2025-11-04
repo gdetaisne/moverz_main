@@ -21,7 +21,7 @@ Le coût d'un monte-meuble à Rouen varie de **180€ à 350€** selon la haute
 
 Un témoignage client rouennais illustre son utilisation : "Notre déménagement d'un T2 du quartier Saint-Marc vers Pasteur nous a coûté 850€ avec TDN Déménagements. 3ème étage sans ascenseur côté départ, ils ont utilisé un monte-meuble (environ +200€ sur le devis). Prestation nickel, canapé et armoires montés par fenêtre en 45 minutes, bien plus simple que les escaliers impossibles" (Google Avis TDN, 15 août 2024).
 
-Ce guide détaille les **situations nécessitant un monte-meuble à Rouen**, les tarifs pratiqués par acteur, le fonctionnement de l'équipement, et les quartiers particulièrement concernés. Pour une vue complète, consultez [notre guide du déménageur à Rouen](/blog/demenageur/demenageur-rouen-guide-complet).
+Ce guide détaille les **situations nécessitant un monte-meuble à Rouen**, les tarifs pratiqués par acteur, le fonctionnement de l'équipement, et les quartiers particulièrement concernés. Pour une vue complète, consultez [notre guide du déménageur à Rouen](/blog/demenagement-rouen/demenageur-rouen-guide-complet).
 
 ## Quand le Monte-Meuble Devient Nécessaire
 
@@ -196,7 +196,7 @@ Le monte-meuble devient nécessaire à Rouen dans le centre historique (escalier
 
 Les déménageurs équipés à Rouen (TDN 2 camions dédiés, Demeco et Postel 1 camion chacun) proposent systématiquement cette option lors de la visite technique si escaliers < 90cm large ou tournants impossibles. Le témoignage client "T2 Saint-Marc 850€ dont 200€ monte-meuble 3ème étage TDN" illustre l'usage standard. Refuser le monte-meuble par économie = risque blocage jour J (meuble coincé, abandon ou démontage complet = surcoût > 200€ économisés).
 
-Quartiers à forte probabilité monte-meuble : Vieux-Marché (90-100%), Cathédrale (90-100%), Saint-Marc (70-80%), Beauvoisine (60-70%). Quartiers faibles : périphérie moderne Sotteville/Petit-Quevilly/Plateau St-Gervais (5-15%, immeubles ascenseurs). Découvrez tous nos [services déménagement à Rouen](/blog/demenageur/demenageur-rouen-guide-complet) et [tarifs détaillés](/blog/prix/prix-demenageur-rouen-2025).
+Quartiers à forte probabilité monte-meuble : Vieux-Marché (90-100%), Cathédrale (90-100%), Saint-Marc (70-80%), Beauvoisine (60-70%). Quartiers faibles : périphérie moderne Sotteville/Petit-Quevilly/Plateau St-Gervais (5-15%, immeubles ascenseurs). Découvrez tous nos [services déménagement à Rouen](/blog/demenagement-rouen/demenageur-rouen-guide-complet) et [tarifs détaillés](/blog/demenagement-rouen/prix-demenageur-rouen-2025).
 
 ## Questions Fréquentes
 
