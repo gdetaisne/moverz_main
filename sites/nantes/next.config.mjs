@@ -118,30 +118,9 @@ const nextConfig = {
       { source: '/blog/demenageur/demenageur-guide-complet', destination: '/blog/demenageur-nantes/demenageur-nantes-guide-complet', permanent: true },
       { source: '/blog/garde-meuble/garde-meuble-guide-complet', destination: '/blog/garde-meuble-nantes/garde-meuble-nantes-guide-complet', permanent: true },
 
-      // MAUVAIS DOSSIERS (articles dans piliers au lieu de satellites)
-      { source: '/blog/garde-meuble-nantes/prix-garde-meuble-nantes-2025', destination: '/blog/satellites/prix-garde-meuble-2025-nantes', permanent: true },
-      { source: '/blog/demenageur-nantes/monte-meuble-demenagement-nantes', destination: '/blog/satellites/monte-meuble-demenagement-nantes', permanent: true },
-      { source: '/blog/aide-demenagement-nantes/satellites/trouver-aide-demenagement-dernier-moment-nantes', destination: '/blog/satellites/trouver-aide-demenagement-dernier-moment-nantes', permanent: true },
-      { source: '/blog/demenagement-international-nantes/demenagement-nantes-uk-post-brexit', destination: '/blog/satellites/demenagement-uk-post-brexit-nantes', permanent: true },
-      { source: '/blog/demenagement-international-nantes/demenagement-nantes-asie', destination: '/blog/satellites/demenagement-asie-nantes', permanent: true },
-      { source: '/blog/demenageur-nantes/demenagement-objets-lourds-nantes', destination: '/blog/satellites/demenagement-objets-lourds-nantes', permanent: true },
-      { source: '/blog/demenageur-nantes/demenageur-nantes-guide-complet', destination: '/blog/demenageur-nantes/demenageur-nantes-guide-complet', permanent: true },
-      { source: '/blog/garde-meuble-nantes/garde-meuble-etudiant-nantes', destination: '/blog/satellites/garde-meuble-etudiant-nantes', permanent: true },
-      { source: '/blog/demenagement-international-nantes/demenagement-international-nantes-guide', destination: '/blog/demenagement-international-nantes/demenagement-international-nantes-guide', permanent: true },
-      { source: '/blog/demenagement-international-nantes/demenagement-nantes-usa-canada', destination: '/blog/satellites/demenagement-usa-canada-nantes', permanent: true },
-      { source: '/blog/demenagement-piano-nantes/demenagement-piano-etages-sans-ascenseur-nantes', destination: '/blog/satellites/demenagement-piano-etages-sans-ascenseur-nantes', permanent: true },
-      { source: '/blog/garde-meuble-nantes/garde-meuble-pas-cher-nantes', destination: '/blog/satellites/garde-meuble-pas-cher-nantes', permanent: true },
-      { source: '/blog/garde-meuble-nantes/garde-meuble-nantes-guide-complet', destination: '/blog/garde-meuble-nantes/garde-meuble-nantes-guide-complet', permanent: true },
-      { source: '/blog/aide-demenagement-nantes/satellites/plateformes-aide-demenagement-nantes', destination: '/blog/satellites/plateformes-aide-demenagement-nantes', permanent: true },
-      { source: '/blog/aide-demenagement-nantes/aide-demenagement-nantes-guide', destination: '/blog/aide-demenagement-nantes/aide-demenagement-nantes-guide', permanent: true },
-      { source: '/blog/demenagement-piano-nantes/demenagement-piano-nantes-prix', destination: '/blog/satellites/demenagement-piano-prix-nantes', permanent: true },
-      { source: '/blog/demenagement-pas-cher-nantes/comparatif-formules-economiques-nantes', destination: '/blog/satellites/comparatif-formules-economiques-nantes', permanent: true },
-      { source: '/blog/demenagement-piano-nantes/demenagement-piano-nantes-guide', destination: '/blog/demenagement-piano-nantes/demenagement-piano-nantes-guide', permanent: true },
-      { source: '/blog/demenagement-piano-nantes/demenagement-piano-queue-nantes', destination: '/blog/satellites/demenagement-piano-queue-nantes', permanent: true },
-      { source: '/blog/demenagement-pas-cher-nantes/prix-demenagement-pas-cher-nantes-2025', destination: '/blog/satellites/prix-demenagement-pas-cher-2025-nantes', permanent: true },
-      { source: '/blog/demenagement-pas-cher-nantes/astuces-reduire-cout-demenagement-nantes', destination: '/blog/satellites/astuces-reduire-cout-demenagement-nantes', permanent: true },
-      { source: '/blog/demenagement-pas-cher-nantes/demenagement-pas-cher-nantes-guide', destination: '/blog/demenagement-pas-cher-nantes/demenagement-pas-cher-nantes-guide', permanent: true },
-      { source: '/blog/petit-demenagement-nantes/petit-demenagement-nantes-guide', destination: '/blog/petit-demenagement-nantes/petit-demenagement-nantes-guide', permanent: true },
+      // REDIRECTIONS SUPPRIMÉES (04/11/2025) - Créaient des 404s
+      // Les articles sont dans leurs vraies catégories, pas dans /blog/satellites/
+      // Voir: TASK-404-blog-nantes
 
       // QUARTIERS : Majuscules Nantes → nantes
 
