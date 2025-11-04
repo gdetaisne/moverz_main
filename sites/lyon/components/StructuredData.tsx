@@ -19,9 +19,9 @@ export default function StructuredData() {
         "url": city.siteUrl,
         "logo": {
           "@type": "ImageObject",
-          "url": `${city.siteUrl}/og-image.jpg`,
-          "width": 1200,
-          "height": 630
+          "url": `${city.siteUrl}/logo.png`,
+          "width": 512,
+          "height": 512
         },
         "description": "Comparateur de devis déménagement avec estimation IA par photos. Service gratuit, 5 devis personnalisés sous 7 jours.",
         "sameAs": [],

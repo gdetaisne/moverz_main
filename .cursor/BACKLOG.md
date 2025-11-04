@@ -274,6 +274,41 @@ Scripts automation créés (7 scripts) mais pas encore activés. Setup requis po
 
 ---
 
+### [P0] [Temps: 1.5-3h] [Qui: Guillaume] TASK-046 : Logo SERP / Favicons — CTR
+
+📁 **Doc** : `.cursor/tasks/[P0]-TASK-046-favicon-logo-serp/`
+
+**Type** : SEO CTR / Investigation + Fix multi‑sites (11 villes)
+
+**Objectif** : Faire apparaître systématiquement le logo (favicon) dans les résultats Google (organiques et Ads) pour augmenter le CTR.
+
+**Contexte** : Observé "sans logo" quasi systématique sur mobile (ex. rennais → requêtes Toulouse). Impact direct sur CTR et revenus.
+
+**Hypothèses à vérifier** :
+- Favicon servi à la racine (`/favicon.ico`) bien accessible (200, non bloqué robots), poids/format OK
+- Déclarations `<link rel="icon">` cohérentes (ajouter taille 48×48 explicite)
+- Manifest/apple-touch présents mais non requis — vérifier cohérence
+- JSON‑LD `Organization.logo` utilise `og-image.jpg` (1200×630, non carré) → à remplacer par logo carré (`logo.png`/`logo.svg`)
+
+**Actions** :
+- [ ] Audit 11 domaines : `curl -I https://<domaine>/favicon.ico` (200, type image/*, taille <100KB)
+- [ ] Vérifier présence `<link rel="icon" ... 48x48>` dans `app/layout.tsx` (11 villes)
+- [ ] Si manquant → ajouter icône 48×48 et 32×32 + conserver ICO
+- [ ] Mettre `Organization.logo` → image carrée (512×512) par ville
+- [ ] Tests mobiles réels (2 domaines) + capture
+
+**Definition of Done** :
+- [ ] 11/11 domaines : favicon 200 à la racine + `<link rel="icon">` 48×48 présent
+- [ ] `Organization.logo` carré et accessible 200
+- [ ] Preuves: captures Google (2 requêtes × 2 sites) avec logo affiché
+- [ ] Documentation + SHAs consignés
+
+**Raison (priorisation)** : Impact CTR direct et global (toutes requêtes), bénéfice immédiat sur leads → P0.
+
+**Statut** : 🔄 EN COURS (création tâche + analyse)
+
+---
+
 ## 🟠 SITEMAPS & INDEXATION
 
 ### [P1] [Temps: 1.5-2h] [Qui: Guillaume] TASK-028 : Sitemaps Consistency 11 villes

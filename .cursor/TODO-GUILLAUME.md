@@ -45,7 +45,19 @@
 
 ## 🔥 EN COURS MAINTENANT
 
-*Aucune tâche en cours*
+### [P0]-TASK-046 : Logo SERP / Favicons — CTR
+
+**Statut** : 🔄 EN COURS (analyse initiale)  
+**Temps estimé** : 1.5-3h  
+**Doc** : `.cursor/tasks/[P0]-TASK-046-favicon-logo-serp/`
+
+**Pourquoi** : Résultats Google sans logo → CTR en baisse sur 11 sites (mobile). Impact business direct → P0 exceptionnel (prioritaire malgré INCOMPLET).
+
+**Prochaines étapes** :
+1. Vérifier `GET /favicon.ico` (11 domaines)  
+2. Ajouter `<link rel="icon" sizes="48x48">` si manquant (11 villes)  
+3. Passer `Organization.logo` sur logo carré (512×512)  
+4. Tests mobiles + captures (2 sites)
 
 ---
 
