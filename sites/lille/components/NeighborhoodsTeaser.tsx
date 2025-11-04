@@ -3,11 +3,11 @@ import Link from "next/link";
 export default function NeighborhoodsTeaser() {
   // Quartiers populaires avec liens vers les pages zones desservies
   const picks = [
-    { title: "Vieux Lille", href: "/lille/vieux-lille" },
-    { title: "Centre", href: "/lille/centre" },
-    { title: "Wazemmes", href: "/lille/wazemmes" },
-    { title: "Moulins", href: "/lille/moulins" },
-    { title: "Lomme", href: "/lille/lomme" },
+    { title: "Vieux Lille", href: "/lille/vieux-lille/" },
+    { title: "Centre", href: "/lille/centre/" },
+    { title: "Wazemmes", href: "/lille/wazemmes/" },
+    { title: "Moulins", href: "/lille/moulins/" },
+    { title: "Lomme", href: "/lille/lomme/" },
   ];
   const items = [
     ...picks,
@@ -18,7 +18,7 @@ export default function NeighborhoodsTeaser() {
     <div>
       <div className="flex items-end justify-between">
         <h2 className="text-2xl md:text-3xl font-semibold text-white">Zones couvertes</h2>
-        <Link href="/quartiers-lille" className="text-sm text-[#6bcfcf] underline">Voir tous les quartiers</Link>
+        <Link href="/quartiers-lille/" className="text-sm text-[#6bcfcf] underline">Voir tous les quartiers</Link>
       </div>
       <div className="mt-6 grid gap-4 md:grid-cols-5">
         {items.map((p) => (

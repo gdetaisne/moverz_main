@@ -3,11 +3,11 @@ import Link from "next/link";
 export default function NeighborhoodsTeaser() {
   // Quartiers populaires avec liens vers les pages zones desservies
   const picks = [
-    { title: "Centre-ville", href: "/rouen/centre-ville" },
-    { title: "Saint-Marc", href: "/rouen/saint-marc" },
-    { title: "Joli-Mai", href: "/rouen/joli-mai" },
-    { title: "Coteaux-Sud", href: "/rouen/coteaux-sud" },
-    { title: "Saint-Sever", href: "/rouen/saint-sever" },
+    { title: "Centre-ville", href: "/rouen/centre-ville/" },
+    { title: "Saint-Marc", href: "/rouen/saint-marc/" },
+    { title: "Joli-Mai", href: "/rouen/joli-mai/" },
+    { title: "Coteaux-Sud", href: "/rouen/coteaux-sud/" },
+    { title: "Saint-Sever", href: "/rouen/saint-sever/" },
   ];
   const items = [
     ...picks,
@@ -18,7 +18,7 @@ export default function NeighborhoodsTeaser() {
     <div>
       <div className="flex items-end justify-between">
         <h2 className="text-2xl md:text-3xl font-semibold text-white">Zones couvertes</h2>
-        <Link href="/quartiers-rouen" className="btn-secondary px-4 py-2 text-sm">Voir tous les quartiers</Link>
+        <Link href="/quartiers-rouen/" className="btn-secondary px-4 py-2 text-sm">Voir tous les quartiers</Link>
       </div>
       <div className="mt-6 grid gap-4 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5">
         {items.map((p) => (
