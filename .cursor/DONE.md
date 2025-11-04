@@ -7,13 +7,62 @@
 
 ## 📊 Statistiques
 
-- **Total tâches finalisées** : 11
+- **Total tâches finalisées** : 12
 - **Octobre 2025** : 5
-- **Novembre 2025** : 6
+- **Novembre 2025** : 7
 
 ---
 
 ## ✅ Novembre 2025
+
+### ✅ TASK-011 : Fix 308 Redirections Nice + Deployment
+
+**Finalisée le** : 04 novembre 2025  
+**Type** : Bugfix / Deployment  
+**Priorité** : P0  
+**Assigné** : Guillaume
+
+**Temps estimé** : 2h  
+**Temps réel** : 2h10 (investigation + fix + validation)
+
+📁 **Documentation** : `.cursor/tasks/[P0]-TASK-011-fix-308-nice/`
+
+**Résumé** :
+Résolution de 11 pages Nice retournant 308 Permanent Redirect au lieu de 200 OK après déploiement. Problème identifié : configuration SITE_URL incohérente entre Dockerfile, captain-definition, .caproverenv et env.ts + cache Docker non invalidé. Fix appliqué sur 5 commits avec force invalidation cache et tests finaux validés après redéploiement complet 11 sites.
+
+**Problème** :
+- 11 pages critiques (services, quartiers, corridors, légales) → 308
+- Impact SEO : Déindexation potentielle Google
+- Impact business : Perte leads Nice (-26% pages accessibles)
+
+**Solution** :
+- Fix SITE_URL cohérent (Dockerfile, captain-definition, .caproverenv)
+- Force invalidation cache Docker (timestamp unique)
+- Correction env.ts validation SITE_URL
+
+**Livrables** :
+- 5 commits GitHub (fix deployment + cache)
+- Documentation complète (README, progress, commits)
+- Tests validation 11 pages (03/11 + 04/11)
+
+**Impact** :
+- 11/11 pages Nice → HTTP 200 ✅
+- 0 pages 308 (vs 11 avant)
+- Nice réindexée correctement Google
+- Méthode documentée pour futures issues déploiement
+
+**Commits** : `615682ad`, `e008dfa8`, `1291630d`, `92e01c15`, `b2f587c3`
+
+**Tests validation** :
+- Session 1 (03/11) : 11/11 pages → 200 OK
+- Session 2 (04/11 après redéploiement) : 11/11 pages → 200 OK
+
+**Definition of Done** :
+- [x] 1. Fix appliqué et documenté
+- [x] 2. Sur GitHub main (5 commits)
+- [x] 3. Testé live Nice - 11 pages → 200 OK (validé 2x)
+
+---
 
 ### ✅ TASK-404-ALL-CITIES : Correction Massive 404s - 11 villes (1713 liens)
 

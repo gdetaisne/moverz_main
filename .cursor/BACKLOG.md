@@ -306,49 +306,6 @@ Scripts automation créés (7 scripts) mais pas encore activés. Setup requis po
 
 ## 🔄 EN COURS (à finaliser)
 
-### [P0] [Temps: ~90% fait] [Qui: Guillaume] TASK-011 : Fix 308 Redirections Nice + Deployment
-
-📁 **Doc** : `.cursor/tasks/[P0]-TASK-011-fix-308-nice/`
-
-**Type** : Bugfix / Deployment
-
-**Contexte / Pourquoi** :
-11 pages Nice retournent 308 après déploiement (services, quartiers, corridors, pages légales). Problème de cache Docker CapRover ou commit déployé différent.
-
-**Diagnostic** :
-- Tests : 30/41 réussis (73.2%) vs 42% avant
-- 11 pages → 308 au lieu de 200
-- Fichiers existent en local ✅
-- Commit remote = local ✅
-- Hypothèse : Cache Docker
-
-**Changements apportés** :
-- Diagnostic complet effectué
-- Solutions identifiées (force rebuild, invalidation cache)
-- Fix deployment (SITE_URL, Dockerfile, .caproverenv)
-
-**Commits GitHub** :
-- [x] #615682ad : Fix captain-definition + Dockerfile Nice SITE_URL
-- [x] #e008dfa8 : Ajout .caproverenv Nice avec SITE_URL
-- [x] #1291630d : Correction SITE_URL env.ts Nice
-- [x] #92e01c15 : Invalider cache Docker + ENV SITE_URL base stage
-- [x] #b2f587c3 : Force invalidation cache Docker timestamp unique
-
-**Sites à tester** :
-- [ ] Nice : Vérifier 11 pages retournent 200 (pas 308)
-- [ ] Valider déploiement CapRover OK
-
-**Definition of Done** :
-- [ ] 1. Fix appliqué et documenté
-- [x] 2. Sur GitHub main (5 commits)
-- [ ] 3. Testé live Nice - 11 pages → 200 OK
-
-**Statut** : 🔄 EN COURS (fix fait, tests deployment à valider)
-
-**Démarrée le** : 31 octobre 2025
-
----
-
 ### [P1] [Temps: ~85% fait] [Qui: Associée] TASK-012 : Correction Global Villes Hardcodées
 
 📁 **Doc** : `.cursor/tasks/[P1]-TASK-012-villes-hardcodees/`
@@ -623,9 +580,8 @@ Voir DONE.md
 - 📋 3 tâches P2 restantes : Lille (28 liens), Toulouse (19 liens), Strasbourg (2 liens)
 - 📋 2 tâches optionnelles : TASK-404-07 (redirections 301), TASK-404-08 (homepage)
 
-**🔴 PRIORITÉ CRITIQUE** : 4 tâches Tier 1 (5h30)
-- TASK-011 : Fix 308 Nice (P0, 90% fait, 30min) ← **URGENT**
-- TASK-006 : Migration Canonicals bugs (P0, 95% fait, 2h30)
+**🔴 PRIORITÉ CRITIQUE** : 3 tâches Tier 1 (5h)
+- TASK-006 : Migration Canonicals bugs (P0, 95% fait, 2h30) ← **PROCHAINE**
 - TASK-012 : Villes hardcodées tests (P0, 85% fait, 30min)
 - TASK-028 : Sitemaps consistency (P0 SEO, 1.5-2h)
 
