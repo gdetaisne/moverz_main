@@ -51,7 +51,7 @@ Alternatives rémunération cash : repas restaurant post-déménagement 30-60€
 
 **Réciprocité** : Aide leur déménagement futur (solidarité non-monétaire)
 
-Pour en savoir plus, consultez notre [guide aide déménagement entre particuliers Lyon](/blog/aide-demenagement-lyon/aide-demenagement-entre-particuliers-lyon/) et notre [guide des déménageurs professionnels Lyon](/blog/demenageur-lyon/demenageur-lyon-guide-complet/).
+Pour en savoir plus, consultez notre [guide aide déménagement entre particuliers Lyon](/blog/aide-demenagement-lyon/aide-demenagement-entre-particuliers-lyon/) et notre [guide des déménageurs professionnels Lyon](/blog/demenagement-lyon/demenageur-lyon-guide/).
 
 ## FAQ : Rémunération Amis Déménagement Lyon
 

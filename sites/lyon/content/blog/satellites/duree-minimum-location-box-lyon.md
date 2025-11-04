@@ -79,7 +79,7 @@ Pour **résilier**, envoyez un email ou lettre recommandée AR avec **préavis d
 
 Oui, la **location sans engagement** se prolonge **automatiquement** mois par mois tant que vous ne résiliez pas. Aucune démarche nécessaire, prélèvement/facturation continue. Vous pouvez garder votre box 1 mois comme 36 mois sans ré-engagement. Avantage : flexibilité totale (résiliez quand vous voulez avec 1 mois préavis). Si vos besoins deviennent long terme (>12 mois), demandez conversion vers engagement pour bénéficier rétroactivement de -10-15% (certains acteurs acceptent).
 
-Consultez notre [guide complet garde-meuble Lyon](/blog/garde-meuble-lyon/garde-meuble-lyon-guide-complet/) et notre [guide prix Lyon](/blog/garde-meuble-lyon/prix-garde-meuble-lyon-2025/).
+Consultez notre [guide complet garde-meuble Lyon](/blog/demenagement-lyon/garde-meuble-lyon-guide/) et notre [guide prix Lyon](/blog/garde-meuble-lyon/prix-garde-meuble-lyon-2025/).
 
 ---
 

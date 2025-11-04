@@ -53,7 +53,7 @@ Le **Vieux-Lyon (5ème arrondissement) est le quartier le plus cher** (+30-50% v
 
 Ces aides sont **cumulables** sous conditions. Exemple alternant : Mobili-Pass 3500€ + CROUS 250€ si étudiant = 3750€ total. Famille salariée : CAF 995€ + Mobili-Pass 3500€ = 4495€. Délais : 2-6 semaines selon dispositif. Contacts Lyon : Action Logement 42 Rue Part-Dieu, CAF Gerland/Part-Dieu, CROUS 59 Rue Madeleine.
 
-[Guide aides complètes →](/blog/demenagement-lyon-pas-cher/aides-financieres-demenagement-lyon)
+[Guide déménagement économique →](/blog/demenagement-lyon/demenagement-lyon-pas-cher-guide)
 
 ### 5. Comment obtenir le Mobili-Pass à Lyon ?
 
@@ -183,7 +183,7 @@ Cette FAQ déménagement économique Lyon 2025 répond aux 20 questions essentie
 
 Les spécificités lyonnaises (Vieux-Lyon +30-50%, Villeurbanne -5-10%, 170 000 étudiants saturant septembre) imposent stratégies adaptées : anticiper réservation mi-juillet si déménagement fin août, privilégier quartiers accès faciles (Monplaisir, Confluence), récupérer 30-40 cartons gratuits supermarchés (Carrefour, Auchan, Leclerc), cumuler aides (CROUS + université = 300-700€).
 
-Pour approfondir chaque thème, consultez nos guides détaillés : [prix Lyon 2025](/blog/demenagement-lyon-pas-cher/prix-demenagement-pas-cher-lyon-2025), [solutions économiques](/blog/demenagement-lyon/demenagement-lyon-pas-cher-guide), [aides financières](/blog/demenagement-lyon-pas-cher/aides-financieres-demenagement-lyon). **Bon déménagement économique à Lyon !**
+Pour approfondir chaque thème, consultez nos guides détaillés : [prix Lyon 2025](/blog/demenagement-lyon-pas-cher/prix-demenagement-pas-cher-lyon-2025) et [solutions économiques](/blog/demenagement-lyon/demenagement-lyon-pas-cher-guide). **Bon déménagement économique à Lyon !**
 
 ---
 

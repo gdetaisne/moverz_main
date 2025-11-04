@@ -245,7 +245,7 @@ Déménager à Lyon en tant qu'étudiant avec un budget serré exige anticipatio
 
 Les aides financières (CROUS 200-300€, universités 100-400€, Mobili-Pass alternants 3500€) couvrent partiellement les frais si vous êtes éligible. Le timing joue un rôle crucial : éviter fin août économise 100-200€ et évite le stress de la saturation. Les 170 000 étudiants lyonnais qui déménagent chaque année ont compris l'importance d'anticiper mi-juillet pour bénéficier des meilleurs tarifs et de la disponibilité.
 
-Pour compléter votre préparation, consultez [notre guide complet du déménagement économique à Lyon](/blog/demenagement-lyon/demenagement-lyon-pas-cher-guide) avec toutes les astuces pour maîtriser votre budget. Explorez aussi [les aides financières déménagement Lyon](/blog/demenagement-lyon-pas-cher/aides-financieres-demenagement-lyon) pour maximiser vos chances d'obtenir un soutien. Bon déménagement et bonne rentrée à Lyon !
+Pour compléter votre préparation, consultez [notre guide complet du déménagement économique à Lyon](/blog/demenagement-lyon/demenagement-lyon-pas-cher-guide) avec toutes les astuces pour maîtriser votre budget et les aides financières disponibles. Bon déménagement et bonne rentrée à Lyon !
 
 ---
 

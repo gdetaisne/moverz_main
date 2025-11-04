@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function NeighborhoodsTeaser() {
   // Quartiers populaires avec liens vers les pages zones desservies
   const picks = [
-    { title: "La Presqu'île", href: "/lyon/presqu-ile" },
+    { title: "La Presqu'île", href: "/lyon/presquile" },
     { title: "La Croix-Rousse", href: "/lyon/croix-rousse" },
     { title: "Vieux Lyon", href: "/lyon/vieux-lyon" },
     { title: "Part-Dieu", href: "/lyon/part-dieu" },
