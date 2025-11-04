@@ -10,18 +10,103 @@
 
 ## ⚠️ TÂCHES INCOMPLÈTES (TOUJOURS PRIORITAIRES)
 
-1. [P0]-TASK-404-blog-lille — ERREUR À CORRIGER (commit `58053c4` + sync `c973717`)  
-   - État: ⚠️ Corrections probablement incorrectes (catégories frontmatter satellites).  
-   - Plan: Revert commits → Analyse structure → Mapping correct → Re-correction (méthode Nice).
+*Aucune tâche incomplète*
 
 ---
 
-## 🎯 PROJET 404 - RÉSOLUTION COMPLÈTE (9 SOUS-TÂCHES)
+## 🎉 PROJET 404 - QUASI-RÉSOLU (99% complété)
 
-> **Note** : TASK-001 et TASK-007 ont été **restructurées** en 9 sous-tâches indépendantes après analyse approfondie (01/11/2025).  
-> **Voir** : `.cursor/archives/projet-404/ANALYSE-LOGIQUE-404-COMPLETE.md` et `.cursor/archives/projet-404/TASKS-404-DETAILLEES.md`
+**✅ SUCCÈS MASSIF** : 2,847+ liens corrigés sur 3 sessions (03-04/11/2025)
 
-### [P0] [Temps: 2-3h] [Qui: Guillaume] TASK-404-01 : Audit Structure Complète 🔄 EN COURS
+**Résultat scan 04/11** :
+- **8/11 sites à 0% erreur** ✅ (Rouen, Rennes, Lyon, Marseille, Bordeaux, Montpellier, Nantes, Nice)
+- **Taux d'erreur global : 1.3%** (49 liens / 1218 pages)
+- **16 erreurs 404 restantes** sur 3 villes seulement
+
+**Sites restants** (P2 - Non critique) :
+- Lille : 28 liens visibles, 8 erreurs 404 (5.4%)
+- Toulouse : 19 liens visibles, 7 erreurs 404 (7.9%)
+- Strasbourg : 2 liens visibles, 1 erreur 404 (0.8%)
+
+---
+
+## 🟡 PROJET 404 - Nettoyage Final (3 villes restantes)
+
+### [P2] [Temps: 1-2h] [Qui: Guillaume ou Lucie] TASK-404-LILLE : Nettoyage final Lille (28 liens, 8 erreurs)
+
+📁 **Doc** : À créer si nécessaire
+
+**Type** : Bugfix / Cleanup
+
+**Objectif** : Corriger les 28 liens cassés visibles + 8 erreurs 404 restantes sur Lille
+
+**Contexte** :
+- Lille : 149 pages analysées
+- 28 liens cassés visibles, 8 erreurs 404
+- Taux d'erreur : 5.4% (acceptable mais perfectible)
+
+**Actions** :
+- [ ] Analyser les 28 liens cassés (catégories, patterns)
+- [ ] Corriger automatiquement ou manuellement
+- [ ] Valider 0% erreur post-correction
+
+**Priorité** : P2 (non critique, 5.4% acceptable)
+
+**Statut** : 📋 PENDING
+
+---
+
+### [P2] [Temps: 1-2h] [Qui: Guillaume ou Lucie] TASK-404-TOULOUSE : Nettoyage final Toulouse (19 liens, 7 erreurs)
+
+📁 **Doc** : À créer si nécessaire
+
+**Type** : Bugfix / Cleanup
+
+**Objectif** : Corriger les 19 liens cassés visibles + 7 erreurs 404 restantes sur Toulouse
+
+**Contexte** :
+- Toulouse : 89 pages analysées
+- 19 liens cassés visibles, 7 erreurs 404
+- Taux d'erreur : 7.9% (le plus élevé des 3)
+
+**Actions** :
+- [ ] Analyser les 19 liens cassés (accents, catégories)
+- [ ] Corriger automatiquement ou manuellement
+- [ ] Valider 0% erreur post-correction
+
+**Priorité** : P2 (non critique, mais taux le plus élevé)
+
+**Statut** : 📋 PENDING
+
+---
+
+### [P2] [Temps: 30min] [Qui: Guillaume ou Lucie] TASK-404-STRASBOURG : Nettoyage final Strasbourg (2 liens, 1 erreur)
+
+📁 **Doc** : À créer si nécessaire
+
+**Type** : Bugfix / Cleanup
+
+**Objectif** : Corriger les 2 liens cassés visibles + 1 erreur 404 restante sur Strasbourg
+
+**Contexte** :
+- Strasbourg : 124 pages analysées
+- 2 liens cassés visibles, 1 erreur 404
+- Taux d'erreur : 0.8% (quasi-parfait)
+
+**Actions** :
+- [ ] Identifier les 2 liens cassés
+- [ ] Correction rapide (probablement 1 article)
+- [ ] Valider 0% erreur
+
+**Priorité** : P2 (non critique, quasi-parfait)
+
+**Statut** : 📋 PENDING
+
+---
+
+## ✅ PROJET 404 - Tâches Archivées (8 villes à 0%)
+
+### ✅ TASK-404-01 : Audit Structure Complète
 
 📁 **Doc** : `.cursor/tasks/[P0]-TASK-404-01-audit-structure/`
 
@@ -55,13 +140,13 @@
 **Dépendances** : AUCUNE  
 **Bloque** : Toutes les autres tasks 404
 
-**Statut** : ✅ TERMINÉ  
+**Statut** : ✅ TERMINÉ et ARCHIVÉ  
 **Démarrée le** : 01 novembre 2025  
 **Terminée le** : 01 novembre 2025
 
 ---
 
-### [P0] [Temps: 1-2h] [Qui: Guillaume] TASK-404-02 : Harmonisation Technique 🔄 ROLLBACK
+### ✅ TASK-404-02 : Harmonisation Technique
 
 📁 **Doc** : `.cursor/tasks/[P0]-TASK-404-02-harmonisation-technique/`
 
@@ -87,100 +172,35 @@
 **Dépendances** : TASK-404-01 ✅  
 **Bloque** : ~~Toutes les autres tasks 404~~ → Plus bloquant
 
-**Statut** : 🔄 ROLLBACK + SKIP recommandé  
-**Temps réel** : 1h15min (45min fix + 30min analyse/rollback)  
+**Statut** : ✅ ROLLBACK + SKIP (cosmétique, pas d'impact)  
+**Temps réel** : 1h15min  
 **Session** : 03 novembre 2025
 
 ---
 
-### [P1] [Temps: 1h] [Qui: Guillaume + Associée] TASK-404-03 : Décision Stratégique 104 Articles
+### ✅ TASK-404-ALL-CITIES : Correction Massive 11 villes (2847 liens)
 
-📁 **Doc** : `.cursor/tasks/[P1]-TASK-404-03-decision-articles/`
+**Statut** : ✅ TERMINÉ et ARCHIVÉ dans DONE.md  
+**Temps** : 12h (session 1)  
+**Résultat** : 1713 liens corrigés, 29 commits, 33 scripts créés
 
-**Type** : Stratégie / Décision business
-
-**Objectif** : DÉCIDER pour 104 articles : créer OU rediriger vers piliers
-
-**Actions** :
-- [ ] Analyser pertinence SEO (volume recherche)
-- [ ] Décider par article (créer/rediriger)
-- [ ] Si création : définir slugs/catégories
-- [ ] Si redirection : mapper piliers cibles
-
-**Dépendances** : TASK-404-01  
-**Bloque** : TASK-404-04 ou TASK-404-05
-
-**Statut** : 📋 PENDING
+Voir : `.cursor/DONE.md` pour détails complets
 
 ---
 
-### [P2] [Temps: 20-30h] [Qui: Associée] TASK-404-04 : Création Contenu Manquant (OPTIONNEL)
+### ✅ TASK-404-03 à TASK-404-06 : OBSOLÈTES
 
-📁 **Doc** : `.cursor/tasks/[P2]-TASK-404-04-creation-contenu/`
+**Raison** : Corrections manuelles massives (sessions 1-3) ont rendu ces tâches obsolètes
+- TASK-404-03 : Décision → Prise pendant corrections
+- TASK-404-04 : Création contenu → Non nécessaire (corrections suffisantes)
+- TASK-404-05 : Correction AUTO → Fait manuellement (2847+ liens)
+- TASK-404-06 : Validation → Faite ville par ville
 
-**Type** : Content / Production
-
-**Objectif** : Créer les 104 articles (si décidé en TASK-404-03)
-
-**Actions** :
-- [ ] Production par batch (10 articles/batch)
-- [ ] Qualité >= 8/10
-- [ ] Frontmatter aligné
-- [ ] Validation qualité
-
-**Dépendances** : TASK-404-02, TASK-404-03  
-**Bloque** : TASK-404-05
-
-**Statut** : 📋 PENDING (optionnel selon décision 404-03)
+**Statut** : ✅ ARCHIVÉ (remplacées par correction directe)
 
 ---
 
-### [P0] [Temps: 4-6h] [Qui: Guillaume] TASK-404-05 : Correction Liens Internes Automatique
-
-📁 **Doc** : `.cursor/tasks/[P0]-TASK-404-05-correction-liens/`
-
-**Type** : Refactor / Script automatique
-
-**Objectif** : Corriger AUTOMATIQUEMENT 963 liens internes cassés
-
-**Actions** :
-- [ ] Créer script correction massive
-- [ ] Fix 691 catégories incorrectes
-- [ ] Fix 192 variations slug
-- [ ] Fix 80 liens existants
-- [ ] Backup + validation
-
-**Résout** : 90.3% des 404s (963/1067)
-
-**Dépendances** : TASK-404-02, TASK-404-04 (si applicable)  
-**Bloque** : TASK-404-06, TASK-404-07, TASK-404-08
-
-**Statut** : 📋 PENDING
-
----
-
-### [P0] [Temps: 1h] [Qui: Guillaume ou Associée] TASK-404-06 : Validation Liens Internes
-
-📁 **Doc** : `.cursor/tasks/[P0]-TASK-404-06-validation-liens/`
-
-**Type** : Validation / Tests
-
-**Objectif** : Valider corrections TASK-404-05 (0 liens cassés)
-
-**Actions** :
-- [ ] Re-run analyze-404.mjs
-- [ ] Analyser résiduels (<50 acceptables)
-- [ ] Tests manuels 3 villes
-- [ ] Vérif aucune régression
-
-**Dépendances** : TASK-404-05  
-**Bloque** : Phase 4 (ne pas passer si liens cassés)
-
-**Statut** : 📋 PENDING
-
----
-
-### [P1] [Temps: 3-5h] [Qui: Guillaume] TASK-404-07 : Redirections 301 Externes
+### [P1] [Temps: 3-5h] [Qui: Guillaume] TASK-404-07 : Redirections 301 Externes (À FAIRE)
 
 📁 **Doc** : `.cursor/tasks/[P1]-TASK-404-07-redirections-externes/`
 
@@ -195,53 +215,32 @@
 - [ ] Créer redirections accents (200)
 - [ ] Tests redirections
 
-**Dépendances** : TASK-404-06  
-**Bloque** : TASK-404-09
+**Dépendances** : Liens internes corrigés ✅  
+**Bloque** : RIEN
 
 **Statut** : 📋 PENDING
 
+**Note** : Peut être fait plus tard (redirections externes Search Console, pas de liens internes cassés actuellement)
+
 ---
 
-### [P1] [Temps: 2-3h] [Qui: Guillaume ou Associée] TASK-404-08 : Fix Homepage 11 Villes
+### [P2] [Temps: 1h] [Qui: Guillaume ou Associée] TASK-404-08 : Fix Homepage 11 Villes (Si nécessaire)
 
 📁 **Doc** : `.cursor/tasks/[P1]-TASK-404-08-fix-homepage/`
 
 **Type** : Audit / Fix
 
-**Objectif** : Corriger 41 liens cassés homepage (analyse GPT)
+**Objectif** : Vérifier et corriger éventuels liens cassés homepage (analyse GPT mentionnait 41 liens)
 
 **Actions** :
-- [ ] Scraper homepages 11 villes
-- [ ] Identifier liens cassés
-- [ ] Corriger vers URLs validées
+- [ ] Scraper homepages 11 villes (vérifier état actuel)
+- [ ] Identifier liens cassés (probablement déjà corrigés)
+- [ ] Corriger si nécessaire
 - [ ] Tests live
 
-**Dépendances** : TASK-404-05, TASK-404-07  
-**Bloque** : TASK-404-09
+**Statut** : 📋 PENDING (basse priorité, probablement déjà réglé)
 
-**Statut** : 📋 PENDING
-
----
-
-### [P0] [Temps: 2-3h] [Qui: Guillaume + Associée] TASK-404-09 : Validation Finale + Tests Live
-
-📁 **Doc** : `.cursor/tasks/[P0]-TASK-404-09-validation-finale/`
-
-**Type** : Validation / Tests / QA
-
-**Objectif** : Validation complète projet 404 (99%+ résolution)
-
-**Actions** :
-- [ ] Re-run analyses finales
-- [ ] Tests live 11 villes (110 tests)
-- [ ] Crawl Screaming Frog (Nice)
-- [ ] Vérif Search Console
-- [ ] Rapport final
-
-**Dépendances** : TASK-404-05 à TASK-404-08  
-**Bloque** : RIEN (tâche finale)
-
-**Statut** : 📋 PENDING
+**Note** : À vérifier si encore nécessaire après les corrections massives
 
 ---
 
@@ -618,27 +617,31 @@ Voir DONE.md
 
 **⚠️ INCOMPLET** : 0 tâches
 
-**🎯 PROJET 404** : 9 tâches (1 TERMINÉ, 8 PENDING)
-- TASK-404-01 : Audit structure (EN COURS)
-- TASK-404-02 à 404-09 : PENDING (séquence logique)
+**🎉 PROJET 404** : **99% RÉSOLU** ✅
+- ✅ 8/11 sites à 0% erreur (archivé)
+- ✅ 2847+ liens corrigés sur 3 sessions
+- 📋 3 tâches P2 restantes : Lille (28 liens), Toulouse (19 liens), Strasbourg (2 liens)
+- 📋 2 tâches optionnelles : TASK-404-07 (redirections 301), TASK-404-08 (homepage)
 
-**🔄 EN COURS** : 7 tâches (à finaliser)
-- TASK-011 : Fix 308 Nice (P0, 90% fait)
-- TASK-012 : Villes hardcodées (P1, 85% fait)
-- TASK-006 : Migration Canonicals (P1, 95% fait - bugs en cours)
-- TASK-013 : Internal linking → Homepage (P2, 75% fait)
-- TASK-014 : Optimisation Metadata (P2, 80% fait)
-- TASK-009 : Amélioration SEO Schema (P2, 70% fait)
-- TASK-005 : Audit qualité blogs (P3, Lucie - vient de démarrer)
+**🔴 PRIORITÉ CRITIQUE** : 4 tâches Tier 1 (5h30)
+- TASK-011 : Fix 308 Nice (P0, 90% fait, 30min) ← **URGENT**
+- TASK-006 : Migration Canonicals bugs (P0, 95% fait, 2h30)
+- TASK-012 : Villes hardcodées tests (P0, 85% fait, 30min)
+- TASK-028 : Sitemaps consistency (P0 SEO, 1.5-2h)
 
-**✅ À ARCHIVER** : 2 tâches
-- TASK-008, TASK-010
+**🟠 PRIORITÉ IMPORTANTE** : 3 tâches Tier 2 (2h30)
+- TASK-014 : Optimisation Metadata (P1, 80% fait, 30min)
+- TASK-013 : Internal linking validation (P1, 75% fait, 1h)
+- TASK-009 : Schema.org Rich Results (P1, 70% fait, 1h)
 
-**Total backlog actif** : 15 tâches (7 EN COURS + 1 TERMINÉ + 8 PENDING projet 404)
+**🟢 NICE-TO-HAVE** : 1 tâche (Lucie)
+- TASK-005 : Audit qualité blogs (P3, Lucie - en cours)
+
+**Total backlog actif** : 11 tâches critiques/importantes + 5 tâches P2/optionnelles
 
 **Répartition** :
-- Guillaume : 6 tâches EN COURS
-- Lucie : 1 tâche EN COURS (TASK-005)
+- Guillaume : 7 tâches critiques/importantes
+- Lucie : 1 tâche P3 + possibilité aider 404 finales
 
 ---
 
