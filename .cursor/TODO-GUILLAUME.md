@@ -9,6 +9,40 @@
 
 ---
 
+## ⚠️ INCOMPLET (TOUJOURS PRIORITAIRES)
+
+### [P1]-TASK-012 : Correction Global Villes Hardcodées ⚠️
+
+**Statut** : ⚠️ INCOMPLET (40-50% fait)
+
+**Démarrée** : 30-31/10/2025  
+**Mise en pause** : 04/11/2025 13:15 GMT
+
+**Progression** :
+- ✅ Session 1 (30-31/10) : Metadata services, emails, footer (11 villes, 5 commits)
+- ✅ Session 2 (04/11) : Pattern 1 "à Lille" (16 fichiers, 4 villes)
+- ⏳ Restant : Pattern 1 (24 fichiers, 6 villes) + Pattern 2 (27 fichiers, 9 villes)
+
+**Commits** : `da4c1da`, `6c00451` (+ 5 commits session 1)
+
+**Temps investi** : ~4h30  
+**Temps restant** : ~2h (Pattern 1 40min + Pattern 2 50min + tests 30min)
+
+**Pourquoi en pause** :
+- Tests Lille en attente déploiement CapRover
+- Découverte bug global FAQ (TASK-038 créée)
+- Momentum pattern validé, prêt à reprendre
+
+**Prochaine session** :
+1. Tester Lille production (Pattern 1 + FAQ)
+2. Corriger Bordeaux, Nantes, Rennes, Rouen, Strasbourg, Montpellier (Pattern 1)
+3. Corriger Pattern 2 "à Marseille" (9 villes, 27 fichiers)
+4. Tests finaux + déploiement
+
+**Doc** : `.cursor/tasks/[P1]-TASK-012-villes-hardcodees/`
+
+---
+
 ## 🔥 EN COURS MAINTENANT
 
 *Aucune tâche en cours*
@@ -221,95 +255,99 @@ Assurer 1 seule sitemap par domaine (route app), pas d'index ni `sitemap-*.xml`,
 
 ---
 
-## 🎯 WORKFLOW RECOMMANDÉ
+## 🎯 PROCHAINES PRIORITÉS
 
-### Matin (Demain)
-1. Lire `.cursor/RESUME-DEMARRAGE-DEMAIN-404.md` (5 min)
-2. `"Cursor, je démarre TASK-404-02"` → Cursor prépare la tâche
-3. Suivre plan détaillé (`.cursor/TASKS-404-DETAILLEES.md`)
+### Option A : Finir projet 404 à 100% (1-2h)
+**3 villes restantes (non critique)** :
+- Lille : 28 liens, 8 erreurs (5.4%)
+- Toulouse : 19 liens, 7 erreurs (7.9%)
+- Strasbourg : 2 liens, 1 erreur (0.8%)
 
-### Pendant le travail
-- `"Cursor, log ma session pour TASK-404-02 : [ce que j'ai fait]"` → Documenter régulièrement
-- Si découverte d'une tâche → Ajouter dans "IDÉES/DÉCOUVERTES", trier plus tard
+**Commande** : `"Cursor, je démarre TASK-404-LILLE"` (ou Toulouse/Strasbourg)
 
-### Interruption / Changement de priorité
-- `"Cursor, je mets TASK-404-02 en pause : [raison]"` → Sauvegarder le contexte
-- Cursor marque ⚠️ INCOMPLET avec notes détaillées
+### Option B : Setup Scripts (5 min) ⚡
+**TASK-023** : Activer automation (validation pre-commit + dashboard "moverz")  
+**Commande** : `"Cursor, je démarre TASK-023"`
 
-### Fin de tâche
-- `"Cursor, finalise TASK-404-02"` → Cursor vérifie la Definition of Done
-- Si critères validés → Passe à TASK-404-03
-- Si critères manquants → Cursor explique ce qui reste à faire
+### Option C : SEO Prioritaire (1.5-2h)
+**TASK-028** : Sitemaps Consistency (11 villes, P1)  
+**Commande** : `"Cursor, je démarre TASK-028"`
 
 ---
 
 ## 📋 COMMANDES RAPIDES
 
 ```bash
-# Démarrer demain
-"Cursor, je démarre TASK-404-02"
+# Voir état global
+"Cursor, évalue le backlog"
 
-# Voir état projet 404
-"Cursor, évalue le backlog" | grep 404
+# Démarrer une tâche
+"Cursor, je démarre TASK-XXX"
 
 # Logger session
-"Cursor, log ma session pour TASK-404-02 : [fait]"
+"Cursor, log ma session pour TASK-XXX : [fait]"
 
 # Mettre en pause
-"Cursor, je mets TASK-404-02 en pause"
+"Cursor, je mets TASK-XXX en pause : [raison]"
 
 # Finaliser
-"Cursor, finalise TASK-404-02"
+"Cursor, finalise TASK-XXX"
 ```
 
 ---
 
 ## 📊 PROGRESSION PROJET 404
 
+**🎉 PROJET 99% RÉSOLU** ✅
+
 ```
-✅ TASK-404-01 : Audit (2h30) ✅ TERMINÉ (01/11)
-❌ TASK-404-02 : Harmonisation ❌ SKIP (cosmétique, rollback 03/11)
+✅ TASK-404-01 : Audit (2h30) — TERMINÉ (01/11)
+❌ TASK-404-02 : Harmonisation — SKIP (cosmétique, rollback 03/11)
+✅ TASK-404-QW : Quick Wins (2h) — TERMINÉ (03/11)
+   → ~165-185 liens corrigés (majuscules + accents)
+   → Workflow validé : Code → Deploy → Scan → Compare ✅
 
-🔥 TASK-404-QW : Quick Wins (2h) ← MAINTENANT [Guillaume]
-   → Validation workflow : Code → Deploy → Scan → Compare
-   → ROI 35-45% : 513 → 290-340 attendu
-   → Majuscules + Accents + Devis
+✅ TASK-404-ALL-CITIES : Correction Massive — TERMINÉ (03-04/11)
+   → Session 1 : 1,713 liens (11 villes, 12h)
+   → Session 2 : 697 liens (5 villes, 4h50)
+   → Session 3 : 437 liens (4 villes, 4h)
+   → TOTAL : 2,847+ liens corrigés
 
-📋 TASK-404-03 : Décision (1h) ← APRÈS QW [Guillaume + Lucie]
-   ⚠️ CRITIQUE : AVANT 404-05 (sinon re-correction)
-   → 53 spam Toulouse : Rediriger
-   → 20-30 prioritaires : Créer
-   
-📋 TASK-404-04 : Création contenu (6-9h) OPTIONNEL [Lucie]
-   → Seulement prioritaires (pas les 104)
-   
-📋 TASK-404-05 : Correction AUTO (4-6h) → ~400-500 liens [Guillaume]
-   ⚠️ Dry-run Rennes d'abord
-   
-📋 TASK-404-06 : Validation (1h) [Guillaume ou Lucie]
-📋 TASK-404-07 : Redirections 301 (3-5h) [Guillaume]
-📋 TASK-404-08 : Homepage (1h) [Guillaume] (réduit)
-📋 TASK-404-09 : Validation finale (2-3h) [Guillaume + Lucie]
+❌ TASK-404-03 à 404-06 : OBSOLÈTES (corrections manuelles les ont remplacées)
 
-Progression : 11% (2h30/16h30 estimé sans création)
-Scan réel 03/11 : 513 erreurs → Objectif <10
-Résolution attendue : 95-99% (490+/513)
+📋 TASK-404-07 : Redirections 301 Externes (3-5h) — P1 (optionnel, Search Console)
+📋 TASK-404-08 : Homepage (1h) — P2 (probablement déjà OK)
+```
+
+**État actuel** :
+- ✅ **8/11 sites à 0% erreur** (Rouen, Rennes, Lyon, Marseille, Bordeaux, Montpellier, Nantes, Nice)
+- 📋 **3 sites restants** (P2, non critique) :
+  - Lille : 28 liens, 8 erreurs 404 (5.4%)
+  - Toulouse : 19 liens, 7 erreurs 404 (7.9%)
+  - Strasbourg : 2 liens, 1 erreur 404 (0.8%)
+- **Taux d'erreur global : 1.3%** (16 erreurs / 1218 pages)
+
+**Progression** : 99% complété (2,847 liens corrigés / ~2,863 total)  
+**Temps investi** : 23h20 (audit + corrections + documentation)  
+**ROI** : 513 → 16 erreurs (-97%)
 ```
 
 ---
 
-## 🔥 AUTRES TÂCHES EN COURS (finaliser après 404)
+## 🔥 AUTRES TÂCHES EN COURS (à finaliser)
 
-**7 tâches à 70-95% complètes** :
-- TASK-006 : Canonicals bugs (P1, 95%, 2h30 restant)
-- TASK-011 : Fix 308 Nice (P0, 90%, tests deployment)
-- TASK-012 : Villes hardcodées (P1, 85%, tests)
-- TASK-013 : Internal linking (P2, 75%)
-- TASK-014 : Metadata SEO (P2, 80%)
-- TASK-009 : Schema.org (P2, 70%)
+**✅ Tâches finalisées récemment** :
+- ✅ TASK-006 : Canonicals (P1) — FINALISÉ (04/11)
+- ✅ TASK-011 : Fix 308 Nice (P0) — FINALISÉ (04/11)
 
-**Stratégie** : Finir projet 404 en priorité, puis finaliser ces 7 tâches.
+**🔄 5 tâches à finaliser** :
+- TASK-012 : Villes hardcodées (P1, 85%, tests manquants)
+- TASK-013 : Internal linking (P2, 75%, validation maillage)
+- TASK-014 : Metadata SEO (P2, 80%, tests SERP + descriptions)
+- TASK-009 : Schema.org (P2, 70%, validation Rich Results)
+
+**Stratégie** : Projet 404 quasi-terminé (99%), focus sur finalisation tâches existantes + nouvelles priorités SEO.
 
 ---
 
-*Dernière mise à jour : 2025-11-04*
+*Dernière mise à jour : 2025-11-04 (nettoyé après sessions 404)*

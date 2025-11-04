@@ -552,6 +552,112 @@ Optimisation maillage interne pour pousser autorité vers homepage. Liens strat�
 
 ## 🟡 PRIORITÉ NORMALE (P2)
 
+### [P2] [Temps: 1.5-2h] [Qui: Guillaume] TASK-037 : Configuration HSTS Headers (11 villes)
+
+📁 **Doc** : `.cursor/tasks/[P2]-TASK-037-hsts-headers/`
+
+**Type** : Sécurité / SEO Technique
+
+**Objectif** : Activer HTTP Strict Transport Security (HSTS) sur 11 sites pour renforcer sécurité HTTPS
+
+**Contexte** :
+- Checklist SEO Point #101 : HSTS manquant sur 11/11 sites
+- Sites déjà 100% HTTPS ✅ → HSTS = couche sécurité supplémentaire
+- Configuration CapRover : `add_header Strict-Transport-Security "max-age=31536000; includeSubDomains; preload" always;`
+
+**Impact SEO** :
+- Direct : 🟡 MOYEN (signal confiance, HTTPS déjà actif)
+- ROI estimé : <1% leads (vs 10-15% pour meta descriptions)
+- **Priorité P2 justifiée** : À faire APRÈS tâches P1 à fort impact
+
+**Actions** :
+- [ ] Configuration CapRover HTTP Settings (11 apps)
+- [ ] Tests validation curl + navigateurs
+- [ ] Documentation procédure
+
+**Statut** : 📋 PENDING
+
+**Note** : Voir `.cursor/tasks/[P2]-TASK-037-hsts-headers/` pour plan détaillé, contexte, décisions techniques
+
+---
+
+### [P1] [Temps: 1.5-2h] [Qui: Guillaume] TASK-038 : Corriger Template Literals FAQ (guillemets → backticks)
+
+📁 **Doc** : `.cursor/tasks/[P1]-TASK-038-template-literals-faq/`
+
+**Type** : Bugfix / Qualité Code
+
+**Objectif** : Corriger template literals non interpolés dans faq/page.tsx (11 villes)
+
+**Contexte** :
+- Bug détecté lors tests Lille TASK-012 (04/11/2025)
+- Guillemets doubles `"${city.nameCapitalized}"` au lieu de backticks `` `${city.nameCapitalized}` ``
+- Résultat : Contenu page affiche `${city.nameCapitalized}` littéralement au lieu de "Lille"
+- Metadata SEO **non affectées** (layout.tsx OK)
+- UX dégradée : Questions FAQ affichent du code brut
+
+**Villes affectées** :
+- Nice, Lyon, Marseille, Bordeaux, Nantes, Rennes, Rouen, Strasbourg : 16 occurrences chacune
+- Lille : 8 occurrences restantes (8/16 déjà corrigées)
+- Montpellier, Toulouse : 8 occurrences chacune
+- **Total** : ~140 lignes à corriger (11 villes)
+
+**Impact Business** :
+- ❌ **UX** : Questions FAQ illisibles (code brut visible)
+- ✅ **SEO Metadata** : OK (pas d'impact Google direct)
+- ⚠️ **SEO Contenu** : Contenu dégradé (keywords incorrects)
+- ⚠️ **Confiance** : Affichage technique nuit à crédibilité
+- 🔴 **11 villes** touchées
+
+**Exemple bug** :
+```html
+<!-- Attendu -->
+<summary>Combien de cartons prévoir pour un déménagement à Lille ?</summary>
+
+<!-- Actuel (bug) -->
+<summary>Combien de cartons prévoir pour un déménagement à ${city.nameCapitalized} ?</summary>
+```
+
+**Actions** :
+- [ ] Corriger Nice faq/page.tsx (16 lignes)
+- [ ] Corriger Lyon faq/page.tsx (16 lignes)
+- [ ] Corriger Marseille faq/page.tsx (16 lignes)
+- [ ] Corriger Bordeaux faq/page.tsx (16 lignes)
+- [ ] Corriger Nantes faq/page.tsx (16 lignes)
+- [ ] Corriger Rennes faq/page.tsx (16 lignes)
+- [ ] Corriger Rouen faq/page.tsx (16 lignes)
+- [ ] Corriger Strasbourg faq/page.tsx (16 lignes)
+- [ ] Finaliser Lille faq/page.tsx (8 lignes restantes)
+- [ ] Corriger Montpellier faq/page.tsx (8 lignes)
+- [ ] Corriger Toulouse faq/page.tsx (8 lignes)
+- [ ] Commit GitHub (1 commit global 11 villes)
+- [ ] Tests build 2-3 villes
+- [ ] Déploiement + tests production
+
+**Estimations** :
+- Correction code : 1h
+- Tests + déploiement : 30-45min
+- **Total** : 1.5-2h
+
+**Priorité** : **P1** (Important)
+
+**Justification Priorité P1** :
+1. 🔴 UX cassée visible sur 11 sites live
+2. ⚠️ Contenu FAQ illisible = perte confiance
+3. ✅ Metadata SEO OK → pas P0 (pas d'impact ranking immédiat)
+4. 📊 Fix rapide (1.5-2h) vs impact visible immédiat
+5. 💡 Affichage technique = signal "site mal codé"
+
+**Statut** : 📋 PENDING
+
+**Dépendances** : AUCUNE (indépendant de TASK-012)
+
+**Bloque** : AUCUNE
+
+**Créée le** : 04/11/2025 pendant TASK-012
+
+---
+
 *Voir tâches EN COURS ci-dessus*
 
 ---
@@ -857,23 +963,25 @@ Rennes, Nantes, Marseille, Rouen, Strasbourg, Montpellier, Nice, Toulouse, Lyon,
 - TASK-013 : Internal linking validation (P1, 75% fait, 1h)
 - TASK-009 : Schema.org Rich Results (P1, 70% fait, 1h)
 
-**🟡 NICE-TO-HAVE** : 5 tâches P2 (11-17h)
+**🟡 NICE-TO-HAVE** : 6 tâches P2 (12.5-19h)
 - TASK-033 : Titles Optimisés (P2, 3 villes, 2-3h) [Lucie]
 - TASK-034 : FAQ Schema (P2, 9 villes, 4-5h) [Lucie + Guillaume]
 - TASK-035 : AggregateRating Schema (P2, 11 villes, 2-3h) [Guillaume]
 - TASK-036 : Liens Sortants (P2, 10 villes, 3-4h) [Lucie]
+- TASK-037 : HSTS Headers (P2, 11 villes, 1.5-2h) [Guillaume] ← NOUVEAU
 - TASK-005 : Audit qualité blogs (P3, Lucie - en cours)
 
-**Total backlog actif** : 16 tâches (8 critiques + 8 P2/P3)
+**Total backlog actif** : 17 tâches (8 critiques + 9 P2/P3)
 
 **Répartition** :
-- Guillaume : 6 tâches critiques/importantes (7-11h)
+- Guillaume : 7 tâches critiques/importantes (8.5-13h)
 - Lucie : 5 tâches P2/P3 (17-22h)
 - Les deux : 3 tâches collaboration (12-15h)
 
 **Tâches modifiées** :
 - ❌ TASK-029 annulée (diagnostic erroné, -4-6h)
 - 🔀 TASK-030 fusionnée dans TASK-014 (optimisation)
+- 🆕 TASK-037 créée (HSTS headers, +1.5-2h, P2)
 
 ---
 
