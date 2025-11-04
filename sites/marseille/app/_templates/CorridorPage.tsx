@@ -28,13 +28,13 @@ export function generateCorridorPageMetadata(destination: string): Metadata {
   const canonicalUrl = getCanonicalUrl(`${city.slug}-vers-${destination.toLowerCase()}`);
   
   return {
-    title: `Déménagement ${city.nameCapitalized} → ${destination} — Devis en 7j | Moverz`,
+    title: `Déménagement ${city.nameCapitalized} → ${destination} — Comparez des devis | Moverz`,
     description: `Déménager de ${city.nameCapitalized} vers ${destination} : 5 devis gratuits sous 7 jours, déménageurs fiables. Envoyez vos photos, l'IA s'occupe de tout. Sans appels.`,
     alternates: {
       canonical: canonicalUrl,
     },
     openGraph: {
-      title: `Déménagement ${city.nameCapitalized} → ${destination} — Devis en 7j | Moverz`,
+      title: `Déménagement ${city.nameCapitalized} → ${destination} — Comparez des devis | Moverz`,
       description: `Déménager de ${city.nameCapitalized} vers ${destination} : 5 devis gratuits sous 7 jours, déménageurs fiables. Envoyez vos photos, l'IA s'occupe de tout. Sans appels.`,
       url: canonicalUrl,
       type: 'website',

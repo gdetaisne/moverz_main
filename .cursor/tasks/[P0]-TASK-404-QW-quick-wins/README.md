@@ -1,5 +1,7 @@
 # [P0]-TASK-404-QW — Quick Wins 404 (Majuscules + Accents)
 
+**Statut** : ✅ FINALISÉ (03/11/2025)
+
 ## Objectif
 - Valider le workflow Code → Deploy → Scan → Compare.
 - Corriger rapidement 35–45% des 404 via 3 actions:

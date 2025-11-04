@@ -15,6 +15,38 @@
 
 ## ✅ Novembre 2025
 
+### ✅ TASK-404-QW : Quick Wins 404 (Majuscules + Accents)
+
+**Finalisée le** : 03 novembre 2025  
+**Type** : Bugfix / SEO — Corrections rapides  
+**Priorité** : P0  
+**Assigné** : Guillaume
+
+📁 **Documentation** : `.cursor/archives/tasks-finalisées/[P0]-TASK-404-QW-quick-wins/`
+
+**Résumé** :
+Corrections rapides des 404 les plus évidentes sur 11 villes : normalisation des majuscules dans les URLs, gestion des accents (Toulouse), et hotfix de portée city dans la FAQ. Méthode validée (Code → Deploy → Scan → Compare) avant la correction massive de toutes les villes.
+
+**Commits** :
+- `3220a21` (global) — Quick Wins complets 11 villes (majuscules + accents)
+- `743856e` (Toulouse) — Majuscules + accents (~165 liens)
+- `e712d4f` — Hotfix patterns (#10, #7, #8)
+- `d21fafc` — Hotfix FAQ scope city
+- `cdafcf0`, `553d461` — Mappings accents Toulouse
+- `bfb02e6` → `945df5d` — Redirections test puis revert (éviter collisions)
+- `eb3432c` — Corrections liens internes Toulouse
+
+**Tests** :
+- Échantillon 11 villes OK (majuscules)
+- Liens internes Toulouse OK (accents)
+- FAQ scope city OK
+
+**Definition of Done** :
+- [x] 1. Code propre et documenté (commits + docs)
+- [x] 2. Commits sur GitHub (SHAs listés)
+- [x] 3. Testé en live échantillon (11 villes + Toulouse)
+
+
 ### ✅ TASK-012 : Villes hardcodées (NeighborhoodsTeaser) — 11 villes
 
 **Finalisée le** : 04 novembre 2025  
@@ -474,7 +506,7 @@ Correction critique des sitemaps 11 villes : URLs générées avec category/slug
 **Temps estimé** : 1h30  
 **Temps réel** : 1h10
 
-📁 **Documentation** : `.cursor/tasks/[P1]-TASK-022-securisation-systeme-tasks/`
+📁 **Documentation** : `.cursor/archives/tasks-finalisées/[P1]-TASK-022-securisation-systeme-tasks/`
 
 **Résumé** :
 Automatisation complète du système de gestion des tâches : 7 scripts (validation, health-check, détection zombies, dashboard, backup, template) + 7 guides documentation. Versionnés dans tools/tasks/ avec symlink .cursor/scripts. Cursor forcé de run health-check au démarrage via .cursorrules.
@@ -506,7 +538,7 @@ Automatisation complète du système de gestion des tâches : 7 scripts (validat
 **Temps estimé** : 1h30  
 **Temps réel** : 1h20
 
-📁 **Documentation** : `.cursor/tasks/[P1]-TASK-021-restructuration-repo/`
+📁 **Documentation** : `.cursor/archives/tasks-finalisées/[P1]-TASK-021-restructuration-repo/`
 
 **Résumé** :
 Restructuration complète du repo Moverz pour clarté et performances : documentation centralisée dans docs/, scripts catégorisés par fonction, .cursorignore créé (perf 5x), .gitignore optimisé (backups gitignored).
@@ -539,7 +571,7 @@ Restructuration complète du repo Moverz pour clarté et performances : document
 **Temps estimé** : 1h  
 **Temps réel** : 45 min
 
-📁 **Documentation** : `.cursor/tasks/[P2]-TASK-020-nettoyage-scripts-repo/`
+📁 **Documentation** : `.cursor/archives/tasks-finalisées/[P2]-TASK-020-nettoyage-scripts-repo/`
 
 **Résumé** :
 Audit automatique et nettoyage des scripts /scripts : analyse références (code, package.json, CI), suppression versions obsolètes, archivage scripts sans références. Passage de 95 scripts à 20 scripts actifs uniquement.
