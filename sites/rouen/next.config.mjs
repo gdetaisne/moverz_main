@@ -119,6 +119,12 @@ const nextConfig = {
       { source: '/blog/devis', destination: '/blog', permanent: true },
       { source: '/blog/longue-distance', destination: '/blog', permanent: true },
       { source: '/blog/entreprise', destination: '/blog', permanent: true },
+      { source: '/blog/garde-meuble', destination: '/blog', permanent: true },
+
+      // ARTICLES GARDE-MEUBLE mal classés → satellites/ (Fix 04/11/2025)
+      { source: '/blog/garde-meuble/meilleurs-garde-meubles-rouen-avis', destination: '/blog/satellites/meilleurs-garde-meubles-rouen-avis', permanent: true },
+      { source: '/blog/garde-meuble/garde-meuble-etudiant-rouen', destination: '/blog/satellites/garde-meuble-etudiant-rouen', permanent: true },
+      { source: '/blog/garde-meuble/taille-box-stockage-rouen', destination: '/blog/satellites/taille-box-stockage-rouen', permanent: true },
     ];
   }
 };
