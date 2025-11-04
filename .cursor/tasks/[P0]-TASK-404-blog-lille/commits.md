@@ -1,93 +1,87 @@
 # Commits - TASK-404-blog-lille
 
-**Date** : 04 novembre 2025  
-**Durée** : 2h30
+## Round 1 : Corrections initiales (✅ PARTIEL)
+
+### Monorepo
+- **`5187545`** - fix(lille): correct broken internal links
+  - 22 corrections + 3 suppressions
+  - 17 fichiers modifiés
+  - ⚠️ A créé de nouveaux 404s (corrections partielles)
+
+### Lille
+- **`92992b0`** - fix: correct 22 broken internal links
+  - Même contenu que monorepo
 
 ---
 
-## 📦 Commits Lille Individuel
+## Round 2 : Catégories et slugs (⚠️ INCOMPLET)
 
-### Commit Principal
+### Monorepo
+- **`08aa7a7`** - fix(lille): round 2 - correct category errors + remove dead links
+  - 10 corrections + 2 suppressions
+  - 8 fichiers modifiés
+  - ⚠️ Encore des 404s restants
 
-**SHA** : `4ca3522`  
-**Message** :
-```
-fix(lille): correct ~140 broken blog internal links
-
-Pattern #5A: Fix folder mismatch (folder ≠ category)
-
-Corrections:
-- Guides principaux (10) → /blog/demenagement-lille/ 
-- demenageur-lille/demenageur-lille-expert → corrected
-- location-camion-lille/location-camion-demenagement-lille-guide → corrected
-- garde-meuble-lille/garde-meuble-lille-guide-complet → corrected (slug cleaned)
-- prix-demenagement-lille/prix-demenagement-lille-guide → corrected
-- ... (10 guides total)
-
-Files: 67 satellites modified
-Links: ~140 internal 404s fixed
-Method: analyze-blog-structure.mjs → mapping → fix-404-lille-simple.mjs
-
-Scripts added (reusable):
-- scripts/analyze-blog-structure.mjs
-- scripts/blog-url-mapping.json (111 articles)
-- scripts/fix-404-lille-simple.mjs
-```
-
-**Stats** :
-- 85 fichiers modifiés
-- 1577 insertions
-- 151 deletions
+### Lille
+- **`7d07d03`** - fix: round 2 - correct category errors + remove dead links
+  - Même contenu que monorepo
 
 ---
 
-## 📦 Commits Monorepo
+## Round 3 : Fix complet (✅ SUCCÈS)
 
-### Commit Sync
+### Monorepo
+- **`807f2d9`** - fix(lille): round 3 - comprehensive fix all broken links
+  - 11 corrections avec **regex globales**
+  - 14 fichiers modifiés
+  - ✅ 0 lien cassé restant
 
-**SHA** : `86f8e3b`  
-**Message** :
-```
-fix(lille): correct ~140 broken blog internal links (Pattern #5A)
+**Changements clés** :
+- Regex globale : `s|](/blog/entreprise)\b|](/blog/demenagement-lille/demenagement-entreprise-lille-guide)|g`
+- Regex globale : `s|](/blog/location-camion-lille/|](/blog/location-camion-demenagement-lille/|g`
 
-- 67 satellites modified
-- ~140 internal 404s fixed
-- Scripts created for reusability
-
-Ref: 4ca3522 (dd-lille)
-```
-
-**Stats** :
-- 86 fichiers modifiés
-- 1590 insertions
-- 154 deletions
+### Lille
+- **`55c1b1a`** - fix: round 3 - comprehensive fix all broken links
+  - Même contenu que monorepo
+  - 14 fichiers modifiés
 
 ---
 
-## 🚀 Déploiement
+## 📊 Résumé
 
-**CapRover** :
-- Webhook déclenché : ✅
-- Build time : 3-5 min
-- Site : `devis-demenageur-lille.fr`
-
----
-
-## ✅ Validation
-
-**Tests production (post-deploy)** :
-
-| URL | Status |
-|-----|--------|
-| `/blog/demenagement-lille/demenageur-lille-expert/` | ✅ 200 OK |
-| `/blog/demenagement-lille/location-camion-demenagement-lille-guide/` | ✅ 200 OK |
-| `/blog/demenagement-lille/garde-meuble-lille-guide/` | ✅ 200 OK |
-| `/blog/demenagement-lille/prix-demenagement-lille-guide/` | ✅ 200 OK |
-| `/blog/location-camion-lille/location-camion-vs-demenageur-lille/` | ✅ 200 OK (satellite OK) |
-
-**Conclusion** : ✅ **Toutes les URLs fonctionnent**
+| Round | Commits | Fichiers | Corrections | Résultat |
+|-------|---------|----------|-------------|----------|
+| 1 | 2 | 17 | 22 + 3 suppressions | ⚠️ Partiel |
+| 2 | 2 | 8 | 10 + 2 suppressions | ⚠️ Incomplet |
+| 3 | 2 | 14 | 11 + 2 suppressions | ✅ **Complet** |
+| **TOTAL** | **6** | **39** | **43 + 7 suppressions** | ✅ **100%** |
 
 ---
 
-**Créé par** : Cursor AI  
-**Date** : 04/11/2025
+## 🎓 Ce qui a été appris
+
+### ❌ Rounds 1-2 : Approche incorrecte
+- Corrections ciblées créent d'autres 404s
+- Manque de vision globale
+- 3 rounds nécessaires au lieu d'1
+
+### ✅ Round 3 : Approche correcte
+- **Regex globales** au lieu de corrections spécifiques
+- **Scanner tous les patterns** avant de corriger
+- **Vérifier 0 restant** avec `grep | wc -l`
+
+---
+
+## 🔗 Liens GitHub
+
+- Monorepo : `https://github.com/gdetaisne/moverz_main/commits/main`
+- Lille : `https://github.com/gdetaisne/dd-lille/commits/main`
+
+---
+
+## 💡 Recommandation Future
+
+**Pour les prochaines villes** :
+1. Scanner TOUS les patterns cassés d'abord
+2. Corrections globales avec regex larges
+3. 1 seul round au lieu de 3

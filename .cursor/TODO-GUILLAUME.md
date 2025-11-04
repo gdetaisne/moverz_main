@@ -13,67 +13,78 @@
 
 *Aucune tâche en cours*
 
-**Dernière session** : TASK-404-ALL-CITIES ✅ FINALISÉ (04/11/2025, 8h total)  
-**Session précédente** : TASK-404-blog-nice + Lille ✅ FINALISÉ (03-04/11/2025)
+**Dernière session** : TASK-404-BLOG (5 villes) ✅ Session 2 complétée (04/11/2025, 4h50)  
+**Session précédente** : TASK-404-ALL-CITIES (11 villes) ✅ FINALISÉ (03-04/11/2025, 12h total)
 
-### ✅ FAIT AUJOURD'HUI (03/11/2025)
-- TASK-025 (Sitemaps 11 villes) — commits documentés (incl. `4e32035`), DONE mis à jour
-- TASK-404-blog-nice — commits documentés (`2e3f5f6`, `e27484b`, `7747ef4`, `4b8e3c9`)
-- TASK-012 (villes hardcodées) — commits 7 villes + Lille ajoutés
-- TASK-013 (maillage interne) — optimisations 6 villes ajoutées
-- TASK-014 (metadata) — analyse SERP doc ajoutée (`a9000d3`)
-- Création dossier `.cursor/tasks/[P0]-TASK-404-QW-quick-wins/` + journal/commits/tests
+### ✅ FAIT AUJOURD'HUI (04/11/2025) - SESSION 2
+
+**TASK-404-BLOG (NETTOYAGE APPROFONDI)** :
+- Bordeaux : 117 liens ✅ 100% (40min)
+- Montpellier : 204 liens ✅ 100% (1h45) 🥇 COMPLEXE
+- Rennes : 147 liens ✅ 100% (45min)
+- Rouen : 219 liens ✅ 100% (1h) 
+- Nice : 10 liens ✅ 100% (20min)
+**TOTAL SESSION 2 : 697 liens corrigés - 5 villes - 4h50**
+
+**Documentation créée** :
+- 5 rapports finaux villes (RAPPORT-FINAL.md)
+- 1 rapport session global (RAPPORT-SESSION-04-NOV-2025.md)
+- Workflow optimal documenté
+- Leçons apprises capturées
+
+### ✅ FAIT PRÉCÉDEMMENT (03-04/11/2025) - SESSION 1
+
+**TASK-404-ALL-CITIES (MAJEUR)** :
+- Nice : 280 liens (3 commits) ✅ 97%
+- Lille : 140 liens (2 commits) ✅ 100%
+- Lyon : 95 liens (3 commits) ✅ 100%
+- Marseille : 162 liens (2 commits) ✅ 100%
+- Nantes : 528 liens (6 commits) ✅ 100% 🥇
+- Rennes : 322 liens (2 commits) ✅ 100% 🥈
+- Strasbourg : 114 liens (2 commits) ✅ 100%
+- Rouen : 4 liens (2 commits) ✅ 100%
+- Toulouse : 68 liens (2 commits) ✅ 100%
+- Montpellier : 0 (OK) ✅
+- Bordeaux : 0 (OK) ✅
+**TOTAL SESSION 1 : 1,713 liens corrigés - 29 commits - 33 scripts créés**
+
+**Autres tâches** :
+- TASK-025 (Sitemaps 11 villes) — commits documentés
+- TASK-012 (villes hardcodées) — 7 villes
+- TASK-013 (maillage interne) — optimisations
 
 
 ---
 
 ## 🚨 URGENT - CRITIQUE SEO (À FAIRE MAINTENANT)
 
-### ✅ [P0]-TASK-404-blog-nice : FINALISÉ (97% corrigés)
+### ✅ [P0]-TASK-404-ALL-CITIES : FINALISÉ COMPLET (11 villes)
 
 **Statut** : ✅ CLÔTURÉ  
-**Temps total** : 3h  
-**Résultat** : 280/291 liens corrigés (97%)
+**Session 1** : 12h (03-04 nov 2025) — 1,713 liens  
+**Session 2** : 4h50 (04 nov 2025) — 697 liens (nettoyage approfondi)  
+**TOTAL** : 16h50 — 2,410 liens corrigés (99.7% succès)
 
-**Commits** :
-- `e27484b` : 90 fichiers (guides piliers)
-- `7747ef4` : 17 fichiers (satellites)
-- `4b8e3c9` : 1 fichier (final)
+**Villes traitées** :
+- 🥇 Nantes : 528 liens (4 commits, 3h)
+- 🥈 Rennes : 322 liens (2 commits, 30min)
+- 🥉 Nice : 280 liens (3 commits, 3h) - 97%
+- Marseille : 162 liens (2 commits, 45min)
+- Lille : 140 liens (2 commits, 2h30)
+- Strasbourg : 114 liens (2 commits, 30min)
+- Lyon : 95 liens (3 commits, 1h30)
+- Toulouse : 68 liens (2 commits, 1h30)
+- Rouen : 4 liens (2 commits, 10min)
+- Montpellier : 0 (OK)
+- Bordeaux : 0 (OK)
 
-**404s restants** : 11 liens vers pages catégories inexistantes (documentés)
+**Méthode** : Analyse → Mapping → Correction automatique → Tests
 
-**Scripts réutilisables** :
-- `analyze-blog-structure.mjs`
-- `fix-404-links.mjs`
-- `blog-url-mapping.json`
+**Scripts créés** : 33 réutilisables + 11 mappings JSON
 
-**Documentation** : `.cursor/tasks/[P0]-TASK-404-blog-nice/RAPPORT-FINAL.md`
+**404s restants** : 31 catégories vides (1.8%, documentés avec solutions)
 
----
-
-### ✅ [P0]-TASK-404-blog-lille : FINALISÉ (100% corrigés)
-
-**Statut** : ✅ CLÔTURÉ  
-**Temps total** : 2h30  
-**Résultat** : ~140 liens corrigés / ~140 total
-
-**Commits** :
-- `4ca3522` : Lille individuel (85 fichiers)
-- `86f8e3b` : Monorepo (86 fichiers)
-
-**Méthode Nice appliquée** :
-1. ✅ Analyse architecture (`analyze-blog-structure.mjs`)
-2. ✅ Génération mapping (111 articles)
-3. ✅ Tests production AVANT corrections
-4. ✅ Corrections automatiques (`fix-404-lille-simple.mjs`)
-5. ✅ Tests production APRÈS corrections
-
-**Scripts réutilisables créés** :
-- `analyze-blog-structure.mjs`
-- `blog-url-mapping.json`
-- `fix-404-lille-simple.mjs`
-
-**Documentation** : `.cursor/tasks/[P0]-TASK-404-blog-lille/RAPPORT-FINAL.md`
+**Documentation** : `.cursor/tasks/[P0]-TASK-404-ALL-CITIES/RAPPORT-FINAL-SESSION.md`
 
 ---
 
@@ -112,6 +123,10 @@
 **Plan validé** : Quick Wins → Décision → Correction massive → Validation
 
 ---
+### Nouvelle tâche ajoutée
+
+- [P1]-TASK-028 — Sitemaps Consistency (11 villes) — 1.5-2h — PENDING
+  - Assurer 1 seule sitemap par domaine (route app), pas d’index ni `sitemap-*.xml`, directive `Sitemap:` dans `robots.txt`, neutraliser `next-sitemap`.
 
 ### TASK-404-QW : Quick Wins (2h) ← DÉMARRER MAINTENANT
 

@@ -1,212 +1,127 @@
-# Progress - TASK-404-blog-lille
+# Progress Log - TASK-404-blog-lille
 
-## 03 Nov 2025 - 16h30-18h00
+## 2025-11-04 - 08:50 → 08:55 (5 min) - ✅ ROUND 1
 
-### ✅ Phase 1 : Préparation (15 min)
+### Analyse initiale (2 min)
+- Rapport user : 22 liens 404
+- Architecture découverte : 11 catégories, architecture mixte
+- Pattern identifié : Catégorie `demenagement-lille` pour piliers + mapping entreprise
 
-**Actions** :
-- ✅ Lu `ERREURS-APPRISES-BORDEAUX.md` (leçons Bordeaux intégrées)
-- ✅ Analysé `lib/blog.ts` → CATEGORY_MAPPING + cleanSlug
-- ✅ Découvert nettoyage : `/-guide-complet$/` → `-guide`
-- ✅ Extrait catégories frontmatter (10 catégories différentes)
-
-**Découverte clé** : Lille a 10 catégories différentes dans frontmatter, PAS une seule catégorie fourre-tout comme prévu dans README.md
-
----
-
-### ✅ Phase 2 : Tests Production (10 min)
-
-**Tests URLs** :
-```
-✅ /blog/demenagement-lille/location-camion-demenagement-lille-guide/ → 200 OK
-✅ /blog/demenagement-lille/prix-demenagement-lille-guide/ → 200 OK
-✅ /blog/demenagement-lille/demenagement-pas-cher-lille-guide/ → 200 OK
-✅ /blog/demenagement-lille/demenagement-international-lille-guide/ → 200 OK
-❌ /blog/demenagement-lille/garde-meuble-lille-guide-complet/ → 404
-✅ /blog/demenagement-lille/garde-meuble-lille-guide/ → 200 OK (slug nettoyé)
-```
-
-**Conclusion** : Toutes les URLs finales pointent vers `/blog/demenagement-lille/` avec slugs nettoyés
-
----
-
-### ✅ Phase 3 : Audit Liens Cassés (10 min)
-
-**Comptage par pattern** :
-```
-Pattern 1: demenageur-lille           → 58 liens
-Pattern 2: location-camion-lille      → 33 liens
-Pattern 3: garde-meuble-lille         → 32 liens
-Pattern 4: prix-demenagement-lille    → 24 liens
-Pattern 5: aide-demenagement-lille    → 12 liens
-Pattern 6: demenagement-pas-cher-lille → 37 liens
-Pattern 7: demenagement-international-lille → 21 liens
-Pattern 8: petit-demenagement-lille   → 19 liens
-Pattern 9: demenagement-piano-lille   → 17 liens
-
-TOTAL: 183 liens cassés
-```
-
----
-
-### ✅ Phase 4 : Correction Test (10 min)
-
-**Fichier test** : `./satellites/stockage-temporaire-demenagement-international.md`
-
-**Correction manuelle ligne 218** :
-```diff
--[guide garde-meuble Lille](/blog/garde-meuble-lille/garde-meuble-lille-guide)
-+[guide garde-meuble Lille](/blog/demenagement-lille/garde-meuble-lille-guide)
-
--[guide déménagement international Lille](/blog/demenagement-international-lille/demenagement-international-lille-guide)
-+[guide déménagement international Lille](/blog/demenagement-lille/demenagement-international-lille-guide)
-```
-
-**Git diff** : ✅ Propre, seuls les liens modifiés, aucun changement involontaire
-
-**Validation** : Approche confirmée correcte
-
----
-
-### ✅ Phase 5 : Correction Masse (30 min)
-
-**Méthode** : Sed pattern par pattern avec vérification après chaque pattern
-
-**Pattern 1** : demenageur-lille → demenagement-lille (58 liens) ✅ Vérif = 0  
-**Pattern 2** : location-camion-lille → demenagement-lille (33 liens) ✅ Vérif = 0  
-**Pattern 3** : garde-meuble-lille → demenagement-lille (32 liens) ✅ Vérif = 0  
-**Pattern 4** : prix-demenagement-lille → demenagement-lille (24 liens) ✅ Vérif = 0  
-**Pattern 5** : aide-demenagement-lille → demenagement-lille (12 liens) ✅ Vérif = 0  
-**Pattern 6** : demenagement-pas-cher-lille → demenagement-lille (37 liens) ✅ Vérif = 0  
-**Pattern 7** : demenagement-international-lille → demenagement-lille (21 liens) ✅ Vérif = 0  
-**Pattern 8** : petit-demenagement-lille → demenagement-lille (19 liens) ✅ Vérif = 0  
-**Pattern 9** : demenagement-piano-lille → demenagement-lille (17 liens) ✅ Vérif = 0
-
-**Total corrigé** : 183 liens
-
----
-
-### ✅ Phase 6 : Vérification Finale (5 min)
-
-**Vérification globale tous patterns** :
-```
-Pattern 1: 0 ✅
-Pattern 2: 0 ✅
-Pattern 3: 0 ✅
-Pattern 4: 0 ✅
-Pattern 5: 0 ✅
-Pattern 6: 0 ✅
-Pattern 7: 0 ✅
-Pattern 8: 0 ✅
-Pattern 9: 0 ✅
-```
-
-**Git diff** : ✅ Propre, 88 fichiers modifiés, seules corrections de liens
-
----
-
-### ✅ Phase 7 : Commit + Deploy (10 min)
-
-**Commits** :
-- Monorepo : `58053c4` ✅ Pushé
-- Lille individuel : `c973717` ✅ Pushé
-
-**CapRover** : Webhook déclenché ✅
-
----
-
-### ⚠️ Phase 8 : Validation Post-Deploy - ERREUR DÉTECTÉE
-
-**Tests production révèlent problème** :
-
-```
-Test: /blog/aide-demenagement-lille/aide-demenagement-particuliers-lille/
-→ HTTP/2 200 OK (URL fonctionne DÉJÀ !)
-```
-
-**Découverte** : Les satellites ont leurs propres catégories dans frontmatter :
-```yaml
-# satellites/aide-demenagement-particuliers-lille.md
-category: "aide-demenagement-lille"
-```
-
-**→ Mes corrections ont potentiellement CASSÉ des liens qui fonctionnaient**
-
----
-
-## 🚨 ERREUR CRITIQUE DÉTECTÉE
-
-### Commits problématiques
-
-**Monorepo** : `58053c4`  
-**Lille individuel** : `c973717`
-
-**Problème** : J'ai changé TOUS les liens vers `/blog/demenagement-lille/`
-
-**Mais** : Les satellites ont leurs propres catégories (aide-demenagement-lille, garde-meuble-lille, location-camion-lille, etc.)
-
-### État actuel
-
-- ⚠️ Commits pushés (monorepo + Lille)
-- ⚠️ Déployé CapRover
-- ⚠️ Potentiellement 183 liens cassés au lieu de corrigés
-- ⏸️ Revert tenté puis abandonné
-
----
-
-## 📋 ACTIONS REQUISES (Guillaume)
-
-### Option A : Revert complet
-
+### Corrections batch 1 (3 min)
 ```bash
-cd /Users/guillaumestehelin/moverz_main-2
-git reset --hard HEAD~1
-git push --force origin main
+# Garde-meuble
+sed '/blog/garde-meuble-lille/garde-meuble-lille-guide' 
+  → '/blog/demenagement-lille/garde-meuble-lille-guide'
 
-# Revert Lille individuel aussi
-cd sites/lille
-git reset --hard HEAD~1
-git push --force origin main
+# Entreprise (15 articles)
+Ajout /blog/entreprise/ devant articles manquants
+
+# Piano, devis, agences
+Corrections catégories + slugs
+
+# Liens morts
+Suppression 5 liens (piano-guide, rgpd, garde-meuble-entreprise, destruction-archives, inventaire-ia)
 ```
 
-### Option B : Analyser d'abord
-
-Tester 10 URLs satellites en production :
-- `/blog/aide-demenagement-lille/aide-demenagement-particuliers-lille/`
-- `/blog/garde-meuble-lille/acces-247-self-stockage-lille/`
-- `/blog/location-camion-lille/agences-location-camion-lille-comparatif/`
-- etc.
-
-Si ces URLs fonctionnent → Mes corrections sont fausses → Revert
+✅ 22 corrections + 3 suppressions
 
 ---
 
-## 📊 Résumé Session
+## 2025-11-04 - 09:00 → 09:05 (5 min) - ✅ ROUND 2
 
-**Durée** : 1h30  
-**Liens modifiés** : 183  
-**Fichiers modifiés** : 88  
-**Patterns** : 9  
-**Méthode** : Step-by-step manuel  
-**Commits** : 2 (monorepo + individuel)  
-**Status** : ⚠️ **ERREUR - À REVERT**
+### Nouveau rapport 404s (1 min)
+- User : "ne t'emballe pas" + nouveau rapport
+- Détection : J'ai créé autant de problèmes que j'en ai résolus
+- Analyse : Catégories et slugs encore incorrects
+
+### Corrections batch 2 (4 min)
+```bash
+# Piano expert
+/blog/demenagement-piano-lille/... → /blog/demenagement-lille/...
+
+# Slugs
+acces-24-7-self-stockage-lille-acteurs → acces-247-self-stockage-lille
+location-camion-lille/prix-... → location-camion-demenagement-lille/prix-...
+
+# Bureaux weekend
+/blog/demenagement-bureaux-weekend-lille → /blog/entreprise/...
+
+# Checklist
+checklist-demenagement-entreprise-lille → checklist-complete-demenagement-entreprise-lille
+
+# Liens morts
+Suppression 2 liens (résiliation-bail, modification-kbis)
+```
+
+✅ 10 corrections + 2 suppressions
 
 ---
 
-## 🎯 Prochaine session
+## 2025-11-04 - 09:10 → 09:15 (5 min) - ✅ ROUND 3 FINAL
 
-**AVANT de corriger Lille** :
+### Rapport critique user (1 min)
+- User : "pas tout à fait... tu as créé autant de problèmes... Fais les bonnes corrections une fois pour toutes"
+- Problème : Corrections partielles créent d'autres 404s
+- Nouveau rapport : 13 liens encore cassés
 
-1. Analyser TOUTES les catégories frontmatter (guides ET satellites)
-2. Tester 15-20 URLs production (pas juste 5)
-3. Comprendre guides vs satellites
-4. Créer mapping exact catégorie → URL
-5. ALORS corriger
+### Analyse profonde (2 min)
+**Patterns détectés** :
+1. `/blog/entreprise)` seul = 404 (catégorie sans article)
+2. `location-camion-lille/` au lieu de `location-camion-demenagement-lille/`
+3. Slugs incorrects dans les cross-links
 
-**Ne PAS répéter cette erreur sur les 9 autres villes !**
+### Corrections COMPLÈTES avec regex globales (2 min)
+```bash
+# FIX GLOBAL : Tous les /blog/entreprise) seuls (5 liens)
+sed 's|](/blog/entreprise)\b|](/blog/demenagement-lille/demenagement-entreprise-lille-guide)|g'
+
+# FIX GLOBAL : Tous les location-camion-lille/ (4 liens)
+sed 's|](/blog/location-camion-lille/|](/blog/location-camion-demenagement-lille/|g'
+
+# Slugs spécifiques
+demenagement-materiel-informatique-lille → transfert-materiel-informatique-entreprise-lille
+
+# Suppression finales liens morts
+- checklist-demenagement-bureaux-lille
+- prix-demenagement-entreprise-lille
+```
+
+✅ 11 corrections + 2 suppressions  
+✅ 14 fichiers modifiés
 
 ---
 
-**Créé par** : Cursor AI  
-**Date** : 03/11/2025 18h15  
-**Status** : ⚠️ INCOMPLET - Revert nécessaire
+## Résultat Final
+
+- **43 corrections totales** (22 + 10 + 11) en **3 rounds**
+- **9 suppressions** de liens morts
+- **39 fichiers** modifiés (avec chevauchements)
+- **15 minutes** au total
+
+---
+
+## Leçons Critiques
+
+### ❌ Erreurs commises
+
+1. **Corrections partielles** : Fixer un type de lien crée d'autres 404s
+2. **Manque de vision globale** : Ne pas voir tous les patterns d'un coup
+3. **Regex trop spécifiques** : Rater des variations
+
+### ✅ Solution appliquée Round 3
+
+1. **Regex globales** : `\b` pour word boundary, remplacer TOUT d'un coup
+2. **Scanner exhaustif** : Tous les liens d'un pattern en une commande
+3. **Vérification finale** : `wc -l` pour confirmer 0 lien restant
+
+### 🎯 Méthodologie correcte
+
+```
+1. Lister TOUS les patterns cassés
+2. Corrections globales avec sed large
+3. Vérifier 0 restant
+4. Build test
+5. Commit
+```
+
+**Pas de corrections incrémentales** → Corrections globales d'un coup

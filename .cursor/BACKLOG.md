@@ -275,6 +275,36 @@ Scripts automation créés (7 scripts) mais pas encore activés. Setup requis po
 
 ---
 
+## 🟠 SITEMAPS & INDEXATION
+
+### [P1] [Temps: 1.5-2h] [Qui: Guillaume] TASK-028 : Sitemaps Consistency 11 villes
+
+📁 **Doc** : `.cursor/tasks/[P1]-TASK-028-sitemaps-consistency/`
+
+**Type** : SEO / QA + Cleanup
+
+**Objectif** : Garantir 1 seule sitemap par domaine (route `app/sitemap.ts`) et une exposition cohérente sur les 11 sites.
+
+**Actions** :
+- [ ] Auditer 11 domaines : `GET /sitemap.xml` → 200 `application/xml`
+- [ ] Vérifier absence de `sitemap_index.xml` et `sitemap-*.xml` (→ 404 attendu)
+- [ ] Vérifier URLs avec trailing slash dans la sitemap
+- [ ] Ajouter dans `robots.txt` la ligne `Sitemap: https://<domaine>/sitemap.xml` (11 sites)
+- [ ] Neutraliser le risque de double-sitemap : supprimer/renommer `next-sitemap.config.js` inutilisés
+- [ ] QA 2 URLs par site (sitemap → page 200)
+- [ ] Commits + déploiements, GSC: resoumettre sitemaps
+
+**Definition of Done** :
+- [ ] 11/11 `GET /sitemap.xml` → 200 OK
+- [ ] 0/11 `sitemap_index.xml` et `sitemap-*.xml` accessibles (404 OK)
+- [ ] 11/11 `robots.txt` contiennent la directive `Sitemap:`
+- [ ] Trailing slash cohérent sur toutes les URLs exposées
+- [ ] Documentation et SHAs consignés
+
+**Raison (priorisation)** : Sitemaps = signal d’indexation critique; prévenir régressions et garantir cohérence multi-sites.
+
+---
+
 ## 🔄 EN COURS (à finaliser)
 
 ### [P0] [Temps: ~90% fait] [Qui: Guillaume] TASK-011 : Fix 308 Redirections Nice + Deployment

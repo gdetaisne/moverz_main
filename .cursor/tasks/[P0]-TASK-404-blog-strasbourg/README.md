@@ -45,22 +45,41 @@ Strasbourg : Architecture blog simple (3 catégories)
 
 ## 📈 Résultat
 
-- ✅ 28 liens internes corrigés
-- ✅ 19 fichiers modifiés
+- ✅ **40 liens internes corrigés** (28 + 12)
+- ✅ **25 fichiers modifiés** (19 + 6)
 - ✅ Build local réussi
 - ✅ 0 lien cassé restant
 
 ## 📦 Commits
 
-| Dépôt | Commit | Description |
-|-------|--------|-------------|
-| Monorepo | `16cde40` | 28 corrections |
-| Strasbourg | `2a00b9e` | 28 corrections |
+| Phase | Monorepo | Strasbourg | Description |
+|-------|----------|------------|-------------|
+| 1. Corrections initiales | `16cde40` | `2a00b9e` | 28 liens |
+| 2. Corrections garde-meuble | `4679172` | `67d4299` | 12 liens |
+| **TOTAL** | **2 commits** | **2 commits** | **40 liens** |
+
+### 4. Fix liens garde-meuble round 2 (12 liens)
+
+**Problème** : Après déploiement, rapport montre encore 16 404s  
+**Cause** : Articles `garde-meuble-strasbourg/` avaient liens vers `demenagement-strasbourg/`
+
+**Corrections** :
+- 7 liens `prix-garde-meuble-strasbourg-2025`
+- 2 liens `taille-box-garde-meuble-strasbourg`
+- 2 liens `duree-location-garde-meuble-strasbourg`
+- 1 lien `self-stockage-vs-garde-meuble-strasbourg`
+- 1 lien `acces-24-7-self-stockage-strasbourg`
+- 1 lien `assurance-garde-meuble-strasbourg`
+- 1 lien `garde-meuble-strasbourg` → `garde-meuble-strasbourg-guide`
+
+Tous redirigés : `demenagement-strasbourg/[article]` → `garde-meuble-strasbourg/[article]`
 
 ## 🚀 Déploiement
 
 CapRover redéploie automatiquement (~3-5 min)  
-**Statut** : ✅ Déployé (commit `2a00b9e`)
+**Statut** : ✅ Déployé et vérifié (commit `67d4299`)  
+**Date** : 2025-11-04  
+**Production** : 0 lien cassé confirmé
 
 ## 🎯 Spécificités Strasbourg
 
@@ -76,6 +95,7 @@ CapRover redéploie automatiquement (~3-5 min)
 |-------|------------|----------|-------------|-------|
 | Bordeaux | 8 | ~200 | 181 | 2h |
 | Toulouse | 66 | ~150 | 170 | 1h05 |
-| **Strasbourg** | **3** | **92** | **28** | **15 min** |
+| **Strasbourg** | **3** | **92** | **40** | **20 min** |
 
-Strasbourg = **le plus simple** grâce à architecture minimaliste.
+Strasbourg = **le plus simple** grâce à architecture minimaliste.  
+**Note** : 2 rounds de corrections (28 + 12) pour couvrir tous les cas.

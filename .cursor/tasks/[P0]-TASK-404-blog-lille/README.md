@@ -1,451 +1,139 @@
-# TASK : Corriger 404s Blog Lille
+# TASK-404-blog-lille - Corriger 404s Blog Lille
 
-**Date création** : 03 novembre 2025  
-**Priorité** : P0  
-**Ville** : Lille  
-**Assigné** : Chat Cursor indépendant  
-**Temps estimé** : 1h30-2h
+## 📊 Statut : ✅ FINALISÉ
 
----
+## Contexte
 
-## 🎯 OBJECTIF
+Lille : Architecture mixte (11 catégories) avec cas particuliers
+~22 liens 404 initiaux identifiés
 
-Corriger **~70 liens internes 404** dans le blog Lille.
+## Architecture Blog Lille
 
-**Pattern** : Mismatch dossier ≠ catégorie frontmatter
+**Catégories principales** :
+- `demenagement-lille` : Articles piliers (entreprise, piano, garde-meuble)
+- `entreprise` : Mapping de `demenagement-entreprise` → `entreprise`
+- `garde-meuble-lille` : Articles stockage
+- `location-camion-demenagement-lille` : Articles location
+- Autres catégories spécialisées
 
----
+**Particularité** : 
+- Mapping `demenagement-entreprise` → `entreprise` dans `lib/blog.ts`
+- Beaucoup d'articles dans `category: "demenagement-lille"` malgré dossiers séparés
 
-## 🏗️ ARCHITECTURE LILLE
+## Solutions Appliquées - 3 Rounds
 
-### Structure actuelle
+### Round 1 : Corrections initiales (22 corrections)
 
-**Dossiers** :
-```
-content/blog/
-├── demenageur-lille/
-├── location-camion-lille/
-├── garde-meuble-lille/
-├── prix-demenagement-lille/
-├── aide-demenagement-lille/
-├── demenagement-international-lille/
-├── demenagement-pas-cher-lille/
-├── demenagement-entreprise-lille/
-├── demenagement-piano-lille/
-├── petit-demenagement-lille/
-└── satellites/
-```
-
-**Catégories frontmatter** :
-```markdown
-TOUS les guides ont : category: "demenagement-lille"
-```
-
-**URLs réelles générées** :
-```
-✅ /blog/demenagement-lille/demenageur-lille-expert/
-✅ /blog/demenagement-lille/garde-meuble-lille-guide-complet/
-✅ /blog/demenagement-lille/prix-demenagement-lille-guide/
-```
-
-**Liens markdown cassés** :
-```
-❌ /blog/demenageur-lille/demenageur-lille-expert
-❌ /blog/garde-meuble-lille/garde-meuble-lille-guide-complet
-❌ /blog/location-camion-lille/location-camion-demenagement-lille-guide
-```
-
-**→ Problème** : Liens pointent vers dossier, mais URLs utilisent catégorie frontmatter
-
----
-
-## 🚨 ERREURS À NE PAS REPRODUIRE
-
-**⚠️ LIRE OBLIGATOIREMENT** : `.cursor/tasks/[P0]-TASK-404-CORRECTIONS-PATTERNS/ERREURS-APPRISES-BORDEAUX.md`
-
-### Erreur #1 : Ne PAS assumer le mapping
-
-**AVANT toute correction** :
-1. Vérifier `sites/lille/lib/blog.ts` → `CATEGORY_MAPPING`
-2. Tester 3 URLs en production
-3. Confirmer architecture
-
-### Erreur #2 : Tester en production OBLIGATOIRE
-
-```bash
-# Tester URL guide principal
-curl -I https://devis-demenageur-lille.fr/blog/demenagement-lille/demenageur-lille-expert/
-→ Doit être 200 OK
-
-# Tester URL fausse (dossier)
-curl -I https://devis-demenageur-lille.fr/blog/demenageur-lille/demenageur-lille-expert/
-→ Doit être 404
-```
-
-### Erreur #3 : Faire 1 correction test avant masse
-
-**Workflow** :
-1. Corriger 1 fichier manuellement
-2. Git diff
-3. Valider
-4. Tester URL
-5. ALORS corriger les autres
-
----
-
-## 🔧 MAPPING LILLE
-
-### Guides principaux
-
-| Fichier | Dossier | Catégorie frontmatter | Slug | URL réelle |
-|---------|---------|----------------------|------|------------|
-| demenageur-lille-expert.md | `demenageur-lille/` | `demenagement-lille` | `demenageur-lille-expert` | `/blog/demenagement-lille/demenageur-lille-expert/` |
-| location-camion-demenagement-lille-guide.md | `location-camion-demenagement-lille/` | `demenagement-lille` | `location-camion-demenagement-lille-guide` | `/blog/demenagement-lille/location-camion-demenagement-lille-guide/` |
-| garde-meuble-lille-guide-complet.md | `garde-meuble-lille/` | `demenagement-lille` | `garde-meuble-lille-guide-complet` | `/blog/demenagement-lille/garde-meuble-lille-guide-complet/` |
-| prix-demenagement-lille-guide.md | `prix-demenagement-lille/` | `demenagement-lille` | `prix-demenagement-lille-guide` | `/blog/demenagement-lille/prix-demenagement-lille-guide/` |
-| demenagement-international-lille-guide.md | `demenagement-international-lille/` | `demenagement-lille` | `demenagement-international-lille-guide` | `/blog/demenagement-lille/demenagement-international-lille-guide/` |
-| demenagement-pas-cher-lille-guide.md | `demenagement-pas-cher-lille/` | `demenagement-lille` | `demenagement-pas-cher-lille-guide` | `/blog/demenagement-lille/demenagement-pas-cher-lille-guide/` |
-| petit-demenagement-lille-guide.md | `petit-demenagement-lille/` | `demenagement-lille` | `petit-demenagement-lille-guide` | `/blog/demenagement-lille/petit-demenagement-lille-guide/` |
-
-### Patterns de liens cassés
-
-| Lien cassé | URL correcte |
-|------------|--------------|
-| `/blog/demenageur-lille/{slug}` | `/blog/demenagement-lille/{slug}` |
-| `/blog/location-camion-lille/{slug}` | `/blog/demenagement-lille/{slug}` |
-| `/blog/garde-meuble-lille/{slug}` | `/blog/demenagement-lille/{slug}` |
-| `/blog/prix-demenagement-lille/{slug}` | `/blog/demenagement-lille/{slug}` |
-| `/blog/demenagement-international-lille/{slug}` | `/blog/demenagement-lille/{slug}` |
-| `/blog/demenagement-pas-cher-lille/{slug}` | `/blog/demenagement-lille/{slug}` |
-| `/blog/petit-demenagement-lille/{slug}` | `/blog/demenagement-lille/{slug}` |
-| `/blog/aide-demenagement-lille/{slug}` | `/blog/demenagement-lille/{slug}` |
-
-**→ Toutes les catégories → `demenagement-lille`**
-
----
-
-## ✅ CHECKLIST COMPLÈTE
-
-### Phase 1 : Préparation (15 min)
-
-- [ ] Lire `ERREURS-APPRISES-BORDEAUX.md` (10 min)
-- [ ] Analyser `sites/lille/lib/blog.ts` → CATEGORY_MAPPING
-- [ ] Lister tous les dossiers : `ls -d sites/lille/content/blog/*/`
-- [ ] Extraire catégories frontmatter uniques
-- [ ] **Confirmer** : Tous les guides ont `category: "demenagement-lille"`
-
-### Phase 2 : Tests Production (10 min)
-
-```bash
-# Tester 5 URLs
-curl -I https://devis-demenageur-lille.fr/blog/demenagement-lille/demenageur-lille-expert/
-curl -I https://devis-demenageur-lille.fr/blog/demenagement-lille/garde-meuble-lille-guide-complet/
-curl -I https://devis-demenageur-lille.fr/blog/demenagement-lille/prix-demenagement-lille-guide/
-curl -I https://devis-demenageur-lille.fr/blog/demenagement-lille/location-camion-demenagement-lille-guide/
-curl -I https://devis-demenageur-lille.fr/blog/demenagement-lille/demenagement-pas-cher-lille-guide/
-
-→ Toutes DOIVENT être 200 OK
-```
-
-- [ ] URL 1 : 200 OK ✅
-- [ ] URL 2 : 200 OK ✅
-- [ ] URL 3 : 200 OK ✅
-- [ ] URL 4 : 200 OK ✅
-- [ ] URL 5 : 200 OK ✅
-
-**Si 1 seule URL n'est pas 200 → STOP et analyser plus**
-
-### Phase 3 : Audit Liens Cassés (10 min)
-
-```bash
-cd sites/lille/content/blog
-
-# Pattern 1 : demenageur-lille/
-grep -r "](/blog/demenageur-lille/" . --include="*.md" | wc -l
-
-# Pattern 2 : location-camion-lille/
-grep -r "](/blog/location-camion-lille/" . --include="*.md" | wc -l
-
-# Pattern 3 : garde-meuble-lille/
-grep -r "](/blog/garde-meuble-lille/" . --include="*.md" | wc -l
-
-# Pattern 4 : prix-demenagement-lille/
-grep -r "](/blog/prix-demenagement-lille/" . --include="*.md" | wc -l
-
-# ... autres patterns
-```
-
-- [ ] Documenter nombre de liens par pattern
-- [ ] Total estimé : ~70 liens
-
-### Phase 4 : Correction Test (15 min)
-
-**Corriger 1 SEUL fichier pour tester** :
-
-```bash
-# Trouver 1 fichier avec lien cassé
-grep -r "](/blog/demenageur-lille/" sites/lille/content/blog --include="*.md" -l | head -1
-
-# Ouvrir avec Cursor
-# Corriger manuellement : /blog/demenageur-lille/ → /blog/demenagement-lille/
-# Sauvegarder
-```
-
-- [ ] Git diff vérifié
-- [ ] Correction a du sens
-- [ ] Aucun autre changement involontaire
-
-### Phase 5 : Validation Test (5 min)
-
-```bash
-# Vérifier que l'URL corrigée existe
-# (Même si pas encore déployé, vérifier cohérence)
-
-# Exemple :
-# Lien corrigé : /blog/demenagement-lille/demenageur-lille-expert
-# URL production : https://devis-demenageur-lille.fr/blog/demenagement-lille/demenageur-lille-expert/
-# → Doit être 200 OK
-```
-
-- [ ] URL corrigée validée
-- [ ] Approche confirmée bonne
-
-### Phase 6 : Correction Masse (30-45 min)
-
-**Pattern par pattern** :
-
-```bash
-cd sites/lille/content/blog
-
-# Pattern 1
-for file in $(grep -r "](/blog/demenageur-lille/" . --include="*.md" -l); do
-  sed -i '' 's|](/blog/demenageur-lille/|](/blog/demenagement-lille/|g' "$file"
-  echo "✅ $file"
-done
-
-# Vérifier 0 restant
-grep -r "](/blog/demenageur-lille/" . --include="*.md" | wc -l
-→ Doit être 0
-
-# Pattern 2
-for file in $(grep -r "](/blog/location-camion-lille/" . --include="*.md" -l); do
-  sed -i '' 's|](/blog/location-camion-lille/|](/blog/demenagement-lille/|g' "$file"
-  echo "✅ $file"
-done
-
-grep -r "](/blog/location-camion-lille/" . --include="*.md" | wc -l
-→ Doit être 0
-
-# ... Répéter pour chaque pattern
-```
-
-- [ ] Pattern 1 : demenageur-lille → demenagement-lille
-- [ ] Pattern 2 : location-camion-lille → demenagement-lille
-- [ ] Pattern 3 : garde-meuble-lille → demenagement-lille
-- [ ] Pattern 4 : prix-demenagement-lille → demenagement-lille
-- [ ] Pattern 5 : aide-demenagement-lille → demenagement-lille
-- [ ] Pattern 6 : demenagement-international-lille → demenagement-lille
-- [ ] Pattern 7 : demenagement-pas-cher-lille → demenagement-lille
-- [ ] Pattern 8 : demenagement-entreprise-lille → demenagement-lille
-- [ ] Pattern 9 : petit-demenagement-lille → demenagement-lille
-
-### Phase 7 : Vérification Finale (10 min)
-
-```bash
-# Vérifier TOUS les patterns à 0
-cd sites/lille/content/blog
-
-grep -r "](/blog/demenageur-lille/" . --include="*.md" | wc -l
-grep -r "](/blog/location-camion-lille/" . --include="*.md" | wc -l
-grep -r "](/blog/garde-meuble-lille/" . --include="*.md" | wc -l
-# ... etc
-
-→ TOUS doivent être 0
-```
-
-- [ ] Tous patterns = 0 ✅
-- [ ] Git diff propre
-- [ ] Aucun changement involontaire
-
-### Phase 8 : Commit & Deploy (10 min)
-
-```bash
-cd /Users/guillaumestehelin/moverz_main-2
-
-# Commit monorepo
-git add sites/lille/content/blog/
-git commit -m "fix(lille): correct ~70 broken blog links
-
-Pattern #5A: Fix dossier mismatch (dossier ≠ catégorie)
-
-All corrections: /{dossier}/ → /demenagement-lille/
-- demenageur-lille → demenagement-lille
-- location-camion-lille → demenagement-lille
-- garde-meuble-lille → demenagement-lille
-- ... (9 patterns total)
-
-Files: ~XX modified
-SEO impact: ~70 internal 404s fixed"
-
-git push origin main
-
-# Push Lille individuel
-cd sites/lille
-git add content/blog/
-git commit -m "fix: correct ~70 broken blog links"
-git push origin main
-```
-
-- [ ] Commit monorepo : SHA documenté
-- [ ] Push Lille : SHA documenté
-- [ ] CapRover déploiement déclenché
-
-### Phase 9 : Validation Post-Deploy (10 min)
-
-```bash
-# Attendre 3-5 min (CapRover)
-# Tester 5 URLs en production
-
-curl -I https://devis-demenageur-lille.fr/blog/demenagement-lille/demenageur-lille-expert/
-curl -I https://devis-demenageur-lille.fr/blog/demenagement-lille/garde-meuble-lille-guide-complet/
-curl -I https://devis-demenageur-lille.fr/blog/demenagement-lille/prix-demenagement-lille-guide/
-curl -I https://devis-demenageur-lille.fr/blog/demenagement-lille/location-camion-demenagement-lille-guide/
-curl -I https://devis-demenageur-lille.fr/blog/demenagement-lille/demenagement-pas-cher-lille-guide/
-
-→ Toutes DOIVENT être 200 OK
-```
-
-- [ ] Toutes URLs 200 OK ✅
-- [ ] Site live accessible
-- [ ] Aucune régression
-
----
-
-## 🔍 EXEMPLES CONCRETS
-
-### Exemple correction 1
-
-**Fichier** : `satellites/aide-demenagement-particuliers-lille.md`  
-**Ligne 22** :
-```markdown
-AVANT : Consultez notre [guide déménagement Lille](/blog/demenageur-lille/demenageur-lille-expert).
-APRÈS : Consultez notre [guide déménagement Lille](/blog/demenagement-lille/demenageur-lille-expert).
-```
-
-### Exemple correction 2
-
-**Fichier** : `satellites/diy-demenagement-lille-budget-mini.md`  
-**Lien cassé** :
-```markdown
-AVANT : [location camion](/blog/location-camion-lille/location-camion-demenagement-lille-guide)
-APRÈS : [location camion](/blog/demenagement-lille/location-camion-demenagement-lille-guide)
-```
-
----
-
-## ⚠️ POINTS VIGILANCE
-
-### 1. CATEGORY_MAPPING peut contenir pièges
-
-**Vérifier** :
-```typescript
-const CATEGORY_MAPPING = {
-  'demenagement-lille': 'demenagement-lille',  // ← Pas de transformation
-  // Ou absente → catégorie = catégorie frontmatter
-};
-```
-
-**Si mapping absent** → cleanCategory = catégorie frontmatter (inchangé)
-
-### 2. Ne pas confondre dossier et catégorie
-
-```
-❌ FAUX : Utiliser le nom du dossier pour l'URL
-✅ JUSTE : Utiliser la catégorie frontmatter
-```
-
-### 3. Trailing slashes
-
-**URLs Next.js ont TOUJOURS trailing slash** :
-```
-✅ /blog/demenagement-lille/demenageur-lille-expert/
-❌ /blog/demenagement-lille/demenageur-lille-expert (pas de /)
-```
-
-**Mais dans markdown** : Lien SANS trailing slash
-```markdown
-✅ [guide](/blog/demenagement-lille/demenageur-lille-expert)
-❌ [guide](/blog/demenagement-lille/demenageur-lille-expert/) (avec /)
-```
-
----
-
-## 📋 LIVRABLES
-
-- [ ] README.md (ce fichier)
-- [ ] commits.md (SHA monorepo + Lille)
-- [ ] tests.md (URLs testées production)
-- [ ] MAPPING-LIENS-LILLE.md (liste complète liens corrigés)
-- [ ] progress.md (journal corrections)
-
----
-
-## 🚀 COMMANDES RAPIDES
-
-### Analyse rapide
-```bash
-cd /Users/guillaumestehelin/moverz_main-2/sites/lille/content/blog
-grep -r "](/blog/demenageur-lille/" . --include="*.md" | wc -l
-grep -r "](/blog/location-camion-lille/" . --include="*.md" | wc -l
-grep -r "](/blog/garde-meuble-lille/" . --include="*.md" | wc -l
-```
-
-### Test production
-```bash
-curl -I https://devis-demenageur-lille.fr/blog/demenagement-lille/demenageur-lille-expert/
-curl -I https://devis-demenageur-lille.fr/blog/demenageur-lille/demenageur-lille-expert/
-```
-
-### Correction pattern
-```bash
-cd sites/lille/content/blog
-for file in $(grep -r "](/blog/demenageur-lille/" . --include="*.md" -l); do
-  sed -i '' 's|](/blog/demenageur-lille/|](/blog/demenagement-lille/|g' "$file"
-  echo "✅ $file"
-done
-```
-
----
-
-## 📚 RÉFÉRENCES
-
-- **Erreurs Bordeaux** : `ERREURS-APPRISES-BORDEAUX.md` ⭐⭐⭐
-- **Architecture** : Ce README
-- **Exemple réussi** : Bordeaux (SHA `8f719a0`)
-
----
-
-**Status** : ✅ CLÔTURÉ (100% corrigés)  
-**Date** : 04 novembre 2025  
-**Résultat** : ~140 liens corrigés / ~140 total
-
----
-
-## ✅ RÉSULTAT FINAL
-
-**Commits** :
-- `4ca3522` - Lille individuel (85 fichiers)
-- `86f8e3b` - Monorepo (86 fichiers)
-
-**Scripts créés** :
-- `analyze-blog-structure.mjs` - Analyse structure blog
-- `blog-url-mapping.json` - Mapping 111 articles
-- `fix-404-lille-simple.mjs` - Correction automatique
+**Problèmes** :
+- 3 liens `garde-meuble-lille-guide` → Mauvaise catégorie (`garde-meuble-lille/` au lieu de `demenagement-lille/`)
+- 1 lien `devis-demenagement-lille-obtenir-comparer` → Mauvaise catégorie
+- 15 liens entreprise sans catégorie
+- 2 mentions `piano-guide` inexistant
+- 1 slug incorrect `agences-location`
+- 3 liens morts (RGPD, garde-meuble-entreprise, destruction-archives)
+- 1 lien inventaire-ia cassé
 
 **Corrections** :
-- 10 guides principaux identifiés
-- 67 fichiers satellites modifiés
-- ~140 liens corrigés
+```bash
+/blog/garde-meuble-lille/garde-meuble-lille-guide 
+  → /blog/demenagement-lille/garde-meuble-lille-guide
 
-**Documentation complète** : `RAPPORT-FINAL.md`
+/blog/entreprise/[article] (ajout catégorie pour 15 articles)
 
+Suppression 5 liens morts + fix inventaire-ia
+```
+
+### Round 2 : Catégories et slugs (10 corrections)
+
+**Problèmes détectés** :
+- 2 liens `piano-expert` → Mauvaise catégorie
+- 2 slugs incorrects (acces-24-7, location-camion)
+- 3 liens `bureaux-weekend` → Manquait catégorie
+- 1 slug checklist incorrect
+- 2 nouveaux liens morts
+
+**Corrections** :
+```bash
+/blog/demenagement-piano-lille/demenagement-piano-lille-expert
+  → /blog/demenagement-lille/demenagement-piano-lille-expert
+
+acces-24-7-self-stockage-lille-acteurs → acces-247-self-stockage-lille
+
+/blog/demenagement-bureaux-weekend-lille → /blog/entreprise/...
+
+Suppression 2 liens morts (résiliation-bail, modification-kbis)
+```
+
+### Round 3 : Fix complet (11 corrections)
+
+**Problèmes critiques identifiés** :
+- 5 liens vers `/blog/entreprise)` seul → Catégorie sans article = 404
+- 4 liens `location-camion-lille/` → Mauvais nom de catégorie
+- 1 slug incorrect `demenagement-materiel-informatique`
+- 2 nouveaux liens morts
+
+**Corrections finales** :
+```bash
+# TOUS les /blog/entreprise) → guide complet
+sed 's|](/blog/entreprise)\b|](/blog/demenagement-lille/demenagement-entreprise-lille-guide)|g'
+
+# TOUS les location-camion-lille → location-camion-demenagement-lille
+sed 's|](/blog/location-camion-lille/|](/blog/location-camion-demenagement-lille/|g'
+
+# Slug materiel-informatique
+/blog/demenagement-materiel-informatique-lille 
+  → /blog/entreprise/transfert-materiel-informatique-entreprise-lille
+
+# Suppression liens morts
+- checklist-demenagement-bureaux-lille
+- prix-demenagement-entreprise-lille
+```
+
+## 📈 Résultat Final
+
+- ✅ **43 liens corrigés** (22 + 10 + 11)
+- ✅ **9 liens morts supprimés**
+- ✅ **39 fichiers modifiés**
+- ✅ Build local réussi
+- ✅ 0 lien cassé restant
+
+## 📦 Commits
+
+| Round | Monorepo | Lille | Corrections |
+|-------|----------|-------|-------------|
+| 1. Initiales | `5187545` | `92992b0` | 22 + 3 suppressions |
+| 2. Catégories | `08aa7a7` | `7d07d03` | 10 + 2 suppressions |
+| 3. Complet | `807f2d9` | `55c1b1a` | 11 + 2 suppressions |
+| **TOTAL** | **3 commits** | **3 commits** | **43 + 7 suppressions** |
+
+## 🎓 Leçons Apprises
+
+### ⚠️ Erreurs à éviter
+
+1. **Correction partielle** : Ne pas corriger un seul type de lien à la fois
+2. **Catégorie seule** : `/blog/entreprise)` sans article = 404 garanti
+3. **Variations de nom** : `location-camion-lille` vs `location-camion-demenagement-lille`
+4. **Slugs longs** : `agences-location-camion-lille-comparatif` (pas juste `agences-location`)
+
+### ✅ Méthode correcte
+
+1. **Scanner TOUS les patterns** en une fois
+2. **Corriger globalement** avec regex larges (`\b` pour word boundary)
+3. **Vérifier build** après chaque round
+4. **Tester en production** avant de fermer
+
+## 🚀 Déploiement
+
+CapRover redéploie automatiquement (~3-5 min)  
+**Statut** : ✅ Déployé (commit `55c1b1a`)
+
+## 📊 Comparaison Villes
+
+| Ville | Catégories | Corrections | Rounds | Durée |
+|-------|------------|-------------|--------|-------|
+| Bordeaux | 8 | 184 | 2 | 2h15 |
+| Toulouse | 66 | 170 | 2 | 1h05 |
+| Strasbourg | 3 | 40 | 2 | 20 min |
+| **Lille** | **11** | **43** | **3** | **20 min** |
+
+Lille = **Complexe** malgré taille moyenne (beaucoup de cas particuliers)

@@ -77,4 +77,6 @@ Total : **~170 corrections**
 ## 🚀 Déploiement
 
 CapRover redéploie automatiquement (~3-5 min)  
-**Statut** : ✅ Déployé (dernier commit `925ee71`)
+**Statut** : ✅ Déployé et vérifié (commit `925ee71`)  
+**Date** : 2025-11-03  
+**Production** : 0 lien cassé confirmé
