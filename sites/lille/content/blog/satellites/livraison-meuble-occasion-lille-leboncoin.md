@@ -221,7 +221,7 @@ Marché Leboncoin Lille : 2 000-3 000 annonces meubles/jour métropole (canapés
 
 Cas d'usage : **achat IKEA Lezennes** canapé KLIPPAN 150€ → Wazemmes 12 km (IKEA livraison 49€ standard 2-5j ou 79€ express lendemain vs coursier 80€ jour même vs DIY Berlingo 60€), **récupération Leboncoin** armoire donnée Lomme → République 8 km (ami pickup 10€ optimal si disponible vs DIY 65€ vs coursier 80€), **achat occasion** Fives table 80€ livrée négociation vendeur +30€ = 110€ total vs 80€ + coursier 90€ = 170€ (économie 60€).
 
-Consultez notre [guide transport meubles Lille](/blog/petit-demenagement-lille/transport-meubles-lille-sans-demenageur), notre [guide petit déménagement](/blog/petit-demenagement-lille/petit-demenagement-lille-studio-t1), notre [guide location camion](/blog/demenagement-lille/location-camion-demenagement-lille-guide) et notre [article DIY](/blog/demenagement-pas-cher-lille/diy-demenagement-lille-budget-mini).
+Consultez notre [guide transport meubles Lille](/blog/petit-demenagement-lille/transport-meubles-lille-sans-demenageur), notre [guide petit déménagement](/blog/petit-demenagement-lille/petit-demenagement-lille-studio-t1), notre [guide location camion](/blog/location-camion-lille/location-camion-demenagement-lille-guide) et notre [article DIY](/blog/demenagement-pas-cher-lille/diy-demenagement-lille-budget-mini).
 
 
 

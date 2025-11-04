@@ -18,7 +18,7 @@ author: "Équipe Moverz Montpellier"
 # Continuité d'Activité Pendant Déménagement Entreprise
 
 
-Pour comprendre tous les aspects du déménagement entreprise à Montpellier, consultez notre [guide déménagement entreprise Montpellier](/blog/demenagement-montpellier/demenagement-entreprise-montpellier).
+Pour comprendre tous les aspects du déménagement entreprise à Montpellier, consultez notre [guide déménagement entreprise Montpellier](/blog/demenagement-entreprise-montpellier/demenagement-entreprise-montpellier).
 
 
 Assurer continuité activité durant déménagement entreprise nécessite priorisation IT (serveurs, téléphonie, internet coupure < 24h), solutions temporaires (4G backup, VPN), et planning multi-phases (déménagement progressif vs big bang weekend). Perte activité 2-3 jours coûte 10 000-100 000€ selon entreprise montpelliéraine, justifiant investissement 2 000-8 000€ en solutions continuité.

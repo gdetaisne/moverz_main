@@ -19,7 +19,7 @@ author: "Équipe Moverz Montpellier"
 # Déménagement Étudiant Pas Cher à Montpellier : Guide Budget Serré 2025
 
 
-Pour comprendre tous les aspects du déménagement pas cher à Montpellier, consultez notre [guide déménagement économique Montpellier](/blog/demenagement-montpellier/demenagement-pas-cher-montpellier).
+Pour comprendre tous les aspects du déménagement pas cher à Montpellier, consultez notre [guide déménagement économique Montpellier](/blog/demenagement-pas-cher-montpellier/demenagement-pas-cher-montpellier).
 
 
 Avec 70 000 étudiants, Montpellier figure parmi les villes universitaires les plus dynamiques de France. Cette population étudiante massive génère une mobilité résidentielle intense, particulièrement entre les quartiers de Boutonnet, des Hôpitaux-Facultés, des Beaux-Arts et des Près d'Arènes où se concentrent les logements adaptés aux budgets serrés.

@@ -18,16 +18,16 @@ Saint-Grégoire, commune nord métropole Rennes (9 500 habitants, résidentiel r
 
 ## FAQ
 
-Pour comprendre tous les aspects de ce sujet, consultez notre [guide complet des déménageurs à Rennes](/blog/demenagement-rennes/demenageur-rennes/).
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide complet des déménageurs à Rennes](/blog/demenagement-rennes/demenageur-rennes).
 
-Pour comprendre tous les aspects de ce sujet, consultez notre [guide complet des déménageurs à Rennes](/blog/demenagement-rennes/demenageur-rennes/).
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide complet des déménageurs à Rennes](/blog/demenagement-rennes/demenageur-rennes).
 
 **Prix T3 Saint-Grégoire ?**
 700-950€ (similaire Rennes centre, quartier recherché).
 
-Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [nos services de déménagement rennais](/blog/demenagement-rennes/demenageur-rennes/).
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [nos services de déménagement rennais](/blog/demenagement-rennes/demenageur-rennes).
 
-Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [nos services de déménagement rennais](/blog/demenagement-rennes/demenageur-rennes/).
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [nos services de déménagement rennais](/blog/demenagement-rennes/demenageur-rennes).
 
 ---
 **Sources :** Fiche métropole Rennes

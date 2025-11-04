@@ -18,7 +18,7 @@ author: "Équipe Moverz Montpellier"
 # Prix Déménagement Piano à Montpellier : Guide Tarifs 2025
 
 
-Pour comprendre tous les aspects du déménagement piano Montpellier, consultez notre [guide transport piano à Montpellier](/blog/demenagement-montpellier/demenagement-piano-montpellier).
+Pour comprendre tous les aspects du déménagement piano Montpellier, consultez notre [guide transport piano à Montpellier](/blog/demenagement-piano-montpellier/demenagement-piano-montpellier).
 
 
 Déménager un piano à Montpellier coûte entre 150€ et 800€ selon le type d'instrument (droit ou queue), les étages à franchir, et le quartier d'accès. Un piano droit dans un rez-de-chaussée de Port Marianne représente 150-200€, tandis qu'un piano à queue au 4ème étage sans ascenseur dans l'Écusson peut atteindre 700-800€ avec le monte-meuble obligatoire.

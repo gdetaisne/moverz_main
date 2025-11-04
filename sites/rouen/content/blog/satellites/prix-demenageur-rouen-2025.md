@@ -19,7 +19,7 @@ Combien coûte un déménageur à Rouen en 2025 ? Les prix varient de **400€ �
 
 À Rouen, trois sources fiables confirment ces fourchettes : FretBay (plateforme comparaison déménageurs), Transports-et-Déménagement.com (moyennes régionales), et Les Artisans Déménageurs spécialisés Rouen. Un témoignage client local précise : "Notre déménagement d'un T2 du quartier Saint-Marc vers Pasteur nous a coûté 850€ avec TDN Déménagements. 3ème étage sans ascenseur côté départ, ils ont utilisé un monte-meuble. Prestation nickel mais plus cher que prévu à cause des étages" (Avis Google, août 2024).
 
-Ce guide détaille les **prix réels pratiqués à Rouen**, les facteurs influençant les tarifs (quartiers, formules, saisons), et les surcoûts spécifiques à anticiper (centre historique +15-25%, monte-meuble +180-350€). Pour comprendre toutes les options, consultez [notre guide complet du déménageur à Rouen](/blog/demenagement-rouen/demenageur-rouen).
+Ce guide détaille les **prix réels pratiqués à Rouen**, les facteurs influençant les tarifs (quartiers, formules, saisons), et les surcoûts spécifiques à anticiper (centre historique +15-25%, monte-meuble +180-350€). Pour comprendre toutes les options, consultez [notre guide complet du déménageur à Rouen](/blog/demenageur/demenageur-rouen-guide-complet).
 
 ## Prix Moyens Déménageur Rouen par Volume
 
@@ -214,7 +214,7 @@ Comparez systématiquement **3-4 devis** : écarts Rouen 15-25% courants pour pr
 
 Les prix des déménageurs professionnels à Rouen en 2025 varient de **400€ à 3500€** selon le volume de votre logement : **550€** moyenne pour studio, **1000€** pour T2, **1650€** pour T3, **2650€** pour maison. Ces fourchettes, confirmées par trois sources fiables (FretBay, Transports-et-Déménagement, Artisans Déménageurs), correspondent à des formules standard avec services complets.
 
-Les **spécificités rouennaises** ajoutent des surcoûts à anticiper : centre historique (Vieux-Marché, Cathédrale) +15-25%, étages sans ascenseur +40-60€/étage, monte-meuble +180-350€. Les témoignages clients confirment : T2 Saint-Marc→Pasteur 850€ (TDN), T3 Vieux-Marché→Saint-Sever 1450€ (surcoût centre), Maison Sotteville 2300€ (Demeco). Découvrez tous nos [services de déménagement à Rouen](/blog/demenagement-rouen/demenageur-rouen) et demandez vos devis.
+Les **spécificités rouennaises** ajoutent des surcoûts à anticiper : centre historique (Vieux-Marché, Cathédrale) +15-25%, étages sans ascenseur +40-60€/étage, monte-meuble +180-350€. Les témoignages clients confirment : T2 Saint-Marc→Pasteur 850€ (TDN), T3 Vieux-Marché→Saint-Sever 1450€ (surcoût centre), Maison Sotteville 2300€ (Demeco). Découvrez tous nos [services de déménagement à Rouen](/blog/demenageur/demenageur-rouen-guide-complet) et demandez vos devis.
 
 ## Questions Fréquentes
 

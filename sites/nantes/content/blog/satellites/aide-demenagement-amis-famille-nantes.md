@@ -11,7 +11,7 @@ publish_date: "2025-02-21"
 author: "Équipe Moverz Nantes"
 ---
 
-"Tu m'aides à déménager samedi ?" La demande classique entre amis nantais, souvent acceptée par solidarité, parfois redoutée secrètement. Déménager avec l'aide de proches économise 300-600€ vs un déménageur professionnel (formule économique T2 : 450-600€), mais mal organisé, cela peut virer au cauchemar : helpers épuisés après 3h, tensions sur portage canapé dans escalier étroit, et l'amitié refroidie pour des mois. Pour une vue d'ensemble complète, consultez notre [guide aide déménagement à Nantes](/blog/demenagement-nantes/aide-demenagement-nantes-guide).
+"Tu m'aides à déménager samedi ?" La demande classique entre amis nantais, souvent acceptée par solidarité, parfois redoutée secrètement. Déménager avec l'aide de proches économise 300-600€ vs un déménageur professionnel (formule économique T2 : 450-600€), mais mal organisé, cela peut virer au cauchemar : helpers épuisés après 3h, tensions sur portage canapé dans escalier étroit, et l'amitié refroidie pour des mois. Pour une vue d'ensemble complète, consultez notre [guide aide déménagement à Nantes](/blog/aide-demenagement-nantes/aide-demenagement-nantes-guide).
 
 À Nantes, 25-30% des déménagements se font avec l'aide d'amis ou famille, principalement studios et T1 (étudiants parmi les 55 000 de la métropole, jeunes actifs). Le taux de réussite sans friction dépend de trois facteurs : **bonne organisation** (nombre adapté de personnes, planning clair, pauses régulières), **rémunération équitable** (repas + remerciements sincères, pas exploitation gratuite), et **quartiers praticables** (Doulon/Île de Nantes ascenseurs OK, Bouffay rues étroites = échec garanti).
 
@@ -128,7 +128,7 @@ Les 25-30% de Nantais tentant le DIY avec amis se concentrent sur studios/T1 (ef
 Notre conseil final Nantes : si vous tentez DIY amis, sur-préparez (emballage/démontage AVANT arrivée helpers samedi), sur-effectif (invitez +1-2 personnes vs strict nécessaire), sur-budgétez remerciements (165€ généreux vs 80€ radin), et sur-sélectionnez quartier (refusez Bouffay même si économie tentante, privilégiez Doulon/Île de Nantes). Ces 4 sur-précautions garantissent succès 90% vs 60% si improvisation.
 
 
-Pour aller plus loin, explorez notre [guide aide déménagement à Nantes](/blog/demenagement-nantes/aide-demenagement-nantes-guide) ainsi que nos guides complémentaires : [plateformes d'aide déménagement](/blog/aide-demenagement-nantes/plateformes-aide-demenagement-nantes) et [étudiants déménageurs](/blog/aide-demenagement-nantes/etudiants-aide-demenagement-nantes).
+Pour aller plus loin, explorez notre [guide aide déménagement à Nantes](/blog/aide-demenagement-nantes/aide-demenagement-nantes-guide) ainsi que nos guides complémentaires : [plateformes d'aide déménagement](/blog/aide-demenagement-nantes/plateformes-aide-demenagement-nantes) et [étudiants déménageurs](/blog/aide-demenagement-nantes/etudiants-aide-demenagement-nantes).
 
 ## Questions Fréquentes
 

@@ -18,7 +18,7 @@ author: "Équipe Moverz Montpellier"
 # Piano Droit vs Piano Queue : Différences de Déménagement
 
 
-Pour comprendre tous les aspects du déménagement piano Montpellier, consultez notre [guide transport piano à Montpellier](/blog/demenagement-montpellier/demenagement-piano-montpellier).
+Pour comprendre tous les aspects du déménagement piano Montpellier, consultez notre [guide transport piano à Montpellier](/blog/demenagement-piano-montpellier/demenagement-piano-montpellier).
 
 
 Déménager un piano droit coûte 150-300€ contre 300-800€ pour un piano à queue à Montpellier, soit 2 à 3 fois plus cher. Cette différence s'explique par le poids (200-400 kg vs 300-600 kg), le démontage obligatoire de la queue (pieds, lyre), et le nombre de déménageurs nécessaires (2 vs 3).

@@ -264,7 +264,7 @@ Budgets réalistes : **étudiant boursier** revenus 700-800€/mois (bourse 300-
 
 70 000 étudiants Lille (Université Lille 1-2-3, Sciences Po, EDHEC/IESEG commerce, Centrale/Polytech ingénieurs) génèrent 15 000-20 000 déménagements/an (30% déménagent annuellement fin études/stages/échanges Erasmus/changements logement). Acteurs spécialisés : déménageurs classiques formules étudiantes réduites (Lefebvre "Formule Étudiant" 180-260€), coursiers Lille 150-240€, plateformes étudiantes réseaux sociaux fac.
 
-Consultez notre [guide petit déménagement Lille](/blog/petit-demenagement-lille/petit-demenagement-lille-studio-t1), notre [guide déménagement pas cher](/blog/demenagement-lille/demenagement-pas-cher-lille-guide), notre [article DIY budget mini](/blog/demenagement-pas-cher-lille/diy-demenagement-lille-budget-mini) et notre [guide location camion](/blog/demenagement-lille/location-camion-demenagement-lille-guide).
+Consultez notre [guide petit déménagement Lille](/blog/petit-demenagement-lille/petit-demenagement-lille-studio-t1), notre [guide déménagement pas cher](/blog/demenagement-pas-cher-lille/demenagement-pas-cher-lille-guide), notre [article DIY budget mini](/blog/demenagement-pas-cher-lille/diy-demenagement-lille-budget-mini) et notre [guide location camion](/blog/location-camion-lille/location-camion-demenagement-lille-guide).
 
 
 

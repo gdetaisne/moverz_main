@@ -25,7 +25,7 @@
 **Temps estimé** : 6-8h  
 **Temps réel** : 1h30 (efficacité × 4-5 grâce aux templates)
 
-📁 **Documentation** : `.cursor/tasks/[P1]-TASK-031-breadcrumbs-schema/`
+📁 **Documentation** : `.cursor/archives/tasks-finalisees/novembre-2025/[P1]-TASK-031-breadcrumbs-schema/`
 
 **Résumé** :
 Implémentation breadcrumbs visibles + BreadcrumbList schema JSON-LD sur 11 sites Moverz. Composant et schema déjà existants (31.2% couverture). Ajout via templates (CorridorPage, LocalPage) et pages directes (légales, outils) pour atteindre 90.6% couverture (319 pages). Synchronisation 11 villes, 12 commits GitHub, tests validés 9/11 sites.
@@ -110,7 +110,7 @@ Implémentation breadcrumbs visibles + BreadcrumbList schema JSON-LD sur 11 site
 **Temps estimé** : 1.5-2h  
 **Temps réel** : 0h (déjà complète lors de TASK-025)
 
-📁 **Documentation** : `.cursor/tasks/[P1]-TASK-028-sitemaps-consistency/`
+📁 **Documentation** : `.cursor/archives/tasks-finalisees/novembre-2025/[P1]-TASK-028-sitemaps-consistency/`
 
 **Résumé** :
 Audit et validation conformité sitemaps sur 11 sites Moverz. TÂCHE DÉJÀ COMPLÈTE : configuration parfaite détectée lors de l'audit. 1 seule sitemap par domaine, directive robots.txt présente, trailing slash cohérent, 1,252 URLs indexables. Aucune action corrective nécessaire.
@@ -171,7 +171,7 @@ Audit et validation conformité sitemaps sur 11 sites Moverz. TÂCHE DÉJÀ COMP
 **Temps estimé** : 3-4h  
 **Temps réel** : 0h (obsolète, déjà existant via Moverz Analytics)
 
-📁 **Documentation** : `.cursor/tasks/[P1]-TASK-032-search-console/`
+📁 **Documentation** : `.cursor/archives/tasks-finalisees/novembre-2025/[P1]-TASK-032-search-console/`
 
 **Résumé** :
 Configuration Google Search Console pour les 11 villes Moverz. TÂCHE OBSOLÈTE : remplacée par solution 10x supérieure (application Moverz Analytics en production) incluant dashboard multi-sites temps réel, monitoring automatisé GSC API → BigQuery, alertes indexation, tracking 404s avec historique commits, et actions recommandées IA.

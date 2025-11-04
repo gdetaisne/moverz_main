@@ -20,14 +20,22 @@ Votre piano est bien plus qu'un simple meuble. C'est un instrument de musique pr
 ## 📚 Notre Dossier Complet Déménagement Piano Montpellier
 
 **Par Type de Piano :**
+- [Transport piano droit Montpellier](/blog/demenagement-piano-montpellier/transport-piano-droit-montpellier) - Vertical 200-300 kg, techniques spécifiques
+- [Transport piano queue Montpellier](/blog/demenagement-piano-montpellier/transport-piano-queue-montpellier) - Horizontal 300-600 kg, démontage pieds
+- [Déménagement piano numérique Montpellier](/blog/demenagement-piano-montpellier/demenagement-piano-numerique-montpellier) - Instruments électroniques lourds
 
 **Prix et Facteurs :**
 - [Prix déménagement piano Montpellier 2025](/blog/demenagement-piano-montpellier/prix-demenagement-piano-montpellier) - Fourchettes 150-800€ selon distance/étages
+- [Facteurs prix transport piano](/blog/demenagement-piano-montpellier/facteurs-prix-transport-piano) - Poids, étages, distance, assurance
 
 **Matériel et Services :**
+- [Monte-meuble piano Montpellier Écusson](/blog/demenagement-piano-montpellier/monte-meuble-piano-montpellier-ecusson) - Immeubles sans ascenseur centre historique
+- [Emballage protection piano transport](/blog/demenagement-piano-montpellier/emballage-protection-piano-transport) - Couvertures, housses, calage
+- [Assurance transport piano Montpellier](/blog/demenagement-piano-montpellier/assurance-transport-piano-montpellier) - Couverture valeur réelle
 
 **Entretien Post-Transport :**
-- [Accordage piano après déménagement obligatoire](/blog/demenagement-piano-montpellier/accorder-piano-apres-demenagement) - Délai 48-72h, coût 80-120€
+- [Accordage piano après déménagement obligatoire](/blog/demenagement-piano-montpellier/accordage-piano-apres-demenagement-obligatoire) - Délai 48-72h, coût 80-120€
+- [Déménagement piano ancien valeur Montpellier](/blog/demenagement-piano-montpellier/demenagement-piano-ancien-valeur-montpellier) - Instruments collection, précautions spéciales
 
 ## Pourquoi faire appel à un professionnel pour déménager votre piano à Montpellier ?
 

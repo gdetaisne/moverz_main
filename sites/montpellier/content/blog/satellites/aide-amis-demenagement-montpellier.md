@@ -18,7 +18,7 @@ author: "Équipe Moverz Montpellier"
 # Aide d'Amis Pour Déménager à Montpellier : Organisation
 
 
-Pour comprendre tous les aspects du aide déménagement particulier Montpellier, consultez notre [guide aide déménagement à Montpellier](/blog/demenagement-montpellier/aide-demenagement-particulier-montpellier).
+Pour comprendre tous les aspects du aide déménagement particulier Montpellier, consultez notre [guide aide déménagement à Montpellier](/blog/aide-au-demenagement-particulier-montpellier/aide-demenagement-particulier-montpellier).
 
 
 Organiser un déménagement avec l'aide d'amis à Montpellier nécessite 3-4 personnes pour un T2 (2-3h d'effort), un repas convivial de remerciement (10-15€/personne, total 40-60€), et une planification précise pour optimiser le temps de chacun. Cette entraide permet d'économiser 400-800€ par rapport à un déménageur professionnel complet (900-1 200€), au prix de 2-3h d'effort collectif.

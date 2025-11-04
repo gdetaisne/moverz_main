@@ -3,7 +3,7 @@
 **Type** : SEO / Optimization  
 **Priorité** : P1 (élevée suite fusion TASK-030)  
 **Temps estimé** : ~4h + 8-10h extension = 12-14h total  
-**Temps déjà fait** : ~5h30 (Phase 1: 1h30 + Tier 1: 1h ✅)  
+**Temps déjà fait** : ~7h (Phase 1: 2h ✅ + Phase 2 Tier 1: 2h ✅ + implémentation multi-villes corridors: 3h ✅)  
 **Temps restant** : 3-4h (Tier 2: 2-3h + Tier 3: 1h)  
 **Assigné à** : Guillaume (technique) + Lucie (contenu)  
 **Démarrée le** : 30-31 octobre 2025  
@@ -39,6 +39,8 @@ Optimisation complète métadonnées SEO pour améliorer CTR et positionnement G
 - [x] #34c00cb2 : Title optimisé 54 chars
 - [x] #bc3a95ba : Optimize titles 11 cities
 - [x] #59b965f1 : Canonical URL trailing slash GSC
+ - [x] 5d315e3bff27411855ecec7ff401d89a121da24f : Phase 1 — dédup “Ville Ville” + Breadcrumbs/contact dynamiques
+ - [x] 3986fe26533fa988984d2c82de112d6524fe4bf6 : Phase 2 Tier 1 — descriptions optimisées (home Nice/Lyon) + corridors → Paris (11 villes)
 
 ---
 
@@ -104,6 +106,53 @@ Optimisation complète métadonnées SEO pour améliorer CTR et positionnement G
 // Corridors
 `Déménager de ${cityA} vers ${cityB} : 5 devis gratuits sous 7 jours, déménageurs fiables. Envoyez vos photos, l'IA s'occupe de tout. Sans appels.`
 ```
+
+---
+
+## 📈 CTR Deepsearch (Directeur SEO)
+
+### Objectif
+Remonter le CTR moyen des pages “money” de < 1% à 2–3% en 4–6 semaines.
+
+### Priorités (Impact → Complexité)
+1) P0 — Titres 50–60 chars, sans doublons “{Ville} | Déménageurs {Ville}”  
+   - Normaliser tous les types de pages; ville en début; éviter répétitions.
+2) P0 — Descriptions 150–160 chars, CTA clair  
+   - Déployer templates Phase 2 (Tier 2 puis Tier 3) sur 11 villes.
+3) P1 — Breadcrumbs JSON‑LD + UI 100% couverture  
+   - Continuer TASK‑031; toutes pages money + blog.
+4) P1 — Price signals (fourchettes/pricerange)  
+   - Exposer bornes là où fiables (services/corridors), cohérent UI + JSON‑LD.
+5) P1 — FAQ snippet rationalisée (2–4 Q/A clés)  
+   - Garder ciblé; éviter surcharge.
+6) P2 — HowTo/Video sur 2–3 guides (villes à forte impression)  
+   - Marquage `HowTo`/`VideoObject` + extrait en page.
+
+### KPI & Cibles
+- CTR money pages: <1% → 2–3%  
+- Titres 50–60 chars: ≥90%  
+- Descriptions 150–160 chars: ≥85%  
+- Breadcrumbs couverture: 100%  
+
+### Rating (Review Snippets) — Positionnement
+- Conformité Google: pas de “self‑serving reviews” sur `Organization/LocalBusiness`.  
+- Tant qu’on ne dispose pas d’avis vérifiables et visibles sur la page (widget/source), pas de JSON‑LD `AggregateRating` déployé.
+- Le sujet “étoiles” est traité dans `[P2]-TASK-035-aggregate-rating/` (voir décision ci‑dessous).  
+
+---
+
+## 🔁 Réorganisation de la tâche
+
+### Phases
+- Phase 1 (technique) — TERMINÉE  
+- Phase 2 (contenu)
+  - Tier 1 — TERMINÉ (home Nice/Lyon + corridors → Paris 11 villes)  
+  - Tier 2 — Services éco/premium, Contact, Notre Offre (11 villes)  
+  - Tier 3 — Partenaires + Blog (si utile)
+
+### Dépendances & hors périmètre
+- Breadcrumbs/Schema: `[P1]-TASK-031-breadcrumbs-schema`  
+- AggregateRating: `[P2]-TASK-035-aggregate-rating` (bloqué par conformité/collecte avis)
 
 **Assignation** : Lucie (contenu) + Guillaume (technique)
 

@@ -80,7 +80,7 @@ L'utilisation d'une grue, possible dans certains cas, représente une solution r
 
 Un déménagement de piano à Bordeaux représente donc un investissement important mais qu'il convient de planifier soigneusement. En comprenant les facteurs qui influencent les tarifs, en choisissant le bon professionnel et en préparant efficacement votre instrument, vous pouvez optimiser votre budget tout en préservant la qualité de votre piano.
 
-**Besoin de déménager votre piano à Bordeaux ?** [Obtenez votre devis spécialisé](/blog/devis-demenagement-bordeaux/guide) en quelques clics. Nos experts maîtrisent les contraintes des instruments de musique et vous proposent des solutions adaptées.
+**Besoin de déménager votre piano à Bordeaux ?** [Obtenez votre devis spécialisé](/blog/devis/guide) en quelques clics. Nos experts maîtrisent les contraintes des instruments de musique et vous proposent des solutions adaptées.
 
 ---
 

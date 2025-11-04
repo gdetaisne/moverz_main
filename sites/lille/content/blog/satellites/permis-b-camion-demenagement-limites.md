@@ -20,7 +20,7 @@ Avec le permis B, vous pouvez conduire un camion déménagement jusqu'à **3,5 t
 
 À Lille, 95% des locations déménagement (studios, T1, T2, petits T3) utilisent des camions 3,5t maximum : suffisants pour particuliers DIY. Les 5% restants (maisons 80m³+, déménagements professionnels gros volumes) nécessitent camions >3,5t (permis C ou déménageur professionnel). Les agences lilloises (Sixt, Europcar, Leclerc) proposent exclusivement des véhicules ≤3,5t au public permis B : leur flotte est calibrée pour cette demande. Les 70 000 étudiants lillois, jeunes actifs et familles déménageant T2-T3 Wazemmes-Saint-Maurice-Lomme conduisent tous avec permis B standard (obtenu 18 ans).
 
-Ce guide détaille limites permis B déménagement (3,5t PTAC, équivalence volumes 20-35m³), vérification carte grise, sanctions dépassement et alternative permis C. Consultez notre [guide location Lille](/blog/demenagement-lille/location-camion-demenagement-lille-guide).
+Ce guide détaille limites permis B déménagement (3,5t PTAC, équivalence volumes 20-35m³), vérification carte grise, sanctions dépassement et alternative permis C. Consultez notre [guide location Lille](/blog/location-camion-lille/location-camion-demenagement-lille-guide).
 
 ## Permis B : Limite Légale 3,5 Tonnes PTAC
 
@@ -172,7 +172,7 @@ Sanctions >3,5t sans permis C : amende 750€, retrait 3 points, fourrière, ass
 
 Volumes accessibles permis B : studio-T1-T2 confortables (20-35m³ en 1-2 voyages), T3 limite (35m³ ×2 voyages possibles mais pénible), maison difficile (70m³ = 35m³ ×2 ou déménageur pro 1 700€ plus rationnel). 95% Lillois déménagent permis B. Permis C utile uniquement professionnels/déménagements récurrents gros volumes.
 
-Consultez notre [guide location Lille](/blog/demenagement-lille/location-camion-demenagement-lille-guide), notre [article choix volume](/blog/location-camion-demenagement-lille/quel-volume-camion-t2-t3-lille) et notre [comparatif DIY vs pro](/blog/location-camion-demenagement-lille/location-camion-vs-demenageur-lille).
+Consultez notre [guide location Lille](/blog/location-camion-lille/location-camion-demenagement-lille-guide), notre [article choix volume](/blog/location-camion-lille/quel-volume-camion-t2-t3-lille) et notre [comparatif DIY vs pro](/blog/location-camion-lille/location-camion-vs-demenageur-lille).
 
 
 

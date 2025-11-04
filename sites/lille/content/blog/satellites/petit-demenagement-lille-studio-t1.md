@@ -20,7 +20,7 @@ Le **petit déménagement Lille** (studio/T1 10-25m³) coûte **200-600€** sel
 
 À Lille, les **acteurs petit déménagement** : déménageurs classiques proposant formules réduites (Déménagements Lefebvre "Formule Studio" 250-450€, Bretons "Petit Volume" 200-350€), **spécialistes transport léger** (coursiers/transporteurs Lille élargissant services : Chronopost, transporteurs locaux camionnettes), **plateformes collaboratives** (Cocolis, Blablacar transport objets partagés économiques 50-150€ mais fiabilité variable), **étudiants/particuliers** (annonces Leboncoin "aide déménagement" 100-200€ journée, risque assurance/casse). Le **volume moyen** petit déménagement Lille : studio étudiant **15m³** (10-15 cartons livres/vêtements + lit 90×190 + bureau + chaise + quelques objets), T1 jeune actif **20m³** (+ canapé 2 places + TV + électroménager basique), senior downsizing **25m³** (meubles sélectionnés + cartons souvenirs + plantes).
 
-Ce guide détaille solutions petit déménagement Lille : tarifs camionnette+porteur, DIY, formules pros, profils clients, comparatifs, conseils optimisation. Consultez notre [guide déménagement Lille](/blog/demenagement-lille/demenageur-lille-expert).
+Ce guide détaille solutions petit déménagement Lille : tarifs camionnette+porteur, DIY, formules pros, profils clients, comparatifs, conseils optimisation. Consultez notre [guide déménagement Lille](/blog/demenageur-lille/demenageur-lille-expert).
 
 ## Solutions Petit Déménagement Lille
 
@@ -250,7 +250,7 @@ Comparatif solutions : DIY 70-120€ effort très élevé 8-10h risque casse 20-
 
 Volume moyen : studio étudiant 15m³ (10-15 cartons + lit + bureau + chaise + objets), T1 jeune actif 20m³ (+ canapé 2 places + TV + électroménager), senior downsizing 25m³ (meubles sélectionnés + cartons souvenirs + plantes). Effort DIY : emballage 4h + chargement 2h solo difficile (canapé 50 kg, frigo 80 kg portage escaliers) + conduite 1h + déchargement 2h + remontage 1h = 10h total vs pro 0h client.
 
-Consultez notre [guide déménageur Lille](/blog/demenagement-lille/demenageur-lille-expert), notre [guide location camion](/blog/demenagement-lille/location-camion-demenagement-lille-guide), notre [article déménagement pas cher](/blog/demenagement-lille/demenagement-pas-cher-lille-guide) et notre [guide déménagement étudiant](/blog/demenagement-pas-cher-lille/diy-demenagement-lille-budget-mini).
+Consultez notre [guide déménageur Lille](/blog/demenageur-lille/demenageur-lille-expert), notre [guide location camion](/blog/location-camion-lille/location-camion-demenagement-lille-guide), notre [article déménagement pas cher](/blog/demenagement-pas-cher-lille/demenagement-pas-cher-lille-guide) et notre [guide déménagement étudiant](/blog/demenagement-pas-cher-lille/diy-demenagement-lille-budget-mini).
 
 
 

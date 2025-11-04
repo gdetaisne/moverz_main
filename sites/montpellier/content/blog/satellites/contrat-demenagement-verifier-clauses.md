@@ -18,7 +18,7 @@ author: "Équipe Moverz Montpellier"
 # Contrat Déménagement : Clauses à Vérifier Absolument
 
 
-Pour comprendre tous les aspects du déménageur à Montpellier, consultez notre [guide complet déménageur Montpellier](/blog/demenagement-montpellier/demenageur-montpellier).
+Pour comprendre tous les aspects du déménageur à Montpellier, consultez notre [guide complet déménageur Montpellier](/blog/demenageur-montpellier/demenageur-montpellier).
 
 
 Avant signer contrat déménagement montpelliérain, vérifiez : services INCLUS détaillés (emballage oui/non, démontage, monte-meuble), services EXCLUS et leurs prix, assurance type et montant couvert, délais engagés (arrivée avant 18h sinon indemnités), et conditions annulation (délai, pénalités 30-50% si < 7 jours).

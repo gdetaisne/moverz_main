@@ -16,7 +16,7 @@ featured: false
 
 # Déménagement en groupage au départ de Bordeaux
 
-Le groupage constitue une solution économique particulièrement adaptée aux déménagements [longue distance](/blog/demenagement-longue-distance-bordeaux/guide) depuis Bordeaux. Cette option, qui consiste à partager un véhicule avec d'autres clients, permet de réaliser des économies substantielles tout en bénéficiant d'un service professionnel. Comprendre le fonctionnement du groupage et ses contraintes vous permet de faire le bon choix pour votre projet de déménagement.
+Le groupage constitue une solution économique particulièrement adaptée aux déménagements [longue distance](/blog/longue-distance/guide) depuis Bordeaux. Cette option, qui consiste à partager un véhicule avec d'autres clients, permet de réaliser des économies substantielles tout en bénéficiant d'un service professionnel. Comprendre le fonctionnement du groupage et ses contraintes vous permet de faire le bon choix pour votre projet de déménagement.
 
 ## Le principe du groupage déménagement
 
@@ -80,7 +80,7 @@ Attention également aux suppléments cachés qui peuvent considérablement augm
 
 Le groupage depuis Bordeaux constitue donc une solution économique intéressante pour les déménagements longue distance. En comprenant ses contraintes et ses avantages, en choisissant le bon professionnel et en préparant soigneusement votre projet, vous pouvez réaliser des économies substantielles tout en bénéficiant d'un service de qualité.
 
-**Intéressé par le groupage pour votre déménagement ?** [Obtenez votre devis groupage](/blog/devis-demenagement-bordeaux/guide) en quelques clics. Nos experts vous conseillent sur la meilleure solution pour votre projet.
+**Intéressé par le groupage pour votre déménagement ?** [Obtenez votre devis groupage](/blog/devis/guide) en quelques clics. Nos experts vous conseillent sur la meilleure solution pour votre projet.
 
 ---
 

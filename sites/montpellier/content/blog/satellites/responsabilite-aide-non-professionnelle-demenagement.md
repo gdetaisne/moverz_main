@@ -18,7 +18,7 @@ author: "Équipe Moverz Montpellier"
 # Responsabilité et Assurance Aide Non Professionnelle Déménagement
 
 
-Pour comprendre tous les aspects du aide déménagement particulier Montpellier, consultez notre [guide aide déménagement à Montpellier](/blog/demenagement-montpellier/aide-demenagement-particulier-montpellier).
+Pour comprendre tous les aspects du aide déménagement particulier Montpellier, consultez notre [guide aide déménagement à Montpellier](/blog/aide-au-demenagement-particulier-montpellier/aide-demenagement-particulier-montpellier).
 
 
 Lorsque des amis vous aident à déménager à Montpellier, votre assurance habitation couvre généralement les accidents matériels (meuble cassé, mur endommagé) via la responsabilité civile, mais pas systématiquement les blessures de vos amis. Si un ami se blesse gravement (dos, doigt écrasé) lors du portage d'un canapé dans les escaliers de l'Écusson, sa propre assurance personnelle intervient, mais vous pourriez être poursuivi en cas de négligence prouvée.

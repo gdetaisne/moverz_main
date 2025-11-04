@@ -18,7 +18,7 @@ author: "Équipe Moverz Montpellier"
 # Devis Déménagement Montpellier : Comment Comparer Efficacement
 
 
-Pour comprendre tous les aspects du déménageur à Montpellier, consultez notre [guide complet déménageur Montpellier](/blog/demenagement-montpellier/demenageur-montpellier).
+Pour comprendre tous les aspects du déménageur à Montpellier, consultez notre [guide complet déménageur Montpellier](/blog/demenageur-montpellier/demenageur-montpellier).
 
 
 Demander 3-4 devis de déménageurs montpelliérains permet d'économiser 15-25% (200-300€ sur T2 à 900€) en identifiant meilleur rapport qualité-prix. Deux devis identiques (T2 à 900€) peuvent cacher réalités différentes : l'un inclut emballage + assurance, l'autre uniquement transport (emballage +200€, assurance +100€ → total réel 1 200€).

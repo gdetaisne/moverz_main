@@ -62,5 +62,5 @@ Piano 50 000€ : Franchise 500-800€.
 
 Fournir facture achat, certificat authenticité (pianos anciens), expertise valeur (assureur peut exiger si >30 000€).
 
-Pour plus d'informations, consultez notre [guide assurance déménagement Strasbourg](/blog/demenagement-strasbourg/assurance-demenageur-strasbourg).
+Pour plus d'informations, consultez notre [guide assurance déménagement Strasbourg](/blog/satellites/assurance-demenageur-strasbourg).
 

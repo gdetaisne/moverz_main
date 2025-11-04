@@ -53,8 +53,8 @@
 
 ## Statut actuel
 
-**Fait** : 80% (metadata optimisées + commits)  
-**Reste** : Tests SERP + validation (20%)
+**Fait** : Phase 1 (100%) + Phase 2 Tier 1 (100%)  
+**Reste** : Phase 2 Tier 2/Tier 3 + QA SERP/CTR (4–6 semaines)
 
 ---
 
@@ -66,9 +66,10 @@
 - QA head OK: builder présent 11/11, slashes OK.
 
 ### Prochaines actions
-1) Dédupliquer titles/descriptions `/{city}` sur 11 sites.
-2) Rendre dynamiques les titles `contact/` (11 sites).
-3) Exécuter QA (`seo-head-qa.ts`, `seo-qa.cjs`, recherches rg) + tests live Nice/Lyon.
+1) Phase 2 — Tier 2: Services éco/premium, Contact, Notre Offre (11 villes).  
+2) Phase 2 — Tier 3: Partenaires + Blog.  
+3) QA : `qa:seo:head`, Rich Results Test, contrôle longueurs.  
+4) Monitoring GSC: baselines CTR + J+14, J+28.
 
 ---
 
