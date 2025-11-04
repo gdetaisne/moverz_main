@@ -47,6 +47,28 @@
 
 *Aucune tâche en cours*
 
+---
+
+## ✅ Corrections Rapides (< 30 min) - Session 04/11
+
+### 15:00 - Redirections Rouen + Vérif Breadcrumbs (15 min)
+
+**Contexte** : Reporting Moverz Analytics détecté 4 URLs garde-meuble mal classées
+
+**Actions** :
+- ✅ Créé 4 redirections 301 dans `sites/rouen/next.config.mjs`
+- ✅ `/blog/garde-meuble` → `/blog` (catégorie vide)
+- ✅ 3 articles `/blog/garde-meuble/*` → `/blog/satellites/*`
+- 🔍 Vérifié breadcrumbs Rouen : OK dans code, déploiement CapRover en cours
+
+**Commits** :
+- Rouen : `07e892e` (pushé)
+- Monorepo : `c95c813` (pushé)
+
+**Doc** : `.cursor/archives/rapports/SESSION-04-11-2025-redirections-rouen.md`
+
+---
+
 ## 🆕 Nouvelles tâches (split de TASK-014)
 
 - [P1]-TASK-039 : Normalisation Titles 50–60 chars (11 villes) — PENDING  
