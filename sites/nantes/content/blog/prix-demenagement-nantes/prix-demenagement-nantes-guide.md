@@ -23,21 +23,21 @@ featured: true
 Pour optimiser votre budget déménagement à Nantes, consultez nos guides spécialisés :
 
 ### Économiser sur le Déménagement
-- [Déménagement pas cher Nantes](/blog/demenagement-nantes/demenagement-pas-cher-nantes-guide) : Toutes nos astuces pour réduire les coûts
-- [Petit déménagement](/blog/demenagement-nantes/petit-demenagement-nantes-guide) : Solutions adaptées aux petits volumes
-- [Aide déménagement](/blog/demenagement-nantes/aide-demenagement-nantes-guide) : Trouver de l'aide pour économiser
+- [Déménagement pas cher Nantes](/blog/demenagement-pas-cher-nantes/demenagement-pas-cher-nantes-guide) : Toutes nos astuces pour réduire les coûts
+- [Petit déménagement](/blog/petit-demenagement-nantes/petit-demenagement-nantes-guide) : Solutions adaptées aux petits volumes
+- [Aide déménagement](/blog/aide-demenagement-nantes/aide-demenagement-nantes-guide) : Trouver de l'aide pour économiser
 
 ### Services et Formules
-- [Déménageur professionnel](/blog/demenagement-nantes/demenageur-nantes-guide) : Comparer les formules et devis
-- [Location camion](/blog/demenagement-nantes/location-camion-demenagement-nantes-guide) : Faire soi-même en louant un utilitaire
+- [Déménageur professionnel](/blog/demenageur-nantes/demenageur-nantes-guide-complet) : Comparer les formules et devis
+- [Location camion](/blog/location-camion-demenagement-nantes/location-camion-demenagement-nantes-guide) : Faire soi-même en louant un utilitaire
 
 ### Déménagements Spécialisés
-- [Déménagement piano](/blog/demenagement-nantes/demenagement-piano-nantes-guide) : Tarifs transport d'instruments
-- [Déménagement entreprise](/blog/demenagement-nantes/demenagement-entreprise-nantes-guide) : Prix déménagement de bureaux
-- [Déménagement international](/blog/demenagement-nantes/demenagement-international-nantes-guide) : Tarifs vers l'étranger
+- [Déménagement piano](/blog/demenagement-piano-nantes/demenagement-piano-nantes-guide) : Tarifs transport d'instruments
+- [Déménagement entreprise](/blog/demenagement-entreprise-nantes/demenagement-entreprise-nantes-guide) : Prix déménagement de bureaux
+- [Déménagement international](/blog/demenagement-international-nantes/demenagement-international-nantes-guide) : Tarifs vers l'étranger
 
 ### Stockage
-- [Garde-meuble Nantes](/blog/demenagement-nantes/garde-meuble-nantes-guide) : Prix stockage temporaire
+- [Garde-meuble Nantes](/blog/garde-meuble-nantes/garde-meuble-nantes-guide-complet) : Prix stockage temporaire
 
 
 Combien coûte vraiment un déménagement à Nantes en 2025 ? Cette question revient systématiquement lors de la préparation d'un changement de logement dans la capitale des Pays de la Loire. Entre les fourchettes larges trouvées en ligne et les devis qui varient du simple au double, il est difficile d'anticiper précisément son budget. Ce guide transparent et détaillé vous aide à comprendre tous les facteurs qui influencent le prix d'un déménagement nantais et vous livre les astuces pour maîtriser vos dépenses sans sacrifier la qualité.
@@ -146,7 +146,7 @@ Le niveau de service influe directement sur le tarif :
 - Vous gagnez 30-40% vs formule standard
 - Idéale si vous avez du temps devant vous
 
-Pour maximiser vos économies avec cette formule, découvrez toutes nos astuces dans le [guide déménagement pas cher Nantes](/blog/demenagement-nantes/demenagement-pas-cher-nantes-guide).
+Pour maximiser vos économies avec cette formule, découvrez toutes nos astuces dans le [guide déménagement pas cher Nantes](/blog/demenagement-pas-cher-nantes/demenagement-pas-cher-nantes-guide).
 
 **Formule Standard** (emballage fragile + démontage/remontage meubles) :
 - Prix de référence (base 100%)

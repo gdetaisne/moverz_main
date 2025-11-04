@@ -209,7 +209,7 @@ Choisir un déménageur fiable et économique à Lyon nécessite vigilance et v�
 
 Les red flags (pas SIRET, pas assurance, acompte >30% cash, tarif -40% marché, avis <3/5) imposent refus catégorique. La visite pré-déménagement gratuite sécurise l'estimation volume et évite litiges. Demander systématiquement 3+ devis permet comparaison objective et négociation éventuelle (-5-10% basse saison, jours semaine).
 
-Pour comparer les tarifs normaux du marché lyonnais, consultez [notre guide prix déménagement Lyon 2025](/blog/demenagement-lyon-pas-cher/prix-demenagement-pas-cher-lyon-2025). Explorez aussi [toutes les solutions économiques disponibles](/blog/demenagement-lyon/demenagement-lyon-pas-cher-guide) pour choisir l'option adaptée à votre situation. Bon déménagement et bon choix !
+Pour comparer les tarifs normaux du marché lyonnais, consultez [notre guide prix déménagement Lyon 2025](/blog/demenagement-lyon-pas-cher/prix-demenagement-pas-cher-lyon-2025). Explorez aussi [toutes les solutions économiques disponibles](/blog/demenagement-lyon-pas-cher/demenagement-lyon-pas-cher-guide-complet) pour choisir l'option adaptée à votre situation. Bon déménagement et bon choix !
 
 ---
 

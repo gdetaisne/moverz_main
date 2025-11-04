@@ -32,9 +32,9 @@ ABC Déménagements Lemarié, **établi Vern-sur-Seiche** (13 Rue Motte, 35770, 
 
 ## FAQ
 
-Pour comprendre tous les aspects de ce sujet, consultez notre [guide complet des déménageurs à Rennes](/blog/demenagement-rennes/demenageur-rennes/).
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide complet des déménageurs à Rennes](/blog/demenagement-rennes/demenageur-rennes).
 
-Pour comprendre tous les aspects de ce sujet, consultez notre [guide complet des déménageurs à Rennes](/blog/demenagement-rennes/demenageur-rennes/).
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide complet des déménageurs à Rennes](/blog/demenagement-rennes/demenageur-rennes).
 
 **ABC Lemarié adresse ?**
 13 Rue de la Motte, 35770 Vern-sur-Seiche (sud-est Rennes, 10 min rocade).
@@ -42,9 +42,9 @@ Pour comprendre tous les aspects de ce sujet, consultez notre [guide complet des
 **Prix T2 ABC ?**
 500-700€ (formule eco 500-600€, complète 650-750€).
 
-Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [nos services de déménagement rennais](/blog/demenagement-rennes/demenageur-rennes/).
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [nos services de déménagement rennais](/blog/demenagement-rennes/demenageur-rennes).
 
-Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [nos services de déménagement rennais](/blog/demenagement-rennes/demenageur-rennes/).
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [nos services de déménagement rennais](/blog/demenagement-rennes/demenageur-rennes).
 
 ---
 **Sources :** ABC Lemarié site/coordonnées

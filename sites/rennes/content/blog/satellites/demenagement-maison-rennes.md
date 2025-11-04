@@ -35,9 +35,9 @@ Déménagement maison Rennes périphérie (Le Rheu, Saint-Grégoire, Cesson-Sév
 
 ## FAQ
 
-Pour comprendre tous les aspects de ce sujet, consultez notre [guide complet des déménageurs à Rennes](/blog/demenagement-rennes/demenageur-rennes/).
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide complet des déménageurs à Rennes](/blog/demenagement-rennes/demenageur-rennes).
 
-Pour comprendre tous les aspects de ce sujet, consultez notre [guide complet des déménageurs à Rennes](/blog/demenagement-rennes/demenageur-rennes/).
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide complet des déménageurs à Rennes](/blog/demenagement-rennes/demenageur-rennes).
 
 **Prix maison 100m² Rennes ?**
 1200-1800€ (60m³, formule eco 1200-1400€, complète 1600-1800€).
@@ -45,9 +45,9 @@ Pour comprendre tous les aspects de ce sujet, consultez notre [guide complet des
 **Auto maison faisable ?**
 Possible mais pénible (2-3 rotations 35m³, 4-5 amis, 2 jours). Économie 60-70% vs pros.
 
-Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [nos services de déménagement rennais](/blog/demenagement-rennes/demenageur-rennes/).
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [nos services de déménagement rennais](/blog/demenagement-rennes/demenageur-rennes).
 
-Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [nos services de déménagement rennais](/blog/demenagement-rennes/demenageur-rennes/).
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [nos services de déménagement rennais](/blog/demenagement-rennes/demenageur-rennes).
 
 ---
 **Sources :** ABC Lemarié, Eurodem, demenagement24

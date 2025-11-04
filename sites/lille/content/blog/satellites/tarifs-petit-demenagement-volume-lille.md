@@ -188,7 +188,7 @@ Profils clients : **8-15m³** étudiants (chambres CROUS, studios budgets serré
 
 Périodes : haute saison juin-août (étudiants +15-20% tarifs, réservations 3-4 sem avant), basse saison novembre-mars (-10-15%, disponibilité élevée, négociation possible). Contraintes Lille Centre : Vieux-Lille accès étroit camionnettes prioritaires, Wazemmes marché weekend évitez, République stationnement payant 2€/h, zones piétonnes camionnettes tolérées livraisons.
 
-Consultez notre [guide petit déménagement Lille](/blog/petit-demenagement-lille/petit-demenagement-lille-studio-t1), notre [guide transport meubles](/blog/petit-demenagement-lille/transport-meubles-lille-sans-demenageur), notre [guide déménagement pas cher](/blog/demenagement-lille/demenagement-pas-cher-lille-guide) et notre [guide déménageur Lille](/blog/demenagement-lille/demenageur-lille-expert).
+Consultez notre [guide petit déménagement Lille](/blog/petit-demenagement-lille/petit-demenagement-lille-studio-t1), notre [guide transport meubles](/blog/petit-demenagement-lille/transport-meubles-lille-sans-demenageur), notre [guide déménagement pas cher](/blog/demenagement-pas-cher-lille/demenagement-pas-cher-lille-guide) et notre [guide déménageur Lille](/blog/demenageur-lille/demenageur-lille-expert).
 
 
 

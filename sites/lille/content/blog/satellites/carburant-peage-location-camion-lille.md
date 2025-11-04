@@ -19,7 +19,7 @@ Un camion 20m³ consomme **15L/100 km** diesel (vs 6L voiture) : déménagement 
 
 À Lille, budgétez systématiquement carburant (oublié 40% loueurs novices selon agences) : il représente 10-20% du coût total location DIY. Un camion 20m³ chargé 3t consomme 15-18L/100 (vs 12L vide), majorez si conduite urbaine stop-and-go Centre (17-20L/100). Le diesel reste moins cher que SP95 (1,50€ vs 1,85€/L) : tous camions location sont diesel (optimisation coûts agences). Les stations Lille : Total/Shell/Carrefour Centre 1,52-1,58€/L, périphérie Lomme/Englos 1,48-1,52€/L (économie 3-6€ plein 40L en faisant plein périphérie avant restitution agence centre).
 
-Ce guide détaille consommation camions Lille (12-20-35m³), coûts carburant déménagements types (local 30-80 km, longue distance 220-440 km), péages A1/A25, obligation retour plein et astuces économies. Consultez notre [guide location Lille](/blog/demenagement-lille/location-camion-demenagement-lille-guide).
+Ce guide détaille consommation camions Lille (12-20-35m³), coûts carburant déménagements types (local 30-80 km, longue distance 220-440 km), péages A1/A25, obligation retour plein et astuces économies. Consultez notre [guide location Lille](/blog/location-camion-lille/location-camion-demenagement-lille-guide).
 
 ## Consommation Carburant Camions
 
@@ -156,7 +156,7 @@ Consommation varie : vide 12L/100, chargé 3t 15-18L/100, urbain stop-and-go Cen
 
 Astuce : Leclerc Englos a station 1,48€/L (moins cher Lille), louez + faites plein restitution même site (économie ×2 : location -10% + essence -2%). Évitez retour vide : pénalité 24-39€ (facturation 1,80€/L + frais service). Photos compteur kilométrique récupération/restitution (preuve km parcourus si litige facturation excédentaire).
 
-Consultez notre [guide location Lille](/blog/demenagement-lille/location-camion-demenagement-lille-guide), notre [article prix 20m³](/blog/location-camion-demenagement-lille/prix-location-camion-20m3-lille) et notre [comparatif agences](/blog/location-camion-demenagement-lille/agences-location-camion-lille-comparatif).
+Consultez notre [guide location Lille](/blog/location-camion-lille/location-camion-demenagement-lille-guide), notre [article prix 20m³](/blog/location-camion-lille/prix-location-camion-20m3-lille) et notre [comparatif agences](/blog/location-camion-lille/agences-location-camion-lille-comparatif).
 
 
 

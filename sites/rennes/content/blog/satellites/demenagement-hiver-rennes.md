@@ -35,9 +35,9 @@ Déménagement hiver Rennes (novembre-mars, hors fin mars fins bail) : **basse s
 
 ## FAQ
 
-Pour comprendre tous les aspects de ce sujet, consultez notre [guide complet des déménageurs à Rennes](/blog/demenagement-rennes/demenageur-rennes/).
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide complet des déménageurs à Rennes](/blog/demenagement-rennes/demenageur-rennes).
 
-Pour comprendre tous les aspects de ce sujet, consultez notre [guide complet des déménageurs à Rennes](/blog/demenagement-rennes/demenageur-rennes/).
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide complet des déménageurs à Rennes](/blog/demenagement-rennes/demenageur-rennes).
 
 **Déménagement hiver moins cher ?**
 Oui, -10-15% (T2 : 550€ vs 700€ été). Basse saison (nov-mars).
@@ -45,9 +45,9 @@ Oui, -10-15% (T2 : 550€ vs 700€ été). Basse saison (nov-mars).
 **Pluie Rennes hiver fréquente ?**
 40% jours (climat océanique). Housses plastiques cartons (10-20€) recommandées.
 
-Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [nos services de déménagement rennais](/blog/demenagement-rennes/demenageur-rennes/).
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [nos services de déménagement rennais](/blog/demenagement-rennes/demenageur-rennes).
 
-Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [nos services de déménagement rennais](/blog/demenagement-rennes/demenageur-rennes/).
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [nos services de déménagement rennais](/blog/demenagement-rennes/demenageur-rennes).
 
 ---
 **Sources :** Météo Bretagne, pratiques déménagement hiver

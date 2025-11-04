@@ -86,7 +86,7 @@ Choisissez la bonne période pour votre déménagement. Évitez les mois de juil
 
 Les frais cachés d'un déménagement à Bordeaux constituent donc un piège fréquent mais évitable. En comprenant ces coûts supplémentaires, en posant les bonnes questions et en préparant soigneusement votre projet, vous pouvez anticiper votre budget réel et éviter les mauvaises surprises.
 
-**Besoin d'un devis transparent pour votre déménagement ?** [Obtenez votre estimation détaillée](/blog/devis-demenagement-bordeaux/guide) en quelques clics. Nos experts vous accompagnent avec des tarifs clairs et sans surprise.
+**Besoin d'un devis transparent pour votre déménagement ?** [Obtenez votre estimation détaillée](/blog/devis/guide) en quelques clics. Nos experts vous accompagnent avec des tarifs clairs et sans surprise.
 
 ---
 

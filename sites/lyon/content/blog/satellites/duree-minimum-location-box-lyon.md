@@ -71,23 +71,13 @@ Ce guide détaille durées minimum Lyon par acteur, explique mécanismes résili
 
 **Oui si stockage long terme certain : engagement 12 mois économise -10-15% = 240-570€/an selon taille (box 10m² 2880€/an standard vs 2520€ engagement = économie 360€). Mais pénalités résiliation anticipée (payer résiduel ou pénalité 2-3 mois).** Rentable : expatriation 12+ mois date retour fixe, archives long terme (24 mois+), construction maison (délai prévu 10-12 mois). Risqué : travaux durée incertaine (3-8 mois possibles, préférer sans engagement flexibilité).
 
-### Comment résilier son contrat de garde-meuble à Lyon ?
-
-Pour **résilier**, envoyez un email ou lettre recommandée AR avec **préavis d'1 mois** : indiquez numéro contrat, date fin souhaitée, coordonnées. Sh urgard Lyon accepte email (traçabilité). Vous payez jusqu'à fin préavis même si box vidée avant. Libération : videz box complètement, nettoyez, rendez badge (consigne 10-20€ restituée), état des lieux rapide. Si dommages box (trous murs, taches), retenue possible sur consigne. Aucun frais résiliation si respectez préavis.
-
-### Peut-on prolonger sa location de box sans engagement ?
-
-Oui, la **location sans engagement** se prolonge **automatiquement** mois par mois tant que vous ne résiliez pas. Aucune démarche nécessaire, prélèvement/facturation continue. Vous pouvez garder votre box 1 mois comme 36 mois sans ré-engagement. Avantage : flexibilité totale (résiliez quand vous voulez avec 1 mois préavis). Si vos besoins deviennent long terme (>12 mois), demandez conversion vers engagement pour bénéficier rétroactivement de -10-15% (certains acteurs acceptent).
-
-Consultez notre [guide complet garde-meuble Lyon](/blog/demenagement-lyon/garde-meuble-lyon-guide/) et notre [guide prix Lyon](/blog/garde-meuble-lyon/prix-garde-meuble-lyon-2025/).
-
 ---
 
 ## Conclusion
 
 Durée minimum box Lyon : 1 mois (Shurgard, Homebox, Une Pièce en Plus), résiliation préavis 1 mois écrit, facturation mois complet (pas prorata jours). Engagements 6-12 mois économisent -10-15% (360-570€/an selon taille) mais pénalités résiliation anticipée (payer résiduel ou 2-3 mois forfait). Flexibilité sans engagement convient stockages durée incertaine (1-6 mois variables), engagements adaptés durées certaines longues (12+ mois expatriation/archives).
 
-Locations <1 mois rares (+30-50% surcoût). Restitution : vider, nettoyer box, rendre badge (consigne 10-20€ restituée). Consultez [prix](/blog/garde-meuble-lyon/prix-garde-meuble-lyon-2025), [guide](/blog/demenagement-lyon/garde-meuble-lyon-guide). Bonne location !
+Locations <1 mois rares (+30-50% surcoût). Restitution : vider, nettoyer box, rendre badge (consigne 10-20€ restituée). Consultez [prix](/blog/garde-meuble-lyon/prix-garde-meuble-lyon-2025), [guide](/blog/garde-meuble-lyon/garde-meuble-lyon-guide-complet). Bonne location !
 
 ---
 

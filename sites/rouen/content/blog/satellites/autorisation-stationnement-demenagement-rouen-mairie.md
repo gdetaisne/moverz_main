@@ -19,7 +19,7 @@ L'autorisation de stationnement pour déménagement est obligatoire dans certain
 
 Un témoignage client rouennais illustre l'importance de cette anticipation : "Pour déménager quartier Cathédrale, obligation d'obtenir autorisation stationnement mairie de Rouen. Demande faite 10 jours avant, reçue 3 jours avant le déménagement. Gratuit mais stress de l'attente. Anticiper !" (Forum DéménagerFacile.fr, 3 mai 2024). Sans cette autorisation, vous risquez une amende de 35 à 135€ pour stationnement gênant, et votre déménageur peut légitimement refuser d'intervenir (son camion serait verbalisable).
 
-Ce guide détaille la **démarche complète pour obtenir votre autorisation** à Rouen, les quartiers concernés, les documents nécessaires, les délais réels constatés, et les alternatives si vous manquez de temps. Pour une vue d'ensemble du déménagement rouennais, consultez [notre guide du déménageur à Rouen](/blog/demenagement-rouen/demenageur-rouen).
+Ce guide détaille la **démarche complète pour obtenir votre autorisation** à Rouen, les quartiers concernés, les documents nécessaires, les délais réels constatés, et les alternatives si vous manquez de temps. Pour une vue d'ensemble du déménagement rouennais, consultez [notre guide du déménageur à Rouen](/blog/demenageur/demenageur-rouen-guide-complet).
 
 ## Quartiers Rouen Nécessitant Autorisation
 
@@ -239,7 +239,7 @@ L'autorisation de stationnement déménagement est **obligatoire dans le centre 
 
 Sans autorisation, vous risquez une **amende de 35 à 135€** et surtout le **refus du déménageur** d'intervenir (assurance non couverte si stationnement illégal). Les déménageurs rouennais (TDN inclut le service, Demeco et Postel le proposent à 50-60€) peuvent gérer cette démarche pour vous, sécurisant l'obtention et vous épargnant le suivi administratif.
 
-Anticipez **minimum 15 jours** votre demande pour absorber délais, weekends et possibles compléments d'information. La périphérie rouennaise (Sotteville, Le Petit-Quevilly, Le Grand-Quevilly) nécessite rarement une autorisation (rues larges, stationnement libre), simplification appréciable. Découvrez tous nos [services de déménagement à Rouen](/blog/demenagement-rouen/demenageur-rouen).
+Anticipez **minimum 15 jours** votre demande pour absorber délais, weekends et possibles compléments d'information. La périphérie rouennaise (Sotteville, Le Petit-Quevilly, Le Grand-Quevilly) nécessite rarement une autorisation (rues larges, stationnement libre), simplification appréciable. Découvrez tous nos [services de déménagement à Rouen](/blog/demenageur/demenageur-rouen-guide-complet).
 
 ## Questions Fréquentes
 

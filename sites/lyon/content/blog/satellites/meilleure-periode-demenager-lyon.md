@@ -169,7 +169,7 @@ Choisir la bonne période pour déménager à Lyon génère des économies subst
 
 La période idéale dépend de vos priorités : économies maximales (janvier-février, mercredi), compromis confort/prix (octobre, avril), ou contraintes calendrier (fin bail juin, rentrée septembre). Les 170 000 étudiants lyonnais ayant compris l'intérêt d'anticiper réservent dès mi-juillet pour un déménagement fin août, sécurisant tarifs et disponibilité avant la saturation.
 
-Pour planifier précisément votre budget selon la période choisie, consultez [notre guide des prix déménagement Lyon 2025](/blog/demenagement-lyon-pas-cher/prix-demenagement-pas-cher-lyon-2025). Explorez aussi [toutes les solutions économiques disponibles à Lyon](/blog/demenagement-lyon/demenagement-lyon-pas-cher-guide) pour maximiser vos économies. Bon déménagement et bon timing !
+Pour planifier précisément votre budget selon la période choisie, consultez [notre guide des prix déménagement Lyon 2025](/blog/demenagement-lyon-pas-cher/prix-demenagement-pas-cher-lyon-2025). Explorez aussi [toutes les solutions économiques disponibles à Lyon](/blog/demenagement-lyon-pas-cher/demenagement-lyon-pas-cher-guide-complet) pour maximiser vos économies. Bon déménagement et bon timing !
 
 ---
 

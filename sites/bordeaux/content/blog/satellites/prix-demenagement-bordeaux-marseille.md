@@ -16,7 +16,7 @@ featured: false
 
 # Déménager de Bordeaux à Marseille : repères de prix
 
-Déménager de Bordeaux à Marseille représente un trajet [longue distance](/blog/demenagement-longue-distance-bordeaux/guide) de 650 kilomètres, nécessitant une planification budgétaire rigoureuse et une organisation particulière. Cette migration, souvent motivée par des opportunités professionnelles ou un changement de vie, présente des spécificités logistiques qu'il convient de maîtriser. Comprendre les facteurs qui influencent les tarifs vous permet d'anticiper le coût réel de votre projet et d'identifier les options d'économies.
+Déménager de Bordeaux à Marseille représente un trajet [longue distance](/blog/longue-distance/guide) de 650 kilomètres, nécessitant une planification budgétaire rigoureuse et une organisation particulière. Cette migration, souvent motivée par des opportunités professionnelles ou un changement de vie, présente des spécificités logistiques qu'il convient de maîtriser. Comprendre les facteurs qui influencent les tarifs vous permet d'anticiper le coût réel de votre projet et d'identifier les options d'économies.
 
 ## Les fourchettes de prix selon le volume
 
@@ -60,7 +60,7 @@ Pour un déménagement Bordeaux-Marseille, privilégiez les entreprises spécial
 
 Vérifiez que l'entreprise dispose des assurances nécessaires pour couvrir la valeur de vos biens pendant le transport. Les déménagements longue distance multiplient les risques de dommages, nécessitant des garanties adaptées. Demandez les certificats d'assurance et vérifiez les plafonds de couverture.
 
-## Les [aides financières](/blog/demenagement-etudiant-bordeaux/aide-financiere-demenagement-etudiant) disponibles
+## Les [aides financières](/blog/etudiant/aide-financiere-demenagement-etudiant) disponibles
 
 Les mutations professionnelles peuvent bénéficier d'aides financières spécifiques. Votre employeur peut participer aux frais de déménagement dans le cadre d'une mutation, généralement à hauteur de 25 à 40 % du coût total. Ces aides, bien que souvent modestes, peuvent contribuer à alléger votre budget.
 
@@ -92,7 +92,7 @@ La vente ou le don d'objets encombrants constitue une autre alternative économi
 
 Un déménagement Bordeaux-Marseille représente donc un investissement important mais qu'il convient de planifier soigneusement. En comprenant les facteurs qui influencent les tarifs, en identifiant les options d'économies et en choisissant le bon professionnel, vous pouvez optimiser votre budget tout en bénéficiant d'un service de qualité adapté à vos besoins.
 
-**Prêt pour votre déménagement Bordeaux-Marseille ?** [Obtenez votre devis personnalisé](/blog/devis-demenagement-bordeaux/guide) en quelques clics. Nos experts maîtrisent les contraintes de ce trajet et vous proposent des solutions adaptées.
+**Prêt pour votre déménagement Bordeaux-Marseille ?** [Obtenez votre devis personnalisé](/blog/devis/guide) en quelques clics. Nos experts maîtrisent les contraintes de ce trajet et vous proposent des solutions adaptées.
 
 ---
 

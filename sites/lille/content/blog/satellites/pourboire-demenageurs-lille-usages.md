@@ -20,7 +20,7 @@ Devez-vous donner un pourboire aux déménageurs après votre déménagement Waz
 
 À Lille, les usages varient : étudiants (70 000) donnent rarement (budgets serrés, montants déménagement faibles 500-700€), cadres/familles donnent plus fréquemment (appréciation service, moyens financiers). Les déménageurs lillois (Déménagements Lefebvre, Bretons) n'exigent jamais de pourboire (interdit) mais apprécient : c'est leur reconnaissance concrète d'un travail bien fait. Les 563 avis HOMEBOX et retours déménageurs mentionnent : "Client satisfait nous a donné 50€ pourboire, geste sympa", "Pas de pourboire mais remerciements chaleureux, ça fait plaisir aussi".
 
-Ce guide détaille les usages pourboire déménagement à Lille : montants typiques T2/T3/maison, quand donner (fin déménagement, cash, main propre), qui donner (chef équipe redistribue ou chacun individuellement), alternatives au cash (boissons fraîches, repas) et cultures professionnelles Lille vs autres régions. Consultez notre [guide expert déménageurs Lille](/blog/demenagement-lille/demenageur-lille-expert).
+Ce guide détaille les usages pourboire déménagement à Lille : montants typiques T2/T3/maison, quand donner (fin déménagement, cash, main propre), qui donner (chef équipe redistribue ou chacun individuellement), alternatives au cash (boissons fraîches, repas) et cultures professionnelles Lille vs autres régions. Consultez notre [guide expert déménageurs Lille](/blog/demenageur-lille/demenageur-lille-expert).
 
 ## Usages Pourboire Déménagement en France
 
@@ -182,7 +182,7 @@ Timing : fin déménagement quand tout installé nouveau logement. Forme : cash 
 
 Usages Lille vs autres régions : identiques (France homogène). Étudiants donnent rarement (budgets serrés), cadres/familles plus fréquemment. Déménagements difficiles (Vieux-Lille étages, canicule, longues journées 10h+) : majorez 15-20€/porteur (effort supérieur mérite reconnaissance supérieure). Aucun déménageur lillois professionnel (Déménagements Lefebvre, Bretons, acteurs établis) ne réclame pourboire : interdit, inapproprié. Apprécient si donné, zéro attente ni déception si absence.
 
-Consultez notre [guide expert déménageurs Lille](/blog/demenagement-lille/demenageur-lille-expert), notre [article choix déménageur](/blog/demenageur-lille/choisir-demenageur-lille-10-criteres) et notre [comparatif formules](/blog/demenageur-lille/formule-economique-cle-en-main-lille) pour optimiser votre déménagement lillois.
+Consultez notre [guide expert déménageurs Lille](/blog/demenageur-lille/demenageur-lille-expert), notre [article choix déménageur](/blog/demenageur-lille/choisir-demenageur-lille-10-criteres) et notre [comparatif formules](/blog/demenageur-lille/formule-economique-cle-en-main-lille) pour optimiser votre déménagement lillois.
 
 
 

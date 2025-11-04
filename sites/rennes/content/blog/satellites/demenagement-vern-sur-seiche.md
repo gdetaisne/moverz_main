@@ -23,16 +23,16 @@ Vern-sur-Seiche, commune sud-est métropole Rennes (8 000 habitants, périurbain
 
 ## FAQ
 
-Pour comprendre tous les aspects de ce sujet, consultez notre [guide complet des déménageurs à Rennes](/blog/demenagement-rennes/demenageur-rennes/).
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide complet des déménageurs à Rennes](/blog/demenagement-rennes/demenageur-rennes).
 
-Pour comprendre tous les aspects de ce sujet, consultez notre [guide complet des déménageurs à Rennes](/blog/demenagement-rennes/demenageur-rennes/).
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide complet des déménageurs à Rennes](/blog/demenagement-rennes/demenageur-rennes).
 
 **ABC Lemarié où basé ?**
 Vern-sur-Seiche (13 Rue Motte, 35770), sud-est Rennes 10 min.
 
-Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [nos services de déménagement rennais](/blog/demenagement-rennes/demenageur-rennes/).
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [nos services de déménagement rennais](/blog/demenagement-rennes/demenageur-rennes).
 
-Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [nos services de déménagement rennais](/blog/demenagement-rennes/demenageur-rennes/).
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [nos services de déménagement rennais](/blog/demenagement-rennes/demenageur-rennes).
 
 ---
 **Sources :** ABC Lemarié

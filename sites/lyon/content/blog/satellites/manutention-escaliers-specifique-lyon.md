@@ -53,29 +53,11 @@ Ce guide détaille contraintes Vieux-Lyon/Croix-Rousse, présente techniques ada
 
 **Repérages** : Pros expérience Vieux-Lyon connaissent passages/techniques (vs génériques bloquent)
 
-Pour plus d'informations, consultez notre [guide complet aide déménagement Lyon](/blog/aide-demenagement-lyon/aide-demenagement-lyon-guide/) et notre [guide des prix Lyon](/blog/prix-demenagement-lyon/prix-demenagement-lyon-guide/).
+## Questions Fréquentes
 
-## FAQ : Manutention Escaliers Spécifique Lyon
+### Surcoût Vieux-Lyon escaliers ?
 
-### Quel est le surcoût pour des escaliers dans le Vieux-Lyon ?
-
-Le **surcoût** pour les escaliers du Vieux-Lyon est de **+25-35%** par rapport à un escalier standard moderne. Ce surcoût s'explique par le temps supplémentaire (+50-70%), les démontages obligatoires, et les techniques spécifiques nécessaires pour les colimaçons de 70-90cm et les traboules. Pour un T2, comptez 400€ au rez-de-chaussée vs 550-600€ au 4ème étage dans le Vieux-Lyon (vs 500€ dans un immeuble moderne avec escalier standard).
-
-### Peut-on déménager soi-même dans les escaliers du Vieux-Lyon ?
-
-Le **déménagement DIY** dans le Vieux-Lyon est **fortement déconseillé** : les escaliers en colimaçon de 70-90cm avec virages serrés à 180° causent des coincements fréquents (meubles >1,60m bloqués), risques de chutes dans escaliers raides, et dommages aux murs anciens. Les traboules avec hauteur limitée (1,50m) compliquent encore plus le portage. Les **professionnels locaux** connaissent les passages, ont les techniques de démontage adaptées, et sont assurés. Le surcoût de +25-35% est justifié par la sécurité et l'évitement de dégâts.
-
-### Quelles techniques utilisent les pros pour les escaliers en colimaçon ?
-
-Les déménageurs professionnels utilisent des **techniques spécifiques** : 1) **Démontage systématique** des canapés, armoires et lits (passages 70-90cm trop étroits pour meubles montés), 2) **Portage alterné** avec 1 personne dans les virages serrés (2 personnes côte-à-côte impossible), 3) **Repérage préalable** des passages et traboules lors de la visite technique, 4) **Pauses fréquentes** dans les montées/descentes raides. Ces techniques nécessitent formation et expérience locale du Vieux-Lyon.
-
-### Combien de temps prend un déménagement dans le Vieux-Lyon avec escaliers ?
-
-Un déménagement dans le **Vieux-Lyon avec escaliers** prend **+40-70% de temps** supplémentaire par rapport à un immeuble moderne. Pour un T2 au 4ème étage, comptez 6-8 heures vs 4-5 heures dans un immeuble avec ascenseur. Le temps additionnel s'explique par : démontages obligatoires (+1-2h), portage lent dans colimaçons étroits, pauses fréquentes, repérages et ajustements. Anticipez une journée complète pour un déménagement Vieux-Lyon, même pour un petit logement.
-
-### Les traboules de Lyon compliquent-elles vraiment le déménagement ?
-
-Oui, les **traboules** (passages couverts typiques du Vieux-Lyon) présentent des contraintes réelles : hauteur limitée à 1,50m (canapés montés >1,60m ne passent pas), largeur variable 80-120cm, passages en pente ou avec marches irrégulières, éclairage faible. Environ **60% des immeubles du Vieux-Lyon** nécessitent passage par traboules. Les déménageurs expérimentés connaissent quelles traboules sont praticables et comment orienter les meubles. Sans cette connaissance locale, vous risquez des coincements et dégâts.
+**+25-35% vs standard (temps +50-70%, démontages obligatoires, techniques adaptées colimaçons 70-90cm + traboules). Base T2 RDC : 400€, 4ème Vieux-Lyon : 550-600€ (vs 500€ standard moderne).** Contraintes : colimaçons pierre 70-90cm, virages 180° serrés, traboules 1,50m hauteur (canapés >1,60m coincent). Techniques : démontage systématique, portage alterné 1 personne virages, repérages pros expérience passages. DIY déconseillé (coincements fréquents, accidents). [Portage →](/blog/aide-demenagement-lyon/aide-portage-escaliers-lyon)
 
 ---
 

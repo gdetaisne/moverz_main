@@ -14,7 +14,7 @@ featured: false
 ---
 
 
-# Aides financières au [déménagement étudiant](/blog/demenagement-etudiant-bordeaux/guide-complet) à Bordeaux
+# Aides financières au [déménagement étudiant](/blog/etudiant/guide) à Bordeaux
 
 Financer un déménagement étudiant à Bordeaux peut représenter un budget important, mais plusieurs aides financières sont disponibles pour vous accompagner. CAF, bourses, aides locales et fonds de solidarité : découvrez toutes les solutions pour réduire le coût de votre installation dans la métropole girondine.
 
@@ -251,4 +251,4 @@ Nous connaissons les spécificités des aides disponibles à Bordeaux et pouvons
 
 ---
 
-*Cet article complète notre [guide complet du déménagement étudiant à Bordeaux](/blog/demenagement-etudiant-bordeaux/guide-complet). Découvrez également nos conseils pour un [déménagement pas cher](/blog/demenagement-etudiant-bordeaux/demenagement-etudiant-pas-cher) et notre [checklist détaillée](/blog/demenagement-etudiant-bordeaux/checklist-demenagement-etudiant) pour ne rien oublier.*
+*Cet article complète notre [guide complet du déménagement étudiant à Bordeaux](/blog/etudiant/guide). Découvrez également nos conseils pour un [déménagement pas cher](/blog/etudiant/demenagement-etudiant-pas-cher) et notre [checklist détaillée](/blog/etudiant/checklist-demenagement-etudiant) pour ne rien oublier.*

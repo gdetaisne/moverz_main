@@ -55,29 +55,11 @@ Ce guide présente techniques optimisation (lourds bas, légers haut, sangles ca
 
 **Gains** : Volume optimisé +30-40% (12m³ réels = camionnette 12m³ suffit vs DIY 14-16m³ surcoût)
 
-Pour plus d'informations sur les services professionnels, consultez notre [guide manutentionnaire Lyon](/blog/aide-demenagement-lyon/manutentionnaire-demenagement-lyon/) et notre [guide aide déménagement Lyon](/blog/aide-demenagement-lyon/aide-demenagement-lyon-guide/).
+## Questions Fréquentes
 
-## FAQ : Aide Chargement Camion Lyon
+### Aide chargement camion Lyon prix ?
 
-### Combien coûte une aide au chargement de camion à Lyon ?
-
-Une **aide au chargement** à Lyon coûte **40-80€** pour 2-3h si vous avez déjà porté les meubles au niveau du camion (le professionnel organise uniquement le chargement optimal). Pour un service complet **portage + chargement**, comptez **160-240€** pour 4-6h (T2 avec escaliers). Le gain justifie l'investissement : optimisation +30-40% du volume, donc un studio de 12m³ rentre dans une camionnette 12m³ au lieu de nécessiter un 14-16m³ (économie location 20-40€/jour).
-
-### Quelles techniques utilisent les pros pour optimiser le volume ?
-
-Les professionnels utilisent : 1) **Meubles lourds au fond** (canapés, armoires, lits créent base stable), 2) **Empilement vertical** jusqu'à 2-2,50m (vs amateurs qui arrêtent à 1,20m), 3) **Démontage stratégique** des pieds de lits/tables (gain 30-40% volume), 4) **Sangles de calage** horizontales (meubles ne bougent pas), 5) **Protection des angles** avec couvertures (évite rayures), 6) **Cartons uniformes empilés** méthodiquement (pas d'espaces vides). Résultat : +30-40% volume utilisé vs chargement amateur.
-
-### Peut-on vraiment gagner 30-40% de volume avec une bonne technique ?
-
-Oui, **absolument**. Un amateur perd généralement 30-40% du volume disponible par : mauvaises orientations des meubles (canapé mal positionné = 20-30cm perdus), absence d'empilement vertical (arrêt à 1,20m vs 2,20m possible = 1m perdu), espaces vides entre meubles (15 meubles espacés = 2-3m³ perdus), cartons désorganisés. Un professionnel récupère tout cet espace perdu. Concrètement : studio 12m³ chargé amateur nécessite camion 15-16m³ (80-120€/jour), chargé pro rentre dans 12m³ (60-90€/jour). Économie : 20-40€ location.
-
-### L'aide au chargement est-elle vraiment utile si on a déjà des amis ?
-
-Oui, **très utile** car vos amis peuvent vous aider au **portage** (monter les meubles depuis l'appartement jusqu'au camion), mais n'ont généralement pas l'expertise d'**optimisation du chargement**. Un professionnel en 2-3h optimise le volume (+30-40%), sécurise le chargement (sangles, protection), et évite 1-2 allers-retours supplémentaires si le camion est trop petit. Coût 40-80€ vs économie 30-60€ (location camion plus petit) + gain temps 3-4h (pas de 2ème trajet). ROI positif.
-
-### Quels sont les risques d'un mauvais chargement ?
-
-Un **mauvais chargement** cause : 1) **Meubles qui bougent** pendant transport (rayures, bosses, casse), 2) **Chute d'objets** lors ouverture portes (blessures, dommages), 3) **Volume insuffisant** (nécessite 2ème trajet = +3-4h + essence 20-40€), 4) **Déséquilibre camion** (conduite dangereuse), 5) **Casse d'objets fragiles** mal protégés (vaisselle, écrans). Un chargement professionnel évite tous ces risques pour 40-80€. L'investissement est minime vs les dommages potentiels (500-2 000€).
+**40-80€ chargement seul (2-3h, vous avez porté meubles, pro organise uniquement). Portage + chargement : 160-240€ (4-6h T2 escaliers + charge). Gains pros : optimisation +30-40% volume (12m³ studio = camionnette 12m³ suffit vs DIY 14-16m³ surcoût 20-40€).** Techniques : lourds bas, légers haut empilés 2-2,50m, sangles calage, protections angles, démontage -30-40% volume. Erreurs DIY : mauvaises orientations, pas empilement (1,20m vs 2,20m), espaces vides = gaspillage 30-40% volume. [Manutentionnaire →](/blog/aide-demenagement-lyon/manutentionnaire-demenagement-lyon)
 
 ---
 

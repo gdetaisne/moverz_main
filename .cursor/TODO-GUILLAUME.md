@@ -14,94 +14,19 @@
 *Aucune tâche en cours*
 
 **Toutes les sessions 404 sont ARCHIVÉES dans DONE.md** ✅
-
-**Session 3** : TASK-404-BLOG FINAL (4 villes) ✅ ARCHIVÉ (04/11/2025, 4h)  
-**Session 2** : TASK-404-BLOG (5 villes) ✅ ARCHIVÉ (04/11/2025, 4h50)  
-**Session 1** : TASK-404-ALL-CITIES (11 villes) ✅ ARCHIVÉ (03-04/11/2025, 12h)
-
-### ✅ FAIT AUJOURD'HUI (04/11/2025) - SESSION 3
-
-**TASK-404-BLOG FINAL (CORRECTIONS MANUELLES)** :
-- Bordeaux : 184 liens ✅ 100% (2h15) - 12 commits, 2 rounds
-- Toulouse : 170 liens ✅ 100% (1h05) - 6 commits, 66 catégories accentuées
-- Strasbourg : 40 liens ✅ 100% (20min) - 4 commits, 2 rounds
-- Lille : 43 liens ✅ 100% (20min) - 6 commits, 3 rounds (cas particuliers)
-**TOTAL SESSION 3 : 437 liens corrigés - 4 villes - 28 commits - 4h**
-
-**Documentation créée** :
-- 4 dossiers tasks complets (README, progress, commits, RESUME-FINAL)
-- ERREURS-APPRISES-BORDEAUX.md (leçons critiques)
-- SESSION-04NOV-4VILLES.md (récapitulatif session)
-- BILAN-SESSION-04NOV.md (analyse globale)
-
-**Leçons critiques** :
-- Vérification production AVANT correction (Bordeaux Round 1 = 117 nouveaux 404s)
-- Corrections globales vs partielles (Lille 3 rounds au lieu d'1)
-- Scanner exhaustif (Toulouse 66 catégories accentuées)
-
-### ✅ FAIT AUJOURD'HUI (04/11/2025) - SESSION 2
-
-**TASK-404-BLOG (NETTOYAGE APPROFONDI)** :
-- Bordeaux : 117 liens ✅ 100% (40min)
-- Montpellier : 204 liens ✅ 100% (1h45) 🥇 COMPLEXE
-- Rennes : 147 liens ✅ 100% (45min)
-- Rouen : 219 liens ✅ 100% (1h) 
-- Nice : 10 liens ✅ 100% (20min)
-**TOTAL SESSION 2 : 697 liens corrigés - 5 villes - 4h50**
-
-### ✅ FAIT PRÉCÉDEMMENT (03-04/11/2025) - SESSION 1
-
-**TASK-404-ALL-CITIES (MAJEUR)** :
-- Nice : 280 liens (3 commits) ✅ 97%
-- Lille : 140 liens (2 commits) ✅ 100%
-- Lyon : 95 liens (3 commits) ✅ 100%
-- Marseille : 162 liens (2 commits) ✅ 100%
-- Nantes : 528 liens (6 commits) ✅ 100% 🥇
-- Rennes : 322 liens (2 commits) ✅ 100% 🥈
-- Strasbourg : 114 liens (2 commits) ✅ 100%
-- Rouen : 4 liens (2 commits) ✅ 100%
-- Toulouse : 68 liens (2 commits) ✅ 100%
-- Montpellier : 0 (OK) ✅
-- Bordeaux : 0 (OK) ✅
-**TOTAL SESSION 1 : 1,713 liens corrigés - 29 commits - 33 scripts créés**
-
-**Autres tâches** :
-- TASK-025 (Sitemaps 11 villes) — commits documentés
-- TASK-012 (villes hardcodées) — 7 villes
-- TASK-013 (maillage interne) — optimisations
+- **Session 3** : TASK-404-BLOG FINAL (4 villes, 437 liens) ✅ ARCHIVÉ
+- **Session 2** : TASK-404-BLOG (5 villes, 697 liens) ✅ ARCHIVÉ
+- **Session 1** : TASK-404-ALL-CITIES (11 villes, 1,713 liens) ✅ ARCHIVÉ
+- **TASK-404-01** : Audit Structure Complète ✅ ARCHIVÉ
 
 
 ---
 
 ## 🚨 URGENT - CRITIQUE SEO (À FAIRE MAINTENANT)
 
-### ✅ [P0]-TASK-404-ALL-CITIES : FINALISÉ COMPLET (11 villes)
+*Aucune tâche urgente en cours*
 
-**Statut** : ✅ CLÔTURÉ  
-**Session 1** : 12h (03-04 nov 2025) — 1,713 liens  
-**Session 2** : 4h50 (04 nov 2025) — 697 liens (nettoyage approfondi)  
-**TOTAL** : 16h50 — 2,410 liens corrigés (99.7% succès)
-
-**Villes traitées** :
-- 🥇 Nantes : 528 liens (4 commits, 3h)
-- 🥈 Rennes : 322 liens (2 commits, 30min)
-- 🥉 Nice : 280 liens (3 commits, 3h) - 97%
-- Marseille : 162 liens (2 commits, 45min)
-- Lille : 140 liens (2 commits, 2h30)
-- Strasbourg : 114 liens (2 commits, 30min)
-- Lyon : 95 liens (3 commits, 1h30)
-- Toulouse : 68 liens (2 commits, 1h30)
-- Rouen : 4 liens (2 commits, 10min)
-- Montpellier : 0 (OK)
-- Bordeaux : 0 (OK)
-
-**Méthode** : Analyse → Mapping → Correction automatique → Tests
-
-**Scripts créés** : 33 réutilisables + 11 mappings JSON
-
-**404s restants** : 31 catégories vides (1.8%, documentés avec solutions)
-
-**Documentation** : `.cursor/tasks/[P0]-TASK-404-ALL-CITIES/RAPPORT-FINAL-SESSION.md`
+**Projet 404 CLÔTURÉ** : Voir DONE.md pour détails complets des 4 tâches archivées.
 
 ---
 
@@ -201,67 +126,13 @@
 
 ## ✅ FAIT RÉCEMMENT
 
-### [P0]-TASK-025 : Fix Sitemap URLs 11 villes ✅ FINALISÉ
-
-**Date** : 03/11/2025  
-**Temps** : 2h30 (estimé 2-3h) ✅
-
-**Accomplissements** :
-- ✅ 11 sitemaps corrigés (cleanCategory + cleanSlug)
-- ✅ 1272 URLs indexables validées (HTTP 200, 0 undefined)
-- ✅ 6 commits GitHub (sitemap fix + 4 corrections build)
-- ✅ 11/11 sites déployés CapRover et testés en live
-- ✅ Leçon apprise : Workflow deploy 2 étapes documenté
-- ✅ Exceptions documentées : Bordeaux (domaine) + Toulousain
-
-**Impact business** :
-- Résolution 858 erreurs 5xx (Toulouse)
-- 1272 pages prêtes pour réindexation Google
-- Attendu J+7 : 37 → 800+ pages indexées (+2000%)
-
-**Definition of Done** :
-- ✅ Code propre et documenté (10 fichiers)
-- ✅ Commits GitHub main + 11 repos villes
-- ✅ Testé en live (11/11 sites validés)
-
-**Docs créées** :
-- `.cursor/tasks/[P0]-TASK-025-fix-sitemap-urls/` (10 fichiers)
-- RAPPORT-VALIDATION-FINAL.md
-- LECON-APPRISE.md (workflow deploy)
-- BORDEAUX-EXCEPTION.md
-
-**Action restante (Guillaume)** :
-- Resubmit Search Console (11 villes, 30min)
-- Monitoring J+7 (10/11/2025)
-
----
-
-### TASK-404-01 : Audit Structure Complète ✅ TERMINÉ
-
-**Date** : 01/11/2025  
-**Temps** : 2h30 (estimé 2-3h) ✅
-
-**Accomplissements** :
-- ✅ Restructuration TASK-001/007 → 9 sous-tâches
-- ✅ Analyse complète multi-sources (Cursor + CSV + Code)
-- ✅ 6 patterns majeurs identifiés
-- ✅ 3 bugs critiques trouvés (cleanSlug, CATEGORY_MAPPING, majuscules)
-- ✅ Découverte clé : 90.3% résolvables sans créer contenu
-- ✅ 17 fichiers documentation créés
-- ✅ Plan TASK-404-02 à 404-09 validé
-- ✅ 3 commits GitHub (#a98ecc6, #f7e8414, #[pending])
-
-**Definition of Done** :
-- ✅ Code propre et documenté (17 fichiers)
-- ✅ Commits GitHub main + SHA documentés
-- ✅ Testé et validé (analyse complète 11 villes)
-
-**Docs créées** :
-- `.cursor/tasks/TASK-404-01-audit-structure/` (17 fichiers)
-- `.cursor/ANALYSE-LOGIQUE-404-COMPLETE.md`
-- `.cursor/TASKS-404-DETAILLEES.md`
-- `.cursor/RESUME-DEMARRAGE-DEMAIN-404.md`
-- `.cursor/RAPPORT-SESSION-01-NOV-2025.md`
+**Tâches récemment archivées** : Voir DONE.md
+- TASK-404-BLOG-FINAL (04/11)
+- TASK-404-BLOG (04/11)
+- TASK-404-ALL-CITIES (03-04/11)
+- TASK-404-01 (01/11)
+- TASK-025 (03/11)
+- TASK-011 (04/11)
 
 ---
 
@@ -310,35 +181,17 @@
 
 ## 📊 PROGRESSION PROJET 404
 
-```
-✅ TASK-404-01 : Audit (2h30) ✅ TERMINÉ (01/11)
-❌ TASK-404-02 : Harmonisation ❌ SKIP (cosmétique, rollback 03/11)
+**PROJET CLÔTURÉ ✅** (04/11/2025)
 
-🔥 TASK-404-QW : Quick Wins (2h) ← MAINTENANT [Guillaume]
-   → Validation workflow : Code → Deploy → Scan → Compare
-   → ROI 35-45% : 513 → 290-340 attendu
-   → Majuscules + Accents + Devis
+**Résumé global** :
+- ✅ TASK-404-01 : Audit Structure (2h30)
+- ✅ TASK-404-ALL-CITIES : Session 1 - 11 villes (12h, 1,713 liens)
+- ✅ TASK-404-BLOG : Session 2 - 5 villes (4h50, 697 liens)
+- ✅ TASK-404-BLOG-FINAL : Session 3 - 4 villes (4h, 437 liens)
 
-📋 TASK-404-03 : Décision (1h) ← APRÈS QW [Guillaume + Lucie]
-   ⚠️ CRITIQUE : AVANT 404-05 (sinon re-correction)
-   → 53 spam Toulouse : Rediriger
-   → 20-30 prioritaires : Créer
-   
-📋 TASK-404-04 : Création contenu (6-9h) OPTIONNEL [Lucie]
-   → Seulement prioritaires (pas les 104)
-   
-📋 TASK-404-05 : Correction AUTO (4-6h) → ~400-500 liens [Guillaume]
-   ⚠️ Dry-run Rennes d'abord
-   
-📋 TASK-404-06 : Validation (1h) [Guillaume ou Lucie]
-📋 TASK-404-07 : Redirections 301 (3-5h) [Guillaume]
-📋 TASK-404-08 : Homepage (1h) [Guillaume] (réduit)
-📋 TASK-404-09 : Validation finale (2-3h) [Guillaume + Lucie]
+**Total** : ~24h — 2,847 liens 404 corrigés (99.8% succès)
 
-Progression : 11% (2h30/16h30 estimé sans création)
-Scan réel 03/11 : 513 erreurs → Objectif <10
-Résolution attendue : 95-99% (490+/513)
-```
+**Voir DONE.md pour détails complets des 4 tâches archivées.**
 
 ---
 

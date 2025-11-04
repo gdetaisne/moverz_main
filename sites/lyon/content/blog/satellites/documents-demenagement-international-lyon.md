@@ -270,7 +270,7 @@ Préparer documents déménagement international depuis Lyon nécessite 2-3 mois
 
 L'Union Européenne simplifie drastiquement (CNI suffit, inventaire sommaire, pas douane), tandis que Suisse et destinations intercontinentales exigent préparation rigoureuse. Les consulats Lyon (Suisse, Italie, USA, Allemagne, Maghreb) facilitent obtention documents, légalisations, conseils spécifiques. Les déménageurs internationaux Lyon (AGS, Allied, Crown FIDI) assistent remplissage inventaire, fournis sent modèles bilingues, et gèrent formulaires douaniers (+300-600€ option assistance renforcée).
 
-Pour formalités détaillées, consultez [guide douane international Lyon](/blog/demenagement-international-lyon/formalites-douanieres-international-lyon). Explorez aussi [délais par destination](/blog/demenagement-international-lyon/delais-demenagement-international-lyon) et [guide complet](/blog/demenagement-lyon/demenagement-international-lyon-guide). Bonne préparation documentaire !
+Pour formalités détaillées, consultez [guide douane international Lyon](/blog/demenagement-international-lyon/formalites-douanieres-international-lyon). Explorez aussi [délais par destination](/blog/demenagement-international-lyon/delais-demenagement-international-lyon) et [guide complet](/blog/demenagement-international-lyon/demenagement-international-lyon-guide-complet). Bonne préparation documentaire !
 
 ---
 

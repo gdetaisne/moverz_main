@@ -19,7 +19,7 @@ Avec **35 000 étudiants** répartis entre l'Université de Rouen Normandie, l'I
 
 À Rouen, **Box & Go à Mont-Saint-Aignan** se spécialise dans le stockage étudiant avec des tarifs préférentiels (**-10-15% sur carte étudiante**), une localisation stratégique près du campus, et des box 1-3m² parfaits pour les affaires d'un studio. Homebox (45€/mois pour 1m²) et Normandie Stockage Sotteville (42€/mois) proposent également des tarifs compétitifs accessibles aux budgets étudiants.
 
-Ce guide détaille les **solutions économiques pour étudiants rouennais**, les périodes optimales pour réserver, les astuces pour économiser jusqu'à 50%, et les quartiers les plus pratiques selon votre campus. Pour une vue d'ensemble, consultez [notre guide du garde-meuble à Rouen](/blog/demenagement-rouen/garde-meuble-rouen).
+Ce guide détaille les **solutions économiques pour étudiants rouennais**, les périodes optimales pour réserver, les astuces pour économiser jusqu'à 50%, et les quartiers les plus pratiques selon votre campus. Pour une vue d'ensemble, consultez [notre guide du garde-meuble à Rouen](/blog/garde-meuble/garde-meuble-rouen-guide-complet).
 
 ## Pourquoi les Étudiants Ont Besoin d'un Garde-Meuble à Rouen
 
@@ -35,7 +35,7 @@ Le **pic de demande majeur** survient en juin-juillet lorsque les étudiants qui
 
 ### Stages et Césures (3-12 Mois)
 
-Les **stages longs** (4-6 mois) ou **césures à l'étranger** (Erasmus, année gap) nécessitent stocker vos affaires à Rouen pendant votre absence. Plutôt que de résilier votre logement étudiant et tout rapatrier (avec incertitude de retrouver logement équivalent au retour), le stockage maintient vos affaires à Rouen accessibles au retour. Pour comprendre tous les types de stockage disponibles, consultez notre [guide complet du garde-meuble à Rouen](/blog/demenagement-rouen/garde-meuble-rouen).
+Les **stages longs** (4-6 mois) ou **césures à l'étranger** (Erasmus, année gap) nécessitent stocker vos affaires à Rouen pendant votre absence. Plutôt que de résilier votre logement étudiant et tout rapatrier (avec incertitude de retrouver logement équivalent au retour), le stockage maintient vos affaires à Rouen accessibles au retour. Pour comprendre tous les types de stockage disponibles, consultez notre [guide complet du garde-meuble à Rouen](/blog/garde-meuble/garde-meuble-rouen-guide-complet).
 
 Un box de **3m²** (70-100€/mois à Rouen) suffit pour un studio complet avec tri sévère : 15-20 cartons essentiels, lit démonté, quelques meubles légers. Sur 6 mois de stage Paris, budget 420-600€ vs coût double déménagement aller-retour Rouen (600-1000€ minimum).
 
@@ -205,7 +205,7 @@ Les étudiants rouennais (35 000 sur l'agglomération) disposent de solutions de
 
 Pour réduire le budget, combinez plusieurs astuces : partage box entre 2 colocataires (45-65€/mois chacun), transport DIY avec location camion Leclerc (économie 80-150€), cartons gratuits récupérés (économie 60€), et tri sévère permettant de passer de 3m² à 1m² (économie 40€/mois soit 120€ sur été). Au total, un étudiant malin stocke **3 mois pour moins de 100€** contre 200-300€ sans optimisation.
 
-Réservez impérativement **dès juin** (après examens) pour éviter la rupture de stock de fin août-début septembre et bénéficier des promotions basse saison. Découvrez toutes nos [solutions de stockage pour étudiants à Rouen](/blog/demenagement-rouen/garde-meuble-rouen).
+Réservez impérativement **dès juin** (après examens) pour éviter la rupture de stock de fin août-début septembre et bénéficier des promotions basse saison. Découvrez toutes nos [solutions de stockage pour étudiants à Rouen](/blog/garde-meuble/garde-meuble-rouen-guide-complet).
 
 ## Questions Fréquentes
 

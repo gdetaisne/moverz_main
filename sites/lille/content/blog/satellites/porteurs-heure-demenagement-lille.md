@@ -224,7 +224,7 @@ Facturation réelle : 6h15 travail → facturé 7h arrondi heure supérieure (su
 
 Agences intérim Lille dominent 70-75% marché porteurs pros (Adecco leader 8 agences, Manpower 6, Randstad 5, Start People, Synergie, Crit 15+ agences totales métropole), particuliers Leboncoin 20-25% flux, associations <5% (publics restreints seniors/précaires). Réservation intérim : téléphone agence précisez date (samedi 15 juin), horaire (8h-15h ou 14h-21h), nb porteurs (2-3), adresse chargement Wazemmes + déchargement Saint-Maurice, étages (2ème + 3ème), nature (T2 35m³ meubles standards), agence propose disponibilité confirme tarif 28€/h × nb heures × nb porteurs.
 
-Consultez notre [guide aide déménagement Lille](/blog/aide-demenagement-lille/aide-demenagement-particuliers-lille), notre [guide DIY](/blog/demenagement-pas-cher-lille/diy-demenagement-lille-budget-mini), notre [guide location camion](/blog/demenagement-lille/location-camion-demenagement-lille-guide) et notre [guide déménageur Lille](/blog/demenagement-lille/demenageur-lille-expert).
+Consultez notre [guide aide déménagement Lille](/blog/aide-demenagement-lille/aide-demenagement-particuliers-lille), notre [guide DIY](/blog/demenagement-pas-cher-lille/diy-demenagement-lille-budget-mini), notre [guide location camion](/blog/location-camion-lille/location-camion-demenagement-lille-guide) et notre [guide déménageur Lille](/blog/demenageur-lille/demenageur-lille-expert).
 
 
 

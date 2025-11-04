@@ -14,7 +14,7 @@ featured: false
 ---
 
 
-# Étudiants à Bordeaux : choisir un [garde-meuble](/blog/garde-meuble-bordeaux/guide) pas cher
+# Étudiants à Bordeaux : choisir un [garde-meuble](/blog/garde-meuble/guide) pas cher
 
 Pour les étudiants bordelais, le garde-meuble représente souvent une solution indispensable lors des vacances d'été, des déménagements entre logements ou des stages à l'étranger. Face aux contraintes budgétaires spécifiques à cette population, plusieurs solutions économiques s'offrent à eux. Voici un guide complet pour trouver le garde-meuble le plus adapté à votre budget étudiant dans la métropole girondine.
 
