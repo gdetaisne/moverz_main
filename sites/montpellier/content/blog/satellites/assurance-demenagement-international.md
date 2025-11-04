@@ -18,7 +18,7 @@ author: "Équipe Moverz Montpellier"
 # Assurance Déménagement International : Guide Couverture 2025
 
 
-Pour comprendre tous les aspects du déménagement international Montpellier, consultez notre [guide déménagement international depuis Montpellier](/blog/demenagement-international-montpellier/demenagement-international-montpellier).
+Pour comprendre tous les aspects du déménagement international Montpellier, consultez notre [guide déménagement international depuis Montpellier](/blog/demenagement-montpellier/demenagement-international-montpellier).
 
 
 L'assurance représente 2 à 5% du coût global d'un déménagement international, soit 120-500€ pour un envoi de 6 000€ vers les États-Unis. Cette dépense, bien que significative, protège vos biens durant un transit de plusieurs milliers de kilomètres et 6-12 semaines d'acheminement exposant vos affaires à multiples manipulations et risques.

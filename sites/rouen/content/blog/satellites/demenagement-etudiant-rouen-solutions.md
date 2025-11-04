@@ -19,7 +19,7 @@ Avec **35 000 étudiants** répartis entre l'Université de Rouen Normandie, l'I
 
 Les quartiers étudiants de Rouen concentrent cette demande : **Mont-Saint-Aignan** (campus principal, 20 000 étudiants, nombreuses résidences universitaires CROUS), **Pasteur** (quartier résidentiel étudiant centre-ville rive droite, 7 000 étudiants, T1-T2 privés), et le **centre-ville** (5 000 étudiants écoles supérieures diverses). Les déménagements étudiants concernent majoritairement des studios et T1 (15-20m³), avec des pics massifs en juin-juillet (départs vacances été) et fin août-début septembre (rentrée).
 
-Ce guide présente les **solutions de déménagement économiques pour étudiants rouennais**, compare les options professionnelles et DIY, détaille la saisonnalité spécifique (rentrée = saturation), et liste les astuces pour économiser jusqu'à 70%. Pour une vue complète, consultez [notre guide du déménageur à Rouen](/blog/demenageur/demenageur-rouen-guide-complet).
+Ce guide présente les **solutions de déménagement économiques pour étudiants rouennais**, compare les options professionnelles et DIY, détaille la saisonnalité spécifique (rentrée = saturation), et liste les astuces pour économiser jusqu'à 70%. Pour une vue complète, consultez [notre guide du déménageur à Rouen](/blog/demenagement-rouen/demenageur-rouen).
 
 ## Profil Étudiant Rouen : Besoins Spécifiques
 
@@ -272,7 +272,7 @@ Les 35 000 étudiants rouennais disposent de solutions de déménagement adapté
 
 La **saisonnalité** est critique à Rouen : évitez absolument la **dernière semaine août** (rentrée = saturation, tarifs +30-50%, disponibilité nulle), privilégiez mi-août ou début juin-juillet. Réservez minimum **3-4 semaines à l'avance** pour garantir disponibilité et tarifs optimaux.
 
-Les quartiers étudiants (Mont-Saint-Aignan campus 20 000, Pasteur 7 000, centre 5 000-8 000) génèrent des flux massifs nécessitant anticipation. Utilisez les réseaux d'entraide (Facebook INSA/Université Rouen, associations), récupérez cartons gratuits (Auchan Mont-St-Aignan, résidences CROUS fin juin), et privilégiez camionnettes 12m³ (65-80€/jour, suffisantes studios). Découvrez toutes nos [solutions déménagement à Rouen](/blog/demenageur/demenageur-rouen-guide-complet).
+Les quartiers étudiants (Mont-Saint-Aignan campus 20 000, Pasteur 7 000, centre 5 000-8 000) génèrent des flux massifs nécessitant anticipation. Utilisez les réseaux d'entraide (Facebook INSA/Université Rouen, associations), récupérez cartons gratuits (Auchan Mont-St-Aignan, résidences CROUS fin juin), et privilégiez camionnettes 12m³ (65-80€/jour, suffisantes studios). Découvrez toutes nos [solutions déménagement à Rouen](/blog/demenagement-rouen/demenageur-rouen).
 
 ## Questions Fréquentes
 

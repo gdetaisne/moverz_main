@@ -19,7 +19,7 @@ Récupérer 60 cartons déménagement gratuits à Lille économise **180€** vs
 
 À Lille, récupérer 60 cartons nécessite **3-4 visites** supermarchés/boutiques (15-20 cartons/visite) étalées sur 2 semaines : semaine -3 déménagement collectez 20 cartons, semaine -2 collectez 40 restants, emballez progressivement (vs collecter 60 en 1 fois = stockage encombrant 10m² pendant 3 semaines). La stratégie optimale Lille : **20 cartons Auchan** (livraisons massives quotidiennes, stock important), **15 cartons Leclerc** Englos (hypermarché périphérie = volume), **10 cartons Décathlon** Lomme (gros cartons 50×50×60 cm parfaits gros objets), **10 cartons pharmacies** (petits formats livres), **5 cartons Carrefour** Euralille complément = 60 total. Timing : passez **18h-19h** (réserves vidées journée) ou **samedi matin 9h** (livraisons nuit = cartons frais).
 
-Ce guide liste lieux Lille récupération cartons gratuits, types cartons selon objets, timing optimal, astuces efficacité. Consultez notre [guide déménagement pas cher Lille](/blog/demenagement-pas-cher-lille/demenagement-pas-cher-lille-guide).
+Ce guide liste lieux Lille récupération cartons gratuits, types cartons selon objets, timing optimal, astuces efficacité. Consultez notre [guide déménagement pas cher Lille](/blog/demenagement-lille/demenagement-pas-cher-lille-guide).
 
 ## Lieux Récupération Cartons Lille
 
@@ -166,7 +166,21 @@ Types cartons préférés : **bananes** (35×30×20, 20-30 kg, anses, livres/vai
 
 Répartition T2 60 cartons : 30 moyens (bananes, cuisine/livres), 20 gros (Décathlon, vêtements/salon), 10 petits (pharmacies, bibelots/SDB). Collecte 3-4 visites (15-20 cartons/visite, 30 min/visite, total 2h étalées 2 semaines). Alternative achat si pas temps : Leroy Merlin Lille cartons neufs déménagement 3-5€/unité, lot 20 = 60-100€ (vs gratuit 0€ mais 2h collecte).
 
-Consultez notre [guide DIY déménagement](/blog/demenagement-pas-cher-lille/diy-demenagement-lille-budget-mini), notre [guide pas cher Lille](/blog/demenagement-pas-cher-lille/demenagement-pas-cher-lille-guide) et notre [article astuces économies](/blog/demenagement-pas-cher-lille/demenagement-pas-cher-lille-top-10-astuces).
+## FAQ : Cartons Gratuits Lille
+
+### Où trouver cartons gratuits à Lille ?
+
+**Supermarchés** Lille : Auchan Lomme, Carrefour Euralille, Leclerc Englos (8h-10h matin = stock max livraisons). **Magasins** : Décathlon Lomme (cartons XXL sport), Fnac Centre (livres solides). **Pharmacies** quartier (demandez poliment, petits cartons médicaments). **Ressourceries** : Recyclerie Wazemmes donne. Groupes FB : "Donne Lille", "Déménagement Lille". Économie : 60-100€ vs achat Leroy Merlin.
+
+### Combien de cartons pour un T2 ?
+
+**T2** Lille : **50-70 cartons** selon désencombrement. Détail : cuisine 15-20 (vaisselle, électro), salon 10-15 (livres, déco), chambre 15-20 (vêtements, linge), SDB 5-10 (produits, linge). Règle : 1,5-2 cartons/m² (35m² × 1,5 = 52 cartons). Surdimensionnez 10-15 cartons (objets oubliés, protection supplémentaire). Collecte 2-3 semaines progressive.
+
+### Les cartons supermarchés sont-ils solides ?
+
+**Variable** : cartons **boissons/conserves** très solides (20kg+ supportent), **fruits/légumes** évitez (humidité, déchirement). Top solidité : bananes Auchan (costauds), Décathlon sport (XXL), Fnac livres. Testez : secouez carton, vérifiez coins, pas déchirures. Si doute : doublez fond scotch. Évitez charger livres 20kg dans carton fruits fragile (déchirement garanti).
+
+Consultez notre [guide DIY déménagement](/blog/demenagement-pas-cher-lille/diy-demenagement-lille-budget-mini), notre [guide pas cher Lille](/blog/demenagement-lille/demenagement-pas-cher-lille-guide) et notre [article astuces économies](/blog/demenagement-pas-cher-lille/demenagement-pas-cher-lille-top-10-astuces).
 
 
 

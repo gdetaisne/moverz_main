@@ -54,5 +54,19 @@ Couvertures matelassées (4-6 épaisseur), sangles spéciales 500kg, cales mouss
 
 **Transport horizontal préféré** : Piano couché parfois si hauteur camion insuffisante (rare).
 
+## FAQ : Protection Piano Transport
+
+### Combien de couvertures pour protéger un piano ?
+
+**4-6 couvertures matelassées** obligatoires : piano droit 150kg = 4 couvertures (dessus, côtés, angles), piano queue 300kg = 6 couvertures (surface double). Matière : coton épais matelassé, absorbe chocs. Angles renforcés : cales mousse 5-10cm (zones fragiles). Film plastique transparent par-dessus (évite glissement). Déménageurs pros incluent couvertures, DIY location +15-25€.
+
+### Les sangles spéciales sont-elles nécessaires ?
+
+Oui, **sangles 500kg capacité** indispensables : piano 150-300kg, sangles standards 100kg = rupture danger. Sangles piano : poignées renforcées (portage 2-3 pers), matériau nylon renforcé, boucles métalliques. Coût : inclus déménageur pro, location 5-10€/jour DIY. NE JAMAIS porter piano sans sangles adaptées (risque chute, blessures graves).
+
+### Le piano peut-il être incliné pendant le transport ?
+
+**Inclinaison max 30°** : mécanique interne piano (cordes verticales, marteaux, étouffoirs) = inclinaison excessive dérègle tout, réparation 200-500€. Transport horizontal préféré. Piano couché parfois si hauteur camion insuffisante (rare, déconseillé). Fixation camion sangles murales : immobilité totale 0 mouvement (vibrations OK, déplacements latéraux NON).
+
 Pour plus d'informations, consultez notre [guide déménagement piano Strasbourg](/blog/demenagement-strasbourg/demenagement-piano-strasbourg).
 

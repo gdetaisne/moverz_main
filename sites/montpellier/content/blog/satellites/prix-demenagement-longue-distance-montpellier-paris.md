@@ -18,7 +18,7 @@ author: "Équipe Moverz Montpellier"
 # Prix Déménagement Longue Distance : Montpellier→Paris
 
 
-Pour comprendre tous les aspects du prix déménagement à Montpellier, consultez notre [guide complet des prix déménagement à Montpellier](/blog/prix-demenagement-montpellier/prix-demenagement-montpellier).
+Pour comprendre tous les aspects du prix déménagement à Montpellier, consultez notre [guide complet des prix déménagement à Montpellier](/blog/demenagement-montpellier/prix-demenagement-montpellier).
 
 
 Déménager de Montpellier vers Paris (750km) coûte 1 200-3 000€ selon volume et services. Studio/T2 formule économique : 1 200-1 800€. T3/maison clé en main : 2 200-3 000€. Délai : 1-2 jours (chargement jour J, livraison J+1 ou J+2 selon planning camion).

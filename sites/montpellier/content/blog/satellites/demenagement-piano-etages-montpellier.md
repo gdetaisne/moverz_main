@@ -18,7 +18,7 @@ author: "Équipe Moverz Montpellier"
 # Déménagement Piano en Étages à Montpellier : Surcoûts et Solutions
 
 
-Pour comprendre tous les aspects du déménagement piano Montpellier, consultez notre [guide transport piano à Montpellier](/blog/demenagement-piano-montpellier/demenagement-piano-montpellier).
+Pour comprendre tous les aspects du déménagement piano Montpellier, consultez notre [guide transport piano à Montpellier](/blog/demenagement-montpellier/demenagement-piano-montpellier).
 
 
 Déménager un piano dans un immeuble sans ascenseur coûte 50-100€ supplémentaires par étage à Montpellier. Un 4ème étage dans les Beaux-Arts ou l'Écusson ajoute ainsi 200-400€ au tarif de base, et nécessite souvent un monte-meuble (échelle extérieure) facturé 200-400€ supplémentaires.

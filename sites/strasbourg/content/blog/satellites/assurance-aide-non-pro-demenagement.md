@@ -68,5 +68,5 @@ Aide amis/plateformes = zéro assurance pro. Casse = perte sèche ou conflits. A
 
 **Compromis** : Déménageur pro objets précieux uniquement.
 
-Pour plus d'informations, consultez notre [guide assurance déménagement Strasbourg](/blog/satellites/assurance-demenageur-strasbourg).
+Pour plus d'informations, consultez notre [guide assurance déménagement Strasbourg](/blog/demenagement-strasbourg/assurance-demenageur-strasbourg).
 

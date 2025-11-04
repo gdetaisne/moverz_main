@@ -16,7 +16,7 @@ featured: false
 
 # Déménagement étudiant pas cher à Bordeaux
 
-Déménager en tant qu'étudiant à Bordeaux ne doit pas vider votre portefeuille. Avec un budget serré et des priorités différentes, vous pouvez organiser un déménagement efficace tout en maîtrisant vos dépenses. Voici toutes les astuces pour réduire significativement les coûts de votre [déménagement étudiant](/blog/etudiant/guide) dans la métropole girondine.
+Déménager en tant qu'étudiant à Bordeaux ne doit pas vider votre portefeuille. Avec un budget serré et des priorités différentes, vous pouvez organiser un déménagement efficace tout en maîtrisant vos dépenses. Voici toutes les astuces pour réduire significativement les coûts de votre [déménagement étudiant](/blog/demenagement-etudiant-bordeaux/guide-complet) dans la métropole girondine.
 
 ## Optimiser votre budget déménagement
 
@@ -25,7 +25,7 @@ Un déménagement étudiant coûte généralement entre 200 et 600 euros selon l
 
 **Priorité 1 - Transport** : c'est souvent le poste le plus important. Comparez location de camion vs déménageurs professionnels.
 
-**Priorité 2 - Emballage** : récupérez des [cartons gratuits](/blog/etudiant/cartons-gratuits) et utilisez vos propres matériaux.
+**Priorité 2 - Emballage** : récupérez des [cartons gratuits](/blog/demenagement-etudiant-bordeaux/cartons-gratuits) et utilisez vos propres matériaux.
 
 **Priorité 3 - Assurance** : évaluez la valeur de vos affaires pour décider si une assurance est nécessaire.
 
@@ -176,7 +176,7 @@ Un déménagement étudiant coûte généralement entre 200 et 600 euros selon l
 - [ ] Comparez les devis de déménagement
 - [ ] Organisez un déménagement en groupe si possible
 - [ ] Finalisez la récupération de cartons
-- [ ] Demandez les [aides financières](/blog/etudiant/aide-financiere-demenagement-etudiant)
+- [ ] Demandez les [aides financières](/blog/demenagement-etudiant-bordeaux/aide-financiere-demenagement-etudiant)
 
 ### 1 semaine avant
 - [ ] Confirmez tous les arrangements
@@ -198,4 +198,4 @@ Nous offrons des services personnalisés : emballage économique, transport opti
 
 ---
 
-*Cet article complète notre [guide complet du déménagement étudiant à Bordeaux](/blog/etudiant/guide). Découvrez également nos conseils pour [récupérer des cartons gratuits](/blog/etudiant/cartons-gratuits) et notre [checklist détaillée](/blog/etudiant/checklist-demenagement-etudiant) pour ne rien oublier.*
+*Cet article complète notre [guide complet du déménagement étudiant à Bordeaux](/blog/demenagement-etudiant-bordeaux/guide-complet). Découvrez également nos conseils pour [récupérer des cartons gratuits](/blog/demenagement-etudiant-bordeaux/cartons-gratuits) et notre [checklist détaillée](/blog/demenagement-etudiant-bordeaux/checklist-demenagement-etudiant) pour ne rien oublier.*
