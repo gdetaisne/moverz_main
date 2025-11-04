@@ -3,12 +3,12 @@
 **Type** : SEO / Optimization  
 **Priorité** : P1 (élevée suite fusion TASK-030)  
 **Temps estimé** : ~4h + 8-10h extension = 12-14h total  
-**Temps déjà fait** : ~3h (80% phase technique)  
-**Temps restant** : 9-11h  
+**Temps déjà fait** : ~5h30 (Phase 1: 1h30 + Tier 1: 1h ✅)  
+**Temps restant** : 3-4h (Tier 2: 2-3h + Tier 3: 1h)  
 **Assigné à** : Guillaume (technique) + Lucie (contenu)  
 **Démarrée le** : 30-31 octobre 2025  
 **Mise à jour** : 04/11/2025 (fusion TASK-030)  
-**Statut** : 🔄 EN COURS (phase technique 80%, extension contenu 0%)
+**Statut** : 🔄 EN COURS (Phase 1: 100% ✅, Tier 1: 100% ✅, Tier 2: 0%)
 
 ---
 
