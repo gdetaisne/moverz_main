@@ -148,7 +148,7 @@ Oui, **plein obligatoire** restitution (clause contrat). Essence agence : surfac
 
 Non, **agence restitution spécifiée** réservation (ex : Sixt Paris Bastille). Changement possible parfois (appeler agence avant, supplément 20-50€). Vérifiez horaires restitution (certaines ferment 18h, retard = facturation journée supplémentaire). Paris : agences multiples Sixt/Europcar (Bastille, République, Montparnasse) = flexibilité modérée.
 
-Consultez notre [guide location Lille](/blog/demenagement-lille/location-camion-demenagement-lille-guide), notre [comparatif agences](/blog/location-camion-lille/agences-location-camion-lille-comparatif) et notre [article déménagement Lille-Paris](/blog/prix-demenagement-lille/prix-demenagement-longue-distance-lille-paris).
+Consultez notre [guide location Lille](/blog/demenagement-lille/location-camion-demenagement-lille-guide), notre [comparatif agences](/blog/location-camion-demenagement-lille/agences-location-camion-lille-comparatif) et notre [article déménagement Lille-Paris](/blog/prix-demenagement-lille/prix-demenagement-longue-distance-lille-paris).
 
 
 

@@ -102,7 +102,7 @@ Mais refus assurance (-40€ weekend) expose franchise 1 500€ : accident 800�
 
 Lillois budgets mini : Leclerc Englos (65€/j) + refus assurance (risque assumé) + semaine vs weekend (-15€) + plein avant restitution (-12€) = **65€ location nette** (économie 95€ vs Sixt weekend assuré 160€). Total DIY T2 Wazemmes : camion 65€ + essence 20€ + aide amis 0€ = **85€** vs déménageur 1 000€ (économie 915€ = 91%) en échange 10h travail à 4.
 
-Consultez notre [guide location Lille](/blog/demenagement-lille/location-camion-demenagement-lille-guide), notre [comparatif agences](/blog/location-camion-lille/agences-location-camion-lille-comparatif), notre [article assurance](/blog/location-camion-lille/assurance-location-camion-lille-franchise) et notre [comparatif DIY vs pro](/blog/location-camion-lille/location-camion-vs-demenageur-lille).
+Consultez notre [guide location Lille](/blog/demenagement-lille/location-camion-demenagement-lille-guide), notre [comparatif agences](/blog/location-camion-demenagement-lille/agences-location-camion-lille-comparatif), notre [article assurance](/blog/location-camion-demenagement-lille/assurance-location-camion-lille-franchise) et notre [comparatif DIY vs pro](/blog/location-camion-demenagement-lille/location-camion-vs-demenageur-lille).
 
 
 

@@ -143,7 +143,7 @@ Europcar Flandres optimal assurance novices : franchise réduite 150€ (vs 250-
 
 **Procédure accident** : 1) Sécurisez (triangle, gilet), 2) Constat amiable détaillé (photos, témoins), 3) Appelez agence location immédiatement, 4) Déclarez assurance 48h max, 5) Franchise prélevée CB caution puis remboursement si non responsable. Franchise payée : avec rachat 150-350€, sans rachat 1 000-1 500€. Lille Vieux-Lille accident : photos rues étroites prouvent difficultés (expertise favorable).
 
-Consultez notre [guide location Lille](/blog/demenagement-lille/location-camion-demenagement-lille-guide), notre [comparatif agences](/blog/location-camion-lille/agences-location-camion-lille-comparatif) et notre [article permis B](/blog/location-camion-lille/permis-b-camion-demenagement-limites).
+Consultez notre [guide location Lille](/blog/demenagement-lille/location-camion-demenagement-lille-guide), notre [comparatif agences](/blog/location-camion-demenagement-lille/agences-location-camion-lille-comparatif) et notre [article permis B](/blog/location-camion-demenagement-lille/permis-b-camion-demenagement-limites).
 
 
 

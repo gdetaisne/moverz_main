@@ -129,7 +129,7 @@ Agences Lille proposent : 12m³ (50-70€, studio mini), 20m³ (70-95€, T1-T2)
 
 Oui, **surdimensionner +20%** recommandé : marge sécurité, 1 voyage unique, moins stress, chargement aisé (pas tétris). Surcoût : 30-50€ (35m³ vs 20m³) vs économie éviter 2ème voyage (essence 20€ + temps 4h + fatigue). Seul cas sous-dimensionner acceptable : budget ultra-serré + certitude volume exact (inventaire rigoureux fait).
 
-Consultez notre [guide location Lille](/blog/demenagement-lille/location-camion-demenagement-lille-guide), notre [article prix 20m³](/blog/location-camion-demenagement-lille/prix-location-camion-20m3-lille) et notre [comparatif vs déménageur](/blog/location-camion-lille/location-camion-vs-demenageur-lille).
+Consultez notre [guide location Lille](/blog/demenagement-lille/location-camion-demenagement-lille-guide), notre [article prix 20m³](/blog/location-camion-demenagement-lille/prix-location-camion-20m3-lille) et notre [comparatif vs déménageur](/blog/location-camion-demenagement-lille/location-camion-vs-demenageur-lille).
 
 
 

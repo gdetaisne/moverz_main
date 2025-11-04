@@ -104,7 +104,7 @@ Oui, **Vieux-Lille très difficile** : rues 3-4m largeur (camion 2,2m = 40-90cm 
 
 **Adaptation rapide** : 30 min pratique parking vide + 30 min conduite quartier calme = minimum. Novices total : 1-2h recommandées (pratique créneaux, marche arrière, freinage). Après 2-3h conduite : aisance correcte. Expérimentés voiture : adaptation 15-30 min (différences angle mort, gabarit). **Erreur** : louer camion et charger directement sans pratique = accidents 3× plus fréquents.
 
-Consultez notre [guide location Lille](/blog/demenagement-lille/location-camion-demenagement-lille-guide), notre [comparatif agences](/blog/location-camion-lille/agences-location-camion-lille-comparatif) et notre [article assurance](/blog/location-camion-lille/assurance-location-camion-lille-franchise).
+Consultez notre [guide location Lille](/blog/demenagement-lille/location-camion-demenagement-lille-guide), notre [comparatif agences](/blog/location-camion-demenagement-lille/agences-location-camion-lille-comparatif) et notre [article assurance](/blog/location-camion-demenagement-lille/assurance-location-camion-lille-franchise).
 
 
 

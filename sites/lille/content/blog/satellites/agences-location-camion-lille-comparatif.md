@@ -134,7 +134,7 @@ Non, **aucune agence** Lille ouverte dimanche : Sixt/Europcar/Leclerc/Hertz ferm
 
 **Haute saison** juin-août : réservez **3-4 semaines** minimum (saturation, 70 000 étudiants + familles). **Basse saison** nov-mars : **1 semaine** suffit (disponibilité large). Weekends toute l'année : **2 semaines** recommandé (forte demande). Réservation tardive < 48h : risque rupture stock + tarifs supérieurs +10-20%. Leclerc Englos sature moins vite (périphérie) vs Sixt/Europcar centre (prisés).
 
-Consultez notre [guide location Lille](/blog/demenagement-lille/location-camion-demenagement-lille-guide), notre [article prix 20m³](/blog/location-camion-demenagement-lille/prix-location-camion-20m3-lille) et notre [guide permis B](/blog/location-camion-lille/permis-b-camion-demenagement-limites).
+Consultez notre [guide location Lille](/blog/demenagement-lille/location-camion-demenagement-lille-guide), notre [article prix 20m³](/blog/location-camion-demenagement-lille/prix-location-camion-20m3-lille) et notre [guide permis B](/blog/location-camion-demenagement-lille/permis-b-camion-demenagement-limites).
 
 
 

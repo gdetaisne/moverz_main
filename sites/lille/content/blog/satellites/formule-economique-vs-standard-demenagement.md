@@ -128,7 +128,7 @@ Oui, **formule éco inclut transport complet** : chargement camion (vos cartons/
 
 Oui, **déménageurs acceptent** si emballage correct : cartons fermés scotchés, vaisselle protégée papier bulle/journal, meubles démontés rangés. **Refus si** : cartons ouverts (risque casse), objets fragiles non protégés, meubles non démontés (rallonge temps = facturation horaire supplémentaire). Astuce : photos emballage avant jour J, validez avec déménageur si doute. Lille : Lefebvre/Bretons vérifient emballage arrivée, exigent re-protection si insuffisant.
 
-Consultez notre [guide déménagement pas cher Lille](/blog/demenagement-lille/demenagement-pas-cher-lille-guide), notre [article DIY vs pro](/blog/location-camion-lille/location-camion-vs-demenageur-lille), notre [guide déménageurs Lille](/blog/demenagement-lille/demenageur-lille-expert) et notre [article prix T2](/blog/prix-demenagement-lille/prix-demenagement-t2-detaille-lille).
+Consultez notre [guide déménagement pas cher Lille](/blog/demenagement-lille/demenagement-pas-cher-lille-guide), notre [article DIY vs pro](/blog/location-camion-demenagement-lille/location-camion-vs-demenageur-lille), notre [guide déménageurs Lille](/blog/demenagement-lille/demenageur-lille-expert) et notre [article prix T2](/blog/prix-demenagement-lille/prix-demenagement-t2-detaille-lille).
 
 
 
