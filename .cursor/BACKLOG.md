@@ -30,6 +30,44 @@
 
 ---
 
+## 🔴 PROTECTIONS CI/CD - Prévention 404
+
+### [P1] [Temps: 3-4h] [Qui: Guillaume] TASK-048 : CI anti-404 + garde push multi-sites
+
+📁 **Doc** : `.cursor/tasks/[P1]-TASK-048-ci-anti-404/`
+
+**Type** : Infrastructure / Prévention
+
+**Objectif** : Empêcher toute réintroduction de 404 via commits accidentels sur `sites/*/content/**`
+
+**Contexte** :
+- Commit 8cab243 a cassé 630 fichiers → 676 erreurs 404 en 4h
+- Cause : réécritures automatiques non validées sur `sites/*/content/**`
+- Besoin : CI bloquante + gardes sur scripts de déploiement
+
+**Actions** :
+- [ ] GitHub Actions : regex-block sur patterns interdits
+  - Pattern 1: `](/demenagement/[a-z0-9-]+)`
+  - Pattern 2: `](/blog/[a-z0-9-]+/guide/?)`
+  - Fail si match dans diff `sites/*/content/**`
+- [ ] GitHub Actions : link-check interne (Nice, Bordeaux)
+  - Vérif liens Markdown → fichier cible existe
+  - Fail sur lien cassé détecté
+- [ ] Garde script `push-all-sites-to-github.sh`
+  - Désactiver rsync par défaut (ALLOW_CONTENT_SYNC=0)
+  - Ajouter flags --dry-run et --sites=ville1,ville2
+- [ ] CODEOWNERS
+  - `sites/**` → review requise Guillaume
+- [ ] Documentation
+  - README CI avec exemples
+  - Note: activer branch protection sur main (settings GitHub)
+
+**Priorité** : P1 (prévention récidive 404 = business critical)
+
+**Statut** : 📋 PENDING
+
+---
+
 ## 🟡 PROJET 404 - Nettoyage Final (3 villes restantes)
 
 ### [P2] [Temps: 1-2h] [Qui: Guillaume ou Lucie] TASK-404-LILLE : Nettoyage final Lille (28 liens, 8 erreurs)

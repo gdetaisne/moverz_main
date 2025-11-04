@@ -1,0 +1,148 @@
+name: Check Content Links (Anti-404)
+
+on:
+  pull_request:
+    paths:
+      - 'sites/*/content/**'
+      - 'content/**'
+  push:
+    branches:
+      - main
+    paths:
+      - 'sites/*/content/**'
+      - 'content/**'
+
+jobs:
+  check-forbidden-patterns:
+    name: Block forbidden link patterns
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      
+      - name: Check for forbidden patterns in diff
+        run: |
+          echo "🔍 Recherche de patterns interdits dans sites/*/content/**..."
+          
+          # Patterns interdits
+          PATTERNS=(
+            '](/demenagement/[a-z0-9-]+)'
+            '](/blog/[a-z0-9-]+/guide/?)'
+          )
+          
+          # Get diff for sites/*/content/**
+          git diff HEAD~1 HEAD -- 'sites/*/content/**' > /tmp/content_diff.txt
+          
+          ERRORS=0
+          for pattern in "${PATTERNS[@]}"; do
+            echo "  Checking pattern: $pattern"
+            if grep -E "$pattern" /tmp/content_diff.txt; then
+              echo "❌ ERREUR: Pattern interdit détecté: $pattern"
+              echo "   Ce pattern cause des 404. Utilisez les slugs piliers ville-centrés."
+              ERRORS=$((ERRORS + 1))
+            fi
+          done
+          
+          if [ $ERRORS -gt 0 ]; then
+            echo ""
+            echo "🚫 COMMIT BLOQUÉ"
+            echo "   $ERRORS pattern(s) interdit(s) détecté(s)"
+            echo ""
+            echo "📖 Exemples corrects:"
+            echo "   ❌ /blog/devis/guide"
+            echo "   ✅ /blog/devis-demenagement-bordeaux/devis-demenagement-bordeaux-guide"
+            echo ""
+            echo "   ❌ /demenagement/cout-reel-nice"
+            echo "   ✅ /blog/satellites/cout-reel-demenagement-nice"
+            exit 1
+          fi
+          
+          echo "✅ Aucun pattern interdit détecté"
+
+  check-internal-links:
+    name: Validate internal Markdown links
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Install markdown-link-check
+        run: npm install -g markdown-link-check
+      
+      - name: Check links in modified files (Nice & Bordeaux priority)
+        run: |
+          echo "🔍 Vérification des liens internes Markdown..."
+          
+          # Villes prioritaires pour validation
+          CITIES=("nice" "bordeaux")
+          
+          ERRORS=0
+          for city in "${CITIES[@]}"; do
+            echo ""
+            echo "📍 Checking $city..."
+            
+            # Find all .md files in sites/<city>/content
+            if [ -d "sites/$city/content" ]; then
+              find "sites/$city/content" -type f -name '*.md' | while read -r file; do
+                # Check only internal links (starting with /)
+                # Skip external links, anchors, mailto, tel
+                if grep -q '](/[^)]*)' "$file"; then
+                  echo "  Checking: $file"
+                  
+                  # Extract internal links
+                  grep -oP '\]\(/[^)]+\)' "$file" | sed 's/\](\///' | sed 's/)$//' | while read -r link; do
+                    # Skip anchors, query params for simple check
+                    clean_link=$(echo "$link" | cut -d'#' -f1 | cut -d'?' -f1)
+                    
+                    # Check if target exists (approximate: check if slug in content)
+                    if [ -n "$clean_link" ]; then
+                      slug=$(basename "$clean_link")
+                      if ! find "sites/$city/content" -type f -name "*$slug*.md" | grep -q .; then
+                        echo "    ⚠️  Lien potentiellement cassé: $link (dans $file)"
+                        # Note: on ne fail pas ici car c'est une heuristique
+                      fi
+                    fi
+                  done
+                fi
+              done
+            fi
+          done
+          
+          echo ""
+          echo "✅ Vérification des liens terminée"
+          echo "   Note: Validation complète en local avec linkinator recommandée"
+
+  build-smoke-test:
+    name: Build smoke test (Bordeaux)
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: 'sites/bordeaux/package-lock.json'
+      
+      - name: Install dependencies
+        working-directory: sites/bordeaux
+        run: npm ci
+      
+      - name: Build Bordeaux
+        working-directory: sites/bordeaux
+        run: npm run build
+        env:
+          NODE_ENV: production
+      
+      - name: Success
+        run: echo "✅ Build Bordeaux réussi - site OK"
+

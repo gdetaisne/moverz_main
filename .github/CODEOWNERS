@@ -1,0 +1,18 @@
+# CODEOWNERS - Protection du contenu SEO-critique
+#
+# Tout changement sur sites/** nécessite review de Guillaume
+# pour éviter casse SEO/404 accidentelle (voir TASK-048)
+
+# Contenu sites (SEO-critique)
+sites/** @gdetaisne
+
+# Content source (si rsync activé)
+content/** @gdetaisne
+
+# Scripts de déploiement
+scripts/deploy/** @gdetaisne
+scripts/sync/** @gdetaisne
+
+# Configuration CI/CD
+.github/workflows/** @gdetaisne
+
