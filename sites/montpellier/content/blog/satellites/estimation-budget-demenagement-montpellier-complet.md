@@ -18,7 +18,7 @@ author: "Équipe Moverz Montpellier"
 # Estimation Budget Déménagement Complet à Montpellier
 
 
-Pour comprendre tous les aspects du prix déménagement à Montpellier, consultez notre [guide complet des prix déménagement à Montpellier](/blog/prix-demenagement-montpellier/prix-demenagement-montpellier).
+Pour comprendre tous les aspects du prix déménagement à Montpellier, consultez notre [guide complet des prix déménagement à Montpellier](/blog/demenagement-montpellier/prix-demenagement-montpellier).
 
 
 Budget total déménagement montpelliérain inclut : Prestation déménageur (studio 400-700€, T2 700-1 200€, T3 1 000-1 800€), cartons/matériel (50-150€), assurance tous risques optionnelle (150-300€), services additionnels (nettoyage ancien logement 100-250€, branchements 50-150€), et frais annexes (changement adresse, état des lieux). Total : Studio 600-1 000€, T2 950-1 700€, T3 1 300-2 400€.

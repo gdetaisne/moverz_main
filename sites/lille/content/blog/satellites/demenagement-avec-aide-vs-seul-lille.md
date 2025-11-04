@@ -193,7 +193,7 @@ Nombre optimal T2 : **3-4 personnes** (rotation fluide 6h, gros meubles à 2 sé
 
 Risques blessure solo : lombalgie 15-20% portage incorrect (dos courbé cartons 15 kg ×60 = 900 kg cumulés, arrêt 1-2 sem 400-800€ salaire), hernie 3-5% portage >60 kg solo (canapé chute escaliers, chirurgie 2-5k€, arrêt 2-4 sem 800-1 600€), entorses 5-8% chutes escaliers (fatigue déséquilibre, arrêt 1 sem 400€). Espérance coût blessures : 30% prob × 600€ moyen = 180€ > économie solo 80€ vs amis 150€ (irrationnel). Casse majorée fatigue : après 8h concentration -50%, cartons précipités 30/60 cassés vaisselle, TV tombée 800€, meubles rayés 100-300€ = espérance 400-800€ vs aide 100-200€.
 
-Consultez notre [guide aide déménagement Lille](/blog/aide-demenagement-lille/aide-demenagement-particuliers-lille), notre [guide DIY](/blog/demenagement-pas-cher-lille/diy-demenagement-lille-budget-mini), notre [guide porteurs](/blog/aide-demenagement-lille/porteurs-heure-demenagement-lille) et notre [guide déménageur Lille](/blog/demenageur-lille/demenageur-lille-expert).
+Consultez notre [guide aide déménagement Lille](/blog/aide-demenagement-lille/aide-demenagement-particuliers-lille), notre [guide DIY](/blog/demenagement-pas-cher-lille/diy-demenagement-lille-budget-mini), notre [guide porteurs](/blog/aide-demenagement-lille/porteurs-heure-demenagement-lille) et notre [guide déménageur Lille](/blog/demenagement-lille/demenageur-lille-expert).
 
 
 

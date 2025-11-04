@@ -55,7 +55,7 @@ Déménager seul en tant qu'étudiant à Bordeaux peut sembler intimidant, mais 
 **2 semaines avant** :
 - [ ] Faites l'inventaire précis de vos affaires
 - [ ] Estimez le nombre de cartons nécessaires
-- [ ] Récupérez des [cartons gratuits](/blog/etudiant/cartons-gratuits) à Bordeaux
+- [ ] Récupérez des [cartons gratuits](/blog/demenagement-etudiant-bordeaux/cartons-gratuits) à Bordeaux
 - [ ] Réservez votre moyen de transport
 
 **1 semaine avant** :
@@ -220,10 +220,10 @@ Déménager seul en tant qu'étudiant demande de l'organisation et de l'énergie
 
 Nous proposons des services adaptés aux déménagements étudiants : emballage sécurisé, transport optimisé, et installation dans votre nouveau logement. Notre connaissance de Bordeaux nous permet d'optimiser les trajets et de gérer les spécificités de la ville.
 
-**Demandez votre devis personnalisé** et découvrez comment nous pouvons vous accompagner dans votre [déménagement étudiant](/blog/demenagement-etudiant-bordeaux/demenagement-etudiant-bordeaux-guide-complet) à Bordeaux.
+**Demandez votre devis personnalisé** et découvrez comment nous pouvons vous accompagner dans votre [déménagement étudiant](/blog/demenagement-etudiant-bordeaux/guide-complet) à Bordeaux.
 
 [Obtenir un devis gratuit →](/contact)
 
 ---
 
-*Cet article complète notre [guide complet du déménagement étudiant à Bordeaux](/blog/demenagement-etudiant-bordeaux/demenagement-etudiant-bordeaux-guide-complet). Découvrez également nos conseils pour [éviter les erreurs courantes](/blog/etudiant/erreurs-demenagement-etudiant) et notre [checklist détaillée](/blog/etudiant/checklist-demenagement-etudiant) pour ne rien oublier.*
+*Cet article complète notre [guide complet du déménagement étudiant à Bordeaux](/blog/demenagement-etudiant-bordeaux/guide-complet). Découvrez également nos conseils pour [éviter les erreurs courantes](/blog/demenagement-etudiant-bordeaux/erreurs-demenagement-etudiant) et notre [checklist détaillée](/blog/demenagement-etudiant-bordeaux/checklist-demenagement-etudiant) pour ne rien oublier.*

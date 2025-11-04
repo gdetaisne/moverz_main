@@ -18,7 +18,7 @@ author: "Équipe Moverz Montpellier"
 # Déménagement Clé en Main à Montpellier : Prix Tout Compris
 
 
-Pour comprendre tous les aspects du déménageur à Montpellier, consultez notre [guide complet déménageur Montpellier](/blog/demenageur-montpellier/demenageur-montpellier).
+Pour comprendre tous les aspects du déménageur à Montpellier, consultez notre [guide complet déménageur Montpellier](/blog/demenagement-montpellier/demenageur-montpellier).
 
 
 La formule clé en main coûte 600-700€ pour studio, 900-1 200€ pour T2, 1 400-1 800€ pour T3 à Montpellier, incluant TOUT : emballage intégral, cartons fournis, démontage meubles, protection, transport, remontage, installation. Vous ne faites rien sauf superviser.

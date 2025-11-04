@@ -537,7 +537,7 @@ Déménager des machines industrielles à Lille exige **prestataires ultra-spéc
 ---
 
 **Liens utiles** :
-- [Déménagement Entreprise Lille : Guide Complet](/blog/demenagement-entreprise-lille)
+- [Déménagement Entreprise Lille : Guide Complet](/blog/demenagement-lille/demenagement-entreprise-lille-guide)
 - [Levage Machines Lourdes](/blog/levage-machines-industrielles-lille)
 - [Convoi Exceptionnel Nord](/blog/autorisation-convoi-exceptionnel-nord)
 

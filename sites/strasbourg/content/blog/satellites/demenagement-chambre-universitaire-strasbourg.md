@@ -10,7 +10,7 @@ publish_date: "2025-03-03"
 author: "Équipe Moverz Strasbourg"
 ---
 
-9m² cité U = 5-10m³ (cartons + petit mobilier). Location Kangoo 20€ ou taxi/VTC 3 A/R (60€ total). Entraide résidents cité U. Stockage été [Homebox](/blog/garde-meuble-etudiant-strasbourg) 40-60€/mois.
+9m² cité U = 5-10m³ (cartons + petit mobilier). Location Kangoo 20€ ou taxi/VTC 3 A/R (60€ total). Entraide résidents cité U. Stockage été [Homebox](/blog/demenagement-strasbourg/garde-meuble-strasbourg-guide#etudiant) 40-60€/mois.
 
 ## Volume Chambre U
 
@@ -60,5 +60,5 @@ author: "Équipe Moverz Strasbourg"
 
 **Entraide** : Aider copains déménagement = retour ascenseur (solidarité promo).
 
-Pour plus d'informations, consultez notre [guide garde-meuble étudiant Strasbourg](/blog/satellites/garde-meuble-etudiant-strasbourg).
+Pour plus d'informations, consultez notre [guide garde-meuble étudiant Strasbourg](/blog/garde-meuble-strasbourg/garde-meuble-etudiant-strasbourg).
 

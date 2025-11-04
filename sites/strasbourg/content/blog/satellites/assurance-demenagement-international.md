@@ -48,5 +48,21 @@ Pas légalement, mais **fortement recommandée** déménagements internationaux.
 
 ## Vérifications Devis
 
-Assurance internationale incluse ou optionnelle ? Quel % valeur ? Plafond ? Franchise ? Couverture douanes ? Pour plus d'informations, consultez notre [guide assurance déménagement Strasbourg](/blog/satellites/assurance-demenageur-strasbourg).
+Assurance internationale incluse ou optionnelle ? Quel % valeur ? Plafond ? Franchise ? Couverture douanes ?
+
+## FAQ : Assurance Déménagement International
+
+### L'assurance internationale est-elle obligatoire ?
+
+**Pas légalement obligatoire** mais **fortement recommandée** : risques élevés (transit longue distance, frontières, douanes, manipulations multiples). Coût 3-7% valeur (T2 10 000€ = 300-700€) vs risque total non assuré (perte 10 000€). Déménagements UE proches (Allemagne 150km) : risque moindre mais assurance conseillée. Hors-UE (USA, Asie) : assurance INDISPENSABLE (risques ×3).
+
+### Que couvre exactement l'assurance ad valorem ?
+
+**Ad valorem couvre** : casse/bris transport, vol biens (camion, stockage transit), perte cartons (erreur manutention), dommages douanes (ouverture contrôles), intempéries transit (tempête, inondation). **Exclusions** : usure normale, emballage insuffisant (casse responsabilité client), objets valeur non déclarés, catastrophes naturelles extrêmes. Franchise 150-500€ : sinistre inférieur = pas indemnisation.
+
+### Comment déclarer la valeur de ses biens ?
+
+**Déclaration valeur** : inventaire détaillé pièce/pièce (salon canapé 1 200€, TV 800€...), photos meubles/objets valeur (preuve état), factures conservées (justificatifs), expertise si >50 000€ totaux. Sous-évaluation = indemnisation réduite (déclarez 8 000€ mais pertes 12 000€ = remboursé 8 000€ max). Sur-évaluation = refus assurance. Soyez honnête, réaliste (valeur remplacement actuelle, pas neuf).
+
+Pour plus d'informations, consultez notre [guide assurance déménagement Strasbourg](/blog/demenagement-strasbourg/assurance-demenageur-strasbourg).
 

@@ -36,7 +36,7 @@ Tous nos guides pour déménager à l'étranger depuis Nantes :
 
 ### Transport
 - [Groupage international](/blog/demenagement-international-nantes/groupage-international-demenagement-nantes) : Économiser en groupage
-- [Maritime vs Aérien](/blog/demenagement-international-nantes/transport-maritime-vs-aerien-demenagement-nantes) : Quel mode choisir ?
+- [Maritime vs Aérien](/blog/demenagement-international-nantes/transport-maritime-aerien-demenagement-international-nantes) : Quel mode choisir ?
 - [Expédier un véhicule](/blog/demenagement-international-nantes/vehicule-demenagement-international-nantes) : Voiture à l'étranger
 
 
@@ -184,7 +184,7 @@ Indispensable pour couvrir les risques liés au transport longue distance.
 - Coût : 2-4% de la valeur déclarée
 - Exemple : 30 000€ de biens = 600-1 200€ d'assurance
 
-Pour une vue d'ensemble des coûts d'un déménagement international (transport + assurance + formalités), consultez notre [guide prix déménagement Nantes](/blog/prix-demenagement-nantes/prix-demenagement-nantes-guide).
+Pour une vue d'ensemble des coûts d'un déménagement international (transport + assurance + formalités), consultez notre [guide prix déménagement Nantes](/blog/demenagement-nantes/prix-demenagement-nantes-guide).
 
 **Garanties couvertes** :
 - Dommages pendant le transport (mer, route, air)
@@ -428,8 +428,8 @@ Nantes, grâce à sa proximité avec le port de Saint-Nazaire et son aéroport i
 ## 🔗 Pour aller plus loin
 
 **Guides complémentaires utiles :**
-- [Garde-meuble temporaire](/blog/garde-meuble-nantes/garde-meuble-nantes-guide-complet) : Stocker entre deux pays
-- [Déménageur spécialisé](/blog/demenageur-nantes/demenageur-nantes-guide-complet) : Professionnels internationaux
+- [Garde-meuble temporaire](/blog/demenagement-nantes/garde-meuble-nantes-guide) : Stocker entre deux pays
+- [Déménageur spécialisé](/blog/demenagement-nantes/demenageur-nantes-guide) : Professionnels internationaux
 ## FAQ : Déménagement International depuis Nantes
 
 ### Combien de temps à l'avance organiser son déménagement international depuis Nantes ?

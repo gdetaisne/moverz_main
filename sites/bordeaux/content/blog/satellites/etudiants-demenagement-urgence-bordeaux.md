@@ -16,9 +16,9 @@ featured: false
 
 # Urgence étudiant à Bordeaux : déménager vite et bien
 
-Pour les étudiants bordelais, un [déménagement urgent](/blog/demenagement-urgent-bordeaux/demenagement-urgent-bordeaux-guide) représente un défi particulier lié aux contraintes budgétaires, aux volumes limités et aux délais souvent imposés par les calendriers universitaires. Entre les résidences universitaires de Talence, les colocations de Pessac et les studios du centre-ville, les solutions doivent être adaptées à cette population spécifique. Voici un guide complet pour gérer efficacement un déménagement express dans l'écosystème étudiant bordelais.
+Pour les étudiants bordelais, un [déménagement urgent](/blog/demenagement-urgent-bordeaux/guide) représente un défi particulier lié aux contraintes budgétaires, aux volumes limités et aux délais souvent imposés par les calendriers universitaires. Entre les résidences universitaires de Talence, les colocations de Pessac et les studios du centre-ville, les solutions doivent être adaptées à cette population spécifique. Voici un guide complet pour gérer efficacement un déménagement express dans l'écosystème étudiant bordelais.
 
-## Les spécificités du [déménagement étudiant](/blog/demenagement-etudiant-bordeaux/demenagement-etudiant-bordeaux-guide-complet) urgent
+## Les spécificités du [déménagement étudiant](/blog/demenagement-etudiant-bordeaux/guide-complet) urgent
 
 Le déménagement étudiant présente des caractéristiques particulières qui le rendent plus adapté aux situations d'urgence. Les volumes sont généralement limités à 15-20 m³ pour un studio, ce qui facilite le transport et réduit les coûts. Les biens sont souvent de moindre valeur, permettant des solutions alternatives plus souples et moins coûteuses.
 
@@ -56,7 +56,7 @@ Il est essentiel de conserver tous les justificatifs de votre ancien et nouveau 
 
 ## Les solutions d'urgence spécifiques
 
-En cas d'urgence absolue, plusieurs solutions spécifiques s'offrent aux étudiants. Les services sociaux de votre université peuvent vous orienter vers des solutions d'hébergement temporaire ou des [aides financières](/blog/etudiant/aide-financiere-demenagement-etudiant) pour faire face aux coûts d'un déménagement urgent.
+En cas d'urgence absolue, plusieurs solutions spécifiques s'offrent aux étudiants. Les services sociaux de votre université peuvent vous orienter vers des solutions d'hébergement temporaire ou des [aides financières](/blog/demenagement-etudiant-bordeaux/aide-financiere-demenagement-etudiant) pour faire face aux coûts d'un déménagement urgent.
 
 Les associations étudiantes peuvent également vous aider à trouver des solutions d'entraide ou des professionnels proposant des tarifs préférentiels. Cette solidarité étudiante peut être précieuse dans les situations difficiles.
 

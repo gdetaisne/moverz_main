@@ -19,7 +19,7 @@ Louer un camion Lille → Paris sans retour (aller simple) coûte **400-600€**
 
 À Lille, l'aller simple convient aux déménagements définitifs longue distance (mutations Paris, retours province natale Marseille/Lyon) où ramener le camion est illogique (×2 distance, +6h conduite A/R). Les Lillois mutés Paris fréquemment (cadres siège, fonctionnaires) utilisent soit aller simple (600€ DIY) soit déménageur (1 650€ confort). Le TGV Lille-Paris 1h (billet 50-80€) permet de revenir rapidement après déménagement (vs conduire retour 220 km fatigué après 10h chargement/déchargement). Les agences Sixt Euralille/Flandres et Europcar Flandres gèrent quotidiennement Lille-Paris aller simple : procédure rodée, disponibilité correcte (réservez 3-4 semaines avant).
 
-Ce guide détaille location aller simple Lille-Paris : tarifs, frais repositionnement, agences proposant, procédure, comparatif vs A/R, vs déménageur. Consultez notre [guide location Lille](/blog/location-camion-lille/location-camion-demenagement-lille-guide).
+Ce guide détaille location aller simple Lille-Paris : tarifs, frais repositionnement, agences proposant, procédure, comparatif vs A/R, vs déménageur. Consultez notre [guide location Lille](/blog/demenagement-lille/location-camion-demenagement-lille-guide).
 
 ## Tarifs Aller Simple Lille-Paris 2025
 
@@ -134,7 +134,21 @@ Profil optimal aller simple : jeune actif sportif muté Paris, budget serré, ai
 
 Réservation : en ligne Sixt.fr/Europcar.fr (sélection agence départ Lille, retour Paris), 3-4 semaines avant, haute saison +10-20% (juin-août). Procédure : récupération Lille Euralille 9h plein, conduite 220 km (2,5-3h A1), déchargement Paris 4h, restitution Paris Bastille plein+propre, TGV retour Lille 1h.
 
-Consultez notre [guide location Lille](/blog/location-camion-lille/location-camion-demenagement-lille-guide), notre [comparatif agences](/blog/location-camion-lille/agences-location-camion-lille-comparatif) et notre [article déménagement Lille-Paris](/blog/prix-demenagement-lille/prix-demenagement-longue-distance-lille-paris).
+## FAQ : Location Aller Simple Lille-Paris
+
+### Combien coûte l'aller simple Lille-Paris ?
+
+**Aller simple** camion 20m³ : **200-300€** (Sixt, Europcar, Hertz) vs A/R 140-180€ + essence retour 60€ = 240€ total. Aller simple compétitif si déménagement définitif (pas retour Lille). Supplément restitution autre ville : +60-120€. Alternative : groupage Lille-Paris 500-800€/pers (transport + déménageurs inclus).
+
+### Faut-il rendre le camion plein à Paris ?
+
+Oui, **plein obligatoire** restitution (clause contrat). Essence agence : surfacturation 0,40-0,60€/L vs station. Conseil : station-service avant restitution (Paris périph, 1,80-2€/L vs agence 2,40€/L). Camion 20m³ : réservoir 80-100L, coût plein 145-200€. Si oubli : agence facture plein + frais service 30-50€ (total + 50-100€ surfacturation).
+
+### Peut-on restituer dans n'importe quelle agence Paris ?
+
+Non, **agence restitution spécifiée** réservation (ex : Sixt Paris Bastille). Changement possible parfois (appeler agence avant, supplément 20-50€). Vérifiez horaires restitution (certaines ferment 18h, retard = facturation journée supplémentaire). Paris : agences multiples Sixt/Europcar (Bastille, République, Montparnasse) = flexibilité modérée.
+
+Consultez notre [guide location Lille](/blog/demenagement-lille/location-camion-demenagement-lille-guide), notre [comparatif agences](/blog/location-camion-demenagement-lille/agences-location-camion-lille-comparatif) et notre [article déménagement Lille-Paris](/blog/prix-demenagement-lille/prix-demenagement-longue-distance-lille-paris).
 
 
 

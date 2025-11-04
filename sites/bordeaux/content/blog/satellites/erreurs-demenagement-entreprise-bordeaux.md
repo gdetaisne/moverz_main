@@ -92,7 +92,7 @@ Préparez psychologiquement tous les membres de l'équipe au changement. Organis
 
 Éviter les erreurs en déménagement d'entreprise à Bordeaux nécessite donc une préparation rigoureuse et une attention particulière aux détails. En anticipant ces pièges courants, en préparant les solutions et en suivant une approche méthodique, vous pouvez assurer la réussite de votre projet et éviter les mauvaises surprises.
 
-**Besoin d'aide pour éviter ces pièges ?** [Consultez notre guide complet](/blog/devis-demenagement-bordeaux/devis-demenagement-bordeaux-guide) et bénéficiez de nos conseils d'experts pour un déménagement réussi.
+**Besoin d'aide pour éviter ces pièges ?** [Consultez notre guide complet](/blog/devis-demenagement-bordeaux/guide) et bénéficiez de nos conseils d'experts pour un déménagement réussi.
 
 ---
 

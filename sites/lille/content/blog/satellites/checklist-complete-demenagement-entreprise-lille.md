@@ -482,10 +482,10 @@ Déménager une entreprise à Lille sans checklist = **80 % échecs** (formalit�
 ---
 
 **Liens utiles** :
-- [Déménagement Entreprise Lille : Guide Complet](/blog/demenagement-entreprise-lille)
-- [Formalités Administratives](/blog/formalites-administratives-demenagement-entreprise-lille)
-- [Transfert IT Entreprise](/blog/transfert-materiel-informatique-entreprise-lille)
-- [Assurance Déménagement Pro](/blog/assurance-demenagement-entreprise-lille)
+- [Déménagement Entreprise Lille : Guide Complet](/blog/demenagement-lille/demenagement-entreprise-lille-guide)
+- [Formalités Administratives](/blog/entreprise/formalites-administratives-demenagement-entreprise-lille)
+- [Transfert IT Entreprise](/blog/entreprise/transfert-materiel-informatique-entreprise-lille)
+- [Assurance Déménagement Pro](/blog/entreprise/assurance-demenagement-entreprise-lille)
 
 
 

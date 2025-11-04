@@ -34,7 +34,7 @@ Toutes questions déménageur Strasbourg : prix, délais réservation, autorisat
 
 ## Autorisations & Contraintes
 
-**9. Autorisation Grande Île obligatoire ?** Oui 100% (zones piétonnes, stationnement réglementé). Délai 10-15j mairie. [Process](/blog/demenagement-strasbourg/autorisation-stationnement-strasbourg).
+**9. Autorisation Grande Île obligatoire ?** Oui 100% (zones piétonnes, stationnement réglementé). Délai 10-15j mairie. [Process](/blog/demenagement-strasbourg/autorisation-stationnement-demenagement-strasbourg).
 
 **10. Quartiers autorisation nécessaire ?** Grande Île (100%), Krutenau (70%), Neudorf (40-50%), périphérie (<10%).
 
@@ -76,7 +76,7 @@ Toutes questions déménageur Strasbourg : prix, délais réservation, autorisat
 
 **24. Comparer combien devis ?** Minimum 3 (idéal 5). Économie 100-300€ négociation.
 
-**25. Déménageur stockage ?** Certains proposent. Comparer [Homebox/Locakase](/blog/demenagement-strasbourg/garde-meuble-strasbourg) souvent plus flexible.
+**25. Déménageur stockage ?** Certains proposent. Comparer [Homebox/Locakase](/blog/demenagement-strasbourg/garde-meuble-strasbourg-guide) souvent plus flexible.
 
 ---
 

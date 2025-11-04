@@ -28,7 +28,7 @@ Cependant, en situation d'urgence, il est crucial de vérifier l'étendue exacte
 
 La responsabilité civile transport est une garantie spécifique qui couvre les dommages causés aux biens pendant leur transport. Cette assurance est généralement incluse dans les contrats des professionnels, mais ses conditions peuvent varier selon les prestataires et les situations.
 
-En cas de [déménagement urgent](/blog/demenagement-urgent-bordeaux/demenagement-urgent-bordeaux-guide), cette garantie peut être limitée par des conditions particulières liées aux délais raccourcis. Il est donc important de vérifier les montants de garantie, les franchises applicables et les délais de déclaration en cas de sinistre.
+En cas de [déménagement urgent](/blog/demenagement-urgent-bordeaux/guide), cette garantie peut être limitée par des conditions particulières liées aux délais raccourcis. Il est donc important de vérifier les montants de garantie, les franchises applicables et les délais de déclaration en cas de sinistre.
 
 ## Les assurances complémentaires recommandées
 

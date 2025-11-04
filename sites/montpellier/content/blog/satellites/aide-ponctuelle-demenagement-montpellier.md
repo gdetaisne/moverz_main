@@ -18,7 +18,7 @@ author: "Équipe Moverz Montpellier"
 # Aide Ponctuelle Déménagement à Montpellier : Manutention Seule
 
 
-Pour comprendre tous les aspects du petit déménagement à Montpellier, consultez notre [guide petit déménagement Montpellier](/blog/petit-demenagement-montpellier/petit-demenagement-montpellier).
+Pour comprendre tous les aspects du petit déménagement à Montpellier, consultez notre [guide petit déménagement Montpellier](/blog/demenagement-montpellier/petit-demenagement-montpellier).
 
 
 Louer 2 déménageurs professionnels pour 2h de manutention pure coûte 150-250€ à Montpellier. Cette formule "aide ponctuelle" séduit les Montpelliérains ayant déjà un véhicule (location Kangou/Trafic) mais nécessitant des bras professionnels pour porter les meubles lourds, notamment dans les escaliers sans ascenseur de l'Écusson, des Beaux-Arts ou de Figuerolles.

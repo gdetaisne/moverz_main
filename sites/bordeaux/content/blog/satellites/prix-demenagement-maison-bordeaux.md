@@ -66,7 +66,7 @@ Une bonne préparation permet d'optimiser le coût et la qualité de votre dém�
 
 Préparez vos affaires fragiles et de valeur en les emballant soigneusement. Les déménageurs facturent souvent des suppléments pour les objets mal protégés qui nécessitent une manipulation particulière. Un bon emballage préventif vous évite ces surcoûts et protège vos biens les plus précieux.
 
-## Les [aides financières](/blog/etudiant/aide-financiere-demenagement-etudiant) disponibles
+## Les [aides financières](/blog/demenagement-etudiant-bordeaux/aide-financiere-demenagement-etudiant) disponibles
 
 Les familles peuvent bénéficier d'aides financières pour leur déménagement de maison. La CAF propose parfois des aides au déménagement pour les familles modestes, même pour les volumes importants. Renseignez-vous auprès de votre centre CAF pour connaître les conditions d'éligibilité et les montants disponibles.
 
@@ -74,7 +74,7 @@ Votre employeur peut également participer aux frais de déménagement dans le c
 
 Un déménagement de maison à Bordeaux représente donc un investissement important mais qu'il convient de planifier soigneusement. En choisissant la bonne période, en participant activement à la préparation et en sélectionnant un professionnel adapté, vous pouvez optimiser votre budget tout en bénéficiant d'un service de qualité adapté à vos besoins.
 
-**Prêt à déménager votre maison à Bordeaux ?** [Obtenez votre devis personnalisé](/blog/devis-demenagement-bordeaux/devis-demenagement-bordeaux-guide) en quelques clics. Nos experts vous accompagnent avec des tarifs transparents et des conseils adaptés aux volumes importants.
+**Prêt à déménager votre maison à Bordeaux ?** [Obtenez votre devis personnalisé](/blog/devis-demenagement-bordeaux/guide) en quelques clics. Nos experts vous accompagnent avec des tarifs transparents et des conseils adaptés aux volumes importants.
 
 ---
 

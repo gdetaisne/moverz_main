@@ -36,14 +36,14 @@ Pour approfondir chaque aspect du stockage à Nantes, consultez nos guides spéc
 
 ### Durée et Contrats
 - [Durée minimum de location](/blog/garde-meuble-nantes/duree-minimum-garde-meuble-nantes) : Flexibilité des contrats
-- [Garde-meuble courte durée](/blog/garde-meuble-nantes/garde-meuble-courte-duree-nantes) : Solutions temporaires
+- [Garde-meuble courte durée](/blog/petit-demenagement-nantes/garde-meuble-courte-duree-nantes) : Solutions temporaires
 
 ### Accès et Services
 - [Accès et horaires](/blog/garde-meuble-nantes/acces-garde-meuble-nantes-horaires) : 24/7 ou limité ?
-- [Assurance garde-meuble](/blog/garde-meuble-nantes/assurance-garde-meuble-nantes) : Protection obligatoire ?
+- [Assurance garde-meuble](/blog/garde-meuble-nantes/assurance-garde-meuble-nantes-obligatoire) : Protection obligatoire ?
 
 ### Solutions Spécifiques
-- [Garde-meuble étudiant](/blog/garde-meuble-nantes/garde-meuble-etudiant-nantes) : Offres adaptées aux étudiants
+- [Garde-meuble étudiant](/blog/garde-meuble-nantes/garde-meuble-etudiant-nantes-pas-cher) : Offres adaptées aux étudiants
 
 ## Pourquoi avoir besoin d'un garde-meuble à Nantes ?
 
@@ -287,10 +287,10 @@ La métropole nantaise facilite votre recherche avec des centres bien répartis 
 ## 🔗 Pour aller plus loin
 
 **Guides complémentaires utiles :**
-- [Déménageur professionnel à Nantes](/blog/demenageur-nantes/demenageur-nantes-guide-complet) : trouver une entreprise pour gérer transport et stockage
-- [Déménagement pas cher à Nantes](/blog/demenagement-pas-cher-nantes/demenagement-pas-cher-nantes-guide) : combiner stockage et déménagement économique
-- [Déménagement international](/blog/demenagement-international-nantes/demenagement-international-nantes-guide) : stockage temporaire lors d'un déménagement à l'étranger
-- [Petit déménagement](/blog/petit-demenagement-nantes/petit-demenagement-nantes-guide) : garde-meuble pour studio ou T1
+- [Déménageur professionnel à Nantes](/blog/demenagement-nantes/demenageur-nantes-guide) : trouver une entreprise pour gérer transport et stockage
+- [Déménagement pas cher à Nantes](/blog/demenagement-nantes/demenagement-pas-cher-nantes-guide) : combiner stockage et déménagement économique
+- [Déménagement international](/blog/demenagement-nantes/demenagement-international-nantes-guide) : stockage temporaire lors d'un déménagement à l'étranger
+- [Petit déménagement](/blog/demenagement-nantes/petit-demenagement-nantes-guide) : garde-meuble pour studio ou T1
 
 ---
 

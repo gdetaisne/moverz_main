@@ -11,7 +11,7 @@ publish_date: "2025-02-01"
 author: "Équipe Moverz Nantes"
 ---
 
-Vous vous apprêtez à stocker vos biens dans un garde-meuble à Nantes – mobilier, électroménager, objets personnels représentant 5000 à 15 000€ de valeur. Une question légitime surgit : l'assurance est-elle obligatoire ? Devez-vous obligatoirement souscrire celle proposée par Homebox, Box du Grand Ouest ou Annexx ? Votre assurance habitation actuelle couvre-t-elle déjà le stockage externe ? Pour une vue d'ensemble complète, consultez notre [guide complet du garde-meuble à Nantes](/blog/garde-meuble-nantes/garde-meuble-nantes-guide-complet).
+Vous vous apprêtez à stocker vos biens dans un garde-meuble à Nantes – mobilier, électroménager, objets personnels représentant 5000 à 15 000€ de valeur. Une question légitime surgit : l'assurance est-elle obligatoire ? Devez-vous obligatoirement souscrire celle proposée par Homebox, Box du Grand Ouest ou Annexx ? Votre assurance habitation actuelle couvre-t-elle déjà le stockage externe ? Pour une vue d'ensemble complète, consultez notre [guide complet du garde-meuble à Nantes](/blog/demenagement-nantes/garde-meuble-nantes-guide).
 
 La réponse courte : **non, l'assurance n'est pas légalement obligatoire à Nantes ni ailleurs en France** pour un garde-meuble de particulier. Contrairement à l'assurance automobile, aucune loi n'impose de couvrir vos biens stockés. Pourtant, 70-80% des utilisateurs de box à Nantes souscrivent une protection, et pour de bonnes raisons : incendie, dégâts des eaux, vol restent possibles malgré la vidéosurveillance 24h/24.
 
@@ -122,7 +122,7 @@ Trois options s'offrent à vous dans la métropole nantaise : vérifier si votre
 Notre recommandation finale : ne stockez jamais sans assurance des biens dépassant 3000€. La probabilité de sinistre reste faible (<1% par an), mais l'impact serait catastrophique. Pour 15€/mois, dormez tranquille pendant que vos affaires reposent à Carquefou ou Sautron pendant votre déménagement, vos travaux ou votre transition logement.
 
 
-Pour aller plus loin, explorez notre [guide complet du garde-meuble à Nantes](/blog/garde-meuble-nantes/garde-meuble-nantes-guide-complet) ainsi que nos guides complémentaires : [prix garde-meuble Nantes 2025](/blog/garde-meuble-nantes/prix-garde-meuble-nantes-2025) et [garde-meuble pas cher à Nantes](/blog/garde-meuble-nantes/garde-meuble-pas-cher-nantes).
+Pour aller plus loin, explorez notre [guide complet du garde-meuble à Nantes](/blog/demenagement-nantes/garde-meuble-nantes-guide) ainsi que nos guides complémentaires : [prix garde-meuble Nantes 2025](/blog/garde-meuble-nantes/prix-garde-meuble-nantes-2025) et [garde-meuble pas cher à Nantes](/blog/garde-meuble-nantes/garde-meuble-pas-cher-nantes).
 
 ## Questions Fréquentes
 

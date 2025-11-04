@@ -14,9 +14,9 @@ featured: false
 ---
 
 
-# Stockage étudiant à Bordeaux : [garde-meuble](/blog/garde-meuble-bordeaux/garde-meuble-bordeaux-guide) et alternatives
+# Stockage étudiant à Bordeaux : [garde-meuble](/blog/garde-meuble-bordeaux/guide) et alternatives
 
-Le stockage temporaire est souvent nécessaire lors d'un [déménagement étudiant](/blog/demenagement-etudiant-bordeaux/demenagement-etudiant-bordeaux-guide-complet) à Bordeaux. Entre deux logements, pendant les vacances d'été, ou pour gérer un déménagement échelonné, plusieurs solutions s'offrent aux étudiants avec des budgets serrés. Voici toutes les options pour stocker vos affaires à Bordeaux sans vous ruiner.
+Le stockage temporaire est souvent nécessaire lors d'un [déménagement étudiant](/blog/demenagement-etudiant-bordeaux/guide-complet) à Bordeaux. Entre deux logements, pendant les vacances d'été, ou pour gérer un déménagement échelonné, plusieurs solutions s'offrent aux étudiants avec des budgets serrés. Voici toutes les options pour stocker vos affaires à Bordeaux sans vous ruiner.
 
 ## Garde-meubles traditionnels : les solutions classiques
 
@@ -26,7 +26,7 @@ Le stockage temporaire est souvent nécessaire lors d'un [déménagement étudia
 - Avantages : sécurité, accessibilité 7j/7, assurance incluse
 - Inconvénients : coût mensuel, engagement minimum
 
-**Shurgard** : leader européen du [self-stockage](/blog/garde-meuble/self-stockage-mode-emploi-prix)
+**Shurgard** : leader européen du [self-stockage](/blog/garde-meuble-bordeaux/self-stockage-mode-emploi-prix)
 - Tarifs : à partir de 30€/mois pour 1m³
 - Avantages : nombreuses agences, services complémentaires
 - Inconvénients : tarifs plus élevés, conditions strictes
@@ -203,4 +203,4 @@ Nous proposons des solutions de stockage temporaire et des partenariats avec des
 
 ---
 
-*Cet article complète notre [guide complet du déménagement étudiant à Bordeaux](/blog/demenagement-etudiant-bordeaux/demenagement-etudiant-bordeaux-guide-complet). Découvrez également nos conseils pour un [déménagement pas cher](/blog/etudiant/demenagement-etudiant-pas-cher) et notre [checklist détaillée](/blog/etudiant/checklist-demenagement-etudiant) pour ne rien oublier.*
+*Cet article complète notre [guide complet du déménagement étudiant à Bordeaux](/blog/demenagement-etudiant-bordeaux/guide-complet). Découvrez également nos conseils pour un [déménagement pas cher](/blog/demenagement-etudiant-bordeaux/demenagement-etudiant-pas-cher) et notre [checklist détaillée](/blog/demenagement-etudiant-bordeaux/checklist-demenagement-etudiant) pour ne rien oublier.*
