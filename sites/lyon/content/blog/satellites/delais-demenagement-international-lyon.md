@@ -190,7 +190,7 @@ Les délais déménagement international depuis Lyon varient de 2 jours (Lyon-Ge
 
 Les formalités ajoutent 0 jour (UE libre circulation) à 10 jours (dédouanement USA/Asie stricte), imposant anticipation documents 2-3 mois (inventaire bilingue, visas, permis Suisse). Le planning optimal débute 6 mois avant départ (visas 2-6 mois, permis Suisse 2-4 mois, réservation déménageur 2-3 mois haute saison, inventaire 1-2 mois). Urgences <2 mois possibles (surcoût +20-30%, stress), destinations UE tolèrent 2 mois (formalités allégées), Suisse/USA exigent 4-6 mois réalistes.
 
-Ajouter marge +10-20% délais annoncés sécurise contre aléas (météo, douane stricte, livraison zone éloignée). Pour préparer documents, consultez [guide documents international Lyon](/blog/demenagement-international-lyon/documents-demenagement-international-lyon). Explorez aussi [guide complet international](/blog/demenagement-international-lyon/demenagement-international-lyon-guide-complet). Bon planning !
+Ajouter marge +10-20% délais annoncés sécurise contre aléas (météo, douane stricte, livraison zone éloignée). Pour préparer documents, consultez [guide documents international Lyon](/blog/demenagement-international-lyon/documents-demenagement-international-lyon). Explorez aussi [guide complet international](/blog/demenagement-lyon/demenagement-international-lyon-guide). Bon planning !
 
 ---
 

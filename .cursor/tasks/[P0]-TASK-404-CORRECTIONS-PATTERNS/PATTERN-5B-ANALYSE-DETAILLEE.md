@@ -822,3 +822,4 @@ Cursor va :
 **Analyse Pattern #5B complétée**
 
 
+

@@ -21,7 +21,7 @@ Les tarifs d'un déménagement international depuis Lyon varient considérableme
 
 Lyon bénéficie d'une position stratégique pour les déménagements internationaux : proximité frontières terrestres Europe (Suisse 150 km, Italie 300 km via tunnel Fréjus), accès autoroutiers excellents (A6 Paris, A7 Marseille, A43 Suisse-Italie, A42 Genève), aéroport Lyon-Saint-Exupéry (12M passagers annuels, vols intercontinentaux USA/Canada/Afrique/Asie), et ports maritimes accessibles via Marseille-Fos (315 km, 3h30) ou Le Havre (650 km, 6h). Cette infrastructure facilite tous modes transport et compétitivité tarifaire vs villes enclavées.
 
-Ce guide détaille les fourchettes de prix 2025 par destination (Europe proche, Europe éloignée, intercontinental), compare les coûts par mode de transport (routier, maritime container, aérien express), analyse les facteurs influençant le devis final, et donne des exemples chiffrés concrets Lyon. Pour approfondir, consultez [notre guide complet déménagement international Lyon](/blog/demenagement-international-lyon/demenagement-international-lyon-guide-complet).
+Ce guide détaille les fourchettes de prix 2025 par destination (Europe proche, Europe éloignée, intercontinental), compare les coûts par mode de transport (routier, maritime container, aérien express), analyse les facteurs influençant le devis final, et donne des exemples chiffrés concrets Lyon. Pour approfondir, consultez [notre guide complet déménagement international Lyon](/blog/demenagement-lyon/demenagement-international-lyon-guide).
 
 ## Prix par Destination Europe depuis Lyon
 
@@ -249,7 +249,7 @@ Les prix déménagement international depuis Lyon s'échelonnent de 2000€ (stu
 
 Les facteurs prix (volume, distance, mode, formule porte-à-porte, services emballage/douane, accessibilité, période, assurances) génèrent écarts de 30-50% entre devis : un T2 Lyon-Genève varie de 2500€ (formule éco, vous emballez, Villeurbanne départ, basse saison) à 5000€ (standard clé en main, Vieux-Lyon, emballage pro, assurance renforcée, été). Demander 3+ devis déménageurs internationaux Lyon (AGS, Allied, Crown, S.I.E.T) permet comparaison objective et négociation.
 
-Pour détails par destination, consultez [Lyon-Suisse](/blog/demenagement-international-lyon/demenagement-lyon-suisse) et [Lyon-Italie](/blog/demenagement-international-lyon/demenagement-lyon-italie). Explorez aussi [notre guide complet international Lyon](/blog/demenagement-international-lyon/demenagement-international-lyon-guide-complet) pour formalités, documents, choix déménageur. Bon déménagement international !
+Pour détails par destination, consultez [Lyon-Suisse](/blog/demenagement-international-lyon/demenagement-lyon-suisse) et [Lyon-Italie](/blog/demenagement-international-lyon/demenagement-lyon-italie). Explorez aussi [notre guide complet international Lyon](/blog/demenagement-lyon/demenagement-international-lyon-guide) pour formalités, documents, choix déménageur. Bon déménagement international !
 
 ---
 

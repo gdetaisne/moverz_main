@@ -89,7 +89,7 @@ Ce guide présente usages professionnels garde-meuble (archives, stock, mobilier
 
 Garde-meuble entreprise Lyon (boxes 15-50m², 300-1500€/mois HT, TVA déductible) sert archives légales 10 ans (50-200 cartons TPE-PME, 10-25m²), stock saisonnier e-commerce (20-100m² rotatif), mobilier bureau temporaire (30-50m² déménagements/travaux 1-6 mois). Flexibilité self (résiliation 1 mois vs bail 3-6-9 ans entrepôt) adapte PME besoins variables. Shurgard Lyon (Jean Macé Part-Dieu 10 min, Vaise, États-Unis) propose professionnel, facturation HT, engagements 12 mois -10-15% (économie 360-2160€/an).
 
-Comparatif : self 20-50m² 300-1500€ tout inclus vs entrepôt 100m² 650-2250€ (loyer + charges + sécurité). Self optimal PME <50m², entrepôt si >100m². Consultez [prix](/blog/garde-meuble-lyon/prix-garde-meuble-lyon-2025), [guide](/blog/garde-meuble-lyon/garde-meuble-lyon-guide-complet). Bon stockage professionnel !
+Comparatif : self 20-50m² 300-1500€ tout inclus vs entrepôt 100m² 650-2250€ (loyer + charges + sécurité). Self optimal PME <50m², entrepôt si >100m². Consultez [prix](/blog/garde-meuble-lyon/prix-garde-meuble-lyon-2025), [guide](/blog/demenagement-lyon/garde-meuble-lyon-guide). Bon stockage professionnel !
 
 ---
 

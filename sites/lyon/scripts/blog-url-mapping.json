@@ -1,0 +1,893 @@
+{
+  "aide-au-demenagement-lyon-guide-complet": {
+    "file": "content/blog/aide-au-demenagement-lyon/aide-au-demenagement-lyon-guide-complet.md",
+    "originalSlug": "aide-au-demenagement-lyon-guide-complet",
+    "cleanSlug": "aide-au-demenagement-lyon-guide",
+    "category": "demenagement-lyon",
+    "cleanCategory": "demenagement-lyon",
+    "url": "/blog/demenagement-lyon/aide-au-demenagement-lyon-guide/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-lyon/aide-au-demenagement-lyon-guide/"
+  },
+  "demenagement-entreprise-lyon-guide-complet": {
+    "file": "content/blog/demenagement-entreprise-lyon/demenagement-entreprise-lyon-guide-complet.md",
+    "originalSlug": "demenagement-entreprise-lyon-guide-complet",
+    "cleanSlug": "demenagement-entreprise-lyon-guide",
+    "category": "demenagement-lyon",
+    "cleanCategory": "demenagement-lyon",
+    "url": "/blog/demenagement-lyon/demenagement-entreprise-lyon-guide/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-lyon/demenagement-entreprise-lyon-guide/"
+  },
+  "demenagement-international-lyon-guide-complet": {
+    "file": "content/blog/demenagement-international-lyon/demenagement-international-lyon-guide-complet.md",
+    "originalSlug": "demenagement-international-lyon-guide-complet",
+    "cleanSlug": "demenagement-international-lyon-guide",
+    "category": "demenagement-lyon",
+    "cleanCategory": "demenagement-lyon",
+    "url": "/blog/demenagement-lyon/demenagement-international-lyon-guide/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-lyon/demenagement-international-lyon-guide/"
+  },
+  "demenagement-lyon-pas-cher-guide-complet": {
+    "file": "content/blog/demenagement-lyon-pas-cher/demenagement-lyon-pas-cher-guide-complet.md",
+    "originalSlug": "demenagement-lyon-pas-cher-guide-complet",
+    "cleanSlug": "demenagement-lyon-pas-cher-guide",
+    "category": "demenagement-lyon",
+    "cleanCategory": "demenagement-lyon",
+    "url": "/blog/demenagement-lyon/demenagement-lyon-pas-cher-guide/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-lyon/demenagement-lyon-pas-cher-guide/"
+  },
+  "demenagement-petit-volume-lyon-guide-complet": {
+    "file": "content/blog/demenagement-petit-volume-lyon/demenagement-petit-volume-lyon-guide-complet.md",
+    "originalSlug": "demenagement-petit-volume-lyon-guide-complet",
+    "cleanSlug": "demenagement-petit-volume-lyon-guide",
+    "category": "demenagement-lyon",
+    "cleanCategory": "demenagement-lyon",
+    "url": "/blog/demenagement-lyon/demenagement-petit-volume-lyon-guide/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-lyon/demenagement-petit-volume-lyon-guide/"
+  },
+  "demenagement-piano-lyon-guide-complet": {
+    "file": "content/blog/demenagement-piano-lyon/demenagement-piano-lyon-guide-complet.md",
+    "originalSlug": "demenagement-piano-lyon-guide-complet",
+    "cleanSlug": "demenagement-piano-lyon-guide",
+    "category": "demenagement-lyon",
+    "cleanCategory": "demenagement-lyon",
+    "url": "/blog/demenagement-lyon/demenagement-piano-lyon-guide/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-lyon/demenagement-piano-lyon-guide/"
+  },
+  "demenageur-lyon-guide-complet": {
+    "file": "content/blog/demenageur-lyon/demenageur-lyon-guide-complet.md",
+    "originalSlug": "demenageur-lyon-guide-complet",
+    "cleanSlug": "demenageur-lyon-guide",
+    "category": "demenagement-lyon",
+    "cleanCategory": "demenagement-lyon",
+    "url": "/blog/demenagement-lyon/demenageur-lyon-guide/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-lyon/demenageur-lyon-guide/"
+  },
+  "garde-meuble-lyon-guide-complet": {
+    "file": "content/blog/garde-meuble-lyon/garde-meuble-lyon-guide-complet.md",
+    "originalSlug": "garde-meuble-lyon-guide-complet",
+    "cleanSlug": "garde-meuble-lyon-guide",
+    "category": "demenagement-lyon",
+    "cleanCategory": "demenagement-lyon",
+    "url": "/blog/demenagement-lyon/garde-meuble-lyon-guide/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-lyon/garde-meuble-lyon-guide/"
+  },
+  "location-camion-demenagement-lyon-guide-complet": {
+    "file": "content/blog/location-camion-demenagement-lyon/location-camion-demenagement-lyon-guide-complet.md",
+    "originalSlug": "location-camion-demenagement-lyon-guide-complet",
+    "cleanSlug": "location-camion-demenagement-lyon-guide",
+    "category": "demenagement-lyon",
+    "cleanCategory": "demenagement-lyon",
+    "url": "/blog/demenagement-lyon/location-camion-demenagement-lyon-guide/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-lyon/location-camion-demenagement-lyon-guide/"
+  },
+  "prix-demenagement-lyon-guide-complet": {
+    "file": "content/blog/prix-demenagement-lyon/prix-demenagement-lyon-guide-complet.md",
+    "originalSlug": "prix-demenagement-lyon-guide-complet",
+    "cleanSlug": "prix-demenagement-lyon-guide",
+    "category": "demenagement-lyon",
+    "cleanCategory": "demenagement-lyon",
+    "url": "/blog/demenagement-lyon/prix-demenagement-lyon-guide/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-lyon/prix-demenagement-lyon-guide/"
+  },
+  "accordage-piano-apres-demenagement-lyon": {
+    "file": "content/blog/satellites/accordage-piano-apres-demenagement-lyon.md",
+    "originalSlug": "accordage-piano-apres-demenagement-lyon",
+    "cleanSlug": "accordage-piano-apres-demenagement-lyon",
+    "category": "demenagement-piano-lyon",
+    "cleanCategory": "demenagement-piano-lyon",
+    "url": "/blog/demenagement-piano-lyon/accordage-piano-apres-demenagement-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-piano-lyon/accordage-piano-apres-demenagement-lyon/"
+  },
+  "aide-chargement-camion-lyon": {
+    "file": "content/blog/satellites/aide-chargement-camion-lyon.md",
+    "originalSlug": "aide-chargement-camion-lyon",
+    "cleanSlug": "aide-chargement-camion-lyon",
+    "category": "aide-demenagement-lyon",
+    "cleanCategory": "aide-demenagement-lyon",
+    "url": "/blog/aide-demenagement-lyon/aide-chargement-camion-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/aide-demenagement-lyon/aide-chargement-camion-lyon/"
+  },
+  "aide-demenagement-entre-particuliers-lyon": {
+    "file": "content/blog/satellites/aide-demenagement-entre-particuliers-lyon.md",
+    "originalSlug": "aide-demenagement-entre-particuliers-lyon",
+    "cleanSlug": "aide-demenagement-entre-particuliers-lyon",
+    "category": "aide-demenagement-lyon",
+    "cleanCategory": "aide-demenagement-lyon",
+    "url": "/blog/aide-demenagement-lyon/aide-demenagement-entre-particuliers-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/aide-demenagement-lyon/aide-demenagement-entre-particuliers-lyon/"
+  },
+  "aide-financiere-demenagement-lyon": {
+    "file": "content/blog/satellites/aide-financiere-demenagement-lyon.md",
+    "originalSlug": "aide-financiere-demenagement-lyon",
+    "cleanSlug": "aide-financiere-demenagement-lyon",
+    "category": "aide-demenagement-lyon",
+    "cleanCategory": "aide-demenagement-lyon",
+    "url": "/blog/aide-demenagement-lyon/aide-financiere-demenagement-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/aide-demenagement-lyon/aide-financiere-demenagement-lyon/"
+  },
+  "aide-portage-escaliers-lyon": {
+    "file": "content/blog/satellites/aide-portage-escaliers-lyon.md",
+    "originalSlug": "aide-portage-escaliers-lyon",
+    "cleanSlug": "aide-portage-escaliers-lyon",
+    "category": "aide-demenagement-lyon",
+    "cleanCategory": "aide-demenagement-lyon",
+    "url": "/blog/aide-demenagement-lyon/aide-portage-escaliers-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/aide-demenagement-lyon/aide-portage-escaliers-lyon/"
+  },
+  "amenagement-nouveaux-bureaux-lyon": {
+    "file": "content/blog/satellites/amenagement-nouveaux-bureaux-lyon.md",
+    "originalSlug": "amenagement-nouveaux-bureaux-lyon",
+    "cleanSlug": "amenagement-nouveaux-bureaux-lyon",
+    "category": "demenagement-entreprise-lyon",
+    "cleanCategory": "demenagement-entreprise-lyon",
+    "url": "/blog/demenagement-entreprise-lyon/amenagement-nouveaux-bureaux-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-entreprise-lyon/amenagement-nouveaux-bureaux-lyon/"
+  },
+  "archives-entreprise-demenagement-lyon": {
+    "file": "content/blog/satellites/archives-entreprise-demenagement-lyon.md",
+    "originalSlug": "archives-entreprise-demenagement-lyon",
+    "cleanSlug": "archives-entreprise-demenagement-lyon",
+    "category": "demenagement-entreprise-lyon",
+    "cleanCategory": "demenagement-entreprise-lyon",
+    "url": "/blog/demenagement-entreprise-lyon/archives-entreprise-demenagement-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-entreprise-lyon/archives-entreprise-demenagement-lyon/"
+  },
+  "assurance-demenagement-piano": {
+    "file": "content/blog/satellites/assurance-demenagement-piano.md",
+    "originalSlug": "assurance-demenagement-piano",
+    "cleanSlug": "assurance-demenagement-piano",
+    "category": "demenagement-piano-lyon",
+    "cleanCategory": "demenagement-piano-lyon",
+    "url": "/blog/demenagement-piano-lyon/assurance-demenagement-piano/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-piano-lyon/assurance-demenagement-piano/"
+  },
+  "avis-demenageurs-lyon": {
+    "file": "content/blog/satellites/avis-demenageurs-lyon.md",
+    "originalSlug": "avis-demenageurs-lyon",
+    "cleanSlug": "avis-demenageurs-lyon",
+    "category": "demenageur-lyon",
+    "cleanCategory": "demenageur-lyon",
+    "url": "/blog/demenageur-lyon/avis-demenageurs-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenageur-lyon/avis-demenageurs-lyon/"
+  },
+  "calcul-volume-demenagement-lyon": {
+    "file": "content/blog/satellites/calcul-volume-demenagement-lyon.md",
+    "originalSlug": "calcul-volume-demenagement-lyon",
+    "cleanSlug": "calcul-volume-demenagement-lyon",
+    "category": "prix-demenagement-lyon",
+    "cleanCategory": "prix-demenagement-lyon",
+    "url": "/blog/prix-demenagement-lyon/calcul-volume-demenagement-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/prix-demenagement-lyon/calcul-volume-demenagement-lyon/"
+  },
+  "camionnette-chauffeur-lyon": {
+    "file": "content/blog/satellites/camionnette-chauffeur-lyon.md",
+    "originalSlug": "camionnette-chauffeur-lyon",
+    "cleanSlug": "camionnette-chauffeur-lyon",
+    "category": "demenagement-petit-volume-lyon",
+    "cleanCategory": "demenagement-petit-volume-lyon",
+    "url": "/blog/demenagement-petit-volume-lyon/camionnette-chauffeur-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-petit-volume-lyon/camionnette-chauffeur-lyon/"
+  },
+  "cartons-demenagement-gratuits-lyon": {
+    "file": "content/blog/satellites/cartons-demenagement-gratuits-lyon.md",
+    "originalSlug": "cartons-demenagement-gratuits-lyon",
+    "cleanSlug": "cartons-demenagement-gratuits-lyon",
+    "category": "demenagement-lyon-pas-cher",
+    "cleanCategory": "demenagement-lyon-pas-cher",
+    "url": "/blog/demenagement-lyon-pas-cher/cartons-demenagement-gratuits-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-lyon-pas-cher/cartons-demenagement-gratuits-lyon/"
+  },
+  "choisir-demenageur-fiable-lyon-criteres": {
+    "file": "content/blog/satellites/choisir-demenageur-fiable-lyon-criteres.md",
+    "originalSlug": "choisir-demenageur-fiable-lyon-criteres",
+    "cleanSlug": "choisir-demenageur-fiable-lyon-criteres",
+    "category": "demenageur-lyon",
+    "cleanCategory": "demenageur-lyon",
+    "url": "/blog/demenageur-lyon/choisir-demenageur-fiable-lyon-criteres/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenageur-lyon/choisir-demenageur-fiable-lyon-criteres/"
+  },
+  "choisir-demenageur-fiable-pas-cher-lyon": {
+    "file": "content/blog/satellites/choisir-demenageur-fiable-pas-cher-lyon.md",
+    "originalSlug": "choisir-demenageur-fiable-pas-cher-lyon",
+    "cleanSlug": "choisir-demenageur-fiable-pas-cher-lyon",
+    "category": "demenagement-lyon-pas-cher",
+    "cleanCategory": "demenagement-lyon-pas-cher",
+    "url": "/blog/demenagement-lyon-pas-cher/choisir-demenageur-fiable-pas-cher-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-lyon-pas-cher/choisir-demenageur-fiable-pas-cher-lyon/"
+  },
+  "choisir-demenageur-international-lyon": {
+    "file": "content/blog/satellites/choisir-demenageur-international-lyon.md",
+    "originalSlug": "choisir-demenageur-international-lyon",
+    "cleanSlug": "choisir-demenageur-international-lyon",
+    "category": "demenagement-international-lyon",
+    "cleanCategory": "demenagement-international-lyon",
+    "url": "/blog/demenagement-international-lyon/choisir-demenageur-international-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-international-lyon/choisir-demenageur-international-lyon/"
+  },
+  "communication-interne-demenagement-entreprise-lyon": {
+    "file": "content/blog/satellites/communication-interne-demenagement-entreprise-lyon.md",
+    "originalSlug": "communication-interne-demenagement-entreprise-lyon",
+    "cleanSlug": "communication-interne-demenagement-entreprise-lyon",
+    "category": "demenagement-entreprise-lyon",
+    "cleanCategory": "demenagement-entreprise-lyon",
+    "url": "/blog/demenagement-entreprise-lyon/communication-interne-demenagement-entreprise-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-entreprise-lyon/communication-interne-demenagement-entreprise-lyon/"
+  },
+  "comparaison-prix-demenageurs-lyon": {
+    "file": "content/blog/satellites/comparaison-prix-demenageurs-lyon.md",
+    "originalSlug": "comparaison-prix-demenageurs-lyon",
+    "cleanSlug": "comparaison-prix-demenageurs-lyon",
+    "category": "prix-demenagement-lyon",
+    "cleanCategory": "prix-demenagement-lyon",
+    "url": "/blog/prix-demenagement-lyon/comparaison-prix-demenageurs-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/prix-demenagement-lyon/comparaison-prix-demenageurs-lyon/"
+  },
+  "delais-demenagement-international-lyon": {
+    "file": "content/blog/satellites/delais-demenagement-international-lyon.md",
+    "originalSlug": "delais-demenagement-international-lyon",
+    "cleanSlug": "delais-demenagement-international-lyon",
+    "category": "demenagement-international-lyon",
+    "cleanCategory": "demenagement-international-lyon",
+    "url": "/blog/demenagement-international-lyon/delais-demenagement-international-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-international-lyon/delais-demenagement-international-lyon/"
+  },
+  "demenagement-amis-remuneration-lyon": {
+    "file": "content/blog/satellites/demenagement-amis-remuneration-lyon.md",
+    "originalSlug": "demenagement-amis-remuneration-lyon",
+    "cleanSlug": "demenagement-amis-remuneration-lyon",
+    "category": "aide-demenagement-lyon",
+    "cleanCategory": "aide-demenagement-lyon",
+    "url": "/blog/aide-demenagement-lyon/demenagement-amis-remuneration-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/aide-demenagement-lyon/demenagement-amis-remuneration-lyon/"
+  },
+  "demenagement-avec-aide-vs-sans-aide-lyon": {
+    "file": "content/blog/satellites/demenagement-avec-aide-vs-sans-aide-lyon.md",
+    "originalSlug": "demenagement-avec-aide-vs-sans-aide-lyon",
+    "cleanSlug": "demenagement-avec-aide-vs-sans-aide-lyon",
+    "category": "aide-demenagement-lyon",
+    "cleanCategory": "aide-demenagement-lyon",
+    "url": "/blog/aide-demenagement-lyon/demenagement-avec-aide-vs-sans-aide-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/aide-demenagement-lyon/demenagement-avec-aide-vs-sans-aide-lyon/"
+  },
+  "demenagement-chambre-etudiant-lyon": {
+    "file": "content/blog/satellites/demenagement-chambre-etudiant-lyon.md",
+    "originalSlug": "demenagement-chambre-etudiant-lyon",
+    "cleanSlug": "demenagement-chambre-etudiant-lyon",
+    "category": "demenagement-petit-volume-lyon",
+    "cleanCategory": "demenagement-petit-volume-lyon",
+    "url": "/blog/demenagement-petit-volume-lyon/demenagement-chambre-etudiant-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-petit-volume-lyon/demenagement-chambre-etudiant-lyon/"
+  },
+  "demenagement-etudiant-lyon-pas-cher": {
+    "file": "content/blog/satellites/demenagement-etudiant-lyon-pas-cher.md",
+    "originalSlug": "demenagement-etudiant-lyon-pas-cher",
+    "cleanSlug": "demenagement-etudiant-lyon-pas-cher",
+    "category": "demenagement-lyon-pas-cher",
+    "cleanCategory": "demenagement-lyon-pas-cher",
+    "url": "/blog/demenagement-lyon-pas-cher/demenagement-etudiant-lyon-pas-cher/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-lyon-pas-cher/demenagement-etudiant-lyon-pas-cher/"
+  },
+  "demenagement-europe-lyon": {
+    "file": "content/blog/satellites/demenagement-europe-lyon.md",
+    "originalSlug": "demenagement-europe-lyon",
+    "cleanSlug": "demenagement-europe-lyon",
+    "category": "demenagement-international-lyon",
+    "cleanCategory": "demenagement-international-lyon",
+    "url": "/blog/demenagement-international-lyon/demenagement-europe-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-international-lyon/demenagement-europe-lyon/"
+  },
+  "demenagement-groupe-lyon-economies": {
+    "file": "content/blog/satellites/demenagement-groupe-lyon-economies.md",
+    "originalSlug": "demenagement-groupe-lyon-economies",
+    "cleanSlug": "demenagement-groupe-lyon-economies",
+    "category": "demenagement-lyon-pas-cher",
+    "cleanCategory": "demenagement-lyon-pas-cher",
+    "url": "/blog/demenagement-lyon-pas-cher/demenagement-groupe-lyon-economies/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-lyon-pas-cher/demenagement-groupe-lyon-economies/"
+  },
+  "demenagement-lyon-italie": {
+    "file": "content/blog/satellites/demenagement-lyon-italie.md",
+    "originalSlug": "demenagement-lyon-italie",
+    "cleanSlug": "demenagement-lyon-italie",
+    "category": "demenagement-international-lyon",
+    "cleanCategory": "demenagement-international-lyon",
+    "url": "/blog/demenagement-international-lyon/demenagement-lyon-italie/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-international-lyon/demenagement-lyon-italie/"
+  },
+  "demenagement-lyon-suisse": {
+    "file": "content/blog/satellites/demenagement-lyon-suisse.md",
+    "originalSlug": "demenagement-lyon-suisse",
+    "cleanSlug": "demenagement-lyon-suisse",
+    "category": "demenagement-international-lyon",
+    "cleanCategory": "demenagement-international-lyon",
+    "url": "/blog/demenagement-international-lyon/demenagement-lyon-suisse/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-international-lyon/demenagement-lyon-suisse/"
+  },
+  "demenagement-senior-adapte-lyon": {
+    "file": "content/blog/satellites/demenagement-senior-adapte-lyon.md",
+    "originalSlug": "demenagement-senior-adapte-lyon",
+    "cleanSlug": "demenagement-senior-adapte-lyon",
+    "category": "demenagement-petit-volume-lyon",
+    "cleanCategory": "demenagement-petit-volume-lyon",
+    "url": "/blog/demenagement-petit-volume-lyon/demenagement-senior-adapte-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-petit-volume-lyon/demenagement-senior-adapte-lyon/"
+  },
+  "demenagement-week-end-entreprise-lyon": {
+    "file": "content/blog/satellites/demenagement-week-end-entreprise-lyon.md",
+    "originalSlug": "demenagement-week-end-entreprise-lyon",
+    "cleanSlug": "demenagement-week-end-entreprise-lyon",
+    "category": "demenagement-entreprise-lyon",
+    "cleanCategory": "demenagement-entreprise-lyon",
+    "url": "/blog/demenagement-entreprise-lyon/demenagement-week-end-entreprise-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-entreprise-lyon/demenagement-week-end-entreprise-lyon/"
+  },
+  "demenageur-agree-certifie-lyon": {
+    "file": "content/blog/satellites/demenageur-agree-certifie-lyon.md",
+    "originalSlug": "demenageur-agree-certifie-lyon",
+    "cleanSlug": "demenageur-agree-certifie-lyon",
+    "category": "demenageur-lyon",
+    "cleanCategory": "demenageur-lyon",
+    "url": "/blog/demenageur-lyon/demenageur-agree-certifie-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenageur-lyon/demenageur-agree-certifie-lyon/"
+  },
+  "demenageur-dimanche-lyon": {
+    "file": "content/blog/satellites/demenageur-dimanche-lyon.md",
+    "originalSlug": "demenageur-dimanche-lyon",
+    "cleanSlug": "demenageur-dimanche-lyon",
+    "category": "demenageur-lyon",
+    "cleanCategory": "demenageur-lyon",
+    "url": "/blog/demenageur-lyon/demenageur-dimanche-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenageur-lyon/demenageur-dimanche-lyon/"
+  },
+  "demenageur-lyon-3eme-arrondissement": {
+    "file": "content/blog/satellites/demenageur-lyon-3eme-arrondissement.md",
+    "originalSlug": "demenageur-lyon-3eme-arrondissement",
+    "cleanSlug": "demenageur-lyon-3eme-arrondissement",
+    "category": "demenageur-lyon",
+    "cleanCategory": "demenageur-lyon",
+    "url": "/blog/demenageur-lyon/demenageur-lyon-3eme-arrondissement/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenageur-lyon/demenageur-lyon-3eme-arrondissement/"
+  },
+  "demenageur-pas-cher-lyon": {
+    "file": "content/blog/satellites/demenageur-pas-cher-lyon.md",
+    "originalSlug": "demenageur-pas-cher-lyon",
+    "cleanSlug": "demenageur-pas-cher-lyon",
+    "category": "demenageur-lyon",
+    "cleanCategory": "demenageur-lyon",
+    "url": "/blog/demenageur-lyon/demenageur-pas-cher-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenageur-lyon/demenageur-pas-cher-lyon/"
+  },
+  "demenageur-specialiste-piano-lyon": {
+    "file": "content/blog/satellites/demenageur-specialiste-piano-lyon.md",
+    "originalSlug": "demenageur-specialiste-piano-lyon",
+    "cleanSlug": "demenageur-specialiste-piano-lyon",
+    "category": "demenagement-piano-lyon",
+    "cleanCategory": "demenagement-piano-lyon",
+    "url": "/blog/demenagement-piano-lyon/demenageur-specialiste-piano-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-piano-lyon/demenageur-specialiste-piano-lyon/"
+  },
+  "devis-demenagement-gratuit-lyon": {
+    "file": "content/blog/satellites/devis-demenagement-gratuit-lyon.md",
+    "originalSlug": "devis-demenagement-gratuit-lyon",
+    "cleanSlug": "devis-demenagement-gratuit-lyon",
+    "category": "demenageur-lyon",
+    "cleanCategory": "demenageur-lyon",
+    "url": "/blog/demenageur-lyon/devis-demenagement-gratuit-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenageur-lyon/devis-demenagement-gratuit-lyon/"
+  },
+  "devis-estimation-demenagement-lyon": {
+    "file": "content/blog/satellites/devis-estimation-demenagement-lyon.md",
+    "originalSlug": "devis-estimation-demenagement-lyon",
+    "cleanSlug": "devis-estimation-demenagement-lyon",
+    "category": "prix-demenagement-lyon",
+    "cleanCategory": "prix-demenagement-lyon",
+    "url": "/blog/prix-demenagement-lyon/devis-estimation-demenagement-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/prix-demenagement-lyon/devis-estimation-demenagement-lyon/"
+  },
+  "diy-vs-pro-petit-volume-lyon": {
+    "file": "content/blog/satellites/diy-vs-pro-petit-volume-lyon.md",
+    "originalSlug": "diy-vs-pro-petit-volume-lyon",
+    "cleanSlug": "diy-vs-pro-petit-volume-lyon",
+    "category": "demenagement-petit-volume-lyon",
+    "cleanCategory": "demenagement-petit-volume-lyon",
+    "url": "/blog/demenagement-petit-volume-lyon/diy-vs-pro-petit-volume-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-petit-volume-lyon/diy-vs-pro-petit-volume-lyon/"
+  },
+  "documents-demenagement-international-lyon": {
+    "file": "content/blog/satellites/documents-demenagement-international-lyon.md",
+    "originalSlug": "documents-demenagement-international-lyon",
+    "cleanSlug": "documents-demenagement-international-lyon",
+    "category": "demenagement-international-lyon",
+    "cleanCategory": "demenagement-international-lyon",
+    "url": "/blog/demenagement-international-lyon/documents-demenagement-international-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-international-lyon/documents-demenagement-international-lyon/"
+  },
+  "duree-minimum-location-box-lyon": {
+    "file": "content/blog/satellites/duree-minimum-location-box-lyon.md",
+    "originalSlug": "duree-minimum-location-box-lyon",
+    "cleanSlug": "duree-minimum-location-box-lyon",
+    "category": "garde-meuble-lyon",
+    "cleanCategory": "garde-meuble-lyon",
+    "url": "/blog/garde-meuble-lyon/duree-minimum-location-box-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/garde-meuble-lyon/duree-minimum-location-box-lyon/"
+  },
+  "economiser-prix-demenagement-lyon": {
+    "file": "content/blog/satellites/economiser-prix-demenagement-lyon.md",
+    "originalSlug": "economiser-prix-demenagement-lyon",
+    "cleanSlug": "economiser-prix-demenagement-lyon",
+    "category": "prix-demenagement-lyon",
+    "cleanCategory": "prix-demenagement-lyon",
+    "url": "/blog/prix-demenagement-lyon/economiser-prix-demenagement-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/prix-demenagement-lyon/economiser-prix-demenagement-lyon/"
+  },
+  "embaucher-manutentionnaire-freelance-lyon": {
+    "file": "content/blog/satellites/embaucher-manutentionnaire-freelance-lyon.md",
+    "originalSlug": "embaucher-manutentionnaire-freelance-lyon",
+    "cleanSlug": "embaucher-manutentionnaire-freelance-lyon",
+    "category": "aide-demenagement-lyon",
+    "cleanCategory": "aide-demenagement-lyon",
+    "url": "/blog/aide-demenagement-lyon/embaucher-manutentionnaire-freelance-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/aide-demenagement-lyon/embaucher-manutentionnaire-freelance-lyon/"
+  },
+  "etapes-transport-piano-lyon": {
+    "file": "content/blog/satellites/etapes-transport-piano-lyon.md",
+    "originalSlug": "etapes-transport-piano-lyon",
+    "cleanSlug": "etapes-transport-piano-lyon",
+    "category": "demenagement-piano-lyon",
+    "cleanCategory": "demenagement-piano-lyon",
+    "url": "/blog/demenagement-piano-lyon/etapes-transport-piano-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-piano-lyon/etapes-transport-piano-lyon/"
+  },
+  "facteurs-prix-demenagement-lyon": {
+    "file": "content/blog/satellites/facteurs-prix-demenagement-lyon.md",
+    "originalSlug": "facteurs-prix-demenagement-lyon",
+    "cleanSlug": "facteurs-prix-demenagement-lyon",
+    "category": "prix-demenagement-lyon",
+    "cleanCategory": "prix-demenagement-lyon",
+    "url": "/blog/prix-demenagement-lyon/facteurs-prix-demenagement-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/prix-demenagement-lyon/facteurs-prix-demenagement-lyon/"
+  },
+  "faq-aide-demenagement-lyon": {
+    "file": "content/blog/satellites/faq-aide-demenagement-lyon.md",
+    "originalSlug": "faq-aide-demenagement-lyon",
+    "cleanSlug": "faq-aide-demenagement-lyon",
+    "category": "aide-demenagement-lyon",
+    "cleanCategory": "aide-demenagement-lyon",
+    "url": "/blog/aide-demenagement-lyon/faq-aide-demenagement-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/aide-demenagement-lyon/faq-aide-demenagement-lyon/"
+  },
+  "faq-demenagement-economique-lyon": {
+    "file": "content/blog/satellites/faq-demenagement-economique-lyon.md",
+    "originalSlug": "faq-demenagement-economique-lyon",
+    "cleanSlug": "faq-demenagement-economique-lyon",
+    "category": "demenagement-lyon-pas-cher",
+    "cleanCategory": "demenagement-lyon-pas-cher",
+    "url": "/blog/demenagement-lyon-pas-cher/faq-demenagement-economique-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-lyon-pas-cher/faq-demenagement-economique-lyon/"
+  },
+  "faq-demenagement-entreprise-lyon": {
+    "file": "content/blog/satellites/faq-demenagement-entreprise-lyon.md",
+    "originalSlug": "faq-demenagement-entreprise-lyon",
+    "cleanSlug": "faq-demenagement-entreprise-lyon",
+    "category": "demenagement-entreprise-lyon",
+    "cleanCategory": "demenagement-entreprise-lyon",
+    "url": "/blog/demenagement-entreprise-lyon/faq-demenagement-entreprise-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-entreprise-lyon/faq-demenagement-entreprise-lyon/"
+  },
+  "faq-demenagement-international-lyon": {
+    "file": "content/blog/satellites/faq-demenagement-international-lyon.md",
+    "originalSlug": "faq-demenagement-international-lyon",
+    "cleanSlug": "faq-demenagement-international-lyon",
+    "category": "demenagement-international-lyon",
+    "cleanCategory": "demenagement-international-lyon",
+    "url": "/blog/demenagement-international-lyon/faq-demenagement-international-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-international-lyon/faq-demenagement-international-lyon/"
+  },
+  "faq-demenagement-piano-lyon": {
+    "file": "content/blog/satellites/faq-demenagement-piano-lyon.md",
+    "originalSlug": "faq-demenagement-piano-lyon",
+    "cleanSlug": "faq-demenagement-piano-lyon",
+    "category": "demenagement-piano-lyon",
+    "cleanCategory": "demenagement-piano-lyon",
+    "url": "/blog/demenagement-piano-lyon/faq-demenagement-piano-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-piano-lyon/faq-demenagement-piano-lyon/"
+  },
+  "faq-demenageur-lyon": {
+    "file": "content/blog/satellites/faq-demenageur-lyon.md",
+    "originalSlug": "faq-demenageur-lyon",
+    "cleanSlug": "faq-demenageur-lyon",
+    "category": "demenageur-lyon",
+    "cleanCategory": "demenageur-lyon",
+    "url": "/blog/demenageur-lyon/faq-demenageur-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenageur-lyon/faq-demenageur-lyon/"
+  },
+  "faq-garde-meuble-lyon": {
+    "file": "content/blog/satellites/faq-garde-meuble-lyon.md",
+    "originalSlug": "faq-garde-meuble-lyon",
+    "cleanSlug": "faq-garde-meuble-lyon",
+    "category": "garde-meuble-lyon",
+    "cleanCategory": "garde-meuble-lyon",
+    "url": "/blog/garde-meuble-lyon/faq-garde-meuble-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/garde-meuble-lyon/faq-garde-meuble-lyon/"
+  },
+  "faq-petit-volume-lyon": {
+    "file": "content/blog/satellites/faq-petit-volume-lyon.md",
+    "originalSlug": "faq-petit-volume-lyon",
+    "cleanSlug": "faq-petit-volume-lyon",
+    "category": "demenagement-petit-volume-lyon",
+    "cleanCategory": "demenagement-petit-volume-lyon",
+    "url": "/blog/demenagement-petit-volume-lyon/faq-petit-volume-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-petit-volume-lyon/faq-petit-volume-lyon/"
+  },
+  "faq-prix-demenagement-lyon": {
+    "file": "content/blog/satellites/faq-prix-demenagement-lyon.md",
+    "originalSlug": "faq-prix-demenagement-lyon",
+    "cleanSlug": "faq-prix-demenagement-lyon",
+    "category": "prix-demenagement-lyon",
+    "cleanCategory": "prix-demenagement-lyon",
+    "url": "/blog/prix-demenagement-lyon/faq-prix-demenagement-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/prix-demenagement-lyon/faq-prix-demenagement-lyon/"
+  },
+  "formalites-douanieres-international-lyon": {
+    "file": "content/blog/satellites/formalites-douanieres-international-lyon.md",
+    "originalSlug": "formalites-douanieres-international-lyon",
+    "cleanSlug": "formalites-douanieres-international-lyon",
+    "category": "demenagement-international-lyon",
+    "cleanCategory": "demenagement-international-lyon",
+    "url": "/blog/demenagement-international-lyon/formalites-douanieres-international-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-international-lyon/formalites-douanieres-international-lyon/"
+  },
+  "formule-economique-petit-volume-lyon": {
+    "file": "content/blog/satellites/formule-economique-petit-volume-lyon.md",
+    "originalSlug": "formule-economique-petit-volume-lyon",
+    "cleanSlug": "formule-economique-petit-volume-lyon",
+    "category": "demenagement-petit-volume-lyon",
+    "cleanCategory": "demenagement-petit-volume-lyon",
+    "url": "/blog/demenagement-petit-volume-lyon/formule-economique-petit-volume-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-petit-volume-lyon/formule-economique-petit-volume-lyon/"
+  },
+  "formule-economique-vs-standard-lyon": {
+    "file": "content/blog/satellites/formule-economique-vs-standard-lyon.md",
+    "originalSlug": "formule-economique-vs-standard-lyon",
+    "cleanSlug": "formule-economique-vs-standard-lyon",
+    "category": "demenagement-lyon-pas-cher",
+    "cleanCategory": "demenagement-lyon-pas-cher",
+    "url": "/blog/demenagement-lyon-pas-cher/formule-economique-vs-standard-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-lyon-pas-cher/formule-economique-vs-standard-lyon/"
+  },
+  "garde-meuble-entreprise-lyon": {
+    "file": "content/blog/satellites/garde-meuble-entreprise-lyon.md",
+    "originalSlug": "garde-meuble-entreprise-lyon",
+    "cleanSlug": "garde-meuble-entreprise-lyon",
+    "category": "garde-meuble-lyon",
+    "cleanCategory": "garde-meuble-lyon",
+    "url": "/blog/garde-meuble-lyon/garde-meuble-entreprise-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/garde-meuble-lyon/garde-meuble-entreprise-lyon/"
+  },
+  "garde-meuble-etudiant-lyon-pas-cher": {
+    "file": "content/blog/satellites/garde-meuble-etudiant-lyon-pas-cher.md",
+    "originalSlug": "garde-meuble-etudiant-lyon-pas-cher",
+    "cleanSlug": "garde-meuble-etudiant-lyon-pas-cher",
+    "category": "garde-meuble-lyon",
+    "cleanCategory": "garde-meuble-lyon",
+    "url": "/blog/garde-meuble-lyon/garde-meuble-etudiant-lyon-pas-cher/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/garde-meuble-lyon/garde-meuble-etudiant-lyon-pas-cher/"
+  },
+  "garde-meuble-professionnel-entreprise-lyon": {
+    "file": "content/blog/satellites/garde-meuble-professionnel-entreprise-lyon.md",
+    "originalSlug": "garde-meuble-professionnel-entreprise-lyon",
+    "cleanSlug": "garde-meuble-professionnel-entreprise-lyon",
+    "category": "demenagement-entreprise-lyon",
+    "cleanCategory": "demenagement-entreprise-lyon",
+    "url": "/blog/demenagement-entreprise-lyon/garde-meuble-professionnel-entreprise-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-entreprise-lyon/garde-meuble-professionnel-entreprise-lyon/"
+  },
+  "location-camion-demenagement-lyon-pas-cher": {
+    "file": "content/blog/satellites/location-camion-demenagement-lyon-pas-cher.md",
+    "originalSlug": "location-camion-demenagement-lyon-pas-cher",
+    "cleanSlug": "location-camion-demenagement-lyon-pas-cher",
+    "category": "demenagement-lyon-pas-cher",
+    "cleanCategory": "demenagement-lyon-pas-cher",
+    "url": "/blog/demenagement-lyon-pas-cher/location-camion-demenagement-lyon-pas-cher/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-lyon-pas-cher/location-camion-demenagement-lyon-pas-cher/"
+  },
+  "location-camion-demenagement-lyon": {
+    "file": "content/blog/satellites/location-camion-demenagement-lyon.md",
+    "originalSlug": "location-camion-demenagement-lyon",
+    "cleanSlug": "location-camion-demenagement-lyon",
+    "category": "location-camion-lyon",
+    "cleanCategory": "location-camion-lyon",
+    "url": "/blog/location-camion-lyon/location-camion-demenagement-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/location-camion-lyon/location-camion-demenagement-lyon/"
+  },
+  "manutention-escaliers-specifique-lyon": {
+    "file": "content/blog/satellites/manutention-escaliers-specifique-lyon.md",
+    "originalSlug": "manutention-escaliers-specifique-lyon",
+    "cleanSlug": "manutention-escaliers-specifique-lyon",
+    "category": "aide-demenagement-lyon",
+    "cleanCategory": "aide-demenagement-lyon",
+    "url": "/blog/aide-demenagement-lyon/manutention-escaliers-specifique-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/aide-demenagement-lyon/manutention-escaliers-specifique-lyon/"
+  },
+  "manutentionnaire-demenagement-lyon": {
+    "file": "content/blog/satellites/manutentionnaire-demenagement-lyon.md",
+    "originalSlug": "manutentionnaire-demenagement-lyon",
+    "cleanSlug": "manutentionnaire-demenagement-lyon",
+    "category": "aide-demenagement-lyon",
+    "cleanCategory": "aide-demenagement-lyon",
+    "url": "/blog/aide-demenagement-lyon/manutentionnaire-demenagement-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/aide-demenagement-lyon/manutentionnaire-demenagement-lyon/"
+  },
+  "materiel-demenagement-piano": {
+    "file": "content/blog/satellites/materiel-demenagement-piano.md",
+    "originalSlug": "materiel-demenagement-piano",
+    "cleanSlug": "materiel-demenagement-piano",
+    "category": "demenagement-piano-lyon",
+    "cleanCategory": "demenagement-piano-lyon",
+    "url": "/blog/demenagement-piano-lyon/materiel-demenagement-piano/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-piano-lyon/materiel-demenagement-piano/"
+  },
+  "meilleure-periode-demenager-lyon": {
+    "file": "content/blog/satellites/meilleure-periode-demenager-lyon.md",
+    "originalSlug": "meilleure-periode-demenager-lyon",
+    "cleanSlug": "meilleure-periode-demenager-lyon",
+    "category": "demenagement-lyon-pas-cher",
+    "cleanCategory": "demenagement-lyon-pas-cher",
+    "url": "/blog/demenagement-lyon-pas-cher/meilleure-periode-demenager-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-lyon-pas-cher/meilleure-periode-demenager-lyon/"
+  },
+  "meilleurs-demenageurs-lyon": {
+    "file": "content/blog/satellites/meilleurs-demenageurs-lyon.md",
+    "originalSlug": "meilleurs-demenageurs-lyon",
+    "cleanSlug": "meilleurs-demenageurs-lyon",
+    "category": "demenageur-lyon",
+    "cleanCategory": "demenageur-lyon",
+    "url": "/blog/demenageur-lyon/meilleurs-demenageurs-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenageur-lyon/meilleurs-demenageurs-lyon/"
+  },
+  "monte-meuble-piano-lyon": {
+    "file": "content/blog/satellites/monte-meuble-piano-lyon.md",
+    "originalSlug": "monte-meuble-piano-lyon",
+    "cleanSlug": "monte-meuble-piano-lyon",
+    "category": "demenagement-piano-lyon",
+    "cleanCategory": "demenagement-piano-lyon",
+    "url": "/blog/demenagement-piano-lyon/monte-meuble-piano-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-piano-lyon/monte-meuble-piano-lyon/"
+  },
+  "petit-demenagement-express-lyon": {
+    "file": "content/blog/satellites/petit-demenagement-express-lyon.md",
+    "originalSlug": "petit-demenagement-express-lyon",
+    "cleanSlug": "petit-demenagement-express-lyon",
+    "category": "demenagement-petit-volume-lyon",
+    "cleanCategory": "demenagement-petit-volume-lyon",
+    "url": "/blog/demenagement-petit-volume-lyon/petit-demenagement-express-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-petit-volume-lyon/petit-demenagement-express-lyon/"
+  },
+  "piano-vieux-lyon-contraintes": {
+    "file": "content/blog/satellites/piano-vieux-lyon-contraintes.md",
+    "originalSlug": "piano-vieux-lyon-contraintes",
+    "cleanSlug": "piano-vieux-lyon-contraintes",
+    "category": "demenagement-piano-lyon",
+    "cleanCategory": "demenagement-piano-lyon",
+    "url": "/blog/demenagement-piano-lyon/piano-vieux-lyon-contraintes/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-piano-lyon/piano-vieux-lyon-contraintes/"
+  },
+  "planification-demenagement-bureaux-lyon": {
+    "file": "content/blog/satellites/planification-demenagement-bureaux-lyon.md",
+    "originalSlug": "planification-demenagement-bureaux-lyon",
+    "cleanSlug": "planification-demenagement-bureaux-lyon",
+    "category": "demenagement-entreprise-lyon",
+    "cleanCategory": "demenagement-entreprise-lyon",
+    "url": "/blog/demenagement-entreprise-lyon/planification-demenagement-bureaux-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-entreprise-lyon/planification-demenagement-bureaux-lyon/"
+  },
+  "prix-demenagement-entreprise-lyon": {
+    "file": "content/blog/satellites/prix-demenagement-entreprise-lyon.md",
+    "originalSlug": "prix-demenagement-entreprise-lyon",
+    "cleanSlug": "prix-demenagement-entreprise-lyon",
+    "category": "demenagement-entreprise-lyon",
+    "cleanCategory": "demenagement-entreprise-lyon",
+    "url": "/blog/demenagement-entreprise-lyon/prix-demenagement-entreprise-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-entreprise-lyon/prix-demenagement-entreprise-lyon/"
+  },
+  "prix-demenagement-international-lyon": {
+    "file": "content/blog/satellites/prix-demenagement-international-lyon.md",
+    "originalSlug": "prix-demenagement-international-lyon",
+    "cleanSlug": "prix-demenagement-international-lyon",
+    "category": "demenagement-international-lyon",
+    "cleanCategory": "demenagement-international-lyon",
+    "url": "/blog/demenagement-international-lyon/prix-demenagement-international-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-international-lyon/prix-demenagement-international-lyon/"
+  },
+  "prix-demenagement-maison-lyon": {
+    "file": "content/blog/satellites/prix-demenagement-maison-lyon.md",
+    "originalSlug": "prix-demenagement-maison-lyon",
+    "cleanSlug": "prix-demenagement-maison-lyon",
+    "category": "prix-demenagement-lyon",
+    "cleanCategory": "prix-demenagement-lyon",
+    "url": "/blog/prix-demenagement-lyon/prix-demenagement-maison-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/prix-demenagement-lyon/prix-demenagement-maison-lyon/"
+  },
+  "prix-demenagement-pas-cher-lyon-2025": {
+    "file": "content/blog/satellites/prix-demenagement-pas-cher-lyon-2025.md",
+    "originalSlug": "prix-demenagement-pas-cher-lyon-2025",
+    "cleanSlug": "prix-demenagement-pas-cher-lyon-2025",
+    "category": "demenagement-lyon-pas-cher",
+    "cleanCategory": "demenagement-lyon-pas-cher",
+    "url": "/blog/demenagement-lyon-pas-cher/prix-demenagement-pas-cher-lyon-2025/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-lyon-pas-cher/prix-demenagement-pas-cher-lyon-2025/"
+  },
+  "prix-demenagement-piano-queue-lyon": {
+    "file": "content/blog/satellites/prix-demenagement-piano-queue-lyon.md",
+    "originalSlug": "prix-demenagement-piano-queue-lyon",
+    "cleanSlug": "prix-demenagement-piano-queue-lyon",
+    "category": "demenagement-piano-lyon",
+    "cleanCategory": "demenagement-piano-lyon",
+    "url": "/blog/demenagement-piano-lyon/prix-demenagement-piano-queue-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-piano-lyon/prix-demenagement-piano-queue-lyon/"
+  },
+  "prix-demenagement-studio-lyon": {
+    "file": "content/blog/satellites/prix-demenagement-studio-lyon.md",
+    "originalSlug": "prix-demenagement-studio-lyon",
+    "cleanSlug": "prix-demenagement-studio-lyon",
+    "category": "prix-demenagement-lyon",
+    "cleanCategory": "prix-demenagement-lyon",
+    "url": "/blog/prix-demenagement-lyon/prix-demenagement-studio-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/prix-demenagement-lyon/prix-demenagement-studio-lyon/"
+  },
+  "prix-demenagement-t3-lyon": {
+    "file": "content/blog/satellites/prix-demenagement-t3-lyon.md",
+    "originalSlug": "prix-demenagement-t3-lyon",
+    "cleanSlug": "prix-demenagement-t3-lyon",
+    "category": "prix-demenagement-lyon",
+    "cleanCategory": "prix-demenagement-lyon",
+    "url": "/blog/prix-demenagement-lyon/prix-demenagement-t3-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/prix-demenagement-lyon/prix-demenagement-t3-lyon/"
+  },
+  "prix-garde-meuble-lyon-2025": {
+    "file": "content/blog/satellites/prix-garde-meuble-lyon-2025.md",
+    "originalSlug": "prix-garde-meuble-lyon-2025",
+    "cleanSlug": "prix-garde-meuble-lyon-2025",
+    "category": "garde-meuble-lyon",
+    "cleanCategory": "garde-meuble-lyon",
+    "url": "/blog/garde-meuble-lyon/prix-garde-meuble-lyon-2025/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/garde-meuble-lyon/prix-garde-meuble-lyon-2025/"
+  },
+  "prix-petit-demenagement-lyon": {
+    "file": "content/blog/satellites/prix-petit-demenagement-lyon.md",
+    "originalSlug": "prix-petit-demenagement-lyon",
+    "cleanSlug": "prix-petit-demenagement-lyon",
+    "category": "demenagement-petit-volume-lyon",
+    "cleanCategory": "demenagement-petit-volume-lyon",
+    "url": "/blog/demenagement-petit-volume-lyon/prix-petit-demenagement-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-petit-volume-lyon/prix-petit-demenagement-lyon/"
+  },
+  "securite-garde-meuble-lyon": {
+    "file": "content/blog/satellites/securite-garde-meuble-lyon.md",
+    "originalSlug": "securite-garde-meuble-lyon",
+    "cleanSlug": "securite-garde-meuble-lyon",
+    "category": "garde-meuble-lyon",
+    "cleanCategory": "garde-meuble-lyon",
+    "url": "/blog/garde-meuble-lyon/securite-garde-meuble-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/garde-meuble-lyon/securite-garde-meuble-lyon/"
+  },
+  "self-stockage-vs-garde-meuble-traditionnel-lyon": {
+    "file": "content/blog/satellites/self-stockage-vs-garde-meuble-traditionnel-lyon.md",
+    "originalSlug": "self-stockage-vs-garde-meuble-traditionnel-lyon",
+    "cleanSlug": "self-stockage-vs-garde-meuble-traditionnel-lyon",
+    "category": "garde-meuble-lyon",
+    "cleanCategory": "garde-meuble-lyon",
+    "url": "/blog/garde-meuble-lyon/self-stockage-vs-garde-meuble-traditionnel-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/garde-meuble-lyon/self-stockage-vs-garde-meuble-traditionnel-lyon/"
+  },
+  "shurgard-lyon-sites-tarifs": {
+    "file": "content/blog/satellites/shurgard-lyon-sites-tarifs.md",
+    "originalSlug": "shurgard-lyon-sites-tarifs",
+    "cleanSlug": "shurgard-lyon-sites-tarifs",
+    "category": "garde-meuble-lyon",
+    "cleanCategory": "garde-meuble-lyon",
+    "url": "/blog/garde-meuble-lyon/shurgard-lyon-sites-tarifs/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/garde-meuble-lyon/shurgard-lyon-sites-tarifs/"
+  },
+  "stockage-pendant-demenagement-lyon": {
+    "file": "content/blog/satellites/stockage-pendant-demenagement-lyon.md",
+    "originalSlug": "stockage-pendant-demenagement-lyon",
+    "cleanSlug": "stockage-pendant-demenagement-lyon",
+    "category": "garde-meuble-lyon",
+    "cleanCategory": "garde-meuble-lyon",
+    "url": "/blog/garde-meuble-lyon/stockage-pendant-demenagement-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/garde-meuble-lyon/stockage-pendant-demenagement-lyon/"
+  },
+  "taille-box-choisir-lyon": {
+    "file": "content/blog/satellites/taille-box-choisir-lyon.md",
+    "originalSlug": "taille-box-choisir-lyon",
+    "cleanSlug": "taille-box-choisir-lyon",
+    "category": "garde-meuble-lyon",
+    "cleanCategory": "garde-meuble-lyon",
+    "url": "/blog/garde-meuble-lyon/taille-box-choisir-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/garde-meuble-lyon/taille-box-choisir-lyon/"
+  },
+  "tarifs-demenageur-lyon": {
+    "file": "content/blog/satellites/tarifs-demenageur-lyon.md",
+    "originalSlug": "tarifs-demenageur-lyon",
+    "cleanSlug": "tarifs-demenageur-lyon",
+    "category": "demenageur-lyon",
+    "cleanCategory": "demenageur-lyon",
+    "url": "/blog/demenageur-lyon/tarifs-demenageur-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenageur-lyon/tarifs-demenageur-lyon/"
+  },
+  "transfert-informatique-entreprise-lyon": {
+    "file": "content/blog/satellites/transfert-informatique-entreprise-lyon.md",
+    "originalSlug": "transfert-informatique-entreprise-lyon",
+    "cleanSlug": "transfert-informatique-entreprise-lyon",
+    "category": "demenagement-entreprise-lyon",
+    "cleanCategory": "demenagement-entreprise-lyon",
+    "url": "/blog/demenagement-entreprise-lyon/transfert-informatique-entreprise-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-entreprise-lyon/transfert-informatique-entreprise-lyon/"
+  },
+  "transparence-prix-demenagement-lyon": {
+    "file": "content/blog/satellites/transparence-prix-demenagement-lyon.md",
+    "originalSlug": "transparence-prix-demenagement-lyon",
+    "cleanSlug": "transparence-prix-demenagement-lyon",
+    "category": "prix-demenagement-lyon",
+    "cleanCategory": "prix-demenagement-lyon",
+    "url": "/blog/prix-demenagement-lyon/transparence-prix-demenagement-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/prix-demenagement-lyon/transparence-prix-demenagement-lyon/"
+  },
+  "transport-cartons-uniquement-lyon": {
+    "file": "content/blog/satellites/transport-cartons-uniquement-lyon.md",
+    "originalSlug": "transport-cartons-uniquement-lyon",
+    "cleanSlug": "transport-cartons-uniquement-lyon",
+    "category": "demenagement-petit-volume-lyon",
+    "cleanCategory": "demenagement-petit-volume-lyon",
+    "url": "/blog/demenagement-petit-volume-lyon/transport-cartons-uniquement-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-petit-volume-lyon/transport-cartons-uniquement-lyon/"
+  },
+  "transport-maritime-container-lyon": {
+    "file": "content/blog/satellites/transport-maritime-container-lyon.md",
+    "originalSlug": "transport-maritime-container-lyon",
+    "cleanSlug": "transport-maritime-container-lyon",
+    "category": "demenagement-international-lyon",
+    "cleanCategory": "demenagement-international-lyon",
+    "url": "/blog/demenagement-international-lyon/transport-maritime-container-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-international-lyon/transport-maritime-container-lyon/"
+  },
+  "transport-quelques-meubles-lyon": {
+    "file": "content/blog/satellites/transport-quelques-meubles-lyon.md",
+    "originalSlug": "transport-quelques-meubles-lyon",
+    "cleanSlug": "transport-quelques-meubles-lyon",
+    "category": "demenagement-petit-volume-lyon",
+    "cleanCategory": "demenagement-petit-volume-lyon",
+    "url": "/blog/demenagement-petit-volume-lyon/transport-quelques-meubles-lyon/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-petit-volume-lyon/transport-quelques-meubles-lyon/"
+  },
+  "zones-affaires-lyon-demenagement": {
+    "file": "content/blog/satellites/zones-affaires-lyon-demenagement.md",
+    "originalSlug": "zones-affaires-lyon-demenagement",
+    "cleanSlug": "zones-affaires-lyon-demenagement",
+    "category": "demenagement-entreprise-lyon",
+    "cleanCategory": "demenagement-entreprise-lyon",
+    "url": "/blog/demenagement-entreprise-lyon/zones-affaires-lyon-demenagement/",
+    "fullUrl": "https://devis-demenageur-lyon.fr/blog/demenagement-entreprise-lyon/zones-affaires-lyon-demenagement/"
+  }
+}

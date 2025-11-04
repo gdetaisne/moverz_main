@@ -21,3 +21,4 @@ curl -I https://devis-demenageur-rennes.fr/blog/garde-meuble-rennes/garde-meuble
 - [ ] Deploy OK
 
 
+

@@ -1,56 +1,66 @@
 # Commits - TASK-404-blog-lille
 
-**Date** : 03 novembre 2025  
-**Durée** : 1h30
-
----
-
-## 📦 Commits Monorepo
-
-### Commit Principal
-
-**SHA** : `58053c4`  
-**Message** :
-```
-fix(lille): correct 183 broken blog internal links
-
-Pattern #5A: Fix folder mismatch (folder ≠ frontmatter category)
-
-All corrections: /{folder}/ → /demenagement-lille/
-- demenageur-lille → demenagement-lille (58 links)
-- location-camion-lille → demenagement-lille (33 links)
-- garde-meuble-lille → demenagement-lille (32 links)
-- prix-demenagement-lille → demenagement-lille (24 links)
-- aide-demenagement-lille → demenagement-lille (12 links)
-- demenagement-pas-cher-lille → demenagement-lille (37 links)
-- demenagement-international-lille → demenagement-lille (21 links)
-- petit-demenagement-lille → demenagement-lille (19 links)
-- demenagement-piano-lille → demenagement-lille (17 links)
-
-Files: 88 modified
-SEO impact: 183 internal 404s fixed
-Method: Manual step-by-step (test + sed pattern by pattern)
-```
-
-**Stats** :
-- 88 fichiers modifiés
-- 183 insertions
-- 343 deletions (anciens liens cassés)
+**Date** : 04 novembre 2025  
+**Durée** : 2h30
 
 ---
 
 ## 📦 Commits Lille Individuel
 
-### Commit Sync
+### Commit Principal
 
-**SHA** : `c973717`  
-**Message** : `sync: update lille from monorepo`  
-**Repo** : `https://github.com/gdetaisne/dd-lille`
+**SHA** : `4ca3522`  
+**Message** :
+```
+fix(lille): correct ~140 broken blog internal links
+
+Pattern #5A: Fix folder mismatch (folder ≠ category)
+
+Corrections:
+- Guides principaux (10) → /blog/demenagement-lille/ 
+- demenageur-lille/demenageur-lille-expert → corrected
+- location-camion-lille/location-camion-demenagement-lille-guide → corrected
+- garde-meuble-lille/garde-meuble-lille-guide-complet → corrected (slug cleaned)
+- prix-demenagement-lille/prix-demenagement-lille-guide → corrected
+- ... (10 guides total)
+
+Files: 67 satellites modified
+Links: ~140 internal 404s fixed
+Method: analyze-blog-structure.mjs → mapping → fix-404-lille-simple.mjs
+
+Scripts added (reusable):
+- scripts/analyze-blog-structure.mjs
+- scripts/blog-url-mapping.json (111 articles)
+- scripts/fix-404-lille-simple.mjs
+```
 
 **Stats** :
-- 88 fichiers modifiés
-- 183 insertions
-- 183 deletions
+- 85 fichiers modifiés
+- 1577 insertions
+- 151 deletions
+
+---
+
+## 📦 Commits Monorepo
+
+### Commit Sync
+
+**SHA** : `86f8e3b`  
+**Message** :
+```
+fix(lille): correct ~140 broken blog internal links (Pattern #5A)
+
+- 67 satellites modified
+- ~140 internal 404s fixed
+- Scripts created for reusability
+
+Ref: 4ca3522 (dd-lille)
+```
+
+**Stats** :
+- 86 fichiers modifiés
+- 1590 insertions
+- 154 deletions
 
 ---
 
@@ -65,14 +75,19 @@ Method: Manual step-by-step (test + sed pattern by pattern)
 
 ## ✅ Validation
 
-**Tests production** (post-deploy) :
-- [ ] `/blog/demenagement-lille/demenageur-lille-expert/` → 200 OK
-- [ ] `/blog/demenagement-lille/garde-meuble-lille-guide/` → 200 OK
-- [ ] `/blog/demenagement-lille/prix-demenagement-lille-guide/` → 200 OK
-- [ ] `/blog/demenagement-lille/location-camion-demenagement-lille-guide/` → 200 OK
-- [ ] `/blog/demenagement-lille/demenagement-pas-cher-lille-guide/` → 200 OK
+**Tests production (post-deploy)** :
+
+| URL | Status |
+|-----|--------|
+| `/blog/demenagement-lille/demenageur-lille-expert/` | ✅ 200 OK |
+| `/blog/demenagement-lille/location-camion-demenagement-lille-guide/` | ✅ 200 OK |
+| `/blog/demenagement-lille/garde-meuble-lille-guide/` | ✅ 200 OK |
+| `/blog/demenagement-lille/prix-demenagement-lille-guide/` | ✅ 200 OK |
+| `/blog/location-camion-lille/location-camion-vs-demenageur-lille/` | ✅ 200 OK (satellite OK) |
+
+**Conclusion** : ✅ **Toutes les URLs fonctionnent**
 
 ---
 
 **Créé par** : Cursor AI  
-**Date** : 03/11/2025
+**Date** : 04/11/2025

@@ -149,7 +149,7 @@ Ce guide présente les 4 sites Shurgard Lyon (adresses précises, accès métro/
 
 Shurgard Lyon (4 sites Jean Macé/Vaise/Gerland/États-Unis) couvre métropole avec tarifs 130-480€/mois selon taille box (5-20m²) et site. Vaise périphérie affiche prix les plus bas (-10-15%, box 5m² 140€ vs 160€ Jean Macé, économie 240€/an), compensant éloignement centre (20 min voiture). Jean Macé central excelle accessibilité (métro B, tram T1, accès 24/7), idéal étudiants/particuliers sans voiture, tarifs légèrement supérieurs (+10%) justifiés localisation. Gerland et États-Unis offrent compromis (tarifs moyens, accès tram, quartiers calmes).
 
-Choisir selon priorités : économies (Vaise), central/transports (Jean Macé), sud Lyon (Gerland), est/familles (États-Unis). Comparer alternatives Homebox Villeurbanne (-5-10%) et Une Pièce en Plus. Promotions (1er mois offert) économisent 130-480€. Consultez [prix Lyon](/blog/garde-meuble-lyon/prix-garde-meuble-lyon-2025), [self vs traditionnel](/blog/garde-meuble-lyon/self-stockage-vs-traditionnel-lyon), [guide complet](/blog/garde-meuble-lyon/garde-meuble-lyon-guide-complet). Bon stockage !
+Choisir selon priorités : économies (Vaise), central/transports (Jean Macé), sud Lyon (Gerland), est/familles (États-Unis). Comparer alternatives Homebox Villeurbanne (-5-10%) et Une Pièce en Plus. Promotions (1er mois offert) économisent 130-480€. Consultez [prix Lyon](/blog/garde-meuble-lyon/prix-garde-meuble-lyon-2025), [self vs traditionnel](/blog/garde-meuble-lyon/self-stockage-vs-traditionnel-lyon), [guide complet](/blog/demenagement-lyon/garde-meuble-lyon-guide). Bon stockage !
 
 ---
 

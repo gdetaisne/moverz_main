@@ -87,7 +87,7 @@ Consultez notre [guide complet garde-meuble Lyon](/blog/garde-meuble-lyon/garde-
 
 Durée minimum box Lyon : 1 mois (Shurgard, Homebox, Une Pièce en Plus), résiliation préavis 1 mois écrit, facturation mois complet (pas prorata jours). Engagements 6-12 mois économisent -10-15% (360-570€/an selon taille) mais pénalités résiliation anticipée (payer résiduel ou 2-3 mois forfait). Flexibilité sans engagement convient stockages durée incertaine (1-6 mois variables), engagements adaptés durées certaines longues (12+ mois expatriation/archives).
 
-Locations <1 mois rares (+30-50% surcoût). Restitution : vider, nettoyer box, rendre badge (consigne 10-20€ restituée). Consultez [prix](/blog/garde-meuble-lyon/prix-garde-meuble-lyon-2025), [guide](/blog/garde-meuble-lyon/garde-meuble-lyon-guide-complet). Bonne location !
+Locations <1 mois rares (+30-50% surcoût). Restitution : vider, nettoyer box, rendre badge (consigne 10-20€ restituée). Consultez [prix](/blog/garde-meuble-lyon/prix-garde-meuble-lyon-2025), [guide](/blog/demenagement-lyon/garde-meuble-lyon-guide). Bonne location !
 
 ---
 
