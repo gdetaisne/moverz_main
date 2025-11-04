@@ -116,6 +116,7 @@ const nextConfig = {
 
       // TOP PRIORITÉ : URL hors-ville → page ville
       { source: '/toulouse', destination: '/rennes/', permanent: true },
+      { source: '/toulouse/', destination: '/rennes/', permanent: true },
 
       // ARTICLE SATELLITE SPÉCIFIQUE cassé
       { source: '/blog/pas-cher/entraide-demenagement-rennes-plateformes', destination: '/blog', permanent: true },
