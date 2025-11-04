@@ -2,6 +2,7 @@
 
 import { useState, useEffect, useMemo } from "react";
 import { cn } from "@/lib/utils";
+import Breadcrumbs from "@/components/Breadcrumbs";
 
 // Types
 type LogementType = 'studio' | 't2' | 't3' | 't4' | 't5' | 't6' | 'maison' | 'autre';
@@ -445,8 +446,14 @@ export default function EstimationRapide() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-brand-primary via-brand-primary to-brand-accent py-12">
       <div className="container max-w-6xl mx-auto px-4">
+        <Breadcrumbs
+          items={[
+            { label: "Accueil", href: "/" },
+            { label: "Estimation rapide", href: "/estimation-rapide/" }
+          ]}
+        />
         {/* Header */}
-        <div className="text-center mb-12">
+        <div className="text-center mb-12 mt-6">
           <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">
             Estimation Rapide de Coût de Déménagement
           </h1>

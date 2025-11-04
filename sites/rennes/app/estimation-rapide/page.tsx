@@ -2,6 +2,7 @@
 
 import { useState, useEffect, useMemo } from "react";
 import { cn } from "@/lib/utils";
+import Breadcrumbs from "@/components/Breadcrumbs";
 
 // Types
 type LogementType = 'studio' | 't2' | 't3' | 't4' | 't5' | 't6' | 'maison' | 'autre';
@@ -47,7 +48,7 @@ const VILLES_FRANCAISES: Ville[] = [
   // Grandes métropoles
   { nom: "Paris", latitude: 48.8566, longitude: 2.3522, population: 2161000 },
   { nom: "Marseille", latitude: 43.2965, longitude: 5.3698, population: 870000 },
-  { nom: "rennes", latitude: 45.7640, longitude: 4.8357, population: 515000 },
+  { nom: "nice", latitude: 45.7640, longitude: 4.8357, population: 515000 },
   { nom: "Toulouse", latitude: 43.6047, longitude: 1.4442, population: 470000 },
   { nom: "Nice", latitude: 43.7102, longitude: 7.2620, population: 340000 },
   { nom: "Nantes", latitude: 47.2184, longitude: -1.5536, population: 310000 },
@@ -445,8 +446,14 @@ export default function EstimationRapide() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-brand-primary via-brand-primary to-brand-accent py-12">
       <div className="container max-w-6xl mx-auto px-4">
+        <Breadcrumbs
+          items={[
+            { label: "Accueil", href: "/" },
+            { label: "Estimation rapide", href: "/estimation-rapide/" }
+          ]}
+        />
         {/* Header */}
-        <div className="text-center mb-12">
+        <div className="text-center mb-12 mt-6">
           <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">
             Estimation Rapide de Coût de Déménagement
           </h1>
@@ -489,7 +496,7 @@ export default function EstimationRapide() {
                 onChange={(e) => setVilleDepart(e.target.value)}
                 onFocus={() => setShowSuggestionsDepart(true)}
                 onBlur={() => setTimeout(() => setShowSuggestionsDepart(false), 200)}
-                placeholder="Ex: rennes"
+                placeholder="Ex: nice"
                 className="w-full px-4 py-3 rounded-xl bg-white/10 border border-white/20 text-white placeholder-white/60 focus:outline-none focus:ring-2 focus:ring-brand-soft focus:border-transparent"
               />
               {showSuggestionsDepart && suggestionsDepart.length > 0 && (
@@ -737,7 +744,7 @@ export default function EstimationRapide() {
             Obtenir des devis précis et personnalisés
           </h2>
           <p className="text-xl text-white/90 mb-8 max-w-2xl mx-auto">
-            Nos partenaires déménageurs rennesnais vous proposent des devis gratuits et personnalisés 
+            Nos partenaires déménageurs nicenais vous proposent des devis gratuits et personnalisés 
             avec visite à domicile pour un prix ferme et définitif.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
