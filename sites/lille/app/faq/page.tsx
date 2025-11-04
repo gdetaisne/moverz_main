@@ -140,7 +140,7 @@ const faqs: QA[] = [
     category: "Prestations & logistique",
   },
   {
-    q: "Combien de cartons prévoir pour un déménagement à ${city.nameCapitalized} ?",
+    q: `Combien de cartons prévoir pour un déménagement à ${city.nameCapitalized} ?`,
     a: [
       "Repères utiles: studio 8-15 cartons; T1 15-20; T2 25-40; T3 35-55; T4 45-60+; maison 60+. Le nombre varie selon vos livres/jouets/archives et objets fragiles. Pensez aux formats adaptés (livres, vaisselle, penderie) et à l'étiquetage par pièce."
     ],
@@ -154,9 +154,9 @@ const faqs: QA[] = [
     category: "Prestations & logistique",
   },
   {
-    q: "Dois-je demander une autorisation de stationnement à ${city.nameCapitalized} ?",
+    q: `Dois-je demander une autorisation de stationnement à ${city.nameCapitalized} ?`,
     a: [
-      "Oui. Pour réserver un emplacement de déménagement, faites une demande d'occupation exceptionnelle de l'espace public (domaine public) auprès de la Ville de ${city.nameCapitalized}, de préférence en ligne et quelques jours à l'avance. En secteur piéton, l'accès est régulé par bornes et des horaires de livraison. Votre déménageur peut s'en charger."
+      `Oui. Pour réserver un emplacement de déménagement, faites une demande d'occupation exceptionnelle de l'espace public (domaine public) auprès de la Ville de ${city.nameCapitalized}, de préférence en ligne et quelques jours à l'avance. En secteur piéton, l'accès est régulé par bornes et des horaires de livraison. Votre déménageur peut s'en charger.`
     ],
     category: "Prestations & logistique",
   },
@@ -182,7 +182,7 @@ const faqs: QA[] = [
     category: "Prestations & logistique",
   },
   {
-    q: "Quels sont les quartiers les plus complexes pour déménager à ${city.nameCapitalized}?",
+    q: `Quels sont les quartiers les plus complexes pour déménager à ${city.nameCapitalized}?`,
     a: [
       "Les déménagements sont plus délicats dans l'hypercentre piéton (secteurs Saint-Éloi/Saint-Pierre, Pey-Berland, Bouffard, Mably et toulouse Sud) où l'accès est régulé par des bornes et les livraisons se font sur des créneaux autorisés. Anticipez l'autorisation/occupation du domaine public et les horaires de livraison."
     ],
@@ -211,9 +211,9 @@ const faqs: QA[] = [
     category: "Tarifs & paiement",
   },
   {
-    q: "Quel est le prix moyen d'un déménagement à ${city.nameCapitalized} ?",
+    q: `Quel est le prix moyen d'un déménagement à ${city.nameCapitalized} ?`,
     a: [
-      "Selon les données récentes des comparateurs professionnels, à ${city.nameCapitalized} un déménagement de 20 m³ coûte en moyenne ~890-1 040 € en local (<100 km) et 1 710-1 960 € en longue distance. Pour un T3 intra-muros, on observe souvent 1 000-1 300 €, et 1 700-2 000 € au-delà de 500 km. Le prix exact dépend du volume, de la distance, de l'accès (ascenseur, stationnement) et de la formule choisie."
+      `Selon les données récentes des comparateurs professionnels, à ${city.nameCapitalized} un déménagement de 20 m³ coûte en moyenne ~890-1 040 € en local (<100 km) et 1 710-1 960 € en longue distance. Pour un T3 intra-muros, on observe souvent 1 000-1 300 €, et 1 700-2 000 € au-delà de 500 km. Le prix exact dépend du volume, de la distance, de l'accès (ascenseur, stationnement) et de la formule choisie.`
     ],
     category: "Tarifs & paiement",
   },
@@ -290,7 +290,7 @@ export default function FAQPage() {
         <div className="absolute inset-0">
           <img 
             src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=2000&auto=format&fit=crop"
-            alt="FAQ Déménagement ${city.nameCapitalized} - Questions fréquentes"
+            alt={`FAQ Déménagement ${city.nameCapitalized} - Questions fréquentes`}
             className="w-full h-full object-cover"
           />
           <div className="absolute inset-0 bg-gradient-to-br from-[#04163a]/95 via-[#2b7a78]/88 to-[#04163a]/92"></div>
@@ -307,11 +307,11 @@ export default function FAQPage() {
             </div>
 
             <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold tracking-tight mb-6">
-              FAQ — Déménagement à ${city.nameCapitalized}
+              FAQ — Déménagement à {city.nameCapitalized}
             </h1>
             <p className="text-lg md:text-xl text-white/90">
               Vous trouverez ici les réponses aux questions les plus fréquentes. Pour un chiffrage précis, utilisez notre{" "}
-              <a className="underline text-[#6bcfcf] hover:text-[#6bcfcf]/80 transition-colors" href="/estimation-rapide/">devis de déménagement à ${city.nameCapitalized}</a>.
+              <a className="underline text-[#6bcfcf] hover:text-[#6bcfcf]/80 transition-colors" href="/estimation-rapide/">devis de déménagement à {city.nameCapitalized}</a>.
             </p>
           </div>
         </div>
