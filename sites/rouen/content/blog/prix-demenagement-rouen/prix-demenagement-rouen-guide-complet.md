@@ -19,23 +19,15 @@ Découvrez tous nos guides détaillés sur les prix de déménagement à Rouen :
 
 ### Tarifs Détaillés par Type
 - **[Prix Déménageur Rouen 2025](/blog/prix/prix-demenageur-rouen-2025)** : Tarifs complets par volume, distance et formule
-- **[Coût Déménagement Local Rouen](/blog/prix-demenagement-rouen/cout-demenagement-local-rouen)** : Prix spécifiques agglomération rouennaise
 
 ### Services et Surcoûts
 - **[Monte-Meuble Prix Rouen](/blog/prix/monte-meuble-demenagement-rouen-prix)** : Tarifs équipements spéciaux étages élevés
-- **[Surcoûts Centre Historique](/blog/prix-demenagement-rouen/surcout-demenagement-centre-historique-rouen)** : Majorations Vieux-Rouen
 
 ### Solutions Économiques
-- **[Déménagement Pas Cher Rouen](/blog/prix-demenagement-rouen/demenagement-pas-cher-rouen-prix)** : Formules budget et astuces économies
-- **[Devis Déménagement Comparatif](/blog/prix-demenagement-rouen/devis-demenagement-rouen-comparatif)** : Méthodes et outils comparaison
 
 ### Facturation et Conditions
-- **[Facturation Déménagement Rouen](/blog/prix-demenagement-rouen/facturation-demenagement-rouen-modalites)** : Modes paiement, acomptes, garanties
-- **[Assurance Déménagement Prix](/blog/prix-demenagement-rouen/assurance-demenagement-rouen-prix)** : Couvertures et tarifs protection
 
 ### Planification Budget
-- **[Budget Déménagement Rouen](/blog/prix-demenagement-rouen/budget-demenagement-rouen-planification)** : Calculateur et postes de dépenses
-- **[Estimation Prix Déménagement](/blog/prix-demenagement-rouen/estimation-prix-demenagement-rouen)** : Outils évaluation rapide
 
 ---
 
@@ -202,7 +194,6 @@ Cuisine équipée, bibliothèque sur-mesure, installation électrique complexe p
 | **Standard** | 1 000 - 1 500€ |
 | **Clé en main** | 1 400 - 2 100€ |
 
-Pour découvrir toutes les astuces permettant d'optimiser ces coûts, consultez notre [guide déménageur pas cher Rouen](/blog/demenagement-rouen/demenageur-rouen-pas-cher-guide).
 
 **Durée de prestation :** 6-8 heures  
 **Équipe type :** 3 déménageurs + camion 30m³
@@ -429,24 +420,16 @@ Exigez un devis détaillé mentionnant explicitement toutes les prestations incl
 ### Tarifs et Estimations
 Optimisez votre budget déménagement :
 - **[Prix Déménageur Rouen 2025](/blog/prix/prix-demenageur-rouen-2025)** - Grille tarifaire complète par prestations
-- **[Budget Déménagement Planification](/blog/prix-demenagement-rouen/budget-demenagement-rouen-planification)** - Calculateur et postes cachés
-- **[Estimation Prix Rapide](/blog/prix-demenagement-rouen/estimation-prix-demenagement-rouen)** - Outils évaluation en ligne
 
 ### Réduction des Coûts
 Économisez intelligemment :
-- **[Déménagement Pas Cher Prix](/blog/prix-demenagement-rouen/demenagement-pas-cher-rouen-prix)** - Formules économiques et astuces
-- **[Devis Comparatif](/blog/prix-demenagement-rouen/devis-demenagement-rouen-comparatif)** - Méthodes comparaison efficace
 
 ### Surcoûts et Services
 Anticipez les majorations :
 - **[Monte-Meuble Prix](/blog/prix/monte-meuble-demenagement-rouen-prix)** - Tarifs équipements spéciaux
-- **[Surcoûts Centre Historique](/blog/prix-demenagement-rouen/surcout-demenagement-centre-historique-rouen)** - Majorations Vieux-Rouen
-- **[Assurance Déménagement](/blog/prix-demenagement-rouen/assurance-demenagement-rouen-prix)** - Couvertures et garanties
 
 ### Aspects Contractuels  
 Sécurisez votre projet :
-- **[Facturation Modalités](/blog/prix-demenagement-rouen/facturation-demenagement-rouen-modalites)** - Paiements, acomptes, garanties
-- **[Coût Déménagement Local](/blog/prix-demenagement-rouen/cout-demenagement-local-rouen)** - Spécificités agglomération rouennaise
 
 ---
 

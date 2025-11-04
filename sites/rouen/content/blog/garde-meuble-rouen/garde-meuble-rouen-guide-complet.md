@@ -98,7 +98,6 @@ La plupart des centres de stockage à Rouen proposent des services additionnels 
 
 - **Vente de matériel d'emballage** : cartons de différentes tailles, papier bulle, housses de protection pour matelas et canapés
 - **Location de véhicules** : camionnettes pour transporter vos affaires jusqu'au centre
-- **Service de déménagement** : équipe disponible pour charger/décharger si besoin. Pour comparer les tarifs complets déménagement + stockage, consultez notre [guide prix déménagement Rouen](/blog/demenagement-rouen/prix-demenagement-rouen-guide).
 - **Assurance stockage** : protection de vos biens contre le vol, l'incendie et les dégâts des eaux
 
 ## Comment choisir son garde meuble à Rouen ? Les critères essentiels
