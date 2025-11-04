@@ -34,7 +34,7 @@ Tous nos guides pour trouver de l'aide pour votre déménagement à Nantes :
 - [Assurances particuliers](/blog/aide-demenagement-nantes/assurances-aide-demenagement-particuliers-nantes) : Se protéger
 
 ### Aide Gratuite
-- [Aide amis et famille](/blog/aide-demenagement-nantes/aide-demenagement-amis-famille-nantes) : Organiser l'entraide
+- [Aide amis et famille](/blog/demenagement-pas-cher-nantes/aide-demenagement-amis-famille-nantes) : Organiser l'entraide
 
 
 Déménager représente un moment clé de la vie, souvent synonyme de stress et de charge mentale importante. Heureusement, de nombreuses formes d'aide existent à Nantes pour faciliter votre changement de logement : professionnels spécialisés, aides financières publiques, plateformes d'entraide, et bien sûr le soutien de vos proches. Ce guide exhaustif vous présente toutes les solutions disponibles dans l'agglomération nantaise pour déménager sereinement, quel que soit votre budget ou votre situation.

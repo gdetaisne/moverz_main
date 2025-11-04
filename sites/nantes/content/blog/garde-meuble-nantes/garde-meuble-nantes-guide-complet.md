@@ -36,7 +36,7 @@ Pour approfondir chaque aspect du stockage à Nantes, consultez nos guides spéc
 
 ### Durée et Contrats
 - [Durée minimum de location](/blog/garde-meuble-nantes/duree-minimum-garde-meuble-nantes) : Flexibilité des contrats
-- [Garde-meuble courte durée](/blog/garde-meuble-nantes/garde-meuble-courte-duree-nantes) : Solutions temporaires
+- [Garde-meuble courte durée](/blog/petit-demenagement-nantes/garde-meuble-courte-duree-nantes) : Solutions temporaires
 
 ### Accès et Services
 - [Accès et horaires](/blog/garde-meuble-nantes/acces-garde-meuble-nantes-horaires) : 24/7 ou limité ?
