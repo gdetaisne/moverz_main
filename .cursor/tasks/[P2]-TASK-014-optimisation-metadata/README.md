@@ -1,11 +1,14 @@
 # TASK-014 : Optimisation Métadonnées SEO - 11 villes
 
 **Type** : SEO / Optimization  
-**Priorité** : P2  
-**Temps estimé** : ~4h (dont 80% fait)  
-**Assigné à** : Guillaume  
+**Priorité** : P1 (élevée suite fusion TASK-030)  
+**Temps estimé** : ~4h + 8-10h extension = 12-14h total  
+**Temps déjà fait** : ~3h (80% phase technique)  
+**Temps restant** : 9-11h  
+**Assigné à** : Guillaume (technique) + Lucie (contenu)  
 **Démarrée le** : 30-31 octobre 2025  
-**Statut** : 🔄 EN COURS (80% fait, validation SERP à faire)
+**Mise à jour** : 04/11/2025 (fusion TASK-030)  
+**Statut** : 🔄 EN COURS (phase technique 80%, extension contenu 0%)
 
 ---
 
@@ -39,21 +42,97 @@ Optimisation complète métadonnées SEO pour améliorer CTR et positionnement G
 
 ---
 
-## 📋 Ce qui Reste (20%)
+## 📋 Ce qui Reste (20% technique + Extension longueur descriptions)
 
-### Sites à tester
+### Phase 1 : Finaliser Fixes Techniques (45min-1h)
+
 - [ ] Vérifier metadata correctes sur 2+ villes
 - [ ] Tester Google SERP preview (titles)
 - [ ] Valider metadataBase OK
+- [ ] Corriger doublons "Ville Ville" dans titles (LocalPage.tsx)
+- [ ] Corriger "lille" hardcodé dans contact pages
 
-### Definition of Done
+### Phase 2 : Extension - Optimisation Longueur Descriptions (8-10h)
+
+**Contexte** : Checklist SEO révèle que toutes les villes ont des meta descriptions trop courtes.
+
+**État actuel** :
+- Longueur moyenne : 60-140 caractères
+- Optimal SEO : 150-160 caractères
+- Impact : CTR faible dans SERP
+
+**Actions** :
+- [ ] Auditer toutes meta descriptions par ville (homepage, services, corridors, FAQ, etc.)
+- [ ] Réécrire pour 150-160 caractères optimal
+- [ ] Intégrer mots-clés naturellement
+- [ ] Maintenir appel à l'action clair
+- [ ] Sync 11 villes
+- [ ] Tester Rich Results
+- [ ] Mesurer CTR avant/après (GSC dans 2 semaines)
+
+**Pages à optimiser par ville** :
+- Homepage (1)
+- Services (3 : économique, standard, premium)
+- Corridors principaux (10+)
+- FAQ, contact, partenaires (3)
+- Pages secondaires (5+)
+- **Total** : 20-25 pages/ville × 11 villes = 220-275 descriptions
+
+**Exemple actuel vs optimisé** :
+```
+❌ Actuel (138 chars) :
+"Cahier des charges précis en quelques clics → 5 devis comparables en 7j. 100% en ligne. Sélection minucieuse. Service 100% gratuit"
+
+✅ Optimisé (158 chars) :
+"Préparez votre déménagement à Nice en 30 minutes. Envoyez vos photos, recevez 5 devis fiables sous 7 jours sans appels ni formulaires. L'IA s'occupe de tout."
+```
+
+**Règles d'écriture** :
+- Longueur : 150-160 caractères
+- Structure : Bénéfice (30-40) + Détails (60-80) + CTA (30-40)
+- Ville dynamique (cityData)
+- Call-to-action clair
+
+**Templates par type de page** :
+```typescript
+// Homepage
+`Préparez votre déménagement à ${city.nameCapitalized} en 30 minutes. Envoyez vos photos, recevez 5 devis fiables sous 7 jours sans appels ni formulaires. L'IA s'occupe de tout.`
+
+// Services
+`Déménagement ${type} à ${city.nameCapitalized} : devis précis en 48h, déménageurs vérifiés, transparent. Envoyez vos photos, l'IA calcule tout. Sans appels, 100% digital.`
+
+// Corridors
+`Déménager de ${cityA} vers ${cityB} : 5 devis gratuits sous 7 jours, déménageurs fiables. Envoyez vos photos, l'IA s'occupe de tout. Sans appels.`
+```
+
+**Assignation** : Lucie (contenu) + Guillaume (technique)
+
+**Temps estimé Phase 2** : 8-10h
+- Audit : 2-3h
+- Réécriture : 4-5h
+- Implémentation : 1-2h
+- Validation : 1h
+
+### Definition of Done (Complète)
+
+**Phase 1 - Technique** :
 - [x] 1. Metadata optimisées et documentées
 - [x] 2. Sur GitHub main (5 commits)
 - [ ] 3. Testé SERP + metadata sur 2+ sites
+- [ ] 4. Doublons "Ville Ville" corrigés
+- [ ] 5. Villes hardcodées corrigées
+
+**Phase 2 - Contenu** :
+- [ ] 6. Audit descriptions complet (220-275 pages)
+- [ ] 7. Descriptions réécrites 150-160 chars
+- [ ] 8. Sync 11 villes effectué
+- [ ] 9. Tests Rich Results validés
+- [ ] 10. Baseline CTR documenté (GSC avant)
+- [ ] 11. Monitoring J+14 planifié
 
 ---
 
-**Temps restant** : ~45 min - 1h
+**Temps total restant** : 9-11h (1h technique + 8-10h contenu)
 
 ---
 

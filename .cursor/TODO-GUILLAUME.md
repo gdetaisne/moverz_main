@@ -129,73 +129,29 @@
 
 ---
 
-## 📅 PLANIFIÉ AUJOURD'HUI (03 NOV 2025)
+## 📅 TÂCHES À VENIR
 
-### 🎯 PROJET 404 - DÉMARRAGE
+### [P1]-TASK-028 : Sitemaps Consistency (11 villes)
 
-**Session actuelle** : Analyse complète + Restructuration tâches ✅
-
-**Scan réel 03/11** : 513 erreurs 404 identifiées (1168 liens cassés)
-
-**Plan validé** : Quick Wins → Décision → Correction massive → Validation
-
----
-### Nouvelle tâche ajoutée
-
-- [P1]-TASK-028 — Sitemaps Consistency (11 villes) — 1.5-2h — PENDING
-  - Assurer 1 seule sitemap par domaine (route app), pas d’index ni `sitemap-*.xml`, directive `Sitemap:` dans `robots.txt`, neutraliser `next-sitemap`.
-
-### TASK-404-QW : Quick Wins (2h) ← DÉMARRER MAINTENANT
-
-**Priorité** : P0 (Valider workflow + ROI immédiat 35-45%)  
-**Type** : Bugfix simple + Validation workflow
+**Priorité** : P1  
+**Temps estimé** : 1.5-2h  
+**Statut** : PENDING
 
 **Objectif** : 
-1. Valider workflow : Code → Deploy → Scan → Compare
-2. Résoudre 170-220 liens (35-45% des 513 erreurs)
+Assurer 1 seule sitemap par domaine (route app), pas d'index ni `sitemap-*.xml`, directive `Sitemap:` dans `robots.txt`, neutraliser `next-sitemap`.
 
 **Actions** :
-1. **Fix majuscules URLs (1h)** → 80-100 liens
-   - `/Nice-vers-paris` → `/nice-vers-paris`
-   - `/quartiers-Nice` → `/quartiers-nice`
-   - Fichiers : Templates corridors, quartiers, homepage
-   
-2. **Fix accents Toulouse (30min)** → 60-80 liens
-   - Redirections 301 : `/dem%C3%A9nagement-X/` → `/demenagement-X/`
-   - Fichier : `sites/toulouse/next.config.mjs`
-   
-3. **Fix devis cross-ville (30min)** → 30-40 liens
-   - `/devis-demenagement-lille` dans Bordeaux → Fix dynamique
-   - Fichiers : Templates FAQ, Inventaire-IA
-
-**Validation** :
-- Deploy CapRover 11 villes
-- Régénérer scan
-- Comparer : **513 → 290-340** (objectif)
-
-**Commande démarrage** :
-```bash
-"Cursor, je démarre TASK-404-QW"
-```
-
-**Docs de référence** :
-- `.cursor/tasks/[P0]-TASK-404-QW-quick-wins/README.md` (plan détaillé)
-- `.cursor/tasks/[P0]-TASK-404-ANALYSE-SCAN-03NOV.md` (analyse scan)
-- `.cursor/tasks/[P0]-TASK-404-PLAN-EXECUTION-FINAL.md` (ordre optimal)
+1. Vérifier configuration sitemaps 11 villes
+2. Supprimer fichiers sitemap-*.xml si existants
+3. Valider route app/sitemap.ts unique
+4. Ajouter directive Sitemap: dans robots.txt
+5. Neutraliser next-sitemap.config.js
 
 ---
 
 ## 💡 IDÉES / DÉCOUVERTES
 
-### Quick wins identifiés (session 01/11)
-
-1. **Article Toulouse** (30 min) → 53 liens résolus (ROI 106)
-2. **Catégories courtes** (1h) → 147 liens résolus (ROI 147)
-3. **Majuscules homepage** (1h) → 80-100 liens résolus (ROI 80-100)
-
-**Total** : 2h30 → 280-300 liens résolus (25% du CSV) 🚀
-
-À faire après TASK-404-02 (dans TASK-404-05 et 404-08)
+*Section pour nouvelles idées et découvertes à évaluer*
 
 ---
 
@@ -356,4 +312,4 @@ Résolution attendue : 95-99% (490+/513)
 
 ---
 
-*Dernière mise à jour : 2025-11-02*
+*Dernière mise à jour : 2025-11-04*

@@ -447,28 +447,63 @@ Optimisation maillage interne pour pousser autorité vers homepage. Liens strat�
 
 ---
 
-### [P2] [Temps: ~80% fait] [Qui: Guillaume] TASK-014 : Optimisation Métadonnées SEO - 11 villes
+### [P1] [Temps: 9-11h restant] [Qui: Guillaume + Lucie] TASK-014 : Optimisation Metadata SEO Complète (11 villes)
 
 📁 **Doc** : `.cursor/tasks/[P2]-TASK-014-optimisation-metadata/`
 
 **Type** : SEO / Optimization
 
-**Contexte / Pourquoi** :
-Optimisation complète métadonnées SEO pour améliorer CTR et positionnement Google : titles, descriptions, metadata dynamiques, metadataBase.
+**Note** : 🔀 **Fusion TASK-030** (meta descriptions) dans TASK-014 (04/11/2025)
+
+**Objectif Complet** :
+1. **Phase technique** (80% fait) : Fixes metadata dynamiques, titles, canonicals
+2. **Phase contenu** (0% fait) : Optimisation longueur descriptions 150-160 chars
+
+---
+
+**✅ Phase 1 - Fixes Techniques (80% fait, 1h restant)**
 
 **Changements apportés** :
-- **Metadata dynamiques** :
-  - Services + Contact (11 villes)
-  - Bug Lille hardcodé corrigé
-  - metadataBase trailing slash
+- ✅ Metadata dynamiques (services, contact, 11 villes)
+- ✅ Titles optimisés (54 chars)
+- ✅ Canonical trailing slash
+- ✅ metadataBase corrigé
+- ✅ 5 commits GitHub main
 
-- **Titles optimisés** :
-  - 54 chars max (retrait 'en' devant '7j')
-  - Optimize titles 11 cities (SEO)
+**Reste à faire** :
+- [ ] Corriger doublons "Ville Ville" dans titles
+- [ ] Corriger villes hardcodées (contact pages)
+- [ ] Tests SERP 2+ villes
+- [ ] Valider metadataBase
 
-- **Canonical URL** :
-  - Trailing slash GSC compliance
-  - Fix metadataBase seo-builders.ts
+**Temps restant Phase 1** : 45min-1h
+
+---
+
+**📋 Phase 2 - Extension Descriptions (0% fait, 8-10h)**
+
+**Contexte** : Checklist SEO révèle descriptions trop courtes (60-140 chars vs 150-160 optimal)
+
+**Actions** :
+- [ ] Auditer 220-275 descriptions (11 villes)
+- [ ] Réécrire pour 150-160 caractères
+- [ ] Templates par type de page (homepage, services, corridors)
+- [ ] Sync 11 villes
+- [ ] Tests Rich Results
+- [ ] Monitoring CTR (baseline + J+14)
+
+**Exemple** :
+```
+❌ Actuel (138 chars) :
+"Cahier des charges précis → 5 devis comparables en 7j..."
+
+✅ Optimisé (158 chars) :
+"Préparez votre déménagement à Nice en 30 minutes. Envoyez vos photos, recevez 5 devis fiables sous 7 jours sans appels ni formulaires. L'IA s'occupe de tout."
+```
+
+**Temps Phase 2** : 8-10h (Audit 2-3h + Réécriture 4-5h + Implémentation 1-2h + Tests 1h)
+
+---
 
 **Commits GitHub** :
 - [x] #c43c0391 : Metadata dynamiques services + contact (11 villes)
@@ -477,17 +512,15 @@ Optimisation complète métadonnées SEO pour améliorer CTR et positionnement G
 - [x] #bc3a95ba : Optimize titles 11 cities
 - [x] #59b965f1 : Canonical URL trailing slash GSC
 
-**Sites à tester** :
-- [ ] Vérifier metadata correctes sur 2+ villes
-- [ ] Tester Google SERP preview (titles)
-- [ ] Valider metadataBase OK
-
 **Definition of Done** :
-- [x] 1. Metadata optimisées et documentées
-- [x] 2. Sur GitHub main (5 commits)
-- [ ] 3. Testé SERP + metadata sur 2+ sites
+- [x] 1. Phase technique : Metadata fixes + commits
+- [ ] 2. Phase technique : Tests SERP validés
+- [ ] 3. Phase contenu : 220-275 descriptions optimisées
+- [ ] 4. Phase contenu : Sync 11 villes + monitoring
 
-**Statut** : 🔄 EN COURS (code fait, validation SERP à faire)
+**Statut** : 🔄 EN COURS (Phase 1: 80%, Phase 2: 0%)
+
+**Temps total restant** : 9-11h
 
 **Démarrée le** : 30-31 octobre 2025
 
@@ -570,6 +603,237 @@ Voir DONE.md
 
 ---
 
+## 🔴 PROJET SEO - Audit Checklist 100 Points (04/11/2025)
+
+### ❌ [P0] TASK-029 : Fix Critique Bordeaux SEO — ANNULÉE
+
+📁 **Doc** : `.cursor/tasks/[P0]-TASK-029-fix-bordeaux-seo/`
+
+**Type** : Bugfix Critique / SEO
+
+**Statut** : ❌ **ANNULÉE** (04/11/2025)
+
+**Raison annulation** : **Diagnostic initial erroné**
+
+**Contexte** :
+- Checklist initiale : 37.2% (16 OK / 21 KO)
+- Tests production (curl) : **94.4%** (17 OK / 1-2 KO mineurs)
+- Écart : +57 points (18 faux positifs sur 21)
+
+**Découverte** :
+Site Bordeaux est **BIEN CONFIGURÉ SEO** :
+- ✅ Robots.txt présent et correct
+- ✅ Sitemap XML valide + directive
+- ✅ Canonicals corrects
+- ✅ HTTPS 100%
+- ✅ Title optimal (54 chars)
+- ✅ Meta description présente (138 chars)
+- ✅ Open Graph complet (10 tags)
+- ✅ Twitter Cards présentes
+- ✅ Favicon présent (4 tailles)
+- ✅ Schema.org présent (4 schemas)
+- ✅ Google Analytics installé (GA4 + Plausible)
+
+**Seuls points mineurs** :
+- ⚠️ Meta description un peu courte (→ TASK-030)
+- ⚠️ Breadcrumbs absents (→ TASK-031)
+
+**Temps économisé** : 4-6h (tâche inutile annulée)
+
+**Rapports créés** :
+- `DIAGNOSTIC-CORRECTION.md` (tests détaillés)
+- `DECISION-ANNULATION.md` (justification)
+- `progress.md` (session diagnostic)
+
+**Leçon** : Ne pas se fier uniquement aux outils automatisés. Toujours valider en production.
+
+---
+
+
+### [P1] [Temps: 6-8h] [Qui: Guillaume] TASK-031 : Breadcrumbs + Schema (11 villes)
+
+📁 **Doc** : `.cursor/tasks/[P1]-TASK-031-breadcrumbs-schema/`
+
+**Type** : SEO Technique / UX
+
+**Objectif** : Implémenter breadcrumbs visibles + BreadcrumbList schema (11 villes)
+
+**Contexte** :
+- Tous les sites KO : pas de fil d'Ariane
+- Impact SEO : SERP enrichies manquées, navigation Google moins claire
+- Impact UX : navigation dégradée
+
+**Actions** :
+- [ ] Créer composant `<Breadcrumbs />` réutilisable
+- [ ] Design cohérent (style + responsive)
+- [ ] Props : `items: Array<{label: string, href: string}>`
+- [ ] Implémenter BreadcrumbList schema JSON-LD
+- [ ] Ajouter sur toutes les pages (sauf homepage)
+- [ ] Sync 11 villes
+- [ ] Tester Rich Results Test Google
+- [ ] Valider SERP enrichies après 1-2 semaines
+
+**Priorité** : P1 (SEO + UX)
+
+**Statut** : 📋 PENDING
+
+---
+
+### [P1] [Temps: 3-4h] [Qui: Guillaume] TASK-032 : Search Console Configuration (11 villes)
+
+📁 **Doc** : `.cursor/tasks/[P1]-TASK-032-search-console/`
+
+**Type** : SEO Monitoring / Analytics
+
+**Objectif** : Configurer et exploiter Google Search Console pour les 11 villes
+
+**Contexte** :
+- Tous les sites KO : GSC pas relié ou pas exploité
+- Impact : pas de monitoring erreurs, indexation, données SEO
+- Nécessaire pour valider toutes les optimisations
+
+**Actions** :
+- [ ] Vérifier propriété GSC par ville (11 sites)
+- [ ] Soumettre sitemap.xml manuellement pour chaque ville
+- [ ] Configurer monitoring erreurs crawl
+- [ ] Configurer alertes (baisse indexation, erreurs)
+- [ ] Créer dashboard de suivi multi-sites
+- [ ] Documenter accès (credentials, URL dashboard)
+- [ ] Vérifier aucune erreur couverture
+- [ ] Test Rich Results par ville
+
+**URLs à soumettre** :
+- `https://devis-demenageur-nice.fr/sitemap.xml`
+- `https://devis-demenageur-lyon.fr/sitemap.xml`
+- ... (×11)
+
+**Priorité** : P1 (monitoring essentiel)
+
+**Statut** : 📋 PENDING
+
+---
+
+### [P2] [Temps: 2-3h] [Qui: Lucie] TASK-033 : Titles Optimisés (3 villes)
+
+📁 **Doc** : `.cursor/tasks/[P2]-TASK-033-titles-optimises/`
+
+**Type** : SEO On-Page / Contenu
+
+**Objectif** : Optimiser longueur titles à 50-60 caractères (Rouen, Lyon, Lille)
+
+**Contexte** :
+- 3 villes KO : titles trop longs (>60 chars) ou trop courts (<50 chars)
+- Impact SEO : titles tronqués dans SERP ou sous-optimisés
+
+**Actions** :
+- [ ] Auditer tous les titles sur Rouen, Lyon, Lille
+- [ ] Réécrire pour 50-60 caractères
+- [ ] Mots-clés principaux en début
+- [ ] Sync 3 villes
+- [ ] Valider affichage SERP
+
+**Priorité** : P2 (impact limité, 3 villes seulement)
+
+**Statut** : 📋 PENDING
+
+---
+
+### [P2] [Temps: 4-5h] [Qui: Lucie + Guillaume] TASK-034 : FAQ Schema (9 villes)
+
+📁 **Doc** : `.cursor/tasks/[P2]-TASK-034-faq-schema/`
+
+**Type** : SEO Structured Data
+
+**Objectif** : Ajouter FAQPage schema sur pages FAQ (9 villes)
+
+**Contexte** :
+- 9 villes KO : pas de FAQPage schema
+- 2 villes OK : Bordeaux, Nice
+- Impact SEO : rich snippets FAQ manqués, éligibilité "People Also Ask"
+
+**Villes à traiter** :
+Rennes, Nantes, Marseille, Rouen, Strasbourg, Montpellier, Toulouse, Lyon, Lille
+
+**Actions** :
+- [ ] Vérifier structure FAQ existante par ville
+- [ ] Implémenter FAQPage schema JSON-LD
+- [ ] Sync 9 villes
+- [ ] Tester Rich Results Test
+- [ ] Valider snippets FAQ après 2-4 semaines
+
+**Priorité** : P2 (nice-to-have, rich snippets)
+
+**Statut** : 📋 PENDING
+
+---
+
+### [P2] [Temps: 2-3h] [Qui: Guillaume] TASK-035 : AggregateRating Schema (11 villes)
+
+📁 **Doc** : `.cursor/tasks/[P2]-TASK-035-aggregate-rating/`
+
+**Type** : SEO Structured Data
+
+**Objectif** : Ajouter AggregateRating schema pour avis clients (11 villes)
+
+**Contexte** :
+- Tous les sites KO : pas de schema avis clients
+- Impact SEO : rich snippets étoiles manqués dans SERP
+- Social proof : "⭐⭐⭐⭐⭐ Note moyenne 4,9/5"
+
+**Actions** :
+- [ ] Créer AggregateRating schema JSON-LD
+- [ ] Rating: 4.9/5, ratingCount: 1200+
+- [ ] Intégrer dans layout.tsx ou component
+- [ ] Sync 11 villes
+- [ ] Tester Rich Results Test
+- [ ] Valider étoiles SERP après 2-4 semaines
+
+**Exemple schema** :
+```json
+{
+  "@type": "AggregateRating",
+  "ratingValue": "4.9",
+  "bestRating": "5",
+  "ratingCount": "1200"
+}
+```
+
+**Priorité** : P2 (nice-to-have, visual impact SERP)
+
+**Statut** : 📋 PENDING
+
+---
+
+### [P2] [Temps: 3-4h] [Qui: Lucie] TASK-036 : Liens Sortants Sources (10 villes)
+
+📁 **Doc** : `.cursor/tasks/[P2]-TASK-036-liens-sortants/`
+
+**Type** : SEO E-E-A-T / Contenu
+
+**Objectif** : Ajouter liens vers sources fiables dans articles blog (10 villes)
+
+**Contexte** :
+- 10 villes KO : pas de liens sortants vers sources autoritaires
+- 1 ville OK : Bordeaux
+- Impact SEO : E-E-A-T moins démontré
+
+**Villes à traiter** :
+Rennes, Nantes, Marseille, Rouen, Strasbourg, Montpellier, Nice, Toulouse, Lyon, Lille
+
+**Actions** :
+- [ ] Identifier 10-20 articles piliers par ville
+- [ ] Ajouter 1-3 liens vers sources fiables par article
+- [ ] Sources suggérées : service-public.fr, demenager.fr, INSEE, etc.
+- [ ] Liens contextuels (pas footer)
+- [ ] Sync 10 villes
+- [ ] Valider impact E-E-A-T (qualitatif)
+
+**Priorité** : P2 (amélioration qualitative)
+
+**Statut** : 📋 PENDING
+
+---
+
 ## 📊 STATS RAPIDES
 
 **⚠️ INCOMPLET** : 0 tâches
@@ -580,24 +844,36 @@ Voir DONE.md
 - 📋 3 tâches P2 restantes : Lille (28 liens), Toulouse (19 liens), Strasbourg (2 liens)
 - 📋 2 tâches optionnelles : TASK-404-07 (redirections 301), TASK-404-08 (homepage)
 
-**🔴 PRIORITÉ CRITIQUE** : 3 tâches Tier 1 (5h)
-- TASK-006 : Migration Canonicals bugs (P0, 95% fait, 2h30) ← **PROCHAINE**
+**🔴 PRIORITÉ CRITIQUE** : 3 tâches Tier 1 (4.5-5.5h)
+- ~~TASK-029 : Fix Bordeaux SEO~~ ❌ ANNULÉE (diagnostic erroné, site OK)
+- TASK-006 : Migration Canonicals bugs (P0, 95% fait, 2h30)
 - TASK-012 : Villes hardcodées tests (P0, 85% fait, 30min)
 - TASK-028 : Sitemaps consistency (P0 SEO, 1.5-2h)
 
-**🟠 PRIORITÉ IMPORTANTE** : 3 tâches Tier 2 (2h30)
-- TASK-014 : Optimisation Metadata (P1, 80% fait, 30min)
+**🟠 PRIORITÉ IMPORTANTE** : 5 tâches Tier 2 (17-21h)
+- TASK-014 : Metadata SEO Complète (P1, 80%+0%, 9-11h) [Guillaume + Lucie] ← **inclut ex-TASK-030**
+- TASK-031 : Breadcrumbs + Schema (P1, 11 villes, 6-8h) [Guillaume]
+- TASK-032 : Search Console (P1, 11 villes, 3-4h) [Guillaume]
 - TASK-013 : Internal linking validation (P1, 75% fait, 1h)
 - TASK-009 : Schema.org Rich Results (P1, 70% fait, 1h)
 
-**🟢 NICE-TO-HAVE** : 1 tâche (Lucie)
+**🟡 NICE-TO-HAVE** : 5 tâches P2 (11-17h)
+- TASK-033 : Titles Optimisés (P2, 3 villes, 2-3h) [Lucie]
+- TASK-034 : FAQ Schema (P2, 9 villes, 4-5h) [Lucie + Guillaume]
+- TASK-035 : AggregateRating Schema (P2, 11 villes, 2-3h) [Guillaume]
+- TASK-036 : Liens Sortants (P2, 10 villes, 3-4h) [Lucie]
 - TASK-005 : Audit qualité blogs (P3, Lucie - en cours)
 
-**Total backlog actif** : 11 tâches critiques/importantes + 5 tâches P2/optionnelles
+**Total backlog actif** : 16 tâches (8 critiques + 8 P2/P3)
 
 **Répartition** :
-- Guillaume : 7 tâches critiques/importantes
-- Lucie : 1 tâche P3 + possibilité aider 404 finales
+- Guillaume : 6 tâches critiques/importantes (7-11h)
+- Lucie : 5 tâches P2/P3 (17-22h)
+- Les deux : 3 tâches collaboration (12-15h)
+
+**Tâches modifiées** :
+- ❌ TASK-029 annulée (diagnostic erroné, -4-6h)
+- 🔀 TASK-030 fusionnée dans TASK-014 (optimisation)
 
 ---
 
