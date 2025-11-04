@@ -95,7 +95,7 @@ const nextConfig = {
       { source: '/blog/pas-cher/entraide-demenagement-rennes-plateformes', destination: '/blog/satellites/entraide-demenagement-rennes-plateformes', permanent: true },
       { source: '/blog/international/conteneur-maritime-demenagement-rennes', destination: '/blog/satellites/conteneur-maritime-demenagement-rennes', permanent: true },
       { source: '/blog/garde-meuble/calculer-volume-stockage-rennes', destination: '/blog/satellites/calculer-volume-stockage-rennes', permanent: true },
-      { source: '/blog/demenageur-rennes', destination: '/blog/demenageur-rennes/demenageur-rennes-guide-complet', permanent: true },
+      { source: '/blog/demenageur-rennes', destination: '/blog/demenagement-rennes/demenageur-rennes', permanent: true },
       { source: '/blog/location-camion-rennes/location-camion-demenagement-rennes-guide', destination: '/blog/location-camion-demenagement-rennes/location-camion-demenagement-rennes-guide-complet', permanent: true },
 
       // PAGES LÉGALES : Trailing slash
