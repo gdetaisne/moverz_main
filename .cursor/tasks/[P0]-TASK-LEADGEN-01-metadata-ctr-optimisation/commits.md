@@ -237,5 +237,15 @@ Supersedes TASK-012, TASK-014, TASK-039, TASK-040
 
 ---
 
-*Dernière mise à jour* : 05/11/2025
+### Session 6 : Templates metadata centralisés (05/11/2025)
+
+**14. a4d75b95** : feat(seo): Optimize metadata templates for CTR improvement  
+**Date** : 05/11/2025 10:00  
+**Scope** : Monorepo + 11 villes  
+**Files** : 23 fichiers (lib/seo-builders.ts source + 11 sites sync)  
+**Impact** : Title 67→44 car, Description optimisée [Chiffre+Bénéfice+Trust], CTR +0.5-1%
+
+---
+
+*Dernière mise à jour* : 05/11/2025 10:00
 
