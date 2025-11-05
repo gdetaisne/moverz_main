@@ -159,6 +159,57 @@
 
 ---
 
+## 🟠 TÂCHES IMPORTANTES (P1 - Après LEADGEN-01)
+
+### [P1]-TASK-047 : Refonte Wording Offre Moverz 💬
+
+**Statut** : 📋 À FAIRE  
+**Priorité** : P1 (Important - Impact conversion directe)  
+**Temps estimé** : 6-8h  
+**ROI** : Conversion form +50-100% = +200-400 leads/mois  
+**Impact** : J+7 (dès déploiement)  
+**Doc** : `.cursor/tasks/[P1]-TASK-047-wording-offre-refonte/`
+
+**Objectif** :
+Aligner wording site (home, services, FAQ, CTA) avec vrais USP Moverz.
+
+**Problème actuel** :
+- ❌ Anonymat client (USP unique) pas mentionné
+- ❌ "Volume IA identique" pas clair
+- ❌ "Harcèlement commercial" pas adressé
+- ❌ "5 devis" partout (réalité : 3-5)
+- ⚠️ "Estimation rapide" mise en avant (pas cœur d'offre)
+
+**USP à communiquer** :
+1. Volume IA identique = devis vraiment comparables
+2. Dossier anonyme = zéro harcèlement commercial
+3. Déménageurs vérifiés (Google + crédit score)
+4. 3-5 déménageurs en concurrence = meilleurs prix
+5. 30 min photos → devis en 7j max
+
+**Actions** :
+1. Audit wording actuel (2h)
+2. Créer nouveau wording (3h) - Validation Guillaume requise
+3. Déployer 11 sites (3h)
+
+**6 Décisions à prendre** :
+- "Harcèlement" trop fort ou OK ?
+- "Dossier anonyme" clair grand public ?
+- "3-5 devis" ou "jusqu'à 5" ?
+- Économies "40%" garder/retirer ?
+- "Cahier des charges" → "dossier" ?
+- Message principal focus : Comparabilité ou Anonymat ?
+
+**Prochaines actions** :
+```
+"Cursor, je démarre TASK-047"
+```
+
+**Temps investi** : 0h  
+**Dernière activité** : 05/11/2025 (création suite discussion LEADGEN-01)
+
+---
+
 ## 🚫 TÂCHES DÉPRIORITISÉES (à faire APRÈS LEADGEN)
 
 ### TASK-012, TASK-014, TASK-039, TASK-040, TASK-045
