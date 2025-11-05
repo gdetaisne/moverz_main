@@ -96,10 +96,7 @@ export default function Home() {
           </div>
 
           {/* Garanties intégrées */}
-          <div>
-            <h3 className="text-xl md:text-2xl font-semibold text-white text-center mb-8">
-              Nos garanties
-            </h3>
+          <div className="mt-4">
             <ValueTriad />
           </div>
         </div>
