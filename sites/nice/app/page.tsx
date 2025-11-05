@@ -4,7 +4,6 @@ import { env } from "@/lib/env";
 import Hero from "@/components/Hero";
 import ValueTriad from "@/components/ValueTriad";
 import HowItWorks from "@/components/HowItWorks";
-import ProofStrip from "@/components/ProofStrip";
 import PhotoGuidelines from "@/components/PhotoGuidelines";
 import PricingPreview from "@/components/PricingPreview";
 import Testimonials from "@/components/Testimonials";
@@ -38,11 +37,6 @@ export default function Home() {
       <section className="section">
         <div className="container">
           <NeighborhoodsTeaser />
-        </div>
-      </section>
-      <section className="section">
-        <div className="container">
-          <ProofStrip />
         </div>
       </section>
       <section className="section">
