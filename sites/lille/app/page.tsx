@@ -31,21 +31,21 @@ export default function Home() {
       <Hero />
 
       {/* 2. Comment ça marche */}
-      <section className="section">
+      <section className="section py-16 md:py-20">
         <div className="container">
           <HowItWorks />
         </div>
       </section>
       
-      {/* 4. Testimonials - Remonté pour preuve sociale */}
-      <section className="section bg-white/5">
+      {/* 3. Testimonials - Preuve sociale */}
+      <section className="section py-16 md:py-20 bg-gradient-to-br from-white/5 to-white/10 border-y border-white/10">
         <div className="container">
           <Testimonials />
         </div>
       </section>
 
-      {/* 5. Pourquoi Moverz - Différenciation + Garanties */}
-      <section className="section">
+      {/* 4. Pourquoi Moverz - Différenciation + Garanties */}
+      <section className="section py-16 md:py-20">
         <div className="container">
           <div className="text-center mb-12">
             <h2 className="text-2xl md:text-3xl font-semibold text-white mb-4">
@@ -58,7 +58,7 @@ export default function Home() {
 
           {/* Différenciation */}
           <div className="max-w-3xl mx-auto mb-12">
-            <div className="card-glass rounded-2xl p-8">
+            <div className="card-glass rounded-2xl p-8 border-2 border-white/20">
               <div className="flex items-start gap-4">
                 <div className="text-4xl">💡</div>
                 <div>
@@ -76,7 +76,7 @@ export default function Home() {
           </div>
 
           {/* Chiffres clés */}
-          <div className="grid md:grid-cols-4 gap-8 max-w-6xl mx-auto mb-12">
+          <div className="grid md:grid-cols-4 gap-8 max-w-6xl mx-auto mb-16">
             <div className="text-center">
               <div className="text-4xl md:text-5xl font-bold text-[#6bcfcf] mb-2">90%</div>
               <div className="text-white/70 text-sm">Précision estimation IA</div>
@@ -96,21 +96,21 @@ export default function Home() {
           </div>
 
           {/* Garanties intégrées */}
-          <div className="mt-4">
+          <div>
             <ValueTriad />
           </div>
         </div>
       </section>
 
-      {/* 6. Tarifs indicatifs */}
-      <section className="section bg-white/5">
+      {/* 5. Tarifs indicatifs */}
+      <section className="section py-16 md:py-20 bg-gradient-to-br from-[#2b7a78]/20 to-[#04163a]/40 border-y border-white/10">
         <div className="container">
           <PricingPreview />
         </div>
       </section>
 
-      {/* 7. Objection Handling - NOUVEAU */}
-      <section className="section">
+      {/* 6. Objection Handling */}
+      <section className="section py-16 md:py-20">
         <div className="container">
           <div className="text-center mb-12">
             <h2 className="text-2xl md:text-3xl font-semibold text-white mb-4">
@@ -210,25 +210,27 @@ export default function Home() {
         </div>
       </section>
 
-      {/* 8. FAQ locales */}
-      <LocalMoneyFAQ citySlug="nice" cityName="Nice" />
+      {/* 7. FAQ locales */}
+      <section className="py-12 md:py-16">
+        <LocalMoneyFAQ citySlug="nice" cityName="Nice" />
+      </section>
 
-      {/* 10. Guides photos - Pour ceux qui veulent se lancer */}
-      <section className="section">
+      {/* 8. Guides photos */}
+      <section className="section py-16 md:py-20 bg-gradient-to-br from-white/5 to-white/10 border-y border-white/10">
         <div className="container">
-          <PhotoGuidelines className="my-12 md:my-16" />
+          <PhotoGuidelines />
         </div>
       </section>
 
-      {/* 11. Zones couvertes */}
-      <section className="section bg-white/5">
+      {/* 9. Zones couvertes */}
+      <section className="section py-16 md:py-20">
         <div className="container">
           <NeighborhoodsTeaser />
         </div>
       </section>
 
-      {/* 12. Ressources SEO - Maillage interne */}
-      <section className="section">
+      {/* 10. Ressources SEO - Maillage interne */}
+      <section className="section py-16 md:py-20 bg-gradient-to-br from-white/5 to-white/10 border-y border-white/10">
         <div className="container">
           <div className="text-center mb-12">
             <h2 className="text-2xl md:text-3xl font-semibold text-white mb-4">
