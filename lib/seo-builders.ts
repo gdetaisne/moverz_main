@@ -32,18 +32,20 @@ export function buildSiteMetadata(options: SiteMetadataOptions = {}): Metadata {
     // Intent Transactionnel (Homepages, services, quartiers)
     // Pain point: Devis incomparables, process long (appels/RDV)
     // USP: Cahier des charges standardisé, sélection minutieuse, 100% en ligne
-    defaultTitle = customTitle || `Déménageurs ${city.nameCapitalized} : 5 Devis Comparables 7j | 2025`;
+    // Optimisé CTR: 50-60 car + bénéfice clair + chiffre
+    defaultTitle = customTitle || `Déménagement ${city.nameCapitalized} : 5 Devis en 7j | 2025`;
     templateTitle = customTemplate || `%s | Déménageurs ${city.nameCapitalized}`;
     defaultDescription =
       customDescription ||
-      `Cahier des charges précis en quelques clics → 5 devis comparables en 7j. 100% en ligne. Sélection minucieuse. Service 100% gratuit`;
+      `Comparez 5 devis de déménageurs ${city.nameCapitalized} en 7 jours. Cahier des charges en ligne, sélection rigoureuse, 100% gratuit. Économisez jusqu'à 40% sur votre déménagement.`;
   } else {
     // Wording par défaut (racine, autres pages)
-    defaultTitle = customTitle || `Comparateur Déménagement ${city.nameCapitalized} : 5 Devis Gratuits`;
-    templateTitle = customTemplate || `%s | Comparateur Déménagement ${city.nameCapitalized}`;
+    // Optimisé CTR: 50-60 car + formule claire
+    defaultTitle = customTitle || `Déménagement ${city.nameCapitalized} : 5 Devis Gratuits`;
+    templateTitle = customTemplate || `%s | Déménagement ${city.nameCapitalized}`;
     defaultDescription =
       customDescription ||
-      `Estimation par photos en 30 min → 5 devis personnalisés de déménageurs. 100% gratuit. Économisez jusqu'à 40% sur votre déménagement à ${city.nameCapitalized}.`;
+      `5 devis de déménageurs ${city.nameCapitalized} en 7 jours. Estimation par photos en 30 min, 100% gratuit. Économisez jusqu'à 40% avec des professionnels sélectionnés.`;
   }
 
   return {
