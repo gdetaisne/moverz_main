@@ -256,10 +256,10 @@ export default function Home() {
                 <a href="/blog/" className="block text-[#6bcfcf] hover:text-[#6bcfcf]/80 transition-colors text-sm font-medium">
                   → Voir tous les guides
                 </a>
-                <a href="/blog/cartons-demenagement/" className="block text-white/70 hover:text-white transition-colors text-sm">
+                <a href="/blog/" className="block text-white/70 hover:text-white transition-colors text-sm">
                   Combien de cartons ?
                 </a>
-                <a href="/blog/prix-demenagement-2025/" className="block text-white/70 hover:text-white transition-colors text-sm">
+                <a href="/blog/" className="block text-white/70 hover:text-white transition-colors text-sm">
                   Prix 2025
                 </a>
               </div>
