@@ -16,7 +16,7 @@ const corridorData = {
     {
       type: "Studio/T1",
       prix: "1000-1800€",
-      description: "Déménagement montpellier → Paris : 580 km, 6h00. Studio/T1 (10-15 m³) dès 1000-1800€. Devis gratuit sous 7j. Équipe pro, emballage inclus."
+      description: "Déménagement Montpellier → Paris : 750 km, 7h00. Studio/T1 (10-15 m³) dès 1000-1800€. Devis gratuit sous 7j. Équipe pro, emballage inclus."
     },
     { type: "T2/T3", prix: "1500-2500€", description: "Volume : 20-35 m³" },
     { type: "T4/Maison", prix: "2500-4500€", description: "Volume : 40-80 m³" }
