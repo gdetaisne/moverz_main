@@ -44,7 +44,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* 5. Pourquoi Moverz - Différenciation */}
+      {/* 5. Pourquoi Moverz - Différenciation + Garanties */}
       <section className="section">
         <div className="container">
           <div className="text-center mb-12">
@@ -76,7 +76,7 @@ export default function Home() {
           </div>
 
           {/* Chiffres clés */}
-          <div className="grid md:grid-cols-4 gap-8 max-w-6xl mx-auto">
+          <div className="grid md:grid-cols-4 gap-8 max-w-6xl mx-auto mb-12">
             <div className="text-center">
               <div className="text-4xl md:text-5xl font-bold text-[#6bcfcf] mb-2">90%</div>
               <div className="text-white/70 text-sm">Précision estimation IA</div>
@@ -93,6 +93,14 @@ export default function Home() {
               <div className="text-4xl md:text-5xl font-bold text-[#6bcfcf] mb-2">0€</div>
               <div className="text-white/70 text-sm">Service 100% gratuit</div>
             </div>
+          </div>
+
+          {/* Garanties intégrées */}
+          <div>
+            <h3 className="text-xl md:text-2xl font-semibold text-white text-center mb-8">
+              Nos garanties
+            </h3>
+            <ValueTriad />
           </div>
         </div>
       </section>
@@ -205,14 +213,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* 8. Garanties */}
-      <section className="section bg-white/5">
-        <div className="container">
-          <ValueTriad />
-        </div>
-      </section>
-
-      {/* 9. FAQ locales */}
+      {/* 8. FAQ locales */}
       <LocalMoneyFAQ citySlug="nice" cityName="Nice" />
 
       {/* 10. Guides photos - Pour ceux qui veulent se lancer */}
