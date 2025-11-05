@@ -27,7 +27,7 @@
 
 ## 🔴 PRIORITÉ ABSOLUE : 3 TÂCHES LEAD GENERATION (TOUTES P0)
 
-### [P0]-TASK-LEADGEN-01 : Fix Metadata CTR ⚡️⚡️⚡️
+### [P0]-TASK-LEADGEN-01 : Fix Metadata CTR ✅ FINALISÉ
 
 **Statut** : 📋 À DÉMARRER (60% travail déjà fait via TASK-012/014)  
 **Priorité** : P0 (critique business)  

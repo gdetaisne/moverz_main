@@ -1,5 +1,28 @@
 # Commits - TASK-LEADGEN-01
 
+**Total commits** : 16  
+**Période** : 05/11/2025 10:00 → 12:45
+
+---
+
+## 📋 COMMITS FINAUX SESSION
+
+### Phase 6 : Pages Quartiers (AJOUTÉ)
+**SHA** : `211ac721`  
+**Date** : 05/11/2025 12:44  
+**Message** : feat(seo): Optimiser metadata pages quartiers - Wording Lucie style  
+**Fichiers** : 11 (LocalPage.tsx tous sites)  
+**Impact** : 99+ pages quartiers optimisées
+
+### Bugs Critiques Découverts
+
+**SHA** : `05a0589b` - Bug template literals "lille" (9 sites)  
+**SHA** : `a9b7772f` - Bug Nice title "lille" (résiduel)  
+**SHA** : `e1169233` - Corridor Montpellier → Marseille  
+**SHA** : `78250af4` - Distances corridors (13 fichiers)
+
+---
+
 ## ✅ Commits Existants (TASK-012 + TASK-014)
 
 ### Session 1 : Infrastructure villes dynamiques (30-31/10/2025)
