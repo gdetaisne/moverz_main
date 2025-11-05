@@ -159,6 +159,15 @@ const nextConfig = {
       { source: '/blog/garde-meuble/prix-garde-meuble-nantes-2025', destination: '/blog', permanent: true },
       { source: '/blog/garde-meuble/garde-meuble-vs-self-stockage-nantes', destination: '/blog', permanent: true },
       { source: '/blog/garde-meuble/duree-minimum-garde-meuble-nantes', destination: '/blog', permanent: true },
+
+      // WILDCARDS CATCH-ALL (TASK-LEADGEN-02 - Fix 404 restructuration blog)
+      { source: '/blog/garde-meuble/:slug*', destination: '/blog/satellites/:slug*', permanent: true },
+      { source: '/blog/pas-cher/:slug*', destination: '/blog/satellites/:slug*', permanent: true },
+      { source: '/blog/international/:slug*', destination: '/blog/satellites/:slug*', permanent: true },
+      { source: '/blog/piano/:slug*', destination: '/blog/satellites/:slug*', permanent: true },
+      { source: '/blog/location-camion-nantes/:slug*', destination: '/blog/satellites/:slug*', permanent: true },
+      { source: '/blog/petit-demenagement-nantes/:slug*', destination: '/blog/satellites/:slug*', permanent: true },
+      { source: '/blog/demenageur/:slug*', destination: '/blog/satellites/:slug*', permanent: true },
     ];
   }
 };

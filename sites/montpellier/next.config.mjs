@@ -203,6 +203,15 @@ const nextConfig = {
       { source: '/estimation-demenagement-montpellier/', destination: '/estimation-rapide', permanent: true },
       { source: '/prix-demenagement-montpellier/', destination: '/blog/prix-demenagement-montpellier/prix-demenagement-montpellier-guide', permanent: true },
       { source: '/devis-demenagement-montpellier/', destination: '/estimation-rapide', permanent: true },
+
+      // WILDCARDS CATCH-ALL (TASK-LEADGEN-02 - Fix 404 restructuration blog)
+      { source: '/blog/garde-meuble/:slug*', destination: '/blog/satellites/:slug*', permanent: true },
+      { source: '/blog/pas-cher/:slug*', destination: '/blog/satellites/:slug*', permanent: true },
+      { source: '/blog/international/:slug*', destination: '/blog/satellites/:slug*', permanent: true },
+      { source: '/blog/piano/:slug*', destination: '/blog/satellites/:slug*', permanent: true },
+      { source: '/blog/location-camion-montpellier/:slug*', destination: '/blog/satellites/:slug*', permanent: true },
+      { source: '/blog/petit-demenagement-montpellier/:slug*', destination: '/blog/satellites/:slug*', permanent: true },
+      { source: '/blog/demenageur/:slug*', destination: '/blog/satellites/:slug*', permanent: true },
     ];
   }
 };

@@ -121,6 +121,15 @@ const nextConfig = {
       // ARTICLE SATELLITE SPÉCIFIQUE cassé
       { source: '/blog/pas-cher/entraide-demenagement-rennes-plateformes', destination: '/blog', permanent: true },
       { source: '/blog/petit-demenagement-rennes/petit-demenagement-auto-rennes', destination: '/blog/petit-demenagement-rennes/petit-demenagement-rennes-guide', permanent: true },
+
+      // WILDCARDS CATCH-ALL (TASK-LEADGEN-02 - Fix 404 restructuration blog)
+      { source: '/blog/garde-meuble/:slug*', destination: '/blog/satellites/:slug*', permanent: true },
+      { source: '/blog/pas-cher/:slug*', destination: '/blog/satellites/:slug*', permanent: true },
+      { source: '/blog/international/:slug*', destination: '/blog/satellites/:slug*', permanent: true },
+      { source: '/blog/piano/:slug*', destination: '/blog/satellites/:slug*', permanent: true },
+      { source: '/blog/location-camion-rennes/:slug*', destination: '/blog/satellites/:slug*', permanent: true },
+      { source: '/blog/petit-demenagement-rennes/:slug*', destination: '/blog/satellites/:slug*', permanent: true },
+      { source: '/blog/demenageur/:slug*', destination: '/blog/satellites/:slug*', permanent: true },
     ];
   }
 };

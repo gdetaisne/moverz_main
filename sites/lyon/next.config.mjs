@@ -149,6 +149,15 @@ const nextConfig = {
       { source: '/estimation-demenagement-lyon/', destination: '/estimation-rapide', permanent: true },
       { source: '/prix-demenagement-lyon/', destination: '/blog/prix-demenagement-lyon/prix-demenagement-lyon-guide-complet', permanent: true },
       { source: '/devis-demenagement-lyon/', destination: '/estimation-rapide', permanent: true },
+
+      // WILDCARDS CATCH-ALL (TASK-LEADGEN-02 - Fix 404 restructuration blog)
+      { source: '/blog/garde-meuble/:slug*', destination: '/blog/satellites/:slug*', permanent: true },
+      { source: '/blog/pas-cher/:slug*', destination: '/blog/satellites/:slug*', permanent: true },
+      { source: '/blog/international/:slug*', destination: '/blog/satellites/:slug*', permanent: true },
+      { source: '/blog/piano/:slug*', destination: '/blog/satellites/:slug*', permanent: true },
+      { source: '/blog/location-camion-lyon/:slug*', destination: '/blog/satellites/:slug*', permanent: true },
+      { source: '/blog/petit-demenagement-lyon/:slug*', destination: '/blog/satellites/:slug*', permanent: true },
+      { source: '/blog/demenageur/:slug*', destination: '/blog/satellites/:slug*', permanent: true },
     ];
   }
 };

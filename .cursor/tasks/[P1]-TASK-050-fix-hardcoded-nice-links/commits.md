@@ -1,75 +1,113 @@
 # Commits - TASK-050
 
-**Tâche** : Fix Liens "nice" Hardcodés
+## Main Monorepo
+
+### `e8d2c144` - fix(TASK-050): Corriger tous liens nice hardcodés (66 404)
+**Date** : 05/11/2025 13:31  
+**Branche** : `main`
+
+**Problème Lucie commit 7ae8f94** :
+- FAQ: liens internes `/nice/` hardcodés (40 404)
+- Services: liens internes `/nice/` hardcodés (26 404)
+
+**Solution** :
+- Dynamiser tous liens `/nice/` → `/{city}/`
+- Remplacer 'nice'/'Nice' → ville dynamique
+- Remplacer 'niçois' → adjectif ville
+
+**Fichiers modifiés** : 20
+- `sites/{city}/app/faq/page.tsx` (10 sites)
+- `sites/{city}/app/services/page.tsx` (10 sites)
+
+**Impact** : 66 404 résolus (10 sites × ~6-7 liens)
 
 ---
 
-## 📝 COMMITS À CRÉER
+### `4e118c7a` - fix(homepage): Corriger liens blog cassés (22 404)
+**Date** : 05/11/2025 13:30  
+**Branche** : `main`
 
-### Commit 1 : Correction Liens (attendu)
+**Problème Lucie homepage** :
+- `/blog/cartons-demenagement/` → 404 (slug n'existe pas)
+- `/blog/prix-demenagement-2025/` → 404 (slug n'existe pas)
 
-**Message** :
-```
-fix(faq,services): Remplacer liens hardcodés "nice" par dynamique
+**Solution** :
+- Pointer vers `/blog/` (index, toujours existe)
+- Alternative future : créer articles ou pointer vers articles existants
 
-- Corriger 10 fichiers faq/page.tsx (quartiers-nice → {city.slug})
-- Corriger 10 fichiers services/page.tsx (blog/quartiers-nice → {city.slug})
-- Résout 72 URLs 404 (36 cross-site + 36 domaine dupliqué)
+**Fichiers modifiés** : 11
+- `sites/{city}/app/page.tsx` (11 sites)
 
-Sites : Bordeaux, Lille, Lyon, Marseille, Montpellier, Nantes, Rennes, Rouen, Strasbourg, Toulouse
-
-TASK-050
-```
-
-**Fichiers modifiés** : 20 fichiers
-- `sites/bordeaux/app/faq/page.tsx`
-- `sites/bordeaux/app/services/page.tsx`
-- `sites/lille/app/faq/page.tsx`
-- `sites/lille/app/services/page.tsx`
-- `sites/lyon/app/faq/page.tsx`
-- `sites/lyon/app/services/page.tsx`
-- `sites/marseille/app/faq/page.tsx`
-- `sites/marseille/app/services/page.tsx`
-- `sites/montpellier/app/faq/page.tsx`
-- `sites/montpellier/app/services/page.tsx`
-- `sites/nantes/app/faq/page.tsx`
-- `sites/nantes/app/services/page.tsx`
-- `sites/rennes/app/faq/page.tsx`
-- `sites/rennes/app/services/page.tsx`
-- `sites/rouen/app/faq/page.tsx`
-- `sites/rouen/app/services/page.tsx`
-- `sites/strasbourg/app/faq/page.tsx`
-- `sites/strasbourg/app/services/page.tsx`
-- `sites/toulouse/app/faq/page.tsx`
-- `sites/toulouse/app/services/page.tsx`
-
-**SHA** : (À remplir après commit)
+**Impact** : 22 404 résolus (11 sites × 2 liens homepage)
 
 ---
 
-## 📋 COMMITS DÉCLENCHEURS (Origine Bug)
+## Sites Individuels
 
-### Commit Origine 1 : Services
+### Commits Auto-générés (`push-all-sites.sh`)
+**Date** : 05/11/2025 13:31-13:32  
+**Message** : "feat: Update {city} 2025-11-05 13:31"
 
-**SHA** : `355478fa`  
-**Auteur** : Lucie Stehelin de Taisne  
-**Date** : 2025-11-05 10:51:27 +0700  
-**Message** : "feat(services): Optimize /services pages - Pricing fix + SEO"
+**Sites déployés** :
+1. ✅ Marseille - `8555b2c`
+2. ✅ Lyon - `8a515d9`
+3. ✅ Montpellier - `d20329b`
+4. ✅ Bordeaux - `f2d3dd2`
+5. ✅ Nantes - `4a45899`
+6. ✅ Lille - `6aa5dca`
+7. ✅ Nice - (aucun changement faq/services, homepage uniquement)
+8. ✅ Strasbourg - `4becbf4`
+9. ✅ Rouen - `e1a747a`
+10. ✅ Rennes - `a861489`
+11. ✅ Toulouse - `4e808ce`
 
-**Bug introduit** : Liens hardcodés "nice" dans 11 fichiers services/page.tsx
+**Mode** : `--force-deploy` (rebuild CapRover immédiat via webhook GitHub)
 
 ---
 
-### Commit Origine 2 : FAQ
+## Scripts Utilisés
 
-**SHA** : `7ae8f943`  
-**Auteur** : Lucie Stehelin de Taisne  
-**Date** : 2025-11-05 11:05:20 +0700  
-**Message** : "feat(faq): Optimize FAQ page - SEO + UX improvements"
+### `fix_hardcoded_nice_links.js`
+**But** : Corriger liens "nice" hardcodés dans FAQ et Services
 
-**Bug introduit** : Liens hardcodés "nice" dans 11 fichiers faq/page.tsx
+**Logique** :
+- Map ville → adjectif
+- Remplacer `/nice/` → `/{city}/`
+- Remplacer `nice`/`Nice` → ville/Ville
+- Remplacer `niçois` → adjectif approprié
+
+**Résultat** : 60 occurrences corrigées (10 sites, Nice exclu)
+
+### `fix_homepage_blog_links.js`
+**But** : Corriger liens blog génériques homepage
+
+**Logique** :
+- Identifier liens cassés (regex pattern)
+- Remplacer par `/blog/` (safe, toujours existe)
+
+**Résultat** : 22 liens corrigés (11 sites)
 
 ---
 
-**Total commits** : 1 (correction attendue)
+## Repos GitHub
 
+**Main Monorepo** :  
+https://github.com/gdetaisne/moverz_main
+
+**Sites Individuels** :
+- https://github.com/gdetaisne/dd-marseille
+- https://github.com/gdetaisne/dd-lyon
+- https://github.com/gdetaisne/dd-montpellier
+- https://github.com/gdetaisne/dd-bordeaux
+- https://github.com/gdetaisne/dd-nantes
+- https://github.com/gdetaisne/dd-lille
+- https://github.com/gdetaisne/dd-nice
+- https://github.com/gdetaisne/dd-strasbourg
+- https://github.com/gdetaisne/dd-rouen
+- https://github.com/gdetaisne/dd-rennes
+- https://github.com/gdetaisne/dd-toulouse
+
+---
+
+**Total commits** : 13 (2 main + 11 sites)  
+**Statut** : ✅ Tous pushés sur GitHub

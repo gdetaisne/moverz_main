@@ -84,7 +84,6 @@ const nextConfig = {
       { source: '/blog/demenagement-rouen/location-camion-demenagement', destination: '/blog/location-camion-demenagement-rouen/location-camion-demenagement-rouen-guide', permanent: true },
 
       // CATÉGORIES VIDES (rediriger vers page blog)
-      { source: '/blog/etudiant', destination: '/blog', permanent: true },
       { source: '/blog/international', destination: '/blog', permanent: true },
 
       // MAJUSCULES : Rouen → rouen
@@ -125,6 +124,15 @@ const nextConfig = {
       { source: '/blog/garde-meuble/meilleurs-garde-meubles-rouen-avis', destination: '/blog/satellites/meilleurs-garde-meubles-rouen-avis', permanent: true },
       { source: '/blog/garde-meuble/garde-meuble-etudiant-rouen', destination: '/blog/satellites/garde-meuble-etudiant-rouen', permanent: true },
       { source: '/blog/garde-meuble/taille-box-stockage-rouen', destination: '/blog/satellites/taille-box-stockage-rouen', permanent: true },
+
+      // WILDCARDS CATCH-ALL (TASK-LEADGEN-02 - Fix 404 restructuration blog)
+      { source: '/blog/garde-meuble/:slug*', destination: '/blog/satellites/:slug*', permanent: true },
+      { source: '/blog/pas-cher/:slug*', destination: '/blog/satellites/:slug*', permanent: true },
+      { source: '/blog/international/:slug*', destination: '/blog/satellites/:slug*', permanent: true },
+      { source: '/blog/piano/:slug*', destination: '/blog/satellites/:slug*', permanent: true },
+      { source: '/blog/location-camion-rouen/:slug*', destination: '/blog/satellites/:slug*', permanent: true },
+      { source: '/blog/petit-demenagement-rouen/:slug*', destination: '/blog/satellites/:slug*', permanent: true },
+      { source: '/blog/demenageur/:slug*', destination: '/blog/satellites/:slug*', permanent: true },
     ];
   }
 };
