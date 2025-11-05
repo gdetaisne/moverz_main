@@ -284,9 +284,9 @@ Voir : `.cursor/DONE.md` pour détails complets
 
 ## 🔴 PRIORITÉ IMMÉDIATE (Setup Final)
 
-### [P0] [Temps: 5 min] [Qui: Guillaume] TASK-023 : Setup Scripts Automation
+### [P2] [Temps: 5 min] [Qui: Guillaume] TASK-023 : Setup Scripts Automation
 
-📁 **Doc** : `.cursor/tasks/[P0]-TASK-023-setup-scripts-automation/`
+📁 **Doc** : `.cursor/tasks/[P2]-TASK-023-setup-scripts-automation/`
 
 **Type** : Setup / Installation
 
