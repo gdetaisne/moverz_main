@@ -14,8 +14,9 @@ import LocalMoneyFAQ from "@/components/LocalMoneyFAQ";
 export const metadata: Metadata = (() => {
   const city = getCityDataFromUrl(env.SITE_URL);
   return {
+    title: `Déménagement ${city.nameCapitalized} — 5 Devis IA Comparables Gratuits`,
     description:
-      `Volume IA identique pour 3-5 devis comparables. Dossier anonyme, zéro harcèlement. Déménageurs vérifiés ${city.nameCapitalized}. Vraie comparaison.`,
+      `Déménagez à ${city.nameCapitalized} dès 280€. IA analyse vos photos → 5 devis comparables sous 7j. Gratuit, sans appels. 1200+ clients ⭐4.9/5`,
   };
 })();
 
