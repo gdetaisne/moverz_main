@@ -121,13 +121,16 @@ const nextConfig = {
       // ARTICLE SATELLITE SPÉCIFIQUE cassé
       { source: '/blog/pas-cher/entraide-demenagement-rennes-plateformes', destination: '/blog', permanent: true },
       { source: '/blog/petit-demenagement-rennes/petit-demenagement-auto-rennes', destination: '/blog/petit-demenagement-rennes/petit-demenagement-rennes-guide', permanent: true },
-      // WILDCARDS CATCH-ALL (TASK-LEADGEN-02 - Fix 404 restructuration blog) - CORRIGÉ
+      // WILDCARDS CATCH-ALL (TASK-LEADGEN-02 - COMPLETS)
       { source: '/blog/garde-meuble/:slug*', destination: '/blog/garde-meuble-rennes/:slug*', permanent: true },
       { source: '/blog/pas-cher/:slug*', destination: '/blog/demenagement-pas-cher-rennes/:slug*', permanent: true },
       { source: '/blog/international/:slug*', destination: '/blog/demenagement-international-rennes/:slug*', permanent: true },
       { source: '/blog/piano/:slug*', destination: '/blog/demenagement-piano-rennes/:slug*', permanent: true },
       { source: '/blog/demenageur/:slug*', destination: '/blog/demenageur-rennes/:slug*', permanent: true },
       { source: '/blog/aide/:slug*', destination: '/blog/aide-demenagement-rennes/:slug*', permanent: true },
+      { source: '/blog/demenagement/:slug*', destination: '/blog/demenagement-rennes/:slug*', permanent: true },
+      { source: '/blog/prix/:slug*', destination: '/blog/prix-demenagement-rennes/:slug*', permanent: true },
+      { source: '/blog/satellites/:slug*', destination: '/blog/satellites/:slug*', permanent: true },
     ];
   }
 };

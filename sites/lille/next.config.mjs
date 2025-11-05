@@ -110,13 +110,16 @@ const nextConfig = {
       { source: '/blog/urgent', destination: '/blog', permanent: true },
       { source: '/blog/devis', destination: '/blog', permanent: true },
       { source: '/blog/longue-distance', destination: '/blog', permanent: true },
-      // WILDCARDS CATCH-ALL (TASK-LEADGEN-02 - Fix 404 restructuration blog) - CORRIGÉ
+      // WILDCARDS CATCH-ALL (TASK-LEADGEN-02 - COMPLETS)
       { source: '/blog/garde-meuble/:slug*', destination: '/blog/garde-meuble-lille/:slug*', permanent: true },
       { source: '/blog/pas-cher/:slug*', destination: '/blog/demenagement-pas-cher-lille/:slug*', permanent: true },
       { source: '/blog/international/:slug*', destination: '/blog/demenagement-international-lille/:slug*', permanent: true },
       { source: '/blog/piano/:slug*', destination: '/blog/demenagement-piano-lille/:slug*', permanent: true },
       { source: '/blog/demenageur/:slug*', destination: '/blog/demenageur-lille/:slug*', permanent: true },
       { source: '/blog/aide/:slug*', destination: '/blog/aide-demenagement-lille/:slug*', permanent: true },
+      { source: '/blog/demenagement/:slug*', destination: '/blog/demenagement-lille/:slug*', permanent: true },
+      { source: '/blog/prix/:slug*', destination: '/blog/prix-demenagement-lille/:slug*', permanent: true },
+      { source: '/blog/satellites/:slug*', destination: '/blog/satellites/:slug*', permanent: true },
     ];
   }
 };
