@@ -29,6 +29,21 @@ moverz_main-2/ (Monorepo)
 └── .templates/        ← Templates configs (Dockerfile, etc.)
 ```
 
+### ⚠️ URLs Production - EXCEPTIONS IMPORTANTES
+
+**Pattern standard** (9 sites) :
+```
+https://devis-demenageur-{ville}.fr/
+```
+
+**EXCEPTIONS** (2 sites) :
+- **Bordeaux** : `https://www.bordeaux-demenageur.fr/` (www + ordre inversé)
+- **Toulouse** : `https://devis-demenageur-toulousain.fr/` (adjectif toulousain)
+
+**Source de vérité** : `.cursor/URLS-PRODUCTION.md` (liste complète des 11 URLs)
+
+**⚠️ RÈGLE CRITIQUE** : **JAMAIS inventer/extrapoler les URLs**. Toujours consulter `.cursor/URLS-PRODUCTION.md` avant de tester en prod.
+
 ---
 
 ## 🔄 ARCHITECTURE : Duplication avec Sync Manuel

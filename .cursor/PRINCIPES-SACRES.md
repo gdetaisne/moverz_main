@@ -80,6 +80,25 @@ Veux-tu continuer ? (Oui/Non)
 
 ---
 
+## 🌐 URLs PRODUCTION - EXCEPTIONS CRITIQUES
+
+### ⚠️ NE JAMAIS INVENTER LES URLs
+
+**Pattern standard** (9 sites) :
+```
+https://devis-demenageur-{ville}.fr/
+```
+
+**EXCEPTIONS** (2 sites - À MÉMORISER) :
+- **Bordeaux** : `https://www.bordeaux-demenageur.fr/` (www + ordre inversé)
+- **Toulouse** : `https://devis-demenageur-toulousain.fr/` (adjectif toulousain)
+
+**Source de vérité** : `.cursor/URLS-PRODUCTION.md`
+
+**⚠️ RÈGLE** : Avant tout test en prod, consulter `.cursor/URLS-PRODUCTION.md`. Ne JAMAIS extrapoler les URLs.
+
+---
+
 ## 🌍 PRINCIPE #2 : ARCHITECTURE MULTI-SITES (11 VILLES)
 
 ### ⚠️ Comprendre l'architecture
