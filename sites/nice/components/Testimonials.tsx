@@ -25,8 +25,7 @@ export default function Testimonials() {
   return (
     <div>
       <div className="text-center mb-10">
-        <h2 className="text-2xl md:text-3xl lg:text-4xl font-semibold text-white mb-4 flex items-center justify-center gap-3">
-          <span className="text-3xl">💬</span>
+        <h2 className="text-2xl md:text-3xl lg:text-4xl font-semibold text-white mb-4">
           Ils nous ont fait confiance
         </h2>
         <div className="flex items-center justify-center gap-2 text-yellow-300 text-xl">
