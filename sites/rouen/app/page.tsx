@@ -21,38 +21,57 @@ export const metadata: Metadata = (() => {
 })();
 
 export default function Home() {
+  const city = getCityDataFromUrl(env.SITE_URL);
+  
   return (
     <main className="bg-hero">
       <div className="halo" />
+      
+      {/* 1. Hero */}
       <Hero />
+      
+      {/* 2. Social Proof - Remonté pour crédibilité immédiate */}
       <section className="section">
         <div className="container">
-          <ValueTriad />
+          <div className="text-center">
+            <div className="flex flex-wrap items-center justify-center gap-6 text-white/80">
+              <div className="flex items-center gap-2">
+                <div className="flex -space-x-2">
+                  <div className="w-10 h-10 rounded-full bg-white/20 border-2 border-white flex items-center justify-center">👤</div>
+                  <div className="w-10 h-10 rounded-full bg-white/20 border-2 border-white flex items-center justify-center">👤</div>
+                  <div className="w-10 h-10 rounded-full bg-white/20 border-2 border-white flex items-center justify-center">👤</div>
+                </div>
+                <span className="font-medium">+1200 clients satisfaits</span>
+              </div>
+              <div className="flex items-center gap-2">
+                <span className="text-yellow-300 text-xl">⭐⭐⭐⭐⭐</span>
+                <span className="font-medium">Note moyenne 4,9/5</span>
+              </div>
+              <div className="flex items-center gap-2">
+                <span className="text-2xl">⚡</span>
+                <span className="font-medium">23 devis demandés aujourd'hui</span>
+              </div>
+            </div>
+          </div>
         </div>
       </section>
+
+      {/* 3. Comment ça marche */}
       <section className="section">
         <div className="container">
           <HowItWorks />
         </div>
       </section>
-      <section className="section">
+      
+      {/* 4. Testimonials - Remonté pour preuve sociale */}
+      <section className="section bg-white/5">
         <div className="container">
-          <NeighborhoodsTeaser />
-        </div>
-      </section>
-      <section className="section">
-        <div className="container">
-          <PhotoGuidelines className="my-12 md:my-16" />
-        </div>
-      </section>
-      <section className="section">
-        <div className="container">
-          <PricingPreview />
+          <Testimonials />
         </div>
       </section>
 
-      {/* Pourquoi choisir Moverz - Chiffres clés + Différenciation */}
-      <section className="section bg-white/5">
+      {/* 5. Pourquoi Moverz - Différenciation */}
+      <section className="section">
         <div className="container">
           <div className="text-center mb-12">
             <h2 className="text-2xl md:text-3xl font-semibold text-white mb-4">
@@ -63,7 +82,7 @@ export default function Home() {
             </p>
           </div>
 
-          {/* Différenciation en premier */}
+          {/* Différenciation */}
           <div className="max-w-3xl mx-auto mb-12">
             <div className="card-glass rounded-2xl p-8">
               <div className="flex items-start gap-4">
@@ -82,7 +101,7 @@ export default function Home() {
             </div>
           </div>
 
-          {/* Chiffres clés ensuite */}
+          {/* Chiffres clés */}
           <div className="grid md:grid-cols-4 gap-8 max-w-6xl mx-auto">
             <div className="text-center">
               <div className="text-4xl md:text-5xl font-bold text-[#6bcfcf] mb-2">90%</div>
@@ -103,18 +122,141 @@ export default function Home() {
           </div>
         </div>
       </section>
-      
-      {/* FAQ locales Nice (questions prix/devis) - JSON-LD FAQPage */}
-      <LocalMoneyFAQ citySlug="nice" cityName="Nice" />
-      
-      <section className="section">
+
+      {/* 6. Tarifs indicatifs */}
+      <section className="section bg-white/5">
         <div className="container">
-          <Testimonials />
+          <PricingPreview />
         </div>
       </section>
 
-      {/* Section Ressources SEO - Maillage interne */}
+      {/* 7. Objection Handling - NOUVEAU */}
+      <section className="section">
+        <div className="container">
+          <div className="text-center mb-12">
+            <h2 className="text-2xl md:text-3xl font-semibold text-white mb-4">
+              Pourquoi ne pas déménager seul ?
+            </h2>
+            <p className="text-white/80 max-w-2xl mx-auto">
+              Comparez les avantages avant de décider
+            </p>
+          </div>
+
+          <div className="grid md:grid-cols-2 gap-8 max-w-5xl mx-auto">
+            {/* DIY */}
+            <div className="card-glass rounded-2xl p-8">
+              <h3 className="text-xl font-semibold text-white mb-6 flex items-center gap-2">
+                <span className="text-2xl">🚗</span>
+                Déménagement seul
+              </h3>
+              <div className="space-y-4">
+                <div className="flex items-start gap-3">
+                  <div className="text-green-400 text-xl mt-1">✓</div>
+                  <div>
+                    <div className="text-white font-medium">Économie apparente</div>
+                    <div className="text-white/70 text-sm">Location camion ~150€</div>
+                  </div>
+                </div>
+                <div className="flex items-start gap-3">
+                  <div className="text-red-400 text-xl mt-1">✗</div>
+                  <div>
+                    <div className="text-white font-medium">Risques élevés</div>
+                    <div className="text-white/70 text-sm">Blessures, casse, fatigue</div>
+                  </div>
+                </div>
+                <div className="flex items-start gap-3">
+                  <div className="text-red-400 text-xl mt-1">✗</div>
+                  <div>
+                    <div className="text-white font-medium">Temps important</div>
+                    <div className="text-white/70 text-sm">2-3 jours minimum</div>
+                  </div>
+                </div>
+                <div className="flex items-start gap-3">
+                  <div className="text-red-400 text-xl mt-1">✗</div>
+                  <div>
+                    <div className="text-white font-medium">Aucune assurance pro</div>
+                    <div className="text-white/70 text-sm">Casse à vos frais</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            {/* Pro avec Moverz */}
+            <div className="card-glass rounded-2xl p-8 border-2 border-[#6bcfcf]">
+              <h3 className="text-xl font-semibold text-white mb-6 flex items-center gap-2">
+                <span className="text-2xl">🚚</span>
+                Avec Moverz (dès 280€)
+              </h3>
+              <div className="space-y-4">
+                <div className="flex items-start gap-3">
+                  <div className="text-[#6bcfcf] text-xl mt-1">✓</div>
+                  <div>
+                    <div className="text-white font-medium">Prix transparent</div>
+                    <div className="text-white/70 text-sm">5 devis comparables</div>
+                  </div>
+                </div>
+                <div className="flex items-start gap-3">
+                  <div className="text-[#6bcfcf] text-xl mt-1">✓</div>
+                  <div>
+                    <div className="text-white font-medium">Zéro risque</div>
+                    <div className="text-white/70 text-sm">Pros assurés + formés</div>
+                  </div>
+                </div>
+                <div className="flex items-start gap-3">
+                  <div className="text-[#6bcfcf] text-xl mt-1">✓</div>
+                  <div>
+                    <div className="text-white font-medium">Gain de temps</div>
+                    <div className="text-white/70 text-sm">Fini en 1 journée</div>
+                  </div>
+                </div>
+                <div className="flex items-start gap-3">
+                  <div className="text-[#6bcfcf] text-xl mt-1">✓</div>
+                  <div>
+                    <div className="text-white font-medium">Assurance tous risques</div>
+                    <div className="text-white/70 text-sm">Casse couverte</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="mt-10 text-center">
+            <a href="/inventaire-ia/" className="btn-primary">
+              Comparer 5 devis maintenant
+            </a>
+            <p className="text-white/60 text-sm mt-4">
+              ou <a href="/estimation-rapide/" className="text-[#6bcfcf] underline hover:text-[#6bcfcf]/80">estimation rapide sans photos</a> (30 secondes)
+            </p>
+          </div>
+        </div>
+      </section>
+
+      {/* 8. Garanties */}
       <section className="section bg-white/5">
+        <div className="container">
+          <ValueTriad />
+        </div>
+      </section>
+
+      {/* 9. FAQ locales */}
+      <LocalMoneyFAQ citySlug="nice" cityName="Nice" />
+
+      {/* 10. Guides photos - Pour ceux qui veulent se lancer */}
+      <section className="section">
+        <div className="container">
+          <PhotoGuidelines className="my-12 md:my-16" />
+        </div>
+      </section>
+
+      {/* 11. Zones couvertes */}
+      <section className="section bg-white/5">
+        <div className="container">
+          <NeighborhoodsTeaser />
+        </div>
+      </section>
+
+      {/* 12. Ressources SEO - Maillage interne */}
+      <section className="section">
         <div className="container">
           <div className="text-center mb-12">
             <h2 className="text-2xl md:text-3xl font-semibold text-white mb-4">
@@ -137,10 +279,10 @@ export default function Home() {
                 <a href="/services/" className="block text-[#6bcfcf] hover:text-[#6bcfcf]/80 transition-colors text-sm font-medium">
                   → Comparer les formules
                 </a>
-                <a href="/services/demenagement-economique-nice/" className="block text-white/70 hover:text-white transition-colors text-sm">
+                <a href={`/services/demenagement-economique-${city.slug}/`} className="block text-white/70 hover:text-white transition-colors text-sm">
                   Économique (dès 280€)
                 </a>
-                <a href="/services/demenagement-standard-nice/" className="block text-white/70 hover:text-white transition-colors text-sm">
+                <a href={`/services/demenagement-standard-${city.slug}/`} className="block text-white/70 hover:text-white transition-colors text-sm">
                   Standard (dès 600€)
                 </a>
               </div>
@@ -180,8 +322,8 @@ export default function Home() {
                 <a href="/estimation-rapide/" className="block text-white/70 hover:text-white transition-colors text-sm">
                   Estimation rapide
                 </a>
-                <a href="/quartiers-nice/" className="block text-white/70 hover:text-white transition-colors text-sm">
-                  Quartiers Nice
+                <a href={`/quartiers-${city.slug}/`} className="block text-white/70 hover:text-white transition-colors text-sm">
+                  Quartiers {city.nameCapitalized}
                 </a>
               </div>
             </div>
