@@ -27,36 +27,10 @@ export default function Home() {
     <main className="bg-hero">
       <div className="halo" />
       
-      {/* 1. Hero */}
+      {/* 1. Hero (inclut déjà social proof) */}
       <Hero />
-      
-      {/* 2. Social Proof - Remonté pour crédibilité immédiate */}
-      <section className="section">
-        <div className="container">
-          <div className="text-center">
-            <div className="flex flex-wrap items-center justify-center gap-6 text-white/80">
-              <div className="flex items-center gap-2">
-                <div className="flex -space-x-2">
-                  <div className="w-10 h-10 rounded-full bg-white/20 border-2 border-white flex items-center justify-center">👤</div>
-                  <div className="w-10 h-10 rounded-full bg-white/20 border-2 border-white flex items-center justify-center">👤</div>
-                  <div className="w-10 h-10 rounded-full bg-white/20 border-2 border-white flex items-center justify-center">👤</div>
-                </div>
-                <span className="font-medium">+1200 clients satisfaits</span>
-              </div>
-              <div className="flex items-center gap-2">
-                <span className="text-yellow-300 text-xl">⭐⭐⭐⭐⭐</span>
-                <span className="font-medium">Note moyenne 4,9/5</span>
-              </div>
-              <div className="flex items-center gap-2">
-                <span className="text-2xl">⚡</span>
-                <span className="font-medium">23 devis demandés aujourd'hui</span>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
 
-      {/* 3. Comment ça marche */}
+      {/* 2. Comment ça marche */}
       <section className="section">
         <div className="container">
           <HowItWorks />
