@@ -25,7 +25,7 @@
 
 ---
 
-## 🔴 PRIORITÉ ABSOLUE : 3 TÂCHES LEAD GENERATION
+## 🔴 PRIORITÉ ABSOLUE : 3 TÂCHES LEAD GENERATION (TOUTES P0)
 
 ### [P0]-TASK-LEADGEN-01 : Fix Metadata CTR ⚡️⚡️⚡️
 
@@ -67,24 +67,24 @@
 
 ---
 
-### [P1]-TASK-LEADGEN-02 : Résolution 404 & Indexation 
+### [P0]-TASK-LEADGEN-02 : Résolution 404 & Indexation ⚡️⚡️
 
 **Statut** : 📋 PENDING (à faire après LEADGEN-01)  
-**Priorité** : P1 (important)  
+**Priorité** : P0 (critique business)  
 **Temps estimé** : 1-2 jours  
 **ROI** : +250-350 pages indexables = +3-5 leads/mois = +150-750€/mois  
 **Impact J+30** : Visible  
-**Doc** : `.cursor/tasks/[P1]-TASK-LEADGEN-02-404-indexation-boost/`
+**Doc** : `.cursor/tasks/[P0]-TASK-LEADGEN-02-404-indexation-boost/`
 
 **Objectif** :
 - Résoudre 26 erreurs 404 résiduelles (Lyon 31, Lille 28, Toulouse 19, etc.)
 - Investiguer Rennes 224 pages non indexées (126 erreurs 404 GSC)
 - Débloquer +250-350 pages pour indexation Google
 
-**Pourquoi P1** (vs P0) :
-- Moins critique que metadata
-- ROI un peu plus long (J+30 vs J+14)
-- Nécessite investigation (incertitude)
+**Pourquoi P0** :
+- Pages non indexées = leads perdus
+- ROI direct sur génération leads
+- Complément essentiel à LEADGEN-01
 
 **Approche** :
 - Lyon : Créer 3 articles piliers manquants (80% résolution)
@@ -93,13 +93,13 @@
 
 ---
 
-### [P1]-TASK-LEADGEN-03 : Monitoring & Optimisation CTR
+### [P0]-TASK-LEADGEN-03 : Monitoring & Optimisation CTR ⚡️
 
 **Statut** : 📋 PENDING (après LEADGEN-01)  
-**Priorité** : P1 (important)  
+**Priorité** : P0 (critique business)  
 **Temps estimé** : 1 jour setup + monitoring continu  
 **ROI** : Détection rapide problèmes + optimisation continue  
-**Doc** : `.cursor/tasks/[P1]-TASK-LEADGEN-03-monitoring-ctr-optimisation/`
+**Doc** : `.cursor/tasks/[P0]-TASK-LEADGEN-03-monitoring-ctr-optimisation/`
 
 **Objectif** :
 - Enrichir dashboard analytics (comparaison avant/après, drill-down URLs)
@@ -107,10 +107,10 @@
 - Baselines CTR documentées (par type page, par ville)
 - A/B testing tracker (optionnel)
 
-**Pourquoi P1** :
-- Nécessaire mesurer ROI LEADGEN-01
-- Alertes préviennent régressions
-- Optimisation continue = leads long terme
+**Pourquoi P0** :
+- Nécessaire mesurer ROI LEADGEN-01/02
+- Alertes préviennent régressions critiques
+- Sans monitoring = navigation à l'aveugle
 
 **Features** :
 1. Comparaison avant (05/11, CTR 0.56%) / après (J+7, J+14, J+30)
@@ -164,6 +164,12 @@
 ### TASK-012, TASK-014, TASK-039, TASK-040, TASK-045
 **Statut** : ✅ FUSIONNÉES dans TASK-LEADGEN-01  
 **Raison** : Cohérence, éviter dispersion
+
+### [P2]-TASK-023 : Setup Scripts Automation
+**Statut** : 📋 PENDING (P2)  
+**Raison** : Nice-to-have mais ZERO impact business/leads  
+**Temps** : 5 min  
+**Reprendre** : Quand temps libre après LEADGEN
 
 ### TASK-046 : Logo SERP / Favicons
 **Statut** : ⏸️ EN PAUSE  
