@@ -11,6 +11,55 @@
 
 ## 🔥 EN COURS MAINTENANT
 
+### [P1]-TASK-050 : Fix Liens "nice" Hardcodés (72 URLs 404) 🚨 URGENT
+
+**Priorité** : P1 (Important - Bug détecté)  
+**Type** : Bug Fix / Liens Internes
+
+**Objectif** : Corriger les liens hardcodés "nice" dans FAQ et Services → Résoudre 72 URLs 404
+
+**Documentation** : `.cursor/tasks/[P1]-TASK-050-fix-hardcoded-nice-links/`
+
+**Détecté par** : Guillaume via Google Search Console  
+**Créé le** : 2025-11-05  
+**Temps estimé** : 45 min
+
+**Problème** :
+- 🔴 22 fichiers avec liens hardcodés "nice" (au lieu de dynamique)
+- 🔴 72 URLs 404 créées (36 cross-site + 36 domaine dupliqué)
+- 🔴 Bug introduit ce matin (commits `355478fa` et `7ae8f943`)
+
+**Fichiers à corriger** :
+- `sites/{ville}/app/faq/page.tsx` (10 sites sauf Nice)
+- `sites/{ville}/app/services/page.tsx` (10 sites sauf Nice)
+
+**Cause** : Lors optimisation FAQ/Services ce matin, copier/coller depuis Nice sans remplacer "nice" par `{city.slug}`
+
+**Solution** :
+```tsx
+// AVANT (bugué)
+<a href="/quartiers-nice/">
+
+// APRÈS (corrigé)
+<a href={`/quartiers-${city.slug}/`}>
+```
+
+**Checklist** :
+- [ ] Lire documentation complète (README.md)
+- [ ] Corriger 10 fichiers faq/page.tsx
+- [ ] Corriger 10 fichiers services/page.tsx
+- [ ] Tests local (build OK)
+- [ ] Commit + Push
+
+**Impact** :
+- Résout 72 URLs 404
+- Améliore UX
+- Nettoie GSC
+
+**Statut** : 📋 TODO
+
+---
+
 ### [P2]-TASK-048 : Optimisation Page /services/ — Pricing + SEO ✅ COMPLÉTÉ
 
 **Priorité** : P2 (Normal - Amélioration UX/SEO)  
