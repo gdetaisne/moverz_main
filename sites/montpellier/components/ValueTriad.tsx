@@ -1,7 +1,7 @@
 export default function ValueTriad() {
   const values = [
     {
-      icon: "🤖",
+      icon: "🎯",
       iconBg: "from-blue-500/20 to-cyan-500/20",
       title: "IA précise",
       description: "Estimation volumétrique ultra‑fiable à partir de vos photos"
