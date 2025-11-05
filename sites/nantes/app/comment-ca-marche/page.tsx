@@ -3,16 +3,20 @@ import Breadcrumbs from "@/components/Breadcrumbs";
 import { getCanonicalUrl } from "@/lib/canonical-helper";
 
 import type { Metadata } from 'next'
+import { getCityDataFromUrl } from '@/lib/cityData';
+import { env } from '@/lib/env';
+
+const city = getCityDataFromUrl(env.SITE_URL);
 
 export const metadata: Metadata = {
-  title: "Comment ça marche ? Déménagement Marseille en 3 étapes | Moverz",
-  description: "Découvrez notre processus simple pour déménager à Marseille : 1) Inventaire IA gratuit en 30 min 2) Recevez 3 devis sous 7j 3) Choisissez votre déménageur. 100% gratuit, sans engagement.",
+  title: `Comment ça marche ? Déménagement ${city.nameCapitalized} en 3 étapes | Moverz`,
+  description: `Découvrez notre processus simple pour déménager à ${city.nameCapitalized} : 1) Inventaire IA gratuit en 30 min 2) Recevez 3 devis sous 7j 3) Choisissez votre déménageur. 100% gratuit, sans engagement.`,
   alternates: {
     canonical: getCanonicalUrl('comment-ca-marche'),
   },
   openGraph: {
-    title: "Comment ça marche ? Déménagement Marseille simplifié | Moverz",
-    description: "Processus simple et transparent : photos + IA + devis personnalisés. Déménagez sereinement à Marseille.",
+    title: `Comment ça marche ? Déménagement ${city.nameCapitalized} simplifié | Moverz`,
+    description: `Processus simple et transparent : photos + IA + devis personnalisés. Déménagez sereinement à ${city.nameCapitalized}.`,
     url: getCanonicalUrl('comment-ca-marche'),
     type: 'website',
   },

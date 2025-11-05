@@ -2,15 +2,19 @@ import React from "react";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import type { Metadata } from "next";
 import { getCanonicalUrl } from "@/lib/canonical-helper";
+import { getCityDataFromUrl } from '@/lib/cityData';
+import { env } from '@/lib/env';
+
+const city = getCityDataFromUrl(env.SITE_URL);
 
 export const metadata: Metadata = {
-  title: "Notre Offre Déménagement Lille - Estimation IA | Moverz",
-  description: "Découvrez notre offre de déménagement à Lille : estimation IA gratuite, 5 devis personnalisés sous 7j, comparaison transparente. Service 100% gratuit.",
+  title: `Notre Offre Déménagement ${city.nameCapitalized} - Estimation IA | Moverz`,
+  description: `Découvrez notre offre de déménagement à ${city.nameCapitalized} : estimation IA gratuite, 5 devis personnalisés sous 7j, comparaison transparente. Service 100% gratuit.`,
   alternates: {
     canonical: getCanonicalUrl('notre-offre'),
   },
   openGraph: {
-    title: "Notre Offre Déménagement Lille",
+    title: `Notre Offre Déménagement ${city.nameCapitalized}`,
     description: "Estimation IA gratuite, 5 devis sous 7j",
     url: getCanonicalUrl('notre-offre'),
     type: 'website',
