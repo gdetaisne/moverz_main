@@ -27,24 +27,6 @@ export default function Home() {
     <main className="bg-hero">
       <div className="halo" />
       
-      {/* Animations CSS pour fade-in au scroll */}
-      <style jsx global>{`
-        @keyframes fadeInUp {
-          from {
-            opacity: 0;
-            transform: translateY(30px);
-          }
-          to {
-            opacity: 1;
-            transform: translateY(0);
-          }
-        }
-        
-        .animate-on-scroll {
-          animation: fadeInUp 0.8s ease-out forwards;
-        }
-      `}</style>
-      
       {/* 1. Hero (inclut déjà social proof) */}
       <Hero />
 
