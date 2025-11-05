@@ -56,67 +56,29 @@ export default function Home() {
             </p>
           </div>
 
-          {/* Différenciation */}
-          <div className="max-w-4xl mx-auto mb-12">
-            <div className="card-glass rounded-2xl p-8 md:p-10 border-2 border-[#6bcfcf]/30 bg-gradient-to-br from-[#6bcfcf]/5 to-transparent">
-              <div className="text-center mb-6">
-                <div className="inline-flex items-center justify-center w-20 h-20 rounded-2xl bg-gradient-to-br from-[#6bcfcf]/20 to-[#2b7a78]/20 mb-4">
-                  <span className="text-5xl">💡</span>
-                </div>
-                <h3 className="text-2xl md:text-3xl font-bold text-white mb-3">
-                  La différence Moverz
-                </h3>
-                <p className="text-[#6bcfcf] font-medium">
-                  Enfin des devis vraiment comparables
-                </p>
-              </div>
-              
-              <div className="grid md:grid-cols-2 gap-6 mt-8">
-                <div className="flex items-start gap-3">
-                  <div className="flex-shrink-0 w-8 h-8 rounded-lg bg-red-500/20 flex items-center justify-center text-red-400">✗</div>
-                  <div>
-                    <div className="text-white/60 font-medium text-sm mb-1">Comparateurs classiques</div>
-                    <div className="text-white/50 text-sm">Chaque déménageur estime son propre volume</div>
+          {/* Différenciation - Card simple et claire */}
+          <div className="max-w-3xl mx-auto mb-12">
+            <div className="card-glass rounded-2xl p-8 border-2 border-[#6bcfcf]/30">
+              <div className="flex items-start gap-4">
+                <div className="text-4xl flex-shrink-0">💡</div>
+                <div>
+                  <h3 className="text-xl md:text-2xl font-bold text-white mb-3">
+                    La différence Moverz
+                  </h3>
+                  <p className="text-white/80 leading-relaxed">
+                    Notre IA analyse vos photos pour créer <strong className="text-[#6bcfcf]">un inventaire unique</strong>. 
+                    Tous les déménageurs chiffrent le même volume → vous comparez enfin ce qui est comparable.
+                  </p>
+                  <div className="mt-4 inline-flex items-center gap-2 text-sm text-[#6bcfcf]">
+                    <span>✓</span>
+                    <span>Fini les devis incomparables</span>
                   </div>
                 </div>
-                <div className="flex items-start gap-3">
-                  <div className="flex-shrink-0 w-8 h-8 rounded-lg bg-[#6bcfcf]/20 flex items-center justify-center text-[#6bcfcf]">✓</div>
-                  <div>
-                    <div className="text-white font-medium text-sm mb-1">Avec Moverz IA</div>
-                    <div className="text-white/80 text-sm">Tous chiffrent le <strong className="text-[#6bcfcf]">même volume exact</strong></div>
-                  </div>
-                </div>
-              </div>
-
-              <div className="mt-6 pt-6 border-t border-white/10 text-center">
-                <p className="text-white/70 text-sm">
-                  🎯 Résultat : <span className="text-white font-semibold">Comparaison fiable à 100%</span>, plus de pommes vs oranges
-                </p>
               </div>
             </div>
           </div>
 
-          {/* Chiffres clés - AMPLIFIÉS */}
-          <div className="grid md:grid-cols-4 gap-6 max-w-6xl mx-auto mb-16">
-            <div className="card-glass rounded-3xl p-8 text-center border-2 border-[#6bcfcf]/30 bg-gradient-to-br from-[#6bcfcf]/10 to-transparent hover:border-[#6bcfcf]/50 hover:scale-105 transition-all duration-300">
-              <div className="text-5xl md:text-6xl font-black text-[#6bcfcf] mb-3 drop-shadow-[0_0_10px_rgba(107,207,207,0.5)]">90%</div>
-              <div className="text-white font-medium text-sm md:text-base">Précision estimation IA</div>
-            </div>
-            <div className="card-glass rounded-3xl p-8 text-center border-2 border-[#6bcfcf]/30 bg-gradient-to-br from-[#6bcfcf]/10 to-transparent hover:border-[#6bcfcf]/50 hover:scale-105 transition-all duration-300">
-              <div className="text-5xl md:text-6xl font-black text-[#6bcfcf] mb-3 drop-shadow-[0_0_10px_rgba(107,207,207,0.5)]">5</div>
-              <div className="text-white font-medium text-sm md:text-base">Devis comparables</div>
-            </div>
-            <div className="card-glass rounded-3xl p-8 text-center border-2 border-[#6bcfcf]/30 bg-gradient-to-br from-[#6bcfcf]/10 to-transparent hover:border-[#6bcfcf]/50 hover:scale-105 transition-all duration-300">
-              <div className="text-5xl md:text-6xl font-black text-[#6bcfcf] mb-3 drop-shadow-[0_0_10px_rgba(107,207,207,0.5)]">7j</div>
-              <div className="text-white font-medium text-sm md:text-base">Délai de réponse</div>
-            </div>
-            <div className="card-glass rounded-3xl p-8 text-center border-2 border-[#6bcfcf]/30 bg-gradient-to-br from-[#6bcfcf]/10 to-transparent hover:border-[#6bcfcf]/50 hover:scale-105 transition-all duration-300">
-              <div className="text-5xl md:text-6xl font-black text-[#6bcfcf] mb-3 drop-shadow-[0_0_10px_rgba(107,207,207,0.5)]">0€</div>
-              <div className="text-white font-medium text-sm md:text-base">Service 100% gratuit</div>
-            </div>
-          </div>
-
-          {/* Garanties intégrées */}
+          {/* Garanties - FOCUS principal */}
           <div>
             <ValueTriad />
           </div>
