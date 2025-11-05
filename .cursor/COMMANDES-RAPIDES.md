@@ -68,6 +68,25 @@
 
 ---
 
+## 🚀 DÉPLOIEMENT
+
+### Scripts disponibles
+```bash
+./scripts/deploy/push-main.sh              # Push monorepo principal
+./scripts/deploy/push-all-sites.sh         # Push tous les sites (11 villes)
+./scripts/deploy/push-site.sh <ville>      # Push un seul site
+```
+
+### Options force deploy
+```bash
+./scripts/deploy/push-all-sites.sh --force-deploy      # Rebuild CapRover immédiat
+./scripts/deploy/push-site.sh bordeaux --force-deploy  # Rebuild CapRover immédiat
+```
+
+**Documentation complète** : `scripts/deploy/README.md`
+
+---
+
 ## 🔄 WORKFLOW COMPLET
 
 ### Matin
