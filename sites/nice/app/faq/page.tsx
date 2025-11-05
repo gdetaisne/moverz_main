@@ -408,7 +408,7 @@ export default function FAQPage() {
                   }}
                   className={`px-4 py-2 rounded-full text-sm font-medium transition-all duration-200 ${
                     selectedCategory === category
-                      ? "bg-accent text-white shadow-lg"
+                      ? "bg-[#6bcfcf] text-[#04163a] shadow-lg"
                       : "bg-white/10 text-white/70 hover:bg-white/20 hover:text-white"
                   }`}
                 >
