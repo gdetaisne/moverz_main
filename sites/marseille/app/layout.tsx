@@ -38,9 +38,14 @@ export default function RootLayout({
     <html lang="fr" className="h-full">
       <head>
         <link rel="manifest" href="/manifest.json" />
-        <link rel="icon" type="image/png" sizes="192x192" href="/icons/android-chrome-192x192.png" />
-        <link rel="icon" type="image/png" sizes="512x512" href="/icons/android-chrome-512x512.png" />
-        <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png" />
+        {/* Favicons - URLs absolues pour meilleure compatibilité Google SERP */}
+        <link rel="icon" href={`${env.SITE_URL}/favicon.ico`} sizes="32x32" />
+        <link rel="icon" type="image/png" sizes="16x16" href={`${env.SITE_URL}/icons/favicon-16x16.png`} />
+        <link rel="icon" type="image/png" sizes="32x32" href={`${env.SITE_URL}/icons/favicon-32x32.png`} />
+        <link rel="icon" type="image/png" sizes="48x48" href={`${env.SITE_URL}/icons/favicon-48x48.png`} />
+        <link rel="icon" type="image/png" sizes="192x192" href={`${env.SITE_URL}/icons/android-chrome-192x192.png`} />
+        <link rel="icon" type="image/png" sizes="512x512" href={`${env.SITE_URL}/icons/android-chrome-512x512.png`} />
+        <link rel="apple-touch-icon" href={`${env.SITE_URL}/icons/apple-touch-icon.png`} />
         <Script 
           async 
           src="https://plausible.io/js/pa-dkllRxPvwLXCFTjJ29RRI.js"
@@ -94,16 +99,16 @@ function Footer() {
           <div className="text-sm font-semibold text-white">Navigation</div>
           <ul className="mt-3 space-y-2 text-sm text-white/90">
             <li><Link href="/services/" className="hover:text-white">Services</Link></li>
-            <li><Link href={`/${city.slug}/`} className="hover:text-white">Zones desservies</Link></li>
+            <li><Link href={`/${city.slug}`} className="hover:text-white">Zones desservies</Link></li>
             <li><Link href="/partenaires/" className="hover:text-white">Partenaires</Link></li>
           </ul>
         </div>
         <div>
           <div className="text-sm font-semibold text-white">Ressources</div>
           <ul className="mt-3 space-y-2 text-sm text-white/90">
-            <li><Link href="/blog/" className="hover:text-white">Blog</Link></li>
+            <li><Link href="/blog" className="hover:text-white">Blog</Link></li>
             <li><Link href="/faq/" className="hover:text-white">FAQ</Link></li>
-            <li><Link href="/contact/" className="hover:text-white">Contact</Link></li>
+            <li><Link href="/contact" className="hover:text-white">Contact</Link></li>
           </ul>
         </div>
         <div>
