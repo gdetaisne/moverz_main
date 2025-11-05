@@ -6,7 +6,7 @@ import { env } from '@/lib/env';
 const city = getCityDataFromUrl(env.SITE_URL);
 
 export const metadata: Metadata = {
-  title: `Estimation Rapide Déménagement ${city.nameCapitalized} | Calcul Volume | Moverz`,
+  title: `Estimation Rapide Déménagement ${city.nameCapitalized} | Calcul Volume`,
   description: `Estimez rapidement le volume et le coût de votre déménagement à ${city.nameCapitalized}. Calculateur simple et rapide. Résultats instantanés.`,
   alternates: {
     canonical: getCanonicalUrl('estimation-rapide'),
