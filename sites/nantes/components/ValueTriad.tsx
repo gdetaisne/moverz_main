@@ -13,7 +13,7 @@ export default function ValueTriad() {
       description: "Devis détaillés, aucun frais caché"
     },
     {
-      icon: "🎁",
+      icon: "💚",
       iconBg: "from-green-500/20 to-emerald-500/20",
       title: "100% gratuit",
       description: "Comparez en toute liberté, sans engagement"
