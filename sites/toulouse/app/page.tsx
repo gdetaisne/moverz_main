@@ -161,7 +161,7 @@ export default function Home() {
                   <div className="text-[#6bcfcf] text-xl mt-1">✓</div>
                   <div>
                     <div className="text-white font-medium">Zéro risque</div>
-                    <div className="text-white/70 text-sm">Pros assurés + formés</div>
+                    <div className="text-white/70 text-sm">Pros assurés + vérifiés</div>
                   </div>
                 </div>
                 <div className="flex items-start gap-3">

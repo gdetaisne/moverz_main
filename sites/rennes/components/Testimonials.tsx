@@ -25,15 +25,12 @@ export default function Testimonials() {
   return (
     <div>
       <div className="text-center mb-10">
-        <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white/10 backdrop-blur-sm border border-white/20 mb-4">
-          <span className="text-2xl">💬</span>
-          <span className="text-sm font-medium text-white">Témoignages clients</span>
-        </div>
-        <h2 className="text-2xl md:text-3xl lg:text-4xl font-semibold text-white mb-3">
+        <h2 className="text-2xl md:text-3xl lg:text-4xl font-semibold text-white mb-4 flex items-center justify-center gap-3">
+          <span className="text-3xl">💬</span>
           Ils nous ont fait confiance
         </h2>
         <div className="flex items-center justify-center gap-2 text-yellow-300 text-xl">
-          ⭐⭐⭐⭐⭐ <span className="text-white/70 text-sm ml-2">4,9/5 sur 1200+ avis</span>
+          ⭐⭐⭐⭐⭐ <span className="text-white/70 text-sm md:text-base ml-2">4,9/5 sur 1200+ avis</span>
         </div>
       </div>
       <div className="mt-12 grid md:grid-cols-3 gap-6 md:gap-8">
