@@ -11,42 +11,120 @@
 
 ## 🔥 EN COURS MAINTENANT
 
-### [P3]-TASK-005 : Audit Qualité Blogs - Amélioration Contenu (10-15h)
+### [P0]-TASK-046 : Logo SERP / Favicons — CTR Critique ✅ TECHNIQUE COMPLÉTÉ
 
-**Priorité** : P3 (Nice-to-have)  
-**Type** : Content / SEO
+**Priorité** : P0 (Business Critical)  
+**Type** : SEO / Investigation + Fix
 
-**Objectif** : Améliorer qualité contenu blog (articles courts, maillage, FAQ)
+**Objectif** : Faire apparaître systématiquement le logo dans résultats Google (SERP)
 
-**Actions** :
-1. Audit global (identifier articles à améliorer)
-2. Enrichir contenu articles courts (<800 mots → 1000-1200)
-3. Améliorer maillage interne (liens piliers + satellites)
-4. Ajouter FAQ stratégiques (rich snippets)
+**Documentation** : `.cursor/tasks/[P0]-TASK-046-favicon-logo-serp/`
 
-**Documentation** : `.cursor/tasks/[P3]-TASK-005-audit-qualite-blogs/`
+**Démarrée le** : 2025-11-05  
+**Complétée le** : 2025-11-05  
+**Temps réel** : 1h15 (vs 1.5-3h estimé) ⚡
 
-**Démarrée le** : 2025-11-03
+**Résultats** :
+- ✅ Favicons 48x48 créés (11 villes) — CRITIQUE pour SERP
+- ✅ favicon.ico régénéré (0 bytes → 2.7K valide)
+- ✅ URLs absolues implémentées
+- ✅ Sync 11 villes (55 fichiers modifiés)
+- ✅ Commit + push GitHub (SHA: `ffccc050`)
 
-**Session 03/11** :
-- ✅ Fix bug markdown "pouces doubles" (11 villes) - 1h
-- ✅ 11 articles Nice optimisés (maillage + FAQ) - 2h30
-- ✅ 50 FAQ ajoutées, 24 liens internes
-- ✅ Fix URLs internes 404 - 15 min
-- ✅ Tests localhost validés par Lucie ✅
-- ✅ 2 commits GitHub main (`cc93061`, `48bd0b5`)
+**Root cause identifiée** :
+- ❌ Favicon 48x48 MANQUANT (Google SERP requirement)
+- ❌ favicon.ico vide (0 bytes)
+- ⚠️ URLs relatives vs absolues
 
-**Temps total** : 3h45
+**Impact attendu (J+7-14)** :
+- Logo visible SERP Google (mobile + desktop)
+- CTR +5-15% (études Google)
+- Leads +50-150/mois (11 villes)
 
-**Statut** : ⚠️ EN COURS (objectif principal atteint, DoD quasi-validée)
+**Statut** : ✅ TECHNIQUE COMPLÉTÉ (attente indexation Google 7-14j)
 
-**Prochain step** :
-- [ ] Analyser résultats GSC dans 4-8 semaines
-- [ ] Décider si scale Lyon/Marseille ou continuer Nice
+**Next check** : 12/11/2025 (J+7) → Vérifier logo SERP
 
-**Rapport** : `.cursor/tasks/[P3]-TASK-005-audit-qualite-blogs/RAPPORT-SESSION-03-NOV-2025.md`
+**Rapport** : `.cursor/tasks/[P0]-TASK-046-favicon-logo-serp/RAPPORT-SESSION-05-NOV.md`
 
 ---
+
+### [P2]-TASK-033 : Titles Optimisés (3 villes) ✅ COMPLÉTÉ
+
+**Priorité** : P2 (Normal)  
+**Type** : SEO On-Page / Contenu
+
+**Objectif** : Optimiser longueur titles à 50-60 caractères (Rouen, Lyon, Lille)
+
+**Résultats** :
+- ✅ Titles raccourcis (suppression " | Moverz")
+- ✅ Corridor pages : 60→53 chars
+- ✅ Estimation Rapide : 70→54 chars
+- ✅ 3 villes synchronisées (Rouen, Lyon, Lille)
+- ✅ Commit + push GitHub
+
+**Temps réel** : 35 min (vs 2-3h estimé) ⚡
+
+**Statut** : ✅ COMPLÉTÉ (05/11/2025)
+
+---
+
+### [P1]-TASK-047 : Fix "Duplicate FAQPage field" (11 sites) - Search Console
+
+**Priorité** : P1 (Important - Bloque rich snippets)  
+**Type** : SEO / Structured Data / Fix
+
+**Objectif** : Corriger erreur "Champ 'FAQPage' en double" détectée par Google
+
+**Contexte** :
+- Nice `/faq` → Erreur Search Console "Duplicate FAQPage field"
+- Empêche affichage rich snippets FAQ dans SERP
+- Probable : FAQPage déclaré 2× (global + local)
+
+**Actions** :
+- [ ] Auditer les 11 sites (Search Console + Rich Results Test)
+- [ ] Identifier schémas JSON-LD en conflit (global vs local)
+- [ ] Corriger code (supprimer duplicate ou conditionner)
+- [ ] Sync 11 villes
+- [ ] Re-valider Rich Results Test
+- [ ] Demander réindexation Search Console (11 URLs `/faq`)
+- [ ] Documenter pattern correct pour futures pages FAQ
+
+**Villes à vérifier** : Nice, Lyon, Marseille, Toulouse, Bordeaux, Lille, Strasbourg, Nantes, Rennes, Rouen, Montpellier
+
+**Temps estimé** : 2-3h
+
+**Statut** : 📋 PENDING (après TASK-033)
+
+---
+
+## ✅ TÂCHES RÉCEMMENT FINALISÉES (05/11/2025)
+
+### [P3]-TASK-005 : Audit Qualité Blogs - Amélioration Contenu ✅
+
+**Résultats** :
+- ✅ 80 articles optimisés (8 villes) - **266% objectif dépassé !**
+- ✅ 323 FAQ ajoutées (rich snippets Google)
+- ✅ 180+ liens internes stratégiques
+- ✅ Fix bug markdown "pouces doubles" (11 villes)
+- ✅ 8 commits GitHub pushés
+
+**Villes** : Nice, Lyon, Marseille, Toulouse, Bordeaux, Lille, Strasbourg, Montpellier  
+**Temps** : 8h30 (vs 10-15h estimé) ⚡  
+**Rapport** : `.cursor/tasks/[P3]-TASK-005-audit-qualite-blogs/RAPPORT-FINAL.md`
+
+---
+
+### [P2]-TASK-024 : Fix bouton "Voir tous les articles" blog ✅
+
+**Résultats** :
+- ✅ Composant client `SatelliteArticlesSection.tsx` créé
+- ✅ État `showAll` pour toggle 9 vs tous articles
+- ✅ Sync 11 villes (22 fichiers modifiés)
+- ✅ Commit GitHub `c2fb392` pushé
+
+**Temps** : 25 min (vs 30 min estimé) ⚡  
+**Documentation** : `.cursor/tasks/[P2]-TASK-024-fix-bouton-blog/README.md`
 
 ---
 
