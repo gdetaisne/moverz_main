@@ -27,6 +27,24 @@ export default function Home() {
     <main className="bg-hero">
       <div className="halo" />
       
+      {/* Animations CSS pour fade-in au scroll */}
+      <style jsx global>{`
+        @keyframes fadeInUp {
+          from {
+            opacity: 0;
+            transform: translateY(30px);
+          }
+          to {
+            opacity: 1;
+            transform: translateY(0);
+          }
+        }
+        
+        .animate-on-scroll {
+          animation: fadeInUp 0.8s ease-out forwards;
+        }
+      `}</style>
+      
       {/* 1. Hero (inclut déjà social proof) */}
       <Hero />
 
@@ -38,7 +56,7 @@ export default function Home() {
       </section>
       
       {/* 3. Testimonials - Preuve sociale */}
-      <section className="section py-16 md:py-20 bg-gradient-to-br from-white/5 to-white/10 border-y border-white/10">
+      <section className="section py-16 md:py-20 bg-gradient-to-br from-[#2b7a78]/15 to-[#04163a]/30 border-y border-white/20">
         <div className="container">
           <Testimonials />
         </div>
@@ -48,50 +66,71 @@ export default function Home() {
       <section className="section py-16 md:py-20">
         <div className="container">
           <div className="text-center mb-12">
-            <h2 className="text-2xl md:text-3xl font-semibold text-white mb-4">
+            <h2 className="text-2xl md:text-3xl lg:text-4xl font-semibold text-white mb-4">
               Pourquoi choisir Moverz ?
             </h2>
-            <p className="text-white/80 max-w-2xl mx-auto">
+            <p className="text-white/80 max-w-2xl mx-auto text-base md:text-lg">
               La première plateforme qui compare vraiment les devis de déménagement
             </p>
           </div>
 
           {/* Différenciation */}
-          <div className="max-w-3xl mx-auto mb-12">
-            <div className="card-glass rounded-2xl p-8 border-2 border-white/20">
-              <div className="flex items-start gap-4">
-                <div className="text-4xl">💡</div>
-                <div>
-                  <h3 className="text-xl font-semibold text-white mb-2">
-                    La différence Moverz
-                  </h3>
-                  <p className="text-white/80 leading-relaxed">
-                    Contrairement aux comparateurs classiques, notre IA analyse vos photos pour créer un inventaire précis. 
-                    Résultat : tous les déménageurs chiffrent le <strong className="text-[#6bcfcf]">même volume exact</strong>, 
-                    vous pouvez enfin comparer ce qui est comparable.
-                  </p>
+          <div className="max-w-4xl mx-auto mb-12">
+            <div className="card-glass rounded-2xl p-8 md:p-10 border-2 border-[#6bcfcf]/30 bg-gradient-to-br from-[#6bcfcf]/5 to-transparent">
+              <div className="text-center mb-6">
+                <div className="inline-flex items-center justify-center w-20 h-20 rounded-2xl bg-gradient-to-br from-[#6bcfcf]/20 to-[#2b7a78]/20 mb-4">
+                  <span className="text-5xl">💡</span>
                 </div>
+                <h3 className="text-2xl md:text-3xl font-bold text-white mb-3">
+                  La différence Moverz
+                </h3>
+                <p className="text-[#6bcfcf] font-medium">
+                  Enfin des devis vraiment comparables
+                </p>
+              </div>
+              
+              <div className="grid md:grid-cols-2 gap-6 mt-8">
+                <div className="flex items-start gap-3">
+                  <div className="flex-shrink-0 w-8 h-8 rounded-lg bg-red-500/20 flex items-center justify-center text-red-400">✗</div>
+                  <div>
+                    <div className="text-white/60 font-medium text-sm mb-1">Comparateurs classiques</div>
+                    <div className="text-white/50 text-sm">Chaque déménageur estime son propre volume</div>
+                  </div>
+                </div>
+                <div className="flex items-start gap-3">
+                  <div className="flex-shrink-0 w-8 h-8 rounded-lg bg-[#6bcfcf]/20 flex items-center justify-center text-[#6bcfcf]">✓</div>
+                  <div>
+                    <div className="text-white font-medium text-sm mb-1">Avec Moverz IA</div>
+                    <div className="text-white/80 text-sm">Tous chiffrent le <strong className="text-[#6bcfcf]">même volume exact</strong></div>
+                  </div>
+                </div>
+              </div>
+
+              <div className="mt-6 pt-6 border-t border-white/10 text-center">
+                <p className="text-white/70 text-sm">
+                  🎯 Résultat : <span className="text-white font-semibold">Comparaison fiable à 100%</span>, plus de pommes vs oranges
+                </p>
               </div>
             </div>
           </div>
 
-          {/* Chiffres clés */}
-          <div className="grid md:grid-cols-4 gap-8 max-w-6xl mx-auto mb-16">
-            <div className="text-center">
-              <div className="text-4xl md:text-5xl font-bold text-[#6bcfcf] mb-2">90%</div>
-              <div className="text-white/70 text-sm">Précision estimation IA</div>
+          {/* Chiffres clés - AMPLIFIÉS */}
+          <div className="grid md:grid-cols-4 gap-6 max-w-6xl mx-auto mb-16">
+            <div className="card-glass rounded-3xl p-8 text-center border-2 border-[#6bcfcf]/30 bg-gradient-to-br from-[#6bcfcf]/10 to-transparent hover:border-[#6bcfcf]/50 hover:scale-105 transition-all duration-300">
+              <div className="text-5xl md:text-6xl font-black text-[#6bcfcf] mb-3 drop-shadow-[0_0_10px_rgba(107,207,207,0.5)]">90%</div>
+              <div className="text-white font-medium text-sm md:text-base">Précision estimation IA</div>
             </div>
-            <div className="text-center">
-              <div className="text-4xl md:text-5xl font-bold text-[#6bcfcf] mb-2">5</div>
-              <div className="text-white/70 text-sm">Devis comparables</div>
+            <div className="card-glass rounded-3xl p-8 text-center border-2 border-[#6bcfcf]/30 bg-gradient-to-br from-[#6bcfcf]/10 to-transparent hover:border-[#6bcfcf]/50 hover:scale-105 transition-all duration-300">
+              <div className="text-5xl md:text-6xl font-black text-[#6bcfcf] mb-3 drop-shadow-[0_0_10px_rgba(107,207,207,0.5)]">5</div>
+              <div className="text-white font-medium text-sm md:text-base">Devis comparables</div>
             </div>
-            <div className="text-center">
-              <div className="text-4xl md:text-5xl font-bold text-[#6bcfcf] mb-2">7j</div>
-              <div className="text-white/70 text-sm">Délai de réponse</div>
+            <div className="card-glass rounded-3xl p-8 text-center border-2 border-[#6bcfcf]/30 bg-gradient-to-br from-[#6bcfcf]/10 to-transparent hover:border-[#6bcfcf]/50 hover:scale-105 transition-all duration-300">
+              <div className="text-5xl md:text-6xl font-black text-[#6bcfcf] mb-3 drop-shadow-[0_0_10px_rgba(107,207,207,0.5)]">7j</div>
+              <div className="text-white font-medium text-sm md:text-base">Délai de réponse</div>
             </div>
-            <div className="text-center">
-              <div className="text-4xl md:text-5xl font-bold text-[#6bcfcf] mb-2">0€</div>
-              <div className="text-white/70 text-sm">Service 100% gratuit</div>
+            <div className="card-glass rounded-3xl p-8 text-center border-2 border-[#6bcfcf]/30 bg-gradient-to-br from-[#6bcfcf]/10 to-transparent hover:border-[#6bcfcf]/50 hover:scale-105 transition-all duration-300">
+              <div className="text-5xl md:text-6xl font-black text-[#6bcfcf] mb-3 drop-shadow-[0_0_10px_rgba(107,207,207,0.5)]">0€</div>
+              <div className="text-white font-medium text-sm md:text-base">Service 100% gratuit</div>
             </div>
           </div>
 
@@ -103,7 +142,7 @@ export default function Home() {
       </section>
 
       {/* 5. Tarifs indicatifs */}
-      <section className="section py-16 md:py-20 bg-gradient-to-br from-[#2b7a78]/20 to-[#04163a]/40 border-y border-white/10">
+      <section className="section py-16 md:py-20 bg-gradient-to-br from-[#2b7a78]/25 to-[#6bcfcf]/10 border-y border-[#6bcfcf]/20">
         <div className="container">
           <PricingPreview />
         </div>
@@ -113,10 +152,10 @@ export default function Home() {
       <section className="section py-16 md:py-20">
         <div className="container">
           <div className="text-center mb-12">
-            <h2 className="text-2xl md:text-3xl font-semibold text-white mb-4">
+            <h2 className="text-2xl md:text-3xl lg:text-4xl font-semibold text-white mb-4">
               Pourquoi ne pas déménager seul ?
             </h2>
-            <p className="text-white/80 max-w-2xl mx-auto">
+            <p className="text-white/80 max-w-2xl mx-auto text-base md:text-lg">
               Comparez les avantages avant de décider
             </p>
           </div>
@@ -216,7 +255,7 @@ export default function Home() {
       </section>
 
       {/* 8. Guides photos */}
-      <section className="section py-16 md:py-20 bg-gradient-to-br from-white/5 to-white/10 border-y border-white/10">
+      <section className="section py-16 md:py-20 bg-gradient-to-br from-[#04163a]/60 to-[#2b7a78]/20 border-y border-white/20">
         <div className="container">
           <PhotoGuidelines />
         </div>
@@ -230,13 +269,13 @@ export default function Home() {
       </section>
 
       {/* 10. Ressources SEO - Maillage interne */}
-      <section className="section py-16 md:py-20 bg-gradient-to-br from-white/5 to-white/10 border-y border-white/10">
+      <section className="section py-16 md:py-20 bg-gradient-to-br from-[#2b7a78]/15 to-[#6bcfcf]/10 border-y border-white/20">
         <div className="container">
           <div className="text-center mb-12">
-            <h2 className="text-2xl md:text-3xl font-semibold text-white mb-4">
+            <h2 className="text-2xl md:text-3xl lg:text-4xl font-semibold text-white mb-4">
               Tout pour préparer votre déménagement
             </h2>
-            <p className="text-white/80 max-w-2xl mx-auto">
+            <p className="text-white/80 max-w-2xl mx-auto text-base md:text-lg">
               Guides pratiques, informations tarifaires et conseils d'experts
             </p>
           </div>
