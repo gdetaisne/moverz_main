@@ -2,9 +2,9 @@ import CorridorPage from "@/app/_templates/CorridorPage";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Déménagement Montpellier → Montpellier | Devis gratuit & IA",
-  description: "Déménagement de Montpellier vers Montpellier. Distance 170 km, 1h45-2h de route. Prix indicatifs : Studio 450-900€, T2/T3 700-1300€. Devis gratuit avec estimation IA.",
-  keywords: "déménagement Montpellier Montpellier, déménageur Montpellier Montpellier, devis déménagement",
+  title: "Déménagement Montpellier → Marseille | Devis gratuit & IA",
+  description: "Déménagement de Montpellier vers Marseille. Distance 170 km, 1h45-2h de route. Prix indicatifs : Studio 450-900€, T2/T3 700-1300€. Devis gratuit avec estimation IA.",
+  keywords: "déménagement Montpellier Marseille, déménageur Montpellier Marseille, devis déménagement",
 };
 
 const corridorData = {
@@ -16,7 +16,7 @@ const corridorData = {
     {
       type: "Studio/T1",
       prix: "450-900€",
-      description: "Déménagement montpellier → Marseille : 660 km, 7h00. Studio/T1 (10-15 m³) dès 450-900€. Devis gratuit sous 7j. Équipe pro, emballage inclus."
+      description: "Déménagement Montpellier → Marseille : 170 km, 1h45. Studio/T1 (10-15 m³) dès 450-900€. Devis gratuit sous 7j. Équipe pro, emballage inclus."
     },
     { type: "T2/T3", prix: "700-1300€", description: "Volume : 20-35 m³" },
     { type: "T4/Maison", prix: "1300-2500€", description: "Volume : 40-80 m³" }
