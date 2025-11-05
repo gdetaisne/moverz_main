@@ -203,15 +203,13 @@ const nextConfig = {
       { source: '/estimation-demenagement-montpellier/', destination: '/estimation-rapide', permanent: true },
       { source: '/prix-demenagement-montpellier/', destination: '/blog/prix-demenagement-montpellier/prix-demenagement-montpellier-guide', permanent: true },
       { source: '/devis-demenagement-montpellier/', destination: '/estimation-rapide', permanent: true },
-
-      // WILDCARDS CATCH-ALL (TASK-LEADGEN-02 - Fix 404 restructuration blog)
-      { source: '/blog/garde-meuble/:slug*', destination: '/blog/satellites/:slug*', permanent: true },
-      { source: '/blog/pas-cher/:slug*', destination: '/blog/satellites/:slug*', permanent: true },
-      { source: '/blog/international/:slug*', destination: '/blog/satellites/:slug*', permanent: true },
-      { source: '/blog/piano/:slug*', destination: '/blog/satellites/:slug*', permanent: true },
-      { source: '/blog/location-camion-montpellier/:slug*', destination: '/blog/satellites/:slug*', permanent: true },
-      { source: '/blog/petit-demenagement-montpellier/:slug*', destination: '/blog/satellites/:slug*', permanent: true },
-      { source: '/blog/demenageur/:slug*', destination: '/blog/satellites/:slug*', permanent: true },
+      // WILDCARDS CATCH-ALL (TASK-LEADGEN-02 - Fix 404 restructuration blog) - CORRIGÉ
+      { source: '/blog/garde-meuble/:slug*', destination: '/blog/garde-meuble-montpellier/:slug*', permanent: true },
+      { source: '/blog/pas-cher/:slug*', destination: '/blog/demenagement-pas-cher-montpellier/:slug*', permanent: true },
+      { source: '/blog/international/:slug*', destination: '/blog/demenagement-international-montpellier/:slug*', permanent: true },
+      { source: '/blog/piano/:slug*', destination: '/blog/demenagement-piano-montpellier/:slug*', permanent: true },
+      { source: '/blog/demenageur/:slug*', destination: '/blog/demenageur-montpellier/:slug*', permanent: true },
+      { source: '/blog/aide/:slug*', destination: '/blog/aide-demenagement-montpellier/:slug*', permanent: true },
     ];
   }
 };
