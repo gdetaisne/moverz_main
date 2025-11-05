@@ -11,6 +11,36 @@
 
 ## 🔥 EN COURS MAINTENANT
 
+### [P2]-TASK-048 : Optimisation Page /services/ — Pricing + SEO
+
+**Priorité** : P2 (Normal - Amélioration UX/SEO)  
+**Type** : SEO / UX / Contenu
+
+**Objectif** : Corriger incohérences pricing + Quick Wins SEO
+
+**Contexte** :
+- Prix hub (450€) ≠ prix détails (280€ minimum) → Confusion
+- Opportunité manquée : 280€ est plus attractif
+- Titles trop longs (>60 chars)
+- Pas de FAQ sur page hub = pas de rich snippets
+- Pas de maillage interne = link juice perdu
+
+**Actions** :
+- [ ] Corriger prix hub (450€→280€, 750€→600€)
+- [ ] Raccourcir titles (< 60 chars)
+- [ ] Ajouter FAQ page hub /services
+- [ ] Maillage interne (liens blog + quartiers)
+- [ ] Schema.org Service/Offer
+- [ ] Sync 11 villes + validation
+
+**Temps estimé** : 3-4h
+
+**Statut** : 🔄 EN COURS (démarré 05/11/2025)
+
+---
+
+## 🔥 EN COURS MAINTENANT
+
 ### [P0]-TASK-046 : Logo SERP / Favicons — CTR Critique ✅ TECHNIQUE COMPLÉTÉ
 
 **Priorité** : P0 (Business Critical)  
@@ -69,32 +99,50 @@
 
 ---
 
-### [P1]-TASK-047 : Fix "Duplicate FAQPage field" (11 sites) - Search Console
+### [P1]-TASK-047 : Fix "Duplicate FAQPage field" (11 sites) ✅ TECHNIQUE COMPLÉTÉ
 
 **Priorité** : P1 (Important - Bloque rich snippets)  
 **Type** : SEO / Structured Data / Fix
 
 **Objectif** : Corriger erreur "Champ 'FAQPage' en double" détectée par Google
 
-**Contexte** :
-- Nice `/faq` → Erreur Search Console "Duplicate FAQPage field"
-- Empêche affichage rich snippets FAQ dans SERP
-- Probable : FAQPage déclaré 2× (global + local)
+**Démarrée le** : 2025-11-05  
+**Complétée le** : 2025-11-05  
+**Temps réel** : 45 min (vs 2-3h estimé) ⚡
 
-**Actions** :
-- [ ] Auditer les 11 sites (Search Console + Rich Results Test)
-- [ ] Identifier schémas JSON-LD en conflit (global vs local)
-- [ ] Corriger code (supprimer duplicate ou conditionner)
-- [ ] Sync 11 villes
-- [ ] Re-valider Rich Results Test
-- [ ] Demander réindexation Search Console (11 URLs `/faq`)
-- [ ] Documenter pattern correct pour futures pages FAQ
+**Root cause identifiée** :
+- ❌ FAQPage déclaré sur `/` (homepage - LocalMoneyFAQ)
+- ❌ FAQPage déclaré sur `/faq` (page dédiée)
+- = Duplicate détecté par Google (Lyon: 0 valid)
 
-**Villes à vérifier** : Nice, Lyon, Marseille, Toulouse, Bordeaux, Lille, Strasbourg, Nantes, Rennes, Rouen, Montpellier
+**Résultats** :
+- ✅ Homepage `/` → Question standalone (sans FAQPage)
+- ✅ Page `/faq` → FAQPage unique conservé
+- ✅ Sync 11 villes (11 fichiers modifiés)
+- ✅ Commit + push GitHub (SHA: `550654e0`)
 
-**Temps estimé** : 2-3h
+**Statut** : ✅ TECHNIQUE COMPLÉTÉ (attente indexation Google 3-7j)
 
-**Statut** : 📋 PENDING (après TASK-033)
+**⚠️ ACTION MANUELLE REQUISE** :
+Tu dois demander la réindexation sur Search Console (11 URLs `/faq`) :
+1. Search Console → Inspection de l'URL
+2. Tester `/faq` pour chaque ville
+3. Cliquer "Demander l'indexation"
+
+**URLs à réindexer** :
+- https://devis-demenageur-nice.fr/faq
+- https://devis-demenageur-lyon.fr/faq
+- https://devis-demenageur-marseille.fr/faq
+- https://devis-demenageur-toulouse.fr/faq
+- https://devis-demenageur-bordeaux.fr/faq
+- https://devis-demenageur-lille.fr/faq
+- https://devis-demenageur-strasbourg.fr/faq
+- https://devis-demenageur-nantes.fr/faq
+- https://devis-demenageur-rennes.fr/faq
+- https://devis-demenageur-rouen.fr/faq
+- https://devis-demenageur-montpellier.fr/faq
+
+**Next check** : 12/11/2025 (J+7) → Vérifier Search Console "FAQ valides" passé de 0→1
 
 ---
 
