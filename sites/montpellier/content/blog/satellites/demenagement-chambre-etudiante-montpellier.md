@@ -18,7 +18,7 @@ author: "Équipe Moverz Montpellier"
 # Déménagement Chambre Étudiante à Montpellier
 
 
-Pour comprendre tous les aspects du petit déménagement à Montpellier, consultez notre [guide petit déménagement Montpellier](/blog/demenagement-montpellier/petit-demenagement-montpellier).
+Pour comprendre tous les aspects du petit déménagement à Montpellier, consultez notre [guide petit déménagement Montpellier](/blog/petit-demenagement-montpellier/petit-demenagement-montpellier).
 
 
 Une chambre étudiante montpelliéraine (5-10m³) coûte 50-100€ en DIY total, 100-200€ en groupage, ou 150-350€ avec un déménageur professionnel. Le volume réduit (10-15 cartons + affaires personnelles) rend le DIY particulièrement adapté : une camionnette Kangou (40-60€/jour) et 1-2 amis suffisent pour un déménagement en 1-2h.

@@ -119,5 +119,5 @@ Si budget serré (étudiants) : avis Google = alternative pourboire appréciée.
 
 **Refuser si casse ?** Oui, pourboire récompense qualité. Casse/négligence = 0€ justifié.
 
-[Choisir déménageur qualité Strasbourg](/blog/demenagement-strasbourg/choisir-demenageur-strasbourg) critères évaluation service.
+[Choisir déménageur qualité Strasbourg](/blog/conseils/choisir-demenageur-strasbourg) critères évaluation service.
 

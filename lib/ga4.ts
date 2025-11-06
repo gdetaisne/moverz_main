@@ -27,3 +27,4 @@ export function event(name: string, params: Record<string, unknown> = {}): void 
   (window as any).gtag('event', name, { ...params, site: getSite() });
 }
 
+

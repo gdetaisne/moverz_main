@@ -73,7 +73,7 @@ Se concentrer uniquement sur le transport des affaires et oublier les démarches
 - Coupure d'électricité, gaz, internet
 - Problèmes d'assurance habitation
 - Difficultés bancaires (changement d'adresse)
-- Retard dans les [aides financières](/blog/demenagement-etudiant-bordeaux/aide-financiere-demenagement-etudiant)
+- Retard dans les [aides financières](/blog/conseils/aide-financiere-demenagement-etudiant)
 
 ### Comment l'éviter
 **Liste des formalités essentielles** :
@@ -213,4 +213,4 @@ Nous gérons toute l'organisation : emballage sécurisé, transport optimisé, e
 
 ---
 
-*Cet article complète notre [guide complet du déménagement étudiant à Bordeaux](/blog/demenagement-etudiant-bordeaux/guide-complet). Découvrez également nos conseils pour un [déménagement pas cher](/blog/demenagement-etudiant-bordeaux/demenagement-etudiant-pas-cher) et notre [checklist détaillée](/blog/demenagement-etudiant-bordeaux/checklist-demenagement-etudiant) pour ne rien oublier.*
+*Cet article complète notre [guide complet du déménagement étudiant à Bordeaux](/blog/demenagement-etudiant-bordeaux/guide-complet). Découvrez également nos conseils pour un [déménagement pas cher](/blog/conseils/demenagement-etudiant-pas-cher) et notre [checklist détaillée](/blog/conseils/checklist-demenagement-etudiant) pour ne rien oublier.*

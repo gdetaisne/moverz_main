@@ -22,19 +22,19 @@ featured: true
 Tous nos guides pour déménager un petit volume à Nantes :
 
 ### Prix Petits Logements
-- [Prix déménagement studio](/blog/petit-demenagement-nantes/demenagement-studio-nantes-prix) : Tarifs 2025
-- [Prix déménagement T1](/blog/petit-demenagement-nantes/demenagement-t1-nantes-prix) : Budget à prévoir
+- [Prix déménagement studio](/blog/conseils/demenagement-studio-nantes-prix) : Tarifs 2025
+- [Prix déménagement T1](/blog/conseils/demenagement-t1-nantes-prix) : Budget à prévoir
 
 ### Situations Spécifiques
-- [Déménager un meuble seul](/blog/petit-demenagement-nantes/demenagement-meuble-seul-nantes) : Canapé, armoire
-- [Équipement bébé](/blog/petit-demenagement-nantes/demenagement-equipement-bebe-nantes) : Lit, poussette
-- [Déménagement en colocation](/blog/petit-demenagement-nantes/demenagement-colocation-nantes) : Une chambre seulement
+- [Déménager un meuble seul](/blog/conseils/demenagement-meuble-seul-nantes) : Canapé, armoire
+- [Équipement bébé](/blog/conseils/demenagement-equipement-bebe-nantes) : Lit, poussette
+- [Déménagement en colocation](/blog/conseils/demenagement-colocation-nantes) : Une chambre seulement
 
 ### Solutions Pratiques
-- [Outils utiles](/blog/petit-demenagement-nantes/outils-utiles-petit-demenagement-nantes) : Équipement minimal
-- [DIY vs Professionnel](/blog/petit-demenagement-nantes/comparatif-diy-vs-professionnel-petit-demenagement-nantes) : Que choisir ?
-- [Petites distances](/blog/petit-demenagement-nantes/demenagement-petites-distances-nantes) : Dans Nantes
-- [Déménager sans cartons](/blog/petit-demenagement-nantes/demenagement-sans-carton-nantes) : Alternatives
+- [Outils utiles](/blog/conseils/outils-utiles-petit-demenagement-nantes) : Équipement minimal
+- [DIY vs Professionnel](/blog/conseils/comparatif-diy-vs-professionnel-petit-demenagement-nantes) : Que choisir ?
+- [Petites distances](/blog/conseils/demenagement-petites-distances-nantes) : Dans Nantes
+- [Déménager sans cartons](/blog/conseils/demenagement-sans-carton-nantes) : Alternatives
 
 
 Déménager un studio, un T1, ou simplement quelques meubles et cartons à Nantes nécessite des solutions adaptées aux petits volumes. Les formules de déménagement classiques sont souvent surdimensionnées et trop coûteuses pour ces situations. Ce guide complet vous présente toutes les options économiques et flexibles disponibles dans l'agglomération nantaise pour déménager efficacement vos petits volumes, que vous soyez étudiant, jeune actif, ou que vous n'ayez besoin de transporter que quelques objets volumineux.
@@ -139,7 +139,7 @@ Vous gérez entièrement l'emballage, le démontage/remontage des meubles, et vo
 - Studio/chambre (< 15 m³) : 150-280€
 - T1 (15-20 m³) : 250-400€
 
-Pour détailler ces fourchettes et comprendre les facteurs de variation, consultez notre [guide prix déménagement Nantes](/blog/demenagement-nantes/prix-demenagement-nantes-guide). Si vous envisagez le DIY complet, le [guide location camion Nantes](/blog/demenagement-nantes/location-camion-demenagement-nantes-guide) compare les coûts et contraintes.
+Pour détailler ces fourchettes et comprendre les facteurs de variation, consultez notre [guide prix déménagement Nantes](/blog/prix-demenagement-nantes/prix-demenagement-nantes-guide). Si vous envisagez le DIY complet, le [guide location camion Nantes](/blog/location-camion-demenagement-nantes/location-camion-demenagement-nantes-guide) compare les coûts et contraintes.
 
 **Ce qui est inclus** :
 - Fourgon adapté (6-14 m³)
@@ -441,8 +441,8 @@ Nantes, ville étudiante et dynamique, connaît un flux constant de petits dém�
 ## 🔗 Pour aller plus loin
 
 **Guides complémentaires utiles :**
-- [Location camion](/blog/demenagement-nantes/location-camion-demenagement-nantes-guide) : Utilitaire pour petit volume
-- [Déménagement économique](/blog/demenagement-nantes/demenagement-pas-cher-nantes-guide) : Optimiser les coûts
+- [Location camion](/blog/location-camion-demenagement-nantes/location-camion-demenagement-nantes-guide) : Utilitaire pour petit volume
+- [Déménagement économique](/blog/demenagement-pas-cher-nantes/demenagement-pas-cher-nantes-guide) : Optimiser les coûts
 ## FAQ : Petit Déménagement à Nantes
 
 ### Combien coûte un déménagement de studio à Nantes ?

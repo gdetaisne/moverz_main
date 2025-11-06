@@ -27,39 +27,37 @@
 
 ## 🔴 CRITIQUE URGENTE - Bug Multi-Sites
 
-### [P0]-TASK-056-header-toulouse-hardcoded-complet : Correction Toulouse Hardcodé Headers + CtaPrimary ⚡️⚡️⚡️
+### ✅ [P0]-TASK-056-header-toulouse-hardcoded-complet : Correction Toulouse Hardcodé Headers + CtaPrimary ⚡️⚡️⚡️
 
-**Statut** : 🔄 **EN COURS** (30min investi, Strasbourg corrigé)  
+**Statut** : ✅ **TERMINÉE** (06/11/2025)  
 **Priorité** : P0 (CRITIQUE - Tous sites cassés)  
-**Temps investi** : 30min  
-**Temps restant** : ~2h30  
+**Temps investi** : 3h  
 **Doc** : `.cursor/tasks/[P0]-TASK-056-header-toulouse-hardcoded-complet/`
 
-**Problème CRITIQUE** :
-- 🚨 **Tous les sites (11 villes) affichent "Toulouse"** au lieu de leur propre ville
-- Origine : Commits Lucie ce matin (`e18e6dfb`, `564e6e21`)
+**Problème résolu** :
+- 🚨 **Tous les sites (11 villes) affichaient "Toulouse"** au lieu de leur propre ville
+- Origine : Commits Lucie (`e18e6dfb`, `564e6e21`)
 - Impact : UX catastrophique + SEO cassé + Perte confiance
 
-**Corrections** :
-- ✅ Strasbourg Header.tsx corrigé (exemple)
-- ⏳ 10 Headers restants (nice, lyon, marseille, bordeaux, nantes, lille, rennes, rouen, montpellier, toulouse)
-- ⏳ 11 CtaPrimary.tsx (22 occurrences "Toulouse" à corriger)
+**Corrections appliquées** :
+- ✅ 11 Headers.tsx corrigés (dynamisation complète)
+- ✅ 11 CtaPrimary.tsx corrigés (22 occurrences "Toulouse")
+- ✅ 11 LocalMoneyFAQ.tsx corrigés (Nice hardcodé)
+- ✅ 11 ValueTriad.tsx corrigés (Nice hardcodé)
+- ✅ 11 Testimonials.tsx corrigés (quartiers Nice hardcodés)
+- ✅ 55 fichiers modifiés au total
+- ✅ 4 commits main + 33 commits sites individuels
+- ✅ Tous pushés sur GitHub + déploiements automatiques
 
-**Actions** :
-- [ ] Corriger 10 Headers restants (1h)
-- [ ] Corriger 11 CtaPrimary.tsx (1h)
-- [ ] Tests 2-3 villes (30min)
-- [ ] Commit + Deploy (30min)
-
-**À faire IMMÉDIATEMENT** avant toute autre tâche !
+**Résultat** : ✅ Tous les sites affichent maintenant leur propre ville dynamiquement
 
 ---
 
-## 🔴 PRIORITÉ ABSOLUE : 3 TÂCHES LEAD GENERATION (TOUTES P0)
+## 🔴 PRIORITÉ ABSOLUE : TÂCHES LEAD GENERATION (2/3 terminées)
 
-### [P0]-P0-LEADGEN-01-Metadata-ctr-optimisation-termine : Optimisation Metadata CTR ✅ FINALISÉ
+### ✅ [P0]-P0-LEADGEN-01-Metadata-ctr-optimisation-termine : Optimisation Metadata CTR
 
-**Statut** : ✅ **COMPLET** (06/01/2026)  
+**Statut** : ✅ **TERMINÉE** (06/01/2026)  
 **Priorité** : P0 (critique business)  
 **Temps investi** : 14h15min (code + tests + deployments 11 sites)  
 **ROI attendu** : CTR ×4-5 = +3-5 leads/mois = +150-750€/mois  
@@ -84,7 +82,7 @@
 
 ---
 
-### ✅ [P0]-P0-LEADGEN-02-404-indexation-boost-100% : Résolution 404 & Indexation ⚡️⚡️
+### ✅ [P0]-P0-LEADGEN-02-404-indexation-boost-100% : Résolution 404 & Indexation
 
 **Statut** : ✅ **TERMINÉE** (06/11/2025)  
 **Priorité** : P0 (critique business)  
@@ -92,30 +90,54 @@
 **Résultat** : 24 URLs corrigées, ~200 impressions récupérables  
 **Doc** : `.cursor/tasks/P0-LEADGEN-02-404-indexation-boost-404-task-en-attente/`
 
-**Objectif** :
-- Résoudre 26 erreurs 404 résiduelles (Lyon 31, Lille 28, Toulouse 19, etc.)
-- Investiguer Rennes 224 pages non indexées (126 erreurs 404 GSC)
-- Débloquer +250-350 pages pour indexation Google
-
-**Pourquoi P0** :
-- Pages non indexées = leads perdus
-- ROI direct sur génération leads
-- Complément essentiel à LEADGEN-01
-
-**Approche** :
-- Lyon : Créer 3 articles piliers manquants (80% résolution)
-- Lille/Toulouse : Redirections 301 catégories vides
-- Rennes : Export GSC → analyse patterns → redirections/création
+**Réalisations** :
+- ✅ Redirections 404 corrigées (Strasbourg, Toulouse, Rouen, Nice, Rennes, Lyon)
+- ✅ Metadata pages services corrigées (Strasbourg, Lyon)
+- ✅ 24 URLs corrigées au total
+- ✅ Tous les sites déployés
 
 ---
 
-### [P0]-P0-LEADGEN-03-Analytics-monitoring-ctr-termine : Monitoring & Optimisation CTR ⚡️
+### 🔄 [P0]-P0-LEADGEN-01-BIS-structured-data-rich-snippets-Metadata-task-pas-commence : Complément Structured Data Rich Snippets (Hors Blog) ⚡️⚡️⚡️
 
-**Statut** : 📋 PENDING (après LEADGEN-01)  
-**Priorité** : P0 (critique business)  
+**Statut** : 📋 PENDING  
+**Priorité** : P0 (critique business - complément LEADGEN-01)  
+**Temps estimé** : 8-10h (Phase 1 + Phase 2)  
+**ROI attendu** : CTR +15-25% pages services = +30-80 leads/mois = +1 500-12 000€/mois  
+**Doc** : `.cursor/tasks/P0-LEADGEN-01-BIS-structured-data-rich-snippets-Metadata-task-pas-commence/`
+
+**Objectif** :
+Compléter les structured data JSON-LD manquants sur pages services individuelles pour activer rich snippets Google.
+
+**Gaps identifiés** :
+1. BreadcrumbList JSON-LD manquant (33 pages services individuelles)
+2. Service schema JSON-LD manquant (33 pages services individuelles)
+3. FAQPage schema manquant (33 pages services individuelles)
+4. Organization logo carré à vérifier (11 villes)
+
+**Plan** :
+- **Phase 1** (2h30) : BreadcrumbList + vérif logo → +40-75 leads/mois
+- **Phase 2** (5-7h) : Service + FAQPage schemas → +45-80 leads/mois
+- **Phase 3** (4-5h) : OG images dynamiques (optionnel) → +20-40 leads/mois
+
+**Exclusions** :
+- ❌ Blog articles (hors scope, LEADGEN-04 couvrira)
+- ❌ AggregateRating (pas de notes réelles, seulement 2 avis Trustpilot)
+
+**Prochaine action** :
+```
+"Cursor, je démarre P0-LEADGEN-01-BIS-structured-data-rich-snippets-Metadata-task-pas-commence"
+```
+
+---
+
+### [P2]-P0-LEADGEN-03-Analytics-monitoring-ctr-termine : Monitoring & Optimisation CTR
+
+**Statut** : 📋 PENDING (Guillaume s'en charge)  
+**Priorité** : P2 (déprioritisé P0 → P2, Guillaume gère en interne)  
 **Temps estimé** : 1 jour setup + monitoring continu  
 **ROI** : Détection rapide problèmes + optimisation continue  
-**Doc** : `.cursor/tasks/P0-LEADGEN-03-Analytics-monitoring-ctr-termine/`
+**Doc** : `.cursor/tasks/P0-LEADGEN-03-monitoring-ctr-optimisation-Analytics-task-pas-commence/`
 
 **Objectif** :
 - Enrichir dashboard analytics (comparaison avant/après, drill-down URLs)
@@ -123,10 +145,7 @@
 - Baselines CTR documentées (par type page, par ville)
 - A/B testing tracker (optionnel)
 
-**Pourquoi P0** :
-- Nécessaire mesurer ROI LEADGEN-01/02
-- Alertes préviennent régressions critiques
-- Sans monitoring = navigation à l'aveugle
+**Note** : Guillaume gère cette tâche de son côté. Spécifications complètes disponibles dans `SPECIFICATIONS-DASHBOARD.md`.
 
 **Features** :
 1. Comparaison avant (05/11, CTR 0.56%) / après (J+7, J+14, J+30)
@@ -177,6 +196,39 @@
 
 
 ## 🟠 TÂCHES IMPORTANTES (P1 - Après LEADGEN-01)
+
+### 🔄 [P1]-P1-LEADGEN-04-metadata-articles-blog-Metadata-task-pas-commence : Optimisation Metadata Articles Blog ⚡️
+
+**Statut** : 🔄 **EN COURS** (Phase 1 - Test Manuel)  
+**Priorité** : P1 (Important - Impact CTR articles)  
+**Temps estimé** : 10-20h total (Phase 1: 2h, Phase 2: 5h si validé)  
+**Temps investi** : 2h30 (pré-travail) + 0h (Phase 1 démarrée)  
+**ROI** : CTR articles +60% = +1-2 leads/mois = +50-300€/mois  
+**Doc** : `.cursor/tasks/P1-LEADGEN-04-metadata-articles-blog-Metadata-task-pas-commence/`
+
+**Objectif** :
+Optimiser metadata de ~1031 articles blog (11 sites) pour améliorer CTR articles.
+
+**Pré-travail** : ✅ 100% complété
+- Audit structure complété (1031 articles)
+- Script test validé (80% succès)
+- Plan déploiement sécurisé (4 batches)
+- Backup automatique configuré
+
+**Phase 1 - Test Manuel** (EN COURS) :
+- Optimiser 20 articles piliers manuellement
+- Sites : Lyon, Nice, Bordeaux, Marseille (5 articles × 4 sites)
+- Temps : 2h
+- Mesure J+7 pour valider formule
+
+**Phase 2 - Automatisation** (Si Phase 1 validée) :
+- Script pour optimiser 1031 articles
+- Déploiement 4 batches progressifs (8 jours)
+- Temps : 5h
+
+**Plan session** : `PLAN-SESSION-06-01.md`
+
+---
 
 ### [P1]-P1-047-Wording-offre-refonte-termine : Refonte Wording Offre Moverz 💬
 
@@ -269,10 +321,10 @@ Aligner wording site (home, services, FAQ, CTA) avec vrais USP Moverz.
 **Temps** : 5 min  
 **Reprendre** : Quand temps libre après LEADGEN
 
-### P0-046-SERP-favicon-logo-en-pause : Logo SERP / Favicons
-**Statut** : ⏸️ EN PAUSE  
-**Raison** : Impact CTR marginal (+5-10%) vs metadata (+400%)  
-**Reprendre** : Après LEADGEN-01 validé
+### [P2]-P0-046-SERP-favicon-logo-en-pause : Logo SERP / Favicons
+**Statut** : ⏸️ EN PAUSE (déprioritisé P0 → P2)  
+**Raison** : Impact CTR marginal (+5-10%) vs metadata (+400%). ROI optimal si fait APRÈS LEADGEN-01 (multiplicateur ×8)  
+**Reprendre** : Après LEADGEN-01 validé (J+14-30)
 
 ### P1-041-SEO-price-signals-pas-commence : Price signals
 **Statut** : 📋 PENDING (P2)  

@@ -19,7 +19,7 @@ L'**assurance piano déménagement** nécessite **couverture tous risques 100k�
 
 À Lille, les **sinistres piano** transport sont **rares 2-3%** (vs déménagements standards 5-8%) grâce expertise spécialistes mais coûteux si surviennent : chute escaliers (casse totale, espérance 3% × 15k€ = 450€ vs piano intact 97%), rayures transport (légères réparables 500-1 500€ 1-2% fréquence = 10-30€ espérance), dégâts mécaniques vibrations (cordes désaccordées 80-120€ accordage obligatoire 100% pianos vs casse cordes 300-800€ rare 0,5%), vol camion (rarissime 0,1% camions surveillés). L'**assurance dédiée piano** (compagnies spécialisées Hiscox, AXA Art proposent pianos haute valeur >30k€) coûte **1-2% valeur/an** (piano 40k€ = 400-800€/an prime) vs assurance déménagement ponctuelle incluse spécialistes 0€ supplémentaire (intégrée forfait 600-1 200€). Les **exclusions** : usure normale (cordes vieillies, feutres usés = pas transport), défaut pré-existant (fissure chevalet antérieure cachée = refus indemnisation), emballage insuffisant (propriétaire emballe amateur vs spécialiste pro = responsabilité propriétaire).
 
-Ce guide détaille assurance piano déménagement : couverture tous risques 100k€, franchise, RC pro limites, sinistres fréquence, assurance dédiée, exclusions. Consultez notre [guide déménagement piano Lille](/blog/demenagement-piano-lille/demenagement-piano-lille-prix).
+Ce guide détaille assurance piano déménagement : couverture tous risques 100k€, franchise, RC pro limites, sinistres fréquence, assurance dédiée, exclusions. Consultez notre [guide déménagement piano Lille](/blog/conseils/demenagement-piano-lille-prix).
 
 ## Assurance Tous Risques Piano 100k€
 
@@ -195,7 +195,7 @@ Comparaison spécialiste vs généraliste assurance : spécialiste Monte-Piano 1
 
 Vérification avant déménagement : demandez attestation assurance (document officiel compagnie MMA/Allianz/Generali, validité date couverture active, montant garantie 100k€ minimum, franchise 300-500€, objets précieux clause limites vérifiez >20k€ couverts), conditions générales (exclusions usure/défaut/emballage, procédure déclaration sinistre 48-72h, délai indemnisation 30-60j), références sinistres (si spécialiste 150+ pianos/an, demandez gestion sinistres précédents réactivité).
 
-Consultez notre [guide déménagement piano Lille](/blog/demenagement-piano-lille/demenagement-piano-lille-prix), notre [guide spécialistes](/blog/demenagement-piano-lille/specialistes-piano-lille), notre [guide droit vs queue](/blog/demenagement-piano-lille/piano-droit-queue-transport-differences) et notre [guide monte-piano](/blog/demenagement-piano-lille/monte-piano-specialiste-lille).
+Consultez notre [guide déménagement piano Lille](/blog/conseils/demenagement-piano-lille-prix), notre [guide spécialistes](/blog/conseils/specialistes-piano-lille), notre [guide droit vs queue](/blog/conseils/piano-droit-queue-transport-differences) et notre [guide monte-piano](/blog/conseils/monte-piano-specialiste-lille).
 
 
 

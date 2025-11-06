@@ -19,7 +19,7 @@ author: "Équipe Moverz Montpellier"
 # Déménagement Outre-Mer Depuis Montpellier : DOM-TOM Guide 2025
 
 
-Pour comprendre tous les aspects du déménagement international Montpellier, consultez notre [guide déménagement international depuis Montpellier](/blog/demenagement-montpellier/demenagement-international-montpellier).
+Pour comprendre tous les aspects du déménagement international Montpellier, consultez notre [guide déménagement international depuis Montpellier](/blog/demenagement-international-montpellier/demenagement-international-montpellier).
 
 
 Déménager vers les départements et territoires d'outre-mer depuis Montpellier coûte entre 3 000€ et 8 000€ selon le volume et la destination, avec des délais maritimes de 6 à 10 semaines. Martinique, Guadeloupe, Réunion, Guyane et Nouvelle-Calédonie représentent les destinations principales pour les Montpelliérains mutés professionnellement ou cherchant une nouvelle vie sous les tropiques.

@@ -22,26 +22,26 @@ featured: true
 Découvrez nos guides spécialisés pour réduire le coût de votre déménagement à Nantes :
 
 ### Prix et Comparatifs
-- [Prix déménagement pas cher Nantes 2025](/blog/demenagement-pas-cher-nantes/prix-demenagement-pas-cher-nantes-2025) : Tarifs réels et fourchettes
-- [Astuces pour réduire les coûts](/blog/demenagement-pas-cher-nantes/astuces-reduire-cout-demenagement-nantes) : 10 conseils pratiques
-- [Comparatif des formules économiques](/blog/demenagement-pas-cher-nantes/comparatif-formules-economiques-demenagement-nantes) : Quelle option choisir ?
-- [Formule économique vs standard](/blog/demenagement-pas-cher-nantes/demenagement-economique-vs-standard-nantes) : Différences et choix
+- [Prix déménagement pas cher Nantes 2025](/blog/conseils/prix-demenagement-pas-cher-nantes-2025) : Tarifs réels et fourchettes
+- [Astuces pour réduire les coûts](/blog/conseils/astuces-reduire-cout-demenagement-nantes) : 10 conseils pratiques
+- [Comparatif des formules économiques](/blog/conseils/comparatif-formules-economiques-demenagement-nantes) : Quelle option choisir ?
+- [Formule économique vs standard](/blog/conseils/demenagement-economique-vs-standard-nantes) : Différences et choix
 
 ### Optimiser le Budget
-- [Déménager en basse saison](/blog/demenagement-pas-cher-nantes/basse-saison-demenagement-nantes-economies) : Économisez 20-30%
-- [Semaine vs Week-end](/blog/demenagement-pas-cher-nantes/demenagement-semaine-weekend-nantes-prix) : Quel jour est moins cher ?
-- [Où trouver des cartons gratuits](/blog/demenagement-pas-cher-nantes/cartons-gratuits-nantes-demenagement) : Points de collecte
-- [Emballage DIY](/blog/petit-demenagement-nantes/emballage-diy-demenagement-nantes) : Techniques économiques
+- [Déménager en basse saison](/blog/conseils/basse-saison-demenagement-nantes-economies) : Économisez 20-30%
+- [Semaine vs Week-end](/blog/conseils/demenagement-semaine-weekend-nantes-prix) : Quel jour est moins cher ?
+- [Où trouver des cartons gratuits](/blog/conseils/cartons-gratuits-nantes-demenagement) : Points de collecte
+- [Emballage DIY](/blog/conseils/emballage-diy-demenagement-nantes) : Techniques économiques
 
 ### Solutions DIY
-- [Déménager soi-même avec location utilitaire](/blog/demenagement-pas-cher-nantes/demenager-soi-meme-nantes-location-utilitaire) : Guide complet
+- [Déménager soi-même avec location utilitaire](/blog/conseils/demenager-soi-meme-nantes-location-utilitaire) : Guide complet
 
 ### Étudiants
-- [Déménagement étudiant pas cher](/blog/demenagement-pas-cher-nantes/demenagement-etudiant-pas-cher-nantes) : Solutions adaptées
-- [Astuces déménagement étudiant](/blog/petit-demenagement-nantes/demenagement-etudiant-nantes-astuces) : Conseils pratiques
+- [Déménagement étudiant pas cher](/blog/conseils/demenagement-etudiant-pas-cher-nantes) : Solutions adaptées
+- [Astuces déménagement étudiant](/blog/conseils/demenagement-etudiant-nantes-astuces) : Conseils pratiques
 
 ### Situations Spécifiques
-- [Déménagement dernière minute](/blog/petit-demenagement-nantes/demenagement-derniere-minute-nantes) : Solutions d'urgence
+- [Déménagement dernière minute](/blog/conseils/demenagement-derniere-minute-nantes) : Solutions d'urgence
 
 
 Déménager à Nantes ou dans l'agglomération nantaise représente un investissement financier important. Entre la location du camion, les cartons, le nouveau dépôt de garantie et les frais annexes, la facture grimpe vite. Pourtant, il existe de nombreuses solutions pour réaliser un déménagement économique sans sacrifier la qualité ni la sécurité de vos biens. Ce guide complet vous dévoile toutes les astuces pour déménager à petit prix à Nantes, que vous soyez étudiant, jeune actif ou famille avec un budget serré.
@@ -156,7 +156,7 @@ Le déménagement participatif avec vos proches est la solution la plus économi
 
 ### Louez uniquement le camion (sans déménageur)
 
-La location d'utilitaire représente la dépense principale d'un déménagement économique, mais reste bien inférieure au coût d'un déménageur complet. Consultez notre [guide location camion Nantes](/blog/demenagement-nantes/location-camion-demenagement-nantes-guide) pour tous les détails : où louer, quel volume choisir, et comment économiser sur la location.
+La location d'utilitaire représente la dépense principale d'un déménagement économique, mais reste bien inférieure au coût d'un déménageur complet. Consultez notre [guide location camion Nantes](/blog/location-camion-demenagement-nantes/location-camion-demenagement-nantes-guide) pour tous les détails : où louer, quel volume choisir, et comment économiser sur la location.
 
 **Prix location de camion à Nantes (2025)** :
 - Fourgon 6-9 m³ : 50-80€/jour (idéal studio)
@@ -217,11 +217,11 @@ Les entreprises de déménagement nantaises proposent des formules "économiques
 - T2 : 700-1 100€
 - T3 : 1 200-1 800€
 
-**Pour qui** : Personnes seules, couples sans réseau familial proche, ou ceux qui valorisent leur temps libre. Cette formule reste 30-40% moins chère qu'un service complet. Pour plus de détails sur les fourchettes tarifaires, consultez notre [guide des prix de déménagement à Nantes](/blog/demenagement-nantes/prix-demenagement-nantes-guide).
+**Pour qui** : Personnes seules, couples sans réseau familial proche, ou ceux qui valorisent leur temps libre. Cette formule reste 30-40% moins chère qu'un service complet. Pour plus de détails sur les fourchettes tarifaires, consultez notre [guide des prix de déménagement à Nantes](/blog/prix-demenagement-nantes/prix-demenagement-nantes-guide).
 
 ### Déménagement en groupage
 
-Le groupage consiste à partager un camion avec d'autres clients allant dans la même direction. Cette solution est surtout intéressante pour les **déménagements longue distance** (Nantes vers Paris, Nantes vers Lyon, Nantes vers Bordeaux). Entre deux logements, envisagez un [garde-meuble temporaire à Nantes](/blog/demenagement-nantes/garde-meuble-nantes-guide) pour éviter le double loyer pendant la transition.
+Le groupage consiste à partager un camion avec d'autres clients allant dans la même direction. Cette solution est surtout intéressante pour les **déménagements longue distance** (Nantes vers Paris, Nantes vers Lyon, Nantes vers Bordeaux). Entre deux logements, envisagez un [garde-meuble temporaire à Nantes](/blog/garde-meuble-nantes/garde-meuble-nantes-guide) pour éviter le double loyer pendant la transition.
 
 **Fonctionnement** :
 - Le déménageur charge vos affaires avec celles d'autres clients
@@ -391,9 +391,9 @@ Rappelez-vous qu'un déménagement économique n'est pas synonyme de déménagem
 ## 🔗 Pour aller plus loin
 
 **Guides complémentaires utiles :**
-- [Aide déménagement particuliers](/blog/demenagement-nantes/aide-demenagement-nantes-guide) : Économiser avec de l'aide
-- [Location camion déménagement](/blog/demenagement-nantes/location-camion-demenagement-nantes-guide) : Louer un utilitaire
-- [Petit déménagement](/blog/demenagement-nantes/petit-demenagement-nantes-guide) : Petits volumes = petits prix
+- [Aide déménagement particuliers](/blog/aide-demenagement-nantes/aide-demenagement-nantes-guide) : Économiser avec de l'aide
+- [Location camion déménagement](/blog/location-camion-demenagement-nantes/location-camion-demenagement-nantes-guide) : Louer un utilitaire
+- [Petit déménagement](/blog/petit-demenagement-nantes/petit-demenagement-nantes-guide) : Petits volumes = petits prix
 ## FAQ : Déménagement Pas Cher à Nantes
 
 ### Quel est le moyen le moins cher pour déménager à Nantes ?

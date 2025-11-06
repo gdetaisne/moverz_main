@@ -54,7 +54,7 @@ Les conditions de stockage (hygrométrie, température, ventilation) peuvent ég
 
 La hauteur sous plafond et l'accessibilité (ascenseur, rampe de chargement) sont également des facteurs de prix. Les box facilement accessibles et de grande hauteur permettent une optimisation de l'espace, justifiant des tarifs légèrement plus élevés.
 
-## Les options de paiement et les [frais cachés](/blog/prix-demenagement-bordeaux/frais-caches-demenagement-bordeaux)
+## Les options de paiement et les [frais cachés](/blog/conseils/frais-caches-demenagement-bordeaux)
 
 Attention aux frais cachés qui peuvent alourdir votre facture. Les frais d'inscription, de dossier ou de réservation peuvent représenter 50 à 100 euros en une seule fois. Certains prestataires facturent également des frais de clés ou d'accès supplémentaires.
 

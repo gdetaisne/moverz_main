@@ -58,7 +58,7 @@ La négociation des tarifs reste possible, particulièrement pour les engagement
 
 Pour choisir votre garde-meuble, privilégiez les installations proches de votre nouveau domicile. La proximité réduit les frais de transport et facilite l'accès à vos biens. Vérifiez la qualité des installations, notamment la climatisation et la sécurité.
 
-Lisez attentivement les conditions générales, particulièrement les clauses d'assurance et de responsabilité. Certains contrats incluent des [frais cachés](/blog/prix-demenagement-bordeaux/frais-caches-demenagement-bordeaux) ou des conditions restrictives. Un garde-meuble sérieux propose des conditions claires et transparentes.
+Lisez attentivement les conditions générales, particulièrement les clauses d'assurance et de responsabilité. Certains contrats incluent des [frais cachés](/blog/conseils/frais-caches-demenagement-bordeaux) ou des conditions restrictives. Un garde-meuble sérieux propose des conditions claires et transparentes.
 
 ## Les spécificités des quartiers bordelais
 
@@ -72,7 +72,7 @@ Une bonne préparation permet d'optimiser l'utilisation de votre garde-meuble et
 
 Emballez soigneusement vos affaires pour les protéger pendant le stockage. Les déménageurs facturent souvent des suppléments pour les objets mal protégés qui nécessitent une manipulation particulière. Un bon emballage préventif vous évite ces surcoûts et protège vos biens.
 
-## Les [aides financières](/blog/demenagement-etudiant-bordeaux/aide-financiere-demenagement-etudiant) disponibles
+## Les [aides financières](/blog/conseils/aide-financiere-demenagement-etudiant) disponibles
 
 Certaines situations peuvent bénéficier d'aides financières pour le garde-meuble. La CAF propose parfois des aides au stockage temporaire pour les familles modestes. Renseignez-vous auprès de votre centre CAF pour connaître les conditions d'éligibilité et les montants disponibles.
 

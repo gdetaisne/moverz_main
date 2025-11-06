@@ -32,7 +32,7 @@ Lyon accueille chaque année 170 000 étudiants répartis entre Lyon 1, Lyon 2, 
 
 Les quartiers étudiants lyonnais se concentrent principalement autour de Jean Macé (7ème arrondissement), de la Guillotière (7ème), de Villeurbanne Gratte-Ciel, et de Bron-Parilly proche des campus universitaires. Ces secteurs offrent des loyers plus abordables que le centre historique (Presqu'île, Vieux-Lyon), avec une bonne desserte en transports en commun (métro B ligne Jean Macé, métro A ligne Villeurbanne, tram T1/T4 vers campus). Un studio étudiant dans ces quartiers coûte 400-500€ en formule économique à déménager, contre 150-200€ en DIY complet (location camion 12m³ + aide amis), soit une économie substantielle mais qui demande organisation et effort physique.
 
-Ce guide détaille les solutions de déménagement adaptées aux budgets étudiants lyonnais, présente les quartiers les plus accessibles, révèle les aides financières méconnues (CROUS, CAF, universités), et donne les astuces pour éviter les surcoûts de la rentrée universitaire. Pour compléter, consultez [notre guide complet du déménagement économique à Lyon](/blog/demenagement-lyon-pas-cher/demenagement-lyon-pas-cher-guide-complet) avec toutes les options pour maîtriser votre budget.
+Ce guide détaille les solutions de déménagement adaptées aux budgets étudiants lyonnais, présente les quartiers les plus accessibles, révèle les aides financières méconnues (CROUS, CAF, universités), et donne les astuces pour éviter les surcoûts de la rentrée universitaire. Pour compléter, consultez [notre guide complet du déménagement économique à Lyon](/blog/pas-cher/demenagement-lyon-pas-cher-guide) avec toutes les options pour maîtriser votre budget.
 
 ## Prix Déménagement Étudiant Lyon 2025
 
@@ -188,7 +188,7 @@ Les 170 000 étudiants lyonnais déménagent massivement entre le 20 août et le
 
 **Déménager mi-juillet ou mi-septembre** : Si vos dates d'entrée dans le logement sont flexibles, privilégiez mi-juillet (après examens, avant rush août) ou mi-septembre (après rentrée, apaisement demande). Tarifs standards, disponibilité immédiate, moins de stress. Économie : 100-200€ sur studio.
 
-**Réserver dès mi-juillet** : Si déménagement fin août inévitable (bail commence 1er septembre), réservez déménageur ou camion location dès mi-juillet (6 semaines avant). Vous bénéficiez encore des tarifs standards et de la disponibilité. Pensez à notre [guide des prix déménagement pas cher Lyon 2025](/blog/demenagement-lyon-pas-cher/prix-demenagement-pas-cher-lyon-2025) pour anticiper les coûts.
+**Réserver dès mi-juillet** : Si déménagement fin août inévitable (bail commence 1er septembre), réservez déménageur ou camion location dès mi-juillet (6 semaines avant). Vous bénéficiez encore des tarifs standards et de la disponibilité. Pensez à notre [guide des prix déménagement pas cher Lyon 2025](/blog/conseils/prix-demenagement-pas-cher-lyon-2025) pour anticiper les coûts.
 
 **Déménager en semaine** : Les mardi-mercredi-jeudi fin août sont moins demandés que les week-ends. Tarifs inférieurs de 5-10%, disponibilité meilleure. Si votre emploi du temps le permet (pas encore de cours), privilégiez ces jours.
 
@@ -248,7 +248,7 @@ Déménager à Lyon en tant qu'étudiant avec un budget serré exige anticipatio
 
 Les aides financières (CROUS 200-300€, universités 100-400€, Mobili-Pass alternants 3500€) couvrent partiellement les frais si vous êtes éligible. Le timing joue un rôle crucial : éviter fin août économise 100-200€ et évite le stress de la saturation. Les 170 000 étudiants lyonnais qui déménagent chaque année ont compris l'importance d'anticiper mi-juillet pour bénéficier des meilleurs tarifs et de la disponibilité.
 
-Pour compléter votre préparation, consultez [notre guide complet du déménagement économique à Lyon](/blog/demenagement-lyon-pas-cher/demenagement-lyon-pas-cher-guide-complet) avec toutes les astuces pour maîtriser votre budget. Explorez aussi [les aides financières déménagement Lyon](/blog/demenagement-lyon-pas-cher/aides-financieres-demenagement-lyon) pour maximiser vos chances d'obtenir un soutien. Bon déménagement et bonne rentrée à Lyon !
+Pour compléter votre préparation, consultez [notre guide complet du déménagement économique à Lyon](/blog/pas-cher/demenagement-lyon-pas-cher-guide) avec toutes les astuces pour maîtriser votre budget. Explorez aussi [les aides financières déménagement Lyon](/blog/pas-cher/aides-financieres-demenagement-lyon) pour maximiser vos chances d'obtenir un soutien. Bon déménagement et bonne rentrée à Lyon !
 
 ---
 

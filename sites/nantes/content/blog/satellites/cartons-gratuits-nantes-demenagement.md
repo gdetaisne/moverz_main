@@ -11,7 +11,7 @@ publish_date: "2025-02-15"
 author: "Équipe Moverz Nantes"
 ---
 
-Acheter 30 cartons neufs de déménagement : 60-90€ (2-3€ pièce selon taille). Pour un budget déménagement déjà serré (600€ formule économique T2 à Nantes), économiser ces 60-90€ permet de financer autre chose : location diable (10€), assurance transport (25€), ou simplement alléger la facture finale. Bonne nouvelle : Nantes regorge de sources de cartons gratuits, solides et propres. Pour une vue d'ensemble complète, consultez notre [guide déménagement pas cher à Nantes](/blog/demenagement-nantes/demenagement-pas-cher-nantes-guide).
+Acheter 30 cartons neufs de déménagement : 60-90€ (2-3€ pièce selon taille). Pour un budget déménagement déjà serré (600€ formule économique T2 à Nantes), économiser ces 60-90€ permet de financer autre chose : location diable (10€), assurance transport (25€), ou simplement alléger la facture finale. Bonne nouvelle : Nantes regorge de sources de cartons gratuits, solides et propres. Pour une vue d'ensemble complète, consultez notre [guide déménagement pas cher à Nantes](/blog/demenagement-pas-cher-nantes/demenagement-pas-cher-nantes-guide).
 
 Supermarchés Leclerc Paridis, Carrefour Atlantis et Auchan Nantes donnent quotidiennement dizaines de cartons (bananes, conserves, produits frais). Pharmacies du centre-ville accumulent cartons médicaments propres et résistants. Librairies Bouffay et Graslin se débarrassent de cartons livres, parfaitement dimensionnés pour vos propres livres. Les groupes Facebook "Nantes Gratuit" et "Déménagement Nantes Entraide" proposent régulièrement des cartons post-déménagement, livrables parfois.
 
@@ -110,7 +110,7 @@ Le timing optimal : démarrez 2-3 semaines avant votre déménagement, récupér
 Nos recommandations finales Nantes : privilégiez Leclerc Paridis (accessible centre, parking, stock élevé) et Carrefour Atlantis (volume maximal si véhicule), complétez avec pharmacies Graslin/Bouffay (propreté garantie), et guettez Facebook "Nantes Gratuit" (opportunités 30-50 cartons homogènes). Refusez cartons humides/sales/déchirés (pas d'économie si vos affaires abîmées), et acceptez la limite tailles dépareillées (perte 15-20% espace camion vs uniformité neufs, mais économie 60-90€ compense largement).
 
 
-Pour aller plus loin, explorez notre [guide déménagement pas cher à Nantes](/blog/demenagement-nantes/demenagement-pas-cher-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement pas cher 2025](/blog/demenagement-pas-cher-nantes/prix-demenagement-pas-cher-nantes-2025) et [astuces pour réduire les coûts](/blog/demenagement-pas-cher-nantes/astuces-reduire-cout-demenagement-nantes).
+Pour aller plus loin, explorez notre [guide déménagement pas cher à Nantes](/blog/demenagement-pas-cher-nantes/demenagement-pas-cher-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement pas cher 2025](/blog/conseils/prix-demenagement-pas-cher-nantes-2025) et [astuces pour réduire les coûts](/blog/conseils/astuces-reduire-cout-demenagement-nantes).
 
 ## Questions Fréquentes
 

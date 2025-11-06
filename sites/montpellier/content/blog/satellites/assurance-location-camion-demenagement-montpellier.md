@@ -18,7 +18,7 @@ author: "Équipe Moverz Montpellier"
 # Assurance Location Camion Déménagement à Montpellier
 
 
-Pour comprendre tous les aspects du location camion déménagement Montpellier, consultez notre [guide location camion déménagement à Montpellier](/blog/demenagement-montpellier/location-camion-demenagement-montpellier).
+Pour comprendre tous les aspects du location camion déménagement Montpellier, consultez notre [guide location camion déménagement à Montpellier](/blog/location-camion-demenagement-montpellier/location-camion-demenagement-montpellier).
 
 
 L'assurance base (incluse prix) couvre responsabilité civile mais laisse franchise élevée (800-1 500€) en cas dommages camion. Assurance tous risques optionnelle (+12-25€/jour) réduit franchise à 0-300€. Certaines cartes bancaires premium (Gold, Platinum) couvrent locations utilitaires (vérifier conditions avant refuser assurance loueur).
@@ -33,7 +33,7 @@ Montpelliérains conduisant prudemment (pas Écusson étroit si inexpérimentés
 
 ### La carte bancaire couvre-t-elle la location ?
 
-Certaines **cartes premium** (Gold, Platinum) couvrent locations utilitaires : franchise réduite, plafonds 5 000-15 000€. **Vérifiez avant** : appeler banque, conditions précises (PTAC < 3,5t, durée max 30j, exclusions pays). Si couverture OK : économisez assurance loueur 12-25€/jour. Si doute : prenez assurance loueur (sécurité). Consultez notre [guide location Montpellier](/blog/demenagement-montpellier/location-camion-demenagement-montpellier).
+Certaines **cartes premium** (Gold, Platinum) couvrent locations utilitaires : franchise réduite, plafonds 5 000-15 000€. **Vérifiez avant** : appeler banque, conditions précises (PTAC < 3,5t, durée max 30j, exclusions pays). Si couverture OK : économisez assurance loueur 12-25€/jour. Si doute : prenez assurance loueur (sécurité). Consultez notre [guide location Montpellier](/blog/location-camion-demenagement-montpellier/location-camion-demenagement-montpellier).
 
 ---
 

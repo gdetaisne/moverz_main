@@ -19,7 +19,7 @@ Les **spécialistes piano Lille** (5-8 entreprises métropole dédiées exclusiv
 
 À Lille, les **200-300 déménagements piano/an** se répartissent : spécialistes **65-75%** (130-225 missions, droits étages 40-50%, queues tous types 25-30%, Vieux-Lille contraintes 15-20%, cas complexes exclusifs), généralistes **25-35%** (50-105 missions, droits RDC périphérie Lomme/Fives uniquement, quartiers faciles, refus systématique queues/étages/Centre). Le **choix spécialiste vs généraliste** : spécialiste si **queue** (obligatoire expertise), **étages** >2ème sans ascenseur (monte-piano propre inclus vs généraliste loue externe surcoût), **Vieux-Lille** (accès maîtrisés), **valeur** >15k€ (assurance 100k€ vs 50k€), généraliste si **droit RDC** périphérie accessible (économie potentielle -10-15% si tarifs négociés vs spécialiste marché). Les **critères sélection** : expérience vérifiable (100+ pianos/an minimum fiabilité, vs <10 missions amateur), matériel propre (monte-piano, chariots, sangles piano spécifiques vs location ponctuelle), assurance vérifiée (attestation 100k€ objets valeur >20k€ couverts, franchise 300-500€), avis clients (≥4,5/5, 50+ avis pianos spécifiquement vs avis mixtes), formation équipe (stages transport piano CNFPT Centre National Fonction Publique Territoriale ou privés, techniques portage/démontage vs autodidacte).
 
-Ce guide compare spécialistes vs généralistes piano Lille : expertise, matériel, tarifs, avis, refus, critères choix, acteurs. Consultez notre [guide déménagement piano Lille](/blog/demenagement-piano-lille/demenagement-piano-lille-prix).
+Ce guide compare spécialistes vs généralistes piano Lille : expertise, matériel, tarifs, avis, refus, critères choix, acteurs. Consultez notre [guide déménagement piano Lille](/blog/conseils/demenagement-piano-lille-prix).
 
 ## Spécialistes Piano Lille
 
@@ -198,7 +198,7 @@ Critères sélection spécialiste : **expérience vérifiable** (≥100 pianos/a
 
 Statistiques Monte-Piano Lille : 60-70% droits (Yamaha U1/U3 Kawai K-300 particuliers 8-15k€), 25-30% queues 1/4-1/2 (pianistes pros, écoles, 15-40k€), 5-10% queues 3/4 + demi-queues + concerts (salles Conservatoire, valeur 40-150k€). Hauteurs : 2ème 40% missions, 3ème 35%, 4ème 20%, 5ème 5%. Refus : >16m hauteur (grue nécessaire 800-1 500€ hors compétence), façades totalement inaccessibles (rues piétonnes camion interdit Vieux-Lille cœur, pas autorisation mairie), météo extrême (vent >40 km/h, pluie forte endommagerait piano extérieur 2 min élévation).
 
-Consultez notre [guide déménagement piano Lille](/blog/demenagement-piano-lille/demenagement-piano-lille-prix), notre [guide monte-piano](/blog/demenagement-piano-lille/monte-piano-specialiste-lille), notre [guide droit vs queue](/blog/demenagement-piano-lille/piano-droit-queue-transport-differences) et notre [guide assurance](/blog/demenagement-piano-lille/assurance-piano-demenagement-lille).
+Consultez notre [guide déménagement piano Lille](/blog/conseils/demenagement-piano-lille-prix), notre [guide monte-piano](/blog/conseils/monte-piano-specialiste-lille), notre [guide droit vs queue](/blog/conseils/piano-droit-queue-transport-differences) et notre [guide assurance](/blog/conseils/assurance-piano-demenagement-lille).
 
 
 

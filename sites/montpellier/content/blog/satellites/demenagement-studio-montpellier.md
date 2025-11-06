@@ -18,7 +18,7 @@ author: "Équipe Moverz Montpellier"
 # Déménagement Studio à Montpellier : Prix et Options 2025
 
 
-Pour comprendre tous les aspects du petit déménagement à Montpellier, consultez notre [guide petit déménagement Montpellier](/blog/demenagement-montpellier/petit-demenagement-montpellier).
+Pour comprendre tous les aspects du petit déménagement à Montpellier, consultez notre [guide petit déménagement Montpellier](/blog/petit-demenagement-montpellier/petit-demenagement-montpellier).
 
 
 Déménager un studio montpelliérain (15-20m³) coûte entre 80€ en DIY total et 500€ en service clé en main professionnel. La formule intermédiaire économique (transport seul) à 250-350€ représente le meilleur compromis pour la majorité des cas.

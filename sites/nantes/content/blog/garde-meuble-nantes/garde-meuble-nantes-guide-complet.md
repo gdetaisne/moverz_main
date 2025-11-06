@@ -26,24 +26,24 @@ Que vous soyez en plein déménagement, en travaux dans votre logement, ou simpl
 Pour approfondir chaque aspect du stockage à Nantes, consultez nos guides spécialisés :
 
 ### Prix et Tarifs
-- [Prix garde-meuble Nantes 2025](/blog/garde-meuble-nantes/prix-garde-meuble-nantes-2025) : Tarifs détaillés de 22€ à 167€/mois
-- [Garde-meuble pas cher à Nantes](/blog/garde-meuble-nantes/garde-meuble-pas-cher-nantes) : Astuces pour économiser
+- [Prix garde-meuble Nantes 2025](/blog/conseils/prix-garde-meuble-nantes-2025) : Tarifs détaillés de 22€ à 167€/mois
+- [Garde-meuble pas cher à Nantes](/blog/conseils/garde-meuble-pas-cher-nantes) : Astuces pour économiser
 
 ### Choisir son Box
-- [Choisir la taille de son box de stockage](/blog/garde-meuble-nantes/choisir-taille-box-stockage-nantes) : Guide des dimensions adaptées
-- [Centre-ville vs Périphérie](/blog/garde-meuble-nantes/garde-meuble-centre-nantes-peripherie) : Où louer à Nantes ?
-- [Garde-meuble vs Self-stockage](/blog/garde-meuble-nantes/garde-meuble-vs-self-stockage-nantes) : Quelle différence ?
+- [Choisir la taille de son box de stockage](/blog/conseils/choisir-taille-box-stockage-nantes) : Guide des dimensions adaptées
+- [Centre-ville vs Périphérie](/blog/conseils/garde-meuble-centre-nantes-peripherie) : Où louer à Nantes ?
+- [Garde-meuble vs Self-stockage](/blog/conseils/garde-meuble-vs-self-stockage-nantes) : Quelle différence ?
 
 ### Durée et Contrats
-- [Durée minimum de location](/blog/garde-meuble-nantes/duree-minimum-garde-meuble-nantes) : Flexibilité des contrats
-- [Garde-meuble courte durée](/blog/petit-demenagement-nantes/garde-meuble-courte-duree-nantes) : Solutions temporaires
+- [Durée minimum de location](/blog/conseils/duree-minimum-garde-meuble-nantes) : Flexibilité des contrats
+- [Garde-meuble courte durée](/blog/conseils/garde-meuble-courte-duree-nantes) : Solutions temporaires
 
 ### Accès et Services
-- [Accès et horaires](/blog/garde-meuble-nantes/acces-garde-meuble-nantes-horaires) : 24/7 ou limité ?
-- [Assurance garde-meuble](/blog/garde-meuble-nantes/assurance-garde-meuble-nantes-obligatoire) : Protection obligatoire ?
+- [Accès et horaires](/blog/conseils/acces-garde-meuble-nantes-horaires) : 24/7 ou limité ?
+- [Assurance garde-meuble](/blog/conseils/assurance-garde-meuble-nantes-obligatoire) : Protection obligatoire ?
 
 ### Solutions Spécifiques
-- [Garde-meuble étudiant](/blog/garde-meuble-nantes/garde-meuble-etudiant-nantes-pas-cher) : Offres adaptées aux étudiants
+- [Garde-meuble étudiant](/blog/conseils/garde-meuble-etudiant-nantes-pas-cher) : Offres adaptées aux étudiants
 
 ## Pourquoi avoir besoin d'un garde-meuble à Nantes ?
 
@@ -287,10 +287,10 @@ La métropole nantaise facilite votre recherche avec des centres bien répartis 
 ## 🔗 Pour aller plus loin
 
 **Guides complémentaires utiles :**
-- [Déménageur professionnel à Nantes](/blog/demenagement-nantes/demenageur-nantes-guide) : trouver une entreprise pour gérer transport et stockage
-- [Déménagement pas cher à Nantes](/blog/demenagement-nantes/demenagement-pas-cher-nantes-guide) : combiner stockage et déménagement économique
-- [Déménagement international](/blog/demenagement-nantes/demenagement-international-nantes-guide) : stockage temporaire lors d'un déménagement à l'étranger
-- [Petit déménagement](/blog/demenagement-nantes/petit-demenagement-nantes-guide) : garde-meuble pour studio ou T1
+- [Déménageur professionnel à Nantes](/blog/demenageur-nantes/demenageur-nantes-guide) : trouver une entreprise pour gérer transport et stockage
+- [Déménagement pas cher à Nantes](/blog/demenagement-pas-cher-nantes/demenagement-pas-cher-nantes-guide) : combiner stockage et déménagement économique
+- [Déménagement international](/blog/demenagement-international-nantes/demenagement-international-nantes-guide) : stockage temporaire lors d'un déménagement à l'étranger
+- [Petit déménagement](/blog/petit-demenagement-nantes/petit-demenagement-nantes-guide) : garde-meuble pour studio ou T1
 
 ---
 

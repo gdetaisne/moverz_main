@@ -20,22 +20,22 @@ Le déménagement de votre entreprise, de vos bureaux, ou de votre local commerc
 ## 📚 Notre Dossier Complet Déménagement Entreprise Montpellier
 
 **Par Type de Locaux :**
-- [Déménagement TPE PME Montpellier](/blog/demenagement-entreprise-montpellier/demenagement-tpe-pme-montpellier) - 5-50 salariés, optimisation budget
-- [Déménagement entrepôt Montpellier](/blog/demenagement-entreprise-montpellier/demenagement-entrepot-montpellier) - Zones logistiques, matériel lourd
+- [Déménagement TPE PME Montpellier](/blog/conseils/demenagement-tpe-pme-montpellier) - 5-50 salariés, optimisation budget
+- [Déménagement entrepôt Montpellier](/blog/conseils/demenagement-entrepot-montpellier) - Zones logistiques, matériel lourd
 
 **Organisation et Planning :**
-- [Planning déménagement entreprise préparation](/blog/demenagement-entreprise-montpellier/planning-demenagement-entreprise-preparation) - 6 mois avant, étapes clés
-- [Continuité activité pendant déménagement entreprise](/blog/demenagement-entreprise-montpellier/continuite-activite-pendant-demenagement-entreprise) - Minimiser interruptions
-- [Déménagement bureaux weekend Montpellier](/blog/demenagement-entreprise-montpellier/demenagement-bureaux-weekend-montpellier) - Samedi-dimanche, zéro coupure lundi
+- [Planning déménagement entreprise préparation](/blog/conseils/planning-demenagement-entreprise-preparation) - 6 mois avant, étapes clés
+- [Continuité activité pendant déménagement entreprise](/blog/conseils/continuite-activite-pendant-demenagement-entreprise) - Minimiser interruptions
+- [Déménagement bureaux weekend Montpellier](/blog/conseils/demenagement-bureaux-weekend-montpellier) - Samedi-dimanche, zéro coupure lundi
 
 **Matériel Spécialisé :**
-- [Déménagement serveurs informatiques entreprise](/blog/demenagement-entreprise-montpellier/demenagement-serveurs-informatiques-entreprise) - IT, backup, sécurité données
-- [Déménagement archives documents entreprise](/blog/demenagement-entreprise-montpellier/demenagement-archives-documents-entreprise) - Conservation 10 ans, confidentialité
-- [Aménagement nouveaux locaux entreprise](/blog/demenagement-entreprise-montpellier/amenagement-nouveaux-locaux-entreprise) - Installation mobilier, câblage
+- [Déménagement serveurs informatiques entreprise](/blog/conseils/demenagement-serveurs-informatiques-entreprise) - IT, backup, sécurité données
+- [Déménagement archives documents entreprise](/blog/conseils/demenagement-archives-documents-entreprise) - Conservation 10 ans, confidentialité
+- [Aménagement nouveaux locaux entreprise](/blog/conseils/amenagement-nouveaux-locaux-entreprise) - Installation mobilier, câblage
 
 **Prix et Normes :**
-- [Prix déménagement entreprise Montpellier](/blog/demenagement-entreprise-montpellier/prix-demenagement-entreprise-montpellier) - Fourchettes par taille, formules
-- [Normes sécurité déménagement professionnel](/blog/demenagement-entreprise-montpellier/normes-securite-demenagement-professionnel) - Réglementation, responsabilités
+- [Prix déménagement entreprise Montpellier](/blog/conseils/prix-demenagement-entreprise-montpellier) - Fourchettes par taille, formules
+- [Normes sécurité déménagement professionnel](/blog/conseils/normes-securite-demenagement-professionnel) - Réglementation, responsabilités
 
 ## Les spécificités d'un déménagement d'entreprise à Montpellier
 
@@ -117,7 +117,7 @@ La gestion des archives professionnelles nécessite un soin particulier.
 
 **Remise en place selon plan** : Les archives sont livrées et rangées dans vos nouveaux locaux d'archivage à Montpellier selon votre plan d'organisation, facilitant leur consultation ultérieure.
 
-**Stockage temporaire** : Si vos nouveaux locaux ne sont pas encore prêts à recevoir les archives, nous proposons un service de [garde-meuble sécurisé à Montpellier](/blog/demenagement-montpellier/garde-meuble-montpellier) avec accès contrôlé.
+**Stockage temporaire** : Si vos nouveaux locaux ne sont pas encore prêts à recevoir les archives, nous proposons un service de [garde-meuble sécurisé à Montpellier](/blog/garde-meuble-montpellier/garde-meuble-montpellier) avec accès contrôlé.
 
 ### Déménagement de locaux commerciaux et industriels
 

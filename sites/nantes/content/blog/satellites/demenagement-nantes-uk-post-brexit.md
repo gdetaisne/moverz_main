@@ -11,7 +11,7 @@ publish_date: "2025-03-11"
 author: "Équipe Moverz Nantes"
 ---
 
-Déménager de Nantes vers Londres, Manchester ou Édimbourg en 2025 diffère radicalement de l'avant-2021. Le Brexit (sortie UK de l'UE 1er janvier 2021) a transformé un déménagement européen simplifié en déménagement international complexe : douanes rétablies entre France et UK (vs liberté circulation UE), inventaires détaillés anglais obligatoires (vs FR accepté UE), visas travail/résidence nécessaires (vs libre installation UE), et délais allongés de 3-5 jours à 10-15 jours (contrôles douaniers UK renforcés). Pour une vue d'ensemble complète, consultez notre [guide déménagement international depuis Nantes](/blog/demenagement-nantes/demenagement-international-nantes-guide).
+Déménager de Nantes vers Londres, Manchester ou Édimbourg en 2025 diffère radicalement de l'avant-2021. Le Brexit (sortie UK de l'UE 1er janvier 2021) a transformé un déménagement européen simplifié en déménagement international complexe : douanes rétablies entre France et UK (vs liberté circulation UE), inventaires détaillés anglais obligatoires (vs FR accepté UE), visas travail/résidence nécessaires (vs libre installation UE), et délais allongés de 3-5 jours à 10-15 jours (contrôles douaniers UK renforcés). Pour une vue d'ensemble complète, consultez notre [guide déménagement international depuis Nantes](/blog/demenagement-international-nantes/demenagement-international-nantes-guide).
 
 À Nantes, les trois acteurs internationaux (AGS Déménagement Orvault, Demidov, Alliance LG) ont adapté leurs process post-Brexit 2021-2025 : assistance visa UK (partenaires immigration, +200-400€), inventaires anglais certifiés (traductions assermentées obligatoires, +150-300€), interfaces douanes UK nouvelles procédures (formations équipes 2021-2022), et partenariats transporteurs ferry/Eurotunnel (vs routiers purs pré-Brexit). Résultat : délais Nantes-Londres passés de 5-7 jours (2020) à **8-15 jours** (2025), et tarifs augmentés de 3000-4500€ à **4000-7000€** pour T2 50m² (+15-25%).
 
@@ -189,7 +189,7 @@ Les acteurs nantais spécialisés (AGS Orvault expertise Brexit 2021-2025 +300-5
 Notre conseil Nantes : Si choix destination (mutation acceptée mais pays négociable), privilégiez UE (Allemagne, Pays-Bas, Belgique : 3500-5500€, 5-8j, 3 sem. prépara, zéro visa) vs UK (6000€, 12j, 6 sem., visa 2050€). Si UK imposé (emploi spécifique Londres), anticipez 5-6 mois complets (janvier annonce → juin arrivée = sécurité), déléguez assistance AGS/Demidov Brexit (+300-500€ économisant 2-4 sem. démarches DIY + risques erreurs 15-20%), et respectez scrupuleusement restrictions produits (quotas alcools, denrées interdites = confiscations + amendes + retards).
 
 
-Pour aller plus loin, explorez notre [guide déménagement international depuis Nantes](/blog/demenagement-nantes/demenagement-international-nantes-guide) ainsi que nos guides complémentaires : [déménagement vers USA et Canada](/blog/demenagement-international-nantes/demenagement-nantes-usa-canada) et [déménagement vers l'Asie](/blog/demenagement-international-nantes/demenagement-nantes-asie).
+Pour aller plus loin, explorez notre [guide déménagement international depuis Nantes](/blog/demenagement-international-nantes/demenagement-international-nantes-guide) ainsi que nos guides complémentaires : [déménagement vers USA et Canada](/blog/conseils/demenagement-nantes-usa-canada) et [déménagement vers l'Asie](/blog/conseils/demenagement-nantes-asie).
 
 ## Questions Fréquentes
 

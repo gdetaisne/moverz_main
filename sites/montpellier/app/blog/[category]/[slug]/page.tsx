@@ -4,9 +4,13 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 import Breadcrumbs from '@/components/Breadcrumbs';
 import { getCanonicalUrl } from '@/lib/canonical-helper';
+import { getCityDataFromUrl } from '@/lib/cityData';
+import { env } from '@/lib/env';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import rehypeRaw from 'rehype-raw';
+
+const city = getCityDataFromUrl(env.SITE_URL);
 
 interface BlogPostPageProps {
   params: {
@@ -39,17 +43,19 @@ export async function generateMetadata({ params }: BlogPostPageProps): Promise<M
   }
 
   const canonicalUrl = getCanonicalUrl(`blog/${params.category}/${params.slug}`);
-
+  
+  // Fallback pour description si meta_description absente
+  const description = post.meta_description || post.description || `Découvrez nos conseils d'experts pour votre déménagement à ${city.nameCapitalized}.`;
   return {
     title: post.meta_title || post.title,
-    description: post.meta_description,
+    description: description,
     keywords: post.keywords.join(', '),
     alternates: {
       canonical: canonicalUrl,
     },
     openGraph: {
       title: post.title,
-      description: post.meta_description,
+      description: description,
       url: canonicalUrl,
       type: 'article',
       publishedTime: post.publish_date,

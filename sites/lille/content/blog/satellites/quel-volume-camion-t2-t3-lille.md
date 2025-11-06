@@ -19,7 +19,7 @@ Un T2 Wazemmes (35m³) nécessite un camion **20m³** (2 voyages Wazemmes-Saint-
 
 À Lille, les agences (Sixt Euralille, Europcar Flandres, Leclerc Englos) proposent 4 tailles : **12m³** (studio, 50-70€/j), **20m³** (T1-T2, 70-95€/j), **35m³** (T2-T3, 100-140€/j), **50m³** (maison, 140-200€/j). Les Lillois sous-estiment souvent : "Mon T2 = 35m³ donc camion 20m³ suffit" mais 35m³ tassé ≠ 35m³ chargé camion (vides 25%). Résultat : 80% affaires rentrent, 20% restent (meubles volumineux canapé, armoire). Solution : 2ème voyage (fatigue, temps) ou amis avec voiture (appoint 5-8m³). Privilégiez camion taille supérieure (+20-30% vs volume calculé) pour sécurité : T2 43m³ × 1,25 = 54m³ → camion 35m³ minimum 1 voyage confortable.
 
-Ce guide détaille volumes camions vs logements Lille, calcul majoration 20-30%, 1 vs 2 voyages arbitrage, tailles disponibles agences. Consultez notre [guide location Lille](/blog/demenagement-lille/location-camion-demenagement-lille-guide).
+Ce guide détaille volumes camions vs logements Lille, calcul majoration 20-30%, 1 vs 2 voyages arbitrage, tailles disponibles agences. Consultez notre [guide location Lille](/blog/location-camion-demenagement-lille/location-camion-demenagement-lille-guide).
 
 ## Correspondance Logement → Volume Camion
 
@@ -129,7 +129,7 @@ Agences Lille proposent : 12m³ (50-70€, studio mini), 20m³ (70-95€, T1-T2)
 
 Oui, **surdimensionner +20%** recommandé : marge sécurité, 1 voyage unique, moins stress, chargement aisé (pas tétris). Surcoût : 30-50€ (35m³ vs 20m³) vs économie éviter 2ème voyage (essence 20€ + temps 4h + fatigue). Seul cas sous-dimensionner acceptable : budget ultra-serré + certitude volume exact (inventaire rigoureux fait).
 
-Consultez notre [guide location Lille](/blog/demenagement-lille/location-camion-demenagement-lille-guide), notre [article prix 20m³](/blog/location-camion-demenagement-lille/prix-location-camion-20m3-lille) et notre [comparatif vs déménageur](/blog/location-camion-demenagement-lille/location-camion-vs-demenageur-lille).
+Consultez notre [guide location Lille](/blog/location-camion-demenagement-lille/location-camion-demenagement-lille-guide), notre [article prix 20m³](/blog/conseils/prix-location-camion-20m3-lille) et notre [comparatif vs déménageur](/blog/conseils/location-camion-vs-demenageur-lille).
 
 
 

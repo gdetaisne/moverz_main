@@ -10,7 +10,7 @@ publish_date: "2025-02-03"
 author: "Équipe Moverz Strasbourg"
 ---
 
-Votre bail se termine le 30 juin à Neudorf, le nouveau logement est disponible le 1er septembre : que faire de vos meubles pendant 2 mois ? Les travaux de votre T3 à Hautepierre durent 5 mois : où stocker le mobilier ? Vous vendez votre maison à Robertsau avant d'acheter la nouvelle : combien de temps prévoir ? Pour une vue complète, consultez notre [guide complet garde-meuble Strasbourg](/blog/demenagement-strasbourg/garde-meuble-strasbourg-guide).
+Votre bail se termine le 30 juin à Neudorf, le nouveau logement est disponible le 1er septembre : que faire de vos meubles pendant 2 mois ? Les travaux de votre T3 à Hautepierre durent 5 mois : où stocker le mobilier ? Vous vendez votre maison à Robertsau avant d'acheter la nouvelle : combien de temps prévoir ? Pour une vue complète, consultez notre [guide complet garde-meuble Strasbourg](/blog/garde-meuble-strasbourg/garde-meuble-strasbourg-guide).
 
 Avec un taux de mobilité résidentielle de 10-12% par an, environ **29 000 strasbourgeois déménagent chaque année** (sur 297 878 habitants). Une majorité rencontre des décalages temporels nécessitant stockage temporaire. Ce guide détaille durées types (1-2 mois, 4-6 mois, 3-12 mois), compare coût stockage vs double déménagement, et conseille sur planification optimale.
 
@@ -125,7 +125,7 @@ Déménagement complet vs stockage : parfois trier/donner 20-30% affaires = box 
 
 **Prolonger si travaux retardés ?** Oui, notification 15j avant échéance. Tarif reconduit ou renégocié.
 
-**Assurance pendant stockage ?** Indispensable si valeur >2 000€. [Guide assurance Strasbourg](/blog/garde-meuble-strasbourg/assurance-garde-meuble-strasbourg).
+**Assurance pendant stockage ?** Indispensable si valeur >2 000€. [Guide assurance Strasbourg](/blog/conseils/assurance-garde-meuble-strasbourg).
 
-[Durées contractuelles détails](/blog/garde-meuble-strasbourg/duree-location-garde-meuble-strasbourg) et [prix selon durée](/blog/garde-meuble-strasbourg/prix-garde-meuble-strasbourg-2025).
+[Durées contractuelles détails](/blog/conseils/duree-location-garde-meuble-strasbourg) et [prix selon durée](/blog/conseils/prix-garde-meuble-strasbourg-2025).
 

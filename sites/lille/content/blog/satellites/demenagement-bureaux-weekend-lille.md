@@ -512,8 +512,8 @@ Le déménagement bureaux weekend à Lille représente un **surcoût de 30-50 %*
 ---
 
 **Liens utiles** :
-- [Déménagement Entreprise Lille : Guide Complet](/blog/demenagement-lille/demenagement-entreprise-lille-guide)
-- [Transfert Informatique Entreprise](/blog/entreprise/transfert-materiel-informatique-entreprise-lille)
+- [Déménagement Entreprise Lille : Guide Complet](/blog/demenagement-entreprise-lille/demenagement-entreprise-lille-guide)
+- [Transfert Informatique Entreprise](/blog/conseils/transfert-materiel-informatique-entreprise-lille)
 
 
 

@@ -44,7 +44,7 @@ Participez activement au déménagement en préparant vos affaires à l'avance. 
 
 ## Les pièges à éviter pour un petit déménagement
 
-Attention aux devis trop attractifs qui cachent souvent des [frais cachés](/blog/prix-demenagement-bordeaux/frais-caches-demenagement-bordeaux). Certains déménageurs proposent des tarifs très bas mais ajoutent ensuite des suppléments pour le stationnement, la protection des sols ou la manutention d'objets lourds. Demandez toujours un devis détaillé incluant tous les frais pour éviter les mauvaises surprises.
+Attention aux devis trop attractifs qui cachent souvent des [frais cachés](/blog/conseils/frais-caches-demenagement-bordeaux). Certains déménageurs proposent des tarifs très bas mais ajoutent ensuite des suppléments pour le stationnement, la protection des sols ou la manutention d'objets lourds. Demandez toujours un devis détaillé incluant tous les frais pour éviter les mauvaises surprises.
 
 Méfiez-vous également des entreprises qui ne proposent pas de visite technique gratuite. Un devis établi uniquement par téléphone ou par internet risque d'être imprécis et de générer des surcoûts le jour du déménagement. Un professionnel sérieux se déplace toujours pour évaluer les contraintes d'accès et le volume réel à transporter.
 
@@ -54,7 +54,7 @@ Pour un petit déménagement, privilégiez les entreprises spécialisées dans c
 
 Vérifiez que l'entreprise dispose des assurances nécessaires et qu'elle est bien déclarée. Un déménageur professionnel doit posséder une assurance responsabilité civile et une garantie décennale. Ces garanties vous protègent en cas de dommage ou de perte de vos biens pendant le transport.
 
-## Les [aides financières](/blog/demenagement-etudiant-bordeaux/aide-financiere-demenagement-etudiant) pour les petits budgets
+## Les [aides financières](/blog/conseils/aide-financiere-demenagement-etudiant) pour les petits budgets
 
 Les étudiants et les jeunes actifs peuvent bénéficier d'aides financières pour leur déménagement. La CAF propose parfois des aides au déménagement pour les familles modestes, même pour les petits volumes. Renseignez-vous auprès de votre centre CAF pour connaître les conditions d'éligibilité.
 

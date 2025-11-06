@@ -24,7 +24,7 @@ La durée minimum location box self-stockage Lyon est généralement 1 mois chez
 
 Les engagements long terme (6-12 mois minimum location garantie) débloquent remises substantielles -10-15% tarif mensuel : box 10m² Shurgard Vaise 240€/mois standard → 210-220€/mois engagement 12 mois (économie 20-30€/mois soit 240-360€/an), compensant rigidité (résiliation anticipée = pénalité résiduel dû jusqu'à terme, exemple engagement 12 mois résiliation mois 6 = payer 6 mois restants ou pénalité 3-4 mois). Ces engagements conviennent stockages durée prévisible certaine (expatriation 12 mois mission, construction maison livrée 10 mois, archives définitives 24 mois), mais risqués si incertitude dates (travaux logement durée floue 3-8 mois possibles, préférer sans engagement flexibilité quitte payer 10-15% plus cher).
 
-Ce guide détaille durées minimum Lyon par acteur, explique mécanismes résiliation et préavis (1 mois standard, modalités lettre recommandée ou email selon CGV), compare flexibilité sans engagement vs économies engagements 6-12 mois (-10-15% mais rigidité pénalités), révèle cas particuliers (locations hebdomadaires rares +30-50%, prorata derniers jours refusé majoritairement), et conseille durée choisir selon certitude planning. Pour tarifs, consultez [prix Lyon](/blog/garde-meuble-lyon/prix-garde-meuble-lyon-2025).
+Ce guide détaille durées minimum Lyon par acteur, explique mécanismes résiliation et préavis (1 mois standard, modalités lettre recommandée ou email selon CGV), compare flexibilité sans engagement vs économies engagements 6-12 mois (-10-15% mais rigidité pénalités), révèle cas particuliers (locations hebdomadaires rares +30-50%, prorata derniers jours refusé majoritairement), et conseille durée choisir selon certitude planning. Pour tarifs, consultez [prix Lyon](/blog/conseils/prix-garde-meuble-lyon-2025).
 
 ## Durées Minimum par Acteur Lyon
 
@@ -80,7 +80,7 @@ Ce guide détaille durées minimum Lyon par acteur, explique mécanismes résili
 
 Durée minimum box Lyon : 1 mois (Shurgard, Homebox, Une Pièce en Plus), résiliation préavis 1 mois écrit, facturation mois complet (pas prorata jours). Engagements 6-12 mois économisent -10-15% (360-570€/an selon taille) mais pénalités résiliation anticipée (payer résiduel ou 2-3 mois forfait). Flexibilité sans engagement convient stockages durée incertaine (1-6 mois variables), engagements adaptés durées certaines longues (12+ mois expatriation/archives).
 
-Locations <1 mois rares (+30-50% surcoût). Restitution : vider, nettoyer box, rendre badge (consigne 10-20€ restituée). Consultez [prix](/blog/garde-meuble-lyon/prix-garde-meuble-lyon-2025), [guide](/blog/garde-meuble-lyon/garde-meuble-lyon-guide-complet). Bonne location !
+Locations <1 mois rares (+30-50% surcoût). Restitution : vider, nettoyer box, rendre badge (consigne 10-20€ restituée). Consultez [prix](/blog/conseils/prix-garde-meuble-lyon-2025), [guide](/blog/garde-meuble/garde-meuble-lyon-guide). Bonne location !
 
 ---
 

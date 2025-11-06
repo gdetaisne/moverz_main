@@ -24,7 +24,7 @@ Les prix garde-meuble et self-stockage à Lyon varient de 55-70€/mois pour un 
 
 Les acteurs alternatifs Lyon (Homebox Villeurbanne, Une Pièce en Plus métropole sites multiples, Lok'n Store, Box & Go) proposent tarifs compétitifs -5-10% vs Shurgard sur certaines tailles (box 10m² Homebox 210-260€ vs Shurgard 220-280€), mais réseau moins dense (1-2 sites vs 4 Shurgard, contrainte déplacements). Le garde-meuble traditionnel via déménageurs Lyon (stockage entrepôt mutualisé, accès sur RDV uniquement, manutention déménageur) facture 8-15€/m³/mois (vs 25-30€/m² self-stockage = moins cher calcul volume, mais flexibilité réduite). Un T2 40m³ stocké 6 mois coûte 1920-3600€ traditionnel (40m³ × 8-15€ × 6 mois) contre 3120-4080€ self-stockage 15m² (15m² × 26-34€ × 6 mois), économie 1200-480€ traditionnel, mais accès RDV contraignant vs libre 24/7 self.
 
-Ce guide détaille fourchettes prix 2025 par taille box (1m² à 20m²+), compare acteurs Lyon (Shurgard 4 sites, Homebox, Une Pièce en Plus, traditionnels déménageurs), analyse variations quartiers (centre +20-30%, périphérie standards), révèle promotions fréquentes (premier mois offert, -10-15% engagements 12 mois), et calcule coûts réels selon durées (1 mois dépannage vs 12 mois long terme). Pour choisir, consultez [notre guide complet garde-meuble Lyon](/blog/garde-meuble-lyon/garde-meuble-lyon-guide-complet).
+Ce guide détaille fourchettes prix 2025 par taille box (1m² à 20m²+), compare acteurs Lyon (Shurgard 4 sites, Homebox, Une Pièce en Plus, traditionnels déménageurs), analyse variations quartiers (centre +20-30%, périphérie standards), révèle promotions fréquentes (premier mois offert, -10-15% engagements 12 mois), et calcule coûts réels selon durées (1 mois dépannage vs 12 mois long terme). Pour choisir, consultez [notre guide complet garde-meuble Lyon](/blog/garde-meuble/garde-meuble-lyon-guide).
 
 ## Fourchettes Prix Self-Stockage Lyon 2025
 
@@ -156,7 +156,7 @@ Différence : 300€ (+12,5% self)
 
 ### Shurgard Lyon tarifs ?
 
-**Shurgard Lyon (4 sites) tarifs moyens : 1m² 60-70€, 3m² 110-120€, 5m² 145-170€, 10m² 240-280€, 15m² 320-380€, 20m² 400-480€/mois.** Variations sites : Vaise 9ème (périphérie) -10-15% vs Jean Macé 7ème (central métro B). Jean Macé 5m² : 150-170€. Vaise 5m² : 130-150€ (économie 240€/an). Services : accès 24/7 ou 7j/7, surveillance 24/7, badge, assurance optionnelle 3-8€/mois. [Sites Shurgard →](/blog/garde-meuble-lyon/shurgard-lyon-sites-tarifs)
+**Shurgard Lyon (4 sites) tarifs moyens : 1m² 60-70€, 3m² 110-120€, 5m² 145-170€, 10m² 240-280€, 15m² 320-380€, 20m² 400-480€/mois.** Variations sites : Vaise 9ème (périphérie) -10-15% vs Jean Macé 7ème (central métro B). Jean Macé 5m² : 150-170€. Vaise 5m² : 130-150€ (économie 240€/an). Services : accès 24/7 ou 7j/7, surveillance 24/7, badge, assurance optionnelle 3-8€/mois. [Sites Shurgard →](/blog/conseils/shurgard-lyon-sites-tarifs)
 
 ### Combien coûte box 5m² Lyon ?
 
@@ -172,7 +172,7 @@ Différence : 300€ (+12,5% self)
 
 ### Quelle taille box pour T2 Lyon ?
 
-**T2 complet mobilier (salon, chambre, cuisine, 80-100 cartons) : box 15m² nécessaire (300-380€/mois). T2 partiel (mobilier principal, affaires essentielles temporaires) : box 10m² suffit (220-280€/mois).** Studio complet : 5m² (130-170€). T3 complet : 20-25m² (380-600€). Déménageur évalue volume précis (visite gratuite ou inventaire photos). Sous-estimer taille = box saturé, impossible fermer. Sur-estimer = payer m² inutiles. [Guide tailles →](/blog/garde-meuble-lyon/taille-box-choisir-lyon)
+**T2 complet mobilier (salon, chambre, cuisine, 80-100 cartons) : box 15m² nécessaire (300-380€/mois). T2 partiel (mobilier principal, affaires essentielles temporaires) : box 10m² suffit (220-280€/mois).** Studio complet : 5m² (130-170€). T3 complet : 20-25m² (380-600€). Déménageur évalue volume précis (visite gratuite ou inventaire photos). Sous-estimer taille = box saturé, impossible fermer. Sur-estimer = payer m² inutiles. [Guide tailles →](/blog/conseils/taille-box-choisir-lyon)
 
 ### Promotions garde-meuble Lyon 2025 ?
 
@@ -186,7 +186,7 @@ Les prix garde-meuble Lyon 2025 s'échelonnent de 55€/mois (1m², 10-15 carton
 
 Promotions (1er mois offert, -10-15% engagements 12 mois) économisent 150-500€ selon taille/durée. Variations quartiers (centre +20-30%, périphérie standards) influencent choix site. Court terme 1-3 mois : self-stockage optimal (flexibilité). Long terme 12+ mois ou volumes >40m³ : comparer self vs traditionnel (économie 10-20% traditionnel possible).
 
-Pour choisir taille adaptée, consultez [guide tailles box Lyon](/blog/garde-meuble-lyon/taille-box-choisir-lyon). Pour acteurs détaillés, voir [Shurgard Lyon sites](/blog/garde-meuble-lyon/shurgard-lyon-sites-tarifs). Explorez aussi [guide complet garde-meuble](/blog/garde-meuble-lyon/garde-meuble-lyon-guide-complet). Bon stockage !
+Pour choisir taille adaptée, consultez [guide tailles box Lyon](/blog/conseils/taille-box-choisir-lyon). Pour acteurs détaillés, voir [Shurgard Lyon sites](/blog/conseils/shurgard-lyon-sites-tarifs). Explorez aussi [guide complet garde-meuble](/blog/garde-meuble/garde-meuble-lyon-guide). Bon stockage !
 
 ---
 

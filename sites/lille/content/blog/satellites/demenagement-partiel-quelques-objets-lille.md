@@ -19,7 +19,7 @@ Le **déménagement partiel Lille** (3-5 objets/meubles + 10-20 cartons, volume 
 
 À Lille, les **déménagements partiels** représentent **15-20% flux** selon déménageurs (vs 80-85% déménagements complets) : profils étudiants (garde base chez parents Lille périphérie + chambre étudiante Centre temporaire année scolaire = allers-retours juin/septembre 10m³), **bi-résidents** (cadres télétravail 250-300 Lille selon EuraTechnologies, Decathlon, OVH implantations), **seniors** (garde chambre EHPAD + stocke reste maison garde-meuble temporaire, transport partiel essentiels 12m³ vs complet 80m³ progressif), **séparations** (couples colocataires 8-12% couples Lille selon stats, ruptures 30-40%/an = 1 200-1 800 séparations générant 2× déménagements partiels). Le **volume moyen partiel** : **10m³** (chambre base : lit + bureau + 10 cartons + objets essentiels) vs déménagement complet studio 18m³, T1 25m³, T2 35m³.
 
-Ce guide détaille déménagement partiel Lille : cas d'usage, volumes, tarifs, solutions, timing progressif, coordination. Consultez notre [guide petit déménagement Lille](/blog/petit-demenagement-lille/petit-demenagement-lille-studio-t1).
+Ce guide détaille déménagement partiel Lille : cas d'usage, volumes, tarifs, solutions, timing progressif, coordination. Consultez notre [guide petit déménagement Lille](/blog/conseils/petit-demenagement-lille-studio-t1).
 
 ## Cas d'Usage Déménagement Partiel Lille
 
@@ -190,7 +190,7 @@ Statistiques Lille : déménagements partiels 15-20% flux totaux (vs 80-85% comp
 
 Solutions selon budget : <100€ = DIY Kangou/Berlingo obligatoire aide ami (60-90€), 150-250€ = coursier optimal 0 effort (120-200€), >250€ = formule éco déménageur (vous emballez pro transporte, rare petits volumes). Coordination : timing synchronisé (étudiant départ juin = parents véhicule disponible aide vs septembre seul = coursier nécessaire), double résidence installation unique (vs déménagements répétés Lille ↔ Paris = transport partiel ponctuel).
 
-Consultez notre [guide petit déménagement Lille](/blog/petit-demenagement-lille/petit-demenagement-lille-studio-t1), notre [guide déménagement étudiant](/blog/petit-demenagement-lille/demenagement-chambre-etudiant-lille), notre [guide transport meubles](/blog/petit-demenagement-lille/transport-meubles-lille-sans-demenageur) et notre [guide location camion](/blog/demenagement-lille/location-camion-demenagement-lille-guide).
+Consultez notre [guide petit déménagement Lille](/blog/conseils/petit-demenagement-lille-studio-t1), notre [guide déménagement étudiant](/blog/conseils/demenagement-chambre-etudiant-lille), notre [guide transport meubles](/blog/conseils/transport-meubles-lille-sans-demenageur) et notre [guide location camion](/blog/location-camion-demenagement-lille/location-camion-demenagement-lille-guide).
 
 
 

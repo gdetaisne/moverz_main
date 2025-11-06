@@ -16,7 +16,7 @@ featured: false
 
 # Organiser un [déménagement pas cher](/blog/demenagement-pas-cher-bordeaux/guide) à Bordeaux
 
-Déménager à Bordeaux sans exploser son budget, c'est possible ! Avec plus de 250 000 habitants et une forte demande immobilière, la métropole bordelaise voit défiler chaque année des milliers de déménagements. Pourtant, entre les tarifs des professionnels qui peuvent atteindre 1 500 € pour un déménagement de 15 m³ en haute saison et les [frais cachés](/blog/prix-demenagement-bordeaux/frais-caches-demenagement-bordeaux) qui s'accumulent, la facture peut vite grimper. Voici une stratégie éprouvée pour organiser un déménagement économique dans la cité girondine.
+Déménager à Bordeaux sans exploser son budget, c'est possible ! Avec plus de 250 000 habitants et une forte demande immobilière, la métropole bordelaise voit défiler chaque année des milliers de déménagements. Pourtant, entre les tarifs des professionnels qui peuvent atteindre 1 500 € pour un déménagement de 15 m³ en haute saison et les [frais cachés](/blog/conseils/frais-caches-demenagement-bordeaux) qui s'accumulent, la facture peut vite grimper. Voici une stratégie éprouvée pour organiser un déménagement économique dans la cité girondine.
 
 ## Optimiser la date : le secret des économies
 
@@ -48,7 +48,7 @@ Des plateformes comme Cocolis.fr facilitent la mise en relation entre particulie
 
 Pensez également à résilier ou transférer vos contrats d'électricité, de gaz et d'eau à l'avance. Les retards dans ces démarches peuvent générer des frais supplémentaires et des complications le jour du déménagement.
 
-## Les [aides financières](/blog/demenagement-etudiant-bordeaux/aide-financiere-demenagement-etudiant) disponibles
+## Les [aides financières](/blog/conseils/aide-financiere-demenagement-etudiant) disponibles
 
 Selon votre situation, vous pourriez être éligible à des aides financières. La Caisse d'Allocations Familiales (CAF) propose une prime de déménagement sous certaines conditions. Les étudiants peuvent également bénéficier d'aides spécifiques via le CROUS ou leur établissement d'enseignement supérieur.
 

@@ -16,38 +16,33 @@
 
 ## 🔴 CRITIQUE URGENTE - Bugs Multi-Sites
 
-### [P0] [Temps: 2-3h] [Qui: Guillaume] [P0]-TASK-056-header-toulouse-hardcoded-complet : Correction Toulouse Hardcodé Headers + CtaPrimary (11 villes)
+### ✅ [P0] [Temps: 3h] [Qui: Guillaume] [P0]-TASK-056-header-toulouse-hardcoded-complet : Correction Toulouse Hardcodé Headers + CtaPrimary (11 villes)
 
 📁 **Doc** : `.cursor/tasks/[P0]-TASK-056-header-toulouse-hardcoded-complet/`
 
 **Type** : Bugfix Critique / UX + SEO
 
-**Statut** : 🔄 EN COURS (30min investi, Strasbourg corrigé)
+**Statut** : ✅ **TERMINÉE** (06/11/2025)
 
-**Problème CRITIQUE** :
-- **Tous les sites (11 villes) affichent "Toulouse"** au lieu de leur propre ville
-- Origine : Commits Lucie ce matin (`e18e6dfb`, `564e6e21`) - copie code Toulouse sans dynamisation
+**Problème résolu** :
+- **Tous les sites (11 villes) affichaient "Toulouse"** au lieu de leur propre ville
+- Origine : Commits Lucie (`e18e6dfb`, `564e6e21`) - copie code Toulouse sans dynamisation
 - Impact : UX catastrophique + SEO cassé + Perte confiance = Perte leads
 
-**Fichiers affectés** :
-- `sites/{ville}/components/Header.tsx` × 11 (logo, zonesItems, corridors hardcodés)
-- `sites/{ville}/components/CtaPrimary.tsx` × 11 (2 occurrences "Toulouse" par fichier)
-
 **Corrections appliquées** :
-- ✅ Strasbourg Header.tsx corrigé (manuelle, sert d'exemple)
-- ⏳ 10 Headers restants à corriger
-- ⏳ 11 CtaPrimary.tsx à corriger
-
-**Actions restantes** :
-- [ ] Corriger 10 Headers restants (1h)
-- [ ] Corriger 11 CtaPrimary.tsx (1h)
-- [ ] Tests sur 2-3 villes (30min)
-- [ ] Commit + Deploy (30min)
+- ✅ 11 Headers.tsx corrigés (dynamisation complète)
+- ✅ 11 CtaPrimary.tsx corrigés (22 occurrences "Toulouse")
+- ✅ 11 LocalMoneyFAQ.tsx corrigés (Nice hardcodé)
+- ✅ 11 ValueTriad.tsx corrigés (Nice hardcodé)
+- ✅ 11 Testimonials.tsx corrigés (quartiers Nice hardcodés)
+- ✅ 55 fichiers modifiés au total
+- ✅ 4 commits main + 33 commits sites individuels
+- ✅ Tous pushés sur GitHub + déploiements automatiques
 
 **Priorité** : P0 (critique - tous sites cassés)
 
-**Temps investi** : 30min  
-**Temps restant** : ~2h30
+**Temps investi** : 3h  
+**Résultat** : ✅ Tous les sites affichent maintenant leur propre ville dynamiquement
 
 ---
 
@@ -319,6 +314,42 @@ Voir : `.cursor/DONE.md` pour détails complets
 
 ---
 
+## 🔴 PRIORITÉ IMMÉDIATE : LEAD GENERATION (Complément LEADGEN-01)
+
+### [P0] [Temps: 8-10h] [Qui: Guillaume] P0-LEADGEN-01-BIS-structured-data-rich-snippets-Metadata-task-pas-commence : Complément Structured Data Rich Snippets (Hors Blog)
+
+📁 **Doc** : `.cursor/tasks/P0-LEADGEN-01-BIS-structured-data-rich-snippets-Metadata-task-pas-commence/`
+
+**Type** : Lead Generation / SEO Critical / Structured Data
+
+**Objectif** : Compléter les structured data JSON-LD manquants sur pages services individuelles pour activer rich snippets Google.
+
+**Contexte** :
+- LEADGEN-01 a optimisé metadata HTML (title, description) ✅
+- **MAIS** structured data JSON-LD incomplets sur pages critiques
+- Rich snippets Google absents → CTR -15-25% sur pages services
+
+**Gaps identifiés** :
+1. BreadcrumbList JSON-LD manquant sur pages services individuelles (33 pages)
+2. Service schema JSON-LD manquant sur pages Éco/Standard/Premium (33 pages)
+3. FAQPage schema manquant sur pages services individuelles (33 pages)
+4. Organization logo carré à vérifier (11 villes)
+
+**Actions** :
+- [ ] Phase 1 (2h30) : BreadcrumbList + vérif logo → +40-75 leads/mois
+- [ ] Phase 2 (5-7h) : Service + FAQPage schemas → +45-80 leads/mois
+- [ ] Phase 3 (4-5h) : OG images dynamiques (optionnel) → +20-40 leads/mois
+
+**ROI attendu** : CTR +15-25% sur pages services = +30-80 leads/mois = +1 500-12 000€/mois
+
+**Priorité** : P0 (impact business direct, complément LEADGEN-01)
+
+**Statut** : 📋 PENDING
+
+**Dépend de** : P0-LEADGEN-01-Metadata-ctr-optimisation-termine ✅
+
+---
+
 ## 🔴 PRIORITÉ IMMÉDIATE (Setup Final)
 
 ### [P2] [Temps: 5 min] [Qui: Guillaume] P2-023-Scripts-setup-automation-termine : Setup Scripts Automation
@@ -349,13 +380,17 @@ Scripts automation créés (7 scripts) mais pas encore activés. Setup requis po
 
 ---
 
-### [P0] [Temps: 1.5-3h] [Qui: Guillaume] P0-046-SERP-favicon-logo-en-pause : Logo SERP / Favicons — CTR
+### [P2] [Temps: 1.5-3h] [Qui: Guillaume] P0-046-SERP-favicon-logo-en-pause : Logo SERP / Favicons — CTR
 
 📁 **Doc** : `.cursor/tasks/P0-046-SERP-favicon-logo-en-pause/`
 
 **Type** : SEO CTR / Investigation + Fix multi‑sites (11 villes)
 
+**Statut** : ⏸️ EN PAUSE (déprioritisé P0 → P2 après analyse ROI)
+
 **Objectif** : Faire apparaître systématiquement le logo (favicon) dans les résultats Google (organiques et Ads) pour augmenter le CTR.
+
+**Raison dépriorisation** : Impact CTR marginal (+5-10%) vs metadata (+400%). ROI optimal si fait APRÈS LEADGEN-01 (multiplicateur ×8).
 
 **Contexte** : Observé "sans logo" quasi systématique sur mobile (ex. rennais → requêtes Toulouse). Impact direct sur CTR et revenus.
 

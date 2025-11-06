@@ -60,7 +60,7 @@ Plusieurs stratégies permettent d'optimiser le coût de votre déménagement d'
 
 La participation active de vos équipes peut également générer des économies significatives. L'emballage des affaires personnelles, le tri des documents et la préparation des postes de travail représentent des économies potentielles de 1 000 à 3 000 €. Cette participation, bien que chronophage, s'avère souvent rentable.
 
-## Les [aides financières](/blog/demenagement-etudiant-bordeaux/aide-financiere-demenagement-etudiant) disponibles
+## Les [aides financières](/blog/conseils/aide-financiere-demenagement-etudiant) disponibles
 
 Les déménagements d'entreprise peuvent bénéficier d'aides financières spécifiques. La CCI Bordeaux propose parfois des subventions pour les entreprises en développement, pouvant couvrir 20 à 30 % du coût total. Ces aides, bien que modestes, peuvent contribuer à alléger votre budget.
 

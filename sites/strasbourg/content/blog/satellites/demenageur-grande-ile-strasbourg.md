@@ -43,7 +43,7 @@ Résultat : **Déménagement Grande Île = expertise spécifique** indispensable
 
 **Déménageur peut gérer** : Certains (Seegmuller, IVENS) proposent gestion démarche incluse (+30-50€) ou guidage client précis.
 
-[Guide complet autorisations](/blog/demenagement-strasbourg/autorisation-stationnement-demenagement-strasbourg).
+[Guide complet autorisations](/blog/conseils/autorisation-stationnement-demenagement-strasbourg).
 
 ## Surcoût Grande Île : +15-25%
 

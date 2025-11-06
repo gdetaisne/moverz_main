@@ -19,7 +19,7 @@ Les **tarifs petit déménagement Lille par volume** (8-30m³) s'échelonnent se
 
 À Lille, les **petits volumes** représentent **35-40% déménagements** selon acteurs (étudiants 70 000 = 15-20k déménagements/an, jeunes actifs célibataires, seniors downsizing, déménagements partiels) vs 60-65% volumes standards T2-T3 familles. Les **déménageurs adaptent tarification** : grille spécifique petits volumes (forfaits 150-500€ vs tarification m³ pure), véhicules dédiés camionnettes (vs systematique camions 20-35m³ gros volumes), équipes réduites 1-2 porteurs (vs 3-4 T3-T4). Les **acteurs spécialisés** Lille : Déménagements Lefebvre "Gamme Studio/T1" (tarifs 150-450€ selon volume), Bretons "Petit Volume" (140-380€), coursiers locaux reconversion (transport objets → petit déménagement, 120-320€), transporteurs indépendants (camionnettes 100-280€). La **concurrence accentuée** petits volumes (vs monopole relatif gros volumes) tire tarifs vers le bas : écart 150-550€ même volume 25m³ selon acteur (×3,7) vs volumes standards écart 20-30%.
 
-Ce guide détaille tarifs petit déménagement Lille 8-30m³ : grilles prix par volume, camionnette vs camion seuils, forfaits prestations, comparatif acteurs. Consultez notre [guide petit déménagement Lille](/blog/petit-demenagement-lille/petit-demenagement-lille-studio-t1).
+Ce guide détaille tarifs petit déménagement Lille 8-30m³ : grilles prix par volume, camionnette vs camion seuils, forfaits prestations, comparatif acteurs. Consultez notre [guide petit déménagement Lille](/blog/conseils/petit-demenagement-lille-studio-t1).
 
 ## Grille Tarifs Par Volume Lille
 
@@ -188,7 +188,7 @@ Profils clients : **8-15m³** étudiants (chambres CROUS, studios budgets serré
 
 Périodes : haute saison juin-août (étudiants +15-20% tarifs, réservations 3-4 sem avant), basse saison novembre-mars (-10-15%, disponibilité élevée, négociation possible). Contraintes Lille Centre : Vieux-Lille accès étroit camionnettes prioritaires, Wazemmes marché weekend évitez, République stationnement payant 2€/h, zones piétonnes camionnettes tolérées livraisons.
 
-Consultez notre [guide petit déménagement Lille](/blog/petit-demenagement-lille/petit-demenagement-lille-studio-t1), notre [guide transport meubles](/blog/petit-demenagement-lille/transport-meubles-lille-sans-demenageur), notre [guide déménagement pas cher](/blog/demenagement-lille/demenagement-pas-cher-lille-guide) et notre [guide déménageur Lille](/blog/demenagement-lille/demenageur-lille-expert).
+Consultez notre [guide petit déménagement Lille](/blog/conseils/petit-demenagement-lille-studio-t1), notre [guide transport meubles](/blog/conseils/transport-meubles-lille-sans-demenageur), notre [guide déménagement pas cher](/blog/demenagement-pas-cher-lille/demenagement-pas-cher-lille-guide) et notre [guide déménageur Lille](/blog/demenageur-lille/demenageur-lille-expert).
 
 
 

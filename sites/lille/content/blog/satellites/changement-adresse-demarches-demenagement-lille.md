@@ -19,7 +19,7 @@ Les **démarches changement adresse déménagement Lille** totalisent **15 oblig
 
 À Lille, les **organismes locaux** changement adresse : **Centre Finances Publiques Lille-Sud** (impôts, 44 rue Barthélémy Delespaul, changement en ligne prioritaire vs déplacement physique), **CAF Nord** (bd Louis XIV Lille-Centre, espace personnel caf.fr changement immédiat ou courrier), **CPAM Lille** (assurance maladie, 48 rue Barthélémy Delespaul, changement en ligne ameli.fr ou agence), **Préfecture Lille** (carte grise via ANTS ants.gouv.fr dématérialisé 100%, plus besoin déplacement préfecture vs avant 2017), **mairies Lille/Lomme/Hellemmes** (listes électorales changement bureau vote, inscription 6 sem avant élections). Le **calendrier optimal** étale démarches 4 mois : **J-30** résiliations énergies/internet (préavis 15-21j obligatoires), **J-15** souscriptions nouveau, **J** déménagement physique, **J+1 à J+15** notifications urgentes (La Poste, impôts, CAF, CPAM évitent suspensions), **J+15 à J+90** notifications secondaires (carte grise 1 mois, assurances, abonnements).
 
-Ce guide liste 15 démarches changement adresse Lille : timing optimal, organismes contacts, délais, coûts, pénalités retard, astuces simplification. Consultez notre [guide déménagement Lille](/blog/demenagement-lille/demenageur-lille-expert).
+Ce guide liste 15 démarches changement adresse Lille : timing optimal, organismes contacts, délais, coûts, pénalités retard, astuces simplification. Consultez notre [guide déménagement Lille](/blog/demenageur-lille/demenageur-lille-expert).
 
 ## 15 Démarches Changement Adresse Lille
 
@@ -184,7 +184,7 @@ Pénalités retard : carte grise >1 mois = 135€ amende (>3 mois 750€), CAF >
 
 Astuces simplification : **changements en ligne prioritaires** (impôts/CAF/CPAM/ANTS instantanés vs courriers 10j + risque perte postale), **liste check 15 organismes** (Excel/papier cochée progressivement évite oublis), **La Poste 60€** (compense oublis mineurs, réexpédie 12 mois transition longue), **regroupement dates** (notifiez CAF + CPAM + impôts même jour J+2 efficacité vs étalé 2 sem risque oubli).
 
-Consultez notre [guide déménagement Lille](/blog/demenagement-lille/demenageur-lille-expert), notre [guide aide déménagement](/blog/aide-demenagement-lille/aide-demenagement-particuliers-lille), notre [guide déménagement pas cher](/blog/demenagement-lille/demenagement-pas-cher-lille-guide) et notre [article aides financières](/blog/demenagement-pas-cher-lille/aides-financieres-demenagement-lille).
+Consultez notre [guide déménagement Lille](/blog/demenageur-lille/demenageur-lille-expert), notre [guide aide déménagement](/blog/conseils/aide-demenagement-particuliers-lille), notre [guide déménagement pas cher](/blog/demenagement-pas-cher-lille/demenagement-pas-cher-lille-guide) et notre [article aides financières](/blog/conseils/aides-financieres-demenagement-lille).
 
 
 

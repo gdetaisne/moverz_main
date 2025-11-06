@@ -11,7 +11,7 @@ publish_date: "2025-02-19"
 author: "Équipe Moverz Nantes"
 ---
 
-Déménager un mardi ou un samedi à Nantes : quelle différence concrète sur votre facture ? Les déménageurs appliquent-ils réellement une majoration week-end, et si oui, de combien ? Cette question tarifaire cache aussi une équation personnelle : poser un congé (coût opportunité 80-120€ de salaire journalier) pour économiser 45-70€ sur le déménagement – rentable ou pas ? Pour une vue d'ensemble complète, consultez notre [guide déménagement pas cher à Nantes](/blog/demenagement-nantes/demenagement-pas-cher-nantes-guide).
+Déménager un mardi ou un samedi à Nantes : quelle différence concrète sur votre facture ? Les déménageurs appliquent-ils réellement une majoration week-end, et si oui, de combien ? Cette question tarifaire cache aussi une équation personnelle : poser un congé (coût opportunité 80-120€ de salaire journalier) pour économiser 45-70€ sur le déménagement – rentable ou pas ? Pour une vue d'ensemble complète, consultez notre [guide déménagement pas cher à Nantes](/blog/demenagement-pas-cher-nantes/demenagement-pas-cher-nantes-guide).
 
 À Nantes, les 15 déménageurs identifiés (Médard, Drouin, Gentlemen, Bretons, sources fiche locale octobre 2025) appliquent majoritairement un **différentiel de 5-10% entre semaine et week-end**, voire 10-15% en haute saison (juin-septembre, rentrée universitaire 55 000 étudiants). Un T2 facturé 450€ formule économique un mardi grimpe à 495-520€ le samedi – une différence de 45-70€ qui peut justifier un jour de congé si votre situation le permet.
 
@@ -141,7 +141,7 @@ Déménager en semaine à Nantes économise **5-10% vs week-end**, soit 45-70€
 Salariés avec congés limités calculeront au cas par cas : économie 50€ déménagement - coût congé 100€ = perte 50€ → privilégiez samedi. Profitez des jours fériés semaine (ponts mai, 14 juillet, 15 août) combinant tarif semaine et absence travail légale (économie + zéro congé perdu). La flexibilité des acteurs nantais (Médard, Gentlemen, Bretons) facilite adaptation : demandez devis mardi ET samedi, comparez, décidez selon votre situation personnelle.
 
 
-Pour aller plus loin, explorez notre [guide déménagement pas cher à Nantes](/blog/demenagement-nantes/demenagement-pas-cher-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement pas cher 2025](/blog/demenagement-pas-cher-nantes/prix-demenagement-pas-cher-nantes-2025) et [astuces pour réduire les coûts](/blog/demenagement-pas-cher-nantes/astuces-reduire-cout-demenagement-nantes).
+Pour aller plus loin, explorez notre [guide déménagement pas cher à Nantes](/blog/demenagement-pas-cher-nantes/demenagement-pas-cher-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement pas cher 2025](/blog/conseils/prix-demenagement-pas-cher-nantes-2025) et [astuces pour réduire les coûts](/blog/conseils/astuces-reduire-cout-demenagement-nantes).
 
 ## Questions Fréquentes
 

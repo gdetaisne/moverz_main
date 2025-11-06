@@ -22,7 +22,7 @@ author: Équipe Moverz Lyon
 
 Aide chargement camion Lyon (manutentionnaire spécialisé chargement, techniques optimisation volume 30-40% vs amateur) coûte 40-80€ (2-3h chargement studio-T1, vs 4-6h DIY perdant 30-40% volume mauvais calage). Pros utilisent : meubles lourds fond camion (canapés, armoires, lits base stable), cartons légers dessus empilés hauteur (gains verticaux 2-2,50m utiles), protections angles couvertures (évitent rayures contact meubles), sangles calage horizontal (meubles bougent pas transport virages/freinages), et démontage stratégique (lits/tables pieds séparés volume -40%). DIY amateur perd volume : espaces vides entre meubles mal orientés (canapé largeur vs longueur = 30cm perdus × 10 meubles = 3m³ gaspillés), pas empilement vertical (1,20m hauteur vs 2,20m possibles = 1m perte), cartons désorganisés (20 cartons éparpillés vs rangés méthodiquement économie 0,5m³). Studio 12m³ mobilier chargé pro = camionnette 12m³ suffit, vs DIY amateur nécessite 14-16m³ (surcoût location 20-40€/j + essence).
 
-Ce guide présente techniques optimisation (lourds bas, légers haut, sangles calage, protections), calcule gains volume pros +30-40%, révèle erreurs amateur (mauvais orientations, espaces vides, pas empilement), détaille aide chargement seul 40-80€ vs complet portage+chargement 160-240€. Consultez [manutentionnaire Lyon](/blog/aide-demenagement-lyon/manutentionnaire-demenagement-lyon).
+Ce guide présente techniques optimisation (lourds bas, légers haut, sangles calage, protections), calcule gains volume pros +30-40%, révèle erreurs amateur (mauvais orientations, espaces vides, pas empilement), détaille aide chargement seul 40-80€ vs complet portage+chargement 160-240€. Consultez [manutentionnaire Lyon](/blog/conseils/manutentionnaire-demenagement-lyon).
 
 ## Techniques Optimisation Pros
 
@@ -62,13 +62,13 @@ Ce guide présente techniques optimisation (lourds bas, légers haut, sangles ca
 
 ### Aide chargement camion Lyon prix ?
 
-**40-80€ chargement seul (2-3h, vous avez porté meubles, pro organise uniquement). Portage + chargement : 160-240€ (4-6h T2 escaliers + charge). Gains pros : optimisation +30-40% volume (12m³ studio = camionnette 12m³ suffit vs DIY 14-16m³ surcoût 20-40€).** Techniques : lourds bas, légers haut empilés 2-2,50m, sangles calage, protections angles, démontage -30-40% volume. Erreurs DIY : mauvaises orientations, pas empilement (1,20m vs 2,20m), espaces vides = gaspillage 30-40% volume. [Manutentionnaire →](/blog/aide-demenagement-lyon/manutentionnaire-demenagement-lyon)
+**40-80€ chargement seul (2-3h, vous avez porté meubles, pro organise uniquement). Portage + chargement : 160-240€ (4-6h T2 escaliers + charge). Gains pros : optimisation +30-40% volume (12m³ studio = camionnette 12m³ suffit vs DIY 14-16m³ surcoût 20-40€).** Techniques : lourds bas, légers haut empilés 2-2,50m, sangles calage, protections angles, démontage -30-40% volume. Erreurs DIY : mauvaises orientations, pas empilement (1,20m vs 2,20m), espaces vides = gaspillage 30-40% volume. [Manutentionnaire →](/blog/conseils/manutentionnaire-demenagement-lyon)
 
 ---
 
 ## Conclusion
 
-Aide chargement camion Lyon 40-80€ (2-3h chargement seul) optimise volume +30-40% techniques pros : lourds bas, légers haut empilés 2-2,50m, sangles calage, protections, démontage -30-40%. Gains : 12m³ studio chargé pro = camionnette 12m³ suffit vs DIY 14-16m³ surcoût 20-40€. Erreurs DIY : mauvaises orientations, espaces vides, pas empilement = gaspillage 3-4m³. Consultez [manutentionnaire](/blog/aide-demenagement-lyon/manutentionnaire-demenagement-lyon). Bon chargement !
+Aide chargement camion Lyon 40-80€ (2-3h chargement seul) optimise volume +30-40% techniques pros : lourds bas, légers haut empilés 2-2,50m, sangles calage, protections, démontage -30-40%. Gains : 12m³ studio chargé pro = camionnette 12m³ suffit vs DIY 14-16m³ surcoût 20-40€. Erreurs DIY : mauvaises orientations, espaces vides, pas empilement = gaspillage 3-4m³. Consultez [manutentionnaire](/blog/conseils/manutentionnaire-demenagement-lyon). Bon chargement !
 
 ---
 

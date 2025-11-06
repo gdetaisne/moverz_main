@@ -22,12 +22,12 @@ Votre piano est bien plus qu'un simple meuble. C'est un instrument de musique pr
 **Par Type de Piano :**
 
 **Prix et Facteurs :**
-- [Prix déménagement piano Montpellier 2025](/blog/demenagement-piano-montpellier/prix-demenagement-piano-montpellier) - Fourchettes 150-800€ selon distance/étages
+- [Prix déménagement piano Montpellier 2025](/blog/conseils/prix-demenagement-piano-montpellier) - Fourchettes 150-800€ selon distance/étages
 
 **Matériel et Services :**
 
 **Entretien Post-Transport :**
-- [Accordage piano après déménagement obligatoire](/blog/demenagement-piano-montpellier/accorder-piano-apres-demenagement) - Délai 48-72h, coût 80-120€
+- [Accordage piano après déménagement obligatoire](/blog/conseils/accorder-piano-apres-demenagement) - Délai 48-72h, coût 80-120€
 
 ## Pourquoi faire appel à un professionnel pour déménager votre piano à Montpellier ?
 

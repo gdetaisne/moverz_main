@@ -75,5 +75,5 @@ Grande Île : Rues 2-4m = Kangoo/Partner OK (2,2m largeur), Master difficile (2,
 
 **Marche arrière** : Difficile utilitaire. Aide extérieure (ami guide) recommandée.
 
-Pour plus d'informations, consultez notre [guide déménagement Grande Île Strasbourg](/blog/demenagement-strasbourg/demenageur-grande-ile-strasbourg).
+Pour plus d'informations, consultez notre [guide déménagement Grande Île Strasbourg](/blog/conseils/demenageur-grande-ile-strasbourg).
 

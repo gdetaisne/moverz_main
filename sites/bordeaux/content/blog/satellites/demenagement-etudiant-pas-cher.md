@@ -176,7 +176,7 @@ Un déménagement étudiant coûte généralement entre 200 et 600 euros selon l
 - [ ] Comparez les devis de déménagement
 - [ ] Organisez un déménagement en groupe si possible
 - [ ] Finalisez la récupération de cartons
-- [ ] Demandez les [aides financières](/blog/demenagement-etudiant-bordeaux/aide-financiere-demenagement-etudiant)
+- [ ] Demandez les [aides financières](/blog/conseils/aide-financiere-demenagement-etudiant)
 
 ### 1 semaine avant
 - [ ] Confirmez tous les arrangements
@@ -198,4 +198,4 @@ Nous offrons des services personnalisés : emballage économique, transport opti
 
 ---
 
-*Cet article complète notre [guide complet du déménagement étudiant à Bordeaux](/blog/demenagement-etudiant-bordeaux/guide-complet). Découvrez également nos conseils pour [récupérer des cartons gratuits](/blog/demenagement-etudiant-bordeaux/cartons-gratuits) et notre [checklist détaillée](/blog/demenagement-etudiant-bordeaux/checklist-demenagement-etudiant) pour ne rien oublier.*
+*Cet article complète notre [guide complet du déménagement étudiant à Bordeaux](/blog/demenagement-etudiant-bordeaux/guide-complet). Découvrez également nos conseils pour [récupérer des cartons gratuits](/blog/demenagement-etudiant-bordeaux/cartons-gratuits) et notre [checklist détaillée](/blog/conseils/checklist-demenagement-etudiant) pour ne rien oublier.*

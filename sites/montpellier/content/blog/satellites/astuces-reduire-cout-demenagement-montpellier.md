@@ -19,7 +19,7 @@ author: "Équipe Moverz Montpellier"
 # 15 Astuces Pour Réduire le Coût de Votre Déménagement à Montpellier
 
 
-Pour comprendre tous les aspects du déménagement pas cher à Montpellier, consultez notre [guide déménagement économique Montpellier](/blog/demenagement-montpellier/demenagement-pas-cher-montpellier).
+Pour comprendre tous les aspects du déménagement pas cher à Montpellier, consultez notre [guide déménagement économique Montpellier](/blog/demenagement-pas-cher-montpellier/demenagement-pas-cher-montpellier).
 
 
 Déménager à Montpellier sans se ruiner est tout à fait possible avec les bonnes stratégies. Entre un déménagement mal préparé qui peut coûter jusqu'à 1 500€ pour un T2 et un déménagement optimisé à 600€ pour le même logement, l'écart de 900€ justifie largement quelques efforts d'organisation.

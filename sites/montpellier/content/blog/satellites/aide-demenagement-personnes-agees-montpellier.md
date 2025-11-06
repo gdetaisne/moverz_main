@@ -18,7 +18,7 @@ author: "Équipe Moverz Montpellier"
 # Aide au Déménagement Pour Personnes Âgées à Montpellier
 
 
-Pour comprendre tous les aspects du aide déménagement particulier Montpellier, consultez notre [guide aide déménagement à Montpellier](/blog/demenagement-montpellier/aide-demenagement-particulier-montpellier).
+Pour comprendre tous les aspects du aide déménagement particulier Montpellier, consultez notre [guide aide déménagement à Montpellier](/blog/aide-demenagement-particulier-montpellier/aide-demenagement-particulier-montpellier).
 
 
 Les services d'aide au déménagement pour seniors à Montpellier proposent accompagnement complet (emballage, tri, transport, installation) à des tarifs adaptés, souvent pris en charge partiellement par l'APA (Allocation Personnalisée d'Autonomie) ou les mutuelles. Un déménagement T2 pour personne âgée coûte 900-1 400€ tout compris, incluant le tri délicat des affaires personnelles, l'emballage soigné, et l'installation complète dans le nouveau logement.

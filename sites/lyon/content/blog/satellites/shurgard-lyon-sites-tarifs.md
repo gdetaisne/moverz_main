@@ -24,7 +24,7 @@ Shurgard domine le marché self-stockage Lyon avec 4 sites stratégiques couvran
 
 Les 4 sites Shurgard Lyon totalisent ~15 000m² surface stockage (estimation 600-800 boxes tous formats), surveillance 24/7 vidéosurveillance + alarmes + contrôles accès badge électronique, accès 24/7 (Jean Macé, Gerland) ou 6h-22h (Vaise, États-Unis selon configurations), et services standards (chariots/diables prêt gratuit, vente cartons/cadenas, assurance optionnelle 3-8€/mois). La réservation en ligne shurgard.fr permet comparaison immédiate tarifs 4 sites, disponibilité temps réel, et réservation instantanée (paiement CB, accès sous 24-48h, contrat dématérialisé).
 
-Ce guide présente les 4 sites Shurgard Lyon (adresses précises, accès métro/tram/voiture, parkings), compare tarifs site par site (tableau prix par taille), détaille services inclus chaque site, révèle quel site choisir selon situation (central vs périphérie, métro vs voiture, court vs long terme), et présente alternatives Shurgard (Homebox, Une Pièce en Plus économies possibles). Pour prix marché global, consultez [prix garde-meuble Lyon 2025](/blog/garde-meuble-lyon/prix-garde-meuble-lyon-2025).
+Ce guide présente les 4 sites Shurgard Lyon (adresses précises, accès métro/tram/voiture, parkings), compare tarifs site par site (tableau prix par taille), détaille services inclus chaque site, révèle quel site choisir selon situation (central vs périphérie, métro vs voiture, court vs long terme), et présente alternatives Shurgard (Homebox, Une Pièce en Plus économies possibles). Pour prix marché global, consultez [prix garde-meuble Lyon 2025](/blog/conseils/prix-garde-meuble-lyon-2025).
 
 ## Shurgard Jean Macé Lyon (7ème)
 
@@ -144,7 +144,7 @@ Ce guide présente les 4 sites Shurgard Lyon (adresses précises, accès métro/
 
 ### Tarifs Shurgard Lyon ?
 
-**Shurgard Lyon moyennes : 1m² 60-70€, 3m² 105-120€, 5m² 140-165€, 10m² 240-280€, 15m² 320-380€, 20m² 400-480€/mois.** Variations sites : Vaise -10-15% (économique), Jean Macé +5-10% (central), Gerland/États-Unis standards. Promotions : 1er mois offert fréquent, -10% engagements 12 mois. Services inclus : surveillance 24/7, alarmes, badge, chariots gratuits. Assurance optionnelle : 3-8€/mois selon valeur stockée. [Prix détaillés →](/blog/garde-meuble-lyon/prix-garde-meuble-lyon-2025)
+**Shurgard Lyon moyennes : 1m² 60-70€, 3m² 105-120€, 5m² 140-165€, 10m² 240-280€, 15m² 320-380€, 20m² 400-480€/mois.** Variations sites : Vaise -10-15% (économique), Jean Macé +5-10% (central), Gerland/États-Unis standards. Promotions : 1er mois offert fréquent, -10% engagements 12 mois. Services inclus : surveillance 24/7, alarmes, badge, chariots gratuits. Assurance optionnelle : 3-8€/mois selon valeur stockée. [Prix détaillés →](/blog/conseils/prix-garde-meuble-lyon-2025)
 
 ---
 
@@ -152,7 +152,7 @@ Ce guide présente les 4 sites Shurgard Lyon (adresses précises, accès métro/
 
 Shurgard Lyon (4 sites Jean Macé/Vaise/Gerland/États-Unis) couvre métropole avec tarifs 130-480€/mois selon taille box (5-20m²) et site. Vaise périphérie affiche prix les plus bas (-10-15%, box 5m² 140€ vs 160€ Jean Macé, économie 240€/an), compensant éloignement centre (20 min voiture). Jean Macé central excelle accessibilité (métro B, tram T1, accès 24/7), idéal étudiants/particuliers sans voiture, tarifs légèrement supérieurs (+10%) justifiés localisation. Gerland et États-Unis offrent compromis (tarifs moyens, accès tram, quartiers calmes).
 
-Choisir selon priorités : économies (Vaise), central/transports (Jean Macé), sud Lyon (Gerland), est/familles (États-Unis). Comparer alternatives Homebox Villeurbanne (-5-10%) et Une Pièce en Plus. Promotions (1er mois offert) économisent 130-480€. Consultez [prix Lyon](/blog/garde-meuble-lyon/prix-garde-meuble-lyon-2025), [self vs traditionnel](/blog/garde-meuble-lyon/self-stockage-vs-traditionnel-lyon), [guide complet](/blog/garde-meuble-lyon/garde-meuble-lyon-guide-complet). Bon stockage !
+Choisir selon priorités : économies (Vaise), central/transports (Jean Macé), sud Lyon (Gerland), est/familles (États-Unis). Comparer alternatives Homebox Villeurbanne (-5-10%) et Une Pièce en Plus. Promotions (1er mois offert) économisent 130-480€. Consultez [prix Lyon](/blog/conseils/prix-garde-meuble-lyon-2025), [self vs traditionnel](/blog/garde-meuble/self-stockage-vs-traditionnel-lyon), [guide complet](/blog/garde-meuble/garde-meuble-lyon-guide). Bon stockage !
 
 ---
 

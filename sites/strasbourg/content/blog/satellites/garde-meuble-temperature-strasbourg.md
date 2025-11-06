@@ -10,7 +10,7 @@ publish_date: "2025-02-05"
 author: "Équipe Moverz Strasbourg"
 ---
 
-Stocker un piano, des œuvres d'art, une cave à vin ou des livres anciens nécessite-t-il température contrôlée à Strasbourg ? Avec un climat continental (été 25-35°C, hiver -5 à 5°C, amplitude 40°C), les variations thermiques menacent objets sensibles. Pour une vue complète, consultez notre [guide complet garde-meuble Strasbourg](/blog/demenagement-strasbourg/garde-meuble-strasbourg-guide).
+Stocker un piano, des œuvres d'art, une cave à vin ou des livres anciens nécessite-t-il température contrôlée à Strasbourg ? Avec un climat continental (été 25-35°C, hiver -5 à 5°C, amplitude 40°C), les variations thermiques menacent objets sensibles. Pour une vue complète, consultez notre [guide complet garde-meuble Strasbourg](/blog/garde-meuble-strasbourg/garde-meuble-strasbourg-guide).
 
 Ce guide détaille : qu'est-ce que température contrôlée (15-20°C constant, humidité 50-60%), quels objets nécessitent (instruments bois, cuir, art, électronique vintage), climat Strasbourg et risques, acteurs proposant option (Homebox à vérifier, rares), surcoût (+20-30%), et si box standard ventilé suffit.
 
@@ -128,5 +128,5 @@ Vin conservation optimale : 12-14°C constant, humidité 70-75%, obscurité. Box
 
 **Cave vin Strasbourg acteurs ?** Chercher "garde vin température contrôlée Strasbourg", "cave stockage vin Alsace". Spécialistes proposent 12-14°C précis.
 
-[Comparatif prix Strasbourg](/blog/garde-meuble-strasbourg/prix-garde-meuble-strasbourg-2025) détaille tarifs standard vs climatisé.
+[Comparatif prix Strasbourg](/blog/conseils/prix-garde-meuble-strasbourg-2025) détaille tarifs standard vs climatisé.
 

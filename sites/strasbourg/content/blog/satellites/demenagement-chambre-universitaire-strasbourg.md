@@ -60,5 +60,5 @@ author: "Équipe Moverz Strasbourg"
 
 **Entraide** : Aider copains déménagement = retour ascenseur (solidarité promo).
 
-Pour plus d'informations, consultez notre [guide garde-meuble étudiant Strasbourg](/blog/garde-meuble-strasbourg/garde-meuble-etudiant-strasbourg).
+Pour plus d'informations, consultez notre [guide garde-meuble étudiant Strasbourg](/blog/conseils/garde-meuble-etudiant-strasbourg).
 

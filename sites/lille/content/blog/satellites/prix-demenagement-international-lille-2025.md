@@ -19,7 +19,7 @@ Le prix d'un déménagement international depuis Lille varie de **1 500€** (Br
 
 À Lille, la **proximité frontalière** (Belgique 20 km, Royaume-Uni Eurotunnel 120 km, Allemagne 250 km) réduit coûts Europe : Bruxelles **1 500-2 500€** T2 routier (vs 4 000-6 000€ depuis Marseille +900 km), Londres **3 500-5 000€** post-Brexit (douanes UK obligatoires depuis 2021), Allemagne/Pays-Bas **2 500-4 000€**. Les 25-30 déménageurs internationaux Lille (AGS, Crown Relocations, Allied Pickfords, Grospiron, acteurs locaux spécialisés) proposent devis sur-mesure : visite technique domicile (évaluation volume exact, objets spéciaux), calcul transport optimal (groupage conteneur -40% vs exclusif rapidité), gestion douanes incluse (déclarations, taxes estimées, documents). Les Lillois expatriés (cadres multinationales, fonctionnaires UE, chercheurs) représentent 1 500-2 000 déménagements internationaux/an depuis métropole Lille selon estimations professionnelles.
 
-Ce guide détaille prix déménagement international Lille par destination, modes transport (routier, maritime, aérien), conteneurs (20/40 pieds), douanes, assurances, devis. Consultez notre [guide déménagement international Lille](/blog/demenagement-lille/demenagement-international-lille-guide).
+Ce guide détaille prix déménagement international Lille par destination, modes transport (routier, maritime, aérien), conteneurs (20/40 pieds), douanes, assurances, devis. Consultez notre [guide déménagement international Lille](/blog/demenagement-international-lille/demenagement-international-lille-guide).
 
 ## Prix Par Destination Depuis Lille
 
@@ -172,7 +172,7 @@ Proximité Lille : Belgique 20 km = économie Europe (Bruxelles 1 500€ vs 4 00
 
 Devis sur-mesure obligatoire : visite technique domicile (évaluation volume exact, objets spéciaux piano/œuvres art), calcul transport optimal (routier <2 000 km, maritime >2 000 km, aérien urgent), gestion douanes incluse (déclarations, taxes estimées prévisionnelles, documents requis), assurances ad valorem (valeur totale biens 20-80k€ typique T2-T3).
 
-Consultez notre [guide déménagement international Lille](/blog/demenagement-lille/demenagement-international-lille-guide), notre [article formalités douanières](/blog/demenagement-international-lille/formalites-douanieres-demenagement-international), notre [guide conteneurs](/blog/demenagement-international-lille/transport-conteneur-demenagement-international) et notre [article Lille-Londres](/blog/demenagement-international-lille/demenagement-lille-londres-post-brexit).
+Consultez notre [guide déménagement international Lille](/blog/demenagement-international-lille/demenagement-international-lille-guide), notre [article formalités douanières](/blog/conseils/formalites-douanieres-demenagement-international), notre [guide conteneurs](/blog/conseils/transport-conteneur-demenagement-international) et notre [article Lille-Londres](/blog/conseils/demenagement-lille-londres-post-brexit).
 
 
 

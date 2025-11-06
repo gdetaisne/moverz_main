@@ -14,11 +14,11 @@ author: "Équipe Moverz Rennes"
 
 Avec 70 000 étudiants (INSEE, fiche locale Rennes), la capitale bretonne connaît une forte mobilité étudiante chaque année : départs en stage, mobilité Erasmus, retour chez les parents l'été, changements de colocation. Stocker vos affaires pendant 2-10 mois devient vite nécessaire, mais avec un budget étudiant limité, trouver une solution économique et flexible est crucial.
 
-À Rennes, trois options s'offrent aux étudiants : Costockage (dès 44€/mois pour 3-4 m², option la plus économique), Homebox Le Rheu (55-65€/mois en périphérie, bon rapport qualité-prix), et Locakase (60-70€/mois centre, qualité maximale 5.0/5). Un studio étudiant typique (20m²) nécessite un box de 3-4 m² pour ranger lit, bureau, cartons et affaires personnelles. Ces éléments s'inscrivent dans le contexte plus large de notre [stockage sécurisé à Rennes](/blog/demenagement-rennes/garde-meuble-rennes).
+À Rennes, trois options s'offrent aux étudiants : Costockage (dès 44€/mois pour 3-4 m², option la plus économique), Homebox Le Rheu (55-65€/mois en périphérie, bon rapport qualité-prix), et Locakase (60-70€/mois centre, qualité maximale 5.0/5). Un studio étudiant typique (20m²) nécessite un box de 3-4 m² pour ranger lit, bureau, cartons et affaires personnelles. Ces éléments s'inscrivent dans le contexte plus large de notre [stockage sécurisé à Rennes](/blog/garde-meuble-rennes/garde-meuble-rennes).
 
 ## Besoins Spécifiques Étudiants Rennes
 
-Pour comprendre tous les aspects de ce sujet, consultez notre [guide complet du garde-meuble à Rennes](/blog/demenagement-rennes/garde-meuble-rennes).
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide complet du garde-meuble à Rennes](/blog/garde-meuble-rennes/garde-meuble-rennes).
 
 Les 70 000 étudiants rennais répartis entre université Rennes 1 (sciences, médecine), Rennes 2 (lettres, sciences humaines), Sciences Po, écoles d'ingénieurs et écoles de commerce ont des besoins de stockage spécifiques :
 
@@ -92,7 +92,7 @@ Pas réductions systématiques statut étudiant. Mais contrats 9 mois (année un
 **Quand réserver pour la rentrée ?**
 Mai-juin (2-3 mois avant). Saturation août-septembre (70 000 étudiants), boxes 3-5 m² épuisés, prix +10-15%.
 
-Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [solutions de garde-meuble rennais](/blog/demenagement-rennes/garde-meuble-rennes).
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [solutions de garde-meuble rennais](/blog/garde-meuble-rennes/garde-meuble-rennes).
 
 ---
 **Sources :** Fiche Rennes (70 000 étudiants INSEE), Costockage, Locakase, Homebox

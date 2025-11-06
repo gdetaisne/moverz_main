@@ -21,7 +21,7 @@ Déménager dans le centre historique de Rouen (Vieux-Marché, Cathédrale, rue 
 
 Un témoignage client illustre la réalité : "Déménagement T3 du Vieux-Marché (centre historique) vers Saint-Sever rive gauche : devis initial 1200€, facture finale 1450€. Surcoût dû à l'accès impossible du camion rue pavée + autorisation mairie + monte-meuble obligatoire. À prévoir !" (Trustpilot Déménagements Postel, 22 juin 2024).
 
-Ce guide détaille les **contraintes spécifiques du centre historique rouennais**, les surcoûts à anticiper, les acteurs spécialisés, et les astuces pour minimiser la facture tout en garantissant un déménagement réussi. Pour une vue d'ensemble, consultez [notre guide du déménageur à Rouen](/blog/demenagement-rouen/demenageur-rouen).
+Ce guide détaille les **contraintes spécifiques du centre historique rouennais**, les surcoûts à anticiper, les acteurs spécialisés, et les astuces pour minimiser la facture tout en garantissant un déménagement réussi. Pour une vue d'ensemble, consultez [notre guide du déménageur à Rouen](/blog/demenageur-rouen/demenageur-rouen).
 
 ## Les Contraintes du Centre Historique Rouennais
 
@@ -181,7 +181,7 @@ Déménager dans le centre historique de Rouen (Vieux-Marché, Cathédrale, Gros
 
 Les déménageurs spécialisés Rouen (TDN note 4.7/5, Postel 4.5/5, Demeco 4.4/5) maîtrisent ces contraintes : autorisation mairie anticipée, monte-meuble systématique, portage longue distance organisé, horaires matinaux respectés. Le surcoût de 200-650€ selon volume se justifie par l'expertise évitant blocages jour J (camion coincé rue étroite, meubles bloqués escaliers, verbalisation stationnement).
 
-Si vous cherchez un logement centre Rouen, privilégiez rez-de-chaussée/1er étage ou immeubles avec ascenseur (rares mais existent rue Beauvoisine, Gare) pour limiter surcoûts déménagement. Découvrez tous nos [services de déménagement à Rouen](/blog/demenagement-rouen/demenageur-rouen) et nos [tarifs détaillés par quartier](/blog/demenagement-rouen/prix-demenageur-rouen-2025).
+Si vous cherchez un logement centre Rouen, privilégiez rez-de-chaussée/1er étage ou immeubles avec ascenseur (rares mais existent rue Beauvoisine, Gare) pour limiter surcoûts déménagement. Découvrez tous nos [services de déménagement à Rouen](/blog/demenageur-rouen/demenageur-rouen) et nos [tarifs détaillés par quartier](/blog/conseils/prix-demenageur-rouen-2025).
 
 ## Questions Fréquentes
 

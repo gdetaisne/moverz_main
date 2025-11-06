@@ -18,7 +18,7 @@ author: "Équipe Moverz Montpellier"
 # Prix Déménagement par m³ à Montpellier 2025
 
 
-Pour comprendre tous les aspects du prix déménagement à Montpellier, consultez notre [guide complet des prix déménagement à Montpellier](/blog/demenagement-montpellier/prix-demenagement-montpellier).
+Pour comprendre tous les aspects du prix déménagement à Montpellier, consultez notre [guide complet des prix déménagement à Montpellier](/blog/prix-demenagement-montpellier/prix-demenagement-montpellier).
 
 
 Le tarif au m³ varie de 30-50€ à Montpellier selon prestations (économique 30-35€/m³, standard 35-45€/m³, clé en main 45-50€/m³). Volumes standards : Studio 15-20m³ (450-900€), T2 30-40m³ (900-1 800€), T3 50-60m³ (1 500-2 700€).
@@ -33,7 +33,7 @@ Calculer volume précis (outils en ligne, ou déménageur visite) évite sous-es
 
 ### Comment calculer le volume de son logement ?
 
-**Calcul volume** : règle 1m³ = 10m² surface (T2 35m² = 35m³ max) OU inventaire détaillé pièce/pièce. Outils en ligne : calculateurs agences (Europcar, Sixt), apps Demenageo. Visite déménageur gratuite : évaluation pro précise. Marge +20-30% obligatoire (objets oubliés, protections). Sous-estimation fréquente : 25-30% novices = surcoûts jour J. Consultez notre [guide prix Montpellier](/blog/demenagement-montpellier/prix-demenagement-montpellier).
+**Calcul volume** : règle 1m³ = 10m² surface (T2 35m² = 35m³ max) OU inventaire détaillé pièce/pièce. Outils en ligne : calculateurs agences (Europcar, Sixt), apps Demenageo. Visite déménageur gratuite : évaluation pro précise. Marge +20-30% obligatoire (objets oubliés, protections). Sous-estimation fréquente : 25-30% novices = surcoûts jour J. Consultez notre [guide prix Montpellier](/blog/prix-demenagement-montpellier/prix-demenagement-montpellier).
 
 ---
 

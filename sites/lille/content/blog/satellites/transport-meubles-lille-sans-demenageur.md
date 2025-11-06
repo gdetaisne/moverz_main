@@ -19,7 +19,7 @@ Transporter **1-5 meubles Lille sans déménageur** coûte **50-200€** selon s
 
 À Lille, les **acteurs transport meuble ponctuel** : **coursiers locaux** (20-30 entreprises métropole, camionnettes Kangoo/Berlingo, tarifs 0,8-1,5€/km + forfait portage 20-40€), **transporteurs élargissant activité** (entreprises marchandises BtoB proposant BtoC occasionnel), **particuliers Leboncoin** ("Transport objets encombrants" 50-120€ journée, assurance variable, fiabilité incertaine), **magasins livraison** (IKEA Lezennes 49€ livraison standard 2-5j ou 79€ express lendemain, Conforama/BUT services similaires). Le **timing optimal** évite weekends (tarifs +20-30% coursiers, disponibilité réduite) et préfère mardi-jeudi (fluidité circulation, disponibilité max). Les **contraintes Lille Centre** (Vieux-Lille accès étroit, stationnement payant République 2€/h, zones piétonnes Wazemmes) favorisent camionnettes vs gros véhicules.
 
-Ce guide détaille 5 solutions transport meubles Lille sans déménageur : coursiers, DIY camionnette, ami, plateformes, express, prix, avantages/inconvénients, conseils. Consultez notre [guide petit déménagement Lille](/blog/petit-demenagement-lille/petit-demenagement-lille-studio-t1).
+Ce guide détaille 5 solutions transport meubles Lille sans déménageur : coursiers, DIY camionnette, ami, plateformes, express, prix, avantages/inconvénients, conseils. Consultez notre [guide petit déménagement Lille](/blog/conseils/petit-demenagement-lille-studio-t1).
 
 ## 5 Solutions Transport Meubles Lille
 
@@ -274,7 +274,7 @@ Acteurs Lille : coursiers locaux (20-30 entreprises métropole Google "coursier 
 
 Contraintes Lille Centre : Vieux-Lille rues pavées 3-4m accès étroit camionnettes OK vs gros véhicules, stationnement payant République 2€/h, zones piétonnes Wazemmes, circulation dense évitez heures pointe 8h-9h/17h-19h. Timing optimal : mardi-jeudi 10h-16h (fluidité max), évitez lundi matin (reprise activité), vendredi soir (embouteillages).
 
-Consultez notre [guide petit déménagement Lille](/blog/petit-demenagement-lille/petit-demenagement-lille-studio-t1), notre [guide location camion](/blog/demenagement-lille/location-camion-demenagement-lille-guide), notre [guide coursiers Lille](/blog/aide-demenagement-lille/aide-demenagement-particuliers-lille) et notre [article DIY](/blog/demenagement-pas-cher-lille/diy-demenagement-lille-budget-mini).
+Consultez notre [guide petit déménagement Lille](/blog/conseils/petit-demenagement-lille-studio-t1), notre [guide location camion](/blog/location-camion-demenagement-lille/location-camion-demenagement-lille-guide), notre [guide coursiers Lille](/blog/conseils/aide-demenagement-particuliers-lille) et notre [article DIY](/blog/conseils/diy-demenagement-lille-budget-mini).
 
 
 
