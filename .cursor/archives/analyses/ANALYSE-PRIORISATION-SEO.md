@@ -152,7 +152,7 @@
 
 ---
 
-### P2-014-Metadata-optimisation-termine : Optimisation Métadonnées SEO - 11 villes
+### P2-014-Metadata-optimisation-en-cours : Optimisation Métadonnées SEO - 11 villes
 
 **Statut** : 🔄 EN COURS (80% fait)  
 **Effort restant** : 3-4h (validation SERP, tests)  
@@ -331,13 +331,13 @@ ACTION : "Cursor, je finalise P1-006-SEO-migration-canonicals-termine"
 IMPACT ATTENDU : +15-20% positions (J+30), ROI +300%
 ```
 
-#### 🟡 PRIORITÉ #5 : P2-014-Metadata-optimisation-termine - Metadata (3-4h)
+#### 🟡 PRIORITÉ #5 : P2-014-Metadata-optimisation-en-cours - Metadata (3-4h)
 ```
 Impact SEO : 8/10 court/moyen terme
 ROI : 2.3 (TRÈS ÉLEVÉ)
 Urgence : P2 (CTR)
 
-ACTION : "Cursor, je finalise P2-014-Metadata-optimisation-termine"
+ACTION : "Cursor, je finalise P2-014-Metadata-optimisation-en-cours"
 → Validation SERP (Search Console)
 → Tester metadata 2 villes
 → Marquer finalisé
@@ -409,7 +409,7 @@ IMPACT ATTENDU : +40-50% trafic (J+90+), 100% 404 résolus
 | **#2** 🔴 | P1-012-SEO-villes-hardcodees-en-cours (Hardcodées) | 2-3h | 7/10 | **2.8** ⭐⭐⭐ | 85% |
 | **#3** 🟠 | TASK-007 (Redirections) | 3-4h | 8.5/10 | **2.4** ⭐⭐⭐ | 80% |
 | **#4** 🟠 | P1-006-SEO-migration-canonicals-termine (Canonicals) | 2-3h | 8.5/10 | **3.4** ⭐⭐⭐ | 90% |
-| **#5** 🟡 | P2-014-Metadata-optimisation-termine (Metadata) | 3-4h | 8/10 | **2.3** ⭐⭐⭐ | 80% |
+| **#5** 🟡 | P2-014-Metadata-optimisation-en-cours (Metadata) | 3-4h | 8/10 | **2.3** ⭐⭐⭐ | 80% |
 | **#6** 🟡 | P2-013-SEO-internal-linking-homepage-en-cours (Internal link) | 4-5h | 7.5/10 | **1.7** ⭐⭐ | 75% |
 | **#7** 🟡 | P2-009-SEO-amelioration-en-cours (Schema) | 5-6h | 6.5/10 | **1.2** ⭐⭐ | 70% |
 | **#8** 🟢 | TASK-001 (104 articles) | 20-30h | 7/10 | **0.28** ⭐ | 93% |
@@ -433,7 +433,7 @@ IMPACT ATTENDU : +40-50% trafic (J+90+), 100% 404 résolus
 - Architecture technique propre
 
 **Jour 3 (7-9h)** :
-5. ✅ Finaliser P2-014-Metadata-optimisation-termine (3-4h) → CTR optimisé
+5. ✅ Finaliser P2-014-Metadata-optimisation-en-cours (3-4h) → CTR optimisé
 6. ✅ Finaliser P2-013-SEO-internal-linking-homepage-en-cours (4-5h) → Homepage boostée
 
 **Impact court terme** :
@@ -466,7 +466,7 @@ IMPACT ATTENDU : +40-50% trafic (J+90+), 100% 404 résolus
 
 ### Court terme (J+1-7)
 - **Trafic Nice** : +restauration immédiate (TASK-011)
-- **CTR global** : +10-15% (P2-014-Metadata-optimisation-termine metadata)
+- **CTR global** : +10-15% (P2-014-Metadata-optimisation-en-cours metadata)
 - **Crawl budget** : +30-40% optimisé (TASK-007 redirections)
 
 ### Moyen terme (J+7-30)
@@ -498,7 +498,7 @@ IMPACT ATTENDU : +40-50% trafic (J+90+), 100% 404 résolus
 "Cursor, je finalise P1-006-SEO-migration-canonicals-termine"
 
 # Priorité #5
-"Cursor, je finalise P2-014-Metadata-optimisation-termine"
+"Cursor, je finalise P2-014-Metadata-optimisation-en-cours"
 
 # Priorité #6
 "Cursor, je finalise P2-013-SEO-internal-linking-homepage-en-cours"

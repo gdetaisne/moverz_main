@@ -104,14 +104,14 @@
 
 ## 🔥 EN COURS MAINTENANT
 
-### [P0]-P0-046-SERP-favicon-logo-termine : Logo SERP / Favicons — CTR Critique ✅ TECHNIQUE COMPLÉTÉ
+### [P0]-P0-046-SERP-favicon-logo-en-pause : Logo SERP / Favicons — CTR Critique ✅ TECHNIQUE COMPLÉTÉ
 
 **Priorité** : P0 (Business Critical)  
 **Type** : SEO / Investigation + Fix
 
 **Objectif** : Faire apparaître systématiquement le logo dans résultats Google (SERP)
 
-**Documentation** : `.cursor/tasks/P0-046-SERP-favicon-logo-termine/`
+**Documentation** : `.cursor/tasks/P0-046-SERP-favicon-logo-en-pause/`
 
 **Démarrée le** : 2025-11-05  
 **Complétée le** : 2025-11-05  
@@ -138,7 +138,7 @@
 
 **Next check** : 12/11/2025 (J+7) → Vérifier logo SERP
 
-**Rapport** : `.cursor/tasks/P0-046-SERP-favicon-logo-termine/RAPPORT-SESSION-05-NOV.md`
+**Rapport** : `.cursor/tasks/P0-046-SERP-favicon-logo-en-pause/RAPPORT-SESSION-05-NOV.md`
 
 ---
 

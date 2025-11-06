@@ -43,7 +43,7 @@
    ├─ cityData.ts (11 fichiers, 10 min)
    └─ Tests Nice + Toulouse (30 min)
 
-5️⃣ P2-014-Metadata-optimisation-termine (15 min) : Validation SERP
+5️⃣ P2-014-Metadata-optimisation-en-cours (15 min) : Validation SERP
    └─> Tests Google Search Console
 ```
 
@@ -126,7 +126,7 @@ P1-006-SEO-migration-canonicals-termine (2h30) : Corrige quartiers-toulouse/page
      ↓ commit
 P1-012-SEO-villes-hardcodees-en-cours (45min) : Corrige quartiers-toulouse/page.tsx (même fichier !)
      ↓ commit
-P2-014-Metadata-optimisation-termine (1h) : Teste quartiers-toulouse/page.tsx (déjà testé !)
+P2-014-Metadata-optimisation-en-cours (1h) : Teste quartiers-toulouse/page.tsx (déjà testé !)
      ↓
 
 Résultat : 
@@ -164,7 +164,7 @@ Résultat :
 ```
 Jour 1 :
 08h-09h   : Phase 1 (TASK-011 + 404-02 cleanSlug)
-14h-16h45 : Phase 2 (P1-006-SEO-migration-canonicals-termine+012 fusionnés + P2-014-Metadata-optimisation-termine)
+14h-16h45 : Phase 2 (P1-006-SEO-migration-canonicals-termine+012 fusionnés + P2-014-Metadata-optimisation-en-cours)
 
 Jour 2 :
 09h-12h30 : Phase 3 (P2-013-SEO-internal-linking-homepage-en-cours + 404-02 final + P2-009-SEO-amelioration-en-cours)

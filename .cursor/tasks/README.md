@@ -44,7 +44,7 @@ TASK-XXX-nom-descriptif/
 - `P1-012-SEO-villes-hardcodees-en-cours/` 🔄 EN COURS (85%)
 - `P2-009-SEO-amelioration-en-cours/` 🔄 EN COURS (70%)
 - `P2-013-SEO-internal-linking-homepage-en-cours/` 🔄 EN COURS (75%)
-- `P2-014-Metadata-optimisation-termine/` 🔄 EN COURS (80%)
+- `P2-014-Metadata-optimisation-en-cours/` 🔄 EN COURS (80%)
 
 ### Exemple
 - `TASK-EXAMPLE-exemple-documentation/` → Template de référence

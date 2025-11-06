@@ -30,7 +30,7 @@
 
 **Pourquoi en pause** :
 - Tests Lille en attente déploiement CapRover
-- Découverte bug global FAQ (P1-038-SEO-bug-faq-global-termine créée)
+- Découverte bug global FAQ (P1-038-SEO-bug-faq-global-pas-commence créée)
 - Momentum pattern validé, prêt à reprendre
 
 **Prochaine session** :
@@ -45,11 +45,11 @@
 
 ## 🔥 EN COURS MAINTENANT
 
-### [P0]-P0-046-SERP-favicon-logo-termine : Logo SERP / Favicons — CTR
+### [P0]-P0-046-SERP-favicon-logo-en-pause : Logo SERP / Favicons — CTR
 
 **Statut** : 🔄 EN COURS (analyse initiale)  
 **Temps estimé** : 1.5-3h  
-**Doc** : `.cursor/tasks/P0-046-SERP-favicon-logo-termine/`
+**Doc** : `.cursor/tasks/P0-046-SERP-favicon-logo-en-pause/`
 
 **Pourquoi** : Résultats Google sans logo → CTR en baisse sur 11 sites (mobile). Impact business direct → P0 exceptionnel (prioritaire malgré INCOMPLET).
 
@@ -81,20 +81,20 @@
 
 ---
 
-## 🆕 Nouvelles tâches (split de P2-014-Metadata-optimisation-termine)
+## 🆕 Nouvelles tâches (split de P2-014-Metadata-optimisation-en-cours)
 
-- [P1]-P1-039-SEO-titles-normalisation-termine : Normalisation Titles 50–60 chars (11 villes) — PENDING  
-  Doc: `.cursor/tasks/P1-039-SEO-titles-normalisation-termine/`
+- [P1]-P1-039-SEO-titles-normalisation-fusionne : Normalisation Titles 50–60 chars (11 villes) — PENDING  
+  Doc: `.cursor/tasks/P1-039-SEO-titles-normalisation-fusionne/`
 - [P1]-P1-040-SEO-descriptions-tier2-pas-commence : Descriptions 150–160 chars — Tier 2 (11 villes) — PENDING  
   Doc: `.cursor/tasks/P1-040-SEO-descriptions-tier2-pas-commence/`
 - [P1]-TASK-041 : Price signals (UI + JSON‑LD Service) — PENDING  
   Doc: `.cursor/tasks/P1-041-SEO-price-signals-pas-commence/`
 - [P2]-TASK-043 : FAQ rationalisation (snippet efficace) — PENDING  
-  Doc: `.cursor/tasks/P2-043-SEO-faq-rationalisation-termine/`
-- [P2]-P2-044-SEO-howto-video-poc-termine : HowTo/Video — POC 2 villes — PENDING  
-  Doc: `.cursor/tasks/P2-044-SEO-howto-video-poc-termine/`
+  Doc: `.cursor/tasks/P2-043-SEO-faq-rationalisation-pas-commence/`
+- [P2]-P2-044-SEO-howto-video-poc-pas-commence : HowTo/Video — POC 2 villes — PENDING  
+  Doc: `.cursor/tasks/P2-044-SEO-howto-video-poc-pas-commence/`
 - [P1]-TASK-045 : QA & Monitoring CTR (outillage + baselines) — PENDING  
-  Doc: `.cursor/tasks/P1-045-Analytics-qa-ctr-termine/`
+  Doc: `.cursor/tasks/P1-045-Analytics-qa-ctr-fusionne/`
 
 **Toutes les sessions 404 sont ARCHIVÉES dans DONE.md** ✅
 
@@ -229,7 +229,7 @@
 
 ---
 
-### ✅ P1-028-SEO-sitemaps-consistency-termine : Sitemaps Consistency (11 villes) - FINALISÉ
+### ✅ P1-028-SEO-sitemaps-consistency-pas-commence : Sitemaps Consistency (11 villes) - FINALISÉ
 
 **Date** : 04/11/2025  
 **Temps** : 0h (déjà complète lors de TASK-025)
@@ -379,8 +379,8 @@ Assurer 1 seule sitemap par domaine (route app), pas d'index ni `sitemap-*.xml`,
 **Commande** : `"Cursor, je démarre P2-023-Scripts-setup-automation-termine"`
 
 ### Option C : SEO Prioritaire (1.5-2h)
-**P1-028-SEO-sitemaps-consistency-termine** : Sitemaps Consistency (11 villes, P1)  
-**Commande** : `"Cursor, je démarre P1-028-SEO-sitemaps-consistency-termine"`
+**P1-028-SEO-sitemaps-consistency-pas-commence** : Sitemaps Consistency (11 villes, P1)  
+**Commande** : `"Cursor, je démarre P1-028-SEO-sitemaps-consistency-pas-commence"`
 
 ---
 
@@ -452,7 +452,7 @@ Assurer 1 seule sitemap par domaine (route app), pas d'index ni `sitemap-*.xml`,
 **🔄 5 tâches à finaliser** :
 - P1-012-SEO-villes-hardcodees-en-cours : Villes hardcodées (P1, 85%, tests manquants)
 - P2-013-SEO-internal-linking-homepage-en-cours : Internal linking (P2, 75%, validation maillage)
-- P2-014-Metadata-optimisation-termine : Metadata SEO (P2, 80%, tests SERP + descriptions)
+- P2-014-Metadata-optimisation-en-cours : Metadata SEO (P2, 80%, tests SERP + descriptions)
 - P2-009-SEO-amelioration-en-cours : Schema.org (P2, 70%, validation Rich Results)
 
 **Stratégie** : Projet 404 quasi-terminé (99%), focus sur finalisation tâches existantes + nouvelles priorités SEO.

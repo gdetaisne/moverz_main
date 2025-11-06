@@ -50,7 +50,7 @@ P1-404-07-404-redirections-externes-0%
 ```
 P2-009-SEO-amelioration-en-cours
 P2-013-SEO-internal-linking-homepage-en-cours
-P2-014-Metadata-optimisation-termine
+P2-014-Metadata-optimisation-en-cours
 [P2]-TASK-404-04-creation-contenu         (optionnel)
 ```
 

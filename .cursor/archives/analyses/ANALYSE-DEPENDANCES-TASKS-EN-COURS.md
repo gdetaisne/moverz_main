@@ -14,7 +14,7 @@
 | **TASK-011** | 90% | 30 min | P0 | Fix deployment Nice |
 | **P1-012-SEO-villes-hardcodees-en-cours** | 85% | 45 min | P1 | Villes hardcodées |
 | **P1-006-SEO-migration-canonicals-termine** | 95% | 2h30 | P1 | Canonicals + bugs |
-| **P2-014-Metadata-optimisation-termine** | 80% | 1h | P2 | Metadata |
+| **P2-014-Metadata-optimisation-en-cours** | 80% | 1h | P2 | Metadata |
 | **P2-013-SEO-internal-linking-homepage-en-cours** | 75% | 1h30 | P2 | Internal linking |
 | **P2-009-SEO-amelioration-en-cours** | 70% | 3h | P2 | SEO Schema |
 | **TASK-404-01** | ✅ | 0 | - | Audit (terminé) |
@@ -37,7 +37,7 @@
 - Modifie : Même fichiers que P1-006-SEO-migration-canonicals-termine bugs #1 et #2
 - Fix : Ville dynamique dans metadata
 
-**P2-014-Metadata-optimisation-termine** (Metadata 80%)
+**P2-014-Metadata-optimisation-en-cours** (Metadata 80%)
 - Modifie : Metadata optimization (titles, descriptions)
 - Modifie : `metadataBase` dans helper
 - Fix : Même type corrections que P1-012-SEO-villes-hardcodees-en-cours
@@ -53,13 +53,13 @@ title: "Quartiers — Déménagement à Lille..."  // ❌
 // quartiers-toulouse/page.tsx (même fichier !)
 title: "Quartiers — Déménagement à Lille..."  // ❌
 
-// P2-014-Metadata-optimisation-termine pourrait AUSSI toucher :
+// P2-014-Metadata-optimisation-en-cours pourrait AUSSI toucher :
 // Optimization metadata quartiers-toulouse/page.tsx
 ```
 
 **RISQUE** : Si fait séparément → 3 commits sur même fichier → Conflit merge ou travail dupliqué
 
-**SOLUTION** : **Fusionner corrections P1-006-SEO-migration-canonicals-termine + P1-012-SEO-villes-hardcodees-en-cours + P2-014-Metadata-optimisation-termine**
+**SOLUTION** : **Fusionner corrections P1-006-SEO-migration-canonicals-termine + P1-012-SEO-villes-hardcodees-en-cours + P2-014-Metadata-optimisation-en-cours**
 
 ---
 
@@ -186,7 +186,7 @@ PRIORITÉ 2 : METADATA / CANONICALS (fusionner)
 │  ├─ Tests 2 villes à valider
 │  └─> Peut-être déjà résolu bugs P1-006-SEO-migration-canonicals-termine ?
 │
-└─ P2-014-Metadata-optimisation-termine (1h)
+└─ P2-014-Metadata-optimisation-en-cours (1h)
    ├─ Validation SERP
    └─> Utilise metadata de P1-006-SEO-migration-canonicals-termine/P1-012-SEO-villes-hardcodees-en-cours
 
@@ -246,7 +246,7 @@ grep -r "Déménagement à Lille" sites/toulouse/app
 - Validation metadata dynamiques
 - Si chevauchement avec P1-006-SEO-migration-canonicals-termine → Commit conjoint
 
-**2.4 P2-014-Metadata-optimisation-termine validation** (30 min)
+**2.4 P2-014-Metadata-optimisation-en-cours validation** (30 min)
 - Tests SERP (Google Search Console)
 - Validation metadata 2 villes
 - Utilise résultats P1-006-SEO-migration-canonicals-termine/P1-012-SEO-villes-hardcodees-en-cours
@@ -318,7 +318,7 @@ Problème : Metadata "Lille" dans Toulouse (6+ fichiers)
 **3 tâches touchent metadata** :
 - P1-006-SEO-migration-canonicals-termine : Canonical + bugs quartiers
 - P1-012-SEO-villes-hardcodees-en-cours : Villes hardcodées
-- P2-014-Metadata-optimisation-termine : Optimization titles/descriptions
+- P2-014-Metadata-optimisation-en-cours : Optimization titles/descriptions
 
 **RISQUE** : Commits multiples sur mêmes fichiers
 
@@ -363,7 +363,7 @@ Problème : Metadata "Lille" dans Toulouse (6+ fichiers)
 **Objectif** : Finaliser TOUTES corrections metadata en 1 fois
 
 3. **Audit chevauchements** (15 min)
-   - Lister fichiers touchés P1-006-SEO-migration-canonicals-termine + P1-012-SEO-villes-hardcodees-en-cours + P2-014-Metadata-optimisation-termine
+   - Lister fichiers touchés P1-006-SEO-migration-canonicals-termine + P1-012-SEO-villes-hardcodees-en-cours + P2-014-Metadata-optimisation-en-cours
    - Identifier doublons
    - Créer plan correction unifié
 
@@ -376,7 +376,7 @@ Problème : Metadata "Lille" dans Toulouse (6+ fichiers)
    - Tests P1-006-SEO-migration-canonicals-termine : Nice + Toulouse (30 min)
    - **Commit UNIQUE** : Corrections P1-006-SEO-migration-canonicals-termine + validation P1-012-SEO-villes-hardcodees-en-cours (10 min)
 
-5. **P2-014-Metadata-optimisation-termine validation** (30 min)
+5. **P2-014-Metadata-optimisation-en-cours validation** (30 min)
    - Tests SERP
    - Validation metadata
    - Commit si modifs nécessaires
@@ -434,7 +434,7 @@ P1-006-SEO-migration-canonicals-termine (2h30) → Corrige metadata quartiers
   ↓
 P1-012-SEO-villes-hardcodees-en-cours (45min) → Re-corrige mêmes metadata
   ↓
-P2-014-Metadata-optimisation-termine (1h) → Re-corrige encore
+P2-014-Metadata-optimisation-en-cours (1h) → Re-corrige encore
   ↓
 Total : 4h15 sur mêmes fichiers ❌
 ```
@@ -446,7 +446,7 @@ Audit chevauchements (15min)
   ↓
 P1-006-SEO-migration-canonicals-termine + P1-012-SEO-villes-hardcodees-en-cours fusionnés (2h)
   ↓
-P2-014-Metadata-optimisation-termine validation (30min)
+P2-014-Metadata-optimisation-en-cours validation (30min)
   ↓
 Total : 2h45 (économie 1h30) ✅
 ```
@@ -469,7 +469,7 @@ Total : 2h45 (économie 1h30) ✅
 ```
 3. Audit (15 min) → Identifier doublons
 4. P1-006-SEO-migration-canonicals-termine + P1-012-SEO-villes-hardcodees-en-cours (2h) → 1 commit au lieu de 2
-5. P2-014-Metadata-optimisation-termine (30 min) → Validation
+5. P2-014-Metadata-optimisation-en-cours (30 min) → Validation
 ```
 
 ### Session 3 : SEO COMPLET (4h30) 📈
@@ -519,7 +519,7 @@ Total : 2h45 (économie 1h30) ✅
 # Puis
 "Cursor, corrige P1-006-SEO-migration-canonicals-termine bugs + finalise P1-012-SEO-villes-hardcodees-en-cours en 1 fois"  # 2h
 # Puis
-"Cursor, finalise P2-014-Metadata-optimisation-termine"  # 30 min
+"Cursor, finalise P2-014-Metadata-optimisation-en-cours"  # 30 min
 ```
 
 **Résultat** : Metadata 100% propres

@@ -659,7 +659,7 @@ Marseille : Z leads/mois
 - P1-012-SEO-villes-hardcodees-en-cours : Villes hardcodées (85%)
 - P2-009-SEO-amelioration-en-cours : Schema.org (70%)
 - P2-013-SEO-internal-linking-homepage-en-cours : Internal linking (75%)
-- P2-014-Metadata-optimisation-termine : Metadata SEO (80%)
+- P2-014-Metadata-optimisation-en-cours : Metadata SEO (80%)
 ```
 
 ### Projet 404

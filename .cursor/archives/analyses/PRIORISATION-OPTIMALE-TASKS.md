@@ -34,8 +34,8 @@ name: `Devis de déménagement – ${q.title} (Lille)`,  // ❌
 | **TASK-011** | SITE_URL deployment | - | P1-006-SEO-migration-canonicals-termine (tests Nice) |
 | **TASK-404-02** | cleanSlug(), CATEGORY_MAPPING | - | TASK-404-05, blog mods |
 | **P1-006-SEO-migration-canonicals-termine** | Canonicals, metadata pages | TASK-011 (Nice OK) | TASK-404-05 (trailing slash) |
-| **P1-012-SEO-villes-hardcodees-en-cours** | Metadata pages | - | P2-014-Metadata-optimisation-termine (metadata propre) |
-| **P2-014-Metadata-optimisation-termine** | Metadata optimization | P1-012-SEO-villes-hardcodees-en-cours (base propre) | - |
+| **P1-012-SEO-villes-hardcodees-en-cours** | Metadata pages | - | P2-014-Metadata-optimisation-en-cours (metadata propre) |
+| **P2-014-Metadata-optimisation-en-cours** | Metadata optimization | P1-012-SEO-villes-hardcodees-en-cours (base propre) | - |
 | **P2-013-SEO-internal-linking-homepage-en-cours** | Liens internes | P1-006-SEO-migration-canonicals-termine (trailing slash) | - |
 | **P2-009-SEO-amelioration-en-cours** | Schema.org, wording | - (indépendant) | - |
 | **TASK-404-05** | Liens internes blog | TASK-404-02, P1-006-SEO-migration-canonicals-termine | TASK-404-06/07/08 |
@@ -307,7 +307,7 @@ Juste valider :
 
 ### PHASE 3 : METADATA OPTIMIZATION (30 min) 📊
 
-**P3.1 - P2-014-Metadata-optimisation-termine validation** (30 min)
+**P3.1 - P2-014-Metadata-optimisation-en-cours validation** (30 min)
 
 **Nécessite** : P1-006-SEO-migration-canonicals-termine + P1-012-SEO-villes-hardcodees-en-cours terminées (metadata propre)
 
@@ -325,7 +325,7 @@ curl -s https://devis-demenageur-marseille.fr/services/demenagement-standard-mar
 ```
 
 **Si modifications nécessaires** : Commit séparé  
-**Sinon** : Juste validation → Finaliser P2-014-Metadata-optimisation-termine ✅
+**Sinon** : Juste validation → Finaliser P2-014-Metadata-optimisation-en-cours ✅
 
 **Pourquoi en #3** :
 - Nécessite metadata de base propres (P1-006-SEO-migration-canonicals-termine/P1-012-SEO-villes-hardcodees-en-cours)
@@ -465,7 +465,7 @@ https://devis-demenageur-marseille.fr/
 ```
 14h00-14h15 : Audit chevauchements P1-006-SEO-migration-canonicals-termine/P1-012-SEO-villes-hardcodees-en-cours
 14h15-16h15 : P1-006-SEO-migration-canonicals-termine + P1-012-SEO-villes-hardcodees-en-cours fusionnés (1 commit)
-16h15-16h45 : P2-014-Metadata-optimisation-termine validation
+16h15-16h45 : P2-014-Metadata-optimisation-en-cours validation
 ```
 
 **Résultat** : Metadata 100% propres, canonicals OK
@@ -502,7 +502,7 @@ TASK-404-03 à 404-09 selon plan détaillé
 |------|--------|-------|-----------|
 | 1 | P1-006-SEO-migration-canonicals-termine (2h30) | 2h30 | Corrige metadata |
 | 2 | P1-012-SEO-villes-hardcodees-en-cours (45min) | +45min | **Re-corrige mêmes metadata** |
-| 3 | P2-014-Metadata-optimisation-termine (1h) | +1h | Teste metadata déjà testées |
+| 3 | P2-014-Metadata-optimisation-en-cours (1h) | +1h | Teste metadata déjà testées |
 | 4 | TASK-404-02 (2h) | +2h | **Change blog → casse liens P2-013-SEO-internal-linking-homepage-en-cours** |
 | 5 | P2-013-SEO-internal-linking-homepage-en-cours refaire (1h30) | +1h30 | **Travail refait** |
 | 6 | TASK-404-05 (5h) | +5h | - |
@@ -536,7 +536,7 @@ TASK-404-03 à 404-09 selon plan détaillé
 ### P1 - CRITIQUE (faire AVANT corrections blog/404)
 
 3. **P1-006-SEO-migration-canonicals-termine + P1-012-SEO-villes-hardcodees-en-cours fusionnés** (2h) : Metadata/canonicals finales
-4. **P2-014-Metadata-optimisation-termine** (30 min) : Validation metadata
+4. **P2-014-Metadata-optimisation-en-cours** (30 min) : Validation metadata
 
 **Total P1** : 2h30
 

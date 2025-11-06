@@ -160,7 +160,7 @@ Implémentation breadcrumbs visibles + BreadcrumbList schema JSON-LD sur 11 site
 
 ---
 
-### ✅ P1-028-SEO-sitemaps-consistency-termine : Sitemaps Consistency (11 villes)
+### ✅ P1-028-SEO-sitemaps-consistency-pas-commence : Sitemaps Consistency (11 villes)
 
 **Finalisée le** : 04 novembre 2025  
 **Type** : SEO / QA + Cleanup  
@@ -170,7 +170,7 @@ Implémentation breadcrumbs visibles + BreadcrumbList schema JSON-LD sur 11 site
 **Temps estimé** : 1.5-2h  
 **Temps réel** : 0h (déjà complète lors de TASK-025)
 
-📁 **Documentation** : `.cursor/archives/tasks-finalisees/novembre-2025/P1-028-SEO-sitemaps-consistency-termine/`
+📁 **Documentation** : `.cursor/archives/tasks-finalisees/novembre-2025/P1-028-SEO-sitemaps-consistency-pas-commence/`
 
 **Résumé** :
 Audit et validation conformité sitemaps sur 11 sites Moverz. TÂCHE DÉJÀ COMPLÈTE : configuration parfaite détectée lors de l'audit. 1 seule sitemap par domaine, directive robots.txt présente, trailing slash cohérent, 1,252 URLs indexables. Aucune action corrective nécessaire.

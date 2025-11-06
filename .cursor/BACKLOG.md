@@ -312,9 +312,9 @@ Scripts automation créés (7 scripts) mais pas encore activés. Setup requis po
 
 ---
 
-### [P0] [Temps: 1.5-3h] [Qui: Guillaume] P0-046-SERP-favicon-logo-termine : Logo SERP / Favicons — CTR
+### [P0] [Temps: 1.5-3h] [Qui: Guillaume] P0-046-SERP-favicon-logo-en-pause : Logo SERP / Favicons — CTR
 
-📁 **Doc** : `.cursor/tasks/P0-046-SERP-favicon-logo-termine/`
+📁 **Doc** : `.cursor/tasks/P0-046-SERP-favicon-logo-en-pause/`
 
 **Type** : SEO CTR / Investigation + Fix multi‑sites (11 villes)
 
@@ -349,9 +349,9 @@ Scripts automation créés (7 scripts) mais pas encore activés. Setup requis po
 
 ## 🟠 SITEMAPS & INDEXATION
 
-### [P1] [Temps: 1.5-2h] [Qui: Guillaume] P1-028-SEO-sitemaps-consistency-termine : Sitemaps Consistency 11 villes
+### [P1] [Temps: 1.5-2h] [Qui: Guillaume] P1-028-SEO-sitemaps-consistency-pas-commence : Sitemaps Consistency 11 villes
 
-📁 **Doc** : `.cursor/tasks/P1-028-SEO-sitemaps-consistency-termine/`
+📁 **Doc** : `.cursor/tasks/P1-028-SEO-sitemaps-consistency-pas-commence/`
 
 **Type** : SEO / QA + Cleanup
 
@@ -520,13 +520,13 @@ Optimisation maillage interne pour pousser autorité vers homepage. Liens strat�
 
 ---
 
-### [P1] [Temps: 9-11h restant] [Qui: Guillaume + Lucie] P2-014-Metadata-optimisation-termine : Optimisation Metadata SEO Complète (11 villes)
+### [P1] [Temps: 9-11h restant] [Qui: Guillaume + Lucie] P2-014-Metadata-optimisation-en-cours : Optimisation Metadata SEO Complète (11 villes)
 
-📁 **Doc** : `.cursor/tasks/P2-014-Metadata-optimisation-termine/`
+📁 **Doc** : `.cursor/tasks/P2-014-Metadata-optimisation-en-cours/`
 
 **Type** : SEO / Optimization
 
-**Note** : 🔀 **Fusion TASK-030** (meta descriptions) dans P2-014-Metadata-optimisation-termine (04/11/2025)
+**Note** : 🔀 **Fusion TASK-030** (meta descriptions) dans P2-014-Metadata-optimisation-en-cours (04/11/2025)
 
 **Objectif Complet** :
 1. **Phase technique** (80% fait) : Fixes metadata dynamiques, titles, canonicals
@@ -654,11 +654,11 @@ Optimisation maillage interne pour pousser autorité vers homepage. Liens strat�
 
 ---
 
-## 🟠 META & CTR — Dérivés de P2-014-Metadata-optimisation-termine (Split par cohérence technique)
+## 🟠 META & CTR — Dérivés de P2-014-Metadata-optimisation-en-cours (Split par cohérence technique)
 
-### [P1] [Temps: 2-3h] [Qui: Guillaume] P1-039-SEO-titles-normalisation-termine : Normalisation Titles 50–60 chars (11 villes)
+### [P1] [Temps: 2-3h] [Qui: Guillaume] P1-039-SEO-titles-normalisation-fusionne : Normalisation Titles 50–60 chars (11 villes)
 
-📁 Doc : `.cursor/tasks/P1-039-SEO-titles-normalisation-termine/`  
+📁 Doc : `.cursor/tasks/P1-039-SEO-titles-normalisation-fusionne/`  
 **Objectif** : Normaliser les titles à 50–60 caractères, supprimer doublons (ex. “Ville | Déménageurs Ville”), règles par type de page.  
 **Actions** :
 - [ ] Règles par pageType (home/local/service/corridor/faq/contact/blog)
@@ -695,9 +695,9 @@ Optimisation maillage interne pour pousser autorité vers homepage. Liens strat�
 
 ---
 
-### [P2] [Temps: 1-1.5h] [Qui: Guillaume + Lucie] P2-043-SEO-faq-rationalisation-termine : FAQ rationalisation (snippet efficace)
+### [P2] [Temps: 1-1.5h] [Qui: Guillaume + Lucie] P2-043-SEO-faq-rationalisation-pas-commence : FAQ rationalisation (snippet efficace)
 
-📁 Doc : `.cursor/tasks/P2-043-SEO-faq-rationalisation-termine/`  
+📁 Doc : `.cursor/tasks/P2-043-SEO-faq-rationalisation-pas-commence/`  
 **Objectif** : Limiter à 2–4 Q/A très ciblées par page money; éviter surcharge; améliorer pertinence affichée en SERP.  
 **Actions** :
 - [ ] Sélection Q/A par type de page  
@@ -708,9 +708,9 @@ Optimisation maillage interne pour pousser autorité vers homepage. Liens strat�
 
 ---
 
-### [P2] [Temps: 2-3h] [Qui: Guillaume] P2-044-SEO-howto-video-poc-termine : HowTo/Video — POC 2 villes
+### [P2] [Temps: 2-3h] [Qui: Guillaume] P2-044-SEO-howto-video-poc-pas-commence : HowTo/Video — POC 2 villes
 
-📁 Doc : `.cursor/tasks/P2-044-SEO-howto-video-poc-termine/`  
+📁 Doc : `.cursor/tasks/P2-044-SEO-howto-video-poc-pas-commence/`  
 **Objectif** : Créer 2 HowTo + 1 VideoObject par 2 villes fortes impressions; mesurer impact rich results.  
 **Actions** :
 - [ ] Sélection contenus (checklist déménagement {Ville})  
@@ -721,9 +721,9 @@ Optimisation maillage interne pour pousser autorité vers homepage. Liens strat�
 
 ---
 
-### [P1] [Temps: 0.5-1h] [Qui: Guillaume] P1-045-Analytics-qa-ctr-termine : QA & Monitoring CTR (outillage + baselines)
+### [P1] [Temps: 0.5-1h] [Qui: Guillaume] P1-045-Analytics-qa-ctr-fusionne : QA & Monitoring CTR (outillage + baselines)
 
-📁 Doc : `.cursor/tasks/P1-045-Analytics-qa-ctr-termine/`  
+📁 Doc : `.cursor/tasks/P1-045-Analytics-qa-ctr-fusionne/`  
 **Objectif** : Baseline CTR par type de page, QA automate (longueurs/head), checkpoints J+14, J+28.  
 **Actions** :
 - [ ] Baselines GSC (export par pageType)  
@@ -732,7 +732,7 @@ Optimisation maillage interne pour pousser autorité vers homepage. Liens strat�
 **DoD** : baselines stockées, alerte/rituel QA défini, suivi à 2 échéances.
 **Statut** : 📋 PENDING
 
-### [P1] [Temps: 1.5-2h] [Qui: Guillaume] P1-038-SEO-bug-faq-global-termine : Corriger Template Literals FAQ (guillemets → backticks)
+### [P1] [Temps: 1.5-2h] [Qui: Guillaume] P1-038-SEO-bug-faq-global-pas-commence : Corriger Template Literals FAQ (guillemets → backticks)
 
 📁 **Doc** : `.cursor/tasks/[P1]-TASK-038-template-literals-faq/`
 
@@ -1097,10 +1097,10 @@ Rennes, Nantes, Marseille, Rouen, Strasbourg, Montpellier, Nice, Toulouse, Lyon,
 - ~~TASK-029 : Fix Bordeaux SEO~~ ❌ ANNULÉE (diagnostic erroné, site OK)
 - P1-006-SEO-migration-canonicals-termine : Migration Canonicals bugs (P0, 95% fait, 2h30)
 - P1-012-SEO-villes-hardcodees-en-cours : Villes hardcodées tests (P0, 85% fait, 30min)
-- P1-028-SEO-sitemaps-consistency-termine : Sitemaps consistency (P0 SEO, 1.5-2h)
+- P1-028-SEO-sitemaps-consistency-pas-commence : Sitemaps consistency (P0 SEO, 1.5-2h)
 
 **🟠 PRIORITÉ IMPORTANTE** : 5 tâches Tier 2 (17-21h)
-- P2-014-Metadata-optimisation-termine : Metadata SEO Complète (P1, 80%+0%, 9-11h) [Guillaume + Lucie] ← **inclut ex-TASK-030**
+- P2-014-Metadata-optimisation-en-cours : Metadata SEO Complète (P1, 80%+0%, 9-11h) [Guillaume + Lucie] ← **inclut ex-TASK-030**
 - TASK-031 : Breadcrumbs + Schema (P1, 11 villes, 6-8h) [Guillaume]
 - P1-032-SEO-search-console-pas-commence : Search Console (P1, 11 villes, 3-4h) [Guillaume]
 - P2-013-SEO-internal-linking-homepage-en-cours : Internal linking validation (P1, 75% fait, 1h)
@@ -1123,7 +1123,7 @@ Rennes, Nantes, Marseille, Rouen, Strasbourg, Montpellier, Nice, Toulouse, Lyon,
 
 **Tâches modifiées** :
 - ❌ TASK-029 annulée (diagnostic erroné, -4-6h)
-- 🔀 TASK-030 fusionnée dans P2-014-Metadata-optimisation-termine (optimisation)
+- 🔀 TASK-030 fusionnée dans P2-014-Metadata-optimisation-en-cours (optimisation)
 - 🆕 TASK-037 créée (HSTS headers, +1.5-2h, P2)
 
 ---

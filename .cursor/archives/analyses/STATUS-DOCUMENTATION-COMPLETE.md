@@ -21,7 +21,7 @@
 | TASK-011 (Fix 308 Nice) | 6 | ✅ Complet |
 | P1-012-SEO-villes-hardcodees-en-cours (Villes hardcodées) | 6 | ✅ Complet |
 | P2-013-SEO-internal-linking-homepage-en-cours (Internal linking) | 6 | ✅ Complet |
-| P2-014-Metadata-optimisation-termine (Metadata) | 6 | ✅ Complet |
+| P2-014-Metadata-optimisation-en-cours (Metadata) | 6 | ✅ Complet |
 | TASK-404-01 (Audit 404) | 16 | ✅ Complet |
 
 **Total** : 7 tâches × 6+ fichiers = **52 fichiers documentation**
@@ -71,7 +71,7 @@ Chaque tâche contient :
    - 2 commits documentés
    - Screaming Frog à analyser
 
-6. **P2-014-Metadata-optimisation-termine** : Metadata SEO (80% fait, 1h restant)
+6. **P2-014-Metadata-optimisation-en-cours** : Metadata SEO (80% fait, 1h restant)
    - 6 fichiers ✅
    - 5 commits documentés
    - Validation SERP à faire

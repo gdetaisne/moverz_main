@@ -25,7 +25,7 @@
 
 ## 🔗 Tâches liées
 
-**Liée à** : P1-006-SEO-migration-canonicals-termine (Canonicals), P2-014-Metadata-optimisation-termine (Metadata)  
+**Liée à** : P1-006-SEO-migration-canonicals-termine (Canonicals), P2-014-Metadata-optimisation-en-cours (Metadata)  
 **Similaire** : Bug cleanSlug() TASK-404-01 (même type copy-paste)
 
 ---

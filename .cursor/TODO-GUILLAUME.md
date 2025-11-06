@@ -229,7 +229,7 @@ Aligner wording site (home, services, FAQ, CTA) avec vrais USP Moverz.
 
 ## 🚫 TÂCHES DÉPRIORITISÉES (à faire APRÈS LEADGEN)
 
-### P1-012-SEO-villes-hardcodees-en-cours, P2-014-Metadata-optimisation-termine, P1-039-SEO-titles-normalisation-termine, P1-040-SEO-descriptions-tier2-pas-commence, P1-045-Analytics-qa-ctr-termine
+### P1-012-SEO-villes-hardcodees-en-cours, P2-014-Metadata-optimisation-en-cours, P1-039-SEO-titles-normalisation-fusionne, P1-040-SEO-descriptions-tier2-pas-commence, P1-045-Analytics-qa-ctr-fusionne
 **Statut** : ✅ FUSIONNÉES dans P0-LEADGEN-01-Metadata-ctr-optimisation-termine  
 **Raison** : Cohérence, éviter dispersion
 
@@ -239,7 +239,7 @@ Aligner wording site (home, services, FAQ, CTA) avec vrais USP Moverz.
 **Temps** : 5 min  
 **Reprendre** : Quand temps libre après LEADGEN
 
-### P0-046-SERP-favicon-logo-termine : Logo SERP / Favicons
+### P0-046-SERP-favicon-logo-en-pause : Logo SERP / Favicons
 **Statut** : ⏸️ EN PAUSE  
 **Raison** : Impact CTR marginal (+5-10%) vs metadata (+400%)  
 **Reprendre** : Après LEADGEN-01 validé
@@ -248,11 +248,11 @@ Aligner wording site (home, services, FAQ, CTA) avec vrais USP Moverz.
 **Statut** : 📋 PENDING (P2)  
 **Reprendre** : Q1 2026 si temps
 
-### P2-043-SEO-faq-rationalisation-termine : FAQ rationalisation
+### P2-043-SEO-faq-rationalisation-pas-commence : FAQ rationalisation
 **Statut** : 📋 PENDING (P2)  
 **Reprendre** : Après LEADGEN-03, si FAQ schema.org ne performe pas
 
-### P2-044-SEO-howto-video-poc-termine : HowTo/Video
+### P2-044-SEO-howto-video-poc-pas-commence : HowTo/Video
 **Statut** : 📋 PENDING (P2)  
 **Reprendre** : Q1 2026, nice-to-have
 

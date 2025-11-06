@@ -35,7 +35,7 @@
 ### 1. Création 3 nouvelles tâches LEAD GEN consolidées
 
 #### P0-LEADGEN-01-Metadata-ctr-optimisation-termine : Fix Metadata CTR (P0)
-**Fusion de** : P1-012-SEO-villes-hardcodees-en-cours + P2-014-Metadata-optimisation-termine + P1-039-SEO-titles-normalisation-termine + P1-040-SEO-descriptions-tier2-pas-commence + P1-045-Analytics-qa-ctr-termine
+**Fusion de** : P1-012-SEO-villes-hardcodees-en-cours + P2-014-Metadata-optimisation-en-cours + P1-039-SEO-titles-normalisation-fusionne + P1-040-SEO-descriptions-tier2-pas-commence + P1-045-Analytics-qa-ctr-fusionne
 
 **Localisation** : `.cursor/tasks/P0-LEADGEN-01-Metadata-ctr-optimisation-termine/`
 
@@ -109,7 +109,7 @@
 - tests.md : Stratégie validation
 - decisions.md : Choix techniques/stratégiques
 
-**Style** : Identique aux tâches existantes (P1-012-SEO-villes-hardcodees-en-cours, P2-014-Metadata-optimisation-termine, TASK-031, etc.)
+**Style** : Identique aux tâches existantes (P1-012-SEO-villes-hardcodees-en-cours, P2-014-Metadata-optimisation-en-cours, TASK-031, etc.)
 
 ---
 
@@ -227,9 +227,9 @@
 
 **Tâches anciennes** :
 - P1-012-SEO-villes-hardcodees-en-cours : ✅ Fusionnée dans LEADGEN-01
-- P2-014-Metadata-optimisation-termine : ✅ Fusionnée dans LEADGEN-01
-- P1-039-SEO-titles-normalisation-termine, 040, 045 : ✅ Fusionnées dans LEADGEN-01
-- P0-046-SERP-favicon-logo-termine (Favicon) : ⏸️ Mis en pause (reprendre après LEADGEN-01)
+- P2-014-Metadata-optimisation-en-cours : ✅ Fusionnée dans LEADGEN-01
+- P1-039-SEO-titles-normalisation-fusionne, 040, 045 : ✅ Fusionnées dans LEADGEN-01
+- P0-046-SERP-favicon-logo-en-pause (Favicon) : ⏸️ Mis en pause (reprendre après LEADGEN-01)
 
 **Philosophie restructuration** :
 - Focus ROI business (leads, €€€)
