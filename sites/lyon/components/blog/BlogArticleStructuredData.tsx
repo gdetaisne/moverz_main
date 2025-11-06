@@ -12,13 +12,15 @@ interface BlogArticleStructuredDataProps {
  */
 export default function BlogArticleStructuredData({ post, canonicalUrl }: BlogArticleStructuredDataProps) {
   // Détecter intent : Transactionnel UNIQUEMENT si prix déménagement local T2/T3/T4/maison (particuliers)
-  const text = `${post.slug} ${post.title} ${post.category}`.toLowerCase();
-  
-  const isTransactional = 
-    text.includes('prix') && 
-    (text.includes('t2') || text.includes('t3') || text.includes('t4') || 
+  // Utiliser cleanSlug pour correspondre à la logique du script d'optimisation
+  const slug = post.cleanSlug || post.slug;
+  const text = `${slug} ${post.title} ${post.category || post.cleanCategory || ''}`.toLowerCase();
+
+  const isTransactional =
+    text.includes('prix') &&
+    (text.includes('t2') || text.includes('t3') || text.includes('t4') ||
      text.includes('maison') || text.includes('grand') || text.includes('moyen')) &&
-    !text.includes('studio') && !text.includes('petit') && 
+    !text.includes('studio') && !text.includes('petit') &&
     !text.includes('entreprise') && !text.includes('international');
   
   const searchIntent = isTransactional ? 'transactional' : 'informational';
