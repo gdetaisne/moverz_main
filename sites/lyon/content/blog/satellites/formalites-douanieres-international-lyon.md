@@ -24,7 +24,7 @@ Les formalités douanières d'un déménagement international depuis Lyon varien
 
 Lyon dispose de plusieurs consulats facilitant l'obtention de documents spécifiques : Consulat Suisse (102 Rue Duguesclin, 69006), Consulat Italie (12 Rue de Sèze, 69006), Consulat USA (1 Quai Jules Courmont, 69002), Consulat Allemagne, et consulats Maghreb (Algérie Rue Bourgelat, Maroc Rue Tronchet, Tunisie). Ces représentations fournissent visas, attestations, légalisations documents, et conseils formalités spécifiques destination. Le déménageur international professionnel (AGS Lyon, Allied Pickfords, Crown Relocations implantés Part-Dieu ou Gerland) maîtrise formalités et peut déléguer gestion douane complète (+300-600€ option assistance renforcée).
 
-Ce guide détaille formalités par zone géographique (UE, Suisse, intercontinental), explique comment remplir l'inventaire détaillé exigé (format, contenu, valorisation), liste documents universels et spécifiques, révèle franchises douanières économisant droits/taxes, et expose erreurs fréquentes entraînant retards ou surcoûts. Pour compléter, consultez [notre guide complet international Lyon](/blog/demenagement-international-lyon/demenagement-international-lyon-guide-complet).
+Ce guide détaille formalités par zone géographique (UE, Suisse, intercontinental), explique comment remplir l'inventaire détaillé exigé (format, contenu, valorisation), liste documents universels et spécifiques, révèle franchises douanières économisant droits/taxes, et expose erreurs fréquentes entraînant retards ou surcoûts. Pour compléter, consultez [notre guide complet international Lyon](/blog/international/demenagement-international-lyon-guide-complet).
 
 ## Formalités par Zone Géographique
 
@@ -60,7 +60,7 @@ Les obligations varient selon appartenance Union Européenne, accords bilatérau
 
 **Sans permis B/C = refus entrée mobilier.** Critique anticiper obtention permis.
 
-[Détails Lyon-Suisse →](/blog/demenagement-international-lyon/demenagement-lyon-suisse)
+[Détails Lyon-Suisse →](/blog/conseils/demenagement-lyon-suisse)
 
 ### Destinations Intercontinentales : Complexes (USA, Canada, Maghreb, Asie)
 
@@ -183,7 +183,7 @@ Pas de justificatif résidence destination (bail, contrat) = douane bloque. **So
 
 ### Quelles sont les formalités douanières Lyon-Suisse ?
 
-**Suisse hors UE = formalités strictes : permis résidence B/C obligatoire obtenu AVANT déménagement (2-4 mois délai), inventaire détaillé bilingue français/allemand valorisé (tous biens listés + valeur), formulaire douane 18.44, passeport, attestation changement résidence.** Contrôle frontière Bardonnex/Valserine systématique (30 min-2h). Franchise : biens usagés >6 mois exonérés droits/TVA. Neufs : TVA 8,1%. Sans permis B/C = refus entrée. [Guide Lyon-Suisse →](/blog/demenagement-international-lyon/demenagement-lyon-suisse)
+**Suisse hors UE = formalités strictes : permis résidence B/C obligatoire obtenu AVANT déménagement (2-4 mois délai), inventaire détaillé bilingue français/allemand valorisé (tous biens listés + valeur), formulaire douane 18.44, passeport, attestation changement résidence.** Contrôle frontière Bardonnex/Valserine systématique (30 min-2h). Franchise : biens usagés >6 mois exonérés droits/TVA. Neufs : TVA 8,1%. Sans permis B/C = refus entrée. [Guide Lyon-Suisse →](/blog/conseils/demenagement-lyon-suisse)
 
 ### Faut-il un inventaire pour déménager en Italie depuis Lyon ?
 
@@ -221,7 +221,7 @@ Les formalités douanières déménagement international depuis Lyon s'échelonn
 
 L'inventaire détaillé constitue le pivot : liste exhaustive biens (description, état, valeur), bilingue si Suisse/USA/Canada, format Excel/PDF téléchargeable sites douane officiels (admin.ch Suisse, cbp.gov USA) ou fourni déménageur international. La franchise douanière (biens usagés >6 mois/1 an exonérés) économise 5-15% valeur mobilier. Les consulats Lyon (Suisse, Italie, USA, Maghreb) facilitent obtention documents, légalisations, conseils spécifiques.
 
-Pour formalités détaillées par destination, consultez [Lyon-Suisse](/blog/demenagement-international-lyon/demenagement-lyon-suisse) et [Lyon-Italie](/blog/demenagement-international-lyon/demenagement-lyon-italie). Explorez aussi [notre guide complet international](/blog/demenagement-international-lyon/demenagement-international-lyon-guide-complet) et [les documents nécessaires](/blog/demenagement-international-lyon/documents-demenagement-international-lyon). Bonnes formalités et bon déménagement !
+Pour formalités détaillées par destination, consultez [Lyon-Suisse](/blog/conseils/demenagement-lyon-suisse) et [Lyon-Italie](/blog/conseils/demenagement-lyon-italie). Explorez aussi [notre guide complet international](/blog/international/demenagement-international-lyon-guide-complet) et [les documents nécessaires](/blog/conseils/documents-demenagement-international-lyon). Bonnes formalités et bon déménagement !
 
 ---
 

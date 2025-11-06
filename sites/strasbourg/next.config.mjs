@@ -117,6 +117,13 @@ const nextConfig = {
         destination: '/blog/demenagement-strasbourg/prix-demenagement-strasbourg',
         permanent: true,
       },
+      
+      // FICHIERS BATCH/LISTE/PILIER supprimés → /blog (06/11/2025)
+      // Redirections pour /blog/conseils/ ET /blog/satellites/ (au cas où)
+      { source: '/blog/conseils/PILIER-03-DEMENAGEMENT-PAS-CHER-10-SATELLITES', destination: '/blog', permanent: true },
+      { source: '/blog/satellites/PILIER-03-DEMENAGEMENT-PAS-CHER-10-SATELLITES', destination: '/blog', permanent: true },
+      { source: '/blog/conseils/PILIER-09-PRIX-DEMENAGEMENT-10-SATELLITES', destination: '/blog', permanent: true },
+      { source: '/blog/satellites/PILIER-09-PRIX-DEMENAGEMENT-10-SATELLITES', destination: '/blog', permanent: true },
       {
         source: '/blog/demenagement-strasbourg/aide-demenagement',
         destination: '/blog/demenagement-strasbourg/aide-demenagement-strasbourg',

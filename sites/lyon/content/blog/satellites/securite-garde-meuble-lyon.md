@@ -24,7 +24,7 @@ La sécurité constitue le critère n°1 choix garde-meuble Lyon : stockage affa
 
 Les incidents restent rarissimes sites certifiés Lyon (Shurgard affiche <0,1% sinistres annuels soit 1 incident/1000 boxes/an, majoritairement dégâts eaux/fuites toiture réparés rapidement vs vols quasi-inexistants grâce dispositifs sécurité cumulés), mais vérifier dispositifs sécurité visite site avant location sécurise (demander voir salle vidéosurveillance, tester badge accès, visiter boxes différents étages, vérifier éclairages nocturnes, rencontrer agent sécurité si présent). Sites périphériques isolés sans surveillance humaine permanente (certains Box & Go, acteurs low-cost) présentent risques supérieurs (vidéosurveillance seule sans rondes, intervention police/sécurité délai 15-30 min alarme vs 5-10 min sites majeurs Shurgard).
 
-Ce guide détaille dispositifs sécurité standards Lyon (vidéosurveillance, alarmes, badges, cadenas), compare sites selon sécurité (Shurgard Jean Macé surveillance renforcée vs périphériques), explique assurance optionnelle (couverture, coût 3-8€/mois, quand souscrire), révèle vérifications effectuer visite, et conseille précautions additionnelles (inventaire photos, objets très précieux éviter, assurance habitation vérifier couverture stockage externe). Pour choix site, consultez [Shurgard Lyon](/blog/garde-meuble-lyon/shurgard-lyon-sites-tarifs).
+Ce guide détaille dispositifs sécurité standards Lyon (vidéosurveillance, alarmes, badges, cadenas), compare sites selon sécurité (Shurgard Jean Macé surveillance renforcée vs périphériques), explique assurance optionnelle (couverture, coût 3-8€/mois, quand souscrire), révèle vérifications effectuer visite, et conseille précautions additionnelles (inventaire photos, objets très précieux éviter, assurance habitation vérifier couverture stockage externe). Pour choix site, consultez [Shurgard Lyon](/blog/conseils/shurgard-lyon-sites-tarifs).
 
 ## Dispositifs Sécurité Standards
 
@@ -114,7 +114,7 @@ Ce guide détaille dispositifs sécurité standards Lyon (vidéosurveillance, al
 
 La sécurité garde-meuble Lyon (sites Shurgard, Homebox, Une Pièce en Plus) repose sur dispositifs cumulés : vidéosurveillance 24/7 (20-50 caméras, enregistrement 30j, salle surveillance sites majeurs), alarmes intrusion (détecteurs boxes + centrale télésurveillance intervention 5-20 min), badges accès électroniques (traçabilité, double sécurité PIN), et cadenas personnels (clé unique client). Incidents <0,1%/an (quasi-nuls). Assurance optionnelle 3-8€/mois couvre résiduel (vol malgré sécurités, incendie, dégâts eaux).
 
-Vérifier dispositifs visite site (caméras, alarmes, badge test, éclairages nuit, solidité boxes) avant location. Sites low-cost surveillance réduite = risques. Shurgard Jean Macé/États-Unis surveillance renforcée (agents nuit, rondes). Consultez [prix](/blog/garde-meuble-lyon/prix-garde-meuble-lyon-2025), [Shurgard](/blog/garde-meuble-lyon/shurgard-lyon-sites-tarifs), [guide](/blog/garde-meuble-lyon/garde-meuble-lyon-guide-complet). Bon stockage sécurisé !
+Vérifier dispositifs visite site (caméras, alarmes, badge test, éclairages nuit, solidité boxes) avant location. Sites low-cost surveillance réduite = risques. Shurgard Jean Macé/États-Unis surveillance renforcée (agents nuit, rondes). Consultez [prix](/blog/conseils/prix-garde-meuble-lyon-2025), [Shurgard](/blog/conseils/shurgard-lyon-sites-tarifs), [guide](/blog/garde-meuble/garde-meuble-lyon-guide-complet). Bon stockage sécurisé !
 
 ---
 

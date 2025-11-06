@@ -24,7 +24,7 @@ Choisir un déménageur spécialisé piano à Lyon nécessite vérifier critère
 
 À Lyon, les déménageurs généralistes proposant service piano sur demande incluent **S.I.E.T** (3ème arrondissement, 84 avis Google 4,2/5, équipement piano disponible, expérience objets lourds/fragiles), **Déménagements Lugnier** (5,0/5, spécialiste meubles précieux incluant pianos), **Citius** (service premium, piano sur demande), tandis que les spécialistes exclusifs piano restent rares Lyon (2-3 entreprises uniquement pianos/instruments musique, contacter conservatoire Lyon 9ème Auditorium Maurice Ravel ou magasins pianos Feeling Musique Part-Dieu, Pianos Hanlet Confluence pour recommandations). Les tarifs spécialistes exclusifs affichent +20-30% vs généralistes équipés (piano droit 400€ spécialiste vs 320€ généraliste), justifié par expertise pointue et assurances renforcées, mais pertinent uniquement pianos grande valeur (>15 000€, pianos queue, instruments anciens/rares).
 
-Ce guide liste critères sélection déménageur piano Lyon, détaille équipement indispensable vérifier, présente déménageurs Lyon identifiés (généralistes équipés vs spécialistes exclusifs), révèle red flags éviter, et explique comment vérifier références/expérience. Pour prix détaillés, consultez [tarifs piano Lyon 2025](/blog/demenagement-piano-lyon/prix-demenagement-piano-droit-lyon).
+Ce guide liste critères sélection déménageur piano Lyon, détaille équipement indispensable vérifier, présente déménageurs Lyon identifiés (généralistes équipés vs spécialistes exclusifs), révèle red flags éviter, et explique comment vérifier références/expérience. Pour prix détaillés, consultez [tarifs piano Lyon 2025](/blog/piano/prix-demenagement-piano-droit-lyon).
 
 ## Critères Sélection Indispensables
 
@@ -95,7 +95,7 @@ Choisir un déménageur spécialisé piano Lyon impose vérifier expérience con
 
 Les spécialistes exclusifs piano (2-3 Lyon, recommandations conservatoire) affichent +20-30% surcoût (400€ vs 320€ droit) mais pertinents pianos grande valeur (queue concert >50 000€, anciens/rares). Exiger visite technique, vérifier équipement (photos chariots/sangles), demander 3 devis, comparer assurances. Prévoir accordage post-déménagement 48-72h (80-150€, obligatoire).
 
-Consultez [prix piano Lyon](/blog/demenagement-piano-lyon/prix-demenagement-piano-droit-lyon), [monte-meuble](/blog/demenagement-piano-lyon/monte-meuble-piano-lyon), [assurance](/blog/demenagement-piano-lyon/assurance-demenagement-piano), [guide complet](/blog/demenagement-piano-lyon/demenagement-piano-lyon-guide-complet). Bonne protection instrument !
+Consultez [prix piano Lyon](/blog/piano/prix-demenagement-piano-droit-lyon), [monte-meuble](/blog/conseils/monte-meuble-piano-lyon), [assurance](/blog/conseils/assurance-demenagement-piano), [guide complet](/blog/piano/demenagement-piano-lyon-guide-complet). Bonne protection instrument !
 
 ---
 

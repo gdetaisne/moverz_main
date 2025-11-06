@@ -24,7 +24,7 @@ Choisir un déménageur économique à Lyon sans sacrifier la fiabilité nécess
 
 Les red flags indiquant un déménageur peu fiable : absence de SIRET vérifiable, pas d'assurance RC pro (obligatoire légalement), acompte exigé >30% (norme 10-20%), devis oral sans écrit signé, pas d'adresse physique siège social Lyon, tarifs 40%+ inférieurs au marché sans justification, avis Google <3/5 avec plaintes récurrentes (casse non indemnisée, heures supplémentaires facturées abusivement, disparition objets). Un déménageur fiable affiche son numéro SIRET sur devis, détaille assurance RC pro (montant couverture 60 000-100 000€), fournit devis écrit itemisé (transport, main d'œuvre, matériel, assurance optionnelle, conditions générales), accepte visite pré-déménagement gratuite pour évaluation volume précise.
 
-Ce guide liste les critères de fiabilité indispensables à vérifier avant signature, détaille comment décrypter un devis Lyon (clauses piège, frais cachés), révèle les red flags absolus synonymes d'arnaque, et présente les déménageurs lyonnais reconnus formules économiques fiables. Consultez aussi [notre comparatif des prix Lyon 2025](/blog/demenagement-lyon-pas-cher/prix-demenagement-pas-cher-lyon-2025) pour situer les tarifs normaux.
+Ce guide liste les critères de fiabilité indispensables à vérifier avant signature, détaille comment décrypter un devis Lyon (clauses piège, frais cachés), révèle les red flags absolus synonymes d'arnaque, et présente les déménageurs lyonnais reconnus formules économiques fiables. Consultez aussi [notre comparatif des prix Lyon 2025](/blog/conseils/prix-demenagement-pas-cher-lyon-2025) pour situer les tarifs normaux.
 
 ## Critères de Fiabilité Indispensables
 
@@ -182,7 +182,7 @@ Basé fiche locale Lyon + avis vérifiés octobre 2025 :
 
 ### Quel est le prix normal déménagement économique Lyon ?
 
-**T2 formule économique Lyon : 700-900€. Studio : 400-500€. T3 : 1000-1400€. Maison : 1800-2200€.** Tarifs -30-40% vs formule standard (T2 standard 1200€). Devis <600€ T2 = suspect (risque qualité, arnaque). Devis >1000€ T2 éco = cher (négocier ou chercher concurrent). Surcoûts légitimes : Vieux-Lyon +30-50%, étages +40-60€/étage, septembre +10-15%. Consultez [guide prix Lyon 2025](/blog/demenagement-lyon-pas-cher/prix-demenagement-pas-cher-lyon-2025) pour fourchettes détaillées.
+**T2 formule économique Lyon : 700-900€. Studio : 400-500€. T3 : 1000-1400€. Maison : 1800-2200€.** Tarifs -30-40% vs formule standard (T2 standard 1200€). Devis <600€ T2 = suspect (risque qualité, arnaque). Devis >1000€ T2 éco = cher (négocier ou chercher concurrent). Surcoûts légitimes : Vieux-Lyon +30-50%, étages +40-60€/étage, septembre +10-15%. Consultez [guide prix Lyon 2025](/blog/conseils/prix-demenagement-pas-cher-lyon-2025) pour fourchettes détaillées.
 
 ### Quels red flags éviter déménageur Lyon ?
 
@@ -212,7 +212,7 @@ Choisir un déménageur fiable et économique à Lyon nécessite vigilance et v�
 
 Les red flags (pas SIRET, pas assurance, acompte >30% cash, tarif -40% marché, avis <3/5) imposent refus catégorique. La visite pré-déménagement gratuite sécurise l'estimation volume et évite litiges. Demander systématiquement 3+ devis permet comparaison objective et négociation éventuelle (-5-10% basse saison, jours semaine).
 
-Pour comparer les tarifs normaux du marché lyonnais, consultez [notre guide prix déménagement Lyon 2025](/blog/demenagement-lyon-pas-cher/prix-demenagement-pas-cher-lyon-2025). Explorez aussi [toutes les solutions économiques disponibles](/blog/demenagement-lyon-pas-cher/demenagement-lyon-pas-cher-guide-complet) pour choisir l'option adaptée à votre situation. Bon déménagement et bon choix !
+Pour comparer les tarifs normaux du marché lyonnais, consultez [notre guide prix déménagement Lyon 2025](/blog/conseils/prix-demenagement-pas-cher-lyon-2025). Explorez aussi [toutes les solutions économiques disponibles](/blog/pas-cher/demenagement-lyon-pas-cher-guide-complet) pour choisir l'option adaptée à votre situation. Bon déménagement et bon choix !
 
 ---
 

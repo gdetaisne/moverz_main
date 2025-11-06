@@ -117,6 +117,25 @@ const nextConfig = {
       { source: '/blog/urgent', destination: '/blog', permanent: true },
       { source: '/blog/devis', destination: '/blog', permanent: true },
       
+      // FICHIERS BATCH/LISTE/PILIER supprimés → /blog (06/11/2025)
+      // Redirections pour /blog/conseils/ ET /blog/satellites/ (au cas où)
+      { source: '/blog/conseils/BATCH-PRODUCTION-ARTICLES-13-30', destination: '/blog', permanent: true },
+      { source: '/blog/satellites/BATCH-PRODUCTION-ARTICLES-13-30', destination: '/blog', permanent: true },
+      { source: '/blog/conseils/BATCH-PRODUCTION-ARTICLES-31-60', destination: '/blog', permanent: true },
+      { source: '/blog/satellites/BATCH-PRODUCTION-ARTICLES-31-60', destination: '/blog', permanent: true },
+      { source: '/blog/conseils/BATCH-PRODUCTION-ARTICLES-61-100-FINAL', destination: '/blog', permanent: true },
+      { source: '/blog/satellites/BATCH-PRODUCTION-ARTICLES-61-100-FINAL', destination: '/blog', permanent: true },
+      { source: '/blog/conseils/BATCH-PILIER-04-ARTICLES-04-10', destination: '/blog', permanent: true },
+      { source: '/blog/satellites/BATCH-PILIER-04-ARTICLES-04-10', destination: '/blog', permanent: true },
+      { source: '/blog/conseils/BATCH-PILIER-08-DEMENAGEUR-ROUEN', destination: '/blog', permanent: true },
+      { source: '/blog/satellites/BATCH-PILIER-08-DEMENAGEUR-ROUEN', destination: '/blog', permanent: true },
+      { source: '/blog/conseils/BATCH-PILIERS-06-07-COMPLET', destination: '/blog', permanent: true },
+      { source: '/blog/satellites/BATCH-PILIERS-06-07-COMPLET', destination: '/blog', permanent: true },
+      { source: '/blog/conseils/BATCH-PILIERS-01-09-10-COMPLET', destination: '/blog', permanent: true },
+      { source: '/blog/satellites/BATCH-PILIERS-01-09-10-COMPLET', destination: '/blog', permanent: true },
+      { source: '/blog/conseils/BATCH-PILIERS-03-02-05-FINAL', destination: '/blog', permanent: true },
+      { source: '/blog/satellites/BATCH-PILIERS-03-02-05-FINAL', destination: '/blog', permanent: true },
+      
       // LEADGEN-02: Redirections 404 prioritaires (Rouen - 06/11/2025)
       // Articles existent dans satellites/ → redirection vers satellites
       { source: '/blog/garde-meuble/garde-meuble-etudiant-rouen', destination: '/blog/satellites/garde-meuble-etudiant-rouen', permanent: true },

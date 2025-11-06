@@ -24,7 +24,7 @@ Déménager de Lyon vers l'Europe bénéficie de la position centrale de la mét
 
 Les tarifs Lyon varient principalement selon distance : Allemagne proche (Stuttgart 450 km) coûte 3000-5000€ T2, Espagne moyenne distance (Barcelone 550 km, Madrid 1100 km) 3500-6000€, UK éloignée (Londres 950 km + Eurotunnel/Ferry) 4000-6500€. Le Brexit a rétabli formalités douanières UK (inventaire détaillé, déclaration, contrôle Calais/Folkestone, délai +1-2j), contrairement au reste UE27 où la circulation reste totalement libre. Les déménageurs lyonnais spécialisés Europe (AGS, Allied, S.I.E.T proposant services européens) maîtrisent trajets, partenaires locaux livraison, et spécificités administratives chaque pays (inscription résidence, ouverture compte, raccordements).
 
-Ce guide détaille destinations Europe populaires depuis Lyon (Allemagne, UK, Espagne, Belgique, Pays-Bas), compare prix et délais, explique formalités UE vs post-Brexit UK, présente transport routier optimal, et donne conseils installation pays arrivée. Pour destinations hors Europe, consultez [container maritime Lyon](/blog/demenagement-international-lyon/transport-maritime-container-lyon).
+Ce guide détaille destinations Europe populaires depuis Lyon (Allemagne, UK, Espagne, Belgique, Pays-Bas), compare prix et délais, explique formalités UE vs post-Brexit UK, présente transport routier optimal, et donne conseils installation pays arrivée. Pour destinations hors Europe, consultez [container maritime Lyon](/blog/conseils/transport-maritime-container-lyon).
 
 ## Destinations Europe depuis Lyon : Prix et Délais
 
@@ -178,7 +178,7 @@ Chaque pays impose démarches post-arrivée spécifiques.
 
 ### Quels déménageurs Lyon proposent Europe ?
 
-**Déménageurs internationaux : AGS Lyon (FIDI, réseau Europe), Allied Pickfords (spécialiste Europe), Crown Relocations (premium, corporate). Régionaux : S.I.E.T Lyon (4,2/5, 84 avis, propose Europe), Atlas Trans-Dem.** Demander 3+ devis Lyon-[destination], vérifier : certification FIDI/ISO (garantie standards), réseau partenaires destination (livraison locale fiable), assistance installation (conseils admin, raccordements), assurance internationale RC pro, délais garantis. [Guide choix déménageur →](/blog/demenagement-international-lyon/choisir-demenageur-international-lyon)
+**Déménageurs internationaux : AGS Lyon (FIDI, réseau Europe), Allied Pickfords (spécialiste Europe), Crown Relocations (premium, corporate). Régionaux : S.I.E.T Lyon (4,2/5, 84 avis, propose Europe), Atlas Trans-Dem.** Demander 3+ devis Lyon-[destination], vérifier : certification FIDI/ISO (garantie standards), réseau partenaires destination (livraison locale fiable), assistance installation (conseils admin, raccordements), assurance internationale RC pro, délais garantis. [Guide choix déménageur →](/blog/conseils/choisir-demenageur-international-lyon)
 
 ### Lyon-Barcelone ou Lyon-Madrid : quelle différence ?
 
@@ -192,7 +192,7 @@ Déménager de Lyon vers l'Europe (Allemagne 3000-6500€ T2, UK 4000-6500€, E
 
 La position centrale Lyon facilite accès Allemagne (Stuttgart 450 km, 5h), Espagne (Barcelone 550 km, 6h), et UK (Londres 950 km + Eurotunnel 35 min). Les déménageurs lyonnais internationaux (AGS, Allied, S.I.E.T Europe) maîtrisent trajets, partenaires locaux, et spécificités administratives chaque pays (Anmeldung Allemagne, NI Number UK, NIE Espagne). Demander 3+ devis permet comparaison objective tarifs/services/délais.
 
-Pour destinations Suisse/Italie proches, consultez [Lyon-Suisse](/blog/demenagement-international-lyon/demenagement-lyon-suisse) et [Lyon-Italie](/blog/demenagement-international-lyon/demenagement-lyon-italie). Pour intercontinental, explorez [container maritime Lyon](/blog/demenagement-international-lyon/transport-maritime-container-lyon). Consultez aussi [guide complet international](/blog/demenagement-international-lyon/demenagement-international-lyon-guide-complet). Bon déménagement européen !
+Pour destinations Suisse/Italie proches, consultez [Lyon-Suisse](/blog/conseils/demenagement-lyon-suisse) et [Lyon-Italie](/blog/conseils/demenagement-lyon-italie). Pour intercontinental, explorez [container maritime Lyon](/blog/conseils/transport-maritime-container-lyon). Consultez aussi [guide complet international](/blog/international/demenagement-international-lyon-guide-complet). Bon déménagement européen !
 
 ---
 
