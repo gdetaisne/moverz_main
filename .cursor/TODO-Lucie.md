@@ -11,6 +11,76 @@
 
 ## 🔥 EN COURS MAINTENANT
 
+### [P1]-TASK-054-404-marseille-1127-pages : Fix 1,127 Pages 404 Marseille 🚨 CRITIQUE SEO
+
+**Priorité** : P1 (Critique SEO - Impact ranking)  
+**Type** : Bug Fix / SEO / Cleanup  
+**Créé le** : 2025-11-05  
+**Temps estimé** : 3-4h
+
+**Problème détecté** :
+- 🔴 **1,127 pages 404** sur `devis-demenageur-marseille.fr` (Google Search Console)
+- 🔴 Impact SEO majeur : Perte de ranking potentielle
+- 🔴 Pages non indexées : 1,180 total (1,127 = 404, 20 = redirections, 18 = erreurs serveur)
+- 🔴 Pages indexées : 129 seulement (vs ~1,300 attendues)
+
+**Causes probables** :
+1. Articles de blog supprimés/restructurés mais toujours dans sitemap ou indexés par Google
+2. URLs obsolètes dans anciens sitemaps
+3. Redirections cassées ou manquantes
+4. Pages quartiers/corridors renommées sans redirections
+
+**Actions à faire** :
+
+**Phase 1 - Diagnostic (30 min)** ✅ FAIT :
+- ✅ Liste URLs 404 reçue (100+ URLs analysées)
+- ✅ Patterns identifiés :
+  1. **Cross-city URLs (80% des 404)** : `/blog/demenagement-nice/...`, `/blog/demenagement-lille/...` etc.
+     → Liens internes pointent vers articles d'autres villes au lieu de Marseille
+  2. **Slug malformé** : `/blog/demenagement-marseille/$slug` (fichier avec slug littéral `$slug`)
+  3. **Catégories obsolètes** : `/deménagement-voiture/`, `/demenagement-escalier/`, etc.
+  4. **Trailing slash** : `/devis-demenagement-marseille/` (peut-être normalisé)
+
+**Phase 2 - Correction (2h)** :
+- [x] **2.3 Redirections 301** ✅ FAIT (135+ redirections ajoutées) :
+  - ✅ Cross-city URLs → Pages équivalentes Marseille (nice, lille, montpellier, etc.)
+  - ✅ Catégories obsolètes → Blog homepage ou catégories valides
+  - ✅ URL malformée `$slug` → Redirect vers blog marseille
+  - ✅ URL bizarre `/marseille/Marseille/` → Redirect vers quartiers
+- [ ] **2.1 Cross-city links** : Scanner tous les markdown pour liens vers autres villes (OPTIONNEL - redirections gèrent déjà le problème)
+  - Pattern à chercher : `[texte](/blog/demenagement-[autre-ville]/...`
+  - Corriger en : `[texte](/blog/demenagement-marseille/...` OU supprimer lien si article n'existe pas
+- [ ] **2.2 Slug malformé** : Vérifier fichier avec `slug: "$slug"` dans frontmatter (redirection ajoutée mais mieux corriger source)
+- [ ] **2.4 Vérifier sitemap** : S'assurer que seuls articles existants sont référencés
+- [ ] **2.5 Quartiers/Corridors** : Vérifier URLs `cityData.ts` valides
+
+**Phase 3 - Nettoyage Google (30 min)** :
+- [ ] Supprimer URLs obsolètes via Search Console (si pages vraiment supprimées)
+- [ ] Soumettre nouveau sitemap à Google Search Console
+- [ ] Demander réindexation des pages valides
+
+**Phase 4 - Prévention (30 min)** :
+- [ ] Vérifier autres villes (Lille, Toulouse, Strasbourg mentionnées dans backlog 404)
+- [ ] Documenter pattern pour éviter récidive
+- [ ] Ajouter vérification dans CI/CD si possible
+
+**Fichiers à vérifier** :
+- `sites/marseille/app/sitemap.ts` (sitemap generation)
+- `sites/marseille/content/blog/**` (articles blog)
+- `sites/marseille/next.config.mjs` (redirections)
+- `sites/marseille/lib/cityData.ts` (quartiers/corridors)
+
+**Impact attendu** :
+- ✅ Réduction 404 → 0 ou < 10 pages légitimes
+- ✅ Pages indexées ↑ de 129 → ~1,300
+- ✅ Ranking SEO amélioré
+- ✅ Confiance Google restaurée
+
+**Statut** : 📋 TODO  
+**Documentation** : À créer `.cursor/tasks/[P1]-TASK-054-404-marseille-1127-pages/`
+
+---
+
 ### [P1]-P1-050-404-fix-hardcoded-nice-links-100% : Fix Liens "nice" Hardcodés (72 URLs 404) 🚨 URGENT
 
 **Priorité** : P1 (Important - Bug détecté)  
