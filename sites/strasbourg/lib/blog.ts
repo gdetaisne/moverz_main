@@ -36,9 +36,10 @@ function extractCategoryFromPath(filePath: string): string {
 export interface BlogPost {
   slug: string;
   title: string;
-  meta_title: string;
-  meta_description: string;
-  h1: string;
+  meta_title?: string;
+  meta_description?: string;
+  description?: string; // Fallback pour compatibilité avec anciens articles
+  h1?: string;
   category: string;
   type: 'pilier' | 'satellite';
   keywords: string[];
@@ -154,8 +155,9 @@ export function getAllBlogPosts(): BlogPost[] {
       allPosts.push({
         slug: originalSlug,
         title: data.title,
-        meta_title: data.meta_title,
-        meta_description: data.meta_description,
+        meta_title: data.meta_title || data.title,
+        meta_description: data.meta_description || data.description,
+        description: data.description || data.meta_description, // Fallback pour compatibilité
         h1: data.h1,
         category: category,
         type: postType,

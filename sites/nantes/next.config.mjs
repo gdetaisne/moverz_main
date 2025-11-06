@@ -160,8 +160,8 @@ const nextConfig = {
       { source: '/blog/garde-meuble/garde-meuble-vs-self-stockage-nantes', destination: '/blog', permanent: true },
       { source: '/blog/garde-meuble/duree-minimum-garde-meuble-nantes', destination: '/blog', permanent: true },
       // LEADGEN-02: Redirections 404 prioritaires (Nantes - 06/11/2025)
-      { source: '/blog/demenagement-nantes/guide', destination: '/blog/demenagement-nantes/guide-complet/', permanent: true },
-      { source: '/blog/demenagement-nantes/guide-complet', destination: '/blog/demenagement-nantes/guide-complet/', permanent: true },
+      { source: '/blog/demenagement-nantes/guide', destination: '/blog/demenagement-nantes/', permanent: true },
+      { source: '/blog/demenagement-nantes/guide-complet', destination: '/blog/demenagement-nantes/', permanent: true },
 
       // WILDCARDS CATCH-ALL (TASK-LEADGEN-02 - COMPLETS)
       { source: '/blog/garde-meuble/:slug*', destination: '/blog/garde-meuble-nantes/:slug*', permanent: true },

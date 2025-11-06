@@ -7,9 +7,10 @@
 
 ## 📊 Statistiques
 
-- **Total tâches finalisées** : 16
+- **Total tâches finalisées** : 18
 - **Octobre 2025** : 5
 - **Novembre 2025** : 11
+- **Janvier 2026** : 2
 
 ---
 
@@ -837,6 +838,94 @@ Création d'un exemple complet de documentation de tâche pour servir de référ
 
 ---
 
+## ✅ Janvier 2026
+
+### ✅ P0-LEADGEN-01-metadata-ctr-optimisation-Metadata-task-termine : Optimisation Metadata CTR (Fusion P1-012 + 039 + 040)
+
+**Finalisée le** : 06 janvier 2026  
+**Type** : Lead Generation / SEO Critical  
+**Priorité** : P0 (Impact business direct)  
+**Assigné** : Guillaume
+
+**Temps estimé** : 2 jours (16h)  
+**Temps réel** : 14h15min
+
+📁 **Documentation** : `.cursor/archives/tasks-finalisees/janvier-2026/P0-LEADGEN-01-metadata-ctr-optimisation-Metadata-task-termine/`
+
+**Résumé** :
+Optimisation complète metadata CTR pour 11 sites Moverz : corrections villes hardcodées (43 fichiers metadata + 18 fichiers contenu visible), templates centralisés optimisés (titles 44 chars, descriptions 151-164 chars avec CTA/chiffres/trust), infrastructure cityData dynamique, wording USPs Moverz intégrés. 11/11 sites déployés avec validations production sur 2+ sites.
+
+**Commits** :
+- `8892fd13` (monorepo) — Corrections villes hardcodées contenu visible (Session 6, 06/01/2026)
+- `1801ffc8` — Push monorepo
+- Sessions 8-9 : Déploiement 11 sites + force rebuild CapRover (commits individuels par site)
+
+**Tests** :
+- ✅ Metadata validées sur Montpellier, Nantes, Lyon, Bordeaux (2+ sites confirmés)
+- ✅ Villes dynamiques correctes dans titles/descriptions (export SEO confirmé)
+- ✅ Templates metadata optimisés (44 chars titles, 151-164 chars descriptions)
+
+**Definition of Done** :
+- [x] 1. Code propre et documenté (61 fichiers corrigés + templates centralisés + documentation complète)
+- [x] 2. Commits sur GitHub main (`8892fd13`, `1801ffc8`) + 11 sites déployés
+- [x] 3. Testé en live sur 2+ sites (Montpellier, Nantes confirmés + validation SEO export)
+
+**ROI attendu** :
+- CTR : ×4-5 (0.56% → 2.5-3%)
+- Clics : +400% (6 → 30/mois)
+- Leads : +400-500% (0-1 → 4-5/mois)
+- Valeur : +150-750€/mois (+1800-9000€/an)
+
+**Impact** :
+- Fondation solide pour optimisation CTR (templates réutilisables)
+- Villes hardcodées 100% résolues (bug critique)
+- Infrastructure scalable pour futures optimisations metadata
+- Gap P1-051 identifié et résolu (descriptions services individuels)
+
+---
+
+### ✅ P1-051-SEO-descriptions-services-individuels-Metadata-task-termine : Optimisation Descriptions Pages Services Individuels
+
+**Finalisée le** : 06 janvier 2026  
+**Type** : SEO / Metadata CTR  
+**Priorité** : P1  
+**Assigné** : Guillaume
+
+**Temps estimé** : 3-4h  
+**Temps réel** : 1h25min
+
+📁 **Documentation** : `.cursor/archives/tasks-finalisees/janvier-2026/P1-051-SEO-descriptions-services-individuels-Metadata-task-termine/`
+
+**Résumé** :
+Optimisation complète des metadata descriptions pour 33 pages services (Économique, Standard, Premium × 11 villes). Descriptions optimisées selon formule LEADGEN-01 : Prix + Bénéfice + USP + CTA + Trust. Longueurs optimales 153-158 chars (cible 150-160). OG descriptions synchronisées avec descriptions principales. 11 sites déployés avec 8+ villes confirmées en production.
+
+**Commits** :
+- `7cc1ff9c` (monorepo) — Optimisation 33 descriptions services + scripts automatisation
+- 11 sites individuels — Tous déployés via `push-all-sites.sh`
+
+**Tests** :
+- ✅ 8+ descriptions optimisées visibles en production (Rennes, Nice, Lille, Marseille confirmés)
+- ✅ Longueurs vérifiées : 153-158 chars (objectif atteint)
+- ✅ Formule LEADGEN-01 appliquée partout
+
+**Definition of Done** :
+- [x] 1. Code propre et documenté (33 fichiers + scripts + documentation complète)
+- [x] 2. Commits sur GitHub main (`7cc1ff9c`) + 11 sites déployés
+- [x] 3. Testé en live sur 8+ sites (descriptions visibles dans export SEO)
+
+**ROI attendu** :
+- CTR pages services : +100-200%
+- Clics additionnels : +5-10/mois
+- Leads additionnels : +1-2/mois
+- Valeur : +1500-3600€/an
+
+**Impact** :
+- Gap critique identifié dans REVUE-CRITIQUE-LEADGEN-01 résolu
+- 33 pages services optimisées pour conversion
+- USP Moverz intégré dans toutes descriptions
+
+---
+
 ## 📋 Template d'entrée
 
 ```markdown
@@ -882,4 +971,4 @@ Les tâches de plus de 3 mois peuvent être archivées dans :
 
 ---
 
-*Dernière mise à jour : 2025-11-04*
+*Dernière mise à jour : 2026-01-06*

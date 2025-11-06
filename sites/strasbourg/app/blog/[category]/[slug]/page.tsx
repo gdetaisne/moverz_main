@@ -40,16 +40,19 @@ export async function generateMetadata({ params }: BlogPostPageProps): Promise<M
 
   const canonicalUrl = getCanonicalUrl(`blog/${params.category}/${params.slug}`);
 
+  // Fallback description si absente (évite metadata vide dans HTML)
+  const description = post.meta_description || post.description || `Découvrez nos conseils d'experts pour votre déménagement à Strasbourg.`;
+  
   return {
     title: post.meta_title || post.title,
-    description: post.meta_description,
+    description: description,
     keywords: post.keywords.join(', '),
     alternates: {
       canonical: canonicalUrl,
     },
     openGraph: {
       title: post.title,
-      description: post.meta_description,
+      description: description,
       url: canonicalUrl,
       type: 'article',
       publishedTime: post.publish_date,

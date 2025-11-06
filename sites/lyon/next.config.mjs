@@ -138,9 +138,10 @@ const nextConfig = {
       { source: '/services/demenagement-premium-Lyon', destination: '/services/demenagement-premium-lyon', permanent: true },
 
       // LEADGEN-02: Redirections 404 prioritaires (Lyon - 06/11/2025)
-      { source: '/services/demenagement-economique-lyon', destination: '/services/', permanent: true },
-      { source: '/services/demenagement-standard-lyon', destination: '/services/', permanent: true },
-      { source: '/blog/demenagement-lyon/aide-au-demenagement-guide', destination: '/blog/demenagement-lyon/aide-au-demenagement-guide/', permanent: true },
+      // Pages services EXISTENT → PAS de redirection (metadata présentes)
+      // { source: '/services/demenagement-economique-lyon', destination: '/services/', permanent: true }, // SUPPRIMÉ - page existe
+      // { source: '/services/demenagement-standard-lyon', destination: '/services/', permanent: true }, // SUPPRIMÉ - page existe
+      { source: '/blog/demenagement-lyon/aide-au-demenagement-guide', destination: '/blog/aide-au-demenagement-lyon/aide-au-demenagement-lyon-guide-complet', permanent: true },
       
       // PAGES LÉGALES : Trailing slash
       { source: '/mentions-legales/', destination: '/mentions-legales', permanent: true },

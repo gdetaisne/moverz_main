@@ -116,6 +116,13 @@ const nextConfig = {
       { source: '/blog/etudiant', destination: '/blog', permanent: true },
       { source: '/blog/urgent', destination: '/blog', permanent: true },
       { source: '/blog/devis', destination: '/blog', permanent: true },
+      
+      // LEADGEN-02: Redirections 404 prioritaires (Rouen - 06/11/2025)
+      // Articles existent dans satellites/ → redirection vers satellites
+      { source: '/blog/garde-meuble/garde-meuble-etudiant-rouen', destination: '/blog/satellites/garde-meuble-etudiant-rouen', permanent: true },
+      { source: '/blog/garde-meuble/meilleurs-garde-meubles-rouen-avis', destination: '/blog/satellites/meilleurs-garde-meubles-rouen-avis', permanent: true },
+      { source: '/blog/garde-meuble/taille-box-stockage-rouen', destination: '/blog/satellites/taille-box-stockage-rouen', permanent: true },
+      { source: '/services/demenagement-standard-rouen', destination: '/services/', permanent: true },
       { source: '/blog/longue-distance', destination: '/blog', permanent: true },
       { source: '/blog/entreprise', destination: '/blog', permanent: true },
       { source: '/blog/garde-meuble', destination: '/blog', permanent: true },

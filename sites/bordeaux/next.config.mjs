@@ -30,8 +30,8 @@ const nextConfig = {
       { source: '/blog/entreprise/transfert-bureaux', destination: '/blog/', permanent: true },
       { source: '/blog/entreprise/transfert-bureaux/', destination: '/blog/', permanent: true },
       // LEADGEN-02: Redirections 404 prioritaires (Bordeaux - 06/11/2025)
-      { source: '/blog/devis/contenu-obligatoire-devis-demenagement', destination: '/blog/devis/contenu-obligatoire-devis-demenagement/', permanent: true },
-      { source: '/blog/prix/frais-caches-demenagement', destination: '/blog/prix/frais-caches-demenagement/', permanent: true },
+      { source: '/blog/devis/contenu-obligatoire-devis-demenagement', destination: '/blog/', permanent: true },
+      { source: '/blog/prix/frais-caches-demenagement', destination: '/blog/', permanent: true },
 
       // WILDCARDS CATCH-ALL (LEADGEN-02 - COMPLETS)
       { source: '/blog/garde-meuble/:slug*', destination: '/blog/garde-meuble-bordeaux/:slug*', permanent: true },

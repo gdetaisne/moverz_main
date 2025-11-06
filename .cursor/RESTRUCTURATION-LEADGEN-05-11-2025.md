@@ -37,7 +37,7 @@
 #### P0-LEADGEN-01-Metadata-ctr-optimisation-termine : Fix Metadata CTR (P0)
 **Fusion de** : P1-012-SEO-villes-hardcodees-en-cours + P2-014-Metadata-optimisation-en-cours + P1-039-SEO-titles-normalisation-fusionne + P1-040-SEO-descriptions-tier2-pas-commence + P1-045-Analytics-qa-ctr-fusionne
 
-**Localisation** : `.cursor/tasks/P0-LEADGEN-01-Metadata-ctr-optimisation-termine/`
+**Localisation** : `.cursor/archives/tasks-finalisees/janvier-2026/P0-LEADGEN-01-metadata-ctr-optimisation-Metadata-task-termine/`
 
 **Fichiers créés** :
 - ✅ `README.md` (15 pages, plan complet)

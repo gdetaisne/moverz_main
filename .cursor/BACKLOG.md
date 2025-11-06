@@ -14,6 +14,43 @@
 
 ---
 
+## 🔴 CRITIQUE URGENTE - Bugs Multi-Sites
+
+### [P0] [Temps: 2-3h] [Qui: Guillaume] [P0]-TASK-056-header-toulouse-hardcoded-complet : Correction Toulouse Hardcodé Headers + CtaPrimary (11 villes)
+
+📁 **Doc** : `.cursor/tasks/[P0]-TASK-056-header-toulouse-hardcoded-complet/`
+
+**Type** : Bugfix Critique / UX + SEO
+
+**Statut** : 🔄 EN COURS (30min investi, Strasbourg corrigé)
+
+**Problème CRITIQUE** :
+- **Tous les sites (11 villes) affichent "Toulouse"** au lieu de leur propre ville
+- Origine : Commits Lucie ce matin (`e18e6dfb`, `564e6e21`) - copie code Toulouse sans dynamisation
+- Impact : UX catastrophique + SEO cassé + Perte confiance = Perte leads
+
+**Fichiers affectés** :
+- `sites/{ville}/components/Header.tsx` × 11 (logo, zonesItems, corridors hardcodés)
+- `sites/{ville}/components/CtaPrimary.tsx` × 11 (2 occurrences "Toulouse" par fichier)
+
+**Corrections appliquées** :
+- ✅ Strasbourg Header.tsx corrigé (manuelle, sert d'exemple)
+- ⏳ 10 Headers restants à corriger
+- ⏳ 11 CtaPrimary.tsx à corriger
+
+**Actions restantes** :
+- [ ] Corriger 10 Headers restants (1h)
+- [ ] Corriger 11 CtaPrimary.tsx (1h)
+- [ ] Tests sur 2-3 villes (30min)
+- [ ] Commit + Deploy (30min)
+
+**Priorité** : P0 (critique - tous sites cassés)
+
+**Temps investi** : 30min  
+**Temps restant** : ~2h30
+
+---
+
 ## 🎉 PROJET 404 - QUASI-RÉSOLU (99% complété)
 
 **✅ SUCCÈS MASSIF** : 2,847+ liens corrigés sur 3 sessions (03-04/11/2025)
@@ -666,6 +703,34 @@ Optimisation maillage interne pour pousser autorité vers homepage. Liens strat�
 - [ ] QA (prévisualisation SERP) 2 villes  
 **DoD** : 90% pages money 50–60 chars, 0 doublon ville.
 **Statut** : 📋 PENDING
+
+---
+
+### [P1] [Temps: 1h25min réalisé] [Qui: Guillaume] P1-051-SEO-descriptions-services-individuels-Metadata-task-termine : Optimisation Descriptions Pages Services Individuels ✅ FINALISÉ
+
+📁 **Doc** : `.cursor/archives/tasks-finalisees/janvier-2026/P1-051-SEO-descriptions-services-individuels-Metadata-task-termine/`
+
+**Type** : SEO / Metadata CTR (Gap critique identifié post-LEADGEN-01)
+
+**Statut** : ✅ **FINALISÉ** (06/01/2026)
+
+**Réalisations** :
+- ✅ 33 descriptions optimisées (Économique/Standard/Premium × 11 villes)
+- ✅ Longueurs optimales : 153-158 chars (cible 150-160)
+- ✅ Formule LEADGEN-01 appliquée : Prix + Bénéfice + USP + CTA + Trust
+- ✅ OG descriptions synchronisées avec descriptions principales
+- ✅ 11 sites déployés avec descriptions visibles en production (8+ villes confirmées)
+
+**Commits** :
+- Monorepo : `7cc1ff9c`
+- 11 sites individuels : Tous déployés via `push-all-sites.sh`
+
+**Validation** : ✅ **8+ descriptions optimisées visibles** dans export SEO (Rennes, Nice, Lille, Marseille confirmés)
+
+**Temps investi** : 1h25min (vs 3-4h estimé)  
+**ROI attendu** : CTR +100-200%, +1-2 leads/mois, +1500-3600€/an
+
+**Référence** : `.cursor/REVUE-CRITIQUE-LEADGEN-01.md` (Gap #1)
 
 ---
 

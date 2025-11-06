@@ -96,7 +96,8 @@ const nextConfig = {
       { source: '/blog/international/conteneur-maritime-demenagement-rennes', destination: '/blog/satellites/conteneur-maritime-demenagement-rennes', permanent: true },
       { source: '/blog/garde-meuble/calculer-volume-stockage-rennes', destination: '/blog/satellites/calculer-volume-stockage-rennes', permanent: true },
       { source: '/blog/demenageur-rennes', destination: '/blog/demenagement-rennes/demenageur-rennes', permanent: true },
-      { source: '/blog/location-camion-rennes/location-camion-demenagement-rennes-guide', destination: '/blog/location-camion-demenagement-rennes/location-camion-demenagement-rennes-guide-complet', permanent: true },
+      // LEADGEN-02: Redirections 404 prioritaires (Rennes - 06/11/2025)
+      { source: '/blog/location-camion-rennes/location-camion-demenagement-rennes-guide', destination: '/blog/satellites/location-camion-demenagement-rennes-guide', permanent: true },
 
       // PAGES LÉGALES : Trailing slash
       { source: '/mentions-legales/', destination: '/mentions-legales', permanent: true },

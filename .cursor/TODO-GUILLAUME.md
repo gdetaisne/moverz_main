@@ -25,24 +25,54 @@
 
 ---
 
+## 🔴 CRITIQUE URGENTE - Bug Multi-Sites
+
+### [P0]-TASK-056-header-toulouse-hardcoded-complet : Correction Toulouse Hardcodé Headers + CtaPrimary ⚡️⚡️⚡️
+
+**Statut** : 🔄 **EN COURS** (30min investi, Strasbourg corrigé)  
+**Priorité** : P0 (CRITIQUE - Tous sites cassés)  
+**Temps investi** : 30min  
+**Temps restant** : ~2h30  
+**Doc** : `.cursor/tasks/[P0]-TASK-056-header-toulouse-hardcoded-complet/`
+
+**Problème CRITIQUE** :
+- 🚨 **Tous les sites (11 villes) affichent "Toulouse"** au lieu de leur propre ville
+- Origine : Commits Lucie ce matin (`e18e6dfb`, `564e6e21`)
+- Impact : UX catastrophique + SEO cassé + Perte confiance
+
+**Corrections** :
+- ✅ Strasbourg Header.tsx corrigé (exemple)
+- ⏳ 10 Headers restants (nice, lyon, marseille, bordeaux, nantes, lille, rennes, rouen, montpellier, toulouse)
+- ⏳ 11 CtaPrimary.tsx (22 occurrences "Toulouse" à corriger)
+
+**Actions** :
+- [ ] Corriger 10 Headers restants (1h)
+- [ ] Corriger 11 CtaPrimary.tsx (1h)
+- [ ] Tests 2-3 villes (30min)
+- [ ] Commit + Deploy (30min)
+
+**À faire IMMÉDIATEMENT** avant toute autre tâche !
+
+---
+
 ## 🔴 PRIORITÉ ABSOLUE : 3 TÂCHES LEAD GENERATION (TOUTES P0)
 
 ### [P0]-P0-LEADGEN-01-Metadata-ctr-optimisation-termine : Optimisation Metadata CTR ✅ FINALISÉ
 
-**Statut** : ✅ **COMPLET** (05/11/2025)  
+**Statut** : ✅ **COMPLET** (06/01/2026)  
 **Priorité** : P0 (critique business)  
-**Temps investi** : 6h (code + tests + deployments multiples)  
+**Temps investi** : 14h15min (code + tests + deployments 11 sites)  
 **ROI attendu** : CTR ×4-5 = +3-5 leads/mois = +150-750€/mois  
 **Impact** : Visible J+14 (mesure crawler)  
-**Doc** : `.cursor/tasks/P0-LEADGEN-01-Metadata-ctr-optimisation-termine/`
+**Doc** : `.cursor/archives/tasks-finalisees/janvier-2026/P0-LEADGEN-01-metadata-ctr-optimisation-Metadata-task-termine/`
 
 **Réalisations** :
-- ✅ 105 fichiers corrigés (43 villes hardcodées + 51 templates + 11 homepages + 13 corridors)
+- ✅ 61 fichiers corrigés (43 villes hardcodées metadata + 18 villes hardcodées contenu visible)
 - ✅ Templates centralisés `lib/seo-builders.ts` optimisés
-- ✅ Titles 44 chars, Descriptions 160 chars avec CTA/chiffres/trust
-- ✅ 11 sites déployés avec `--force-deploy`
+- ✅ Titles 44 chars, Descriptions 151-164 chars avec CTA/chiffres/trust
+- ✅ 11/11 sites déployés avec force rebuild CapRover (Session 8-9)
 - ✅ Wording USPs Moverz (Volume IA, Dossier anonyme, Zéro harcèlement)
-- ✅ Pages quartiers optimisées (LocalPage.tsx)
+- ✅ Validation production : 2+ sites confirmés (Montpellier, Nantes)
 
 **Commits principaux** :
 - `3456789a` : Fix villes hardcodées 43 fichiers
@@ -54,14 +84,13 @@
 
 ---
 
-### [P0]-P0-LEADGEN-02-404-indexation-boost-100% : Résolution 404 & Indexation ⚡️⚡️
+### ✅ [P0]-P0-LEADGEN-02-404-indexation-boost-100% : Résolution 404 & Indexation ⚡️⚡️
 
-**Statut** : 📋 PENDING (à faire après LEADGEN-01)  
+**Statut** : ✅ **TERMINÉE** (06/11/2025)  
 **Priorité** : P0 (critique business)  
-**Temps estimé** : 1-2 jours  
-**ROI** : +250-350 pages indexables = +3-5 leads/mois = +150-750€/mois  
-**Impact J+30** : Visible  
-**Doc** : `.cursor/tasks/P0-LEADGEN-02-404-indexation-boost-100%/`
+**Temps investi** : ~6h  
+**Résultat** : 24 URLs corrigées, ~200 impressions récupérables  
+**Doc** : `.cursor/tasks/P0-LEADGEN-02-404-indexation-boost-404-task-en-attente/`
 
 **Objectif** :
 - Résoudre 26 erreurs 404 résiduelles (Lyon 31, Lille 28, Toulouse 19, etc.)
@@ -145,6 +174,7 @@
 **Objectif semaine 4** : ROI documenté, stratégie Q1
 
 ---
+
 
 ## 🟠 TÂCHES IMPORTANTES (P1 - Après LEADGEN-01)
 

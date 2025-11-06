@@ -334,10 +334,11 @@ const nextConfig = {
       // ========================================
       // LEADGEN-02: Redirections 404 prioritaires (Strasbourg - 06/11/2025)
       // ========================================
-      { source: '/services/demenagement-standard-strasbourg', destination: '/services/', permanent: true },
-      { source: '/services/demenagement-economique-strasbourg', destination: '/services/', permanent: true },
-      { source: '/blog/demenagement-strasbourg/demenagement-piano', destination: '/blog/demenagement-strasbourg/demenagement-piano/', permanent: true },
-      { source: '/blog/demenagement-strasbourg/demenagement-d-entreprise', destination: '/blog/demenagement-strasbourg/demenagement-d-entreprise/', permanent: true },
+      // Pages services EXISTENT → PAS de redirection (metadata présentes)
+      // { source: '/services/demenagement-standard-strasbourg', destination: '/services/', permanent: true }, // SUPPRIMÉ - page existe
+      // { source: '/services/demenagement-economique-strasbourg', destination: '/services/', permanent: true }, // SUPPRIMÉ - page existe
+      { source: '/blog/demenagement-strasbourg/demenagement-piano', destination: '/blog/demenagement-strasbourg/demenagement-piano-strasbourg', permanent: true },
+      { source: '/blog/demenagement-strasbourg/demenagement-d-entreprise', destination: '/blog/demenagement-strasbourg/demenagement-d-entreprise-strasbourg', permanent: true },
 
       // WILDCARDS CATCH-ALL (TASK-LEADGEN-02 - COMPLETS)
       { source: '/blog/garde-meuble/:slug*', destination: '/blog/garde-meuble-strasbourg/:slug*', permanent: true },
