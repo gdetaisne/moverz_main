@@ -1,18 +1,21 @@
 ---
-title: "Prix Petit Déménagement Lyon : Tarifs 2025 et Solutions"
-meta_title: "Prix Petit Déménagement Lyon | 150-400€ Studio Étudiant"
-meta_description: "Prix petit déménagement Lyon : 150-250€ chambre étudiant, 250-400€ studio, 300-500€ T1. Camionnette avec chauffeur, formules économiques."
-slug: "prix-petit-demenagement-lyon"
-category: "demenagement-petit-volume-lyon"
-type: "satellite"
-pilier_parent: "demenagement-petit-volume-lyon"
+title: 'Prix Petit Déménagement Lyon : Tarifs 2025 et Solutions'
+meta_title: 'Prix Déménagement Lyon : Guide Complet & Tarifs | 2025'
+meta_description: >-
+  Guide complet prix déménagement Lyon : Tarifs détaillés selon volume, distance
+  et accessibilité. Facteurs de coût expliqués. Estimation précise pour votre
+  projet.
+slug: prix-petit-demenagement-lyon
+category: demenagement-petit-volume-lyon
+type: satellite
+pilier_parent: demenagement-petit-volume-lyon
 keywords:
-  - "prix petit déménagement lyon"
-  - "tarif petit volume lyon"
-  - "déménagement pas cher lyon"
+  - prix petit déménagement lyon
+  - tarif petit volume lyon
+  - déménagement pas cher lyon
 word_count: 1350
-publish_date: "2025-10-17"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-17'
+author: Équipe Moverz Lyon
 ---
 
 # Prix Petit Déménagement Lyon : Tarifs et Solutions Économiques 2025

@@ -1,18 +1,21 @@
 ---
-title: "Monte-Meuble Piano Lyon : Quand Est-il Obligatoire ?"
-meta_title: "Monte-Meuble Piano Lyon | 200-350€ 4ème Étage"
-meta_description: "Monte-meuble piano Lyon obligatoire 4ème+ étage, Croix-Rousse, escaliers <95cm. Prix 200-350€. Alternative portage. Vieux-Lyon impossible."
-slug: "monte-meuble-piano-lyon"
-category: "demenagement-piano-lyon"
-type: "satellite"
-pilier_parent: "demenagement-piano-lyon-guide-complet"
+title: 'Monte-Meuble Piano Lyon : Quand Est-il Obligatoire ?'
+meta_title: 'Déménagement Piano Lyon : Guide Spécialisé | 2025'
+meta_description: >-
+  Guide déménagement piano Lyon : Techniques spécialisées, précautions, tarifs.
+  Conseils transport instrument fragile. Informations détaillées pour votre
+  piano.
+slug: monte-meuble-piano-lyon
+category: demenagement-piano-lyon
+type: satellite
+pilier_parent: demenagement-piano-lyon-guide-complet
 keywords:
-  - "monte-meuble piano lyon"
-  - "monte-charge piano"
-  - "piano étage lyon"
+  - monte-meuble piano lyon
+  - monte-charge piano
+  - piano étage lyon
 word_count: 1200
-publish_date: "2025-10-16"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-16'
+author: Équipe Moverz Lyon
 ---
 
 # Monte-Meuble Piano Lyon : Obligatoire ou Optionnel ?

@@ -1,18 +1,21 @@
 ---
-title: "Prix Garde-Meuble Lyon 2025 : Tarifs Self-Stockage et Box"
-meta_title: "Prix Garde-Meuble Lyon 2025 | 55-480€/mois Shurgard"
-meta_description: "Prix garde-meuble Lyon 2025 : 55-70€/mois 1m², 130-170€ 5m², 220-280€ 10m². Shurgard, Homebox. Comparatif acteurs, économies. Guide complet."
-slug: "prix-garde-meuble-lyon-2025"
-category: "garde-meuble-lyon"
-type: "satellite"
-pilier_parent: "garde-meuble-lyon-guide-complet"
+title: 'Prix Garde-Meuble Lyon 2025 : Tarifs Self-Stockage et Box'
+meta_title: 'Prix Déménagement Lyon : Guide Complet & Tarifs | 2025'
+meta_description: >-
+  Guide complet prix déménagement Lyon : Tarifs détaillés selon volume, distance
+  et accessibilité. Facteurs de coût expliqués. Estimation précise pour votre
+  projet.
+slug: prix-garde-meuble-lyon-2025
+category: garde-meuble-lyon
+type: satellite
+pilier_parent: garde-meuble-lyon-guide-complet
 keywords:
-  - "prix garde meuble lyon"
-  - "tarif box stockage lyon"
-  - "self stockage lyon prix"
+  - prix garde meuble lyon
+  - tarif box stockage lyon
+  - self stockage lyon prix
 word_count: 1450
-publish_date: "2025-10-16"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-16'
+author: Équipe Moverz Lyon
 ---
 
 # Prix Garde-Meuble Lyon 2025 : Tarifs et Comparatif Complet

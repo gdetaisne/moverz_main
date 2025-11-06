@@ -1,18 +1,21 @@
 ---
-title: "Tarifs Déménageur Lyon : Prix Horaire et Forfaits 2025"
-meta_title: "Tarifs Déménageur Lyon | 25-40€/h 400-700€ T2"
-meta_description: "Tarifs déménageur Lyon : 25-40€/h/personne ou forfaits T2 400-700€. Facteurs volume, étages, distance. S.I.E.T, Lugnier, PME comparatif."
-slug: "tarifs-demenageur-lyon"
-category: "demenageur-lyon"
-type: "satellite"
-pilier_parent: "demenageur-lyon"
+title: 'Tarifs Déménageur Lyon : Prix Horaire et Forfaits 2025'
+meta_title: 'Prix Déménagement Lyon : Guide Complet & Tarifs | 2025'
+meta_description: >-
+  Guide complet prix déménagement Lyon : Tarifs détaillés selon volume, distance
+  et accessibilité. Facteurs de coût expliqués. Estimation précise pour votre
+  projet.
+slug: tarifs-demenageur-lyon
+category: demenageur-lyon
+type: satellite
+pilier_parent: demenageur-lyon
 keywords:
-  - "tarifs déménageur lyon"
-  - "prix horaire déménagement"
-  - "forfait déménagement"
+  - tarifs déménageur lyon
+  - prix horaire déménagement
+  - forfait déménagement
 word_count: 1400
-publish_date: "2025-10-20"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-20'
+author: Équipe Moverz Lyon
 ---
 
 # Tarifs Déménageur Lyon : Prix Horaires et Forfaits 2025

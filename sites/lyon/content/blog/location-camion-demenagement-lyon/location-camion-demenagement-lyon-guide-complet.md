@@ -1,17 +1,27 @@
 ---
-title: "Location Camion Déménagement à Lyon : Trouvez l'Utilitaire Idéal au Meilleur Prix"
-description: "Location camion déménagement Lyon : Trouvez votre utilitaire idéal (de 6 à 30m³) au meilleur prix. Guide complet, conseils pratiques et agences pour louer à Lyon."
-slug: "location-camion-demenagement-lyon-guide-complet"
-category: "demenagement-lyon"
-keywords: 
-  - "location camion déménagement lyon"
-  - "location utilitaire déménagement lyon"
-  - "louer camion déménagement lyon"
-  - "prix location camion lyon"
-  - "location fourgon déménagement lyon"
-author: "Équipe Moverz Lyon"
-publishedAt: "2025-01-15"
+title: >-
+  Location Camion Déménagement à Lyon : Trouvez l'Utilitaire Idéal au Meilleur
+  Prix
+description: >-
+  Guide complet prix déménagement Lyon : Tarifs détaillés selon volume, distance
+  et accessibilité. Facteurs de coût expliqués. Estimation précise pour votre
+  projet.
+slug: location-camion-demenagement-lyon-guide-complet
+category: demenagement-lyon
+keywords:
+  - location camion déménagement lyon
+  - location utilitaire déménagement lyon
+  - louer camion déménagement lyon
+  - prix location camion lyon
+  - location fourgon déménagement lyon
+author: Équipe Moverz Lyon
+publishedAt: '2025-01-15'
 featured: true
+meta_title: 'Prix Déménagement Lyon : Guide Complet & Tarifs | 2025'
+meta_description: >-
+  Guide complet prix déménagement Lyon : Tarifs détaillés selon volume, distance
+  et accessibilité. Facteurs de coût expliqués. Estimation précise pour votre
+  projet.
 ---
 
 # Location Camion Déménagement à Lyon : Trouvez l'Utilitaire Idéal au Meilleur Prix

@@ -1,18 +1,21 @@
 ---
-title: "Déménagement Europe depuis Lyon : Destinations et Prix 2025"
-meta_title: "Déménagement Europe Lyon | Allemagne UK Espagne Prix"
-meta_description: "Déménagement Europe Lyon 2025 : Allemagne 3000-5000€, UK 4000-6500€, Espagne 3500-5500€ T2. Formalités UE, routier optimal, délais 3-7j."
-slug: "demenagement-europe-lyon"
-category: "demenagement-international-lyon"
-type: "satellite"
-pilier_parent: "demenagement-international-lyon-guide-complet"
+title: 'Déménagement Europe depuis Lyon : Destinations et Prix 2025'
+meta_title: 'Prix Déménagement Lyon : Guide Complet & Tarifs | 2025'
+meta_description: >-
+  Guide complet prix déménagement Lyon : Tarifs détaillés selon volume, distance
+  et accessibilité. Facteurs de coût expliqués. Estimation précise pour votre
+  projet.
+slug: demenagement-europe-lyon
+category: demenagement-international-lyon
+type: satellite
+pilier_parent: demenagement-international-lyon-guide-complet
 keywords:
-  - "déménagement europe lyon"
-  - "lyon allemagne déménagement"
-  - "lyon espagne déménagement"
+  - déménagement europe lyon
+  - lyon allemagne déménagement
+  - lyon espagne déménagement
 word_count: 1380
-publish_date: "2025-10-15"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-15'
+author: Équipe Moverz Lyon
 ---
 
 # Déménagement Europe depuis Lyon : Guide Destinations 2025

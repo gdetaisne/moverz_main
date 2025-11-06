@@ -1,18 +1,21 @@
 ---
-title: "Déménagement Chambre Étudiant Lyon : Guide Complet 2025"
-meta_title: "Déménagement Étudiant Lyon | 150-250€ Chambre CROUS"
-meta_description: "Déménagement chambre étudiant Lyon : 150-250€ pro, 80-120€ DIY. 170 000 étudiants, juin-sept, CROUS, résidences. Astuces économiser."
-slug: "demenagement-chambre-etudiant-lyon"
-category: "demenagement-petit-volume-lyon"
-type: "satellite"
-pilier_parent: "demenagement-petit-volume-lyon"
+title: 'Déménagement Chambre Étudiant Lyon : Guide Complet 2025'
+meta_title: 'Petit Déménagement Lyon : Guide Studio/T1 | 2025'
+meta_description: >-
+  Guide petit déménagement Lyon : Tarifs studio, solutions adaptées petit
+  volume. Conseils organisation, emballage et transport. Comparaison options
+  disponibles.
+slug: demenagement-chambre-etudiant-lyon
+category: demenagement-petit-volume-lyon
+type: satellite
+pilier_parent: demenagement-petit-volume-lyon
 keywords:
-  - "déménagement étudiant lyon"
-  - "demenagement crous lyon"
-  - "étudiant lyon"
+  - déménagement étudiant lyon
+  - demenagement crous lyon
+  - étudiant lyon
 word_count: 1300
-publish_date: "2025-10-17"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-17'
+author: Équipe Moverz Lyon
 ---
 
 # Déménagement Chambre Étudiant Lyon : Solutions et Prix 2025

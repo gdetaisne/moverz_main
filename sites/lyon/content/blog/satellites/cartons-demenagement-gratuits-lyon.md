@@ -1,18 +1,21 @@
 ---
-title: "Où Trouver des Cartons de Déménagement Gratuits à Lyon"
-meta_title: "Cartons Déménagement Gratuits Lyon | Adresses & Astuces"
-meta_description: "Cartons déménagement gratuits Lyon : supermarchés (Carrefour, Auchan, Leclerc), commerces, quantités par logement. Économisez 40-60€."
-slug: "cartons-demenagement-gratuits-lyon"
-category: "demenagement-lyon-pas-cher"
-type: "satellite"
-pilier_parent: "demenagement-lyon-pas-cher-guide-complet"
+title: Où Trouver des Cartons de Déménagement Gratuits à Lyon
+meta_title: 'Déménagement Pas Cher Lyon : Guide & Astuces | 2025'
+meta_description: >-
+  Guide déménagement pas cher Lyon : Astuces pour économiser, comparer les
+  tarifs, négocier. Conseils pratiques pour réduire les coûts sans sacrifier la
+  qualité.
+slug: cartons-demenagement-gratuits-lyon
+category: demenagement-lyon-pas-cher
+type: satellite
+pilier_parent: demenagement-lyon-pas-cher-guide-complet
 keywords:
-  - "cartons déménagement gratuits lyon"
-  - "cartons gratuits lyon"
-  - "où trouver cartons lyon"
+  - cartons déménagement gratuits lyon
+  - cartons gratuits lyon
+  - où trouver cartons lyon
 word_count: 1250
-publish_date: "2025-10-15"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-15'
+author: Équipe Moverz Lyon
 ---
 
 # Où Trouver des Cartons de Déménagement Gratuits à Lyon

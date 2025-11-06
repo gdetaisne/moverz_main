@@ -1,18 +1,21 @@
 ---
-title: "Délais Déménagement International depuis Lyon par Destination"
-meta_title: "Délais Déménagement International Lyon | 2j-60j"
-meta_description: "Délais déménagement Lyon : Suisse 2-4j, Italie 2-5j, USA 25-35j container, Asie 35-50j. Planning anticipation 3-6 mois, réservation 2-3 mois."
-slug: "delais-demenagement-international-lyon"
-category: "demenagement-international-lyon"
-type: "satellite"
-pilier_parent: "demenagement-international-lyon-guide-complet"
+title: Délais Déménagement International depuis Lyon par Destination
+meta_title: 'Déménagement International Lyon : Guide Complet | 2025'
+meta_description: >-
+  Guide déménagement international Lyon : Formalités, douanes, transport longue
+  distance. Conseils organisation déménagement Europe/Monde. Informations
+  détaillées.
+slug: delais-demenagement-international-lyon
+category: demenagement-international-lyon
+type: satellite
+pilier_parent: demenagement-international-lyon-guide-complet
 keywords:
-  - "délais déménagement international"
-  - "temps déménagement lyon suisse"
-  - "container usa délai"
+  - délais déménagement international
+  - temps déménagement lyon suisse
+  - container usa délai
 word_count: 1290
-publish_date: "2025-10-15"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-15'
+author: Équipe Moverz Lyon
 ---
 
 # Délais Déménagement International depuis Lyon : Planning par Destination

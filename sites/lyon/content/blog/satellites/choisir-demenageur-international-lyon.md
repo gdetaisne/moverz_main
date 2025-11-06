@@ -1,18 +1,21 @@
 ---
-title: "Choisir un Déménageur International à Lyon : Critères 2025"
-meta_title: "Déménageur International Lyon | FIDI ISO Critères"
-meta_description: "Choisir déménageur international Lyon : certification FIDI/ISO, réseau partenaires, assurance internationale. AGS, Allied, Crown. Critères fiabilité."
-slug: "choisir-demenageur-international-lyon"
-category: "demenagement-international-lyon"
-type: "satellite"
-pilier_parent: "demenagement-international-lyon-guide-complet"
+title: 'Choisir un Déménageur International à Lyon : Critères 2025'
+meta_title: 'Déménagement International Lyon : Guide Complet | 2025'
+meta_description: >-
+  Guide déménagement international Lyon : Formalités, douanes, transport longue
+  distance. Conseils organisation déménagement Europe/Monde. Informations
+  détaillées.
+slug: choisir-demenageur-international-lyon
+category: demenagement-international-lyon
+type: satellite
+pilier_parent: demenagement-international-lyon-guide-complet
 keywords:
-  - "déménageur international lyon"
-  - "FIDI lyon"
-  - "certification déménagement international"
+  - déménageur international lyon
+  - FIDI lyon
+  - certification déménagement international
 word_count: 1340
-publish_date: "2025-10-15"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-15'
+author: Équipe Moverz Lyon
 ---
 
 # Choisir un Déménageur International à Lyon : Critères et Certifications 2025

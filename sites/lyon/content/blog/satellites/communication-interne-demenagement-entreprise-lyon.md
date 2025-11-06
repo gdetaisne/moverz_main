@@ -1,18 +1,21 @@
 ---
-title: "Communication Interne Déménagement Entreprise Lyon 2025"
-meta_title: "Communication Déménagement Lyon | RH Salariés Accompagnement"
-meta_description: "Communication interne déménagement entreprise Lyon : annonce 3-6 mois avant, accompagnement changement, résistances 20-30%. Plan RH, réunions."
-slug: "communication-interne-demenagement-entreprise-lyon"
-category: "demenagement-entreprise-lyon"
-type: "satellite"
-pilier_parent: "demenagement-entreprise-lyon"
+title: Communication Interne Déménagement Entreprise Lyon 2025
+meta_title: 'Déménagement Entreprise Lyon : Guide Professionnel | 2025'
+meta_description: >-
+  Guide déménagement entreprise Lyon : Solutions B2B, organisation bureaux,
+  gestion équipes. Conseils professionnels pour déménager vos locaux
+  efficacement.
+slug: communication-interne-demenagement-entreprise-lyon
+category: demenagement-entreprise-lyon
+type: satellite
+pilier_parent: demenagement-entreprise-lyon
 keywords:
-  - "communication interne"
-  - "accompagnement changement"
-  - "rh demenagement"
+  - communication interne
+  - accompagnement changement
+  - rh demenagement
 word_count: 1150
-publish_date: "2025-10-19"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-19'
+author: Équipe Moverz Lyon
 ---
 
 # Communication Interne Déménagement Entreprise Lyon : Accompagnement RH

@@ -1,18 +1,21 @@
 ---
-title: "FAQ Déménagement Petit Volume Lyon : 15 Questions 2025"
-meta_title: "FAQ Petit Volume Lyon | Prix DIY Pro Formules"
-meta_description: "FAQ petit volume Lyon : prix 150-400€, chambre/studio, DIY 60-90€ vs pro, formules économiques, express <48h, senior adapté. 15 réponses."
-slug: "faq-petit-volume-lyon"
-category: "demenagement-petit-volume-lyon"
-type: "satellite"
-pilier_parent: "demenagement-petit-volume-lyon"
+title: 'FAQ Déménagement Petit Volume Lyon : 15 Questions 2025'
+meta_title: 'Petit Déménagement Lyon : Guide Studio/T1 | 2025'
+meta_description: >-
+  Guide petit déménagement Lyon : Tarifs studio, solutions adaptées petit
+  volume. Conseils organisation, emballage et transport. Comparaison options
+  disponibles.
+slug: faq-petit-volume-lyon
+category: demenagement-petit-volume-lyon
+type: satellite
+pilier_parent: demenagement-petit-volume-lyon
 keywords:
-  - "faq petit volume lyon"
-  - "questions déménagement lyon"
-  - "petit déménagement lyon"
+  - faq petit volume lyon
+  - questions déménagement lyon
+  - petit déménagement lyon
 word_count: 1300
-publish_date: "2025-10-17"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-17'
+author: Équipe Moverz Lyon
 ---
 
 # FAQ Déménagement Petit Volume Lyon : Toutes Vos Questions 2025

@@ -1,18 +1,21 @@
 ---
-title: "Petit Déménagement Express Lyon : Urgent <48h 2025"
-meta_title: "Déménagement Express Lyon | Urgent 180-350€ <48h"
-meta_description: "Déménagement express Lyon <48h : 180-350€ (+20-40€ vs standard). Urgent préavis court, disponibilité immédiate. Chambre, studio 2-4h."
-slug: "petit-demenagement-express-lyon"
-category: "demenagement-petit-volume-lyon"
-type: "satellite"
-pilier_parent: "demenagement-petit-volume-lyon"
+title: 'Petit Déménagement Express Lyon : Urgent <48h 2025'
+meta_title: 'Petit Déménagement Lyon : Guide Studio/T1 | 2025'
+meta_description: >-
+  Guide petit déménagement Lyon : Tarifs studio, solutions adaptées petit
+  volume. Conseils organisation, emballage et transport. Comparaison options
+  disponibles.
+slug: petit-demenagement-express-lyon
+category: demenagement-petit-volume-lyon
+type: satellite
+pilier_parent: demenagement-petit-volume-lyon
 keywords:
-  - "déménagement express lyon"
-  - "déménagement urgent lyon"
-  - "déménagement rapide lyon"
+  - déménagement express lyon
+  - déménagement urgent lyon
+  - déménagement rapide lyon
 word_count: 1050
-publish_date: "2025-10-17"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-17'
+author: Équipe Moverz Lyon
 ---
 
 # Petit Déménagement Express Lyon Urgent : Solutions <48h

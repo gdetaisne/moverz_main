@@ -1,18 +1,21 @@
 ---
-title: "Transport Cartons Uniquement Lyon : Sans Meubles 2025"
-meta_title: "Transport Cartons Lyon | 50-120€ 10-40 Cartons"
-meta_description: "Transport cartons uniquement Lyon : 50-120€ (10-40 cartons, sans meubles). Marketplace, déménagement partiel, garde-meuble. Camionnette."
-slug: "transport-cartons-uniquement-lyon"
-category: "demenagement-petit-volume-lyon"
-type: "satellite"
-pilier_parent: "demenagement-petit-volume-lyon"
+title: 'Transport Cartons Uniquement Lyon : Sans Meubles 2025'
+meta_title: 'Petit Déménagement Lyon : Guide Studio/T1 | 2025'
+meta_description: >-
+  Guide petit déménagement Lyon : Tarifs studio, solutions adaptées petit
+  volume. Conseils organisation, emballage et transport. Comparaison options
+  disponibles.
+slug: transport-cartons-uniquement-lyon
+category: demenagement-petit-volume-lyon
+type: satellite
+pilier_parent: demenagement-petit-volume-lyon
 keywords:
-  - "transport cartons lyon"
-  - "livraison cartons lyon"
-  - "déménagement partiel lyon"
+  - transport cartons lyon
+  - livraison cartons lyon
+  - déménagement partiel lyon
 word_count: 950
-publish_date: "2025-10-17"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-17'
+author: Équipe Moverz Lyon
 ---
 
 # Transport Cartons Uniquement Lyon : Solutions Sans Meubles 2025

@@ -1,18 +1,21 @@
 ---
-title: "Déménagement Avec Aide vs Sans Aide Lyon : Comparatif 2025"
-meta_title: "Avec Aide vs Sans Lyon | 160€ Efforts vs 0€ Risques"
-meta_description: "Avec aide (manutentionnaires 160-240€, zéro efforts) vs sans aide DIY (0€ mais risques blessures 40%, casse). Comparatif T2 Lyon."
-slug: "demenagement-avec-aide-vs-sans-aide-lyon"
-category: "aide-demenagement-lyon"
-type: "satellite"
-pilier_parent: "aide-demenagement-lyon"
+title: 'Déménagement Avec Aide vs Sans Aide Lyon : Comparatif 2025'
+meta_title: 'Aide au Déménagement Lyon : Guide Complet & Astuces | 2025'
+meta_description: >-
+  Guide complet déménagement Lyon : Checklist, organisation, emballage,
+  transport. Conseils pratiques étape par étape. Évitez les erreurs courantes.
+  Guide expert.
+slug: demenagement-avec-aide-vs-sans-aide-lyon
+category: aide-demenagement-lyon
+type: satellite
+pilier_parent: aide-demenagement-lyon
 keywords:
-  - "avec aide vs sans aide"
-  - "demenagement solo lyon"
-  - "aide demenagement lyon"
+  - avec aide vs sans aide
+  - demenagement solo lyon
+  - aide demenagement lyon
 word_count: 1000
-publish_date: "2025-10-18"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-18'
+author: Équipe Moverz Lyon
 ---
 
 # Déménagement Avec Aide vs Sans Aide Lyon : Quel Choix ?

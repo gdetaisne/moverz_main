@@ -1,18 +1,21 @@
 ---
-title: "Documents Nécessaires Déménagement International Lyon"
-meta_title: "Documents Déménagement International Lyon | Checklist"
-meta_description: "Documents déménagement international Lyon : passeport, inventaire bilingue, permis résidence, attestations. Checklist UE, Suisse, USA, Canada."
-slug: "documents-demenagement-international-lyon"
-category: "demenagement-international-lyon"
-type: "satellite"
-pilier_parent: "demenagement-international-lyon-guide-complet"
+title: Documents Nécessaires Déménagement International Lyon
+meta_title: 'Déménagement International Lyon : Guide Complet | 2025'
+meta_description: >-
+  Guide déménagement international Lyon : Formalités, douanes, transport longue
+  distance. Conseils organisation déménagement Europe/Monde. Informations
+  détaillées.
+slug: documents-demenagement-international-lyon
+category: demenagement-international-lyon
+type: satellite
+pilier_parent: demenagement-international-lyon-guide-complet
 keywords:
-  - "documents déménagement international"
-  - "inventaire déménagement"
-  - "passeport déménagement"
+  - documents déménagement international
+  - inventaire déménagement
+  - passeport déménagement
 word_count: 1410
-publish_date: "2025-10-15"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-15'
+author: Équipe Moverz Lyon
 ---
 
 # Documents Nécessaires pour Déménagement International depuis Lyon

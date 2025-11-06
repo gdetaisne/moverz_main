@@ -1,18 +1,21 @@
 ---
-title: "FAQ Prix Déménagement Lyon : 12 Questions Fréquentes 2025"
-meta_title: "FAQ Prix Déménagement Lyon | 12 Questions Réponses"
-meta_description: "FAQ prix déménagement Lyon : 12 questions fréquentes prix T2 420-720€, facteurs, économies, comparaisons. Réponses complètes clients."
-slug: "faq-prix-demenagement-lyon"
-category: "prix-demenagement-lyon"
-type: "satellite"
-pilier_parent: "prix-demenagement-lyon"
+title: 'FAQ Prix Déménagement Lyon : 12 Questions Fréquentes 2025'
+meta_title: 'Prix Déménagement Lyon : Guide Complet & Tarifs | 2025'
+meta_description: >-
+  Guide complet prix déménagement Lyon : Tarifs détaillés selon volume, distance
+  et accessibilité. Facteurs de coût expliqués. Estimation précise pour votre
+  projet.
+slug: faq-prix-demenagement-lyon
+category: prix-demenagement-lyon
+type: satellite
+pilier_parent: prix-demenagement-lyon
 keywords:
-  - "faq prix déménagement"
-  - "questions prix lyon"
-  - "tarifs déménagement faq"
+  - faq prix déménagement
+  - questions prix lyon
+  - tarifs déménagement faq
 word_count: 1420
-publish_date: "2025-10-20"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-20'
+author: Équipe Moverz Lyon
 ---
 
 # FAQ Prix Déménagement Lyon : 12 Questions Clients 2025

@@ -1,18 +1,20 @@
 ---
-title: "Prix Déménagement Maison Lyon : 1200-2500€ Tarifs Détaillés 2025"
-meta_title: "Prix Déménagement Maison Lyon | 1200-2500€ Tarifs 2025"
-meta_description: "Prix déménagement maison Lyon : 1200-2500€ selon volumes 90-150m³. Facteurs garage/cave/jardin +20-50%. S.I.E.T, Lugnier comparatif détaillé."
-slug: "prix-demenagement-maison-lyon"
-category: "prix-demenagement-lyon"
-type: "satellite"
-pilier_parent: "prix-demenagement-lyon"
+title: 'Prix Déménagement Maison Lyon : 1200-2500€ Tarifs Détaillés 2025'
+meta_title: 'Prix Déménagement Lyon : Comparez 5 Devis Gratuits | 2025'
+meta_description: >-
+  Déménagement Lyon : T2 500-800€, T3 800-1200€, T4 1200-1800€. IA analyse vos
+  photos → 5 devis comparables sous 7j. Gratuit. 1200+ clients ⭐4.9/5
+slug: prix-demenagement-maison-lyon
+category: prix-demenagement-lyon
+type: satellite
+pilier_parent: prix-demenagement-lyon
 keywords:
-  - "prix déménagement maison lyon"
-  - "tarif maison individuelle"
-  - "coût déménagement villa"
+  - prix déménagement maison lyon
+  - tarif maison individuelle
+  - coût déménagement villa
 word_count: 1460
-publish_date: "2025-10-20"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-20'
+author: Équipe Moverz Lyon
 ---
 
 # Prix Déménagement Maison Lyon : Tarifs Complets 2025

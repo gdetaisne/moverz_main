@@ -1,18 +1,21 @@
 ---
-title: "Déménagement Week-End Entreprise Lyon : Continuité Activité"
-meta_title: "Déménagement Week-End Lyon | Continuité PME Samedi"
-meta_description: "Déménagement entreprise week-end Lyon : samedi-dimanche continuité activité 0j fermeture (vs semaine 2-5j pertes 10-100K€). Surcoût +20-30%."
-slug: "demenagement-week-end-entreprise-lyon"
-category: "demenagement-entreprise-lyon"
-type: "satellite"
-pilier_parent: "demenagement-entreprise-lyon"
+title: 'Déménagement Week-End Entreprise Lyon : Continuité Activité'
+meta_title: 'Déménagement Entreprise Lyon : Guide Professionnel | 2025'
+meta_description: >-
+  Guide déménagement entreprise Lyon : Solutions B2B, organisation bureaux,
+  gestion équipes. Conseils professionnels pour déménager vos locaux
+  efficacement.
+slug: demenagement-week-end-entreprise-lyon
+category: demenagement-entreprise-lyon
+type: satellite
+pilier_parent: demenagement-entreprise-lyon
 keywords:
-  - "demenagement week end entreprise"
-  - "continuité activité"
-  - "demenagement samedi lyon"
+  - demenagement week end entreprise
+  - continuité activité
+  - demenagement samedi lyon
 word_count: 1300
-publish_date: "2025-10-19"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-19'
+author: Équipe Moverz Lyon
 ---
 
 # Déménagement Week-End Entreprise Lyon : Continuité Activité 2025

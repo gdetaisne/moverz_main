@@ -1,18 +1,21 @@
 ---
-title: "Prix Déménagement International Lyon 2025 : Tarifs Complets"
-meta_title: "Prix Déménagement International Lyon | Suisse Italie USA"
-meta_description: "Prix déménagement international Lyon 2025 : Europe 2000-6000€, USA container 6000-10000€, facteurs coût. Guide tarifs destinations."
-slug: "prix-demenagement-international-lyon"
-category: "demenagement-international-lyon"
-type: "satellite"
-pilier_parent: "demenagement-international-lyon-guide-complet"
+title: 'Prix Déménagement International Lyon 2025 : Tarifs Complets'
+meta_title: 'Prix Déménagement Lyon : Guide Complet & Tarifs | 2025'
+meta_description: >-
+  Guide complet prix déménagement Lyon : Tarifs détaillés selon volume, distance
+  et accessibilité. Facteurs de coût expliqués. Estimation précise pour votre
+  projet.
+slug: prix-demenagement-international-lyon
+category: demenagement-international-lyon
+type: satellite
+pilier_parent: demenagement-international-lyon-guide-complet
 keywords:
-  - "prix déménagement international lyon"
-  - "coût déménagement lyon suisse"
-  - "tarif international lyon"
+  - prix déménagement international lyon
+  - coût déménagement lyon suisse
+  - tarif international lyon
 word_count: 1480
-publish_date: "2025-10-15"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-15'
+author: Équipe Moverz Lyon
 ---
 
 # Prix Déménagement International Lyon 2025 : Tarifs par Destination et Mode

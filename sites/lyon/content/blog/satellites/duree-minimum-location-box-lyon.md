@@ -1,18 +1,21 @@
 ---
-title: "Durée Minimum Location Box Lyon : Flexibilité et Résiliation"
-meta_title: "Durée Minimum Box Lyon | 1 Mois Résiliation Préavis"
-meta_description: "Durée minimum box Lyon : 1 mois (majorité), résiliation préavis 1 mois, engagements 6-12 mois -10-15%. Flexibilité court terme."
-slug: "duree-minimum-location-box-lyon"
-category: "garde-meuble-lyon"
-type: "satellite"
-pilier_parent: "garde-meuble-lyon-guide-complet"
+title: 'Durée Minimum Location Box Lyon : Flexibilité et Résiliation'
+meta_title: 'Garde-Meuble Lyon : Guide Complet & Comparatif | 2025'
+meta_description: >-
+  Guide garde-meuble Lyon : Tarifs, volumes, durées. Comparatif solutions
+  stockage. Conseils choix box adapté. Informations détaillées pour votre
+  projet.
+slug: duree-minimum-location-box-lyon
+category: garde-meuble-lyon
+type: satellite
+pilier_parent: garde-meuble-lyon-guide-complet
 keywords:
-  - "durée minimum box lyon"
-  - "résiliation box stockage"
-  - "location courte durée"
+  - durée minimum box lyon
+  - résiliation box stockage
+  - location courte durée
 word_count: 1100
-publish_date: "2025-10-16"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-16'
+author: Équipe Moverz Lyon
 ---
 
 # Durée Minimum Location Box Lyon : Flexibilité et Conditions 2025

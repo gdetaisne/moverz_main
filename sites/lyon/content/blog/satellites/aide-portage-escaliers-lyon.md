@@ -1,18 +1,21 @@
 ---
-title: "Aide Portage Escaliers Lyon : 3-7 Étages 40-120€ 2025"
-meta_title: "Aide Portage Escaliers Lyon | 2 Personnes 40-120€"
-meta_description: "Aide portage escaliers Lyon 3-7 étages : 40-120€ (2 manutentionnaires 2-4h). Vieux-Lyon, Croix-Rousse, sans ascenseur. Techniques portage."
-slug: "aide-portage-escaliers-lyon"
-category: "aide-demenagement-lyon"
-type: "satellite"
-pilier_parent: "aide-demenagement-lyon"
+title: 'Aide Portage Escaliers Lyon : 3-7 Étages 40-120€ 2025'
+meta_title: 'Aide au Déménagement Lyon : Guide Complet & Astuces | 2025'
+meta_description: >-
+  Guide complet déménagement Lyon : Checklist, organisation, emballage,
+  transport. Conseils pratiques étape par étape. Évitez les erreurs courantes.
+  Guide expert.
+slug: aide-portage-escaliers-lyon
+category: aide-demenagement-lyon
+type: satellite
+pilier_parent: aide-demenagement-lyon
 keywords:
-  - "aide portage escaliers lyon"
-  - "portage étages lyon"
-  - "déménagement sans ascenseur"
+  - aide portage escaliers lyon
+  - portage étages lyon
+  - déménagement sans ascenseur
 word_count: 1100
-publish_date: "2025-10-18"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-18'
+author: Équipe Moverz Lyon
 ---
 
 # Aide Portage Escaliers Lyon : 3-7 Étages Sans Ascenseur

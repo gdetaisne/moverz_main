@@ -1,18 +1,21 @@
 ---
-title: "Devis Estimation Déménagement Lyon : 5 Méthodes Précises 2025"
-meta_title: "Devis Estimation Déménagement Lyon | 5 Méthodes 2025"
-meta_description: "Devis estimation déménagement Lyon : 5 méthodes précises visites, simulateurs, téléphone. Éviter erreurs ±20-30%. Comparaisons 3-5 devis."
-slug: "devis-estimation-demenagement-lyon"
-category: "prix-demenagement-lyon"
-type: "satellite"
-pilier_parent: "prix-demenagement-lyon"
+title: 'Devis Estimation Déménagement Lyon : 5 Méthodes Précises 2025'
+meta_title: 'Prix Déménagement Lyon : Guide Complet & Tarifs | 2025'
+meta_description: >-
+  Guide complet prix déménagement Lyon : Tarifs détaillés selon volume, distance
+  et accessibilité. Facteurs de coût expliqués. Estimation précise pour votre
+  projet.
+slug: devis-estimation-demenagement-lyon
+category: prix-demenagement-lyon
+type: satellite
+pilier_parent: prix-demenagement-lyon
 keywords:
-  - "devis estimation déménagement"
-  - "estimation prix lyon"
-  - "calculer coût déménagement"
+  - devis estimation déménagement
+  - estimation prix lyon
+  - calculer coût déménagement
 word_count: 1420
-publish_date: "2025-10-20"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-20'
+author: Équipe Moverz Lyon
 ---
 
 # Devis Estimation Déménagement Lyon : 5 Méthodes Précises 2025

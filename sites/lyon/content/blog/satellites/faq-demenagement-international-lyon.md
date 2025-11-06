@@ -1,18 +1,21 @@
 ---
-title: "FAQ Déménagement International Lyon : 18 Questions Essentielles"
-meta_title: "FAQ Déménagement International Lyon | Guide Complet"
-meta_description: "FAQ déménagement international Lyon : prix Suisse/Italie/USA, formalités douane, documents, délais, FIDI, container. 18 réponses complètes."
-slug: "faq-demenagement-international-lyon"
-category: "demenagement-international-lyon"
-type: "satellite"
-pilier_parent: "demenagement-international-lyon-guide-complet"
+title: 'FAQ Déménagement International Lyon : 18 Questions Essentielles'
+meta_title: 'Déménagement International Lyon : Guide Complet | 2025'
+meta_description: >-
+  Guide déménagement international Lyon : Formalités, douanes, transport longue
+  distance. Conseils organisation déménagement Europe/Monde. Informations
+  détaillées.
+slug: faq-demenagement-international-lyon
+category: demenagement-international-lyon
+type: satellite
+pilier_parent: demenagement-international-lyon-guide-complet
 keywords:
-  - "faq déménagement international"
-  - "questions déménagement lyon suisse"
-  - "déménagement international lyon"
+  - faq déménagement international
+  - questions déménagement lyon suisse
+  - déménagement international lyon
 word_count: 1650
-publish_date: "2025-10-15"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-15'
+author: Équipe Moverz Lyon
 ---
 
 # FAQ Déménagement International Lyon : Toutes Vos Questions

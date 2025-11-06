@@ -1,18 +1,21 @@
 ---
-title: "Zones d'Affaires Lyon Déménagement : Part-Dieu Confluence 2025"
-meta_title: "Zones Affaires Lyon | Part-Dieu Confluence Gerland"
-meta_description: "Zones affaires Lyon déménagement : Part-Dieu 50 000 emplois tertiaire, Confluence moderne 10 000, Gerland biotech. Accès, loyers, contraintes."
-slug: "zones-affaires-lyon-demenagement"
-category: "demenagement-entreprise-lyon"
-type: "satellite"
-pilier_parent: "demenagement-entreprise-lyon"
+title: 'Zones d''Affaires Lyon Déménagement : Part-Dieu Confluence 2025'
+meta_title: 'Déménagement Entreprise Lyon : Guide Professionnel | 2025'
+meta_description: >-
+  Guide déménagement entreprise Lyon : Solutions B2B, organisation bureaux,
+  gestion équipes. Conseils professionnels pour déménager vos locaux
+  efficacement.
+slug: zones-affaires-lyon-demenagement
+category: demenagement-entreprise-lyon
+type: satellite
+pilier_parent: demenagement-entreprise-lyon
 keywords:
-  - "zones affaires lyon"
-  - "part dieu bureaux"
-  - "confluence lyon"
+  - zones affaires lyon
+  - part dieu bureaux
+  - confluence lyon
 word_count: 1200
-publish_date: "2025-10-19"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-19'
+author: Équipe Moverz Lyon
 ---
 
 # Zones d'Affaires Lyon Déménagement : Part-Dieu Confluence Gerland 2025

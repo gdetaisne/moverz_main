@@ -1,18 +1,21 @@
 ---
-title: "Prix Déménagement Piano à Queue Lyon 2025"
-meta_title: "Prix Piano à Queue Lyon | Demi-Queue 600-1200€"
-meta_description: "Prix déménagement piano queue Lyon : demi-queue 600-1200€, queue concert 1200-2500€. Démontage pieds, équipe 4-5 personnes, assurance renforcée."
-slug: "prix-demenagement-piano-queue-lyon"
-category: "demenagement-piano-lyon"
-type: "satellite"
-pilier_parent: "demenagement-piano-lyon-guide-complet"
+title: Prix Déménagement Piano à Queue Lyon 2025
+meta_title: 'Prix Déménagement Lyon : Guide Complet & Tarifs | 2025'
+meta_description: >-
+  Guide complet prix déménagement Lyon : Tarifs détaillés selon volume, distance
+  et accessibilité. Facteurs de coût expliqués. Estimation précise pour votre
+  projet.
+slug: prix-demenagement-piano-queue-lyon
+category: demenagement-piano-lyon
+type: satellite
+pilier_parent: demenagement-piano-lyon-guide-complet
 keywords:
-  - "prix piano queue lyon"
-  - "déménagement piano queue"
-  - "piano demi-queue prix"
+  - prix piano queue lyon
+  - déménagement piano queue
+  - piano demi-queue prix
 word_count: 1250
-publish_date: "2025-10-16"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-16'
+author: Équipe Moverz Lyon
 ---
 
 # Prix Déménagement Piano à Queue Lyon 2025 : Demi-Queue et Queue Concert

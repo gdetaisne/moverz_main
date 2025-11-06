@@ -1,18 +1,21 @@
 ---
-title: "Formule Économique vs Standard Lyon : Comparatif Complet"
-meta_title: "Formule Économique vs Standard Déménagement Lyon | -30-40%"
-meta_description: "Formule économique vs standard Lyon : -30-40% (700€ vs 1200€ T2). Différences, avantages/inconvénients, quand choisir chaque formule. Comparatif."
-slug: "formule-economique-vs-standard-lyon"
-category: "demenagement-lyon-pas-cher"
-type: "satellite"
-pilier_parent: "demenagement-lyon-pas-cher-guide-complet"
+title: 'Formule Économique vs Standard Lyon : Comparatif Complet'
+meta_title: 'Déménagement Pas Cher Lyon : Guide & Astuces | 2025'
+meta_description: >-
+  Guide déménagement pas cher Lyon : Astuces pour économiser, comparer les
+  tarifs, négocier. Conseils pratiques pour réduire les coûts sans sacrifier la
+  qualité.
+slug: formule-economique-vs-standard-lyon
+category: demenagement-lyon-pas-cher
+type: satellite
+pilier_parent: demenagement-lyon-pas-cher-guide-complet
 keywords:
-  - "formule économique lyon"
-  - "formule standard déménagement"
-  - "différence formule économique standard"
+  - formule économique lyon
+  - formule standard déménagement
+  - différence formule économique standard
 word_count: 1220
-publish_date: "2025-10-15"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-15'
+author: Équipe Moverz Lyon
 ---
 
 # Formule Économique vs Standard Lyon : Quel Choix pour Votre Déménagement ?

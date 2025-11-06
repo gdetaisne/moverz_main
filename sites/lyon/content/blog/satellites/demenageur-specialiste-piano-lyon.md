@@ -1,18 +1,21 @@
 ---
-title: "Déménageur Spécialiste Piano Lyon : Comment Choisir"
-meta_title: "Déménageur Piano Lyon | Spécialiste Critères 2025"
-meta_description: "Déménageur spécialiste piano Lyon : expérience 50+ pianos/an, équipement adapté, assurance valeur. S.I.E.T, Lugnier, critères sélection."
-slug: "demenageur-specialiste-piano-lyon"
-category: "demenagement-piano-lyon"
-type: "satellite"
-pilier_parent: "demenagement-piano-lyon-guide-complet"
+title: 'Déménageur Spécialiste Piano Lyon : Comment Choisir'
+meta_title: 'Déménagement Piano Lyon : Guide Spécialisé | 2025'
+meta_description: >-
+  Guide déménagement piano Lyon : Techniques spécialisées, précautions, tarifs.
+  Conseils transport instrument fragile. Informations détaillées pour votre
+  piano.
+slug: demenageur-specialiste-piano-lyon
+category: demenagement-piano-lyon
+type: satellite
+pilier_parent: demenagement-piano-lyon-guide-complet
 keywords:
-  - "déménageur piano lyon"
-  - "spécialiste piano lyon"
-  - "transport piano professionnel"
+  - déménageur piano lyon
+  - spécialiste piano lyon
+  - transport piano professionnel
 word_count: 1300
-publish_date: "2025-10-16"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-16'
+author: Équipe Moverz Lyon
 ---
 
 # Déménageur Spécialiste Piano Lyon : Critères de Sélection 2025

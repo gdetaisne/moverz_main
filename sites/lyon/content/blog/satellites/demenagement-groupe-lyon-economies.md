@@ -1,18 +1,21 @@
 ---
-title: "Déménagement Groupé Lyon : Économiser 20-30% sur Longue Distance"
-meta_title: "Déménagement Groupé Lyon | Économies 20-30% Lyon-Paris"
-meta_description: "Déménagement groupé Lyon-Paris, Marseille, Bordeaux : économie 20-30% (500€ vs 800€ studio). Principe, plateformes, délais, contraintes."
-slug: "demenagement-groupe-lyon-economies"
-category: "demenagement-lyon-pas-cher"
-type: "satellite"
-pilier_parent: "demenagement-lyon-pas-cher-guide-complet"
+title: 'Déménagement Groupé Lyon : Économiser 20-30% sur Longue Distance'
+meta_title: 'Déménagement Pas Cher Lyon : Guide & Astuces | 2025'
+meta_description: >-
+  Guide déménagement pas cher Lyon : Astuces pour économiser, comparer les
+  tarifs, négocier. Conseils pratiques pour réduire les coûts sans sacrifier la
+  qualité.
+slug: demenagement-groupe-lyon-economies
+category: demenagement-lyon-pas-cher
+type: satellite
+pilier_parent: demenagement-lyon-pas-cher-guide-complet
 keywords:
-  - "déménagement groupé lyon"
-  - "groupage déménagement"
-  - "lyon paris pas cher"
+  - déménagement groupé lyon
+  - groupage déménagement
+  - lyon paris pas cher
 word_count: 1180
-publish_date: "2025-10-15"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-15'
+author: Équipe Moverz Lyon
 ---
 
 # Déménagement Groupé Lyon : Économiser 20-30% sur Longue Distance

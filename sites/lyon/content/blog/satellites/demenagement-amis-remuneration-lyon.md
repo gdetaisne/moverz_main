@@ -1,18 +1,21 @@
 ---
-title: "Rémunération Amis Déménagement Lyon : Éthique 50-100€ 2025"
-meta_title: "Rémunérer Amis Lyon | 50-100€ + Repas Éthique"
-meta_description: "Rémunération amis déménagement Lyon : 50-100€ forfait + 20-40€ repas = reconnaissance efforts 4-6h vs 0€ exploitation. Éthique, communication."
-slug: "demenagement-amis-remuneration-lyon"
-category: "aide-demenagement-lyon"
-type: "satellite"
-pilier_parent: "aide-demenagement-lyon"
+title: 'Rémunération Amis Déménagement Lyon : Éthique 50-100€ 2025'
+meta_title: 'Aide au Déménagement Lyon : Guide Complet & Astuces | 2025'
+meta_description: >-
+  Guide complet déménagement Lyon : Checklist, organisation, emballage,
+  transport. Conseils pratiques étape par étape. Évitez les erreurs courantes.
+  Guide expert.
+slug: demenagement-amis-remuneration-lyon
+category: aide-demenagement-lyon
+type: satellite
+pilier_parent: aide-demenagement-lyon
 keywords:
-  - "rémunération amis"
-  - "payer amis déménagement"
-  - "éthique déménagement"
+  - rémunération amis
+  - payer amis déménagement
+  - éthique déménagement
 word_count: 750
-publish_date: "2025-10-18"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-18'
+author: Équipe Moverz Lyon
 ---
 
 # Rémunération Amis Déménagement Lyon : 50-100€ Éthique

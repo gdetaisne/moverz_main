@@ -1,18 +1,21 @@
 ---
-title: "Assurance Déménagement Piano : Valeur Déclarée et Couverture"
-meta_title: "Assurance Piano Déménagement | Valeur Déclarée 2-5%"
-meta_description: "Assurance piano déménagement : valeur déclarée 2-5% valeur (piano 10 000€ = 200-500€), couvre casse/vol. RC pro insuffisante. Guide complet."
-slug: "assurance-demenagement-piano"
-category: "demenagement-piano-lyon"
-type: "satellite"
-pilier_parent: "demenagement-piano-lyon-guide-complet"
+title: 'Assurance Déménagement Piano : Valeur Déclarée et Couverture'
+meta_title: 'Déménagement Piano Lyon : Guide Spécialisé | 2025'
+meta_description: >-
+  Guide déménagement piano Lyon : Techniques spécialisées, précautions, tarifs.
+  Conseils transport instrument fragile. Informations détaillées pour votre
+  piano.
+slug: assurance-demenagement-piano
+category: demenagement-piano-lyon
+type: satellite
+pilier_parent: demenagement-piano-lyon-guide-complet
 keywords:
-  - "assurance piano déménagement"
-  - "assurance valeur déclarée"
-  - "couverture piano"
+  - assurance piano déménagement
+  - assurance valeur déclarée
+  - couverture piano
 word_count: 1200
-publish_date: "2025-10-16"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-16'
+author: Équipe Moverz Lyon
 ---
 
 # Assurance Déménagement Piano : Valeur Déclarée et Protection

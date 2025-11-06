@@ -1,18 +1,21 @@
 ---
-title: "Location Camion Déménagement Lyon : Guide Complet 2025"
-meta_title: "Location Camion Déménagement Lyon | Guide Complet"
-meta_description: "Location camion déménagement Lyon : Sixt, Europcar, Hertz 80-200€/jour. Volumes 12-50m³. Permis B. Économies 200-400€ vs déménageurs."
-slug: "location-camion-demenagement-lyon"
-category: "location-camion-lyon"
-type: "satellite"
-pilier_parent: "location-camion-demenagement-lyon"
+title: 'Location Camion Déménagement Lyon : Guide Complet 2025'
+meta_title: 'Location Camion Déménagement Lyon : Guide & Comparatif | 2025'
+meta_description: >-
+  Location camion déménagement Lyon : Comparatif tarifs, volumes, permis requis.
+  Guide choix camion adapté. Conseils location vs déménageur. Comparaison
+  complète.
+slug: location-camion-demenagement-lyon
+category: location-camion-lyon
+type: satellite
+pilier_parent: location-camion-demenagement-lyon
 keywords:
-  - "location camion déménagement lyon"
-  - "utilitaire déménagement"
-  - "camion déménagement"
+  - location camion déménagement lyon
+  - utilitaire déménagement
+  - camion déménagement
 word_count: 1420
-publish_date: "2025-10-20"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-20'
+author: Équipe Moverz Lyon
 ---
 
 # Location Camion Déménagement Lyon : Guide Pratique 2025

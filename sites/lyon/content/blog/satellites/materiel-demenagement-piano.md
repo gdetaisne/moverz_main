@@ -1,18 +1,21 @@
 ---
-title: "Matériel Spécialisé Déménagement Piano : Équipement Obligatoire"
-meta_title: "Matériel Déménagement Piano | Chariots Sangles Housses"
-meta_description: "Matériel piano : chariots 400 kg, sangles 10-15 cm, housses épaisses 5-8 mm, patins, monte-meuble. Équipement professionnel obligatoire."
-slug: "materiel-demenagement-piano"
-category: "demenagement-piano-lyon"
-type: "satellite"
-pilier_parent: "demenagement-piano-lyon-guide-complet"
+title: 'Matériel Spécialisé Déménagement Piano : Équipement Obligatoire'
+meta_title: 'Déménagement Piano Lyon : Guide Spécialisé | 2025'
+meta_description: >-
+  Guide déménagement piano Lyon : Techniques spécialisées, précautions, tarifs.
+  Conseils transport instrument fragile. Informations détaillées pour votre
+  piano.
+slug: materiel-demenagement-piano
+category: demenagement-piano-lyon
+type: satellite
+pilier_parent: demenagement-piano-lyon-guide-complet
 keywords:
-  - "matériel déménagement piano"
-  - "chariot piano"
-  - "équipement piano"
+  - matériel déménagement piano
+  - chariot piano
+  - équipement piano
 word_count: 1150
-publish_date: "2025-10-16"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-16'
+author: Équipe Moverz Lyon
 ---
 
 # Matériel Spécialisé Déménagement Piano : Équipement Professionnel

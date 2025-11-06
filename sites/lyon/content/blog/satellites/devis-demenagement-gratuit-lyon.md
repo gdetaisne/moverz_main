@@ -1,18 +1,20 @@
 ---
-title: "Devis Déménagement Gratuit Lyon : 5 Comparateurs 2025"
-meta_title: "Devis Déménagement Lyon Gratuit | Comparer 3-5 Pros"
-meta_description: "Devis déménagement gratuit Lyon : comparer 3-5 pros (S.I.E.T, Lugnier, PME). Économies 15-30%. Critères sélection détaillés obligatoires."
-slug: "devis-demenagement-gratuit-lyon"
-category: "demenageur-lyon"
-type: "satellite"
-pilier_parent: "demenageur-lyon"
+title: 'Devis Déménagement Gratuit Lyon : 5 Comparateurs 2025'
+meta_title: 'Devis Déménagement Lyon : Guide & Comparatif | 2025'
+meta_description: >-
+  Guide devis déménagement Lyon : Comment obtenir et comparer des devis.
+  Facteurs de prix expliqués. Conseils pour choisir le meilleur déménageur.
+slug: devis-demenagement-gratuit-lyon
+category: demenageur-lyon
+type: satellite
+pilier_parent: demenageur-lyon
 keywords:
-  - "devis déménagement lyon"
-  - "devis gratuit"
-  - "comparer déménageurs"
+  - devis déménagement lyon
+  - devis gratuit
+  - comparer déménageurs
 word_count: 1350
-publish_date: "2025-10-20"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-20'
+author: Équipe Moverz Lyon
 ---
 
 # Devis Déménagement Gratuit Lyon : Comparer et Économiser 2025

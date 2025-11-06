@@ -1,18 +1,21 @@
 ---
-title: "FAQ Déménageur Lyon : 15 Questions Fréquentes Clients 2025"
-meta_title: "FAQ Déménageur Lyon | 15 Questions Réponses Complètes"
-meta_description: "FAQ déménageur Lyon : 15 questions fréquentes prix T2 420-720€, avis 4+/5, délais 7-15j, RC 500K-2M€, majorations +25-40%. Réponses complètes."
-slug: "faq-demenageur-lyon"
-category: "demenageur-lyon"
-type: "satellite"
-pilier_parent: "demenageur-lyon"
+title: 'FAQ Déménageur Lyon : 15 Questions Fréquentes Clients 2025'
+meta_title: 'Déménagement Lyon : Guide Complet & Conseils | 2025'
+meta_description: >-
+  Guide déménagement Lyon : Conseils pratiques, astuces et bonnes pratiques.
+  Informations détaillées pour bien préparer votre projet. Expert déménagement
+  Lyon.
+slug: faq-demenageur-lyon
+category: demenageur-lyon
+type: satellite
+pilier_parent: demenageur-lyon
 keywords:
-  - "faq déménageur lyon"
-  - "questions déménagement"
-  - "réponses clients"
+  - faq déménageur lyon
+  - questions déménagement
+  - réponses clients
 word_count: 1420
-publish_date: "2025-10-20"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-20'
+author: Équipe Moverz Lyon
 ---
 
 # FAQ Déménageur Lyon : 15 Questions Fréquentes 2025

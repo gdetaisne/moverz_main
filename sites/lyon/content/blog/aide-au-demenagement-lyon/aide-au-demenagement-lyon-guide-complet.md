@@ -1,17 +1,25 @@
 ---
-title: "Aide au Déménagement à Lyon : Toutes les Solutions Financières et Logistiques"
-description: "Déménager à Lyon ? Découvrez toutes les aides financières (CAF, Action Logement) et logistiques disponibles pour faciliter votre projet. Guide complet pour bénéficier de soutien !"
-slug: "aide-au-demenagement-lyon-guide-complet"
-category: "demenagement-lyon"
-keywords: 
-  - "aide déménagement lyon"
-  - "aide au déménagement lyon"
-  - "prime déménagement lyon"
-  - "aide financière déménagement lyon"
-  - "aide sociale déménagement lyon"
-author: "Équipe Moverz Lyon"
-publishedAt: "2025-01-15"
+title: 'Aide au Déménagement à Lyon : Toutes les Solutions Financières et Logistiques'
+description: >-
+  Guide complet déménagement Lyon : Checklist, organisation, emballage,
+  transport. Conseils pratiques étape par étape. Évitez les erreurs courantes.
+  Guide expert.
+slug: aide-au-demenagement-lyon-guide-complet
+category: demenagement-lyon
+keywords:
+  - aide déménagement lyon
+  - aide au déménagement lyon
+  - prime déménagement lyon
+  - aide financière déménagement lyon
+  - aide sociale déménagement lyon
+author: Équipe Moverz Lyon
+publishedAt: '2025-01-15'
 featured: true
+meta_title: 'Aide au Déménagement Lyon : Guide Complet & Astuces | 2025'
+meta_description: >-
+  Guide complet déménagement Lyon : Checklist, organisation, emballage,
+  transport. Conseils pratiques étape par étape. Évitez les erreurs courantes.
+  Guide expert.
 ---
 
 # Aide au Déménagement à Lyon : Toutes les Solutions Financières et Logistiques

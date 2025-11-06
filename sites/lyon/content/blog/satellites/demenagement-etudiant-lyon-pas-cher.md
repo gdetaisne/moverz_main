@@ -1,26 +1,29 @@
 ---
-title: "Déménagement Étudiant Lyon Pas Cher : Solutions 2025"
-meta_title: "Déménagement Étudiant Lyon Pas Cher | Guide Complet 2025"
-meta_description: "Déménagement étudiant Lyon 2025 : 400-500€ formule éco, 150-200€ DIY. Quartiers étudiants, aides CROUS, éviter septembre. Guide complet."
-slug: "demenagement-etudiant-lyon-pas-cher"
-category: "demenagement-lyon-pas-cher"
-type: "satellite"
-pilier_parent: "demenagement-lyon-pas-cher-guide-complet"
+title: 'Déménagement Étudiant Lyon Pas Cher : Solutions 2025'
+meta_title: 'Déménagement Pas Cher Lyon : Guide & Astuces | 2025'
+meta_description: >-
+  Guide déménagement pas cher Lyon : Astuces pour économiser, comparer les
+  tarifs, négocier. Conseils pratiques pour réduire les coûts sans sacrifier la
+  qualité.
+slug: demenagement-etudiant-lyon-pas-cher
+category: demenagement-lyon-pas-cher
+type: satellite
+pilier_parent: demenagement-lyon-pas-cher-guide-complet
 keywords:
-  - "déménagement étudiant lyon pas cher"
-  - "déménagement étudiant lyon"
-  - "prix déménagement étudiant"
-  - "aides déménagement étudiant"
+  - déménagement étudiant lyon pas cher
+  - déménagement étudiant lyon
+  - prix déménagement étudiant
+  - aides déménagement étudiant
 word_count: 1450
-publish_date: "2025-10-15"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-15'
+author: Équipe Moverz Lyon
 sources:
-  - url: "Fiche locale Lyon"
-    title: "Données étudiants Lyon 2025"
-    date: "2025-10-13"
-  - url: "CROUS Auvergne-Rhône-Alpes"
-    title: "Aides étudiantes"
-    date: "2025"
+  - url: Fiche locale Lyon
+    title: Données étudiants Lyon 2025
+    date: '2025-10-13'
+  - url: CROUS Auvergne-Rhône-Alpes
+    title: Aides étudiantes
+    date: '2025'
 ---
 
 # Déménagement Étudiant Lyon Pas Cher : Solutions et Aides 2025

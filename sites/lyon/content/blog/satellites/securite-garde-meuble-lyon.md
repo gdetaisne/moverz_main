@@ -1,18 +1,21 @@
 ---
-title: "Sécurité Garde-Meuble Lyon : Surveillance et Protection"
-meta_title: "Sécurité Garde-Meuble Lyon | Surveillance 24/7 Alarmes"
-meta_description: "Sécurité garde-meuble Lyon : surveillance 24/7, vidéo, alarmes, badge accès, cadenas perso, assurance 3-8€/mois. Shurgard normes, vérifications."
-slug: "securite-garde-meuble-lyon"
-category: "garde-meuble-lyon"
-type: "satellite"
-pilier_parent: "garde-meuble-lyon-guide-complet"
+title: 'Sécurité Garde-Meuble Lyon : Surveillance et Protection'
+meta_title: 'Garde-Meuble Lyon : Guide Complet & Comparatif | 2025'
+meta_description: >-
+  Guide garde-meuble Lyon : Tarifs, volumes, durées. Comparatif solutions
+  stockage. Conseils choix box adapté. Informations détaillées pour votre
+  projet.
+slug: securite-garde-meuble-lyon
+category: garde-meuble-lyon
+type: satellite
+pilier_parent: garde-meuble-lyon-guide-complet
 keywords:
-  - "sécurité garde meuble lyon"
-  - "surveillance stockage"
-  - "alarme box lyon"
+  - sécurité garde meuble lyon
+  - surveillance stockage
+  - alarme box lyon
 word_count: 1220
-publish_date: "2025-10-16"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-16'
+author: Équipe Moverz Lyon
 ---
 
 # Sécurité Garde-Meuble Lyon : Surveillance, Alarmes et Protection 2025

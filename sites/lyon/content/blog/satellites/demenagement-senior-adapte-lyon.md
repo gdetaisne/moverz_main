@@ -1,18 +1,21 @@
 ---
-title: "Déménagement Senior Adapté Lyon : Accompagnement 2025"
-meta_title: "Déménagement Senior Lyon | Service Adapté 65+ Ans"
-meta_description: "Déménagement senior Lyon 65+ : services adaptés 300-600€ (emballage, portage, installation), aides APA 150-500€. Résidences seniors, F2→studio."
-slug: "demenagement-senior-adapte-lyon"
-category: "demenagement-petit-volume-lyon"
-type: "satellite"
-pilier_parent: "demenagement-petit-volume-lyon"
+title: 'Déménagement Senior Adapté Lyon : Accompagnement 2025'
+meta_title: 'Petit Déménagement Lyon : Guide Studio/T1 | 2025'
+meta_description: >-
+  Guide petit déménagement Lyon : Tarifs studio, solutions adaptées petit
+  volume. Conseils organisation, emballage et transport. Comparaison options
+  disponibles.
+slug: demenagement-senior-adapte-lyon
+category: demenagement-petit-volume-lyon
+type: satellite
+pilier_parent: demenagement-petit-volume-lyon
 keywords:
-  - "déménagement senior lyon"
-  - "déménagement 65 ans lyon"
-  - "déménagement adapté lyon"
+  - déménagement senior lyon
+  - déménagement 65 ans lyon
+  - déménagement adapté lyon
 word_count: 1100
-publish_date: "2025-10-17"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-17'
+author: Équipe Moverz Lyon
 ---
 
 # Déménagement Senior Adapté Lyon : Services 65+ Ans 2025

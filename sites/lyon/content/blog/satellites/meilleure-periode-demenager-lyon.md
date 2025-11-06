@@ -1,18 +1,21 @@
 ---
-title: "Meilleure Période pour Déménager Pas Cher à Lyon"
-meta_title: "Meilleure Période Déménager Lyon | Économiser 10-15%"
-meta_description: "Meilleure période déménager Lyon : nov-mars (-10-15%), éviter septembre (+15%). Basse/haute saison, jours semaine vs weekend. Économisez 200€."
-slug: "meilleure-periode-demenager-lyon"
-category: "demenagement-lyon-pas-cher"
-type: "satellite"
-pilier_parent: "demenagement-lyon-pas-cher-guide-complet"
+title: Meilleure Période pour Déménager Pas Cher à Lyon
+meta_title: 'Déménagement Pas Cher Lyon : Guide & Astuces | 2025'
+meta_description: >-
+  Guide déménagement pas cher Lyon : Astuces pour économiser, comparer les
+  tarifs, négocier. Conseils pratiques pour réduire les coûts sans sacrifier la
+  qualité.
+slug: meilleure-periode-demenager-lyon
+category: demenagement-lyon-pas-cher
+type: satellite
+pilier_parent: demenagement-lyon-pas-cher-guide-complet
 keywords:
-  - "meilleure période déménager lyon"
-  - "quand déménager lyon"
-  - "période pas cher déménagement"
+  - meilleure période déménager lyon
+  - quand déménager lyon
+  - période pas cher déménagement
 word_count: 1280
-publish_date: "2025-10-15"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-15'
+author: Équipe Moverz Lyon
 ---
 
 # Meilleure Période pour Déménager Pas Cher à Lyon

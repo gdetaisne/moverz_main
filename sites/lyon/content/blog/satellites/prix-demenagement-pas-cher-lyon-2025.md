@@ -1,30 +1,33 @@
 ---
-title: "Prix Déménagement Pas Cher Lyon 2025 : Tarifs Réels"
-meta_title: "Prix Déménagement Pas Cher Lyon 2025 | Tarifs & Budget"
-meta_description: "Prix réels déménagement économique Lyon 2025 : 400-800€ studio, 700-1800€ T2/T3. Surcoûts quartiers, économies jusqu'à 40%. Devis gratuits."
-slug: "prix-demenagement-pas-cher-lyon-2025"
-category: "demenagement-lyon-pas-cher"
-type: "satellite"
-pilier_parent: "demenagement-lyon-pas-cher-guide-complet"
+title: 'Prix Déménagement Pas Cher Lyon 2025 : Tarifs Réels'
+meta_title: 'Prix Déménagement Lyon : Guide Complet & Tarifs | 2025'
+meta_description: >-
+  Guide complet prix déménagement Lyon : Tarifs détaillés selon volume, distance
+  et accessibilité. Facteurs de coût expliqués. Estimation précise pour votre
+  projet.
+slug: prix-demenagement-pas-cher-lyon-2025
+category: demenagement-lyon-pas-cher
+type: satellite
+pilier_parent: demenagement-lyon-pas-cher-guide-complet
 keywords:
-  - "prix déménagement pas cher lyon 2025"
-  - "tarif déménagement économique lyon"
-  - "coût déménagement lyon"
-  - "budget déménagement lyon"
-  - "devis déménagement lyon pas cher"
+  - prix déménagement pas cher lyon 2025
+  - tarif déménagement économique lyon
+  - coût déménagement lyon
+  - budget déménagement lyon
+  - devis déménagement lyon pas cher
 word_count: 1420
-publish_date: "2025-10-15"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-15'
+author: Équipe Moverz Lyon
 sources:
-  - url: "Fiche locale Lyon"
-    title: "Données marché déménagement Lyon 2025"
-    date: "2025-10-13"
-  - url: "INSEE Lyon"
-    title: "Statistiques logement Lyon"
-    date: "2025"
-  - url: "Marché déménagement Lyon"
-    title: "Tarifs déménageurs Lyon 2025"
-    date: "2025-10"
+  - url: Fiche locale Lyon
+    title: Données marché déménagement Lyon 2025
+    date: '2025-10-13'
+  - url: INSEE Lyon
+    title: Statistiques logement Lyon
+    date: '2025'
+  - url: Marché déménagement Lyon
+    title: Tarifs déménageurs Lyon 2025
+    date: 2025-10
 ---
 
 # Prix Déménagement Pas Cher Lyon 2025 : Tarifs et Budgets Réels

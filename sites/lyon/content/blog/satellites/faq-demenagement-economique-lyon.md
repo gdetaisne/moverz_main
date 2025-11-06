@@ -1,18 +1,21 @@
 ---
-title: "FAQ Déménagement Économique Lyon : 20 Questions Essentielles"
-meta_title: "FAQ Déménagement Pas Cher Lyon | 20 Réponses Complètes"
-meta_description: "FAQ déménagement économique Lyon 2025 : prix, aides, périodes, cartons, déménageurs fiables, formules, DIY. 20 questions réponses détaillées."
-slug: "faq-demenagement-economique-lyon"
-category: "demenagement-lyon-pas-cher"
-type: "satellite"
-pilier_parent: "demenagement-lyon-pas-cher-guide-complet"
+title: 'FAQ Déménagement Économique Lyon : 20 Questions Essentielles'
+meta_title: 'Déménagement Pas Cher Lyon : Guide & Astuces | 2025'
+meta_description: >-
+  Guide déménagement pas cher Lyon : Astuces pour économiser, comparer les
+  tarifs, négocier. Conseils pratiques pour réduire les coûts sans sacrifier la
+  qualité.
+slug: faq-demenagement-economique-lyon
+category: demenagement-lyon-pas-cher
+type: satellite
+pilier_parent: demenagement-lyon-pas-cher-guide-complet
 keywords:
-  - "faq déménagement lyon"
-  - "questions déménagement lyon"
-  - "déménagement lyon pas cher questions"
+  - faq déménagement lyon
+  - questions déménagement lyon
+  - déménagement lyon pas cher questions
 word_count: 1600
-publish_date: "2025-10-15"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-15'
+author: Équipe Moverz Lyon
 ---
 
 # FAQ Déménagement Économique Lyon : Toutes Vos Questions

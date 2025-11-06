@@ -1,18 +1,21 @@
 ---
-title: "Déménager un Piano dans le Vieux-Lyon : Contraintes et Surcoûts"
-meta_title: "Piano Vieux-Lyon | Escaliers Médiévaux Surcoût +40-60%"
-meta_description: "Piano Vieux-Lyon contraintes : escaliers 80 cm raides, portage extrême 4-5 personnes, surcoût +40-60% (800-1000€ vs 400-600€). Guide."
-slug: "piano-vieux-lyon-contraintes"
-category: "demenagement-piano-lyon"
-type: "satellite"
-pilier_parent: "demenagement-piano-lyon-guide-complet"
+title: 'Déménager un Piano dans le Vieux-Lyon : Contraintes et Surcoûts'
+meta_title: 'Déménagement Piano Lyon : Guide Spécialisé | 2025'
+meta_description: >-
+  Guide déménagement piano Lyon : Techniques spécialisées, précautions, tarifs.
+  Conseils transport instrument fragile. Informations détaillées pour votre
+  piano.
+slug: piano-vieux-lyon-contraintes
+category: demenagement-piano-lyon
+type: satellite
+pilier_parent: demenagement-piano-lyon-guide-complet
 keywords:
-  - "piano vieux-lyon"
-  - "déménagement piano lyon 5"
-  - "escaliers médiévaux piano"
+  - piano vieux-lyon
+  - déménagement piano lyon 5
+  - escaliers médiévaux piano
 word_count: 1100
-publish_date: "2025-10-16"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-16'
+author: Équipe Moverz Lyon
 ---
 
 # Déménager un Piano dans le Vieux-Lyon : Contraintes Extrêmes

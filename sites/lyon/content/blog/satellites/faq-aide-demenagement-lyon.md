@@ -1,18 +1,21 @@
 ---
-title: "FAQ Aide Déménagement Lyon : 12 Questions Essentielles 2025"
-meta_title: "FAQ Aide Lyon | Financière Manutentionnaire Portage"
-meta_description: "FAQ aide déménagement Lyon : CAF 1000€, FSL 500€, manutentionnaire 20-30€/h, portage escaliers +30-150€, avec vs sans aide, amis rémunération."
-slug: "faq-aide-demenagement-lyon"
-category: "aide-demenagement-lyon"
-type: "satellite"
-pilier_parent: "aide-demenagement-lyon"
+title: 'FAQ Aide Déménagement Lyon : 12 Questions Essentielles 2025'
+meta_title: 'Aide au Déménagement Lyon : Guide Complet & Astuces | 2025'
+meta_description: >-
+  Guide complet déménagement Lyon : Checklist, organisation, emballage,
+  transport. Conseils pratiques étape par étape. Évitez les erreurs courantes.
+  Guide expert.
+slug: faq-aide-demenagement-lyon
+category: aide-demenagement-lyon
+type: satellite
+pilier_parent: aide-demenagement-lyon
 keywords:
-  - "faq aide lyon"
-  - "questions demenagement"
-  - "aide financiere lyon"
+  - faq aide lyon
+  - questions demenagement
+  - aide financiere lyon
 word_count: 1100
-publish_date: "2025-10-18"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-18'
+author: Équipe Moverz Lyon
 ---
 
 # FAQ Aide Déménagement Lyon : Toutes Vos Questions 2025

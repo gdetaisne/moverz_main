@@ -1,18 +1,21 @@
 ---
-title: "Déménagement Lyon-Italie : Guide Complet 2025"
-meta_title: "Déménagement Lyon-Italie | Prix Turin Milan Guide"
-meta_description: "Déménagement Lyon-Italie 2025 : prix 2000-3500€ T2 Turin, formalités UE simplifiées, transport routier 3-5j. Guide Lyon-Turin/Milan/Rome."
-slug: "demenagement-lyon-italie"
-category: "demenagement-international-lyon"
-type: "satellite"
-pilier_parent: "demenagement-international-lyon-guide-complet"
+title: 'Déménagement Lyon-Italie : Guide Complet 2025'
+meta_title: 'Déménagement International Lyon : Guide Complet | 2025'
+meta_description: >-
+  Guide déménagement international Lyon : Formalités, douanes, transport longue
+  distance. Conseils organisation déménagement Europe/Monde. Informations
+  détaillées.
+slug: demenagement-lyon-italie
+category: demenagement-international-lyon
+type: satellite
+pilier_parent: demenagement-international-lyon-guide-complet
 keywords:
-  - "déménagement lyon italie"
-  - "lyon turin déménagement"
-  - "prix déménagement lyon milan"
+  - déménagement lyon italie
+  - lyon turin déménagement
+  - prix déménagement lyon milan
 word_count: 1380
-publish_date: "2025-10-15"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-15'
+author: Équipe Moverz Lyon
 ---
 
 # Déménagement Lyon-Italie : Guide Complet Turin, Milan, Rome 2025

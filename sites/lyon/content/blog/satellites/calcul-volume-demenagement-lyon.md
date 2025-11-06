@@ -1,18 +1,21 @@
 ---
-title: "Calcul Volume Déménagement Lyon : Méthode Précise m³ 2025"
-meta_title: "Calcul Volume Déménagement Lyon | Méthode Précise m³"
-meta_description: "Calcul volume déménagement Lyon : méthode pièce par pièce précise. Studio 12-15m³, T2 35-40m³, T3 55-65m³. Éviter surcoûts sous-estimations."
-slug: "calcul-volume-demenagement-lyon"
-category: "prix-demenagement-lyon"
-type: "satellite"
-pilier_parent: "prix-demenagement-lyon"
+title: 'Calcul Volume Déménagement Lyon : Méthode Précise m³ 2025'
+meta_title: 'Prix Déménagement Lyon : Guide Complet & Tarifs | 2025'
+meta_description: >-
+  Guide complet prix déménagement Lyon : Tarifs détaillés selon volume, distance
+  et accessibilité. Facteurs de coût expliqués. Estimation précise pour votre
+  projet.
+slug: calcul-volume-demenagement-lyon
+category: prix-demenagement-lyon
+type: satellite
+pilier_parent: prix-demenagement-lyon
 keywords:
-  - "calcul volume déménagement"
-  - "estimer volume m3"
-  - "volume mobilier lyon"
+  - calcul volume déménagement
+  - estimer volume m3
+  - volume mobilier lyon
 word_count: 1340
-publish_date: "2025-10-20"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-20'
+author: Équipe Moverz Lyon
 ---
 
 # Calcul Volume Déménagement Lyon : Méthode Précise 2025

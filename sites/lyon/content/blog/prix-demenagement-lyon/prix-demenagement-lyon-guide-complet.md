@@ -1,17 +1,27 @@
 ---
-title: "Prix Déménagement Lyon : Guide Complet pour Comprendre et Maîtriser Votre Budget"
-description: "Quel est le prix d'un déménagement à Lyon ? Découvrez les facteurs de coût, des estimations claires et comment obtenir un devis personnalisé pour maîtriser votre budget."
-slug: "prix-demenagement-lyon-guide-complet"
-category: "demenagement-lyon"
-keywords: 
-  - "prix déménagement lyon"
-  - "coût déménagement lyon"
-  - "tarif déménagement lyon"
-  - "estimation prix déménagement lyon"
-  - "combien coûte déménagement lyon"
-author: "Équipe Moverz Lyon"
-publishedAt: "2025-01-15"
+title: >-
+  Prix Déménagement Lyon : Guide Complet pour Comprendre et Maîtriser Votre
+  Budget
+description: >-
+  Guide complet prix déménagement Lyon : Tarifs détaillés selon volume, distance
+  et accessibilité. Facteurs de coût expliqués. Estimation précise pour votre
+  projet.
+slug: prix-demenagement-lyon-guide-complet
+category: demenagement-lyon
+keywords:
+  - prix déménagement lyon
+  - coût déménagement lyon
+  - tarif déménagement lyon
+  - estimation prix déménagement lyon
+  - combien coûte déménagement lyon
+author: Équipe Moverz Lyon
+publishedAt: '2025-01-15'
 featured: true
+meta_title: 'Prix Déménagement Lyon : Guide Complet & Tarifs | 2025'
+meta_description: >-
+  Guide complet prix déménagement Lyon : Tarifs détaillés selon volume, distance
+  et accessibilité. Facteurs de coût expliqués. Estimation précise pour votre
+  projet.
 ---
 
 # Prix Déménagement Lyon : Guide Complet pour Comprendre et Maîtriser Votre Budget

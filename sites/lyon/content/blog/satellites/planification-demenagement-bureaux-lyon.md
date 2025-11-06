@@ -1,18 +1,21 @@
 ---
-title: "Planification Déménagement Bureaux Lyon : Rétroplanning 2025"
-meta_title: "Planification Bureaux Lyon | Rétroplanning 3-6 Mois"
-meta_description: "Planification déménagement bureaux Lyon : rétroplanning 3-6 mois, audit préalable, coordination équipes, continuité activité. PME ETI guide complet."
-slug: "planification-demenagement-bureaux-lyon"
-category: "demenagement-entreprise-lyon"
-type: "satellite"
-pilier_parent: "demenagement-entreprise-lyon"
+title: 'Planification Déménagement Bureaux Lyon : Rétroplanning 2025'
+meta_title: 'Déménagement Entreprise Lyon : Guide Professionnel | 2025'
+meta_description: >-
+  Guide déménagement entreprise Lyon : Solutions B2B, organisation bureaux,
+  gestion équipes. Conseils professionnels pour déménager vos locaux
+  efficacement.
+slug: planification-demenagement-bureaux-lyon
+category: demenagement-entreprise-lyon
+type: satellite
+pilier_parent: demenagement-entreprise-lyon
 keywords:
-  - "planification bureaux"
-  - "retroplanning demenagement"
-  - "organisation entreprise"
+  - planification bureaux
+  - retroplanning demenagement
+  - organisation entreprise
 word_count: 1350
-publish_date: "2025-10-19"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-19'
+author: Équipe Moverz Lyon
 ---
 
 # Planification Déménagement Bureaux Lyon : Rétroplanning Complet 2025

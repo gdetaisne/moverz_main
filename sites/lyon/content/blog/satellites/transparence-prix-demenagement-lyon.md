@@ -1,18 +1,21 @@
 ---
-title: "Transparence Prix Déménagement Lyon : Éviter Surcoûts Cachés 2025"
-meta_title: "Transparence Prix Déménagement Lyon | Éviter Surcoûts"
-meta_description: "Transparence prix déménagement Lyon : éviter surcoûts cachés 250-800€. Devis détaillés ligne/ligne. Red flags forfaits opaques. Protections clients."
-slug: "transparence-prix-demenagement-lyon"
-category: "prix-demenagement-lyon"
-type: "satellite"
-pilier_parent: "prix-demenagement-lyon"
+title: 'Transparence Prix Déménagement Lyon : Éviter Surcoûts Cachés 2025'
+meta_title: 'Prix Déménagement Lyon : Guide Complet & Tarifs | 2025'
+meta_description: >-
+  Guide complet prix déménagement Lyon : Tarifs détaillés selon volume, distance
+  et accessibilité. Facteurs de coût expliqués. Estimation précise pour votre
+  projet.
+slug: transparence-prix-demenagement-lyon
+category: prix-demenagement-lyon
+type: satellite
+pilier_parent: prix-demenagement-lyon
 keywords:
-  - "transparence prix déménagement"
-  - "surcoûts cachés"
-  - "devis détaillé"
+  - transparence prix déménagement
+  - surcoûts cachés
+  - devis détaillé
 word_count: 1380
-publish_date: "2025-10-20"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-20'
+author: Équipe Moverz Lyon
 ---
 
 # Transparence Prix Déménagement Lyon : Protection Surcoûts 2025

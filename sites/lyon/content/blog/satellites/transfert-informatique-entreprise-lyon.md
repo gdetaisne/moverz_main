@@ -1,18 +1,21 @@
 ---
-title: "Transfert Informatique Entreprise Lyon : Serveurs Data 2025"
-meta_title: "Transfert IT Lyon | Serveurs Data Center Migration"
-meta_description: "Transfert informatique entreprise Lyon : serveurs, data center, migration week-end, techniciens certifiés. PME ETI 500-5000€. Continuité."
-slug: "transfert-informatique-entreprise-lyon"
-category: "demenagement-entreprise-lyon"
-type: "satellite"
-pilier_parent: "demenagement-entreprise-lyon"
+title: 'Transfert Informatique Entreprise Lyon : Serveurs Data 2025'
+meta_title: 'Déménagement Entreprise Lyon : Guide Professionnel | 2025'
+meta_description: >-
+  Guide déménagement entreprise Lyon : Solutions B2B, organisation bureaux,
+  gestion équipes. Conseils professionnels pour déménager vos locaux
+  efficacement.
+slug: transfert-informatique-entreprise-lyon
+category: demenagement-entreprise-lyon
+type: satellite
+pilier_parent: demenagement-entreprise-lyon
 keywords:
-  - "transfert informatique lyon"
-  - "migration serveurs"
-  - "data center lyon"
+  - transfert informatique lyon
+  - migration serveurs
+  - data center lyon
 word_count: 1400
-publish_date: "2025-10-19"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-19'
+author: Équipe Moverz Lyon
 ---
 
 # Transfert Informatique Entreprise Lyon : Migration Serveurs et Data 2025

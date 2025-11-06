@@ -1,18 +1,21 @@
 ---
-title: "Formalités Douanières Déménagement International depuis Lyon"
-meta_title: "Formalités Douane International Lyon | UE, Suisse, USA"
-meta_description: "Formalités douane déménagement Lyon : UE simplifiées, Suisse strictes (permis B), USA/Canada (inventaire bilingue). Documents, franchise, erreurs."
-slug: "formalites-douanieres-international-lyon"
-category: "demenagement-international-lyon"
-type: "satellite"
-pilier_parent: "demenagement-international-lyon-guide-complet"
+title: Formalités Douanières Déménagement International depuis Lyon
+meta_title: 'Déménagement International Lyon : Guide Complet | 2025'
+meta_description: >-
+  Guide déménagement international Lyon : Formalités, douanes, transport longue
+  distance. Conseils organisation déménagement Europe/Monde. Informations
+  détaillées.
+slug: formalites-douanieres-international-lyon
+category: demenagement-international-lyon
+type: satellite
+pilier_parent: demenagement-international-lyon-guide-complet
 keywords:
-  - "formalités douane déménagement"
-  - "douane internationale lyon"
-  - "inventaire déménagement international"
+  - formalités douane déménagement
+  - douane internationale lyon
+  - inventaire déménagement international
 word_count: 1520
-publish_date: "2025-10-15"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-15'
+author: Équipe Moverz Lyon
 ---
 
 # Formalités Douanières Déménagement International depuis Lyon : Guide Complet

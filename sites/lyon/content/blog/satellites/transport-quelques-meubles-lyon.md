@@ -1,18 +1,21 @@
 ---
-title: "Transport Quelques Meubles Lyon : Solutions et Tarifs 2025"
-meta_title: "Transport Meubles Lyon | 80-250€ Camionnette Chauffeur"
-meta_description: "Transport quelques meubles Lyon : 80-180€ camionnette 1-5 meubles, 150-250€ pro. Canapé, lit, armoire, table. Marketplace, pros, DIY."
-slug: "transport-quelques-meubles-lyon"
-category: "demenagement-petit-volume-lyon"
-type: "satellite"
-pilier_parent: "demenagement-petit-volume-lyon"
+title: 'Transport Quelques Meubles Lyon : Solutions et Tarifs 2025'
+meta_title: 'Petit Déménagement Lyon : Guide Studio/T1 | 2025'
+meta_description: >-
+  Guide petit déménagement Lyon : Tarifs studio, solutions adaptées petit
+  volume. Conseils organisation, emballage et transport. Comparaison options
+  disponibles.
+slug: transport-quelques-meubles-lyon
+category: demenagement-petit-volume-lyon
+type: satellite
+pilier_parent: demenagement-petit-volume-lyon
 keywords:
-  - "transport meubles lyon"
-  - "livraison meubles lyon"
-  - "camionnette lyon"
+  - transport meubles lyon
+  - livraison meubles lyon
+  - camionnette lyon
 word_count: 1200
-publish_date: "2025-10-17"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-17'
+author: Équipe Moverz Lyon
 ---
 
 # Transport Quelques Meubles Lyon : Solutions Économiques 2025

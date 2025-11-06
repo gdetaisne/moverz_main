@@ -1,18 +1,21 @@
 ---
-title: "Manutentionnaire Déménagement Lyon : Embaucher 20-30€/h 2025"
-meta_title: "Manutentionnaire Lyon | 20-30€/h Yper Frizbiz Portage"
-meta_description: "Manutentionnaire déménagement Lyon : 20-30€/h (80-240€ journée), Yper/Frizbiz 80+ pros, portage escaliers, chargement. Embaucher freelance."
-slug: "manutentionnaire-demenagement-lyon"
-category: "aide-demenagement-lyon"
-type: "satellite"
-pilier_parent: "aide-demenagement-lyon"
+title: 'Manutentionnaire Déménagement Lyon : Embaucher 20-30€/h 2025'
+meta_title: 'Aide au Déménagement Lyon : Guide Complet & Astuces | 2025'
+meta_description: >-
+  Guide complet déménagement Lyon : Checklist, organisation, emballage,
+  transport. Conseils pratiques étape par étape. Évitez les erreurs courantes.
+  Guide expert.
+slug: manutentionnaire-demenagement-lyon
+category: aide-demenagement-lyon
+type: satellite
+pilier_parent: aide-demenagement-lyon
 keywords:
-  - "manutentionnaire déménagement lyon"
-  - "aide portage lyon"
-  - "embaucher manutentionnaire"
+  - manutentionnaire déménagement lyon
+  - aide portage lyon
+  - embaucher manutentionnaire
 word_count: 1200
-publish_date: "2025-10-18"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-18'
+author: Équipe Moverz Lyon
 ---
 
 # Manutentionnaire Déménagement Lyon : Embaucher 20-30€/h

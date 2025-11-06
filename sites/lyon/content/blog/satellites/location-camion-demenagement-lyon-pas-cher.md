@@ -1,23 +1,26 @@
 ---
-title: "Location Camion Déménagement Lyon Pas Cher : Tarifs 2025"
-meta_title: "Location Camion Déménagement Lyon | Prix 70-110€/jour"
-meta_description: "Location camion déménagement Lyon 2025 : 70-110€/jour (20m³), comparatif Europcar/Sixt/E.Leclerc. Frais cachés, DIY vs pro. Devis gratuits."
-slug: "location-camion-demenagement-lyon-pas-cher"
-category: "demenagement-lyon-pas-cher"
-type: "satellite"
-pilier_parent: "demenagement-lyon-pas-cher-guide-complet"
+title: 'Location Camion Déménagement Lyon Pas Cher : Tarifs 2025'
+meta_title: 'Déménagement Pas Cher Lyon : Guide & Astuces | 2025'
+meta_description: >-
+  Guide déménagement pas cher Lyon : Astuces pour économiser, comparer les
+  tarifs, négocier. Conseils pratiques pour réduire les coûts sans sacrifier la
+  qualité.
+slug: location-camion-demenagement-lyon-pas-cher
+category: demenagement-lyon-pas-cher
+type: satellite
+pilier_parent: demenagement-lyon-pas-cher-guide-complet
 keywords:
-  - "location camion déménagement lyon pas cher"
-  - "camion déménagement lyon prix"
-  - "louer utilitaire lyon"
-  - "location 20m3 lyon"
+  - location camion déménagement lyon pas cher
+  - camion déménagement lyon prix
+  - louer utilitaire lyon
+  - location 20m3 lyon
 word_count: 1380
-publish_date: "2025-10-15"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-15'
+author: Équipe Moverz Lyon
 sources:
-  - url: "Fiche locale Lyon"
-    title: "Tarifs location véhicules Lyon 2025"
-    date: "2025-10-13"
+  - url: Fiche locale Lyon
+    title: Tarifs location véhicules Lyon 2025
+    date: '2025-10-13'
 ---
 
 # Location Camion Déménagement Lyon Pas Cher : Tarifs 2025 et Comparatif

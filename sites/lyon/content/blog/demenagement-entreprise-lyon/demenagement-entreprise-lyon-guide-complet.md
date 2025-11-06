@@ -1,17 +1,27 @@
 ---
-title: "Déménagement d'Entreprise à Lyon : Le Guide Complet pour un Transfert Réussi et Sans Interruption"
-description: "Déménagement d'entreprise à Lyon ? Découvrez notre expertise pour un transfert professionnel réussi, sans interruption d'activité. Solutions sur mesure et devis gratuit."
-slug: "demenagement-entreprise-lyon-guide-complet"
-category: "demenagement-lyon"
-keywords: 
-  - "déménagement entreprise lyon"
-  - "déménagement professionnel lyon"
-  - "transfert entreprise lyon"
-  - "société déménagement entreprise lyon"
-  - "bureaux lyon déménagement"
-author: "Équipe Moverz Lyon"
-publishedAt: "2025-01-15"
+title: >-
+  Déménagement d'Entreprise à Lyon : Le Guide Complet pour un Transfert Réussi
+  et Sans Interruption
+description: >-
+  Guide déménagement entreprise Lyon : Solutions B2B, organisation bureaux,
+  gestion équipes. Conseils professionnels pour déménager vos locaux
+  efficacement.
+slug: demenagement-entreprise-lyon-guide-complet
+category: demenagement-lyon
+keywords:
+  - déménagement entreprise lyon
+  - déménagement professionnel lyon
+  - transfert entreprise lyon
+  - société déménagement entreprise lyon
+  - bureaux lyon déménagement
+author: Équipe Moverz Lyon
+publishedAt: '2025-01-15'
 featured: true
+meta_title: 'Déménagement Entreprise Lyon : Guide Professionnel | 2025'
+meta_description: >-
+  Guide déménagement entreprise Lyon : Solutions B2B, organisation bureaux,
+  gestion équipes. Conseils professionnels pour déménager vos locaux
+  efficacement.
 ---
 
 # Déménagement d'Entreprise à Lyon : Le Guide Complet pour un Transfert Réussi et Sans Interruption

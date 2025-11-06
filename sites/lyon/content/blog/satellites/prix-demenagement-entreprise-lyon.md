@@ -1,18 +1,21 @@
 ---
-title: "Prix Déménagement Entreprise Lyon : Budget PME ETI 2025"
-meta_title: "Prix Entreprise Lyon | 1500-12000€ PME ETI"
-meta_description: "Prix déménagement entreprise Lyon : PME 10 postes 1500-3000€, ETI 50 postes 5000-12000€. Facteurs, devis, planification."
-slug: "prix-demenagement-entreprise-lyon"
-category: "demenagement-entreprise-lyon"
-type: "satellite"
-pilier_parent: "demenagement-entreprise-lyon"
+title: 'Prix Déménagement Entreprise Lyon : Budget PME ETI 2025'
+meta_title: 'Prix Déménagement Lyon : Guide Complet & Tarifs | 2025'
+meta_description: >-
+  Guide complet prix déménagement Lyon : Tarifs détaillés selon volume, distance
+  et accessibilité. Facteurs de coût expliqués. Estimation précise pour votre
+  projet.
+slug: prix-demenagement-entreprise-lyon
+category: demenagement-entreprise-lyon
+type: satellite
+pilier_parent: demenagement-entreprise-lyon
 keywords:
-  - "prix entreprise lyon"
-  - "devis professionnel"
-  - "budget demenagement"
+  - prix entreprise lyon
+  - devis professionnel
+  - budget demenagement
 word_count: 850
-publish_date: "2025-10-19"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-19'
+author: Équipe Moverz Lyon
 ---
 
 # Prix Déménagement Entreprise Lyon : Budgets 2025

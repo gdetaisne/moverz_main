@@ -1,18 +1,21 @@
 ---
-title: "Aide Chargement Camion Lyon : Optimisation Volume 2025"
-meta_title: "Aide Chargement Lyon | Optimisation +30% Volume"
-meta_description: "Aide chargement camion Lyon : techniques pros optimisation +30-40% volume, calage, sangles. Manutentionnaire chargement 40-80€."
-slug: "aide-chargement-camion-lyon"
-category: "aide-demenagement-lyon"
-type: "satellite"
-pilier_parent: "aide-demenagement-lyon"
+title: 'Aide Chargement Camion Lyon : Optimisation Volume 2025'
+meta_title: 'Aide au Déménagement Lyon : Guide Complet & Astuces | 2025'
+meta_description: >-
+  Guide complet déménagement Lyon : Checklist, organisation, emballage,
+  transport. Conseils pratiques étape par étape. Évitez les erreurs courantes.
+  Guide expert.
+slug: aide-chargement-camion-lyon
+category: aide-demenagement-lyon
+type: satellite
+pilier_parent: aide-demenagement-lyon
 keywords:
-  - "aide chargement camion"
-  - "optimisation volume"
-  - "chargement déménagement"
+  - aide chargement camion
+  - optimisation volume
+  - chargement déménagement
 word_count: 800
-publish_date: "2025-10-18"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-18'
+author: Équipe Moverz Lyon
 ---
 
 # Aide Chargement Camion Lyon : Optimiser Volume +30%

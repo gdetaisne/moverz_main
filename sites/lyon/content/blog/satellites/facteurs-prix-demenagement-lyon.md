@@ -1,18 +1,21 @@
 ---
-title: "Facteurs Prix Déménagement Lyon : 8 Variables Coûts 2025"
-meta_title: "Facteurs Prix Déménagement Lyon | 8 Variables Coûts"
-meta_description: "Facteurs prix déménagement Lyon : volume (+50-80%), étages (+30-150€), distance (+20-400€), timing (+5-40%), services, acteurs, saison. Analyse détaillée."
-slug: "facteurs-prix-demenagement-lyon"
-category: "prix-demenagement-lyon"
-type: "satellite"
-pilier_parent: "prix-demenagement-lyon"
+title: 'Facteurs Prix Déménagement Lyon : 8 Variables Coûts 2025'
+meta_title: 'Prix Déménagement Lyon : Guide Complet & Tarifs | 2025'
+meta_description: >-
+  Guide complet prix déménagement Lyon : Tarifs détaillés selon volume, distance
+  et accessibilité. Facteurs de coût expliqués. Estimation précise pour votre
+  projet.
+slug: facteurs-prix-demenagement-lyon
+category: prix-demenagement-lyon
+type: satellite
+pilier_parent: prix-demenagement-lyon
 keywords:
-  - "facteurs prix déménagement"
-  - "variables coût déménagement"
-  - "pourquoi prix différents"
+  - facteurs prix déménagement
+  - variables coût déménagement
+  - pourquoi prix différents
 word_count: 1380
-publish_date: "2025-10-20"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-20'
+author: Équipe Moverz Lyon
 ---
 
 # Facteurs Prix Déménagement Lyon : 8 Variables Détaillées 2025

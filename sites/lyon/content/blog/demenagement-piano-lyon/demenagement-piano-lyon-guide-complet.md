@@ -1,17 +1,25 @@
 ---
-title: "Déménagement de Piano à Lyon : L'Expertise pour un Transport Sûr et Serein"
-description: "Déménagement de piano à Lyon ? Nos experts garantissent un transport sûr pour votre piano droit ou à queue. Devis gratuit et solutions spécialisées pour protéger votre instrument."
-slug: "demenagement-piano-lyon-guide-complet"
-category: "demenagement-lyon"
-keywords: 
-  - "déménagement piano lyon"
-  - "déménageur piano lyon"
-  - "transport piano lyon"
-  - "déménager piano lyon"
-  - "prix déménagement piano lyon"
-author: "Équipe Moverz Lyon"
-publishedAt: "2025-01-15"
+title: 'Déménagement de Piano à Lyon : L''Expertise pour un Transport Sûr et Serein'
+description: >-
+  Guide déménagement piano Lyon : Techniques spécialisées, précautions, tarifs.
+  Conseils transport instrument fragile. Informations détaillées pour votre
+  piano.
+slug: demenagement-piano-lyon-guide-complet
+category: demenagement-lyon
+keywords:
+  - déménagement piano lyon
+  - déménageur piano lyon
+  - transport piano lyon
+  - déménager piano lyon
+  - prix déménagement piano lyon
+author: Équipe Moverz Lyon
+publishedAt: '2025-01-15'
 featured: true
+meta_title: 'Déménagement Piano Lyon : Guide Spécialisé | 2025'
+meta_description: >-
+  Guide déménagement piano Lyon : Techniques spécialisées, précautions, tarifs.
+  Conseils transport instrument fragile. Informations détaillées pour votre
+  piano.
 ---
 
 # Déménagement de Piano à Lyon : L'Expertise pour un Transport Sûr et Serein

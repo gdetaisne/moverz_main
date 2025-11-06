@@ -1,18 +1,21 @@
 ---
-title: "Archives Entreprise Déménagement Lyon : Conservation 10 Ans"
-meta_title: "Archives Entreprise Lyon | Conservation 10 Ans Légale"
-meta_description: "Archives entreprise Lyon : conservation 10 ans légale (comptabilité, RH, contrats). Déménagement 50-500 cartons, numérotation, garde-meuble pro."
-slug: "archives-entreprise-demenagement-lyon"
-category: "demenagement-entreprise-lyon"
-type: "satellite"
-pilier_parent: "demenagement-entreprise-lyon"
+title: 'Archives Entreprise Déménagement Lyon : Conservation 10 Ans'
+meta_title: 'Déménagement Entreprise Lyon : Guide Professionnel | 2025'
+meta_description: >-
+  Guide déménagement entreprise Lyon : Solutions B2B, organisation bureaux,
+  gestion équipes. Conseils professionnels pour déménager vos locaux
+  efficacement.
+slug: archives-entreprise-demenagement-lyon
+category: demenagement-entreprise-lyon
+type: satellite
+pilier_parent: demenagement-entreprise-lyon
 keywords:
-  - "archives entreprise"
-  - "conservation 10 ans"
-  - "archivage lyon"
+  - archives entreprise
+  - conservation 10 ans
+  - archivage lyon
 word_count: 1250
-publish_date: "2025-10-19"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-19'
+author: Équipe Moverz Lyon
 ---
 
 # Archives Entreprise Déménagement Lyon : Conservation Légale 10 Ans

@@ -1,18 +1,21 @@
 ---
-title: "FAQ Déménagement Piano Lyon : 15 Questions Essentielles"
-meta_title: "FAQ Déménagement Piano Lyon | Prix Matériel Accordage"
-meta_description: "FAQ piano Lyon : prix droit 250-800€, queue 600-2500€, monte-meuble 4ème+, accordage obligatoire 80-150€, Vieux-Lyon +40-60%. 15 réponses."
-slug: "faq-demenagement-piano-lyon"
-category: "demenagement-piano-lyon"
-type: "satellite"
-pilier_parent: "demenagement-piano-lyon-guide-complet"
+title: 'FAQ Déménagement Piano Lyon : 15 Questions Essentielles'
+meta_title: 'Déménagement Piano Lyon : Guide Spécialisé | 2025'
+meta_description: >-
+  Guide déménagement piano Lyon : Techniques spécialisées, précautions, tarifs.
+  Conseils transport instrument fragile. Informations détaillées pour votre
+  piano.
+slug: faq-demenagement-piano-lyon
+category: demenagement-piano-lyon
+type: satellite
+pilier_parent: demenagement-piano-lyon-guide-complet
 keywords:
-  - "faq piano lyon"
-  - "questions déménagement piano"
-  - "piano lyon guide"
+  - faq piano lyon
+  - questions déménagement piano
+  - piano lyon guide
 word_count: 1400
-publish_date: "2025-10-16"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-16'
+author: Équipe Moverz Lyon
 ---
 
 # FAQ Déménagement Piano Lyon : Toutes Vos Questions

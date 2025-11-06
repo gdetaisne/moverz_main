@@ -1,18 +1,21 @@
 ---
-title: "Aménagement Nouveaux Bureaux Lyon Post-Déménagement 2025"
-meta_title: "Aménagement Bureaux Lyon | Installation Mobilier IT"
-meta_description: "Aménagement nouveaux bureaux Lyon post-déménagement : installation mobilier, câblages IT, signalétique, tests. 500-3000€ PME services."
-slug: "amenagement-nouveaux-bureaux-lyon"
-category: "demenagement-entreprise-lyon"
-type: "satellite"
-pilier_parent: "demenagement-entreprise-lyon"
+title: Aménagement Nouveaux Bureaux Lyon Post-Déménagement 2025
+meta_title: 'Déménagement Entreprise Lyon : Guide Professionnel | 2025'
+meta_description: >-
+  Guide déménagement entreprise Lyon : Solutions B2B, organisation bureaux,
+  gestion équipes. Conseils professionnels pour déménager vos locaux
+  efficacement.
+slug: amenagement-nouveaux-bureaux-lyon
+category: demenagement-entreprise-lyon
+type: satellite
+pilier_parent: demenagement-entreprise-lyon
 keywords:
-  - "amenagement bureaux lyon"
-  - "installation bureaux"
-  - "post demenagement"
+  - amenagement bureaux lyon
+  - installation bureaux
+  - post demenagement
 word_count: 1100
-publish_date: "2025-10-19"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-19'
+author: Équipe Moverz Lyon
 ---
 
 # Aménagement Nouveaux Bureaux Lyon Post-Déménagement 2025

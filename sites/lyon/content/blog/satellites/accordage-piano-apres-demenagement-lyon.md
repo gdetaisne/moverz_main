@@ -1,18 +1,21 @@
 ---
-title: "Accordage Piano Après Déménagement Lyon : Obligatoire"
-meta_title: "Accordage Piano Déménagement Lyon | 80-150€ 48-72h"
-meta_description: "Accordage piano après déménagement Lyon obligatoire 48-72h (80-150€). Vibrations désaccordent. 20-30 accordeurs Lyon, conservatoire, ANRAT."
-slug: "accordage-piano-apres-demenagement-lyon"
-category: "demenagement-piano-lyon"
-type: "satellite"
-pilier_parent: "demenagement-piano-lyon-guide-complet"
+title: 'Accordage Piano Après Déménagement Lyon : Obligatoire'
+meta_title: 'Déménagement Piano Lyon : Guide Spécialisé | 2025'
+meta_description: >-
+  Guide déménagement piano Lyon : Techniques spécialisées, précautions, tarifs.
+  Conseils transport instrument fragile. Informations détaillées pour votre
+  piano.
+slug: accordage-piano-apres-demenagement-lyon
+category: demenagement-piano-lyon
+type: satellite
+pilier_parent: demenagement-piano-lyon-guide-complet
 keywords:
-  - "accordage piano lyon"
-  - "accordeur piano lyon"
-  - "piano désaccordé déménagement"
+  - accordage piano lyon
+  - accordeur piano lyon
+  - piano désaccordé déménagement
 word_count: 1000
-publish_date: "2025-10-16"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-16'
+author: Équipe Moverz Lyon
 ---
 
 # Accordage Piano Après Déménagement Lyon : Pourquoi C'est Obligatoire

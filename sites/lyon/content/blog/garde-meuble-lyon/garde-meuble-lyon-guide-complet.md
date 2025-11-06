@@ -1,17 +1,25 @@
 ---
-title: "Garde Meuble à Lyon : Trouvez Votre Solution de Stockage Idéale et Sécurisée"
-description: "Besoin d'un garde meuble à Lyon ? Découvrez nos box de stockage sécurisés pour particuliers et professionnels. Guide complet, prix et devis gratuit pour votre solution idéale !"
-slug: "garde-meuble-lyon-guide-complet"
-category: "demenagement-lyon"
-keywords: 
-  - "garde meuble lyon"
-  - "location garde meuble lyon"
-  - "box stockage lyon"
-  - "self stockage lyon"
-  - "prix garde meuble lyon"
-author: "Équipe Moverz Lyon"
-publishedAt: "2025-01-15"
+title: 'Garde Meuble à Lyon : Trouvez Votre Solution de Stockage Idéale et Sécurisée'
+description: >-
+  Guide garde-meuble Lyon : Tarifs, volumes, durées. Comparatif solutions
+  stockage. Conseils choix box adapté. Informations détaillées pour votre
+  projet.
+slug: garde-meuble-lyon-guide-complet
+category: demenagement-lyon
+keywords:
+  - garde meuble lyon
+  - location garde meuble lyon
+  - box stockage lyon
+  - self stockage lyon
+  - prix garde meuble lyon
+author: Équipe Moverz Lyon
+publishedAt: '2025-01-15'
 featured: true
+meta_title: 'Garde-Meuble Lyon : Guide Complet & Comparatif | 2025'
+meta_description: >-
+  Guide garde-meuble Lyon : Tarifs, volumes, durées. Comparatif solutions
+  stockage. Conseils choix box adapté. Informations détaillées pour votre
+  projet.
 ---
 
 # Garde Meuble à Lyon : Trouvez Votre Solution de Stockage Idéale et Sécurisée

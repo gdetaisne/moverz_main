@@ -1,18 +1,21 @@
 ---
-title: "DIY vs Pro Petit Déménagement Lyon : Quel Choix 2025 ?"
-meta_title: "DIY vs Pro Lyon | 60€ vs 150€ Petit Déménagement"
-meta_description: "DIY (60-90€ location camionnette, manutention vous) vs pro (150-250€ confort total). Comparatif efforts, risques, économies Lyon."
-slug: "diy-vs-pro-petit-volume-lyon"
-category: "demenagement-petit-volume-lyon"
-type: "satellite"
-pilier_parent: "demenagement-petit-volume-lyon"
+title: 'DIY vs Pro Petit Déménagement Lyon : Quel Choix 2025 ?'
+meta_title: 'Petit Déménagement Lyon : Guide Studio/T1 | 2025'
+meta_description: >-
+  Guide petit déménagement Lyon : Tarifs studio, solutions adaptées petit
+  volume. Conseils organisation, emballage et transport. Comparaison options
+  disponibles.
+slug: diy-vs-pro-petit-volume-lyon
+category: demenagement-petit-volume-lyon
+type: satellite
+pilier_parent: demenagement-petit-volume-lyon
 keywords:
-  - "diy demenagement lyon"
-  - "location camion lyon"
-  - "déménageur lyon"
+  - diy demenagement lyon
+  - location camion lyon
+  - déménageur lyon
 word_count: 1150
-publish_date: "2025-10-17"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-17'
+author: Équipe Moverz Lyon
 ---
 
 # DIY vs Pro Petit Déménagement Lyon : Comparatif Complet 2025

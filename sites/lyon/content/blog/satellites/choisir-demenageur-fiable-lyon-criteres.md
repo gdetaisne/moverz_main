@@ -1,18 +1,21 @@
 ---
-title: "Choisir Déménageur Fiable Lyon : 8 Critères Essentiels 2025"
-meta_title: "Déménageur Fiable Lyon | 8 Critères Sélection Sérieux"
-meta_description: "Choisir déménageur fiable Lyon : avis 4+/5, RC 500K-2M€, ancienneté 10+ ans, SIRET, devis détaillé, références. 8 critères éviter arnaques."
-slug: "choisir-demenageur-fiable-lyon-criteres"
-category: "demenageur-lyon"
-type: "satellite"
-pilier_parent: "demenageur-lyon"
+title: 'Choisir Déménageur Fiable Lyon : 8 Critères Essentiels 2025'
+meta_title: 'Déménagement Lyon : Guide Complet & Conseils | 2025'
+meta_description: >-
+  Guide déménagement Lyon : Conseils pratiques, astuces et bonnes pratiques.
+  Informations détaillées pour bien préparer votre projet. Expert déménagement
+  Lyon.
+slug: choisir-demenageur-fiable-lyon-criteres
+category: demenageur-lyon
+type: satellite
+pilier_parent: demenageur-lyon
 keywords:
-  - "déménageur fiable lyon"
-  - "choisir déménageur"
-  - "critères sélection"
+  - déménageur fiable lyon
+  - choisir déménageur
+  - critères sélection
 word_count: 1400
-publish_date: "2025-10-20"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-20'
+author: Équipe Moverz Lyon
 ---
 
 # Choisir Déménageur Fiable Lyon : 8 Critères Essentiels 2025

@@ -1,18 +1,21 @@
 ---
-title: "FAQ Garde-Meuble Lyon : 18 Questions Essentielles 2025"
-meta_title: "FAQ Garde-Meuble Lyon | Prix Tailles Sécurité"
-meta_description: "FAQ garde-meuble Lyon : prix 55-480€/mois, tailles 1-20m², Shurgard 4 sites, sécurité 24/7, durée 1 mois min. 18 réponses complètes."
-slug: "faq-garde-meuble-lyon"
-category: "garde-meuble-lyon"
-type: "satellite"
-pilier_parent: "garde-meuble-lyon-guide-complet"
+title: 'FAQ Garde-Meuble Lyon : 18 Questions Essentielles 2025'
+meta_title: 'Garde-Meuble Lyon : Guide Complet & Comparatif | 2025'
+meta_description: >-
+  Guide garde-meuble Lyon : Tarifs, volumes, durées. Comparatif solutions
+  stockage. Conseils choix box adapté. Informations détaillées pour votre
+  projet.
+slug: faq-garde-meuble-lyon
+category: garde-meuble-lyon
+type: satellite
+pilier_parent: garde-meuble-lyon-guide-complet
 keywords:
-  - "faq garde meuble lyon"
-  - "questions stockage lyon"
-  - "garde meuble lyon guide"
+  - faq garde meuble lyon
+  - questions stockage lyon
+  - garde meuble lyon guide
 word_count: 1500
-publish_date: "2025-10-16"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-16'
+author: Équipe Moverz Lyon
 ---
 
 # FAQ Garde-Meuble Lyon : Toutes Vos Questions 2025

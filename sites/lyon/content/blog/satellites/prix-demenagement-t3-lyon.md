@@ -1,18 +1,20 @@
 ---
-title: "Prix Déménagement T3 Lyon : 650-1200€ Facteurs Coûts 2025"
-meta_title: "Prix Déménagement T3 Lyon | 650-1200€ Tarifs 2025"
-meta_description: "Prix déménagement T3 Lyon : 650-1200€ selon étages/distance. 55-65m³ volume moyen. S.I.E.T, Lugnier, PME comparatif tarifs détaillés."
-slug: "prix-demenagement-t3-lyon"
-category: "prix-demenagement-lyon"
-type: "satellite"
-pilier_parent: "prix-demenagement-lyon"
+title: 'Prix Déménagement T3 Lyon : 650-1200€ Facteurs Coûts 2025'
+meta_title: 'Prix Déménagement Lyon : Comparez 5 Devis Gratuits | 2025'
+meta_description: >-
+  Déménagement Lyon : T2 500-800€, T3 800-1200€, T4 1200-1800€. IA analyse vos
+  photos → 5 devis comparables sous 7j. Gratuit. 1200+ clients ⭐4.9/5
+slug: prix-demenagement-t3-lyon
+category: prix-demenagement-lyon
+type: satellite
+pilier_parent: prix-demenagement-lyon
 keywords:
-  - "prix déménagement t3 lyon"
-  - "tarif t3 lyon déménagement"
-  - "coût déménagement t3"
+  - prix déménagement t3 lyon
+  - tarif t3 lyon déménagement
+  - coût déménagement t3
 word_count: 1450
-publish_date: "2025-10-20"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-20'
+author: Équipe Moverz Lyon
 ---
 
 # Prix Déménagement T3 Lyon : Tarifs Détaillés et Facteurs 2025

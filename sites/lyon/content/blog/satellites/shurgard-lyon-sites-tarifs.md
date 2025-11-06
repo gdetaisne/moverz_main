@@ -1,18 +1,21 @@
 ---
-title: "Shurgard Lyon : 4 Sites, Tarifs et Services 2025"
-meta_title: "Shurgard Lyon | Jean Macé Vaise Gerland États-Unis"
-meta_description: "Shurgard Lyon 4 sites : Jean Macé métro B, Vaise économique, Gerland, États-Unis. Tarifs 130-480€/mois, accès 24/7, sécurisé. Comparatif."
-slug: "shurgard-lyon-sites-tarifs"
-category: "garde-meuble-lyon"
-type: "satellite"
-pilier_parent: "garde-meuble-lyon-guide-complet"
+title: 'Shurgard Lyon : 4 Sites, Tarifs et Services 2025'
+meta_title: 'Garde-Meuble Lyon : Guide Complet & Comparatif | 2025'
+meta_description: >-
+  Guide garde-meuble Lyon : Tarifs, volumes, durées. Comparatif solutions
+  stockage. Conseils choix box adapté. Informations détaillées pour votre
+  projet.
+slug: shurgard-lyon-sites-tarifs
+category: garde-meuble-lyon
+type: satellite
+pilier_parent: garde-meuble-lyon-guide-complet
 keywords:
-  - "shurgard lyon"
-  - "shurgard jean macé"
-  - "shurgard vaise"
+  - shurgard lyon
+  - shurgard jean macé
+  - shurgard vaise
 word_count: 1350
-publish_date: "2025-10-16"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-16'
+author: Équipe Moverz Lyon
 ---
 
 # Shurgard Lyon : 4 Sites, Tarifs et Comparatif 2025

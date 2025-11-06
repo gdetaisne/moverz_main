@@ -1,18 +1,21 @@
 ---
-title: "Embaucher Manutentionnaire Freelance Lyon : Guide Complet 2025"
-meta_title: "Embaucher Freelance Lyon | Contrat CESU Auto-Entrepreneur"
-meta_description: "Embaucher manutentionnaire freelance Lyon : auto-entrepreneur facture vs CESU particulier employeur. 20-30€/h, contrat, paiement, RC assurance."
-slug: "embaucher-manutentionnaire-freelance-lyon"
-category: "aide-demenagement-lyon"
-type: "satellite"
-pilier_parent: "aide-demenagement-lyon"
+title: 'Embaucher Manutentionnaire Freelance Lyon : Guide Complet 2025'
+meta_title: 'Aide au Déménagement Lyon : Guide Complet & Astuces | 2025'
+meta_description: >-
+  Guide complet déménagement Lyon : Checklist, organisation, emballage,
+  transport. Conseils pratiques étape par étape. Évitez les erreurs courantes.
+  Guide expert.
+slug: embaucher-manutentionnaire-freelance-lyon
+category: aide-demenagement-lyon
+type: satellite
+pilier_parent: aide-demenagement-lyon
 keywords:
-  - "embaucher manutentionnaire lyon"
-  - "freelance demenagement"
-  - "cesu lyon"
+  - embaucher manutentionnaire lyon
+  - freelance demenagement
+  - cesu lyon
 word_count: 950
-publish_date: "2025-10-18"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-18'
+author: Équipe Moverz Lyon
 ---
 
 # Embaucher Manutentionnaire Freelance Lyon : Statuts et Contrats

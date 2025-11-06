@@ -1,18 +1,21 @@
 ---
-title: "Comparaison Prix Déménageurs Lyon : S.I.E.T vs Lugnier vs PME 2025"
-meta_title: "Comparaison Prix Déménageurs Lyon | S.I.E.T vs Lugnier"
-meta_description: "Comparaison prix déménageurs Lyon : S.I.E.T 500-700€ premium vs Lugnier 450-650€ familial vs PME 420-600€. T2 détails. Rapport qualité/prix."
-slug: "comparaison-prix-demenageurs-lyon"
-category: "prix-demenagement-lyon"
-type: "satellite"
-pilier_parent: "prix-demenagement-lyon"
+title: 'Comparaison Prix Déménageurs Lyon : S.I.E.T vs Lugnier vs PME 2025'
+meta_title: 'Prix Déménagement Lyon : Guide Complet & Tarifs | 2025'
+meta_description: >-
+  Guide complet prix déménagement Lyon : Tarifs détaillés selon volume, distance
+  et accessibilité. Facteurs de coût expliqués. Estimation précise pour votre
+  projet.
+slug: comparaison-prix-demenageurs-lyon
+category: prix-demenagement-lyon
+type: satellite
+pilier_parent: prix-demenagement-lyon
 keywords:
-  - "comparaison prix déménageurs"
-  - "déménageur pas cher lyon"
-  - "meilleur rapport qualité prix"
+  - comparaison prix déménageurs
+  - déménageur pas cher lyon
+  - meilleur rapport qualité prix
 word_count: 1420
-publish_date: "2025-10-20"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-20'
+author: Équipe Moverz Lyon
 ---
 
 # Comparaison Prix Déménageurs Lyon : Analyse Détaillée 2025

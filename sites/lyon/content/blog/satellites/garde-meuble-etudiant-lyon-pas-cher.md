@@ -1,18 +1,21 @@
 ---
-title: "Garde-Meuble Étudiant Lyon Pas Cher : Solutions 2025"
-meta_title: "Garde-Meuble Étudiant Lyon | 55-120€/mois Été"
-meta_description: "Garde-meuble étudiant Lyon : box 1-3m² 55-120€/mois, stockage été 4-5 mois, Jean Macé métro B, Vaise économique, promos étudiants -5-10%."
-slug: "garde-meuble-etudiant-lyon-pas-cher"
-category: "garde-meuble-lyon"
-type: "satellite"
-pilier_parent: "garde-meuble-lyon-guide-complet"
+title: 'Garde-Meuble Étudiant Lyon Pas Cher : Solutions 2025'
+meta_title: 'Déménagement Pas Cher Lyon : Guide & Astuces | 2025'
+meta_description: >-
+  Guide déménagement pas cher Lyon : Astuces pour économiser, comparer les
+  tarifs, négocier. Conseils pratiques pour réduire les coûts sans sacrifier la
+  qualité.
+slug: garde-meuble-etudiant-lyon-pas-cher
+category: garde-meuble-lyon
+type: satellite
+pilier_parent: garde-meuble-lyon-guide-complet
 keywords:
-  - "garde meuble étudiant lyon"
-  - "stockage étudiant lyon"
-  - "box étudiant lyon"
+  - garde meuble étudiant lyon
+  - stockage étudiant lyon
+  - box étudiant lyon
 word_count: 1280
-publish_date: "2025-10-16"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-16'
+author: Équipe Moverz Lyon
 ---
 
 # Garde-Meuble Étudiant Lyon Pas Cher : Solutions Stockage 2025

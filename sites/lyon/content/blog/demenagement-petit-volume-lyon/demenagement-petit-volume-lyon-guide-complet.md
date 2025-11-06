@@ -1,17 +1,25 @@
 ---
-title: "Déménagement Petit Volume à Lyon : Solutions Économiques et Flexibles"
-description: "Déménagement petit volume à Lyon ? Trouvez des solutions économiques et flexibles pour transporter vos meubles et cartons. Devis gratuit et service sur mesure pour étudiants et particuliers."
-slug: "demenagement-petit-volume-lyon-guide-complet"
-category: "demenagement-lyon"
-keywords: 
-  - "déménagement petit volume lyon"
-  - "petit déménagement lyon"
-  - "déménagement étudiant lyon"
-  - "transport meuble lyon"
-  - "déménageur petit volume lyon"
-author: "Équipe Moverz Lyon"
-publishedAt: "2025-01-15"
+title: 'Déménagement Petit Volume à Lyon : Solutions Économiques et Flexibles'
+description: >-
+  Guide petit déménagement Lyon : Tarifs studio, solutions adaptées petit
+  volume. Conseils organisation, emballage et transport. Comparaison options
+  disponibles.
+slug: demenagement-petit-volume-lyon-guide-complet
+category: demenagement-lyon
+keywords:
+  - déménagement petit volume lyon
+  - petit déménagement lyon
+  - déménagement étudiant lyon
+  - transport meuble lyon
+  - déménageur petit volume lyon
+author: Équipe Moverz Lyon
+publishedAt: '2025-01-15'
 featured: true
+meta_title: 'Petit Déménagement Lyon : Guide Studio/T1 | 2025'
+meta_description: >-
+  Guide petit déménagement Lyon : Tarifs studio, solutions adaptées petit
+  volume. Conseils organisation, emballage et transport. Comparaison options
+  disponibles.
 ---
 
 # Déménagement Petit Volume à Lyon : Solutions Économiques et Flexibles

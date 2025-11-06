@@ -1,18 +1,21 @@
 ---
-title: "Étapes Transport Piano Lyon : Processus Professionnel"
-meta_title: "Étapes Transport Piano Lyon | Évaluation à Installation"
-meta_description: "Étapes transport piano Lyon : évaluation accès, protection instrument, chargement chariot, transport sécurisé, installation, vérification. Guide complet."
-slug: "etapes-transport-piano-lyon"
-category: "demenagement-piano-lyon"
-type: "satellite"
-pilier_parent: "demenagement-piano-lyon-guide-complet"
+title: 'Étapes Transport Piano Lyon : Processus Professionnel'
+meta_title: 'Déménagement Piano Lyon : Guide Spécialisé | 2025'
+meta_description: >-
+  Guide déménagement piano Lyon : Techniques spécialisées, précautions, tarifs.
+  Conseils transport instrument fragile. Informations détaillées pour votre
+  piano.
+slug: etapes-transport-piano-lyon
+category: demenagement-piano-lyon
+type: satellite
+pilier_parent: demenagement-piano-lyon-guide-complet
 keywords:
-  - "étapes transport piano"
-  - "processus déménagement piano"
-  - "transport piano lyon"
+  - étapes transport piano
+  - processus déménagement piano
+  - transport piano lyon
 word_count: 1250
-publish_date: "2025-10-16"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-16'
+author: Équipe Moverz Lyon
 ---
 
 # Étapes Transport Piano Lyon : Processus Professionnel Détaillé

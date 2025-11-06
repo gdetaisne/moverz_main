@@ -1,17 +1,27 @@
 ---
-title: "Déménagement International Lyon : Votre Guide Complet pour une Mobilité Européenne et Mondiale"
-description: "Déménagement international depuis/vers Lyon ? Découvrez modes de transport, formalités douanières, prix et conseils pour une expatriation réussie depuis le cœur de l'Europe."
-slug: "demenagement-international-lyon-guide-complet"
-category: "demenagement-lyon"
-keywords: 
-  - "déménagement international lyon"
-  - "déménageur international lyon"
-  - "expatriation lyon"
-  - "déménagement Europe lyon"
-  - "déménagement Suisse lyon"
-author: "Équipe Moverz Lyon"
-publishedAt: "2025-01-15"
+title: >-
+  Déménagement International Lyon : Votre Guide Complet pour une Mobilité
+  Européenne et Mondiale
+description: >-
+  Guide déménagement international Lyon : Formalités, douanes, transport longue
+  distance. Conseils organisation déménagement Europe/Monde. Informations
+  détaillées.
+slug: demenagement-international-lyon-guide-complet
+category: demenagement-lyon
+keywords:
+  - déménagement international lyon
+  - déménageur international lyon
+  - expatriation lyon
+  - déménagement Europe lyon
+  - déménagement Suisse lyon
+author: Équipe Moverz Lyon
+publishedAt: '2025-01-15'
 featured: true
+meta_title: 'Déménagement International Lyon : Guide Complet | 2025'
+meta_description: >-
+  Guide déménagement international Lyon : Formalités, douanes, transport longue
+  distance. Conseils organisation déménagement Europe/Monde. Informations
+  détaillées.
 ---
 
 # Déménagement International Lyon : Votre Guide Complet pour une Mobilité Européenne et Mondiale

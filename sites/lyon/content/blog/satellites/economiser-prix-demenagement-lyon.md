@@ -1,18 +1,21 @@
 ---
-title: "Économiser Prix Déménagement Lyon : 15 Astuces -30-50% 2025"
-meta_title: "Économiser Déménagement Lyon | 15 Astuces -30-50%"
-meta_description: "Économiser prix déménagement Lyon : 15 astuces -30-50%. Désencombrement, basse saison, DIY emballage, comparaisons. T2 520€ → 350€."
-slug: "economiser-prix-demenagement-lyon"
-category: "prix-demenagement-lyon"
-type: "satellite"
-pilier_parent: "prix-demenagement-lyon"
+title: 'Économiser Prix Déménagement Lyon : 15 Astuces -30-50% 2025'
+meta_title: 'Prix Déménagement Lyon : Guide Complet & Tarifs | 2025'
+meta_description: >-
+  Guide complet prix déménagement Lyon : Tarifs détaillés selon volume, distance
+  et accessibilité. Facteurs de coût expliqués. Estimation précise pour votre
+  projet.
+slug: economiser-prix-demenagement-lyon
+category: prix-demenagement-lyon
+type: satellite
+pilier_parent: prix-demenagement-lyon
 keywords:
-  - "économiser déménagement lyon"
-  - "réduire coût déménagement"
-  - "astuces pas cher"
+  - économiser déménagement lyon
+  - réduire coût déménagement
+  - astuces pas cher
 word_count: 1440
-publish_date: "2025-10-20"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-20'
+author: Équipe Moverz Lyon
 ---
 
 # Économiser Prix Déménagement Lyon : 15 Astuces Réductions 2025

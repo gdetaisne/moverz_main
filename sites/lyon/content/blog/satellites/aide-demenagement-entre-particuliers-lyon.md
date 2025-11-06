@@ -1,18 +1,21 @@
 ---
-title: "Aide Déménagement Entre Particuliers Lyon : Colocation Amis 2025"
-meta_title: "Aide Particuliers Lyon | Colocation Gratuit vs Rémunération"
-meta_description: "Aide déménagement entre particuliers Lyon : colocataires gratuits vs amis rémunération 50-100€. Risques, éthique, alternatives pros."
-slug: "aide-demenagement-entre-particuliers-lyon"
-category: "aide-demenagement-lyon"
-type: "satellite"
-pilier_parent: "aide-demenagement-lyon"
+title: 'Aide Déménagement Entre Particuliers Lyon : Colocation Amis 2025'
+meta_title: 'Aide au Déménagement Lyon : Guide Complet & Astuces | 2025'
+meta_description: >-
+  Guide complet déménagement Lyon : Checklist, organisation, emballage,
+  transport. Conseils pratiques étape par étape. Évitez les erreurs courantes.
+  Guide expert.
+slug: aide-demenagement-entre-particuliers-lyon
+category: aide-demenagement-lyon
+type: satellite
+pilier_parent: aide-demenagement-lyon
 keywords:
-  - "aide entre particuliers"
-  - "amis demenagement"
-  - "colocation aide"
+  - aide entre particuliers
+  - amis demenagement
+  - colocation aide
 word_count: 900
-publish_date: "2025-10-18"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-18'
+author: Équipe Moverz Lyon
 ---
 
 # Aide Déménagement Entre Particuliers Lyon : Solidarité et Limites

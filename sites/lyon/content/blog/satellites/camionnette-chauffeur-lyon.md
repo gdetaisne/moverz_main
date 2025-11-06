@@ -1,18 +1,21 @@
 ---
-title: "Camionnette avec Chauffeur Lyon : Prix et Plateformes 2025"
-meta_title: "Camionnette Chauffeur Lyon | 80-150€ Transport Aide"
-meta_description: "Camionnette avec chauffeur Lyon : 80-150€ (intra-Lyon), Yper, Frizbiz, LeBonCoin. Transport meubles, cartons, aide chargement. Comparatif."
-slug: "camionnette-chauffeur-lyon"
-category: "demenagement-petit-volume-lyon"
-type: "satellite"
-pilier_parent: "demenagement-petit-volume-lyon"
+title: 'Camionnette avec Chauffeur Lyon : Prix et Plateformes 2025'
+meta_title: 'Prix Déménagement Lyon : Guide Complet & Tarifs | 2025'
+meta_description: >-
+  Guide complet prix déménagement Lyon : Tarifs détaillés selon volume, distance
+  et accessibilité. Facteurs de coût expliqués. Estimation précise pour votre
+  projet.
+slug: camionnette-chauffeur-lyon
+category: demenagement-petit-volume-lyon
+type: satellite
+pilier_parent: demenagement-petit-volume-lyon
 keywords:
-  - "camionnette avec chauffeur lyon"
-  - "transport chauffeur lyon"
-  - "yper lyon"
+  - camionnette avec chauffeur lyon
+  - transport chauffeur lyon
+  - yper lyon
 word_count: 1150
-publish_date: "2025-10-17"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-17'
+author: Équipe Moverz Lyon
 ---
 
 # Camionnette avec Chauffeur Lyon : Solutions et Tarifs 2025

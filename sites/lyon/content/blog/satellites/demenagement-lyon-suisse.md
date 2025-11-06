@@ -1,19 +1,22 @@
 ---
-title: "Déménagement Lyon-Suisse : Prix, Formalités et Guide 2025"
-meta_title: "Déménagement Lyon-Suisse | Prix 2500-4500€ Genève Guide"
-meta_description: "Déménagement Lyon-Suisse 2025 : prix 2500-4500€ T2 Genève, formalités douane strictes, inventaire obligatoire, permis B/C. Guide complet."
-slug: "demenagement-lyon-suisse"
-category: "demenagement-international-lyon"
-type: "satellite"
-pilier_parent: "demenagement-international-lyon-guide-complet"
+title: 'Déménagement Lyon-Suisse : Prix, Formalités et Guide 2025'
+meta_title: 'Prix Déménagement Lyon : Guide Complet & Tarifs | 2025'
+meta_description: >-
+  Guide complet prix déménagement Lyon : Tarifs détaillés selon volume, distance
+  et accessibilité. Facteurs de coût expliqués. Estimation précise pour votre
+  projet.
+slug: demenagement-lyon-suisse
+category: demenagement-international-lyon
+type: satellite
+pilier_parent: demenagement-international-lyon-guide-complet
 keywords:
-  - "déménagement lyon suisse"
-  - "lyon genève déménagement"
-  - "formalités douane suisse"
-  - "prix déménagement lyon suisse"
+  - déménagement lyon suisse
+  - lyon genève déménagement
+  - formalités douane suisse
+  - prix déménagement lyon suisse
 word_count: 1550
-publish_date: "2025-10-15"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-15'
+author: Équipe Moverz Lyon
 ---
 
 # Déménagement Lyon-Suisse : Prix, Formalités Douanières et Guide Complet 2025

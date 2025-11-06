@@ -1,18 +1,21 @@
 ---
-title: "Déménageur Dimanche Lyon : Disponibilité et Tarifs +25-40%"
-meta_title: "Déménageur Dimanche Lyon | Tarifs +25-40% Disponibilités"
-meta_description: "Déménageur dimanche Lyon : S.I.E.T, Lugnier disponibles. Tarifs +25-40% (T2 550-900€ vs 420-650€ semaine). Majorations heures supplémentaires."
-slug: "demenageur-dimanche-lyon"
-category: "demenageur-lyon"
-type: "satellite"
-pilier_parent: "demenageur-lyon"
+title: 'Déménageur Dimanche Lyon : Disponibilité et Tarifs +25-40%'
+meta_title: 'Déménagement Lyon : Guide Complet & Conseils | 2025'
+meta_description: >-
+  Guide déménagement Lyon : Conseils pratiques, astuces et bonnes pratiques.
+  Informations détaillées pour bien préparer votre projet. Expert déménagement
+  Lyon.
+slug: demenageur-dimanche-lyon
+category: demenageur-lyon
+type: satellite
+pilier_parent: demenageur-lyon
 keywords:
-  - "déménageur dimanche lyon"
-  - "déménagement week-end"
-  - "majorations dimanche"
+  - déménageur dimanche lyon
+  - déménagement week-end
+  - majorations dimanche
 word_count: 1280
-publish_date: "2025-10-20"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-20'
+author: Équipe Moverz Lyon
 ---
 
 # Déménageur Dimanche Lyon : Disponibilités et Majorations 2025

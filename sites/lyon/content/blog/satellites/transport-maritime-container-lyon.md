@@ -1,18 +1,21 @@
 ---
-title: "Transport Maritime Container Déménagement depuis Lyon"
-meta_title: "Container Maritime Lyon | Prix 6000-15000€ USA Asie"
-meta_description: "Container maritime déménagement Lyon : 20' groupage 6000-10000€ USA, 40' maison 12000-20000€. Ports Marseille/Le Havre, délais 20-60j."
-slug: "transport-maritime-container-lyon"
-category: "demenagement-international-lyon"
-type: "satellite"
-pilier_parent: "demenagement-international-lyon-guide-complet"
+title: Transport Maritime Container Déménagement depuis Lyon
+meta_title: 'Déménagement International Lyon : Guide Complet | 2025'
+meta_description: >-
+  Guide déménagement international Lyon : Formalités, douanes, transport longue
+  distance. Conseils organisation déménagement Europe/Monde. Informations
+  détaillées.
+slug: transport-maritime-container-lyon
+category: demenagement-international-lyon
+type: satellite
+pilier_parent: demenagement-international-lyon-guide-complet
 keywords:
-  - "container maritime lyon"
-  - "déménagement container"
-  - "lyon marseille port container"
+  - container maritime lyon
+  - déménagement container
+  - lyon marseille port container
 word_count: 1420
-publish_date: "2025-10-15"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-15'
+author: Équipe Moverz Lyon
 ---
 
 # Transport Maritime Container Déménagement depuis Lyon : Guide Complet

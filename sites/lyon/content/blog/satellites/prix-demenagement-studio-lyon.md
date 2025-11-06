@@ -1,18 +1,21 @@
 ---
-title: "Prix Déménagement Studio Lyon : 280-450€ Tarifs Détaillés 2025"
-meta_title: "Prix Déménagement Studio Lyon | 280-450€ Tarifs 2025"
-meta_description: "Prix déménagement studio Lyon : 280-450€ selon étages/distance. 12-15m³ volume moyen. S.I.E.T, Lugnier, PME comparatif. Facteurs détaillés."
-slug: "prix-demenagement-studio-lyon"
-category: "prix-demenagement-lyon"
-type: "satellite"
-pilier_parent: "prix-demenagement-lyon"
+title: 'Prix Déménagement Studio Lyon : 280-450€ Tarifs Détaillés 2025'
+meta_title: 'Prix Déménagement Lyon : Guide Complet & Tarifs | 2025'
+meta_description: >-
+  Guide complet prix déménagement Lyon : Tarifs détaillés selon volume, distance
+  et accessibilité. Facteurs de coût expliqués. Estimation précise pour votre
+  projet.
+slug: prix-demenagement-studio-lyon
+category: prix-demenagement-lyon
+type: satellite
+pilier_parent: prix-demenagement-lyon
 keywords:
-  - "prix déménagement studio lyon"
-  - "tarif studio lyon"
-  - "coût déménagement studio"
+  - prix déménagement studio lyon
+  - tarif studio lyon
+  - coût déménagement studio
 word_count: 1380
-publish_date: "2025-10-20"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-20'
+author: Équipe Moverz Lyon
 ---
 
 # Prix Déménagement Studio Lyon : Tarifs Complets 2025

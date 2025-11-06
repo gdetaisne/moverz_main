@@ -1,18 +1,21 @@
 ---
-title: "FAQ Déménagement Entreprise Lyon : 10 Questions B2B 2025"
-meta_title: "FAQ Entreprise Lyon | Prix Planning IT Week-End"
-meta_description: "FAQ déménagement entreprise Lyon : prix 1500-12000€, planning 3-6 mois, IT week-end, continuité activité, archives 10 ans, zones affaires. 10 réponses B2B."
-slug: "faq-demenagement-entreprise-lyon"
-category: "demenagement-entreprise-lyon"
-type: "satellite"
-pilier_parent: "demenagement-entreprise-lyon"
+title: 'FAQ Déménagement Entreprise Lyon : 10 Questions B2B 2025'
+meta_title: 'Déménagement Entreprise Lyon : Guide Professionnel | 2025'
+meta_description: >-
+  Guide déménagement entreprise Lyon : Solutions B2B, organisation bureaux,
+  gestion équipes. Conseils professionnels pour déménager vos locaux
+  efficacement.
+slug: faq-demenagement-entreprise-lyon
+category: demenagement-entreprise-lyon
+type: satellite
+pilier_parent: demenagement-entreprise-lyon
 keywords:
-  - "faq entreprise lyon"
-  - "questions demenagement b2b"
-  - "demenagement professionnel"
+  - faq entreprise lyon
+  - questions demenagement b2b
+  - demenagement professionnel
 word_count: 1200
-publish_date: "2025-10-19"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-19'
+author: Équipe Moverz Lyon
 ---
 
 # FAQ Déménagement Entreprise Lyon : 10 Questions B2B 2025

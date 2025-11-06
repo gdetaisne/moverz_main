@@ -1,18 +1,21 @@
 ---
-title: "Formule Économique Déménagement Petit Volume Lyon 2025"
-meta_title: "Formule Économique Lyon | Transport Seul 100-180€"
-meta_description: "Formule économique petit volume Lyon : transport seul 100-180€ (vs standard 150-250€). Vous chargez, pros transportent. Économie 30-70€."
-slug: "formule-economique-petit-volume-lyon"
-category: "demenagement-petit-volume-lyon"
-type: "satellite"
-pilier_parent: "demenagement-petit-volume-lyon"
+title: Formule Économique Déménagement Petit Volume Lyon 2025
+meta_title: 'Petit Déménagement Lyon : Guide Studio/T1 | 2025'
+meta_description: >-
+  Guide petit déménagement Lyon : Tarifs studio, solutions adaptées petit
+  volume. Conseils organisation, emballage et transport. Comparaison options
+  disponibles.
+slug: formule-economique-petit-volume-lyon
+category: demenagement-petit-volume-lyon
+type: satellite
+pilier_parent: demenagement-petit-volume-lyon
 keywords:
-  - "formule économique déménagement"
-  - "déménagement pas cher lyon"
-  - "petit volume lyon"
+  - formule économique déménagement
+  - déménagement pas cher lyon
+  - petit volume lyon
 word_count: 1100
-publish_date: "2025-10-17"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-17'
+author: Équipe Moverz Lyon
 ---
 
 # Formule Économique Déménagement Petit Volume Lyon : 100-180€

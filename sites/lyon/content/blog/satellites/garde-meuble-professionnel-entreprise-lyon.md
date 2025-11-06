@@ -1,18 +1,21 @@
 ---
-title: "Garde-Meuble Professionnel Entreprise Lyon : Stockage B2B"
-meta_title: "Garde-Meuble Pro Lyon | Archives Stock 300-1500€/Mois"
-meta_description: "Garde-meuble professionnel Lyon entreprises : 15-50m² 300-1500€/mois HT, archives 10 ans, stock saisonnier, mobilier temporaire. Facturation B2B."
-slug: "garde-meuble-professionnel-entreprise-lyon"
-category: "demenagement-entreprise-lyon"
-type: "satellite"
-pilier_parent: "demenagement-entreprise-lyon"
+title: 'Garde-Meuble Professionnel Entreprise Lyon : Stockage B2B'
+meta_title: 'Garde-Meuble Lyon : Guide Complet & Comparatif | 2025'
+meta_description: >-
+  Guide garde-meuble Lyon : Tarifs, volumes, durées. Comparatif solutions
+  stockage. Conseils choix box adapté. Informations détaillées pour votre
+  projet.
+slug: garde-meuble-professionnel-entreprise-lyon
+category: demenagement-entreprise-lyon
+type: satellite
+pilier_parent: demenagement-entreprise-lyon
 keywords:
-  - "garde meuble professionnel"
-  - "stockage entreprise lyon"
-  - "archives professionnel"
+  - garde meuble professionnel
+  - stockage entreprise lyon
+  - archives professionnel
 word_count: 1000
-publish_date: "2025-10-19"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-19'
+author: Équipe Moverz Lyon
 ---
 
 # Garde-Meuble Professionnel Entreprise Lyon : Stockage B2B 2025

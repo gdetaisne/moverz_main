@@ -1,18 +1,21 @@
 ---
-title: "Déménageur Pas Cher Lyon : Économique Fiable 400-600€ 2025"
-meta_title: "Déménageur Pas Cher Lyon | 400-600€ T2 Lugnier PME"
-meta_description: "Déménageur pas cher Lyon : Lugnier 450-650€ T2 fiable (4,1/5), PME locaux 400-600€. Éviter low-cost <400€ risques 15-25% casse. Économiser."
-slug: "demenageur-pas-cher-lyon"
-category: "demenageur-lyon"
-type: "satellite"
-pilier_parent: "demenageur-lyon"
+title: 'Déménageur Pas Cher Lyon : Économique Fiable 400-600€ 2025'
+meta_title: 'Déménagement Pas Cher Lyon : Guide & Astuces | 2025'
+meta_description: >-
+  Guide déménagement pas cher Lyon : Astuces pour économiser, comparer les
+  tarifs, négocier. Conseils pratiques pour réduire les coûts sans sacrifier la
+  qualité.
+slug: demenageur-pas-cher-lyon
+category: demenageur-lyon
+type: satellite
+pilier_parent: demenageur-lyon
 keywords:
-  - "déménageur pas cher lyon"
-  - "déménagement économique"
-  - "tarif bas lyon"
+  - déménageur pas cher lyon
+  - déménagement économique
+  - tarif bas lyon
 word_count: 1300
-publish_date: "2025-10-20"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-20'
+author: Équipe Moverz Lyon
 ---
 
 # Déménageur Pas Cher Lyon : Économique et Fiable 400-600€

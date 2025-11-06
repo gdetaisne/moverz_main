@@ -1,18 +1,21 @@
 ---
-title: "Aide Financière Déménagement Lyon : CAF FSL Action Logement 2025"
-meta_title: "Aide Financière Lyon | CAF 1000€ FSL 500€ Action Logement"
-meta_description: "Aides financières déménagement Lyon : CAF prime 1000€, FSL 150-500€, Action Logement Mobili-Pass 3500€, APA seniors. Conditions, dossiers."
-slug: "aide-financiere-demenagement-lyon"
-category: "aide-demenagement-lyon"
-type: "satellite"
-pilier_parent: "aide-demenagement-lyon"
+title: 'Aide Financière Déménagement Lyon : CAF FSL Action Logement 2025'
+meta_title: 'Aide au Déménagement Lyon : Guide Complet & Astuces | 2025'
+meta_description: >-
+  Guide complet déménagement Lyon : Checklist, organisation, emballage,
+  transport. Conseils pratiques étape par étape. Évitez les erreurs courantes.
+  Guide expert.
+slug: aide-financiere-demenagement-lyon
+category: aide-demenagement-lyon
+type: satellite
+pilier_parent: aide-demenagement-lyon
 keywords:
-  - "aide financière déménagement lyon"
-  - "prime déménagement caf lyon"
-  - "fsl lyon déménagement"
+  - aide financière déménagement lyon
+  - prime déménagement caf lyon
+  - fsl lyon déménagement
 word_count: 1400
-publish_date: "2025-10-18"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-18'
+author: Équipe Moverz Lyon
 ---
 
 # Aides Financières Déménagement Lyon : Guide Complet 2025

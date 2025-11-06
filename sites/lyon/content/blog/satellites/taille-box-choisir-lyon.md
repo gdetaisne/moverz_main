@@ -1,18 +1,21 @@
 ---
-title: "Quelle Taille de Box Choisir Lyon : Guide Volumes 2025"
-meta_title: "Taille Box Lyon | 1m² à 20m² Guide Choix"
-meta_description: "Taille box Lyon : 1m² 10-15 cartons, 5m² studio, 10m² T2 partiel, 15m² T2 complet. Guide équivalences, éviter erreurs, calculer volume."
-slug: "taille-box-choisir-lyon"
-category: "garde-meuble-lyon"
-type: "satellite"
-pilier_parent: "garde-meuble-lyon-guide-complet"
+title: 'Quelle Taille de Box Choisir Lyon : Guide Volumes 2025'
+meta_title: 'Garde-Meuble Lyon : Guide Complet & Comparatif | 2025'
+meta_description: >-
+  Guide garde-meuble Lyon : Tarifs, volumes, durées. Comparatif solutions
+  stockage. Conseils choix box adapté. Informations détaillées pour votre
+  projet.
+slug: taille-box-choisir-lyon
+category: garde-meuble-lyon
+type: satellite
+pilier_parent: garde-meuble-lyon-guide-complet
 keywords:
-  - "taille box stockage"
-  - "volume box lyon"
-  - "choisir box lyon"
+  - taille box stockage
+  - volume box lyon
+  - choisir box lyon
 word_count: 1300
-publish_date: "2025-10-16"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-16'
+author: Équipe Moverz Lyon
 ---
 
 # Quelle Taille de Box Choisir à Lyon : Guide Volumes et Équivalences

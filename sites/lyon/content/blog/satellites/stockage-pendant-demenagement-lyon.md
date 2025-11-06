@@ -1,18 +1,21 @@
 ---
-title: "Stockage Pendant Déménagement Lyon : Solutions Temporaires"
-meta_title: "Stockage Déménagement Lyon | Box 1-3 Mois Temporaire"
-meta_description: "Stockage temporaire déménagement Lyon : box 5-15m² 1-3 mois (130-1140€), décalage dates, travaux. Shurgard, flexibilité, calcul coûts."
-slug: "stockage-pendant-demenagement-lyon"
-category: "garde-meuble-lyon"
-type: "satellite"
-pilier_parent: "garde-meuble-lyon-guide-complet"
+title: 'Stockage Pendant Déménagement Lyon : Solutions Temporaires'
+meta_title: 'Garde-Meuble Lyon : Guide Complet & Comparatif | 2025'
+meta_description: >-
+  Guide garde-meuble Lyon : Tarifs, volumes, durées. Comparatif solutions
+  stockage. Conseils choix box adapté. Informations détaillées pour votre
+  projet.
+slug: stockage-pendant-demenagement-lyon
+category: garde-meuble-lyon
+type: satellite
+pilier_parent: garde-meuble-lyon-guide-complet
 keywords:
-  - "stockage déménagement lyon"
-  - "box temporaire lyon"
-  - "garde meuble temporaire"
+  - stockage déménagement lyon
+  - box temporaire lyon
+  - garde meuble temporaire
 word_count: 1200
-publish_date: "2025-10-16"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-16'
+author: Équipe Moverz Lyon
 ---
 
 # Stockage Pendant Déménagement Lyon : Solutions Temporaires 1-3 Mois

@@ -1,18 +1,21 @@
 ---
-title: "Manutention Escaliers Spécifique Lyon : Vieux-Lyon Croix-Rousse"
-meta_title: "Manutention Escaliers Lyon | Vieux-Lyon Traboules +20%"
-meta_description: "Manutention escaliers Lyon : Vieux-Lyon colimaçons 70cm + traboules, Croix-Rousse pentes. Surcoût +20-30%, techniques pros adaptées."
-slug: "manutention-escaliers-specifique-lyon"
-category: "aide-demenagement-lyon"
-type: "satellite"
-pilier_parent: "aide-demenagement-lyon"
+title: 'Manutention Escaliers Spécifique Lyon : Vieux-Lyon Croix-Rousse'
+meta_title: 'Aide au Déménagement Lyon : Guide Complet & Astuces | 2025'
+meta_description: >-
+  Guide complet déménagement Lyon : Checklist, organisation, emballage,
+  transport. Conseils pratiques étape par étape. Évitez les erreurs courantes.
+  Guide expert.
+slug: manutention-escaliers-specifique-lyon
+category: aide-demenagement-lyon
+type: satellite
+pilier_parent: aide-demenagement-lyon
 keywords:
-  - "escaliers vieux lyon"
-  - "traboules lyon"
-  - "croix rousse escaliers"
+  - escaliers vieux lyon
+  - traboules lyon
+  - croix rousse escaliers
 word_count: 700
-publish_date: "2025-10-18"
-author: "Équipe Moverz Lyon"
+publish_date: '2025-10-18'
+author: Équipe Moverz Lyon
 ---
 
 # Manutention Escaliers Spécifique Lyon : Vieux-Lyon Croix-Rousse
