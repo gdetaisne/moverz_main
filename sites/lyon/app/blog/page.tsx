@@ -11,14 +11,14 @@ import { env } from '@/lib/env';
 const city = getCityDataFromUrl(env.SITE_URL);
 
 export const metadata: Metadata = {
-  title: `Blog Déménagement ${city.nameCapitalized} - Guides & Conseils Experts | Moverz`,
-  description: `Guides complets et conseils d'experts pour réussir votre déménagement à ${city.nameCapitalized}. Astuces budget, checklist, comparatifs, conseils pratiques. Articles rédigés par des professionnels.`,
+  title: `Blog Déménagement ${city.nameCapitalized} 2025 : Guides & Conseils Experts | Moverz`,
+  description: `Guides complets déménagement ${city.nameCapitalized} 2025 : Prix, astuces, checklist. 99+ articles experts. Comparez 5 devis gratuits en 7j. Conseils pratiques pour réussir votre projet.`,
   alternates: {
     canonical: getCanonicalUrl('blog'),
   },
   openGraph: {
-    title: `Blog Déménagement ${city.nameCapitalized} - Tous nos guides pratiques`,
-    description: `Conseils d'experts, guides détaillés et astuces pour déménager sereinement à ${city.nameCapitalized}.`,
+    title: `Blog Déménagement ${city.nameCapitalized} 2025 - Tous nos guides pratiques`,
+    description: `Guides complets déménagement ${city.nameCapitalized} 2025 : Prix, astuces, checklist. 99+ articles experts. Comparez 5 devis gratuits en 7j.`,
     url: getCanonicalUrl('blog'),
     type: 'website',
   },
