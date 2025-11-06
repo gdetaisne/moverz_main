@@ -16,6 +16,7 @@ const CATEGORY_MAPPING = {
   'devis-demenagement': 'devis',
   'garde-meuble': 'garde-meuble',
   'prix-demenagement': 'prix',
+  'prix-demenagement-lyon': 'prix', // Mapping pour dossier prix-demenagement-lyon
   'piliers': 'general',
   'satellites': 'conseils',
   // Gestion des catégories avec espaces (fallback)
@@ -123,8 +124,9 @@ export function getAllBlogPosts(): BlogPost[] {
 
       const originalSlug = data.slug || file.replace('.md', '');
       
-      // Utiliser la catégorie du frontmatter ou extraire du chemin
-      const category = data.category || extractCategoryFromPath(filePath);
+      // Utiliser le nom du dossier comme source de vérité (pour routing Next.js)
+      // Le frontmatter category peut être différent (ex: demenagement-lyon vs prix-demenagement-lyon)
+      const category = extractCategoryFromPath(filePath) || data.category;
       const cleanCategorySlug = cleanSlug(originalSlug, category);
       const cleanCategory = CATEGORY_MAPPING[category as keyof typeof CATEGORY_MAPPING] || category;
 
