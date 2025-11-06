@@ -111,7 +111,7 @@ export default function BlogPage() {
             </div>
 
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight mb-6 text-white">
-              Guides Déménagement <span className="text-[#6bcfcf]">Marseille</span>
+              Guides Déménagement <span className="text-[#6bcfcf]">{city.nameCapitalized}</span>
             </h1>
             <p className="text-xl md:text-2xl text-white/90 max-w-3xl mx-auto font-light">
               Conseils d'experts, astuces pratiques et guides complets pour un déménagement réussi
