@@ -170,25 +170,11 @@ export default function Header() {
           </div>
 
           <Link 
-            href="/partenaires" 
-            className="hover:text-brand-secondary transition-colors"
-            onClick={() => trackClick('partenaires')}
-          >
-            Partenaires
-          </Link>
-          <Link 
             href="/blog" 
             className="hover:text-brand-secondary transition-colors"
             onClick={() => trackClick('blog')}
           >
             Blog
-          </Link>
-          <Link 
-            href="/faq" 
-            className="hover:text-brand-secondary transition-colors"
-            onClick={() => trackClick('faq')}
-          >
-            FAQ
           </Link>
         </nav>
 
@@ -268,39 +254,17 @@ export default function Header() {
               </div>
             </div>
 
-            {/* Autres liens */}
-            <div className="space-y-2">
-              <Link
-                href="/partenaires"
-                className="block text-sm font-semibold text-gray-800 hover:text-gray-600 transition-colors"
-                onClick={() => {
-                  setIsMobileMenuOpen(false);
-                  trackClick('mobile-partenaires');
-                }}
-              >
-                Partenaires
-              </Link>
-              <Link
-                href="/blog"
-                className="block text-sm font-semibold text-gray-800 hover:text-gray-600 transition-colors"
-                onClick={() => {
-                  setIsMobileMenuOpen(false);
-                  trackClick('mobile-blog');
-                }}
-              >
-                Blog
-              </Link>
-              <Link
-                href="/faq"
-                className="block text-sm font-semibold text-gray-800 hover:text-gray-600 transition-colors"
-                onClick={() => {
-                  setIsMobileMenuOpen(false);
-                  trackClick('mobile-faq');
-                }}
-              >
-                FAQ
-              </Link>
-            </div>
+            {/* Blog */}
+            <Link
+              href="/blog"
+              className="block text-sm font-semibold text-gray-800 hover:text-gray-600 transition-colors"
+              onClick={() => {
+                setIsMobileMenuOpen(false);
+                trackClick('mobile-blog');
+              }}
+            >
+              Blog
+            </Link>
 
             {/* CTA Mobile */}
             <div className="pt-4 border-t border-gray-200">
