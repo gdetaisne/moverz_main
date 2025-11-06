@@ -16,12 +16,12 @@
 
 | Tâche | Fichiers | Status |
 |-------|----------|--------|
-| P1-006-SEO-migration-canonicals-100% (Canonicals) | 6 | ✅ Complet |
-| P2-009-SEO-amelioration-70% (SEO Schema) | 6 | ✅ Complet |
+| P1-006-SEO-migration-canonicals-termine (Canonicals) | 6 | ✅ Complet |
+| P2-009-SEO-amelioration-en-cours (SEO Schema) | 6 | ✅ Complet |
 | TASK-011 (Fix 308 Nice) | 6 | ✅ Complet |
-| P1-012-SEO-villes-hardcodees-50% (Villes hardcodées) | 6 | ✅ Complet |
-| P2-013-SEO-internal-linking-homepage-75% (Internal linking) | 6 | ✅ Complet |
-| P2-014-Metadata-optimisation-100% (Metadata) | 6 | ✅ Complet |
+| P1-012-SEO-villes-hardcodees-en-cours (Villes hardcodées) | 6 | ✅ Complet |
+| P2-013-SEO-internal-linking-homepage-en-cours (Internal linking) | 6 | ✅ Complet |
+| P2-014-Metadata-optimisation-termine (Metadata) | 6 | ✅ Complet |
 | TASK-404-01 (Audit 404) | 16 | ✅ Complet |
 
 **Total** : 7 tâches × 6+ fichiers = **52 fichiers documentation**
@@ -46,12 +46,12 @@ Chaque tâche contient :
 
 ### EN COURS (6 tâches)
 
-1. **P1-006-SEO-migration-canonicals-100%** : Migration Canonicals (95% fait, 2h30 restant)
+1. **P1-006-SEO-migration-canonicals-termine** : Migration Canonicals (95% fait, 2h30 restant)
    - 6 fichiers ✅
    - 15+ commits documentés
    - Bugs résiduels identifiés (4)
 
-2. **P2-009-SEO-amelioration-70%** : SEO Schema + Wording (70% fait, 3h restant)
+2. **P2-009-SEO-amelioration-en-cours** : SEO Schema + Wording (70% fait, 3h restant)
    - 6 fichiers ✅
    - 10 commits documentés
    - Rich Results Test à faire
@@ -61,17 +61,17 @@ Chaque tâche contient :
    - 5 commits documentés
    - Tests deployment à valider
 
-4. **P1-012-SEO-villes-hardcodees-50%** : Villes hardcodées (85% fait, 45min restant)
+4. **P1-012-SEO-villes-hardcodees-en-cours** : Villes hardcodées (85% fait, 45min restant)
    - 6 fichiers ✅
    - 5 commits documentés
    - Tests 2 villes à faire
 
-5. **P2-013-SEO-internal-linking-homepage-75%** : Internal linking (75% fait, 1h30 restant)
+5. **P2-013-SEO-internal-linking-homepage-en-cours** : Internal linking (75% fait, 1h30 restant)
    - 6 fichiers ✅
    - 2 commits documentés
    - Screaming Frog à analyser
 
-6. **P2-014-Metadata-optimisation-100%** : Metadata SEO (80% fait, 1h restant)
+6. **P2-014-Metadata-optimisation-termine** : Metadata SEO (80% fait, 1h restant)
    - 6 fichiers ✅
    - 5 commits documentés
    - Validation SERP à faire

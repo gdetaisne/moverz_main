@@ -701,5 +701,5 @@ Si 1+ réponse problématique :
 ---
 
 *Créé le : 2025-11-02*  
-*Basé sur analyse bugs récurrents P1-006-SEO-migration-canonicals-100%, P1-012-SEO-villes-hardcodees-50%, projet 404*
+*Basé sur analyse bugs récurrents P1-006-SEO-migration-canonicals-termine, P1-012-SEO-villes-hardcodees-en-cours, projet 404*
 

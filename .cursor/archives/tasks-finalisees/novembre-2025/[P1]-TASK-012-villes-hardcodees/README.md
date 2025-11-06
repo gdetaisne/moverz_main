@@ -1,4 +1,4 @@
-# P1-012-SEO-villes-hardcodees-50% : Correction Global Villes Hardcodées
+# P1-012-SEO-villes-hardcodees-en-cours : Correction Global Villes Hardcodées
 
 **Type** : Bugfix / Refactor  
 **Priorité** : P1  

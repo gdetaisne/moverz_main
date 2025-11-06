@@ -55,7 +55,7 @@ node .cursor/scripts/check-incomplete-tasks.mjs
 ⚠️ ATTENTION : Tu as des tâches INCOMPLET en attente !
 
 📊 2 tâche(s) en pause :
-1. P1-006-SEO-migration-canonicals-100%
+1. P1-006-SEO-migration-canonicals-termine
 2. TASK-011
 
 💡 RAPPEL : Les tâches INCOMPLET sont TOUJOURS prioritaires

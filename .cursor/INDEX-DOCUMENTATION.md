@@ -654,12 +654,12 @@ Marseille : Z leads/mois
 
 ```
 🔄 7 tâches à 70-95% complètes
-- P1-006-SEO-migration-canonicals-100% : Canonicals (95%, bugs résiduels)
+- P1-006-SEO-migration-canonicals-termine : Canonicals (95%, bugs résiduels)
 - TASK-011 : Fix 308 Nice (90%)
-- P1-012-SEO-villes-hardcodees-50% : Villes hardcodées (85%)
-- P2-009-SEO-amelioration-70% : Schema.org (70%)
-- P2-013-SEO-internal-linking-homepage-75% : Internal linking (75%)
-- P2-014-Metadata-optimisation-100% : Metadata SEO (80%)
+- P1-012-SEO-villes-hardcodees-en-cours : Villes hardcodées (85%)
+- P2-009-SEO-amelioration-en-cours : Schema.org (70%)
+- P2-013-SEO-internal-linking-homepage-en-cours : Internal linking (75%)
+- P2-014-Metadata-optimisation-termine : Metadata SEO (80%)
 ```
 
 ### Projet 404

@@ -61,7 +61,7 @@
 
 ---
 
-### P1-012-SEO-villes-hardcodees-50% : Correction Global Villes Hardcodées
+### P1-012-SEO-villes-hardcodees-en-cours : Correction Global Villes Hardcodées
 
 **Statut** : 🔄 EN COURS (85% fait)  
 **Effort restant** : 2-3h (tests 2+ villes)  
@@ -121,7 +121,7 @@
 
 ---
 
-### P1-006-SEO-migration-canonicals-100% : Migration Canonicals Complète - 11 villes (1407 pages)
+### P1-006-SEO-migration-canonicals-termine : Migration Canonicals Complète - 11 villes (1407 pages)
 
 **Statut** : 🔄 EN COURS (90% fait)  
 **Effort restant** : 2-3h (tests live manuels)  
@@ -152,7 +152,7 @@
 
 ---
 
-### P2-014-Metadata-optimisation-100% : Optimisation Métadonnées SEO - 11 villes
+### P2-014-Metadata-optimisation-termine : Optimisation Métadonnées SEO - 11 villes
 
 **Statut** : 🔄 EN COURS (80% fait)  
 **Effort restant** : 3-4h (validation SERP, tests)  
@@ -182,7 +182,7 @@
 
 ---
 
-### P2-013-SEO-internal-linking-homepage-75% : Optimisation Internal Linking → Push Homepage
+### P2-013-SEO-internal-linking-homepage-en-cours : Optimisation Internal Linking → Push Homepage
 
 **Statut** : 🔄 EN COURS (75% fait)  
 **Effort restant** : 4-5h (analyse maillage Screaming Frog)  
@@ -211,7 +211,7 @@
 
 ---
 
-### P2-009-SEO-amelioration-70% : Amélioration SEO - Schema.org + Wording
+### P2-009-SEO-amelioration-en-cours : Amélioration SEO - Schema.org + Wording
 
 **Statut** : 🔄 EN COURS (70% fait)  
 **Effort restant** : 5-6h (validation Rich Results, tests)  
@@ -289,13 +289,13 @@ ACTION : "Cursor, je finalise TASK-011"
 IMPACT ATTENDU : +restauration trafic Nice immédiat
 ```
 
-#### 🔴 PRIORITÉ #2 : P1-012-SEO-villes-hardcodees-50% - Villes hardcodées (2-3h)
+#### 🔴 PRIORITÉ #2 : P1-012-SEO-villes-hardcodees-en-cours - Villes hardcodées (2-3h)
 ```
 Impact SEO : 7/10 court terme
 ROI : 2.8 (TRÈS ÉLEVÉ)
 Urgence : P1 (signaux incohérents Google)
 
-ACTION : "Cursor, je finalise P1-012-SEO-villes-hardcodees-50%"
+ACTION : "Cursor, je finalise P1-012-SEO-villes-hardcodees-en-cours"
 → Tester 2+ villes (zéro hardcodé)
 → Vérifier metadata dynamiques correctes
 → Marquer finalisé
@@ -317,13 +317,13 @@ ACTION : "Cursor, je finalise TASK-007"
 IMPACT ATTENDU : +PageRank conservé, −404s, +crawl budget
 ```
 
-#### 🟠 PRIORITÉ #4 : P1-006-SEO-migration-canonicals-100% - Canonicals (2-3h)
+#### 🟠 PRIORITÉ #4 : P1-006-SEO-migration-canonicals-termine - Canonicals (2-3h)
 ```
 Impact SEO : 8.5/10 moyen/long terme
 ROI : 3.4 (TRÈS ÉLEVÉ)
 Urgence : P1 (consolidation PageRank)
 
-ACTION : "Cursor, je finalise P1-006-SEO-migration-canonicals-100%"
+ACTION : "Cursor, je finalise P1-006-SEO-migration-canonicals-termine"
 → Tests live Nice + Marseille (canonicals)
 → Vérifier trailing slash partout
 → Marquer finalisé
@@ -331,13 +331,13 @@ ACTION : "Cursor, je finalise P1-006-SEO-migration-canonicals-100%"
 IMPACT ATTENDU : +15-20% positions (J+30), ROI +300%
 ```
 
-#### 🟡 PRIORITÉ #5 : P2-014-Metadata-optimisation-100% - Metadata (3-4h)
+#### 🟡 PRIORITÉ #5 : P2-014-Metadata-optimisation-termine - Metadata (3-4h)
 ```
 Impact SEO : 8/10 court/moyen terme
 ROI : 2.3 (TRÈS ÉLEVÉ)
 Urgence : P2 (CTR)
 
-ACTION : "Cursor, je finalise P2-014-Metadata-optimisation-100%"
+ACTION : "Cursor, je finalise P2-014-Metadata-optimisation-termine"
 → Validation SERP (Search Console)
 → Tester metadata 2 villes
 → Marquer finalisé
@@ -345,13 +345,13 @@ ACTION : "Cursor, je finalise P2-014-Metadata-optimisation-100%"
 IMPACT ATTENDU : +10-15% CTR (titles optimisés)
 ```
 
-#### 🟡 PRIORITÉ #6 : P2-013-SEO-internal-linking-homepage-75% - Internal linking (4-5h)
+#### 🟡 PRIORITÉ #6 : P2-013-SEO-internal-linking-homepage-en-cours - Internal linking (4-5h)
 ```
 Impact SEO : 7.5/10 moyen/long terme
 ROI : 1.7 (ÉLEVÉ)
 Urgence : P2 (distribution PageRank)
 
-ACTION : "Cursor, je finalise P2-013-SEO-internal-linking-homepage-75%"
+ACTION : "Cursor, je finalise P2-013-SEO-internal-linking-homepage-en-cours"
 → Analyse Screaming Frog (maillage)
 → Vérifier liens homepage OK
 → Marquer finalisé
@@ -365,13 +365,13 @@ IMPACT ATTENDU : +autorité homepage, +positions pages money
 
 **Total : 5-6h**
 
-#### 🟡 PRIORITÉ #7 : P2-009-SEO-amelioration-70% - Schema.org (5-6h)
+#### 🟡 PRIORITÉ #7 : P2-009-SEO-amelioration-en-cours - Schema.org (5-6h)
 ```
 Impact SEO : 6.5/10 moyen terme
 ROI : 1.2 (ÉLEVÉ)
 Urgence : P2 (rich snippets)
 
-ACTION : "Cursor, je finalise P2-009-SEO-amelioration-70%"
+ACTION : "Cursor, je finalise P2-009-SEO-amelioration-en-cours"
 → Validation Rich Results Test (Google)
 → Tester wording 2 villes
 → Marquer finalisé
@@ -406,12 +406,12 @@ IMPACT ATTENDU : +40-50% trafic (J+90+), 100% 404 résolus
 | Priorité | Tâche | Effort | Impact SEO | ROI | Statut |
 |----------|-------|--------|------------|-----|--------|
 | **#1** 🔴 | TASK-011 (308 Nice) | 1-2h | 9/10 | **4.5** ⭐⭐⭐ | 90% |
-| **#2** 🔴 | P1-012-SEO-villes-hardcodees-50% (Hardcodées) | 2-3h | 7/10 | **2.8** ⭐⭐⭐ | 85% |
+| **#2** 🔴 | P1-012-SEO-villes-hardcodees-en-cours (Hardcodées) | 2-3h | 7/10 | **2.8** ⭐⭐⭐ | 85% |
 | **#3** 🟠 | TASK-007 (Redirections) | 3-4h | 8.5/10 | **2.4** ⭐⭐⭐ | 80% |
-| **#4** 🟠 | P1-006-SEO-migration-canonicals-100% (Canonicals) | 2-3h | 8.5/10 | **3.4** ⭐⭐⭐ | 90% |
-| **#5** 🟡 | P2-014-Metadata-optimisation-100% (Metadata) | 3-4h | 8/10 | **2.3** ⭐⭐⭐ | 80% |
-| **#6** 🟡 | P2-013-SEO-internal-linking-homepage-75% (Internal link) | 4-5h | 7.5/10 | **1.7** ⭐⭐ | 75% |
-| **#7** 🟡 | P2-009-SEO-amelioration-70% (Schema) | 5-6h | 6.5/10 | **1.2** ⭐⭐ | 70% |
+| **#4** 🟠 | P1-006-SEO-migration-canonicals-termine (Canonicals) | 2-3h | 8.5/10 | **3.4** ⭐⭐⭐ | 90% |
+| **#5** 🟡 | P2-014-Metadata-optimisation-termine (Metadata) | 3-4h | 8/10 | **2.3** ⭐⭐⭐ | 80% |
+| **#6** 🟡 | P2-013-SEO-internal-linking-homepage-en-cours (Internal link) | 4-5h | 7.5/10 | **1.7** ⭐⭐ | 75% |
+| **#7** 🟡 | P2-009-SEO-amelioration-en-cours (Schema) | 5-6h | 6.5/10 | **1.2** ⭐⭐ | 70% |
 | **#8** 🟢 | TASK-001 (104 articles) | 20-30h | 7/10 | **0.28** ⭐ | 93% |
 
 ---
@@ -422,9 +422,9 @@ IMPACT ATTENDU : +40-50% trafic (J+90+), 100% 404 résolus
 
 **Jour 1-2 (8-12h)** :
 1. ✅ Finaliser TASK-011 (1-2h) → Trafic Nice restauré
-2. ✅ Finaliser P1-012-SEO-villes-hardcodees-50% (2-3h) → Signaux propres
+2. ✅ Finaliser P1-012-SEO-villes-hardcodees-en-cours (2-3h) → Signaux propres
 3. ✅ Finaliser TASK-007 (3-4h) → PageRank conservé
-4. ✅ Finaliser P1-006-SEO-migration-canonicals-100% (2-3h) → Canonicals parfaits
+4. ✅ Finaliser P1-006-SEO-migration-canonicals-termine (2-3h) → Canonicals parfaits
 
 **Impact immédiat** :
 - Trafic Nice restauré (308 → 200)
@@ -433,8 +433,8 @@ IMPACT ATTENDU : +40-50% trafic (J+90+), 100% 404 résolus
 - Architecture technique propre
 
 **Jour 3 (7-9h)** :
-5. ✅ Finaliser P2-014-Metadata-optimisation-100% (3-4h) → CTR optimisé
-6. ✅ Finaliser P2-013-SEO-internal-linking-homepage-75% (4-5h) → Homepage boostée
+5. ✅ Finaliser P2-014-Metadata-optimisation-termine (3-4h) → CTR optimisé
+6. ✅ Finaliser P2-013-SEO-internal-linking-homepage-en-cours (4-5h) → Homepage boostée
 
 **Impact court terme** :
 - CTR +10-15% (metadata optimisées)
@@ -446,7 +446,7 @@ IMPACT ATTENDU : +40-50% trafic (J+90+), 100% 404 résolus
 ### Semaine 2 : Validation + Contenu
 
 **Jour 4 (5-6h)** :
-7. ✅ Finaliser P2-009-SEO-amelioration-70% (5-6h) → Rich snippets
+7. ✅ Finaliser P2-009-SEO-amelioration-en-cours (5-6h) → Rich snippets
 
 **Impact moyen terme** :
 - Rich snippets actifs (CTR +20-30%)
@@ -466,16 +466,16 @@ IMPACT ATTENDU : +40-50% trafic (J+90+), 100% 404 résolus
 
 ### Court terme (J+1-7)
 - **Trafic Nice** : +restauration immédiate (TASK-011)
-- **CTR global** : +10-15% (P2-014-Metadata-optimisation-100% metadata)
+- **CTR global** : +10-15% (P2-014-Metadata-optimisation-termine metadata)
 - **Crawl budget** : +30-40% optimisé (TASK-007 redirections)
 
 ### Moyen terme (J+7-30)
-- **Positions** : +10-15% (P1-006-SEO-migration-canonicals-100% canonicals + P1-012-SEO-villes-hardcodees-50%)
-- **CTR** : +20-30% supplémentaires (P2-009-SEO-amelioration-70% rich snippets)
-- **PageRank homepage** : +consolidation (P2-013-SEO-internal-linking-homepage-75%)
+- **Positions** : +10-15% (P1-006-SEO-migration-canonicals-termine canonicals + P1-012-SEO-villes-hardcodees-en-cours)
+- **CTR** : +20-30% supplémentaires (P2-009-SEO-amelioration-en-cours rich snippets)
+- **PageRank homepage** : +consolidation (P2-013-SEO-internal-linking-homepage-en-cours)
 
 ### Long terme (J+30+)
-- **Positions** : +15-20% total (P1-006-SEO-migration-canonicals-100% ROI +300%)
+- **Positions** : +15-20% total (P1-006-SEO-migration-canonicals-termine ROI +300%)
 - **Trafic** : +40-50% (TASK-001 + ensemble tâches)
 - **Architecture** : Solide et scalable
 
@@ -489,25 +489,25 @@ IMPACT ATTENDU : +40-50% trafic (J+90+), 100% 404 résolus
 "Cursor, je finalise TASK-011"
 
 # Priorité #2
-"Cursor, je finalise P1-012-SEO-villes-hardcodees-50%"
+"Cursor, je finalise P1-012-SEO-villes-hardcodees-en-cours"
 
 # Priorité #3
 "Cursor, je finalise TASK-007"
 
 # Priorité #4
-"Cursor, je finalise P1-006-SEO-migration-canonicals-100%"
+"Cursor, je finalise P1-006-SEO-migration-canonicals-termine"
 
 # Priorité #5
-"Cursor, je finalise P2-014-Metadata-optimisation-100%"
+"Cursor, je finalise P2-014-Metadata-optimisation-termine"
 
 # Priorité #6
-"Cursor, je finalise P2-013-SEO-internal-linking-homepage-75%"
+"Cursor, je finalise P2-013-SEO-internal-linking-homepage-en-cours"
 ```
 
 ### Puis Phase 2 + 3
 ```bash
 # Priorité #7
-"Cursor, je finalise P2-009-SEO-amelioration-70%"
+"Cursor, je finalise P2-009-SEO-amelioration-en-cours"
 
 # Priorité #8
 "Cursor, je reprends TASK-001"

@@ -339,13 +339,13 @@ Voir `.cursor/WORKFLOWS.md` pour la liste complète des commandes pré-écrites.
 
 ### Tâche partiellement utile
 
-**Scénario** : Tu veux abandonner P1-045-Analytics-qa-ctr-100% mais une partie du code est utile.
+**Scénario** : Tu veux abandonner P1-045-Analytics-qa-ctr-termine mais une partie du code est utile.
 
 **Options** :
 1. **Extraire le code utile** :
-   - Créer P0-046-SERP-favicon-logo-100% "Refacto X" (scope réduit)
-   - Finaliser P0-046-SERP-favicon-logo-100% proprement
-   - Abandonner P1-045-Analytics-qa-ctr-100% (revert le reste)
+   - Créer P0-046-SERP-favicon-logo-termine "Refacto X" (scope réduit)
+   - Finaliser P0-046-SERP-favicon-logo-termine proprement
+   - Abandonner P1-045-Analytics-qa-ctr-termine (revert le reste)
 
 2. **Réduire le scope** :
    - Ne pas abandonner

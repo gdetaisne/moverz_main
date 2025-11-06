@@ -114,7 +114,7 @@ echo "✅ Setup terminé !"
 ### ⚠️ Alertes Détectées (Normal)
 ```
 ⚠️ 6 tâches en cours → Trop parallèle (alerte utile)
-⚠️ P1-006-SEO-migration-canonicals-100%: Fichiers manquants tests.md, decisions.md
+⚠️ P1-006-SEO-migration-canonicals-termine: Fichiers manquants tests.md, decisions.md
 ⚠️ TASK-404-01: Section Priorité manquante dans README
 ```
 
@@ -188,7 +188,7 @@ Par priorité:
 
 🚨 ACTIONS RECOMMANDÉES:
 1. Finaliser tâches EN COURS (6 → 2-3 max)
-2. Compléter P1-006-SEO-migration-canonicals-100% (tests.md, decisions.md)
+2. Compléter P1-006-SEO-migration-canonicals-termine (tests.md, decisions.md)
 3. Focus P0 avant P1/P2
 ```
 

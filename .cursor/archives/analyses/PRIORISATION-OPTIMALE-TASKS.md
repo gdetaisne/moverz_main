@@ -19,9 +19,9 @@ name: `Devis de déménagement – ${q.title} (Lille)`,  // ❌
 ```
 
 **3 TÂCHES veulent corriger ce fichier** :
-- **P1-006-SEO-migration-canonicals-100% Bug #2** : Metadata "Lille" → dynamique
-- **P1-006-SEO-migration-canonicals-100% Bug #1** : Canonical 'quartiers-lille' → dynamique
-- **P1-012-SEO-villes-hardcodees-50%** : Villes hardcodées → ⚠️ PAS encore corrigé ce fichier
+- **P1-006-SEO-migration-canonicals-termine Bug #2** : Metadata "Lille" → dynamique
+- **P1-006-SEO-migration-canonicals-termine Bug #1** : Canonical 'quartiers-lille' → dynamique
+- **P1-012-SEO-villes-hardcodees-en-cours** : Villes hardcodées → ⚠️ PAS encore corrigé ce fichier
 
 **CONFLIT** : Si fait séparément → 3 commits, travail dupliqué
 
@@ -31,20 +31,20 @@ name: `Devis de déménagement – ${q.title} (Lille)`,  // ❌
 
 | Task | Modifie | Nécessite | Bloque |
 |------|---------|-----------|--------|
-| **TASK-011** | SITE_URL deployment | - | P1-006-SEO-migration-canonicals-100% (tests Nice) |
+| **TASK-011** | SITE_URL deployment | - | P1-006-SEO-migration-canonicals-termine (tests Nice) |
 | **TASK-404-02** | cleanSlug(), CATEGORY_MAPPING | - | TASK-404-05, blog mods |
-| **P1-006-SEO-migration-canonicals-100%** | Canonicals, metadata pages | TASK-011 (Nice OK) | TASK-404-05 (trailing slash) |
-| **P1-012-SEO-villes-hardcodees-50%** | Metadata pages | - | P2-014-Metadata-optimisation-100% (metadata propre) |
-| **P2-014-Metadata-optimisation-100%** | Metadata optimization | P1-012-SEO-villes-hardcodees-50% (base propre) | - |
-| **P2-013-SEO-internal-linking-homepage-75%** | Liens internes | P1-006-SEO-migration-canonicals-100% (trailing slash) | - |
-| **P2-009-SEO-amelioration-70%** | Schema.org, wording | - (indépendant) | - |
-| **TASK-404-05** | Liens internes blog | TASK-404-02, P1-006-SEO-migration-canonicals-100% | TASK-404-06/07/08 |
+| **P1-006-SEO-migration-canonicals-termine** | Canonicals, metadata pages | TASK-011 (Nice OK) | TASK-404-05 (trailing slash) |
+| **P1-012-SEO-villes-hardcodees-en-cours** | Metadata pages | - | P2-014-Metadata-optimisation-termine (metadata propre) |
+| **P2-014-Metadata-optimisation-termine** | Metadata optimization | P1-012-SEO-villes-hardcodees-en-cours (base propre) | - |
+| **P2-013-SEO-internal-linking-homepage-en-cours** | Liens internes | P1-006-SEO-migration-canonicals-termine (trailing slash) | - |
+| **P2-009-SEO-amelioration-en-cours** | Schema.org, wording | - (indépendant) | - |
+| **TASK-404-05** | Liens internes blog | TASK-404-02, P1-006-SEO-migration-canonicals-termine | TASK-404-06/07/08 |
 
 ---
 
 ## 🔴 CONFLITS DÉTECTÉS
 
-### Conflit #1 : P1-006-SEO-migration-canonicals-100% vs P1-012-SEO-villes-hardcodees-50% (CHEVAUCHEMENT RÉEL)
+### Conflit #1 : P1-006-SEO-migration-canonicals-termine vs P1-012-SEO-villes-hardcodees-en-cours (CHEVAUCHEMENT RÉEL)
 
 **Vérification terrain** (01/11/2025) :
 ```bash
@@ -53,21 +53,21 @@ title: "Déménagement à Lille"  ❌
 canonical: getCanonicalUrl('quartiers-lille')  ❌
 ```
 
-**Conclusion** : **P1-012-SEO-villes-hardcodees-50% N'A PAS corrigé ce fichier** (seulement services/contact)
+**Conclusion** : **P1-012-SEO-villes-hardcodees-en-cours N'A PAS corrigé ce fichier** (seulement services/contact)
 
 **Fichiers chevauchement** :
-- `quartiers-toulouse/page.tsx` (P1-006-SEO-migration-canonicals-100% Bug #1+#2 + P1-012-SEO-villes-hardcodees-50%)
-- `notre-offre/page.tsx` (P1-006-SEO-migration-canonicals-100% Bug #2 potentiel)
-- `inventaire-ia/layout.tsx` (P1-006-SEO-migration-canonicals-100% Bug #2 potentiel)
+- `quartiers-toulouse/page.tsx` (P1-006-SEO-migration-canonicals-termine Bug #1+#2 + P1-012-SEO-villes-hardcodees-en-cours)
+- `notre-offre/page.tsx` (P1-006-SEO-migration-canonicals-termine Bug #2 potentiel)
+- `inventaire-ia/layout.tsx` (P1-006-SEO-migration-canonicals-termine Bug #2 potentiel)
 - Autres layouts/pages (6+ fichiers Toulouse)
 
 **IMPACT** : 10+ fichiers modifiés par 2 tâches différentes
 
 **SOLUTION** :
 ```
-Option A : P1-006-SEO-migration-canonicals-100% + P1-012-SEO-villes-hardcodees-50% en 1 commit fusionné
-Option B : P1-012-SEO-villes-hardcodees-50% d'abord (finaliser), puis P1-006-SEO-migration-canonicals-100% complète
-Option C : P1-006-SEO-migration-canonicals-100% complète d'abord, skip P1-012-SEO-villes-hardcodees-50% (déjà fait conceptuellement)
+Option A : P1-006-SEO-migration-canonicals-termine + P1-012-SEO-villes-hardcodees-en-cours en 1 commit fusionné
+Option B : P1-012-SEO-villes-hardcodees-en-cours d'abord (finaliser), puis P1-006-SEO-migration-canonicals-termine complète
+Option C : P1-006-SEO-migration-canonicals-termine complète d'abord, skip P1-012-SEO-villes-hardcodees-en-cours (déjà fait conceptuellement)
 ```
 
 **RECOMMANDATION** : **Option A** (fusionner, 1 commit)
@@ -94,22 +94,22 @@ Après : /blog/category/guide  (préfixe retiré correctement)
 ```
 
 **TÂCHES IMPACTÉES** :
-- **P2-013-SEO-internal-linking-homepage-75%** : Liens internes déjà optimisés → Peuvent casser si URLs changent
+- **P2-013-SEO-internal-linking-homepage-en-cours** : Liens internes déjà optimisés → Peuvent casser si URLs changent
 - **TASK-404-05** : Va corriger liens blog → DOIT utiliser nouvelles URLs
 
 **SOLUTION** : 
 1. TASK-404-02 EN PREMIER
 2. Vérifier si URLs changent (comparer avant/après)
 3. Si changent → Créer redirections 301 temporaires
-4. Puis P2-013-SEO-internal-linking-homepage-75% validation + TASK-404-05
+4. Puis P2-013-SEO-internal-linking-homepage-en-cours validation + TASK-404-05
 
-**ORDRE CRITIQUE** : **TASK-404-02 → P2-013-SEO-internal-linking-homepage-75% → TASK-404-05**
+**ORDRE CRITIQUE** : **TASK-404-02 → P2-013-SEO-internal-linking-homepage-en-cours → TASK-404-05**
 
 ---
 
 ### Conflit #3 : Trailing slash partout
 
-**P1-006-SEO-migration-canonicals-100%** : Ajoute trailing slash sur 1407 pages
+**P1-006-SEO-migration-canonicals-termine** : Ajoute trailing slash sur 1407 pages
 ```typescript
 canonical: getCanonicalUrl('quartiers-nice')
 // → https://devis-demenageur-nice.fr/quartiers-nice/
@@ -128,7 +128,7 @@ canonical: getCanonicalUrl('quartiers-nice')
 
 **SOLUTION** : TASK-404-05 doit ajouter trailing slash dans corrections
 
-**ORDRE CRITIQUE** : **P1-006-SEO-migration-canonicals-100% AVANT TASK-404-05** (définir standard)
+**ORDRE CRITIQUE** : **P1-006-SEO-migration-canonicals-termine AVANT TASK-404-05** (définir standard)
 
 ---
 
@@ -144,11 +144,11 @@ curl -I https://devis-demenageur-nice.fr/services/demenagement-standard-nice/
 ```
 
 **Pourquoi en #1** :
-- Bloque tests P1-006-SEO-migration-canonicals-100% (Nice doit être accessible)
+- Bloque tests P1-006-SEO-migration-canonicals-termine (Nice doit être accessible)
 - Quick win (juste tests, code déjà fait)
 - P0 (critique)
 
-**Débloque** : P1-006-SEO-migration-canonicals-100%
+**Débloque** : P1-006-SEO-migration-canonicals-termine
 
 ---
 
@@ -179,10 +179,10 @@ cd sites/lyon && pnpm build
 
 **P2.1 - Audit chevauchements** (15 min)
 ```bash
-# Lister fichiers touchés P1-006-SEO-migration-canonicals-100%
+# Lister fichiers touchés P1-006-SEO-migration-canonicals-termine
 grep -l "quartiers-lille\|Déménagement à Lille" sites/*/app/**/*.tsx
 
-# Lister fichiers touchés P1-012-SEO-villes-hardcodees-50%  
+# Lister fichiers touchés P1-012-SEO-villes-hardcodees-en-cours  
 # (déjà faits : services/contact)
 # (manquants : quartiers, layouts)
 
@@ -192,7 +192,7 @@ grep -l "quartiers-lille\|Déménagement à Lille" sites/*/app/**/*.tsx
 
 ---
 
-**P2.2 - P1-006-SEO-migration-canonicals-100% + P1-012-SEO-villes-hardcodees-50% FUSIONNÉS** (2h)
+**P2.2 - P1-006-SEO-migration-canonicals-termine + P1-012-SEO-villes-hardcodees-en-cours FUSIONNÉS** (2h)
 
 **Stratégie** : 1 session, corrections groupées, 1 commit final
 
@@ -269,7 +269,7 @@ done
 
 **Commit unique** (10 min)
 ```
-fix(all): P1-006-SEO-migration-canonicals-100% + P1-012-SEO-villes-hardcodees-50% - Corrections metadata complètes
+fix(all): P1-006-SEO-migration-canonicals-termine + P1-012-SEO-villes-hardcodees-en-cours - Corrections metadata complètes
 
 Bugs corrigés :
 - Quartiers canonical hardcodé "lille" (9 villes)
@@ -286,13 +286,13 @@ Fichiers modifiés :
 
 Total : ~70 fichiers
 
-P1-006-SEO-migration-canonicals-100% : ✅ Bugs #1, #2, #3, #4 corrigés
-P1-012-SEO-villes-hardcodees-50% : ✅ Tests validés
+P1-006-SEO-migration-canonicals-termine : ✅ Bugs #1, #2, #3, #4 corrigés
+P1-012-SEO-villes-hardcodees-en-cours : ✅ Tests validés
 ```
 
 ---
 
-**P2.3 - P1-012-SEO-villes-hardcodees-50% tests finaux** (15 min)
+**P2.3 - P1-012-SEO-villes-hardcodees-en-cours tests finaux** (15 min)
 
 **Inclus dans P2.2** (tests déjà faits)
 
@@ -301,15 +301,15 @@ Juste valider :
 - [x] Bordeaux : Zéro hardcodé
 - [x] Metadata dynamiques fonctionnent
 
-**Finaliser P1-012-SEO-villes-hardcodees-50%** : ✅
+**Finaliser P1-012-SEO-villes-hardcodees-en-cours** : ✅
 
 ---
 
 ### PHASE 3 : METADATA OPTIMIZATION (30 min) 📊
 
-**P3.1 - P2-014-Metadata-optimisation-100% validation** (30 min)
+**P3.1 - P2-014-Metadata-optimisation-termine validation** (30 min)
 
-**Nécessite** : P1-006-SEO-migration-canonicals-100% + P1-012-SEO-villes-hardcodees-50% terminées (metadata propre)
+**Nécessite** : P1-006-SEO-migration-canonicals-termine + P1-012-SEO-villes-hardcodees-en-cours terminées (metadata propre)
 
 **Actions** :
 ```bash
@@ -325,10 +325,10 @@ curl -s https://devis-demenageur-marseille.fr/services/demenagement-standard-mar
 ```
 
 **Si modifications nécessaires** : Commit séparé  
-**Sinon** : Juste validation → Finaliser P2-014-Metadata-optimisation-100% ✅
+**Sinon** : Juste validation → Finaliser P2-014-Metadata-optimisation-termine ✅
 
 **Pourquoi en #3** :
-- Nécessite metadata de base propres (P1-006-SEO-migration-canonicals-100%/P1-012-SEO-villes-hardcodees-50%)
+- Nécessite metadata de base propres (P1-006-SEO-migration-canonicals-termine/P1-012-SEO-villes-hardcodees-en-cours)
 - Indépendant après ça
 - Validation rapide
 
@@ -336,9 +336,9 @@ curl -s https://devis-demenageur-marseille.fr/services/demenagement-standard-mar
 
 ### PHASE 4 : SEO & LINKING (3h30) 📈
 
-**P4.1 - P2-013-SEO-internal-linking-homepage-75% validation** (1h30)
+**P4.1 - P2-013-SEO-internal-linking-homepage-en-cours validation** (1h30)
 
-**Nécessite** : P1-006-SEO-migration-canonicals-100% terminée (canonicals avec trailing slash définis)
+**Nécessite** : P1-006-SEO-migration-canonicals-termine terminée (canonicals avec trailing slash définis)
 
 **Actions** :
 ```bash
@@ -349,7 +349,7 @@ curl -s https://devis-demenageur-marseille.fr/services/demenagement-standard-mar
 # Analyser :
 # - Distribution PageRank interne
 # - Liens vers homepage (optimisation OK ?)
-# - Trailing slash cohérent (P1-006-SEO-migration-canonicals-100%)
+# - Trailing slash cohérent (P1-006-SEO-migration-canonicals-termine)
 # - Aucun lien cassé (vérif baseline avant TASK-404-05)
 
 # Export rapport
@@ -357,7 +357,7 @@ screaming-frog-nice-internal-linking.csv
 ```
 
 **Pourquoi en #4.1** :
-- Nécessite canonicals/trailing slash stables (P1-006-SEO-migration-canonicals-100%)
+- Nécessite canonicals/trailing slash stables (P1-006-SEO-migration-canonicals-termine)
 - Établit baseline maillage AVANT corrections massives TASK-404-05
 - Indépendant du blog (pas de conflit)
 
@@ -391,14 +391,14 @@ screaming-frog-nice-internal-linking.csv
 
 **Pourquoi en #4.2** :
 - cleanSlug() déjà fait (Phase 1), juste finir
-- Nécessite P1-006-SEO-migration-canonicals-100% terminée (trailing slash défini)
+- Nécessite P1-006-SEO-migration-canonicals-termine terminée (trailing slash défini)
 - **BLOQUE TASK-404-05** (structure finale blog)
 
 **Finaliser TASK-404-02** : ✅
 
 ---
 
-**P4.3 - P2-009-SEO-amelioration-70% validation** (1h) ← **Peut être PARALLÈLE**
+**P4.3 - P2-009-SEO-amelioration-en-cours validation** (1h) ← **Peut être PARALLÈLE**
 
 **Nécessite** : Rien (indépendant)
 
@@ -426,7 +426,7 @@ https://devis-demenageur-marseille.fr/
 - Peut être fait par Lucie pendant que Guillaume fait P4.1-P4.2
 - Pas de conflit fichiers
 
-**Finaliser P2-009-SEO-amelioration-70%** : ✅
+**Finaliser P2-009-SEO-amelioration-en-cours** : ✅
 
 ---
 
@@ -440,8 +440,8 @@ https://devis-demenageur-marseille.fr/
 
 **P5.3 - TASK-404-05** : Correction 963 liens (4-6h)
 - **Nécessite** : TASK-404-02 (structure blog finale)
-- **Nécessite** : P1-006-SEO-migration-canonicals-100% (trailing slash défini)
-- **Nécessite** : P2-013-SEO-internal-linking-homepage-75% (baseline maillage)
+- **Nécessite** : P1-006-SEO-migration-canonicals-termine (trailing slash défini)
+- **Nécessite** : P2-013-SEO-internal-linking-homepage-en-cours (baseline maillage)
 
 **P5.4 - TASK-404-06 à 09** : Suite projet 404
 
@@ -463,9 +463,9 @@ https://devis-demenageur-marseille.fr/
 ### SESSION 2 : METADATA UNIFIÉE (2h30) - DEMAIN APRÈS-MIDI
 
 ```
-14h00-14h15 : Audit chevauchements P1-006-SEO-migration-canonicals-100%/P1-012-SEO-villes-hardcodees-50%
-14h15-16h15 : P1-006-SEO-migration-canonicals-100% + P1-012-SEO-villes-hardcodees-50% fusionnés (1 commit)
-16h15-16h45 : P2-014-Metadata-optimisation-100% validation
+14h00-14h15 : Audit chevauchements P1-006-SEO-migration-canonicals-termine/P1-012-SEO-villes-hardcodees-en-cours
+14h15-16h15 : P1-006-SEO-migration-canonicals-termine + P1-012-SEO-villes-hardcodees-en-cours fusionnés (1 commit)
+16h15-16h45 : P2-014-Metadata-optimisation-termine validation
 ```
 
 **Résultat** : Metadata 100% propres, canonicals OK
@@ -475,9 +475,9 @@ https://devis-demenageur-marseille.fr/
 ### SESSION 3 : SEO FINAL (3h30) - JOUR SUIVANT
 
 ```
-09h00-10h30 : P2-013-SEO-internal-linking-homepage-75% (Screaming Frog)
+09h00-10h30 : P2-013-SEO-internal-linking-homepage-en-cours (Screaming Frog)
 10h30-11h30 : TASK-404-02 complet (accents, Nice)
-11h30-12h30 : P2-009-SEO-amelioration-70% validation (Rich Results)
+11h30-12h30 : P2-009-SEO-amelioration-en-cours validation (Rich Results)
 ```
 
 **Résultat** : SEO complet, structure blog finale
@@ -500,11 +500,11 @@ TASK-404-03 à 404-09 selon plan détaillé
 
 | Jour | Tâches | Temps | Problèmes |
 |------|--------|-------|-----------|
-| 1 | P1-006-SEO-migration-canonicals-100% (2h30) | 2h30 | Corrige metadata |
-| 2 | P1-012-SEO-villes-hardcodees-50% (45min) | +45min | **Re-corrige mêmes metadata** |
-| 3 | P2-014-Metadata-optimisation-100% (1h) | +1h | Teste metadata déjà testées |
-| 4 | TASK-404-02 (2h) | +2h | **Change blog → casse liens P2-013-SEO-internal-linking-homepage-75%** |
-| 5 | P2-013-SEO-internal-linking-homepage-75% refaire (1h30) | +1h30 | **Travail refait** |
+| 1 | P1-006-SEO-migration-canonicals-termine (2h30) | 2h30 | Corrige metadata |
+| 2 | P1-012-SEO-villes-hardcodees-en-cours (45min) | +45min | **Re-corrige mêmes metadata** |
+| 3 | P2-014-Metadata-optimisation-termine (1h) | +1h | Teste metadata déjà testées |
+| 4 | TASK-404-02 (2h) | +2h | **Change blog → casse liens P2-013-SEO-internal-linking-homepage-en-cours** |
+| 5 | P2-013-SEO-internal-linking-homepage-en-cours refaire (1h30) | +1h30 | **Travail refait** |
 | 6 | TASK-404-05 (5h) | +5h | - |
 | **TOTAL** | - | **13h15** | **2h travail refait** ❌ |
 
@@ -513,8 +513,8 @@ TASK-404-03 à 404-09 selon plan détaillé
 | Session | Tâches | Temps | Économie |
 |---------|--------|-------|----------|
 | 1 | TASK-011 + 404-02 partiel | 1h | - |
-| 2 | P1-006-SEO-migration-canonicals-100%+012 fusionnés + 014 | 2h30 | **-1h15** |
-| 3 | P2-013-SEO-internal-linking-homepage-75% + 404-02 final + 009 | 3h30 | **-45min** |
+| 2 | P1-006-SEO-migration-canonicals-termine+012 fusionnés + 014 | 2h30 | **-1h15** |
+| 3 | P2-013-SEO-internal-linking-homepage-en-cours + 404-02 final + 009 | 3h30 | **-45min** |
 | 4+ | TASK-404-05 à 09 | 13-23h | - |
 | **TOTAL** | - | **20-30h** | **-2h** ✅ |
 
@@ -526,7 +526,7 @@ TASK-404-03 à 404-09 selon plan détaillé
 
 ### P0 - BLOQUANT (faire EN PREMIER)
 
-1. **TASK-011** (30 min) : Tests Nice → Débloque P1-006-SEO-migration-canonicals-100%
+1. **TASK-011** (30 min) : Tests Nice → Débloque P1-006-SEO-migration-canonicals-termine
 2. **TASK-404-02 cleanSlug** (30 min) : Structure blog → Débloque blog
 
 **Total P0** : 1h
@@ -535,8 +535,8 @@ TASK-404-03 à 404-09 selon plan détaillé
 
 ### P1 - CRITIQUE (faire AVANT corrections blog/404)
 
-3. **P1-006-SEO-migration-canonicals-100% + P1-012-SEO-villes-hardcodees-50% fusionnés** (2h) : Metadata/canonicals finales
-4. **P2-014-Metadata-optimisation-100%** (30 min) : Validation metadata
+3. **P1-006-SEO-migration-canonicals-termine + P1-012-SEO-villes-hardcodees-en-cours fusionnés** (2h) : Metadata/canonicals finales
+4. **P2-014-Metadata-optimisation-termine** (30 min) : Validation metadata
 
 **Total P1** : 2h30
 
@@ -544,9 +544,9 @@ TASK-404-03 à 404-09 selon plan détaillé
 
 ### P2 - IMPORTANT (finaliser avant 404 massif)
 
-5. **P2-013-SEO-internal-linking-homepage-75%** (1h30) : Baseline maillage
+5. **P2-013-SEO-internal-linking-homepage-en-cours** (1h30) : Baseline maillage
 6. **TASK-404-02 final** (1h) : Accents, Nice
-7. **P2-009-SEO-amelioration-70%** (1h) : Rich Results (parallèle possible)
+7. **P2-009-SEO-amelioration-en-cours** (1h) : Rich Results (parallèle possible)
 
 **Total P2** : 3h30
 

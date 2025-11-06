@@ -62,7 +62,7 @@ Total tâches:          15
 
 🚨 ALERTES:
 ⚠️ 6 tâches en cours → Trop parallèle
-⚠️ P1-006-SEO-migration-canonicals-100% : Fichiers manquants (tests.md, decisions.md)
+⚠️ P1-006-SEO-migration-canonicals-termine : Fichiers manquants (tests.md, decisions.md)
 ```
 
 ### Avant commit (automatique)

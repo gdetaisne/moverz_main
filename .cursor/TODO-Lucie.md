@@ -60,7 +60,7 @@
 
 ---
 
-### [P2]-P1-048-CI-CD-anti-404-100% : Optimisation Page /services/ — Pricing + SEO ✅ COMPLÉTÉ
+### [P2]-P1-048-CI-CD-anti-404-termine : Optimisation Page /services/ — Pricing + SEO ✅ COMPLÉTÉ
 
 **Priorité** : P2 (Normal - Amélioration UX/SEO)  
 **Type** : SEO / UX / Contenu
@@ -104,14 +104,14 @@
 
 ## 🔥 EN COURS MAINTENANT
 
-### [P0]-P0-046-SERP-favicon-logo-100% : Logo SERP / Favicons — CTR Critique ✅ TECHNIQUE COMPLÉTÉ
+### [P0]-P0-046-SERP-favicon-logo-termine : Logo SERP / Favicons — CTR Critique ✅ TECHNIQUE COMPLÉTÉ
 
 **Priorité** : P0 (Business Critical)  
 **Type** : SEO / Investigation + Fix
 
 **Objectif** : Faire apparaître systématiquement le logo dans résultats Google (SERP)
 
-**Documentation** : `.cursor/tasks/P0-046-SERP-favicon-logo-100%/`
+**Documentation** : `.cursor/tasks/P0-046-SERP-favicon-logo-termine/`
 
 **Démarrée le** : 2025-11-05  
 **Complétée le** : 2025-11-05  
@@ -138,7 +138,7 @@
 
 **Next check** : 12/11/2025 (J+7) → Vérifier logo SERP
 
-**Rapport** : `.cursor/tasks/P0-046-SERP-favicon-logo-100%/RAPPORT-SESSION-05-NOV.md`
+**Rapport** : `.cursor/tasks/P0-046-SERP-favicon-logo-termine/RAPPORT-SESSION-05-NOV.md`
 
 ---
 
@@ -162,7 +162,7 @@
 
 ---
 
-### [P1]-P1-047-Wording-offre-refonte-100% : Fix "Duplicate FAQPage field" (11 sites) ✅ TECHNIQUE COMPLÉTÉ
+### [P1]-P1-047-Wording-offre-refonte-termine : Fix "Duplicate FAQPage field" (11 sites) ✅ TECHNIQUE COMPLÉTÉ
 
 **Priorité** : P1 (Important - Bloque rich snippets)  
 **Type** : SEO / Structured Data / Fix

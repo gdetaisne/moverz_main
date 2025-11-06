@@ -40,11 +40,11 @@ TASK-XXX-nom-descriptif/
 
 ### Autres tâches en cours
 - `[P0]-TASK-011-fix-308-nice/` 🔄 EN COURS (90%)
-- `P1-006-SEO-migration-canonicals-100%/` 🔄 EN COURS (95%)
-- `P1-012-SEO-villes-hardcodees-50%/` 🔄 EN COURS (85%)
-- `P2-009-SEO-amelioration-70%/` 🔄 EN COURS (70%)
-- `P2-013-SEO-internal-linking-homepage-75%/` 🔄 EN COURS (75%)
-- `P2-014-Metadata-optimisation-100%/` 🔄 EN COURS (80%)
+- `P1-006-SEO-migration-canonicals-termine/` 🔄 EN COURS (95%)
+- `P1-012-SEO-villes-hardcodees-en-cours/` 🔄 EN COURS (85%)
+- `P2-009-SEO-amelioration-en-cours/` 🔄 EN COURS (70%)
+- `P2-013-SEO-internal-linking-homepage-en-cours/` 🔄 EN COURS (75%)
+- `P2-014-Metadata-optimisation-termine/` 🔄 EN COURS (80%)
 
 ### Exemple
 - `TASK-EXAMPLE-exemple-documentation/` → Template de référence

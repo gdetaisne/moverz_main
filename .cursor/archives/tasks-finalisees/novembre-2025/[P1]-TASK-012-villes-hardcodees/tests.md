@@ -1,4 +1,4 @@
-# Tests : P1-012-SEO-villes-hardcodees-50%
+# Tests : P1-012-SEO-villes-hardcodees-en-cours
 
 **Date** : 03 novembre 2025  
 **Type** : Tests live production + Audit complet code

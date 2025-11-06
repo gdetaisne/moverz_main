@@ -39,8 +39,8 @@ Les dossiers de tâches ont maintenant un **préfixe visuel de priorité** :
 
 ### 🟠 P1 - Important (5 tâches)
 ```
-P1-006-SEO-migration-canonicals-100%
-P1-012-SEO-villes-hardcodees-50%
+P1-006-SEO-migration-canonicals-termine
+P1-012-SEO-villes-hardcodees-en-cours
 [P1]-TASK-404-03-decision-articles
 P1-404-07-404-redirections-externes-0%
 [P1]-TASK-404-08-fix-homepage
@@ -48,9 +48,9 @@ P1-404-07-404-redirections-externes-0%
 
 ### 🟡 P2 - Normal (4 tâches)
 ```
-P2-009-SEO-amelioration-70%
-P2-013-SEO-internal-linking-homepage-75%
-P2-014-Metadata-optimisation-100%
+P2-009-SEO-amelioration-en-cours
+P2-013-SEO-internal-linking-homepage-en-cours
+P2-014-Metadata-optimisation-termine
 [P2]-TASK-404-04-creation-contenu         (optionnel)
 ```
 

@@ -390,5 +390,5 @@ Plan :
 ---
 
 *Créé le : 2025-11-02*  
-*Checklist validée contre bugs récurrents P1-006-SEO-migration-canonicals-100%, P1-012-SEO-villes-hardcodees-50%, 404*
+*Checklist validée contre bugs récurrents P1-006-SEO-migration-canonicals-termine, P1-012-SEO-villes-hardcodees-en-cours, 404*
 

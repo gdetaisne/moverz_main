@@ -34,10 +34,10 @@
 
 ### 1. Création 3 nouvelles tâches LEAD GEN consolidées
 
-#### P0-LEADGEN-01-Metadata-ctr-optimisation-100% : Fix Metadata CTR (P0)
-**Fusion de** : P1-012-SEO-villes-hardcodees-50% + P2-014-Metadata-optimisation-100% + P1-039-SEO-titles-normalisation-100% + P1-040-SEO-descriptions-tier2-0% + P1-045-Analytics-qa-ctr-100%
+#### P0-LEADGEN-01-Metadata-ctr-optimisation-termine : Fix Metadata CTR (P0)
+**Fusion de** : P1-012-SEO-villes-hardcodees-en-cours + P2-014-Metadata-optimisation-termine + P1-039-SEO-titles-normalisation-termine + P1-040-SEO-descriptions-tier2-pas-commence + P1-045-Analytics-qa-ctr-termine
 
-**Localisation** : `.cursor/tasks/P0-LEADGEN-01-Metadata-ctr-optimisation-100%/`
+**Localisation** : `.cursor/tasks/P0-LEADGEN-01-Metadata-ctr-optimisation-termine/`
 
 **Fichiers créés** :
 - ✅ `README.md` (15 pages, plan complet)
@@ -68,7 +68,7 @@
 
 ---
 
-#### P0-LEADGEN-03-Analytics-monitoring-ctr-100% : Monitoring & Optimisation (P1)
+#### P0-LEADGEN-03-Analytics-monitoring-ctr-termine : Monitoring & Optimisation (P1)
 **Nouvelle tâche** monitoring continu
 
 **Localisation** : `.cursor/tasks/[P1]-TASK-LEADGEN-03-monitoring-ctr-optimisation/`
@@ -109,14 +109,14 @@
 - tests.md : Stratégie validation
 - decisions.md : Choix techniques/stratégiques
 
-**Style** : Identique aux tâches existantes (P1-012-SEO-villes-hardcodees-50%, P2-014-Metadata-optimisation-100%, TASK-031, etc.)
+**Style** : Identique aux tâches existantes (P1-012-SEO-villes-hardcodees-en-cours, P2-014-Metadata-optimisation-termine, TASK-031, etc.)
 
 ---
 
 ## 📊 ROADMAP PROPOSÉE (4 semaines)
 
 ### Semaine 1 (maintenant - 12/11)
-**Focus** : P0-LEADGEN-01-Metadata-ctr-optimisation-100% (Metadata CTR)
+**Focus** : P0-LEADGEN-01-Metadata-ctr-optimisation-termine (Metadata CTR)
 - Jour 1-2 : Finir villes hardcodées + templates
 - Jour 3 : Deploy 11 sites
 - Jour 7 : Monitoring CTR J+7
@@ -176,7 +176,7 @@
 ```
 .cursor/
 ├── tasks/
-│   ├── P0-LEADGEN-01-Metadata-ctr-optimisation-100%/
+│   ├── P0-LEADGEN-01-Metadata-ctr-optimisation-termine/
 │   │   ├── README.md (15 pages)
 │   │   ├── context.md (analyse business)
 │   │   ├── progress.md (60% déjà fait)
@@ -202,13 +202,13 @@
 ### Action immédiate (Guillaume)
 ```bash
 # Démarrer tâche prioritaire
-"Cursor, je démarre P0-LEADGEN-01-Metadata-ctr-optimisation-100%"
+"Cursor, je démarre P0-LEADGEN-01-Metadata-ctr-optimisation-termine"
 ```
 
 ### Ordre exécution
-1. **P0-LEADGEN-01-Metadata-ctr-optimisation-100%** (P0, 2 jours) → Fix metadata CTR
+1. **P0-LEADGEN-01-Metadata-ctr-optimisation-termine** (P0, 2 jours) → Fix metadata CTR
 2. **P0-LEADGEN-02-404-indexation-boost-100%** (P1, 1-2 jours) → Résoudre 404 & indexation
-3. **P0-LEADGEN-03-Analytics-monitoring-ctr-100%** (P1, 1 jour) → Setup monitoring
+3. **P0-LEADGEN-03-Analytics-monitoring-ctr-termine** (P1, 1 jour) → Setup monitoring
 
 **Total** : 4-5 jours travail → ROI +350-1 500€/mois à J+30
 
@@ -226,10 +226,10 @@
 ## 📝 NOTES
 
 **Tâches anciennes** :
-- P1-012-SEO-villes-hardcodees-50% : ✅ Fusionnée dans LEADGEN-01
-- P2-014-Metadata-optimisation-100% : ✅ Fusionnée dans LEADGEN-01
-- P1-039-SEO-titles-normalisation-100%, 040, 045 : ✅ Fusionnées dans LEADGEN-01
-- P0-046-SERP-favicon-logo-100% (Favicon) : ⏸️ Mis en pause (reprendre après LEADGEN-01)
+- P1-012-SEO-villes-hardcodees-en-cours : ✅ Fusionnée dans LEADGEN-01
+- P2-014-Metadata-optimisation-termine : ✅ Fusionnée dans LEADGEN-01
+- P1-039-SEO-titles-normalisation-termine, 040, 045 : ✅ Fusionnées dans LEADGEN-01
+- P0-046-SERP-favicon-logo-termine (Favicon) : ⏸️ Mis en pause (reprendre après LEADGEN-01)
 
 **Philosophie restructuration** :
 - Focus ROI business (leads, €€€)

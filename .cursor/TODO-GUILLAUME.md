@@ -27,14 +27,14 @@
 
 ## 🔴 PRIORITÉ ABSOLUE : 3 TÂCHES LEAD GENERATION (TOUTES P0)
 
-### [P0]-P0-LEADGEN-01-Metadata-ctr-optimisation-100% : Optimisation Metadata CTR ✅ FINALISÉ
+### [P0]-P0-LEADGEN-01-Metadata-ctr-optimisation-termine : Optimisation Metadata CTR ✅ FINALISÉ
 
 **Statut** : ✅ **COMPLET** (05/11/2025)  
 **Priorité** : P0 (critique business)  
 **Temps investi** : 6h (code + tests + deployments multiples)  
 **ROI attendu** : CTR ×4-5 = +3-5 leads/mois = +150-750€/mois  
 **Impact** : Visible J+14 (mesure crawler)  
-**Doc** : `.cursor/tasks/P0-LEADGEN-01-Metadata-ctr-optimisation-100%/`
+**Doc** : `.cursor/tasks/P0-LEADGEN-01-Metadata-ctr-optimisation-termine/`
 
 **Réalisations** :
 - ✅ 105 fichiers corrigés (43 villes hardcodées + 51 templates + 11 homepages + 13 corridors)
@@ -80,13 +80,13 @@
 
 ---
 
-### [P0]-P0-LEADGEN-03-Analytics-monitoring-ctr-100% : Monitoring & Optimisation CTR ⚡️
+### [P0]-P0-LEADGEN-03-Analytics-monitoring-ctr-termine : Monitoring & Optimisation CTR ⚡️
 
 **Statut** : 📋 PENDING (après LEADGEN-01)  
 **Priorité** : P0 (critique business)  
 **Temps estimé** : 1 jour setup + monitoring continu  
 **ROI** : Détection rapide problèmes + optimisation continue  
-**Doc** : `.cursor/tasks/P0-LEADGEN-03-Analytics-monitoring-ctr-100%/`
+**Doc** : `.cursor/tasks/P0-LEADGEN-03-Analytics-monitoring-ctr-termine/`
 
 **Objectif** :
 - Enrichir dashboard analytics (comparaison avant/après, drill-down URLs)
@@ -148,14 +148,14 @@
 
 ## 🟠 TÂCHES IMPORTANTES (P1 - Après LEADGEN-01)
 
-### [P1]-P1-047-Wording-offre-refonte-100% : Refonte Wording Offre Moverz 💬
+### [P1]-P1-047-Wording-offre-refonte-termine : Refonte Wording Offre Moverz 💬
 
 **Statut** : 📋 À FAIRE  
 **Priorité** : P1 (Important - Impact conversion directe)  
 **Temps estimé** : 6-8h  
 **ROI** : Conversion form +50-100% = +200-400 leads/mois  
 **Impact** : J+7 (dès déploiement)  
-**Doc** : `.cursor/tasks/P1-047-Wording-offre-refonte-100%/`
+**Doc** : `.cursor/tasks/P1-047-Wording-offre-refonte-termine/`
 
 **Objectif** :
 Aligner wording site (home, services, FAQ, CTA) avec vrais USP Moverz.
@@ -189,7 +189,7 @@ Aligner wording site (home, services, FAQ, CTA) avec vrais USP Moverz.
 
 **Prochaines actions** :
 ```
-"Cursor, je démarre P1-047-Wording-offre-refonte-100%"
+"Cursor, je démarre P1-047-Wording-offre-refonte-termine"
 ```
 
 **Temps investi** : 0h  
@@ -229,30 +229,30 @@ Aligner wording site (home, services, FAQ, CTA) avec vrais USP Moverz.
 
 ## 🚫 TÂCHES DÉPRIORITISÉES (à faire APRÈS LEADGEN)
 
-### P1-012-SEO-villes-hardcodees-50%, P2-014-Metadata-optimisation-100%, P1-039-SEO-titles-normalisation-100%, P1-040-SEO-descriptions-tier2-0%, P1-045-Analytics-qa-ctr-100%
-**Statut** : ✅ FUSIONNÉES dans P0-LEADGEN-01-Metadata-ctr-optimisation-100%  
+### P1-012-SEO-villes-hardcodees-en-cours, P2-014-Metadata-optimisation-termine, P1-039-SEO-titles-normalisation-termine, P1-040-SEO-descriptions-tier2-pas-commence, P1-045-Analytics-qa-ctr-termine
+**Statut** : ✅ FUSIONNÉES dans P0-LEADGEN-01-Metadata-ctr-optimisation-termine  
 **Raison** : Cohérence, éviter dispersion
 
-### [P2]-P2-023-Scripts-setup-automation-100% : Setup Scripts Automation
+### [P2]-P2-023-Scripts-setup-automation-termine : Setup Scripts Automation
 **Statut** : 📋 PENDING (P2)  
 **Raison** : Nice-to-have mais ZERO impact business/leads  
 **Temps** : 5 min  
 **Reprendre** : Quand temps libre après LEADGEN
 
-### P0-046-SERP-favicon-logo-100% : Logo SERP / Favicons
+### P0-046-SERP-favicon-logo-termine : Logo SERP / Favicons
 **Statut** : ⏸️ EN PAUSE  
 **Raison** : Impact CTR marginal (+5-10%) vs metadata (+400%)  
 **Reprendre** : Après LEADGEN-01 validé
 
-### P1-041-SEO-price-signals-0% : Price signals
+### P1-041-SEO-price-signals-pas-commence : Price signals
 **Statut** : 📋 PENDING (P2)  
 **Reprendre** : Q1 2026 si temps
 
-### P2-043-SEO-faq-rationalisation-100% : FAQ rationalisation
+### P2-043-SEO-faq-rationalisation-termine : FAQ rationalisation
 **Statut** : 📋 PENDING (P2)  
 **Reprendre** : Après LEADGEN-03, si FAQ schema.org ne performe pas
 
-### P2-044-SEO-howto-video-poc-100% : HowTo/Video
+### P2-044-SEO-howto-video-poc-termine : HowTo/Video
 **Statut** : 📋 PENDING (P2)  
 **Reprendre** : Q1 2026, nice-to-have
 
@@ -262,19 +262,19 @@ Aligner wording site (home, services, FAQ, CTA) avec vrais USP Moverz.
 
 ```bash
 # Démarrer tâche prioritaire
-"Cursor, je démarre P0-LEADGEN-01-Metadata-ctr-optimisation-100%"
+"Cursor, je démarre P0-LEADGEN-01-Metadata-ctr-optimisation-termine"
 
 # État global
 "Cursor, évalue le backlog"
 
 # Logger session
-"Cursor, log ma session pour P0-LEADGEN-01-Metadata-ctr-optimisation-100% : [fait]"
+"Cursor, log ma session pour P0-LEADGEN-01-Metadata-ctr-optimisation-termine : [fait]"
 
 # Mettre en pause
-"Cursor, je mets P0-LEADGEN-01-Metadata-ctr-optimisation-100% en pause : [raison]"
+"Cursor, je mets P0-LEADGEN-01-Metadata-ctr-optimisation-termine en pause : [raison]"
 
 # Finaliser
-"Cursor, finalise P0-LEADGEN-01-Metadata-ctr-optimisation-100%"
+"Cursor, finalise P0-LEADGEN-01-Metadata-ctr-optimisation-termine"
 ```
 
 ---

@@ -1,4 +1,4 @@
-# Commits : P1-012-SEO-villes-hardcodees-50%
+# Commits : P1-012-SEO-villes-hardcodees-en-cours
 
 ---
 
@@ -25,7 +25,7 @@
 
 ## 🔗 Tâches liées
 
-**Liée à** : P1-006-SEO-migration-canonicals-100% (Canonicals), P2-014-Metadata-optimisation-100% (Metadata)  
+**Liée à** : P1-006-SEO-migration-canonicals-termine (Canonicals), P2-014-Metadata-optimisation-termine (Metadata)  
 **Similaire** : Bug cleanSlug() TASK-404-01 (même type copy-paste)
 
 ---
@@ -54,7 +54,7 @@
 
 ## 📊 Récapitulatif Final
 
-**Total commits monorepo P1-012-SEO-villes-hardcodees-50%** : 9 commits
+**Total commits monorepo P1-012-SEO-villes-hardcodees-en-cours** : 9 commits
 - 5 commits session 30-31 octobre
 - 3 commits session 03 novembre (Toulouse, 7 sites, Lille)
 - 1 commit doc finale
