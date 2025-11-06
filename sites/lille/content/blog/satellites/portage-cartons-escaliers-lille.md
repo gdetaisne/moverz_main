@@ -19,7 +19,7 @@ Le **portage cartons escaliers Lille** coûte **10-25€ par étage** selon volu
 
 À Lille, le **portage escaliers représente 60-70% effort** petit déménagement (vs chargement/déchargement RDC 30-40%) : 20 cartons 15 kg portage bras 2ème étage = 20 A/R escaliers = **40 montées** à 30 kg (charge+retour vide) = effort **1 200 kg cumulés** sur 2h vs RDC 20 cartons = 20 portages 50m plat = effort **300 kg** sur 30 min (×4 plus difficile étages). Les **tarifs déménageurs** intègrent coefficient difficulté : RDC → 1er +15€, 1er → 2ème +20€, 2ème → 3ème +25€ (progression 5€), >3ème +30-40€/étage (difficulté exponentielle, fatigue porteurs, risque chute). Les **Lillois habitant étages** (75% logements Centre 2-5ème étage vs périphérie pavillons RDC) anticipent surcoût 40-200€ selon étage : couple 3ème étage budgète déménagement T2 1 000€ + portage 3ème 150€ = **1 150€ total** (vs RDC 1 000€, surcoût +15%).
 
-Ce guide détaille portage cartons escaliers Lille : tarifs/étage, contraintes Vieux-Lille, diables, effort physique, calcul surcoûts, conseils optimisation. Consultez notre [guide petit déménagement Lille](/blog/conseils/petit-demenagement-lille-studio-t1).
+Ce guide détaille portage cartons escaliers Lille : tarifs/étage, contraintes Vieux-Lille, diables, effort physique, calcul surcoûts, conseils optimisation. Consultez notre [guide petit déménagement Lille](/blog/petit-demenagement-lille/petit-demenagement-lille-studio-t1).
 
 ## Tarifs Portage Escaliers Par Volume
 
@@ -205,7 +205,7 @@ Techniques portage : **diable chargement** cartons lourds base (livres) + léger
 
 Optimisation : **tri avant** (réduisez cartons 60 → 40 économise 80€ portage 4ème étage), **garde-meuble RDC** temporaire (stockez 30% affaires HOMEBOX Lezennes 1 mois 100€ vs portage 4ème +180€, récupérez après installation), **ascenseur** (vérifiez disponible immeuble, réservez créneaux si copropriété), **équipe renforcée** (3-4 porteurs rotations vs 2 épuisés), **pauses obligatoires** (15 min/heure évitent accidents fatigue).
 
-Consultez notre [guide petit déménagement Lille](/blog/conseils/petit-demenagement-lille-studio-t1), notre [guide transport meubles](/blog/conseils/transport-meubles-lille-sans-demenageur), notre [guide matériel](/blog/conseils/materiel-demenagement-pas-cher-location-lille) et notre [guide déménageur Lille](/blog/demenageur-lille/demenageur-lille-expert).
+Consultez notre [guide petit déménagement Lille](/blog/petit-demenagement-lille/petit-demenagement-lille-studio-t1), notre [guide transport meubles](/blog/petit-demenagement-lille/transport-meubles-lille-sans-demenageur), notre [guide matériel](/blog/demenagement-pas-cher-lille/materiel-demenagement-pas-cher-location-lille) et notre [guide déménageur Lille](/blog/demenagement-lille/demenageur-lille-expert).
 
 
 

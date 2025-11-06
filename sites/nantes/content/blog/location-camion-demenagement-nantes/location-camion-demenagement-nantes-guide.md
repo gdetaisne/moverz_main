@@ -24,16 +24,16 @@ featured: true
 Pour réussir votre déménagement en autonomie à Nantes :
 
 ### Déménager Soi-Même
-- [Déménagement pas cher](/blog/demenagement-pas-cher-nantes/demenagement-pas-cher-nantes-guide) : Économiser en DIY
-- [Petit déménagement](/blog/petit-demenagement-nantes/petit-demenagement-nantes-guide) : Solutions pour petits volumes
-- [Aide déménagement](/blog/aide-demenagement-nantes/aide-demenagement-nantes-guide) : Trouver des bras pour charger/décharger
+- [Déménagement pas cher](/blog/demenagement-nantes/demenagement-pas-cher-nantes-guide) : Économiser en DIY
+- [Petit déménagement](/blog/demenagement-nantes/petit-demenagement-nantes-guide) : Solutions pour petits volumes
+- [Aide déménagement](/blog/demenagement-nantes/aide-demenagement-nantes-guide) : Trouver des bras pour charger/décharger
 
 ### Comparer avec les Professionnels
-- [Déménageur professionnel](/blog/demenageur-nantes/demenageur-nantes-guide) : Comparer location vs déménageur
-- [Prix déménagement](/blog/prix-demenagement-nantes/prix-demenagement-nantes-guide) : Estimer le budget total
+- [Déménageur professionnel](/blog/demenagement-nantes/demenageur-nantes-guide) : Comparer location vs déménageur
+- [Prix déménagement](/blog/demenagement-nantes/prix-demenagement-nantes-guide) : Estimer le budget total
 
 ### Services Complémentaires
-- [Garde-meuble Nantes](/blog/garde-meuble-nantes/garde-meuble-nantes-guide) : Stockage temporaire entre deux logements
+- [Garde-meuble Nantes](/blog/demenagement-nantes/garde-meuble-nantes-guide) : Stockage temporaire entre deux logements
 
 
 Louer un camion de déménagement à Nantes représente la solution idéale pour maîtriser votre budget tout en conservant une totale autonomie sur votre déménagement. Entre les différentes tailles de véhicules, les agences présentes dans l'agglomération nantaise, et les options tarifaires variées, il n'est pas toujours facile de s'y retrouver. Ce guide complet vous aide à choisir le bon utilitaire, comparer les offres, et réussir votre déménagement en toute sérénité dans la capitale des Pays de la Loire.
@@ -215,7 +215,7 @@ Les offres de location proposent généralement :
 - Supplément "frais de réacheminement" : 100-300€ selon la distance
 - Intéressant uniquement pour très longue distance pour éviter le trajet retour à vide
 
-À Nantes, l'aller simple est rarement pertinent sauf pour un déménagement définitif vers une autre région. Pour comparer les coûts location vs déménageur professionnel, consultez notre [guide prix déménagement Nantes](/blog/prix-demenagement-nantes/prix-demenagement-nantes-guide).
+À Nantes, l'aller simple est rarement pertinent sauf pour un déménagement définitif vers une autre région. Pour comparer les coûts location vs déménageur professionnel, consultez notre [guide prix déménagement Nantes](/blog/demenagement-nantes/prix-demenagement-nantes-guide).
 
 ## Où louer un camion de déménagement à Nantes ? Comparatif des agences
 

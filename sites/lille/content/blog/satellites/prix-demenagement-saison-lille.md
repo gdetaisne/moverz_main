@@ -19,7 +19,7 @@ Déménager en août vs février à Lille coûte **10-15% plus cher** : T2 Wazem
 
 À Lille, optimiser la période économise **100-200€** et facilite organisation. Un couple flexible (dates baux négociables, pas d'enfants scolarisés) déménageant Wazemmes → Saint-Maurice privilégie février-mars ou novembre : T2 900-980€ vs 1 070-1 150€ juillet (économie 90-170€) + réservation 3 semaines vs 10 semaines + choix déménageurs (5-10 disponibles vs 2-3 haute saison). Les 70 000 étudiants lillois ont moins flexibilité : baux universitaires imposent fin août-début septembre (coïncide rentrée), subissent surcoût +12-18% pic étudiant + saturation totale (certains ne trouvent pas de déménageur, louent camions eux-mêmes).
 
-Ce guide compare haute vs basse saison Lille : calendrier précis, écarts tarifaires, disponibilité, stratégies optimisation et flexibilité dates. Consultez notre [guide prix Lille](/blog/prix-demenagement-lille/prix-demenagement-lille-guide).
+Ce guide compare haute vs basse saison Lille : calendrier précis, écarts tarifaires, disponibilité, stratégies optimisation et flexibilité dates. Consultez notre [guide prix Lille](/blog/demenagement-lille/prix-demenagement-lille-guide).
 
 ## Calendrier Saisonnier Déménagement Lille
 
@@ -151,7 +151,7 @@ Haute saison = 45-50% activité annuelle sur 4 mois (demande forte, surcoût jus
 
 Stratégies : si flexibilité totale → janvier-février (creux max, économie 150€), flexibilité ±2 sem → évitez 30 juin/31 juillet/rentrée sept (visez mi-juillet = +5-8% seulement), dates imposées (bail) → réservez très tôt + acceptez surcoût + comparez 4-5 acteurs (écart entre eux persiste même haute saison). Promotions basse : certains acteurs lillois proposent -10% janvier-février (demandez), jour offert si référez ami, package 2 déménagements.
 
-Consultez notre [guide prix Lille](/blog/prix-demenagement-lille/prix-demenagement-lille-guide), notre [article haute saison](/blog/conseils/demenagement-dimanche-lille-surcout) incluant weekends majorés et notre [guide économies](/blog/conseils/economiser-prix-demenagement-lille-astuces).
+Consultez notre [guide prix Lille](/blog/demenagement-lille/prix-demenagement-lille-guide), notre [article haute saison](/blog/demenageur-lille/demenagement-dimanche-lille-surcout) incluant weekends majorés et notre [guide économies](/blog/prix-demenagement-lille/economiser-prix-demenagement-lille-astuces).
 
 
 

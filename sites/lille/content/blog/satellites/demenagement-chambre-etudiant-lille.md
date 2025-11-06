@@ -19,7 +19,7 @@ Le **déménagement chambre étudiant Lille** (8-15m³, résidence universitaire
 
 À Lille, les **70 000 étudiants** (Université Lille 1-2-3, Sciences Po, écoles commerce EDHEC/IESEG, écoles ingénieurs Centrale/Polytech) génèrent **15 000-20 000 déménagements/an** selon estimations (30% étudiants déménagent annuellement : fin études, stages, échanges Erasmus, changements logement). Les **quartiers étudiants** prioritaires : **Moulins** (résidences Crous, studios 15-20m² 400-500€/mois, proximité facs), **Vauban** (colocs, appartements partagés T3-T4 250-350€/chambre), **Wazemmes** (étudiants budgets serrés, colocs T2-T3 200-300€/chambre), **République-Centre** (étudiants aisés, studios 25-30m² 600-800€). Les **acteurs spécialisés** : déménageurs classiques formules étudiantes réduites, **plateformes étudiantes** (réseaux sociaux fac, groupes Facebook "Déménagement Étudiant Lille" entraide gratuite/symbolique), **associations étudiantes** (BDE proposant aide déménagement membres 50-100€ collecte fonds).
 
-Ce guide détaille déménagement chambre étudiant Lille : solutions économiques, périodes optimales, quartiers, entraide étudiante, budgets réalistes. Consultez notre [guide petit déménagement Lille](/blog/conseils/petit-demenagement-lille-studio-t1).
+Ce guide détaille déménagement chambre étudiant Lille : solutions économiques, périodes optimales, quartiers, entraide étudiante, budgets réalistes. Consultez notre [guide petit déménagement Lille](/blog/petit-demenagement-lille/petit-demenagement-lille-studio-t1).
 
 ## Solutions Déménagement Chambre Étudiant
 
@@ -264,7 +264,7 @@ Budgets réalistes : **étudiant boursier** revenus 700-800€/mois (bourse 300-
 
 70 000 étudiants Lille (Université Lille 1-2-3, Sciences Po, EDHEC/IESEG commerce, Centrale/Polytech ingénieurs) génèrent 15 000-20 000 déménagements/an (30% déménagent annuellement fin études/stages/échanges Erasmus/changements logement). Acteurs spécialisés : déménageurs classiques formules étudiantes réduites (Lefebvre "Formule Étudiant" 180-260€), coursiers Lille 150-240€, plateformes étudiantes réseaux sociaux fac.
 
-Consultez notre [guide petit déménagement Lille](/blog/conseils/petit-demenagement-lille-studio-t1), notre [guide déménagement pas cher](/blog/demenagement-pas-cher-lille/demenagement-pas-cher-lille-guide), notre [article DIY budget mini](/blog/conseils/diy-demenagement-lille-budget-mini) et notre [guide location camion](/blog/location-camion-demenagement-lille/location-camion-demenagement-lille-guide).
+Consultez notre [guide petit déménagement Lille](/blog/petit-demenagement-lille/petit-demenagement-lille-studio-t1), notre [guide déménagement pas cher](/blog/demenagement-lille/demenagement-pas-cher-lille-guide), notre [article DIY budget mini](/blog/demenagement-pas-cher-lille/diy-demenagement-lille-budget-mini) et notre [guide location camion](/blog/demenagement-lille/location-camion-demenagement-lille-guide).
 
 
 

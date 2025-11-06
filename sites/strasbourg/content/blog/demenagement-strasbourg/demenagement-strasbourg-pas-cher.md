@@ -21,7 +21,7 @@ Pour optimiser votre budget déménagement à Strasbourg :
 - [Aide déménagement](/blog/demenagement-strasbourg/aide-demenagement-strasbourg) : Économiser avec de l'aide
 - [Petit volume](/blog/demenagement-strasbourg/demenagement-petit-volume-strasbourg) : Petits déménagements
 - [Location camion](/blog/demenagement-strasbourg/location-camion-demenagement-strasbourg) : DIY économique
-- [Garde-meuble](/blog/garde-meuble-strasbourg/garde-meuble-strasbourg-guide) : Stockage temporaire
+- [Garde-meuble](/blog/demenagement-strasbourg/garde-meuble-strasbourg-guide) : Stockage temporaire
 
 
 Déménager représente un investissement important, mais il est tout à fait possible de maîtriser ce budget sans sacrifier la qualité du service ni la sécurité de vos biens. À Strasbourg, où la population étudiante est nombreuse et les jeunes actifs soucieux de leurs finances, la demande de solutions de déménagement économiques est forte. Que vous quittiez votre studio du quartier de l'Esplanade, votre T2 de la Krutenau ou votre appartement de la Robertsau, ce guide vous dévoile toutes les astuces et formules pour déménager à Strasbourg sans vous ruiner.

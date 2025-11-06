@@ -19,7 +19,7 @@ L'assurance basique location camion Lille (incluse dans tarif 70-95€/jour) cou
 
 À Lille, conduire un camion 20-35m³ dans le Vieux-Lille (rues pavées 3-5m, tournants serrés), Wazemmes (marché dimanche), Centre (circulation dense) expose aux accrochages : portière frottant façade rue étroite (réparation 400-800€ = franchise 1 500€ déclenchée), rétroviseur arraché (300€), rayure carrosserie parking (200-600€). Les assurances couvrent également bris de glace (pare-brise fissuré caillou A1 = 400€), vol accessoires, dégâts tiers (vous endommagez véhicule tiers, assurance paie). Franchise = seuil déclenchement : dégât <franchise (120€ rayure) = vous payez intégralement, dégât >franchise (1 800€ accrochage) = vous payez franchise 1 500€, assurance paie 300€ reste.
 
-Ce guide détaille assurances location camion Lille : basique incluse (couverture), complémentaire optionnelle (rachat franchise), franchises agences, calcul rentabilité rachat et exclusions. Consultez notre [guide location Lille](/blog/location-camion-demenagement-lille/location-camion-demenagement-lille-guide).
+Ce guide détaille assurances location camion Lille : basique incluse (couverture), complémentaire optionnelle (rachat franchise), franchises agences, calcul rentabilité rachat et exclusions. Consultez notre [guide location Lille](/blog/demenagement-lille/location-camion-demenagement-lille-guide).
 
 ## Assurance Basique Incluse (Vol/Incendie)
 
@@ -143,7 +143,7 @@ Europcar Flandres optimal assurance novices : franchise réduite 150€ (vs 250-
 
 **Procédure accident** : 1) Sécurisez (triangle, gilet), 2) Constat amiable détaillé (photos, témoins), 3) Appelez agence location immédiatement, 4) Déclarez assurance 48h max, 5) Franchise prélevée CB caution puis remboursement si non responsable. Franchise payée : avec rachat 150-350€, sans rachat 1 000-1 500€. Lille Vieux-Lille accident : photos rues étroites prouvent difficultés (expertise favorable).
 
-Consultez notre [guide location Lille](/blog/location-camion-demenagement-lille/location-camion-demenagement-lille-guide), notre [comparatif agences](/blog/conseils/agences-location-camion-lille-comparatif) et notre [article permis B](/blog/conseils/permis-b-camion-demenagement-limites).
+Consultez notre [guide location Lille](/blog/demenagement-lille/location-camion-demenagement-lille-guide), notre [comparatif agences](/blog/location-camion-demenagement-lille/agences-location-camion-lille-comparatif) et notre [article permis B](/blog/location-camion-demenagement-lille/permis-b-camion-demenagement-limites).
 
 
 

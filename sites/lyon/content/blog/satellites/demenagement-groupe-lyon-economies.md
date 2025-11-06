@@ -24,7 +24,7 @@ Le déménagement groupé (ou groupage) mutualise plusieurs déménagements sur 
 
 À Lyon, le groupage s'applique principalement aux longues distances (200+ km) : Lyon → Paris (460 km), Lyon → Marseille (315 km), Lyon → Bordeaux (550 km), Lyon → Toulouse (540 km). Les trajets locaux Lyon intra-muros ou métropole (10-30 km) ne justifient pas le groupage, le transport direct restant plus économique et rapide. Les plateformes spécialisées (demgroupes.fr, demenagement-groupe.com, fretbay.com) mettent en relation déménageurs proposant groupage et particuliers. Le délai livraison s'allonge logiquement : transport direct Lyon-Paris = jour même (6-7h trajet + chargement/déchargement), groupage = 3-5 jours (attente constitution groupage + livraisons échelonnées).
 
-Ce guide explique le principe technique du groupage, détaille les économies réelles selon destinations Lyon, présente les plateformes fiables, révèle les contraintes et délais, et compare groupage vs transport direct. Consultez aussi [notre guide des solutions économiques Lyon](/blog/pas-cher/demenagement-lyon-pas-cher-guide) pour toutes les options.
+Ce guide explique le principe technique du groupage, détaille les économies réelles selon destinations Lyon, présente les plateformes fiables, révèle les contraintes et délais, et compare groupage vs transport direct. Consultez aussi [notre guide des solutions économiques Lyon](/blog/demenagement-lyon-pas-cher/demenagement-lyon-pas-cher-guide-complet) pour toutes les options.
 
 ## Principe du Déménagement Groupé
 
@@ -225,7 +225,7 @@ Le déménagement groupé Lyon constitue une solution économique pertinente pou
 
 Les studios, T1, T2 bénéficient le plus du groupage (volumes standards 15-35m³ facilement mutualisables). Les T3+ et maisons (50m³+) génèrent moins d'économies, le transport direct restant compétitif. Les plateformes spécialisées (demgroupes.fr, demenagement-groupe.com) facilitent l'accès à des déménageurs professionnels vérifiés, garantissant assurances RC pro et fiabilité équivalentes au transport direct.
 
-Pour comparer toutes les options économiques selon votre situation, consultez [notre guide complet déménagement Lyon](/blog/pas-cher/demenagement-lyon-pas-cher-guide). Explorez aussi [les prix détaillés Lyon 2025](/blog/conseils/prix-demenagement-pas-cher-lyon-2025) pour budgétiser précisément. Bon déménagement et bonne route !
+Pour comparer toutes les options économiques selon votre situation, consultez [notre guide complet déménagement Lyon](/blog/demenagement-lyon-pas-cher/demenagement-lyon-pas-cher-guide-complet). Explorez aussi [les prix détaillés Lyon 2025](/blog/demenagement-lyon-pas-cher/prix-demenagement-pas-cher-lyon-2025) pour budgétiser précisément. Bon déménagement et bonne route !
 
 ---
 

@@ -18,7 +18,7 @@ author: "Équipe Moverz Montpellier"
 # Normes de Sécurité Déménagement Professionnel Entreprise
 
 
-Pour comprendre tous les aspects du déménagement entreprise à Montpellier, consultez notre [guide déménagement entreprise Montpellier](/blog/demenagement-entreprise-montpellier/demenagement-entreprise-montpellier).
+Pour comprendre tous les aspects du déménagement entreprise à Montpellier, consultez notre [guide déménagement entreprise Montpellier](/blog/demenagement-montpellier/demenagement-entreprise-montpellier).
 
 
 Les déménageurs professionnels montpelliérains doivent respecter normes sécurité : document unique d'évaluation des risques (obligatoire toute entreprise), EPI (Équipements Protection Individuelle : chaussures sécurité, gants, harnais si travail hauteur), et habilitations spécifiques (électrique si déconnexion serveurs, CACES si chariots élévateurs).

@@ -20,7 +20,7 @@ author: "Équipe Moverz Rennes"
 3. Demandez 3-4 devis (ABC Lemarié, Eurodem, 2 locaux)
 4. Comparez ligne par ligne (services, assurance, étages, prix total)
 5. Vérifiez avis récents (2024-2025)
-6. Appelez questions (réactivité = indicateur) Ces éléments s'inscrivent dans le contexte plus large de notre [déménagement professionnel à Rennes](/blog/demenagement-rennes/demenageur-rennes).
+6. Appelez questions (réactivité = indicateur) Ces éléments s'inscrivent dans le contexte plus large de notre [déménagement professionnel à Rennes](/blog/demenagement-rennes/demenageur-rennes/).
 7. Choisissez meilleur rapport qualité-prix-avis
 
 **Red Flags Éviter :**
@@ -32,7 +32,7 @@ author: "Équipe Moverz Rennes"
 
 ## FAQ
 
-Pour comprendre tous les aspects de ce sujet, consultez notre [guide complet des déménageurs à Rennes](/blog/demenagement-rennes/demenageur-rennes).
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide complet des déménageurs à Rennes](/blog/demenagement-rennes/demenageur-rennes/).
 
 **Critères prioritaires ?**
 Avis ≥4.5/5 (30+), assurance ≥10k€, devis écrit détaillé, prix 500-700€ T2.
@@ -40,7 +40,7 @@ Avis ≥4.5/5 (30+), assurance ≥10k€, devis écrit détaillé, prix 500-700�
 **Comparer combien déménageurs ?**
 3-4 minimum (écarts 20-40% fréquents = économie 200-400€).
 
-Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [nos services de déménagement rennais](/blog/demenagement-rennes/demenageur-rennes).
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [nos services de déménagement rennais](/blog/demenagement-rennes/demenageur-rennes/).
 
 ---
 **Sources :** Google Maps, bonnes pratiques sélection

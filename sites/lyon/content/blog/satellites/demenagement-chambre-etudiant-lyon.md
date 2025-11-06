@@ -24,7 +24,7 @@ Les 170 000 étudiants Lyon (Lyon 1 sciences/santé 47 000, Lyon 2 lettres/langu
 
 Les quartiers étudiants Lyon concentrent déménagements : Guillotière (Lyon 2 Berges Rhône 5 min, logements 350-500€ studios, colocations 300-450€/chambre, 15 000 étudiants), Jean Macé 7ème (métro B universités, résidences CROUS, 12 000 étudiants), Villeurbanne (Lyon 1 Doua tram T1, INSA, résidences Gratte-Ciel, 25 000 étudiants), Vieux-Lyon/Saint-Jean (Sciences Po, EM Lyon proximité, 8 000 étudiants, loyers élevés 450-650€), et Gerland 7ème (résidences neuves privées 400-550€, Lyon 2 campus sud). Les résidences CROUS Lyon (8 500 chambres métropole, loyers 150-350€/mois APL incluses, bail septembre-juin restitution obligatoire fin juin, pénalité 150€ si départ anticipé non-justifié) imposent contraintes déménagement (restitution clés état lieux 30 juin dernier délai, stockage été affaires si retour septembre box garde-meuble 1-3m² 55-120€/mois 3-4 mois).
 
-Ce guide détaille solutions déménagement étudiant Lyon (pro 150-250€ vs DIY 80-120€), compare acteurs/formules adaptées budgets serrés, présente quartiers étudiants logements (prix, proximité campus), révèle astuces économiser (mutualiser camionnette entre étudiants coût ÷ 2-3, cartons gratuits supermarchés, déménager semaine -15-20%), conseille calendrier optimal (éviter 25 juin-5 juillet pic déménagements CROUS prix +20-30%, réserver 15j avant), et détaille aides financières (FSL Fonds Solidarité Logement Métropole 150-500€, CAF aide mobilité 100-300€). Pour stockage été, consultez [garde-meuble étudiant Lyon](/blog/conseils/garde-meuble-etudiant-lyon-pas-cher).
+Ce guide détaille solutions déménagement étudiant Lyon (pro 150-250€ vs DIY 80-120€), compare acteurs/formules adaptées budgets serrés, présente quartiers étudiants logements (prix, proximité campus), révèle astuces économiser (mutualiser camionnette entre étudiants coût ÷ 2-3, cartons gratuits supermarchés, déménager semaine -15-20%), conseille calendrier optimal (éviter 25 juin-5 juillet pic déménagements CROUS prix +20-30%, réserver 15j avant), et détaille aides financières (FSL Fonds Solidarité Logement Métropole 150-500€, CAF aide mobilité 100-300€). Pour stockage été, consultez [garde-meuble étudiant Lyon](/blog/garde-meuble-lyon/garde-meuble-etudiant-lyon-pas-cher).
 
 ## Prix Déménagement Chambre Étudiant
 
@@ -100,11 +100,11 @@ Ce guide détaille solutions déménagement étudiant Lyon (pro 150-250€ vs DI
 
 ### Prix déménagement étudiant Lyon ?
 
-**150-250€ pro (camionnette + manutentionnaire, 2-3h, chambre 6-8m³) ou 80-120€ DIY location camionnette (45-70€ + essence 10-20€, manutention soi-même + aide amis). Mutualisation 2-3 étudiants : 30-50€/personne (camionnette partagée).** Contenu chambre : lit 90cm, bureau, étagères, 15-25 cartons vêtements/livres. Économie : cartons gratuits supermarchés (-20-60€), déménager semaine vs week-end (-10-30€), éviter pic 25 juin-5 juil (-30-60€). Aides : FSL 150-500€, CAF 100-300€. [Détails →](/blog/conseils/demenagement-etudiant-lyon-pas-cher)
+**150-250€ pro (camionnette + manutentionnaire, 2-3h, chambre 6-8m³) ou 80-120€ DIY location camionnette (45-70€ + essence 10-20€, manutention soi-même + aide amis). Mutualisation 2-3 étudiants : 30-50€/personne (camionnette partagée).** Contenu chambre : lit 90cm, bureau, étagères, 15-25 cartons vêtements/livres. Économie : cartons gratuits supermarchés (-20-60€), déménager semaine vs week-end (-10-30€), éviter pic 25 juin-5 juil (-30-60€). Aides : FSL 150-500€, CAF 100-300€. [Détails →](/blog/demenagement-lyon-pas-cher/demenagement-etudiant-lyon-pas-cher)
 
 ### Déménagement CROUS Lyon fin juin ?
 
-**Restitution chambres CROUS Lyon dernier délai 30 juin (état lieux, clés, pénalité 150€ si retard). Pic déménagements 25-30 juin (40% étudiants CROUS 3400 chambres Lyon concentrés 6 jours) : disponibilités saturées, tarifs +20-30%.** Solutions : réserver déménageur/camionnette 15j avant (mi-juin), déménager 20-24 juin avant pic (économie 30-60€, disponibilités +), ou post-pic 1-5 juillet. Stockage été affaires si retour sept : box garde-meuble 1-3m² 55-120€/mois (Jean Macé métro B, Vaise économique). [Stockage →](/blog/conseils/garde-meuble-etudiant-lyon-pas-cher)
+**Restitution chambres CROUS Lyon dernier délai 30 juin (état lieux, clés, pénalité 150€ si retard). Pic déménagements 25-30 juin (40% étudiants CROUS 3400 chambres Lyon concentrés 6 jours) : disponibilités saturées, tarifs +20-30%.** Solutions : réserver déménageur/camionnette 15j avant (mi-juin), déménager 20-24 juin avant pic (économie 30-60€, disponibilités +), ou post-pic 1-5 juillet. Stockage été affaires si retour sept : box garde-meuble 1-3m² 55-120€/mois (Jean Macé métro B, Vaise économique). [Stockage →](/blog/garde-meuble-lyon/garde-meuble-etudiant-lyon-pas-cher)
 
 ### Mutualiser déménagement étudiants Lyon ?
 
@@ -116,7 +116,7 @@ Ce guide détaille solutions déménagement étudiant Lyon (pro 150-250€ vs DI
 
 Déménagement chambre étudiant Lyon (170 000 étudiants, pic juin-sept, CROUS/résidences Guillotière/Jean Macé/Villeurbanne) coûte 150-250€ pro (camionnette + manutentionnaire 2-3h) ou 80-120€ DIY location camionnette (45-70€/j + essence, aide amis). Mutualisation 2-3 étudiants : 30-50€/personne (économie 50-90€ vs solo). Volume chambre : lit 90cm, bureau, étagères, 15-25 cartons (6-8m³).
 
-Économiser : cartons gratuits supermarchés (20-60€), déménager semaine (-15-20%), éviter pic 25 juin-5 juil (-30-60€, disponibilités +), aides FSL 150-500€ + CAF 100-300€. Stockage été : box 1-3m² 55-120€/mois si retour sept. Consultez [prix petit volume](/blog/conseils/prix-petit-demenagement-lyon), [transport meubles](/blog/conseils/transport-quelques-meubles-lyon), [stockage](/blog/conseils/garde-meuble-etudiant-lyon-pas-cher). Bonne rentrée !
+Économiser : cartons gratuits supermarchés (20-60€), déménager semaine (-15-20%), éviter pic 25 juin-5 juil (-30-60€, disponibilités +), aides FSL 150-500€ + CAF 100-300€. Stockage été : box 1-3m² 55-120€/mois si retour sept. Consultez [prix petit volume](/blog/demenagement-petit-volume-lyon/prix-petit-demenagement-lyon), [transport meubles](/blog/demenagement-petit-volume-lyon/transport-quelques-meubles-lyon), [stockage](/blog/garde-meuble-lyon/garde-meuble-etudiant-lyon-pas-cher). Bonne rentrée !
 
 ---
 

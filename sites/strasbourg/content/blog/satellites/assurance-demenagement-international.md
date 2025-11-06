@@ -64,5 +64,5 @@ Assurance internationale incluse ou optionnelle ? Quel % valeur ? Plafond ? Fran
 
 **Déclaration valeur** : inventaire détaillé pièce/pièce (salon canapé 1 200€, TV 800€...), photos meubles/objets valeur (preuve état), factures conservées (justificatifs), expertise si >50 000€ totaux. Sous-évaluation = indemnisation réduite (déclarez 8 000€ mais pertes 12 000€ = remboursé 8 000€ max). Sur-évaluation = refus assurance. Soyez honnête, réaliste (valeur remplacement actuelle, pas neuf).
 
-Pour plus d'informations, consultez notre [guide assurance déménagement Strasbourg](/blog/conseils/assurance-demenageur-strasbourg).
+Pour plus d'informations, consultez notre [guide assurance déménagement Strasbourg](/blog/demenagement-strasbourg/assurance-demenageur-strasbourg).
 

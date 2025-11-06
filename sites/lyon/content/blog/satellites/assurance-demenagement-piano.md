@@ -24,7 +24,7 @@ L'assurance responsabilité civile professionnelle standard incluse dans tout de
 
 Lyon présentant quartiers difficiles (Vieux-Lyon escaliers médiévaux 80-95 cm virages serrés risque chocs élevé, Croix-Rousse pentes raides portage délicat, Presqu'île immeubles 5-7 étages sans ascenseur fatigue équipe générant risque faux-mouvement), l'assurance valeur déclarée devient indispensable pianos valeur >8000€ ou anciens/rares irremplaçables (pianos européens 19ème, Pleyel français, Erard). Les déménageurs spécialisés Lyon (S.I.E.T, Lugnier) proposent systématiquement cette option lors devis technique après visite domicile. Le conservatoire Lyon (Auditorium Maurice Ravel) et salles concert exigent assurance renforcée tous risques (100 000-200 000€ couverture) pour déménagement pianos Steinway/Fazioli propriété institutions (+300-600€ prime).
 
-Ce guide explique différence RC pro vs valeur déclarée, détaille couvertures assurance piano (casse, vol, désaccordage), révèle coût réel selon valeur instrument (5000-150 000€), présente process réclamation si sinistre, et conseille quand souscrire. Pour tarifs transport, consultez [prix piano Lyon](/blog/piano/prix-demenagement-piano-droit-lyon).
+Ce guide explique différence RC pro vs valeur déclarée, détaille couvertures assurance piano (casse, vol, désaccordage), révèle coût réel selon valeur instrument (5000-150 000€), présente process réclamation si sinistre, et conseille quand souscrire. Pour tarifs transport, consultez [prix piano Lyon](/blog/demenagement-piano-lyon/prix-demenagement-piano-droit-lyon).
 
 ## RC Pro vs Valeur Déclarée
 
@@ -100,7 +100,7 @@ Ce guide explique différence RC pro vs valeur déclarée, détaille couvertures
 
 L'assurance valeur déclarée piano (2-5% valeur, soit 200-2500€ selon instrument) couvre tous dommages déménagement (casse, fissures, désaccordage majeur, rayures, vol) quelle que soit cause, contrairement RC pro standard (faute prouvée uniquement). Indispensable pianos >8000€ (Yamaha U1/U3, Kawai K-300, tous pianos queue, anciens/rares) ou déménagements quartiers difficiles Lyon (Vieux-Lyon risque chocs escaliers raides, Croix-Rousse pentes). Exiger proposition assurance lors visite technique, comparer taux (2-5%), vérifier couvertures (expertise, montants garantis).
 
-Process réclamation : constat immédiat livraison (réserves bordereau + photos), expertise accordeur Lyon 24-48h (devis réparation), déclaration 48-72h, indemnisation 4-10 semaines. Souscrire avant déménagement (impossible après). Consultez [prix piano](/blog/piano/prix-demenagement-piano-droit-lyon), [spécialistes](/blog/conseils/demenageur-specialiste-piano-lyon), [guide complet](/blog/piano/demenagement-piano-lyon-guide). Bonne protection !
+Process réclamation : constat immédiat livraison (réserves bordereau + photos), expertise accordeur Lyon 24-48h (devis réparation), déclaration 48-72h, indemnisation 4-10 semaines. Souscrire avant déménagement (impossible après). Consultez [prix piano](/blog/demenagement-piano-lyon/prix-demenagement-piano-droit-lyon), [spécialistes](/blog/demenagement-piano-lyon/demenageur-specialiste-piano-lyon), [guide complet](/blog/demenagement-piano-lyon/demenagement-piano-lyon-guide-complet). Bonne protection !
 
 ---
 

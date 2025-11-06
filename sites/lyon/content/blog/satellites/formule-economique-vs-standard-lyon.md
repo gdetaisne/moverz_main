@@ -24,7 +24,7 @@ La formule économique proposée par les déménageurs lyonnais génère une éc
 
 À Lyon, les deux formules garantissent le même niveau d'assurance responsabilité civile professionnelle (casse/vol pendant transport), la même qualité d'équipe (2-3 déménageurs formés), et le même matériel de transport (camion adapté volume, sangles, couvertures, diables). La différence porte uniquement sur les services additionnels : emballage, démontage/remontage complexe (cuisine équipée, dressing sur-mesure), déballage. Les délais d'intervention varient peu : 3-4h pour un T2 en formule économique (transport uniquement) vs 5-6h en formule standard (emballage inclus), mais vous économisez votre propre temps d'emballage préalable (2-3 jours T2).
 
-Ce guide compare point par point les deux formules (prestations, tarifs, avantages, inconvénients), détaille les situations où chacune s'impose, révèle les économies réelles selon profils (studio, T2, T3, maison), et propose un tableau comparatif synthétique. Consultez aussi [notre guide des prix Lyon 2025](/blog/conseils/prix-demenagement-pas-cher-lyon-2025) pour budgétiser précisément.
+Ce guide compare point par point les deux formules (prestations, tarifs, avantages, inconvénients), détaille les situations où chacune s'impose, révèle les économies réelles selon profils (studio, T2, T3, maison), et propose un tableau comparatif synthétique. Consultez aussi [notre guide des prix Lyon 2025](/blog/demenagement-lyon-pas-cher/prix-demenagement-pas-cher-lyon-2025) pour budgétiser précisément.
 
 ## Formule Économique : Transport Uniquement
 
@@ -47,7 +47,7 @@ La formule économique maximise l'économie en concentrant le déménageur sur s
 
 ### Prestations NON Incluses (À Votre Charge)
 
-**Emballage :** Vous emballez vos affaires dans cartons (vaisselle, vêtements, livres, bibelots) 2-3 jours avant. Récupérez cartons gratuits Lyon ([voir guide cartons gratuits](/blog/conseils/cartons-demenagement-gratuits-lyon)).
+**Emballage :** Vous emballez vos affaires dans cartons (vaisselle, vêtements, livres, bibelots) 2-3 jours avant. Récupérez cartons gratuits Lyon ([voir guide cartons gratuits](/blog/demenagement-lyon-pas-cher/cartons-demenagement-gratuits-lyon)).
 
 **Protection meubles fragiles :** Vous protégez miroirs, télévision, objets précieux (papier bulle, couvertures).
 
@@ -217,7 +217,7 @@ La formule standard offre un confort maximal en déléguant 100% des tâches au 
 
 ### Formule économique inclut-elle cartons ?
 
-**Non, formule économique suppose cartons fournis par vous (récupération gratuite ou achat). Formule standard inclut cartons fournis déménageur.** Lyon : cartons gratuits Carrefour Confluence, Auchan Part-Dieu, Leclerc Villeurbanne ([voir guide](/blog/conseils/cartons-demenagement-gratuits-lyon)). Quantité T2 : 30-40 cartons récup = économie 40-60€ vs pack neufs. Si achat : Brico Dépôt 20 cartons 28€. Certains déménageurs éco vendent cartons tarif réduit (1-2€/unité).
+**Non, formule économique suppose cartons fournis par vous (récupération gratuite ou achat). Formule standard inclut cartons fournis déménageur.** Lyon : cartons gratuits Carrefour Confluence, Auchan Part-Dieu, Leclerc Villeurbanne ([voir guide](/blog/demenagement-lyon-pas-cher/cartons-demenagement-gratuits-lyon)). Quantité T2 : 30-40 cartons récup = économie 40-60€ vs pack neufs. Si achat : Brico Dépôt 20 cartons 28€. Certains déménageurs éco vendent cartons tarif réduit (1-2€/unité).
 
 ---
 
@@ -227,7 +227,7 @@ Le choix entre formule économique et standard Lyon dépend de votre budget, tem
 
 Les deux formules garantissent assurance RC pro identique, équipe professionnelle, matériel adapté. La différence porte uniquement sur services additionnels (emballage, démontage/remontage, déballage). Des formules hybrides existent : éco + emballage fragiles uniquement, éco + démontage cuisine, permettant économies ciblées. Demandez 3+ devis déménageurs Lyon (S.I.E.T, Lugnier, Citius, Demenagix, Alizé, Eco'Moov) pour comparer formules et tarifs précis.
 
-Pour budgétiser selon votre logement, consultez [notre guide des prix Lyon 2025](/blog/conseils/prix-demenagement-pas-cher-lyon-2025). Explorez aussi [toutes les solutions économiques](/blog/pas-cher/demenagement-lyon-pas-cher-guide) (DIY camion, groupage, aides) pour maximiser économies. Bon choix et bon déménagement !
+Pour budgétiser selon votre logement, consultez [notre guide des prix Lyon 2025](/blog/demenagement-lyon-pas-cher/prix-demenagement-pas-cher-lyon-2025). Explorez aussi [toutes les solutions économiques](/blog/demenagement-lyon-pas-cher/demenagement-lyon-pas-cher-guide-complet) (DIY camion, groupage, aides) pour maximiser économies. Bon choix et bon déménagement !
 
 ---
 

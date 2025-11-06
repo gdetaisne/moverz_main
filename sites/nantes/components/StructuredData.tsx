@@ -10,7 +10,6 @@ export default function StructuredData() {
   // Graph avec Organization + LocalBusiness + HowTo (homepage)
   const structuredData = {
     "@context": "https://schema.org",
-    "searchIntent": "transactional",
     "@graph": [
       {
         "@type": "Organization",

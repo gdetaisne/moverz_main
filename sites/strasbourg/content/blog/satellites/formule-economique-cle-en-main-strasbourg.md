@@ -158,5 +158,5 @@ Alternative : **Standard + option emballage fragile** (déménageur emballe vais
 
 **Responsabilité casse formule éco ?** Client (si emballage défaillant). Assurance ad valorem ne couvre pas toujours.
 
-[Prix déménageur Strasbourg](/blog/conseils/prix-demenageur-strasbourg-2025) détaille tarifs complets 3 formules.
+[Prix déménageur Strasbourg](/blog/demenagement-strasbourg/prix-demenageur-strasbourg-2025) détaille tarifs complets 3 formules.
 

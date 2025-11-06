@@ -26,17 +26,17 @@ Changer de logement à Nantes ou dans l'agglomération nantaise représente un m
 Pour approfondir certains aspects du déménagement professionnel à Nantes :
 
 ### Services Spécialisés
-- [Monte-meuble déménagement](/blog/conseils/monte-meuble-demenagement-nantes) : Nécessaire pour les étages sans ascenseur
-- [Déménagement objets lourds](/blog/conseils/demenagement-objets-lourds-nantes) : Piano, coffre-fort, aquarium
+- [Monte-meuble déménagement](/blog/petit-demenagement-nantes/monte-meuble-demenagement-nantes) : Nécessaire pour les étages sans ascenseur
+- [Déménagement objets lourds](/blog/petit-demenagement-nantes/demenagement-objets-lourds-nantes) : Piano, coffre-fort, aquarium
 
 ### Guides Complémentaires Utiles
-- [Prix déménagement Nantes](/blog/prix-demenagement-nantes/prix-demenagement-nantes-guide) : Estimation des tarifs
-- [Déménagement pas cher](/blog/demenagement-pas-cher-nantes/demenagement-pas-cher-nantes-guide) : Économiser sur votre déménagement
-- [Petit déménagement](/blog/petit-demenagement-nantes/petit-demenagement-nantes-guide) : Solutions pour petits volumes
-- [Déménagement entreprise](/blog/demenagement-entreprise-nantes/demenagement-entreprise-nantes-guide) : Déménagement de bureaux
-- [Déménagement piano](/blog/demenagement-piano-nantes/demenagement-piano-nantes-guide) : Transport d'instruments
-- [Déménagement international](/blog/demenagement-international-nantes/demenagement-international-nantes-guide) : Partir à l'étranger
-- [Garde-meuble](/blog/garde-meuble-nantes/garde-meuble-nantes-guide) : Stockage temporaire
+- [Prix déménagement Nantes](/blog/demenagement-nantes/prix-demenagement-nantes-guide) : Estimation des tarifs
+- [Déménagement pas cher](/blog/demenagement-nantes/demenagement-pas-cher-nantes-guide) : Économiser sur votre déménagement
+- [Petit déménagement](/blog/demenagement-nantes/petit-demenagement-nantes-guide) : Solutions pour petits volumes
+- [Déménagement entreprise](/blog/demenagement-nantes/demenagement-entreprise-nantes-guide) : Déménagement de bureaux
+- [Déménagement piano](/blog/demenagement-nantes/demenagement-piano-nantes-guide) : Transport d'instruments
+- [Déménagement international](/blog/demenagement-nantes/demenagement-international-nantes-guide) : Partir à l'étranger
+- [Garde-meuble](/blog/demenagement-nantes/garde-meuble-nantes-guide) : Stockage temporaire
 
 ## Pourquoi faire appel à un déménageur professionnel à Nantes ?
 
@@ -94,11 +94,11 @@ Cette formule haut de gamme convient aux professionnels qui manquent de temps, a
 
 **Location de monte-meuble** : Indispensable pour les immeubles sans ascenseur du centre-ville de Nantes, du Marchix ou de la Petite Hollande. Le monte-meuble permet de hisser les meubles volumineux directement par les fenêtres, évitant les escaliers étroits. Le coût varie de 200 à 500€ selon la durée d'utilisation et la hauteur.
 
-**Garde-meuble temporaire** : Si vos dates de déménagement ne coïncident pas parfaitement, les déménageurs nantais proposent un stockage sécurisé de vos affaires. Cette solution est fréquente lorsque vous vendez votre appartement avant d'avoir trouvé le suivant, ou lorsque vous réalisez des travaux dans votre nouveau logement. Consultez notre [guide garde-meuble Nantes](/blog/garde-meuble-nantes/garde-meuble-nantes-guide) pour les tarifs et options de stockage.
+**Garde-meuble temporaire** : Si vos dates de déménagement ne coïncident pas parfaitement, les déménageurs nantais proposent un stockage sécurisé de vos affaires. Cette solution est fréquente lorsque vous vendez votre appartement avant d'avoir trouvé le suivant, ou lorsque vous réalisez des travaux dans votre nouveau logement. Consultez notre [guide garde-meuble Nantes](/blog/demenagement-nantes/garde-meuble-nantes-guide) pour les tarifs et options de stockage.
 
 **Fourniture de cartons et matériel d'emballage** : Les entreprises fournissent des cartons de déménagement renforcés de différentes tailles, du papier bulle, du film étirable, des housses de protection pour matelas et canapés. Compter 1-3€ par carton selon la taille et la qualité. Certains déménageurs incluent un lot de cartons dans leurs formules.
 
-**Déménagement d'objets spécifiques** : Transport de piano (droit ou à queue), œuvres d'art, coffres-forts, aquariums, matériel informatique professionnel. Pour le déménagement de piano spécifiquement, consultez notre [guide déménagement piano Nantes](/blog/demenagement-piano-nantes/demenagement-piano-nantes-guide) qui détaille les précautions et tarifs spécifiques.
+**Déménagement d'objets spécifiques** : Transport de piano (droit ou à queue), œuvres d'art, coffres-forts, aquariums, matériel informatique professionnel. Pour le déménagement de piano spécifiquement, consultez notre [guide déménagement piano Nantes](/blog/demenagement-nantes/demenagement-piano-nantes-guide) qui détaille les précautions et tarifs spécifiques.
 
 **Nettoyage de l'ancien logement** : Service apprécié pour récupérer votre caution ou respecter les obligations de votre bail. Les équipes de nettoyage interviennent après le déménagement pour un nettoyage complet (sols, murs, sanitaires, cuisine).
 

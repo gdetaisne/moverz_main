@@ -33,9 +33,9 @@ Oui, **fiable si bon prestataire** : déménageurs pros spécialisés, assurance
 
 ### Qui propose le groupage à Lille ?
 
-**Acteurs groupage Lille** : plateformes nationales **Movinga** (matching auto clients), **1001 Déménageurs** (réseau pros), **FretBay** (enchères), déménageurs locaux **sur demande** (Lefebvre/Bretons groupent si 2 demandes simultanées, rare). Étudiants Lille-Paris juin : offres nombreuses (forte demande). Trajets rares (Lille-Toulouse) : délai matching +1-3 semaines. Alternative : [déménagement pas cher](/blog/demenagement-pas-cher-lille/demenagement-pas-cher-lille-guide) autres astuces.
+**Acteurs groupage Lille** : plateformes nationales **Movinga** (matching auto clients), **1001 Déménageurs** (réseau pros), **FretBay** (enchères), déménageurs locaux **sur demande** (Lefebvre/Bretons groupent si 2 demandes simultanées, rare). Étudiants Lille-Paris juin : offres nombreuses (forte demande). Trajets rares (Lille-Toulouse) : délai matching +1-3 semaines. Alternative : [déménagement pas cher](/blog/demenagement-lille/demenagement-pas-cher-lille-guide) autres astuces.
 
-Consultez notre [guide déménagement pas cher Lille](/blog/demenagement-pas-cher-lille/demenagement-pas-cher-lille-guide).
+Consultez notre [guide déménagement pas cher Lille](/blog/demenagement-lille/demenagement-pas-cher-lille-guide).
 
 ## Fonctionnement Groupage
 
@@ -120,7 +120,7 @@ Groupage local Lille (intra-métropole) économise peu : déménageurs font déj
 
 Arbitrage économies : **DIY partagé** 110€/pers (effort 12h, conduite), **groupage** 800€/pers (délégation, contrainte dates), **dédié** 1 600€/pers (flexibilité totale, 0 coordination). Budget <200€ = DIY impératif, 500-1 000€ = groupage compromis, >1 000€ = dédié confort. Statistiques : juin-juillet Lille-Paris groupages 20-30% déménagements étudiants (volume suffisant coordination), reste année 5-10% (clients rares compatibles).
 
-Consultez notre [guide déménagement pas cher Lille](/blog/demenagement-pas-cher-lille/demenagement-pas-cher-lille-guide), notre [article DIY](/blog/conseils/diy-demenagement-lille-budget-mini), notre [guide aller simple Lille-Paris](/blog/conseils/location-camion-aller-simple-lille-paris) et notre [article aides](/blog/conseils/aides-financieres-demenagement-lille).
+Consultez notre [guide déménagement pas cher Lille](/blog/demenagement-lille/demenagement-pas-cher-lille-guide), notre [article DIY](/blog/demenagement-pas-cher-lille/diy-demenagement-lille-budget-mini), notre [guide aller simple Lille-Paris](/blog/location-camion-demenagement-lille/location-camion-aller-simple-lille-paris) et notre [article aides](/blog/demenagement-pas-cher-lille/aides-financieres-demenagement-lille).
 
 
 

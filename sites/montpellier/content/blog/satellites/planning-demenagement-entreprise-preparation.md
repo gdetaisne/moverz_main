@@ -18,7 +18,7 @@ author: "Équipe Moverz Montpellier"
 # Planning Déménagement Entreprise : Préparation 6-12 Mois
 
 
-Pour comprendre tous les aspects du déménagement entreprise à Montpellier, consultez notre [guide déménagement entreprise Montpellier](/blog/demenagement-entreprise-montpellier/demenagement-entreprise-montpellier).
+Pour comprendre tous les aspects du déménagement entreprise à Montpellier, consultez notre [guide déménagement entreprise Montpellier](/blog/demenagement-montpellier/demenagement-entreprise-montpellier).
 
 
 Préparer le déménagement d'une entreprise nécessite 6-12 mois d'anticipation selon la taille (PME 50 postes = 12 mois, TPE 10 postes = 6 mois). Cette planification rigoureuse évite interruptions activité, pertes données, surcoûts imprévus qui peuvent atteindre 30-50% du budget initial.

@@ -84,4 +84,3 @@ for (const city of cities) {
 console.log(`\n✅ ${modifiedFiles} fichiers modifiés`);
 console.log(`📝 ${totalReplacements} remplacements effectués`);
 
-

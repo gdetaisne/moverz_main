@@ -20,7 +20,7 @@ Réduire un déménagement T2 Lille de 1 000€ à 400-700€ ? Les **10 astuces
 
 À Lille, optimiser tous leviers transforme T2 standard 1 000€ en **400-700€** selon radicalité. DIY complet (location camion Sixt Euralille 80€/jour + amis aidant = 95€ total) économise 905€ mais nécessite 8-12h travail physique intense (chargement, conduite, déchargement, 3-4 personnes mobilisées). Compromis optimal jeunes actifs : formule économique déménageur (700€) + basse saison février (-50€) + tri avant (-100€ volume) + 3 devis comparés (-80€ négociation) = **470€ vs 1 000€**, économie 530€ (53%) avec effort modéré (18h emballage perso étalées sur 1 semaine).
 
-Ce guide liste 10 astuces économiser déménagement Lille avec économies chiffrées, faisabilité et arbitrages effort/gain. Consultez notre [guide prix Lille](/blog/prix-demenagement-lille/prix-demenagement-lille-guide).
+Ce guide liste 10 astuces économiser déménagement Lille avec économies chiffrées, faisabilité et arbitrages effort/gain. Consultez notre [guide prix Lille](/blog/demenagement-lille/prix-demenagement-lille-guide).
 
 ## Les 10 Astuces Économies Maximales
 
@@ -154,7 +154,7 @@ Stratégie étudiante extrême : DIY (95€) + cartons gratuits (0€) + tri tot
 
 Astuces impossibles : changer étages existants logement, éviter Vieux-Lille si vous y habitez (subis). Astuces contrôlables : formule, période, tri, devis. Focalisez sur leviers actionnables pour maximiser économies réalistes.
 
-Consultez notre [guide prix Lille](/blog/prix-demenagement-lille/prix-demenagement-lille-guide), notre [comparatif formules](/blog/conseils/formule-economique-cle-en-main-lille), notre [article DIY vs pro](lien si créé) et notre [guide tri désencombrement](lien si créé).
+Consultez notre [guide prix Lille](/blog/demenagement-lille/prix-demenagement-lille-guide), notre [comparatif formules](/blog/demenageur-lille/formule-economique-cle-en-main-lille), notre [article DIY vs pro](lien si créé) et notre [guide tri désencombrement](lien si créé).
 
 
 

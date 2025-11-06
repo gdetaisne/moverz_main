@@ -17,23 +17,23 @@ featured: true
 Pour tout savoir sur les déménageurs professionnels à Strasbourg :
 
 ### Choisir son Déménageur
-- [Choisir son déménageur à Strasbourg](/blog/conseils/choisir-demenageur-strasbourg) : Critères de sélection
-- [Prix déménageur Strasbourg 2025](/blog/conseils/prix-demenageur-strasbourg-2025) : Tarifs actualisés
-- [Assurance déménageur](/blog/conseils/assurance-demenageur-strasbourg) : Protection obligatoire
+- [Choisir son déménageur à Strasbourg](/blog/demenagement-strasbourg/choisir-demenageur-strasbourg) : Critères de sélection
+- [Prix déménageur Strasbourg 2025](/blog/demenagement-strasbourg/prix-demenageur-strasbourg-2025) : Tarifs actualisés
+- [Assurance déménageur](/blog/demenagement-strasbourg/assurance-demenageur-strasbourg) : Protection obligatoire
 
 ### Services Spécialisés  
-- [Monte-meuble déménagement](/blog/conseils/demenageur-monte-meuble-strasbourg) : Étages sans ascenseur
-- [Déménageur Grande Île](/blog/conseils/demenageur-grande-ile-strasbourg) : Centre historique
+- [Monte-meuble déménagement](/blog/demenagement-strasbourg/demenageur-monte-meuble-strasbourg) : Étages sans ascenseur
+- [Déménageur Grande Île](/blog/demenagement-strasbourg/demenageur-grande-ile-strasbourg) : Centre historique
 
 ### Questions Pratiques
-- [FAQ déménageur](/blog/conseils/faq-demenageur-strasbourg) : Réponses aux questions courantes
+- [FAQ déménageur](/blog/demenagement-strasbourg/faq-demenageur-strasbourg) : Réponses aux questions courantes
 
 ## 🔗 Guides Complémentaires
 
 **Services connexes :**
 - [Prix déménagement Strasbourg](/blog/demenagement-strasbourg/prix-demenagement-strasbourg) : Estimation budget
 - [Déménagement pas cher](/blog/demenagement-strasbourg/demenagement-strasbourg-pas-cher) : Économiser sur votre déménagement
-- [Garde-meuble Strasbourg](/blog/garde-meuble-strasbourg/garde-meuble-strasbourg-guide) : Stockage temporaire
+- [Garde-meuble Strasbourg](/blog/demenagement-strasbourg/garde-meuble-strasbourg-guide) : Stockage temporaire
 - [Déménagement piano](/blog/demenagement-strasbourg/demenagement-piano-strasbourg) : Transport d'instruments
 
 

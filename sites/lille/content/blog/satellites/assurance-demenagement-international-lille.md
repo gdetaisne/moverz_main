@@ -19,7 +19,7 @@ L'assurance déménagement international fonctionne **ad valorem** (selon valeur
 
 À Lille, les déménagements internationaux USA/Asie/Australie (délais 6-14 semaines maritimes, distances 5 850-17 000 km, transbordements multiples ports) multiplient risques vs déménagements locaux Lille-Paris 220 km routier 1 jour : probabilité sinistre international **3-5%** (vs 1-2% local) selon assureurs, justifiant prime 2-4% élevée. Les **objets haute valeur** (piano Steinway 25 000€, œuvres art 15 000€, antiquités familiales 30 000€, mobilier design 20 000€) nécessitent **assurance renforcée ad valorem intégrale** : déclaration valeur exacte (expertises, factures achat, photos), emballage spécialisé caisses bois (pianos), suivi GPS conteneur. Les déménageurs internationaux Lille (AGS, Crown Relocations, Allied Pickfords) proposent 2 formules : assurance standard 2-2,5% (couverture générale tous risques franchise 300-500€) ou premium 3-4% (franchise réduite 100-200€, objets valeur >5 000€ couverts intégralement, suivi renforcé).
 
-Ce guide détaille assurance déménagement international Lille : calcul prime ad valorem, couvertures, franchises, exclusions, comparatif RC pro vs tous risques, déclaration valeur. Consultez notre [guide déménagement international Lille](/blog/demenagement-international-lille/demenagement-international-lille-guide).
+Ce guide détaille assurance déménagement international Lille : calcul prime ad valorem, couvertures, franchises, exclusions, comparatif RC pro vs tous risques, déclaration valeur. Consultez notre [guide déménagement international Lille](/blog/demenagement-lille/demenagement-international-lille-guide).
 
 ## Calcul Prime Assurance Ad Valorem
 
@@ -239,7 +239,7 @@ Objets valeur >1 000€ (bijoux, œuvres art 15k€, antiquités 30k€, pianos 
 
 Déménageurs internationaux Lille (AGS, Crown, Allied) proposent 2 formules : standard 2-2,5% (couverture générale tous risques, franchise 300-500€) ou premium 3-4% (franchise réduite 100-200€, objets valeur >5k€ couverts intégralement, suivi GPS conteneur renforcé, indemnisation rapide 30j vs 60-90j standard).
 
-Consultez notre [guide déménagement international Lille](/blog/demenagement-international-lille/demenagement-international-lille-guide), notre [article prix international](/blog/conseils/prix-demenagement-international-lille-2025), notre [guide formalités douanes](/blog/conseils/formalites-douanieres-demenagement-international) et notre [guide conteneurs](/blog/conseils/transport-conteneur-demenagement-international).
+Consultez notre [guide déménagement international Lille](/blog/demenagement-lille/demenagement-international-lille-guide), notre [article prix international](/blog/demenagement-international-lille/prix-demenagement-international-lille-2025), notre [guide formalités douanes](/blog/demenagement-international-lille/formalites-douanieres-demenagement-international) et notre [guide conteneurs](/blog/demenagement-international-lille/transport-conteneur-demenagement-international).
 
 
 

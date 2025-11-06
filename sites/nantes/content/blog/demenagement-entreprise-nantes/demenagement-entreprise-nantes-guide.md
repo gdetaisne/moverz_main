@@ -23,15 +23,15 @@ featured: true
 Pour votre déménagement d'entreprise à Nantes :
 
 ### Services Professionnels
-- [Déménageur professionnel](/blog/demenageur-nantes/demenageur-nantes-guide) : Spécialistes déménagements professionnels
-- [Prix déménagement](/blog/prix-demenagement-nantes/prix-demenagement-nantes-guide) : Budget et tarifs
+- [Déménageur professionnel](/blog/demenagement-nantes/demenageur-nantes-guide) : Spécialistes déménagements professionnels
+- [Prix déménagement](/blog/demenagement-nantes/prix-demenagement-nantes-guide) : Budget et tarifs
 
 ### Déménagements Spécifiques
-- [Déménagement piano](/blog/demenagement-piano-nantes/demenagement-piano-nantes-guide) : Transport d'instruments de musique
-- [Déménagement international](/blog/demenagement-international-nantes/demenagement-international-nantes-guide) : Transfert de filiale à l'étranger
+- [Déménagement piano](/blog/demenagement-nantes/demenagement-piano-nantes-guide) : Transport d'instruments de musique
+- [Déménagement international](/blog/demenagement-nantes/demenagement-international-nantes-guide) : Transfert de filiale à l'étranger
 
 ### Stockage
-- [Garde-meuble Nantes](/blog/garde-meuble-nantes/garde-meuble-nantes-guide) : Stockage archives et mobilier de bureaux
+- [Garde-meuble Nantes](/blog/demenagement-nantes/garde-meuble-nantes-guide) : Stockage archives et mobilier de bureaux
 
 
 Déménager son entreprise, ses bureaux ou son activité professionnelle à Nantes ou dans l'agglomération nantaise représente un projet stratégique majeur qui va bien au-delà du simple transfert de mobilier. Continuité d'activité, gestion des équipes, protection des données sensibles, optimisation des coûts : chaque détail compte pour réussir cette transition. Ce guide complet s'adresse aux dirigeants d'entreprise, responsables administratifs, et décideurs basés à Nantes pour organiser un déménagement professionnel sans impact sur votre business.
@@ -250,7 +250,7 @@ Une méthodologie rigoureuse garantit un transfert réussi.
 - 200 m² (20-40 postes) : 1-2 jours
 - 500 m²+ : 2-5 jours possibles (selon complexité)
 
-Pour les tarifs détaillés déménagement entreprise selon la surface, consultez notre [guide prix déménagement Nantes](/blog/prix-demenagement-nantes/prix-demenagement-nantes-guide). Si vous devez stocker du matériel ou archives temporairement, le [guide garde-meuble Nantes](/blog/garde-meuble-nantes/garde-meuble-nantes-guide) détaille les solutions professionnelles.
+Pour les tarifs détaillés déménagement entreprise selon la surface, consultez notre [guide prix déménagement Nantes](/blog/demenagement-nantes/prix-demenagement-nantes-guide). Si vous devez stocker du matériel ou archives temporairement, le [guide garde-meuble Nantes](/blog/demenagement-nantes/garde-meuble-nantes-guide) détaille les solutions professionnelles.
 
 ### 5. Communication interne et externe
 

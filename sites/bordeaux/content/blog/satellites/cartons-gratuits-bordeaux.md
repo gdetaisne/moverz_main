@@ -81,7 +81,7 @@ Les boulangeries reçoivent leurs ingrédients (farine, sucre, etc.) dans des sa
 ### Qualité et état des cartons
 **Vérifiez l'état** : évitez les cartons mouillés, déchirés ou souillés. La propreté est essentielle pour protéger vos affaires.
 
-**Variété des tailles** : récupérez des cartons de différentes tailles Consultez également notre [guide complémentaire](/blog/conseils/demenagement-etudiant-pas-cher) pour une approche complète. Les petits cartons sont parfaits pour les livres, les moyens pour les vêtements, et les grands pour les objets volumineux.
+**Variété des tailles** : récupérez des cartons de différentes tailles Consultez également notre [guide complémentaire](/blog/demenagement-etudiant-bordeaux/demenagement-etudiant-pas-cher) pour une approche complète. Les petits cartons sont parfaits pour les livres, les moyens pour les vêtements, et les grands pour les objets volumineux.
 
 **Cartons spéciaux** : recherchez des cartons avec séparateurs (pour la vaisselle) ou des cartons renforcés (pour les objets lourds).
 
@@ -137,4 +137,4 @@ Nous fournissons tous les cartons et matériels d'emballage nécessaires, avec d
 
 ---
 
-*Cet article complète notre [guide complet du déménagement étudiant à Bordeaux](/blog/demenagement-etudiant-bordeaux/guide-complet). Découvrez également nos conseils pour un [déménagement pas cher](/blog/conseils/demenagement-etudiant-pas-cher) et notre [checklist détaillée](/blog/conseils/checklist-demenagement-etudiant) pour ne rien oublier.*
+*Cet article complète notre [guide complet du déménagement étudiant à Bordeaux](/blog/demenagement-etudiant-bordeaux/guide-complet). Découvrez également nos conseils pour un [déménagement pas cher](/blog/demenagement-etudiant-bordeaux/demenagement-etudiant-pas-cher) et notre [checklist détaillée](/blog/demenagement-etudiant-bordeaux/checklist-demenagement-etudiant) pour ne rien oublier.*

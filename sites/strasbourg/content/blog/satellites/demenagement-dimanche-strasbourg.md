@@ -92,5 +92,5 @@ Guide : surcoût détaillé (+20-30% selon acteur), avantages (fluidité, parkin
 
 **Autorisation dimanche Grande Île ?** Oui toujours nécessaire (même processus, délai 10-15j).
 
-[Prix déménageurs Strasbourg](/blog/conseils/prix-demenageur-strasbourg-2025) comparatif complet semaine/weekend.
+[Prix déménageurs Strasbourg](/blog/demenagement-strasbourg/prix-demenageur-strasbourg-2025) comparatif complet semaine/weekend.
 

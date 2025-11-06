@@ -58,7 +58,7 @@ Déménageur visite logement, identifie : étage, largeur escalier, fenêtres ac
 ### 2. Autorisation Fenêtre/Stationnement
 
 **Copropriété** : Prévenir syndic/gardien (enlever stores, volets, plantes rebord fenêtre).  
-**Mairie** : Si stationnement camion Grande Île >2h, autorisation nécessaire (10-15j délai). [Guide autorisations](/blog/conseils/autorisation-stationnement-demenagement-strasbourg).
+**Mairie** : Si stationnement camion Grande Île >2h, autorisation nécessaire (10-15j délai). [Guide autorisations](/blog/demenagement-strasbourg/autorisation-stationnement-demenagement-strasbourg).
 
 ### 3. Installation Jour J
 
@@ -96,5 +96,5 @@ Accidents très rares (<0,5% interventions) si professionnel expérimenté.
 
 **Alternative ?** Porter escaliers (limité 50kg/objet, risque casse élevé, temps ×3). Monte-meuble = investissement rentable sécurité + temps.
 
-[Prix déménageur Strasbourg](/blog/conseils/prix-demenageur-strasbourg-2025) détaille surcoûts complets.
+[Prix déménageur Strasbourg](/blog/demenagement-strasbourg/prix-demenageur-strasbourg-2025) détaille surcoûts complets.
 

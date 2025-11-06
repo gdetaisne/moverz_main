@@ -24,7 +24,7 @@ Transporter 1-5 meubles Lyon (canapé Marketplace Villeurbanne → appartement G
 
 Les facteurs coût transport meubles incluent nombre (1 meuble léger table/chaise 50-80€, 2-3 meubles moyens canapé + lit 100-150€, 4-5 meubles dont lourds armoire/canapé angle 180-250€), volume/poids (chaise 0,2m³ 8 kg vs canapé 3 places 2,5m³ 80 kg vs armoire 3 portes 3m³ 120 kg nécessitant 2 personnes), distance Lyon (intra-Lyon <10 km 0-20€ supplément, métropole 10-25 km +20-50€, >25 km +50-100€), étages sans ascenseur (RDC-2ème 0€, 3-4ème +20-40€, 5ème+ +40-80€), et protection (meubles nus sans couvertures risque rayures/chocs, couvertures molletonnées pros +0€ inclus service).
 
-Ce guide compare solutions transport meubles Lyon (DIY 60-90€, chauffeur indépendant 80-150€, pro 150-250€), détaille tarifs par nombre/type meubles (canapé seul 100-120€, lot 3-4 meubles 150-200€), présente plateformes trouver chauffeurs (Yper, Frizbiz, LeBonCoin services), révèle astuces économiser (grouper plusieurs meubles même trajet, négocier retour vide chauffeur -20-30%, démonter meubles réduire volume), et conseille précautions (photos avant transport, vérifier assurance, protéger angles). Pour déménagement complet, consultez [petit volume Lyon](/blog/conseils/prix-petit-demenagement-lyon).
+Ce guide compare solutions transport meubles Lyon (DIY 60-90€, chauffeur indépendant 80-150€, pro 150-250€), détaille tarifs par nombre/type meubles (canapé seul 100-120€, lot 3-4 meubles 150-200€), présente plateformes trouver chauffeurs (Yper, Frizbiz, LeBonCoin services), révèle astuces économiser (grouper plusieurs meubles même trajet, négocier retour vide chauffeur -20-30%, démonter meubles réduire volume), et conseille précautions (photos avant transport, vérifier assurance, protéger angles). Pour déménagement complet, consultez [petit volume Lyon](/blog/demenagement-petit-volume-lyon/prix-petit-demenagement-lyon).
 
 ## Solutions Transport Meubles
 
@@ -110,7 +110,7 @@ Ce guide compare solutions transport meubles Lyon (DIY 60-90€, chauffeur indé
 
 Transport quelques meubles Lyon coûte 80-250€ selon solution : DIY camionnette 60-90€ (économie max, manutention vous-même, risque casse), chauffeur indépendant 80-150€ (intermédiaire, aide légère, 1-3 meubles moyens), déménageur pro 150-250€ (zéro effort, protections, assurance, meubles lourds/valeur). Tarifs : canapé seul 100-150€, lit 80-150€, armoire 120-200€, lot 3-4 meubles 180-250€. Facteurs : nombre, volume, distance (<10 km 0€, >25 km +50-100€), étages (4-5ème +30-50€).
 
-Économiser : grouper meubles même trajet, négocier retour vide (-20-30€), démonter (volume -40-60%), semaine vs week-end (-15-20%). Marketplace : canapé 200€ + transport 120€ = 320€ vs neuf 900€ (économie 580€). Consultez [prix petit volume](/blog/conseils/prix-petit-demenagement-lyon), [chambre étudiant](/blog/conseils/demenagement-chambre-etudiant-lyon), [camionnette chauffeur](/blog/conseils/camionnette-chauffeur-lyon). Bon transport !
+Économiser : grouper meubles même trajet, négocier retour vide (-20-30€), démonter (volume -40-60%), semaine vs week-end (-15-20%). Marketplace : canapé 200€ + transport 120€ = 320€ vs neuf 900€ (économie 580€). Consultez [prix petit volume](/blog/demenagement-petit-volume-lyon/prix-petit-demenagement-lyon), [chambre étudiant](/blog/demenagement-petit-volume-lyon/demenagement-chambre-etudiant-lyon), [camionnette chauffeur](/blog/demenagement-petit-volume-lyon/camionnette-chauffeur-lyon). Bon transport !
 
 ---
 

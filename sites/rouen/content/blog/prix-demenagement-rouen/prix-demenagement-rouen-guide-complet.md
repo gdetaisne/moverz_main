@@ -18,10 +18,10 @@ Le budget constitue souvent la première préoccupation lorsqu'on envisage un d�
 Découvrez tous nos guides détaillés sur les prix de déménagement à Rouen :
 
 ### Tarifs Détaillés par Type
-- **[Prix Déménageur Rouen 2025](/blog/conseils/prix-demenageur-rouen-2025)** : Tarifs complets par volume, distance et formule
+- **[Prix Déménageur Rouen 2025](/blog/demenagement-rouen/prix-demenageur-rouen-2025/)** : Tarifs complets par volume, distance et formule
 
 ### Services et Surcoûts
-- **[Monte-Meuble Prix Rouen](/blog/conseils/monte-meuble-demenagement-rouen-prix)** : Tarifs équipements spéciaux étages élevés
+- **[Monte-Meuble Prix Rouen](/blog/demenagement-rouen/monte-meuble-demenagement-rouen-prix/)** : Tarifs équipements spéciaux étages élevés
 
 ### Solutions Économiques
 
@@ -419,14 +419,14 @@ Exigez un devis détaillé mentionnant explicitement toutes les prestations incl
 
 ### Tarifs et Estimations
 Optimisez votre budget déménagement :
-- **[Prix Déménageur Rouen 2025](/blog/conseils/prix-demenageur-rouen-2025)** - Grille tarifaire complète par prestations
+- **[Prix Déménageur Rouen 2025](/blog/demenagement-rouen/prix-demenageur-rouen-2025/)** - Grille tarifaire complète par prestations
 
 ### Réduction des Coûts
 Économisez intelligemment :
 
 ### Surcoûts et Services
 Anticipez les majorations :
-- **[Monte-Meuble Prix](/blog/conseils/monte-meuble-demenagement-rouen-prix)** - Tarifs équipements spéciaux
+- **[Monte-Meuble Prix](/blog/demenagement-rouen/monte-meuble-demenagement-rouen-prix/)** - Tarifs équipements spéciaux
 
 ### Aspects Contractuels  
 Sécurisez votre projet :

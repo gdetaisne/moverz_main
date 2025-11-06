@@ -24,7 +24,7 @@ Choisir la bonne taille de box à Lyon évite de payer pour des m² inutiles (bo
 
 Un studio lyonnais moyen (18-22m²  habitables, mobilier lit 140cm + canapé 2 places + table + étagères + électroménager + 40-50 cartons affaires) occupe environ 15-18m³ réels empilés optimalement, correspondant à un box 5m² (hauteur utile boxes 2,20-2,50m = volume 11-12,5m³, suffisant studio avec empilement vertical cartons + petits meubles). Un T2 Lyon (35-40m² habitables, mobilier complet salon + chambre + cuisine + 80-100 cartons) génère 35-40m³ réels, nécessitant box 15m² (volume 33-37,5m³ hauteur 2,20-2,50m). Sous-estimer systématiquement la taille (penser studio = 3m² alors que 5m² nécessaire) constitue l'erreur fréquente (30% clients Shurgard Lyon réévaluent taille à la hausse semaine 1, surcoût changement box + manutention 50-150€).
 
-Ce guide présente équivalences précises tailles boxes / types logements Lyon, détaille calcul volume réel (formules meubles + cartons), révèle erreurs fréquentes éviter (sous/sur-estimation), propose tableau synthétique aide-mémoire, et conseille visite site préalable (Shurgard Jean Macé, Vaise, visualiser boxes avant réservation). Pour tarifs, consultez [prix garde-meuble Lyon](/blog/conseils/prix-garde-meuble-lyon-2025).
+Ce guide présente équivalences précises tailles boxes / types logements Lyon, détaille calcul volume réel (formules meubles + cartons), révèle erreurs fréquentes éviter (sous/sur-estimation), propose tableau synthétique aide-mémoire, et conseille visite site préalable (Shurgard Jean Macé, Vaise, visualiser boxes avant réservation). Pour tarifs, consultez [prix garde-meuble Lyon](/blog/garde-meuble-lyon/prix-garde-meuble-lyon-2025).
 
 ## Équivalences Tailles Boxes / Logements
 
@@ -122,7 +122,7 @@ Box recommandé : 10m² (volume 22-25m³) ou 15m² (33-37,5m³) si T2 très char
 
 Choisir taille box Lyon nécessite calcul volume réel : formule (Surface logement × 0,4) + (Cartons × 0,05) donne m³, correspondance box (5m² = 11m³ studio, 10m² = 22m³ T2 partiel, 15m² = 33m³ T2 complet). Sous-estimer (erreur 70% cas) génère saturation (surcoût changement box +90-150€/mois + manutention 50-100€). Sur-estimer gaspille budget (m² vides payés).
 
-Boxes Lyon : 1m² cartons, 3m² chambre étudiante, 5m² studio (taille populaire 30% locations), 10m² T2 partiel, 15m² T2 complet, 20m² T3. Visite sites Shurgard Jean Macé/Vaise visualiser tailles avant réserver sécurise choix. Consultez [prix](/blog/conseils/prix-garde-meuble-lyon-2025), [Shurgard](/blog/conseils/shurgard-lyon-sites-tarifs), [guide](/blog/garde-meuble/garde-meuble-lyon-guide).
+Boxes Lyon : 1m² cartons, 3m² chambre étudiante, 5m² studio (taille populaire 30% locations), 10m² T2 partiel, 15m² T2 complet, 20m² T3. Visite sites Shurgard Jean Macé/Vaise visualiser tailles avant réserver sécurise choix. Consultez [prix](/blog/garde-meuble-lyon/prix-garde-meuble-lyon-2025), [Shurgard](/blog/garde-meuble-lyon/shurgard-lyon-sites-tarifs), [guide](/blog/garde-meuble-lyon/garde-meuble-lyon-guide-complet).
 
 ---
 

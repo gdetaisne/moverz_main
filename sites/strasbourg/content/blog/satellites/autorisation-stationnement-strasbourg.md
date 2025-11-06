@@ -122,5 +122,5 @@ Certaines villes Eurométropole (Schiltigheim, Illkirch-Graffenstaden) facturent
 
 **Horaires autorisés ?** 6h-10h généralement Grande Île (zones piétonnes après 10h).
 
-[Déménagement Grande Île détails](/blog/conseils/demenageur-grande-ile-strasbourg) contraintes complètes.
+[Déménagement Grande Île détails](/blog/demenagement-strasbourg/demenageur-grande-ile-strasbourg) contraintes complètes.
 

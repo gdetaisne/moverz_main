@@ -11,7 +11,7 @@ publish_date: "2025-03-17"
 author: "Équipe Moverz Nantes"
 ---
 
-Conteneur maritime 20 pieds dédié Nantes-New York (33m³, votre T2 occupe 30m³, reste 3m³ vides payés inutilement) : 12 000€. Même conteneur en **groupage** (vos 30m³ + 2 autres clients totalisant 33m³ complets, coûts partagés) : 10 000€. Économie : **2000€ (17%)** pour accepter délai supplémentaire de 2-3 semaines (attente remplissage conteneur complet Le Havre avant départ = 10-20 jours vs départs hebdomadaires dédiés). Pour une vue d'ensemble complète, consultez notre [guide déménagement international depuis Nantes](/blog/demenagement-international-nantes/demenagement-international-nantes-guide).
+Conteneur maritime 20 pieds dédié Nantes-New York (33m³, votre T2 occupe 30m³, reste 3m³ vides payés inutilement) : 12 000€. Même conteneur en **groupage** (vos 30m³ + 2 autres clients totalisant 33m³ complets, coûts partagés) : 10 000€. Économie : **2000€ (17%)** pour accepter délai supplémentaire de 2-3 semaines (attente remplissage conteneur complet Le Havre avant départ = 10-20 jours vs départs hebdomadaires dédiés). Pour une vue d'ensemble complète, consultez notre [guide déménagement international depuis Nantes](/blog/demenagement-nantes/demenagement-international-nantes-guide).
 
 À Nantes, AGS Déménagement Orvault (19 rue Léon Gaumont, 141 pays) et Demidov organisent 60-70% de leurs déménagements internationaux en groupage : formule standard économique pour volumes 10-40m³ (studio à T3), destinations mondiales (New York, Montréal, Shanghai, Sydney tous groupables), et clients acceptant flexibilité délais (+2-3 semaines transit vs timing strict corporate imposant dédiés). Les 30-40% conteneurs dédiés concernent urgences relatives, gros volumes maisons 60-80m³ (rentabilité conteneur 40 pieds dédié optimale), ou clients corporate budgets illimités priorité rapidité.
 
@@ -197,7 +197,7 @@ AGS Déménagement Orvault et Demidov Nantes organisent ces groupages en mutuali
 Notre recommandation Nantes : Groupage par défaut si timing flexible >4 mois anticipation (économie 1500-3500€ T2-T3 finance 2-4 mois loyer destination ou mobilier neuf), dédié si timing serré <8 semaines ou corporate paie (surcoût 2000€ négligeable budget entreprise, rapidité +3 sem. prioritaire), et calculez impact meublé temporaire destination (groupage +3 sem. = +3 sem. meublé 3000-4500$ annulant économie 2000€ sauf si vous synchronisez arrivée personnelle avec conteneur retardé).
 
 
-Pour aller plus loin, explorez notre [guide déménagement international depuis Nantes](/blog/demenagement-international-nantes/demenagement-international-nantes-guide) ainsi que nos guides complémentaires : [déménagement vers USA et Canada](/blog/conseils/demenagement-nantes-usa-canada) et [déménagement vers UK post-Brexit](/blog/conseils/demenagement-nantes-uk-post-brexit).
+Pour aller plus loin, explorez notre [guide déménagement international depuis Nantes](/blog/demenagement-nantes/demenagement-international-nantes-guide) ainsi que nos guides complémentaires : [déménagement vers USA et Canada](/blog/demenagement-international-nantes/demenagement-nantes-usa-canada) et [déménagement vers UK post-Brexit](/blog/demenagement-international-nantes/demenagement-nantes-uk-post-brexit).
 
 ## Questions Fréquentes
 

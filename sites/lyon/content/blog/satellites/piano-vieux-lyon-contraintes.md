@@ -24,7 +24,7 @@ Le Vieux-Lyon (5ème arrondissement) représente le quartier le plus difficile d
 
 Un piano droit standard 230-280 kg (Yamaha U1, Kawai K-300) se transporte au Vieux-Lyon uniquement par portage manuel escaliers avec équipe renforcée 4-5 déménageurs (vs 2-3 quartiers normaux), durée intervention 4-6h (vs 2-3h), risques élevés (chocs murs/rampes virages serrés, fatigue extrême équipe générant faux-mouvements, coincement piano paliers si largeur sous-estimée). Les déménageurs lyonnais refusent fréquemment interventions Vieux-Lyon 4ème+ étage si escaliers <85 cm largeur (impossible physiquement passer piano sans risque destruction instrument ou blessure grave équipe), imposant repérage préalable obligatoire (visite technique mesure précise escaliers centimètre près, photos, décision faisabilité).
 
-Ce guide détaille contraintes Vieux-Lyon (escaliers, rues, immeubles), explique pourquoi monte-meuble impossible (rues trop étroites), révèle surcoûts réels (+300-500€), présente équipe nécessaire (4-5 personnes portage extrême), et propose alternatives (éviter Vieux-Lyon installation piano, envisager piano numérique 40-80 kg portable 2 personnes). Pour prix détaillés, consultez [tarifs piano Lyon](/blog/piano/prix-demenagement-piano-droit-lyon).
+Ce guide détaille contraintes Vieux-Lyon (escaliers, rues, immeubles), explique pourquoi monte-meuble impossible (rues trop étroites), révèle surcoûts réels (+300-500€), présente équipe nécessaire (4-5 personnes portage extrême), et propose alternatives (éviter Vieux-Lyon installation piano, envisager piano numérique 40-80 kg portable 2 personnes). Pour prix détaillés, consultez [tarifs piano Lyon](/blog/demenagement-piano-lyon/prix-demenagement-piano-droit-lyon).
 
 ## Escaliers Médiévaux : Caractéristiques
 
@@ -94,7 +94,7 @@ Ce guide détaille contraintes Vieux-Lyon (escaliers, rues, immeubles), explique
 
 Déménager un piano dans le Vieux-Lyon (5ème) impose contraintes extrêmes : escaliers médiévaux 80-95 cm largeur raides 25-30°, portage manuel uniquement (monte-meuble impossible rues 1,5-2 m), équipe renforcée 4-5 personnes, durée 4-6h, surcoût +40-60% (800-1000€ piano droit 4ème vs 570-730€ quartier standard). Les rues étroites interdisent camion-nacelle, les immeubles 15ème-17ème siècles n'ont pas ascenseurs adaptés, les escaliers pierre irréguliers compliquent portage.
 
-Alternatives : éviter Vieux-Lyon si possible (privilégier Confluence/Villeurbanne), rez-de-chaussée uniquement si Vieux-Lyon inévitable (350-500€ vs 800-1000€ 4ème), piano numérique (60-80 kg portable, 100-150€ déménagement), ou repérage préalable impératif (mesure escaliers, faisabilité vérifiée). Consultez [prix piano](/blog/piano/prix-demenagement-piano-droit-lyon), [monte-meuble](/blog/conseils/monte-meuble-piano-lyon), [guide complet](/blog/piano/demenagement-piano-lyon-guide). Bon courage !
+Alternatives : éviter Vieux-Lyon si possible (privilégier Confluence/Villeurbanne), rez-de-chaussée uniquement si Vieux-Lyon inévitable (350-500€ vs 800-1000€ 4ème), piano numérique (60-80 kg portable, 100-150€ déménagement), ou repérage préalable impératif (mesure escaliers, faisabilité vérifiée). Consultez [prix piano](/blog/demenagement-piano-lyon/prix-demenagement-piano-droit-lyon), [monte-meuble](/blog/demenagement-piano-lyon/monte-meuble-piano-lyon), [guide complet](/blog/demenagement-piano-lyon/demenagement-piano-lyon-guide-complet). Bon courage !
 
 ---
 

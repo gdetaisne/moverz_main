@@ -11,7 +11,7 @@ publish_date: "2025-02-13"
 author: "Équipe Moverz Nantes"
 ---
 
-Déménager sans faire appel à un professionnel : l'option la plus économique pour un budget serré, mais aussi la plus exigeante physiquement et logistiquement. À Nantes, où un déménagement T2 avec déménageur coûte 600-800€ en formule économique (fiche locale, oct. 2025), gérer soi-même avec location d'utilitaire ramène la facture à 185-270€ – une économie de 330-530€ pour une journée de manutention intense. Pour une vue d'ensemble complète, consultez notre [guide déménagement pas cher à Nantes](/blog/demenagement-pas-cher-nantes/demenagement-pas-cher-nantes-guide).
+Déménager sans faire appel à un professionnel : l'option la plus économique pour un budget serré, mais aussi la plus exigeante physiquement et logistiquement. À Nantes, où un déménagement T2 avec déménageur coûte 600-800€ en formule économique (fiche locale, oct. 2025), gérer soi-même avec location d'utilitaire ramène la facture à 185-270€ – une économie de 330-530€ pour une journée de manutention intense. Pour une vue d'ensemble complète, consultez notre [guide déménagement pas cher à Nantes](/blog/demenagement-nantes/demenagement-pas-cher-nantes-guide).
 
 Le DIY (Do It Yourself) séduit 25-30% des Nantais en déménagement, majoritairement studios/T1 (jeunes actifs, étudiants parmi les 55 000 de la métropole) et quelques T2 de trentenaires sportifs bien entourés. La recette : louer un utilitaire 12-20m³ chez Europcar, Sixt ou Hertz à Nantes (aéroport ou centre-ville), recruter 2-4 amis costauds, et orchestrer l'opération sur 8-12h.
 
@@ -153,7 +153,7 @@ Les quartiers nantais modernes (Île de Nantes, Doulon, Bellevue rénové) facil
 Nos conseils finaux : sur-dimensionnez utilitaire 15-20% (éviter double trajet), prenez assurance tous risques +25€ (protection franchise 1500€), recrutez 1-2 helpers de plus que nécessaire strict (filet sécurité défaillances), consultez météo et reportez si pluie battante, et calculez honnêtement votre seuil effort/économie. DIY T1 économise 150-200€ pour 6-8h effort (rentable). DIY T3 économise 400€ pour 18-20h manutention 6 personnes (questionnable sauf troupe sportive motivée).
 
 
-Pour aller plus loin, explorez notre [guide déménagement pas cher à Nantes](/blog/demenagement-pas-cher-nantes/demenagement-pas-cher-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement pas cher 2025](/blog/conseils/prix-demenagement-pas-cher-nantes-2025) et [astuces pour réduire les coûts](/blog/conseils/astuces-reduire-cout-demenagement-nantes).
+Pour aller plus loin, explorez notre [guide déménagement pas cher à Nantes](/blog/demenagement-nantes/demenagement-pas-cher-nantes-guide) ainsi que nos guides complémentaires : [prix déménagement pas cher 2025](/blog/demenagement-pas-cher-nantes/prix-demenagement-pas-cher-nantes-2025) et [astuces pour réduire les coûts](/blog/demenagement-pas-cher-nantes/astuces-reduire-cout-demenagement-nantes).
 
 ## Questions Fréquentes
 

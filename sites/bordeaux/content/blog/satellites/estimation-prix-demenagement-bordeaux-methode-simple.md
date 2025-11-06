@@ -52,7 +52,7 @@ Le transport d'objets spécifiques comme un piano ou des œuvres d'art nécessit
 
 Pour obtenir une estimation précise, commencez par inventorier méticuleusement vos biens. Prenez en photo chaque pièce et listez les meubles volumineux. Cette démarche vous aide à évaluer plus précisément le volume réel à déménager. N'oubliez pas les objets stockés dans les caves, greniers ou garages qui peuvent représenter plusieurs mètres cubes supplémentaires.
 
-Contactez au moins trois entreprises de déménagement pour [comparer les devis](/blog/conseils/comparatif-prix-devis-demenagement-bordeaux). Les professionnels sérieux proposent des visites techniques gratuites qui permettent d'établir des estimations précises. Cette étape est cruciale car elle révèle les contraintes d'accès que vous n'auriez peut-être pas identifiées.
+Contactez au moins trois entreprises de déménagement pour [comparer les devis](/blog/prix-demenagement-bordeaux/comparatif-prix-devis-demenagement-bordeaux). Les professionnels sérieux proposent des visites techniques gratuites qui permettent d'établir des estimations précises. Cette étape est cruciale car elle révèle les contraintes d'accès que vous n'auriez peut-être pas identifiées.
 
 ## Optimiser votre budget déménagement
 
@@ -60,7 +60,7 @@ Plusieurs stratégies permettent de réduire le coût de votre déménagement à
 
 Participez activement au déménagement en emballant vous-même vos affaires. Cette démarche peut vous faire économiser 200 à 400 €. De même, le démontage de vos meubles simples vous permet de réduire les coûts de main-d'œuvre. Attention cependant à ne pas vous lancer dans des opérations complexes qui pourraient endommager vos biens.
 
-## Les [aides financières](/blog/conseils/aide-financiere-demenagement-etudiant) disponibles
+## Les [aides financières](/blog/demenagement-etudiant-bordeaux/aide-financiere-demenagement-etudiant) disponibles
 
 N'oubliez pas de vous renseigner sur les aides financières disponibles. La CAF propose parfois des aides au déménagement pour les familles modestes. Votre employeur peut également participer aux frais de déménagement dans le cadre d'une mutation professionnelle. Ces aides, bien que souvent modestes, peuvent contribuer à alléger votre budget.
 

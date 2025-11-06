@@ -480,9 +480,9 @@ Le déménagement bureaux de nuit à Lille représente un **surcoût de 50-80 %*
 ---
 
 **Liens utiles** :
-- [Déménagement Entreprise Lille : Guide Complet](/blog/demenagement-entreprise-lille/demenagement-entreprise-lille-guide)
-- [Déménagement Weekend Bureaux](/blog/conseils/demenagement-bureaux-weekend-lille)
-- [Transfert IT Entreprise](/blog/conseils/transfert-materiel-informatique-entreprise-lille)
+- [Déménagement Entreprise Lille : Guide Complet](/blog/demenagement-lille/demenagement-entreprise-lille-guide)
+- [Déménagement Weekend Bureaux](/blog/entreprise/demenagement-bureaux-weekend-lille)
+- [Transfert IT Entreprise](/blog/entreprise/transfert-materiel-informatique-entreprise-lille)
 
 
 

@@ -18,7 +18,7 @@ author: "Équipe Moverz Montpellier"
 # Prix Déménagement T2 à Montpellier 2025
 
 
-Pour comprendre tous les aspects du prix déménagement à Montpellier, consultez notre [guide complet des prix déménagement à Montpellier](/blog/prix-demenagement-montpellier/prix-demenagement-montpellier).
+Pour comprendre tous les aspects du prix déménagement à Montpellier, consultez notre [guide complet des prix déménagement à Montpellier](/blog/demenagement-montpellier/prix-demenagement-montpellier).
 
 
 Déménager un T2 à Montpellier coûte 700-1 200€ selon services, étages, distance et période. Formule économique (vous emballez, déménageur transporte) : 700-850€. Formule clé en main (tout compris) : 900-1 200€. Surcoûts principaux : Écusson +15-25% (150-250€), août +20% (140-240€), étages +50€/niveau, weekend +10-15%.

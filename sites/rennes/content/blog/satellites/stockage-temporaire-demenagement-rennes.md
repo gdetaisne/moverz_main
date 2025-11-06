@@ -14,13 +14,13 @@ author: "Équipe Moverz Rennes"
 
 Vous déménagez à Rennes avec un décalage entre la sortie de votre ancien logement et l'entrée dans le nouveau ? Travaux dans le nouveau T2, attente livraison clés, vente de l'ancien logement finalisée avant achat du nouveau : ces situations créent un besoin de **stockage temporaire de 1 à 3 mois** en moyenne. Plutôt que de payer un double loyer ou d'imposer vos cartons à des proches, louer un box de stockage est souvent la solution la plus économique et pratique.
 
-À Rennes, le marché immobilier tendu (88,9% de résidences principales, forte rotation étudiante avec 70 000 étudiants) génère fréquemment des décalages de 2 à 4 semaines entre deux baux. Un box temporaire de 6 m² pour un T2 coûte 65-90€/mois chez Locakase (5.0/5), Homebox (4.6-4.9/5) ou Costockage, soit 130-270€ sur 2-3 mois. Cette dépense est rentable face à un double loyer de 600-800€/mois ou aux contraintes logistiques d'un stockage chez famille/amis. Ces éléments s'inscrivent dans le contexte plus large de notre [stockage sécurisé à Rennes](/blog/garde-meuble-rennes/garde-meuble-rennes).
+À Rennes, le marché immobilier tendu (88,9% de résidences principales, forte rotation étudiante avec 70 000 étudiants) génère fréquemment des décalages de 2 à 4 semaines entre deux baux. Un box temporaire de 6 m² pour un T2 coûte 65-90€/mois chez Locakase (5.0/5), Homebox (4.6-4.9/5) ou Costockage, soit 130-270€ sur 2-3 mois. Cette dépense est rentable face à un double loyer de 600-800€/mois ou aux contraintes logistiques d'un stockage chez famille/amis. Ces éléments s'inscrivent dans le contexte plus large de notre [stockage sécurisé à Rennes](/blog/demenagement-rennes/garde-meuble-rennes).
 
 ## Pourquoi un Stockage Temporaire ?
 
 ### Décalage Entre Deux Logements
 
-Pour comprendre tous les aspects de ce sujet, consultez notre [guide complet du garde-meuble à Rennes](/blog/garde-meuble-rennes/garde-meuble-rennes).
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide complet du garde-meuble à Rennes](/blog/demenagement-rennes/garde-meuble-rennes).
 
 Le cas le plus fréquent à Rennes : vous libérez votre ancien logement (Thabor, centre, Villejean) le 30 juin, mais votre nouveau logement (Cleunay, Maurepas) n'est disponible que le 15 juillet. **Décalage : 15 jours.** Options : hôtel (60-80€/nuit × 15 = 900-1200€), famille/amis (contrainte), ou **box 6m² : 65-90€ pour 1 mois = solution optimale**.
 
@@ -116,7 +116,7 @@ Possible mais facturé 1 mois minimum (pratique secteur). 2 semaines = 1 mois pa
 **Les déménageurs proposent-ils du stockage ?**
 Oui, ABC Lemarié et Eurodem 35 (déménageurs rennais) proposent garde-meuble couplé déménagement. Prix : 15-25€/m³/mois (supérieur au self-stockage).
 
-Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [solutions de garde-meuble rennais](/blog/garde-meuble-rennes/garde-meuble-rennes).
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [solutions de garde-meuble rennais](/blog/demenagement-rennes/garde-meuble-rennes).
 
 ---
 **Sources :** Fiche Rennes, Locakase, Homebox, ABC Lemarié, pratiques secteur

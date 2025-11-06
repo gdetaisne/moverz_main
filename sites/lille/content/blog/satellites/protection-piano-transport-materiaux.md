@@ -19,7 +19,7 @@ La **protection piano transport** nécessite **matériel spécialisé renforcé*
 
 À Lille, la **casse piano transport** (2-3% flux) provient majoritairement **protection insuffisante** 70-80% cas : sangles standards 2t cassent sous-tension virage (piano 220 kg glisse camion, choc paroi = rayures table harmonie 2-5k€ réparation), couvertures fines 3 mm (chocs angles portes 75 cm passage serré traversent couvertures = bosses châssis 500-1 500€), chariot inadapté 150 kg (bascule piano 220 kg, roue plie, piano tombe = casse 8-15k€), calage absent (piano libre camion, freinage A1 Lille-Paris = glissement avant percussion cabine = dégâts mécaniques 1-3k€). Les **spécialistes protection maximale** évitent sinistres : Monte-Piano Lille sinistres 1% (vs généralistes 4-6%), assurance 100k€ indemnise franchis 300€ si rare accident malgré protections (table harmonie fissurée choc exceptionnel route nid-poule 40 cm profond désaccordage inattendu). Le **coût protection** inclus forfaits spécialistes (250-1 200€ déménagement intègre matériel 0€ supplément vs généralistes parfois facturent "matériel piano" +50-100€ séparément sangles/housses location ponctuelle).
 
-Ce guide détaille protection piano transport : sangles 5-10t, couvertures épaisses, housses coins, chariots, calage, matériel spécialisé vs standard, coûts. Consultez notre [guide déménagement piano Lille](/blog/conseils/demenagement-piano-lille-prix).
+Ce guide détaille protection piano transport : sangles 5-10t, couvertures épaisses, housses coins, chariots, calage, matériel spécialisé vs standard, coûts. Consultez notre [guide déménagement piano Lille](/blog/demenagement-piano-lille/demenagement-piano-lille-prix).
 
 ## Sangles Piano Renforcées
 
@@ -160,7 +160,7 @@ Protection incluse forfaits : spécialistes Monte-Piano 250-1 200€ incluent ma
 
 Matériel spécialisé justifie tarifs : piano droit RDC 250-450€ inclut sangles 5t 250€ amortissement + couvertures 400€ + chariot 1 200€ amortissement + main-d'œuvre 4 porteurs 2h = coûts réels 150€ matériel amorti + 200€ MO = 350€ (vs facturé 250-450€ = marge 0-100€ raisonnable 0-22%). Queue 600-1 200€ inclut matériel 10t 400€ + 6 porteurs 4h = 250€ matériel + 400€ MO = 650€ (vs 600-1 200€ = marge 0-550€ = 0-85% variable).
 
-Consultez notre [guide déménagement piano Lille](/blog/conseils/demenagement-piano-lille-prix), notre [guide spécialistes](/blog/conseils/specialistes-piano-lille), notre [guide assurance](/blog/conseils/assurance-piano-demenagement-lille) et notre [guide Vieux-Lille](/blog/conseils/piano-vieux-lille-acces-difficiles).
+Consultez notre [guide déménagement piano Lille](/blog/demenagement-piano-lille/demenagement-piano-lille-prix), notre [guide spécialistes](/blog/demenagement-piano-lille/specialistes-piano-lille), notre [guide assurance](/blog/demenagement-piano-lille/assurance-piano-demenagement-lille) et notre [guide Vieux-Lille](/blog/demenagement-piano-lille/piano-vieux-lille-acces-difficiles).
 
 
 

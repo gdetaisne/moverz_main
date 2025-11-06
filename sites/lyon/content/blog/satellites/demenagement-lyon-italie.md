@@ -24,7 +24,7 @@ Déménager de Lyon vers l'Italie bénéficie de la proximité géographique (Tu
 
 Lyon et l'Italie entretiennent des liens économiques et culturels forts : la métropole lyonnaise accueille une importante communauté italienne (~20 000 personnes), le consulat d'Italie à Lyon (12 Rue de Sèze, 69006) facilite les démarches administratives, et les flux professionnels entre les deux régions (Auvergne-Rhône-Alpes ↔ Piémont-Lombardie) génèrent des déménagements réguliers. L'autoroute A43 Lyon-Turin (tunnel du Fréjus, péage ~45€) constitue l'axe principal, complétée par l'A8 Lyon-Vintimille (côte méditerranéenne, 450 km).
 
-Ce guide détaille les prix réels Lyon-Turin/Milan/Rome 2025, explique les formalités UE simplifiées (différence majeure vs Suisse), compare les destinations italiennes depuis Lyon, présente les déménageurs lyonnais spécialisés Italie, et révèle les particularités pratiques (langue, résidence, installation). Pour compléter, consultez [notre guide global déménagement international Lyon](/blog/international/demenagement-international-lyon-guide).
+Ce guide détaille les prix réels Lyon-Turin/Milan/Rome 2025, explique les formalités UE simplifiées (différence majeure vs Suisse), compare les destinations italiennes depuis Lyon, présente les déménageurs lyonnais spécialisés Italie, et révèle les particularités pratiques (langue, résidence, installation). Pour compléter, consultez [notre guide global déménagement international Lyon](/blog/demenagement-international-lyon/demenagement-international-lyon-guide-complet).
 
 ## Prix Déménagement Lyon-Italie 2025
 
@@ -191,7 +191,7 @@ Déménager de Lyon vers l'Italie (Turin 300 km, Milan 400 km, Rome 850 km) comb
 
 Le transport routier direct s'impose pour Turin et Milan (distances 300-400 km, 2-4 jours, tarifs maîtrisés 2000-4000€ T2). Rome et le sud (850+ km) justifient une comparaison avec le maritime via Marseille (container groupage 4000-7000€, délai 15-20j, économie possible si flexibilité dates). Les déménageurs Lyon spécialisés Italie (AGS, Allied, S.I.E.T) maîtrisent l'axe Lyon-Turin-Milan et disposent de partenaires locaux garantissant livraison et assistance installation.
 
-Pour explorer d'autres destinations internationales depuis Lyon (Suisse, Allemagne, destinations intercontinentales), consultez [notre guide complet international Lyon](/blog/international/demenagement-international-lyon-guide). Explorez aussi [les prix détaillés déménagement international](/blog/conseils/prix-demenagement-international-lyon) pour budgétiser précisément. Buon viaggio e buon trasloco !
+Pour explorer d'autres destinations internationales depuis Lyon (Suisse, Allemagne, destinations intercontinentales), consultez [notre guide complet international Lyon](/blog/demenagement-international-lyon/demenagement-international-lyon-guide-complet). Explorez aussi [les prix détaillés déménagement international](/blog/demenagement-international-lyon/prix-demenagement-international-lyon) pour budgétiser précisément. Buon viaggio e buon trasloco !
 
 ---
 

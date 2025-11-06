@@ -19,7 +19,7 @@ La **livraison meuble occasion Leboncoin Lille** (achat particulier Lomme → vo
 
 À Lille, le **marché Leboncoin occasion** meubles très actif : 2 000-3 000 annonces meubles/jour métropole (canapés 50-300€ vs neuf IKEA 400-800€ économie 50-70%, électroménager 50-250€ vs neuf 300-800€, tables 40-200€, armoires 60-250€), **quartiers vendeurs** périphérie (Lomme, Lambersart, Saint-André maisons familles déménageant vendent mobilier, volumes importants disponibilité élevée) vs Centre (République, Vieux-Lille appartements moins renouvellement, annonces plus rares). Le **timing achat optimal** : **juin-juillet** (déménagements massifs, 40% annonces année, choix maximum, négociation possible -20-30% vendeurs pressés libérer), **janvier** (renouvellements baux annuels janvier-février 15-20% flux, galette rois période creuse = négociation), **septembre** (rentrée, installations nouvelles, 15% annonces). Les **transporteurs spécialisés Leboncoin** : 10-15 entreprises Lille positionnées niche "livraison achats occasion" (coursier-meuble-lille.fr, transport-leboncoin-nord.fr, tarifs forfaitaires 60-150€ transparents).
 
-Ce guide détaille livraison meuble occasion Leboncoin Lille : solutions transport, tarifs, précautions achat, négociation vendeur, timing optimal. Consultez notre [guide transport meubles Lille](/blog/conseils/transport-meubles-lille-sans-demenageur).
+Ce guide détaille livraison meuble occasion Leboncoin Lille : solutions transport, tarifs, précautions achat, négociation vendeur, timing optimal. Consultez notre [guide transport meubles Lille](/blog/petit-demenagement-lille/transport-meubles-lille-sans-demenageur).
 
 ## Solutions Livraison Meuble Leboncoin
 
@@ -221,7 +221,7 @@ Marché Leboncoin Lille : 2 000-3 000 annonces meubles/jour métropole (canapés
 
 Cas d'usage : **achat IKEA Lezennes** canapé KLIPPAN 150€ → Wazemmes 12 km (IKEA livraison 49€ standard 2-5j ou 79€ express lendemain vs coursier 80€ jour même vs DIY Berlingo 60€), **récupération Leboncoin** armoire donnée Lomme → République 8 km (ami pickup 10€ optimal si disponible vs DIY 65€ vs coursier 80€), **achat occasion** Fives table 80€ livrée négociation vendeur +30€ = 110€ total vs 80€ + coursier 90€ = 170€ (économie 60€).
 
-Consultez notre [guide transport meubles Lille](/blog/conseils/transport-meubles-lille-sans-demenageur), notre [guide petit déménagement](/blog/conseils/petit-demenagement-lille-studio-t1), notre [guide location camion](/blog/location-camion-demenagement-lille/location-camion-demenagement-lille-guide) et notre [article DIY](/blog/conseils/diy-demenagement-lille-budget-mini).
+Consultez notre [guide transport meubles Lille](/blog/petit-demenagement-lille/transport-meubles-lille-sans-demenageur), notre [guide petit déménagement](/blog/petit-demenagement-lille/petit-demenagement-lille-studio-t1), notre [guide location camion](/blog/demenagement-lille/location-camion-demenagement-lille-guide) et notre [article DIY](/blog/demenagement-pas-cher-lille/diy-demenagement-lille-budget-mini).
 
 
 

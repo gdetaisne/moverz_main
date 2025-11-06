@@ -60,7 +60,7 @@ Pour un déménagement Bordeaux-Lyon, privilégiez les entreprises spécialisée
 
 Vérifiez que l'entreprise dispose des assurances nécessaires pour couvrir la valeur de vos biens pendant le transport. Les déménagements longue distance multiplient les risques de dommages, nécessitant des garanties adaptées. Demandez les certificats d'assurance et vérifiez les plafonds de couverture.
 
-## Les [aides financières](/blog/conseils/aide-financiere-demenagement-etudiant) disponibles
+## Les [aides financières](/blog/demenagement-etudiant-bordeaux/aide-financiere-demenagement-etudiant) disponibles
 
 Les mutations professionnelles peuvent bénéficier d'aides financières spécifiques. Votre employeur peut participer aux frais de déménagement dans le cadre d'une mutation, généralement à hauteur de 25 à 40 % du coût total. Ces aides, bien que souvent modestes, peuvent contribuer à alléger votre budget.
 

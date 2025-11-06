@@ -19,7 +19,7 @@ Désencombrer **30% affaires** avant déménagement Lille économise **280-630�
 
 À Lille, désencombrer avant déménagement maximise économies car **tarif volume** : déménageur facture m³ transporté (T2 standard 35m³ = 980€, T2 trié 28m³ = 784€, économie 196€ = 20%). Les Lillois accumulant 5-10 ans possessions (couples Wazemmes 10 ans = cave+grenier pleins objets oubliés) économisent le plus : tri 30-40% réaliste vs jeune actif 2 ans accumulation = tri 10-15% seulement. Les canaux revente Lille : **Leboncoin** (meubles IKEA 50-200€, électro 30-150€, touche 2M visiteurs/mois Nord), **Emmaüs** Lille-Lomme (dons déductibles impôts 66%), **vide-greniers** Wazemmes/Vieux-Lille mai-septembre (vendez lot 100-300€ journée), **recycleries** Lille (réemploi gratuit, écologie). Timing tri : **3-4 semaines avant** déménagement (étalez 2h/soir ×10 = 20h totales vs concentrer 2 jours = épuisant).
 
-Ce guide détaille désencombrement déménagement Lille : économies chiffrées, méthode tri KonMari, canaux revente/don, timing, calcul volume économisé. Consultez notre [guide déménagement pas cher Lille](/blog/demenagement-pas-cher-lille/demenagement-pas-cher-lille-guide).
+Ce guide détaille désencombrement déménagement Lille : économies chiffrées, méthode tri KonMari, canaux revente/don, timing, calcul volume économisé. Consultez notre [guide déménagement pas cher Lille](/blog/demenagement-lille/demenagement-pas-cher-lille-guide).
 
 ## Économies Désencombrement Chiffrées
 
@@ -168,7 +168,7 @@ Arbitrage fiscal Emmaüs vs Leboncoin : don 300€ Emmaüs = déduction 198€ i
 
 Bénéfices secondaires désencombrement : charge mentale réduite (moins objets = moins stress), temps gagné (30% cartons moins = -4h emballage T2), installation rapide nouveau logement (pas encombrer 35m² affaires inutiles), écologie (réemploi vs jeter).
 
-Consultez notre [guide déménagement pas cher Lille](/blog/demenagement-pas-cher-lille/demenagement-pas-cher-lille-guide), notre [guide DIY](/blog/conseils/diy-demenagement-lille-budget-mini), notre [article tri](/blog/conseils/demenagement-pas-cher-lille-top-10-astuces) et notre [guide formule éco](/blog/conseils/formule-economique-vs-standard-demenagement).
+Consultez notre [guide déménagement pas cher Lille](/blog/demenagement-lille/demenagement-pas-cher-lille-guide), notre [guide DIY](/blog/demenagement-pas-cher-lille/diy-demenagement-lille-budget-mini), notre [article tri](/blog/demenagement-pas-cher-lille/demenagement-pas-cher-lille-top-10-astuces) et notre [guide formule éco](/blog/demenagement-pas-cher-lille/formule-economique-vs-standard-demenagement).
 
 
 

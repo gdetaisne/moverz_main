@@ -19,7 +19,7 @@ Le **déménagement senior downsizing Lille** (maison 80m³ → studio résidenc
 
 À Lille, les **résidences seniors/services** (25-30 structures métropole : Jardins d'Arcadie, Domitys, Cogedim Club, Ovelia, EHPAD publics/privés 40+) accueillent **1 200-1 800 nouveaux seniors/an** selon estimations (déménagements entrants résidences) dont 70-80% proviennent maisons individuelles périphérie nécessitant tri massif 60-80% possessions. Le **tri émotionnel difficile** (meubles familiaux 40 ans, souvenirs enfants, objets défunts conjoint) nécessite **accompagnement spécialisé** : déménageurs expérience seniors (bienveillance, patience, respect rythme lent), assistantes sociales CLIC Lille (Centres Locaux Information Coordination gérontologique, accompagnement gratuit), associations aide seniors (Petits Frères Pauvres, aide tri bénévole). Les **services inclus formules seniors** : récupération objets donnés (Emmaüs Lomme enlèvement gratuit meubles restants 40-60m³, recycleries), vente Leboncoin assistée (valorisation mobilier qualité 1 000-3 000€ revenus réduisent coût déménagement), nettoyage ancien logement (maison vidée propre remise bail/vente, 200-400€).
 
-Ce guide détaille déménagement senior downsizing Lille : tri accompagné, volumes typiques, tarifs résidences, acteurs spécialisés, conseils familles. Consultez notre [guide déménageur Lille](/blog/demenageur-lille/demenageur-lille-expert).
+Ce guide détaille déménagement senior downsizing Lille : tri accompagné, volumes typiques, tarifs résidences, acteurs spécialisés, conseils familles. Consultez notre [guide déménageur Lille](/blog/demenagement-lille/demenageur-lille-expert).
 
 ## Tri Downsizing : Étape Critique
 
@@ -216,7 +216,7 @@ Spécificités prestation seniors : rythme lent 8-12h (vs standard 6-8h, pauses 
 
 1 200-1 800 nouveaux seniors/an résidences Lille dont 70-80% proviennent maisons individuelles périphérie (Lomme, Lambersart, Saint-André) nécessitant tri massif 60-80% possessions. Tri émotionnel difficile (40 ans meubles familiaux, souvenirs enfants/petits-enfants, objets conjoint défunt) nécessite accompagnement spécialisé bienveillance vs déménagement standard 2h tri suffisant jeunes actifs.
 
-Consultez notre [guide petit déménagement Lille](/blog/conseils/petit-demenagement-lille-studio-t1), notre [guide déménageur Lille](/blog/demenageur-lille/demenageur-lille-expert), notre [article tri déménagement](/blog/conseils/desencombrement-avant-demenagement-economie) et notre [guide garde-meuble](/blog/garde-meuble-lille/garde-meuble-lille-guide).
+Consultez notre [guide petit déménagement Lille](/blog/petit-demenagement-lille/petit-demenagement-lille-studio-t1), notre [guide déménageur Lille](/blog/demenagement-lille/demenageur-lille-expert), notre [article tri déménagement](/blog/demenagement-pas-cher-lille/desencombrement-avant-demenagement-economie) et notre [guide garde-meuble](/blog/demenagement-lille/garde-meuble-lille-guide).
 
 
 

@@ -36,7 +36,7 @@ L'assurance constitue souvent le poste de coût le plus mal compris dans les off
 
 Certains déménageurs bordelais proposent des assurances "à la valeur", particulièrement intéressantes pour les objets de valeur. Cette approche, en plus d'être plus transparente, évite les litiges sur l'évaluation des dommages. Vérifiez toujours les franchises et les exclusions de garantie avant de souscrire une assurance.
 
-## Les [frais cachés](/blog/conseils/frais-caches-demenagement-bordeaux) : anticiper les surprises
+## Les [frais cachés](/blog/prix-demenagement-bordeaux/frais-caches-demenagement-bordeaux) : anticiper les surprises
 
 Les frais cachés constituent le piège le plus fréquent dans les offres de déménagement low-cost. Les frais de carburant, souvent non inclus dans le prix de base, peuvent représenter 50 à 100 € selon la distance parcourue. Les péages, particulièrement nombreux autour de Bordeaux, constituent un poste de dépense non négligeable.
 

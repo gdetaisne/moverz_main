@@ -19,7 +19,7 @@ DIY camion (90€ T2 Wazemmes) ou déménageur professionnel (1 000€) ? **Éco
 
 À Lille, 30-35% déménagements sont DIY camion (étudiants 70 000 budgets serrés, jeunes actifs <30 ans, studios/T1/petits T2), 65-70% utilisent déménageur professionnel (T2-T3 couples/familles valorisant temps >argent, seniors, gros volumes, Vieux-Lille). L'arbitrage dépend de 3 facteurs : **budget** (900€ économie = 50% loyer lillois, significatif étudiants), **temps valorisé** (cadre 30€/h : 12h DIY = 360€ + fatigue = surcoût 910€ justifié déménageur), **capacité physique** (étudiant 22 ans sportif vs senior 60 ans dos fragile). Les Déménagements Lefebvre (4.1/5, 72 avis) et acteurs lillois proposent formule économique 700€ (compromis : déménageur transporte, vous emballez) entre DIY 90€ et standard 1 000€.
 
-Ce guide compare DIY camion vs déménageur Lille : coûts détaillés, temps, effort, risques, seuils bascule, profils adaptés, calcul rentabilité. Consultez notre [guide location Lille](/blog/location-camion-demenagement-lille/location-camion-demenagement-lille-guide) et notre [guide déménageurs](/blog/demenageur-lille/demenageur-lille-expert).
+Ce guide compare DIY camion vs déménageur Lille : coûts détaillés, temps, effort, risques, seuils bascule, profils adaptés, calcul rentabilité. Consultez notre [guide location Lille](/blog/demenagement-lille/location-camion-demenagement-lille-guide) et notre [guide déménageurs](/blog/demenagement-lille/demenageur-lille-expert).
 
 ## Comparatif Complet T2 Wazemmes 35m³
 
@@ -157,7 +157,7 @@ Profils DIY : étudiants Lille (70 000, budgets serrés, aide colocs, âge 20-25
 
 Compromis : **formule économique déménageur** 700€ = délégation transport (chargement pro sécurisé, conduite, déchargement) + vous emballez (12h acceptable) = économie 300€ vs standard 1 000€ + sérénité vs DIY 90€ (effort/risques).
 
-Consultez notre [guide location Lille](/blog/location-camion-demenagement-lille/location-camion-demenagement-lille-guide), notre [guide déménageurs](/blog/demenageur-lille/demenageur-lille-expert), notre [comparatif formules](/blog/conseils/formule-economique-cle-en-main-lille) et notre [article prix](/blog/conseils/prix-demenagement-t2-detaille-lille).
+Consultez notre [guide location Lille](/blog/demenagement-lille/location-camion-demenagement-lille-guide), notre [guide déménageurs](/blog/demenagement-lille/demenageur-lille-expert), notre [comparatif formules](/blog/demenageur-lille/formule-economique-cle-en-main-lille) et notre [article prix](/blog/prix-demenagement-lille/prix-demenagement-t2-detaille-lille).
 
 
 

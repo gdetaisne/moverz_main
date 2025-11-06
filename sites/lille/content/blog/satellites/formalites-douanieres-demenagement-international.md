@@ -19,7 +19,7 @@ Les formalités douanières déménagement international exigent **3 documents o
 
 À Lille, les déménageurs internationaux spécialisés (AGS, Crown Relocations, Allied Pickfords) **gèrent intégralement formalités** (inclus prestations 9 000-15 000€) : préparation inventaire valorisé avec client (visite domicile, liste pièce par pièce, photographies objets valeur), rédaction déclarations douanières langues locales (anglais USA/UK, néerlandais Pays-Bas, allemand), relations commissionnaires agréés ports Anvers/Rotterdam/Le Havre, suivi dédouanement temps réel (4-15 jours selon pays, notifications étapes). Les expatriés Lille partant New York/Londres/Singapour (cadres multinationales EuraTechnologies, fonctionnaires UE, chercheurs) confient 95% formalités pros vs 5% DIY (complexité administrative, langues étrangères, risque erreurs = blocage douanes semaines + frais 500-2 000€ supplémentaires). Le timing crucial : **documents 4-6 semaines avant départ** (délais traitement consulats visas, légalisations, traductions assermentées).
 
-Ce guide détaille formalités douanières déménagement international par zone (UE, UK, USA, Asie, Afrique), documents obligatoires, procédures, délais, pièges éviter. Consultez notre [guide déménagement international Lille](/blog/demenagement-international-lille/demenagement-international-lille-guide).
+Ce guide détaille formalités douanières déménagement international par zone (UE, UK, USA, Asie, Afrique), documents obligatoires, procédures, délais, pièges éviter. Consultez notre [guide déménagement international Lille](/blog/demenagement-lille/demenagement-international-lille-guide).
 
 ## Documents Obligatoires Universels
 
@@ -194,7 +194,7 @@ Timing documents : **4-6 semaines avant départ** (délais traitement consulats 
 
 Pièges éviter : sous-évaluer valeurs (suspicion fraude douanière = inspections systématiques + pénalités), sur-évaluer (taxes excessives pays taxant valeur Singapour GST 9%, Maroc 30-40%), objets interdits non-déclarés (alimentaire USA/Australie = confiscation + amendes 3-10k€), inventaire approximatif (descriptions floues "meubles divers" = rejet douanes, exigent précisions retardent dédouanement 2-4 sem).
 
-Consultez notre [guide déménagement international Lille](/blog/demenagement-international-lille/demenagement-international-lille-guide), notre [article prix international](/blog/conseils/prix-demenagement-international-lille-2025), notre [guide conteneurs](/blog/conseils/transport-conteneur-demenagement-international) et notre [article Lille-USA](/blog/conseils/demenagement-lille-usa-formalites).
+Consultez notre [guide déménagement international Lille](/blog/demenagement-lille/demenagement-international-lille-guide), notre [article prix international](/blog/demenagement-international-lille/prix-demenagement-international-lille-2025), notre [guide conteneurs](/blog/demenagement-international-lille/transport-conteneur-demenagement-international) et notre [article Lille-USA](/blog/demenagement-international-lille/demenagement-lille-usa-formalites).
 
 
 

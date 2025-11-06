@@ -32,13 +32,13 @@ sources:
 
 Vous déménagez à Rennes et avez besoin de stocker vos affaires, mais quelle taille de box louer ? Choisir un box trop petit vous obligera à transférer vers un plus grand (double coût de manutention et éventuels frais de transfert de 50-150€). Choisir un box trop grand, c'est gaspiller 50 à 100€ par mois sur de l'espace vide. La bonne taille dès le départ est essentielle pour votre budget et votre tranquillité d'esprit.
 
-À Rennes, Locakase (30 rue des Veyettes, gamme 1-25m²), Homebox (Donelière et Le Rheu, gamme 1-30m²) et Costockage proposent une large palette de tailles. La correspondance standard observe ces équivalences : studio = 3-4m², T2 = 5-6m², T3 = 7-9m², maison = 10-12m² et plus. Mais chaque situation est unique selon le volume de meubles que vous possédez, le nombre de cartons à stocker et votre capacité à optimiser l'espace par le démontage et l'empilement stratégique. Ces éléments s'inscrivent dans le contexte plus large de notre [stockage sécurisé à Rennes](/blog/garde-meuble-rennes/garde-meuble-rennes).
+À Rennes, Locakase (30 rue des Veyettes, gamme 1-25m²), Homebox (Donelière et Le Rheu, gamme 1-30m²) et Costockage proposent une large palette de tailles. La correspondance standard observe ces équivalences : studio = 3-4m², T2 = 5-6m², T3 = 7-9m², maison = 10-12m² et plus. Mais chaque situation est unique selon le volume de meubles que vous possédez, le nombre de cartons à stocker et votre capacité à optimiser l'espace par le démontage et l'empilement stratégique. Ces éléments s'inscrivent dans le contexte plus large de notre [stockage sécurisé à Rennes](/blog/demenagement-rennes/garde-meuble-rennes).
 
 Ce guide détaille les tailles recommandées par type de logement à Rennes, un tableau de correspondance m²/m³, des exemples concrets tirés de l'expérience rennaise et des astuces pour optimiser l'espace et économiser jusqu'à 30% sur votre budget stockage.
 
 ## Tableau de Correspondance Logement/Taille Box à Rennes
 
-Pour comprendre tous les aspects de ce sujet, consultez notre [guide complet du garde-meuble à Rennes](/blog/garde-meuble-rennes/garde-meuble-rennes).
+Pour comprendre tous les aspects de ce sujet, consultez notre [guide complet du garde-meuble à Rennes](/blog/demenagement-rennes/garde-meuble-rennes).
 
 Le principe général pour estimer la taille de box nécessaire repose sur la conversion volume/surface : **1m³ de meubles et cartons occupe environ 0,15 à 0,20m² de surface au sol** dans un box dont la hauteur sous plafond est standard (2,5 à 3 mètres). Cette règle vous permet de convertir rapidement le volume total de vos affaires en surface de box requise.
 
@@ -265,7 +265,7 @@ Oui, **Locakase et Homebox à Rennes permettent les changements de taille**. Les
 1. Fiche locale Rennes - Données quartiers, prix, acteurs (compilée le 13 octobre 2025)
 2. Locakase Rennes - [Calculateur taille box](https://www.locakase.fr/garde-meuble-bretagne/box-stockage-rennes) (consulté le 13 octobre 2025)
 
-Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [solutions de garde-meuble rennais](/blog/garde-meuble-rennes/garde-meuble-rennes).
+Pour approfondir ce sujet et découvrir tous nos conseils, consultez notre [solutions de garde-meuble rennais](/blog/demenagement-rennes/garde-meuble-rennes).
 3. Homebox Rennes - [Gamme tailles disponibles](https://www.homebox.fr/garde-meuble-rennes.html) (consulté le 13 octobre 2025)
 4. Standards secteur garde-meuble - Correspondances volume logement/box (2025)
 5. Google Maps - Avis clients Locakase (5.0/5, 216 avis), Homebox (4.6-4.9/5)

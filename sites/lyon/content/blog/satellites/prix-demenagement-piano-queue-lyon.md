@@ -24,7 +24,7 @@ Déménager un piano à queue à Lyon représente une opération technique compl
 
 Un piano demi-queue Yamaha C3 (186 cm, 320 kg, valeur 25 000-35 000€) ou Kawai GX-2 (180 cm, 340 kg) se déménage à Lyon pour 800-1100€ configuration standard (rez-de-chaussée accessible, trajet local <10 km, accès faciles Villeurbanne/Confluence/Part-Dieu). Avec étages sans ascenseur, le coût atteint 1000-1400€ (monte-meuble quasi-obligatoire 4ème+, portage 3 étages= +300-450€). Un piano queue concert Steinway D (274 cm, 480 kg, valeur 80 000-150 000€) ou Fazioli F278 (278 cm, 570 kg, valeur 120 000-180 000€) destiné salle concert Lyon (Auditorium Maurice Ravel, salle Molière, Opéra Lyon) coûte 1800-2500€ déménagement professionnel avec assurance tous-risques renforcée (+300-500€, couverture 100 000-200 000€).
 
-Ce guide détaille tarifs 2025 demi-queue vs queue concert, analyse facteurs surcoût vs piano droit, explique démontage pieds et temps additionnel, présente équipement spécifique queue (chariots renforcés, sangles élargies), et compare prix Lyon selon quartiers/configurations. Pour piano droit, consultez [prix droit Lyon](/blog/piano/prix-demenagement-piano-droit-lyon).
+Ce guide détaille tarifs 2025 demi-queue vs queue concert, analyse facteurs surcoût vs piano droit, explique démontage pieds et temps additionnel, présente équipement spécifique queue (chariots renforcés, sangles élargies), et compare prix Lyon selon quartiers/configurations. Pour piano droit, consultez [prix droit Lyon](/blog/demenagement-piano-lyon/prix-demenagement-piano-droit-lyon).
 
 ## Prix Piano Demi-Queue Lyon (150-210 cm)
 
@@ -119,7 +119,7 @@ Les pianos queue concert nécessitent logistique professionnelle maximale.
 
 Déménager un piano à queue Lyon coûte 600-1200€ demi-queue (150-210 cm, 300-400 kg) et 1200-2500€ queue concert (210-275 cm, 500-600 kg), soit 2 à 5× plus cher qu'un piano droit (250-800€). La complexité accrue (démontage pieds obligatoire +150-300€, équipe 4-5 personnes +200-400€, camion hayon +100-200€, assurance renforcée +150-300€) justifie ces tarifs. Les quartiers Lyon difficiles (Vieux-Lyon +40-60%, Croix-Rousse +25-40%) aggravent le coût, le Vieux-Lyon étant quasi-impraticable pour queue (escaliers trop étroits).
 
-Privilégier déménageur spécialisé piano (expérience 50+ pianos queue/an, équipement adapté, assurance valeur déclarée). Exiger visite technique Lyon (repérage accès, escaliers, virages, faisabilité). Prévoir accordage post-déménagement (80-150€, 48-72h après). Pour piano droit, consultez [prix droit Lyon](/blog/piano/prix-demenagement-piano-droit-lyon). Explorez aussi [guide complet piano Lyon](/blog/piano/demenagement-piano-lyon-guide). Bonne protection de votre instrument !
+Privilégier déménageur spécialisé piano (expérience 50+ pianos queue/an, équipement adapté, assurance valeur déclarée). Exiger visite technique Lyon (repérage accès, escaliers, virages, faisabilité). Prévoir accordage post-déménagement (80-150€, 48-72h après). Pour piano droit, consultez [prix droit Lyon](/blog/demenagement-piano-lyon/prix-demenagement-piano-droit-lyon). Explorez aussi [guide complet piano Lyon](/blog/demenagement-piano-lyon/demenagement-piano-lyon-guide-complet). Bonne protection de votre instrument !
 
 ---
 

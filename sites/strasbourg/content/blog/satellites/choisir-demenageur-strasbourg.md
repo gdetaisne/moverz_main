@@ -64,7 +64,7 @@ Devis doit détailler :
 
 **Méfiance si** : Devis vague ("forfait T2 900€ TTC" sans détail), mentions floues ("supplément si nécessaire"), refus détailler.
 
-Comparer [prix détaillés Strasbourg](/blog/conseils/prix-demenageur-strasbourg-2025) pour vérifier cohérence devis reçus.
+Comparer [prix détaillés Strasbourg](/blog/demenagement-strasbourg/prix-demenageur-strasbourg-2025) pour vérifier cohérence devis reçus.
 
 ### 6. Autorisation Stationnement (Géré par Déménageur ?)
 
@@ -74,7 +74,7 @@ Déménageur **doit proposer** : gérer démarche (client fournit infos, démén
 
 **Vérifier** : "Gérez-vous autorisation stationnement Grande Île ? Délais ? Coût inclus ?"
 
-[Guide complet autorisations Strasbourg](/blog/conseils/autorisation-stationnement-demenagement-strasbourg).
+[Guide complet autorisations Strasbourg](/blog/demenagement-strasbourg/autorisation-stationnement-demenagement-strasbourg).
 
 ### 7. Délai Disponibilité
 
@@ -95,7 +95,7 @@ Conditions report/annulation variables :
 
 ### 9. Services Additionnels (Garde-Meuble, Cartons)
 
-**Garde-meuble** : Si décalage baux, certains déménageurs proposent stockage entrepôt propre. Comparer avec [Homebox/Locakase](/blog/garde-meuble-strasbourg/garde-meuble-strasbourg-guide) (souvent plus flexible).
+**Garde-meuble** : Si décalage baux, certains déménageurs proposent stockage entrepôt propre. Comparer avec [Homebox/Locakase](/blog/demenagement-strasbourg/garde-meuble-strasbourg-guide) (souvent plus flexible).
 
 **Cartons/matériel** : Fourniture cartons (1-2€/unité), location cartons réutilisables (0,50€/unité), matériel emballage (papier bulle, scotch). Inclus formule clé en main, optionnel formule éco.
 
@@ -132,5 +132,5 @@ Choisir note globale >8/10 sur ces critères, pas uniquement prix.
 
 **Comparer combien devis ?** Minimum 3 (idéal 4-5). Temps : 2-3h demandes + comparaison. ROI : économie 100-300€.
 
-[Guide complet déménageurs](/blog/demenagement-strasbourg/demenageur-strasbourg) et [prix détaillés](/blog/conseils/prix-demenageur-strasbourg-2025).
+[Guide complet déménageurs](/blog/demenagement-strasbourg/demenageur-strasbourg) et [prix détaillés](/blog/demenagement-strasbourg/prix-demenageur-strasbourg-2025).
 

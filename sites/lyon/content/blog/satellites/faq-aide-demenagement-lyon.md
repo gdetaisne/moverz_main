@@ -26,7 +26,7 @@ FAQ complète aide déménagement Lyon répondant 12 questions fréquentes : aid
 
 ### 1. Aides financières déménagement Lyon ?
 
-**CAF prime 1000€ (familles 3+ enfants RSA, enfant <21 mois, 6 conditions cumulatives), FSL 150-500€ (situations précaires impayés/expulsion, ressources faibles), Mobili-Pass 3500€ prêt 1% (salariés privés mutations >70 km, remboursable 97€/mois × 36), APA 150-500€ (seniors 60+ GIR 1-4 déménagement adapté), caisses retraite 100-300€, mutuelles 50-150€.** Cumuls : famille précaire CAF 1000€ + FSL 300€ = 1300€. Délais : CAF 2-4 mois, FSL 4-8 semaines, Mobili-Pass 2-6 semaines. [Détails →](/blog/conseils/aide-financiere-demenagement-lyon)
+**CAF prime 1000€ (familles 3+ enfants RSA, enfant <21 mois, 6 conditions cumulatives), FSL 150-500€ (situations précaires impayés/expulsion, ressources faibles), Mobili-Pass 3500€ prêt 1% (salariés privés mutations >70 km, remboursable 97€/mois × 36), APA 150-500€ (seniors 60+ GIR 1-4 déménagement adapté), caisses retraite 100-300€, mutuelles 50-150€.** Cumuls : famille précaire CAF 1000€ + FSL 300€ = 1300€. Délais : CAF 2-4 mois, FSL 4-8 semaines, Mobili-Pass 2-6 semaines. [Détails →](/blog/aide-demenagement-lyon/aide-financiere-demenagement-lyon)
 
 ### 2. Prime CAF Lyon conditions ?
 
@@ -40,11 +40,11 @@ FAQ complète aide déménagement Lyon répondant 12 questions fréquentes : aid
 
 ### 4. Prix manutentionnaire Lyon ?
 
-**20-30€/h (moyenne 25€/h). Demi-journée 4h : 80-120€ (studio/T1). Journée 8h : 160-240€ (T2/T3). Plateformes : Yper 22-28€/h instantané, Frizbiz 20-30€/h négociable, LeBonCoin 15-25€/h direct 0%. Surcoûts : étages 5-7ème +5-10€/h, Vieux-Lyon accès difficiles +5€/h, lourds pianos +10€/h, week-end +10-15%. Minimum : 3-4h facturation (80-100€).** DIY-assisté : camionnette 50€ + manutentionnaire 160€ = 210€ vs complet 400€ (économie 190€). [Détails →](/blog/conseils/manutentionnaire-demenagement-lyon)
+**20-30€/h (moyenne 25€/h). Demi-journée 4h : 80-120€ (studio/T1). Journée 8h : 160-240€ (T2/T3). Plateformes : Yper 22-28€/h instantané, Frizbiz 20-30€/h négociable, LeBonCoin 15-25€/h direct 0%. Surcoûts : étages 5-7ème +5-10€/h, Vieux-Lyon accès difficiles +5€/h, lourds pianos +10€/h, week-end +10-15%. Minimum : 3-4h facturation (80-100€).** DIY-assisté : camionnette 50€ + manutentionnaire 160€ = 210€ vs complet 400€ (économie 190€). [Détails →](/blog/aide-demenagement-lyon/manutentionnaire-demenagement-lyon)
 
 ### 5. Portage escaliers surcoût Lyon ?
 
-**+30-150€ selon étages : 3ème +30-50€, 5ème +60-90€, 7ème +100-150€ (vs RDC base 0€). Base T2 RDC 400€, 5ème 460-490€ (+15-22%). Techniques : portage 2 personnes meubles >50 kg, sangles distribution poids, pauses paliers, protections angles, démontage -30-50% volume.** Quartiers : Vieux-Lyon 90% sans ascenseurs (+25-35% colimaçons 70cm), Croix-Rousse 70%, Guillotière 50%. DIY déconseillé >3ème (risques 40% blessures). [Détails →](/blog/conseils/aide-portage-escaliers-lyon)
+**+30-150€ selon étages : 3ème +30-50€, 5ème +60-90€, 7ème +100-150€ (vs RDC base 0€). Base T2 RDC 400€, 5ème 460-490€ (+15-22%). Techniques : portage 2 personnes meubles >50 kg, sangles distribution poids, pauses paliers, protections angles, démontage -30-50% volume.** Quartiers : Vieux-Lyon 90% sans ascenseurs (+25-35% colimaçons 70cm), Croix-Rousse 70%, Guillotière 50%. DIY déconseillé >3ème (risques 40% blessures). [Détails →](/blog/aide-demenagement-lyon/aide-portage-escaliers-lyon)
 
 ### 6. Aide chargement camion ?
 
@@ -54,7 +54,7 @@ FAQ complète aide déménagement Lyon répondant 12 questions fréquentes : aid
 
 ### 7. Avec aide vs sans aide Lyon ?
 
-**Avec aide (450€ camionnette + 2 manutentionnaires) : zéro efforts, 0,5% risques, 4-6h. Sans aide DIY (50€) : économie 400€ mais risques 40% blessures (lombalgies 28%, entorses 12%), casse 25% (200-800€), temps 8-12h.** Coûts cachés DIY : arrêts travail 150-1500€, soins 80-300€, réparations 200-800€ = 430-2600€ annulent économie. Seuils : chambre <6m³ DIY OK jeune sportif, T2 >20m³ aide obligatoire. Compromis : 1 manutentionnaire 160€ efforts partagés. [Détails →](/blog/conseils/demenagement-avec-aide-vs-sans-aide-lyon)
+**Avec aide (450€ camionnette + 2 manutentionnaires) : zéro efforts, 0,5% risques, 4-6h. Sans aide DIY (50€) : économie 400€ mais risques 40% blessures (lombalgies 28%, entorses 12%), casse 25% (200-800€), temps 8-12h.** Coûts cachés DIY : arrêts travail 150-1500€, soins 80-300€, réparations 200-800€ = 430-2600€ annulent économie. Seuils : chambre <6m³ DIY OK jeune sportif, T2 >20m³ aide obligatoire. Compromis : 1 manutentionnaire 160€ efforts partagés. [Détails →](/blog/aide-demenagement-lyon/demenagement-avec-aide-vs-sans-aide-lyon)
 
 ### 8. Yper ou Frizbiz Lyon ?
 
@@ -64,19 +64,19 @@ FAQ complète aide déménagement Lyon répondant 12 questions fréquentes : aid
 
 ### 9. Vieux-Lyon escaliers surcoût ?
 
-**+25-35% vs standard (temps +50-70%, démontages obligatoires). Base T2 RDC 400€, 4ème Vieux-Lyon 550-600€ (vs 500€ moderne). Contraintes : colimaçons 70-90cm, virages 180° serrés, traboules 1,50m (canapés >1,60m coincent).** Techniques : démontage systématique, portage alterné 1 personne virages, pros expérience passages. Croix-Rousse : pentes 10-15% +20-30%, 60% immeubles 5-7 étages sans ascenseurs. DIY déconseillé (coincements). [Détails →](/blog/conseils/manutention-escaliers-specifique-lyon)
+**+25-35% vs standard (temps +50-70%, démontages obligatoires). Base T2 RDC 400€, 4ème Vieux-Lyon 550-600€ (vs 500€ moderne). Contraintes : colimaçons 70-90cm, virages 180° serrés, traboules 1,50m (canapés >1,60m coincent).** Techniques : démontage systématique, portage alterné 1 personne virages, pros expérience passages. Croix-Rousse : pentes 10-15% +20-30%, 60% immeubles 5-7 étages sans ascenseurs. DIY déconseillé (coincements). [Détails →](/blog/aide-demenagement-lyon/manutention-escaliers-specifique-lyon)
 
 ### 10. Rémunérer amis déménagement ?
 
-**50-100€ forfait + 20-40€ repas = 70-140€ reconnaissance éthique efforts 4-6h (vs 0€ exploitation dettes morales vs 200-400€ 2 pros économie 60-180€). Communication AVANT : "Je propose 60€ + resto pour compenser efforts". Facteurs : volume (chambre 50€, T2 100€), durée (3h 50€, 6h 100€), étages (RDC 50€, 5ème 80-100€).** Alternatives : restaurant 30-60€, cadeaux 50-80€, réciprocité services futurs. Éviter 0€ si >4h (ressentiment). [Détails →](/blog/conseils/demenagement-amis-remuneration-lyon)
+**50-100€ forfait + 20-40€ repas = 70-140€ reconnaissance éthique efforts 4-6h (vs 0€ exploitation dettes morales vs 200-400€ 2 pros économie 60-180€). Communication AVANT : "Je propose 60€ + resto pour compenser efforts". Facteurs : volume (chambre 50€, T2 100€), durée (3h 50€, 6h 100€), étages (RDC 50€, 5ème 80-100€).** Alternatives : restaurant 30-60€, cadeaux 50-80€, réciprocité services futurs. Éviter 0€ si >4h (ressentiment). [Détails →](/blog/aide-demenagement-lyon/demenagement-amis-remuneration-lyon)
 
 ### 11. Aide gratuite particuliers ?
 
-**Acceptable si : colocation solidarité actuelle, famille proche, réciprocité établie (vous avez aidé passé), <6m³ chambre 2-3h légers. Risques : blessures 25% (vs pros <1%), casse non-assurée, dettes morales 3-5 services futurs (15-25h mobilisées), disponibilités limitées (report 2-4 semaines).** Limites : physique inadapté 35-45 ans sédentaires, T2 >20m³ efforts extrêmes. Compromis : amis emballage veille + pro portage = 170-290€ (économie 30-50%, efforts réduits). [Détails →](/blog/conseils/aide-demenagement-entre-particuliers-lyon)
+**Acceptable si : colocation solidarité actuelle, famille proche, réciprocité établie (vous avez aidé passé), <6m³ chambre 2-3h légers. Risques : blessures 25% (vs pros <1%), casse non-assurée, dettes morales 3-5 services futurs (15-25h mobilisées), disponibilités limitées (report 2-4 semaines).** Limites : physique inadapté 35-45 ans sédentaires, T2 >20m³ efforts extrêmes. Compromis : amis emballage veille + pro portage = 170-290€ (économie 30-50%, efforts réduits). [Détails →](/blog/aide-demenagement-lyon/aide-demenagement-entre-particuliers-lyon)
 
 ### 12. Auto-entrepreneur ou CESU Lyon ?
 
-**Auto-entrepreneur si manutentionnaire SIRET (80% profils Yper/Frizbiz). Facture 20-30€/h TTC, virement simple, zéro formalités client, RC pro. CESU si particulier sans SIRET (rare 20%, étudiant/retraité). Salaire 20-25€/h + cotisations 10-15% = 22-29€/h, déclaration urssaf.fr obligatoire.** Cash non-déclaré interdit (URSSAF amendes 15 000€). Vérifier : SIRET infogreffe.fr, RC attestation plafonds 500K-1M€. [Détails →](/blog/conseils/embaucher-manutentionnaire-freelance-lyon)
+**Auto-entrepreneur si manutentionnaire SIRET (80% profils Yper/Frizbiz). Facture 20-30€/h TTC, virement simple, zéro formalités client, RC pro. CESU si particulier sans SIRET (rare 20%, étudiant/retraité). Salaire 20-25€/h + cotisations 10-15% = 22-29€/h, déclaration urssaf.fr obligatoire.** Cash non-déclaré interdit (URSSAF amendes 15 000€). Vérifier : SIRET infogreffe.fr, RC attestation plafonds 500K-1M€. [Détails →](/blog/aide-demenagement-lyon/embaucher-manutentionnaire-freelance-lyon)
 
 ---
 

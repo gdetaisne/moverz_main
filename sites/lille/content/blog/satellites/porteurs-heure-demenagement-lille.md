@@ -19,7 +19,7 @@ Les **porteurs à l'heure Lille** (location main-d'œuvre déménagement sans ca
 
 À Lille, les **porteurs heure** conviennent **déménagements hybrides** DIY : vous louez camion + conduisez (économie 400-500€ vs déménageur complet transport) + louez porteurs pros/étudiants chargement/déchargement technique (économie fatigue/temps, sécurité casse, 200-400€ vs faire entièrement seul/amis risqué). Les **cas d'usage** fréquents : **famille T2 avec enfants** (parents 35-40 ans, 2 enfants bas âge, impossible mobiliser 4 amis adultes, louent 2 porteurs 300€ jour + camion 120€ = 420€ vs déménageur 1 000€ économie 580€), **jeune actif solo** (célibataire sans réseau amis disponible weekend, loue 1 porteur 6h × 22€ = 132€ + camion 80€ = 212€ vs déménageur petit volume 400€ économie 188€), **couple Vieux-Lille** (contraintes rues étroites + 4ème étage sans ascenseur, louent 2 porteurs expérimentés 8h × 28€ = 448€ expertise obligatoire vs amis amateur risqué chute escaliers). Les **agences intérim Lille** (Adecco 8 agences, Manpower 6, Randstad 5) dominent marché porteurs pros (70-75% flux) vs particuliers Leboncoin (20-25%) vs associations (<5%).
 
-Ce guide détaille porteurs heure Lille : tarifs, sources (intérim, Leboncoin), minimum heures, calcul coût T1-T2-T3, avantages/inconvénients vs forfait jour. Consultez notre [guide aide déménagement Lille](/blog/conseils/aide-demenagement-particuliers-lille).
+Ce guide détaille porteurs heure Lille : tarifs, sources (intérim, Leboncoin), minimum heures, calcul coût T1-T2-T3, avantages/inconvénients vs forfait jour. Consultez notre [guide aide déménagement Lille](/blog/aide-demenagement-lille/aide-demenagement-particuliers-lille).
 
 ## Tarifs Porteurs Heure Lille
 
@@ -224,7 +224,7 @@ Facturation réelle : 6h15 travail → facturé 7h arrondi heure supérieure (su
 
 Agences intérim Lille dominent 70-75% marché porteurs pros (Adecco leader 8 agences, Manpower 6, Randstad 5, Start People, Synergie, Crit 15+ agences totales métropole), particuliers Leboncoin 20-25% flux, associations <5% (publics restreints seniors/précaires). Réservation intérim : téléphone agence précisez date (samedi 15 juin), horaire (8h-15h ou 14h-21h), nb porteurs (2-3), adresse chargement Wazemmes + déchargement Saint-Maurice, étages (2ème + 3ème), nature (T2 35m³ meubles standards), agence propose disponibilité confirme tarif 28€/h × nb heures × nb porteurs.
 
-Consultez notre [guide aide déménagement Lille](/blog/conseils/aide-demenagement-particuliers-lille), notre [guide DIY](/blog/conseils/diy-demenagement-lille-budget-mini), notre [guide location camion](/blog/location-camion-demenagement-lille/location-camion-demenagement-lille-guide) et notre [guide déménageur Lille](/blog/demenageur-lille/demenageur-lille-expert).
+Consultez notre [guide aide déménagement Lille](/blog/aide-demenagement-lille/aide-demenagement-particuliers-lille), notre [guide DIY](/blog/demenagement-pas-cher-lille/diy-demenagement-lille-budget-mini), notre [guide location camion](/blog/demenagement-lille/location-camion-demenagement-lille-guide) et notre [guide déménageur Lille](/blog/demenagement-lille/demenageur-lille-expert).
 
 
 
