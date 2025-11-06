@@ -120,10 +120,19 @@ const nextConfig = {
       { source: '/blog/entreprise', destination: '/blog', permanent: true },
       { source: '/blog/garde-meuble', destination: '/blog', permanent: true },
 
+      // LEADGEN-02: Redirection page services manquante (06/11/2025)
+      { source: '/services/demenagement-standard-rouen', destination: '/services/', permanent: true },
+
       // ARTICLES GARDE-MEUBLE mal classés → satellites/ (Fix 04/11/2025)
       { source: '/blog/garde-meuble/meilleurs-garde-meubles-rouen-avis', destination: '/blog/satellites/meilleurs-garde-meubles-rouen-avis', permanent: true },
       { source: '/blog/garde-meuble/garde-meuble-etudiant-rouen', destination: '/blog/satellites/garde-meuble-etudiant-rouen', permanent: true },
       { source: '/blog/garde-meuble/taille-box-stockage-rouen', destination: '/blog/satellites/taille-box-stockage-rouen', permanent: true },
+
+      // LEADGEN-02: Fichiers batch exposés → /blog/ (Rouen - 06/11/2025)
+      { source: '/blog/satellites/BATCH-PRODUCTION-ARTICLES-13-30', destination: '/blog/', permanent: true },
+      { source: '/blog/satellites/BATCH-PILIERS-01-09-10-COMPLET', destination: '/blog/', permanent: true },
+      { source: '/blog/satellites/BATCH-PILIER-08-DEMENAGEUR-ROUEN', destination: '/blog/', permanent: true },
+      { source: '/blog/satellites/BATCH-PRODUCTION-ARTICLES-31-60', destination: '/blog/', permanent: true },
       // WILDCARDS CATCH-ALL (TASK-LEADGEN-02 - COMPLETS)
       { source: '/blog/garde-meuble/:slug*', destination: '/blog/garde-meuble-rouen/:slug*', permanent: true },
       { source: '/blog/pas-cher/:slug*', destination: '/blog/demenagement-pas-cher-rouen/:slug*', permanent: true },

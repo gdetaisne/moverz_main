@@ -203,6 +203,11 @@ const nextConfig = {
       { source: '/estimation-demenagement-montpellier/', destination: '/estimation-rapide', permanent: true },
       { source: '/prix-demenagement-montpellier/', destination: '/blog/prix-demenagement-montpellier/prix-demenagement-montpellier-guide', permanent: true },
       { source: '/devis-demenagement-montpellier/', destination: '/estimation-rapide', permanent: true },
+      // LEADGEN-02: Fichiers batch exposés → /blog/ (Montpellier - 06/11/2025)
+      { source: '/blog/conseils/BATCH-PILIERS-07-08-09-10', destination: '/blog/', permanent: true },
+      { source: '/blog/conseils/RAPPORT-FINAL-PRODUCTION-MONTPELLIER', destination: '/blog/', permanent: true },
+      { source: '/blog/conseils/ARTICLES-PILIER-06-BATCH', destination: '/blog/', permanent: true },
+
       // WILDCARDS CATCH-ALL (TASK-LEADGEN-02 - COMPLETS)
       { source: '/blog/garde-meuble/:slug*', destination: '/blog/garde-meuble-montpellier/:slug*', permanent: true },
       { source: '/blog/pas-cher/:slug*', destination: '/blog/demenagement-pas-cher-montpellier/:slug*', permanent: true },
