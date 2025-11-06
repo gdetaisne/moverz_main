@@ -205,7 +205,7 @@ URLs PR:
 3. ⏭️ **Réduire EN COURS** (6 → 2-3 max)
 
 ### Cette semaine
-1. ⏭️ **Compléter TASK-006** (tests.md, decisions.md manquants)
+1. ⏭️ **Compléter P1-006-SEO-migration-canonicals-100%** (tests.md, decisions.md manquants)
 2. ⏭️ **Setup cron backup** (optionnel)
 3. ⏭️ **Observer** efficacité système
 

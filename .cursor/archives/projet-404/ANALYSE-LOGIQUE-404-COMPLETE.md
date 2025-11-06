@@ -306,7 +306,7 @@ Article : sites/lyon/content/blog/satellites/choisir-demenageur-fiable-lyon-crit
   - Mapping redirections
   - Code next.config.mjs
 - Dépendances : TASK-404-03 (décision)
-- Bloque : TASK-404-07 (redirections finales)
+- Bloque : P1-404-07-404-redirections-externes-0% (redirections finales)
 
 ---
 
@@ -329,7 +329,7 @@ Article : sites/lyon/content/blog/satellites/choisir-demenageur-fiable-lyon-crit
   - Commits par ville (11 commits)
   - Rapport corrections
 - Dépendances : TASK-404-02 (technique OK), TASK-404-04 (contenu créé si applicable)
-- Bloque : TASK-404-06, TASK-404-07 (liens internes doivent être propres)
+- Bloque : TASK-404-06, P1-404-07-404-redirections-externes-0% (liens internes doivent être propres)
 
 **TASK-404-06 : Validation liens internes**
 - Temps : 1h
@@ -347,7 +347,7 @@ Article : sites/lyon/content/blog/satellites/choisir-demenageur-fiable-lyon-crit
 
 ### Phase 4 : REDIRECTIONS EXTERNES & HOMEPAGE (5-8h)
 
-**TASK-404-07 : Redirections 301 externes (Search Console)**
+**P1-404-07-404-redirections-externes-0% : Redirections 301 externes (Search Console)**
 - Temps : 3-5h
 - Actions :
   1. Analyser données GPT (1541 URLs)
@@ -377,7 +377,7 @@ Article : sites/lyon/content/blog/satellites/choisir-demenageur-fiable-lyon-crit
   - Homepages corrigées (11 villes)
   - Commits GitHub
   - Tests validés
-- Dépendances : TASK-404-05 (liens internes OK), TASK-404-07 (redirections OK)
+- Dépendances : TASK-404-05 (liens internes OK), P1-404-07-404-redirections-externes-0% (redirections OK)
 - Bloque : TASK-404-09 (validation finale)
 
 ---
@@ -437,7 +437,7 @@ Jour 5   : TASK-404-06 (validation)
 
 ### Sprint 2 (Semaine 2) : Externe + Validation
 ```bash
-Jour 1-3 : TASK-404-07 (redirections 301 externes)
+Jour 1-3 : P1-404-07-404-redirections-externes-0% (redirections 301 externes)
 Jour 4   : TASK-404-08 (homepage)
 Jour 5   : TASK-404-09 (validation finale)
 ```

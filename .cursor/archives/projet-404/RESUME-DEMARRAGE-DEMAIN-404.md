@@ -125,7 +125,7 @@ TASK-404-02 + TASK-404-03 + TASK-404-05 + TASK-404-06 :
 📋 TASK-404-04 : Création (OPTIONNEL 20-30h)
 📋 TASK-404-05 : Correction AUTO (4-6h) → 963 liens ! ⭐
 📋 TASK-404-06 : Validation (1h)
-📋 TASK-404-07 : Redirections 301 (3h30-5h30) → 1400 liens ! ⭐
+📋 P1-404-07-404-redirections-externes-0% : Redirections 301 (3h30-5h30) → 1400 liens ! ⭐
 📋 TASK-404-08 : Homepage (2h30-3h30) → 80-100 liens
 📋 TASK-404-09 : Validation finale (2-3h)
 

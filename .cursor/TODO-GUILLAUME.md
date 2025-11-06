@@ -27,14 +27,14 @@
 
 ## 🔴 PRIORITÉ ABSOLUE : 3 TÂCHES LEAD GENERATION (TOUTES P0)
 
-### [P0]-TASK-LEADGEN-01 : Optimisation Metadata CTR ✅ FINALISÉ
+### [P0]-P0-LEADGEN-01-Metadata-ctr-optimisation-100% : Optimisation Metadata CTR ✅ FINALISÉ
 
 **Statut** : ✅ **COMPLET** (05/11/2025)  
 **Priorité** : P0 (critique business)  
 **Temps investi** : 6h (code + tests + deployments multiples)  
 **ROI attendu** : CTR ×4-5 = +3-5 leads/mois = +150-750€/mois  
 **Impact** : Visible J+14 (mesure crawler)  
-**Doc** : `.cursor/tasks/[P0]-TASK-LEADGEN-01-metadata-ctr-optimisation/`
+**Doc** : `.cursor/tasks/P0-LEADGEN-01-Metadata-ctr-optimisation-100%/`
 
 **Réalisations** :
 - ✅ 105 fichiers corrigés (43 villes hardcodées + 51 templates + 11 homepages + 13 corridors)
@@ -54,14 +54,14 @@
 
 ---
 
-### [P0]-TASK-LEADGEN-02 : Résolution 404 & Indexation ⚡️⚡️
+### [P0]-P0-LEADGEN-02-404-indexation-boost-100% : Résolution 404 & Indexation ⚡️⚡️
 
 **Statut** : 📋 PENDING (à faire après LEADGEN-01)  
 **Priorité** : P0 (critique business)  
 **Temps estimé** : 1-2 jours  
 **ROI** : +250-350 pages indexables = +3-5 leads/mois = +150-750€/mois  
 **Impact J+30** : Visible  
-**Doc** : `.cursor/tasks/[P0]-TASK-LEADGEN-02-404-indexation-boost/`
+**Doc** : `.cursor/tasks/P0-LEADGEN-02-404-indexation-boost-100%/`
 
 **Objectif** :
 - Résoudre 26 erreurs 404 résiduelles (Lyon 31, Lille 28, Toulouse 19, etc.)
@@ -80,13 +80,13 @@
 
 ---
 
-### [P0]-TASK-LEADGEN-03 : Monitoring & Optimisation CTR ⚡️
+### [P0]-P0-LEADGEN-03-Analytics-monitoring-ctr-100% : Monitoring & Optimisation CTR ⚡️
 
 **Statut** : 📋 PENDING (après LEADGEN-01)  
 **Priorité** : P0 (critique business)  
 **Temps estimé** : 1 jour setup + monitoring continu  
 **ROI** : Détection rapide problèmes + optimisation continue  
-**Doc** : `.cursor/tasks/[P0]-TASK-LEADGEN-03-monitoring-ctr-optimisation/`
+**Doc** : `.cursor/tasks/P0-LEADGEN-03-Analytics-monitoring-ctr-100%/`
 
 **Objectif** :
 - Enrichir dashboard analytics (comparaison avant/après, drill-down URLs)
@@ -148,14 +148,14 @@
 
 ## 🟠 TÂCHES IMPORTANTES (P1 - Après LEADGEN-01)
 
-### [P1]-TASK-047 : Refonte Wording Offre Moverz 💬
+### [P1]-P1-047-Wording-offre-refonte-100% : Refonte Wording Offre Moverz 💬
 
 **Statut** : 📋 À FAIRE  
 **Priorité** : P1 (Important - Impact conversion directe)  
 **Temps estimé** : 6-8h  
 **ROI** : Conversion form +50-100% = +200-400 leads/mois  
 **Impact** : J+7 (dès déploiement)  
-**Doc** : `.cursor/tasks/[P1]-TASK-047-wording-offre-refonte/`
+**Doc** : `.cursor/tasks/P1-047-Wording-offre-refonte-100%/`
 
 **Objectif** :
 Aligner wording site (home, services, FAQ, CTA) avec vrais USP Moverz.
@@ -189,7 +189,7 @@ Aligner wording site (home, services, FAQ, CTA) avec vrais USP Moverz.
 
 **Prochaines actions** :
 ```
-"Cursor, je démarre TASK-047"
+"Cursor, je démarre P1-047-Wording-offre-refonte-100%"
 ```
 
 **Temps investi** : 0h  
@@ -197,13 +197,13 @@ Aligner wording site (home, services, FAQ, CTA) avec vrais USP Moverz.
 
 ---
 
-### [P1]-TASK-050 : Fix Liens Hardcodés (88 URLs 404) ⏳ EN ATTENTE VALIDATION
+### [P1]-P1-050-404-fix-hardcoded-nice-links-100% : Fix Liens Hardcodés (88 URLs 404) ⏳ EN ATTENTE VALIDATION
 
 **Statut** : ⏳ **EN ATTENTE VALIDATION CRAWLER** (corrections déployées 05/11/2025)  
 **Priorité** : P1 (important)  
 **Temps investi** : 45 min  
 **Impact attendu** : 88 URLs 404 résolues  
-**Doc** : `.cursor/tasks/[P1]-TASK-050-fix-hardcoded-nice-links/`
+**Doc** : `.cursor/tasks/P1-050-404-fix-hardcoded-nice-links-100%/`
 
 **Origine** :
 - Commits Lucie matin (copier/coller Nice sans dynamiser)
@@ -229,30 +229,30 @@ Aligner wording site (home, services, FAQ, CTA) avec vrais USP Moverz.
 
 ## 🚫 TÂCHES DÉPRIORITISÉES (à faire APRÈS LEADGEN)
 
-### TASK-012, TASK-014, TASK-039, TASK-040, TASK-045
-**Statut** : ✅ FUSIONNÉES dans TASK-LEADGEN-01  
+### P1-012-SEO-villes-hardcodees-50%, P2-014-Metadata-optimisation-100%, P1-039-SEO-titles-normalisation-100%, P1-040-SEO-descriptions-tier2-0%, P1-045-Analytics-qa-ctr-100%
+**Statut** : ✅ FUSIONNÉES dans P0-LEADGEN-01-Metadata-ctr-optimisation-100%  
 **Raison** : Cohérence, éviter dispersion
 
-### [P2]-TASK-023 : Setup Scripts Automation
+### [P2]-P2-023-Scripts-setup-automation-100% : Setup Scripts Automation
 **Statut** : 📋 PENDING (P2)  
 **Raison** : Nice-to-have mais ZERO impact business/leads  
 **Temps** : 5 min  
 **Reprendre** : Quand temps libre après LEADGEN
 
-### TASK-046 : Logo SERP / Favicons
+### P0-046-SERP-favicon-logo-100% : Logo SERP / Favicons
 **Statut** : ⏸️ EN PAUSE  
 **Raison** : Impact CTR marginal (+5-10%) vs metadata (+400%)  
 **Reprendre** : Après LEADGEN-01 validé
 
-### TASK-041 : Price signals
+### P1-041-SEO-price-signals-0% : Price signals
 **Statut** : 📋 PENDING (P2)  
 **Reprendre** : Q1 2026 si temps
 
-### TASK-043 : FAQ rationalisation
+### P2-043-SEO-faq-rationalisation-100% : FAQ rationalisation
 **Statut** : 📋 PENDING (P2)  
 **Reprendre** : Après LEADGEN-03, si FAQ schema.org ne performe pas
 
-### TASK-044 : HowTo/Video
+### P2-044-SEO-howto-video-poc-100% : HowTo/Video
 **Statut** : 📋 PENDING (P2)  
 **Reprendre** : Q1 2026, nice-to-have
 
@@ -262,19 +262,19 @@ Aligner wording site (home, services, FAQ, CTA) avec vrais USP Moverz.
 
 ```bash
 # Démarrer tâche prioritaire
-"Cursor, je démarre TASK-LEADGEN-01"
+"Cursor, je démarre P0-LEADGEN-01-Metadata-ctr-optimisation-100%"
 
 # État global
 "Cursor, évalue le backlog"
 
 # Logger session
-"Cursor, log ma session pour TASK-LEADGEN-01 : [fait]"
+"Cursor, log ma session pour P0-LEADGEN-01-Metadata-ctr-optimisation-100% : [fait]"
 
 # Mettre en pause
-"Cursor, je mets TASK-LEADGEN-01 en pause : [raison]"
+"Cursor, je mets P0-LEADGEN-01-Metadata-ctr-optimisation-100% en pause : [raison]"
 
 # Finaliser
-"Cursor, finalise TASK-LEADGEN-01"
+"Cursor, finalise P0-LEADGEN-01-Metadata-ctr-optimisation-100%"
 ```
 
 ---

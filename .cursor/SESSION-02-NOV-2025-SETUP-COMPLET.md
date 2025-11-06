@@ -247,7 +247,7 @@ Guillaume : *"Les bugs récurrents (villes hardcodées, canonicals, sync oublié
 ✅ Lecture Dockerfiles (Nice, Bordeaux)  
 ✅ Analyse scripts sync  
 ✅ Compréhension déploiement CapRover  
-✅ Lecture tâches EN COURS (TASK-006, 012, etc.)  
+✅ Lecture tâches EN COURS (P1-006-SEO-migration-canonicals-100%, 012, etc.)  
 ✅ Identification patterns bugs
 
 **Durée** : 1h
@@ -446,8 +446,8 @@ Racine propre : seulement configs légitimes
 
 ✅ Lecture bugs récurrents
 - DONE.md (tâches passées)
-- TASK-006 (canonicals bugs résiduels)
-- TASK-012 (villes hardcodées)
+- P1-006-SEO-migration-canonicals-100% (canonicals bugs résiduels)
+- P1-012-SEO-villes-hardcodees-50% (villes hardcodées)
 - Projet 404 (audit complet)
 
 ✅ Identification patterns

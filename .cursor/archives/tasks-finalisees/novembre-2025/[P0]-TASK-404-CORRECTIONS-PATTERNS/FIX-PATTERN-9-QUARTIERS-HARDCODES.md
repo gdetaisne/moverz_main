@@ -8,7 +8,7 @@
 
 ## 🎯 BUGS DÉCOUVERTS
 
-**3 types de bugs copier-coller initiaux jamais corrigés dans TASK-012** :
+**3 types de bugs copier-coller initiaux jamais corrigés dans P1-012-SEO-villes-hardcodees-50%** :
 
 ### **Bug #1 : Pages `quartiers-{ville}/page.tsx`** (9 villes)
 
@@ -21,7 +21,7 @@
 - `sites/rennes/app/quartiers-rennes/page.tsx`
 - `sites/rouen/app/quartiers-rouen/page.tsx`
 - `sites/strasbourg/app/quartiers-strasbourg/page.tsx`
-- (Toulouse et Lille déjà corrigés dans TASK-012)
+- (Toulouse et Lille déjà corrigés dans P1-012-SEO-villes-hardcodees-50%)
 
 **Problème** :
 ```typescript
@@ -245,16 +245,16 @@ fix(404): Pattern #9 - Quartiers hardcodés corrigés (11 villes)
 
 ---
 
-## 🔍 POURQUOI TASK-012 A RATÉ CES BUGS ?
+## 🔍 POURQUOI P1-012-SEO-villes-hardcodees-50% A RATÉ CES BUGS ?
 
-### **Scope TASK-012 réel** :
+### **Scope P1-012-SEO-villes-hardcodees-50% réel** :
 - ✅ contact/page.tsx (11 villes)
 - ✅ services/page.tsx (11 villes)
 - ✅ Templates CorridorPage/LocalPage
 - ✅ Footer
 - ✅ Emails
 
-### **Scope TASK-012 manqué** :
+### **Scope P1-012-SEO-villes-hardcodees-50% manqué** :
 - ❌ quartiers-{ville}/page.tsx (8 villes non touchées)
 - ❌ NeighborhoodsIndex.tsx (0 ville touchée)
 - ❌ NeighborhoodsData.ts (Montpellier, Bordeaux, Strasbourg)

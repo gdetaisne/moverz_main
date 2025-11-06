@@ -13,7 +13,7 @@
 - **3 tâches EN COURS** (code fait, tests à valider)
 - **1 tâche INCOMPLET** (ancienne, toujours prioritaire)
 - **3 tâches FINALISÉES** (à archiver)
-- **1 tâche ABANDONNÉE** (TASK-002 remplacée par TASK-006)
+- **1 tâche ABANDONNÉE** (TASK-002 remplacée par P1-006-SEO-migration-canonicals-100%)
 
 **Total work** : ~120-150h de travail sur 3 jours (Guillaume + Associée)
 
@@ -33,7 +33,7 @@
 
 ### 🔄 EN COURS (à finaliser - tests à valider)
 
-#### TASK-006 : Migration Canonicals COMPLÈTE - 11 villes ⭐
+#### P1-006-SEO-migration-canonicals-100% : Migration Canonicals COMPLÈTE - 11 villes ⭐
 - **Qui** : Guillaume
 - **État** : 🔄 EN COURS (90% fait)
 - **Commits** : 15+ commits (31 oct)
@@ -57,7 +57,7 @@
   - Nettoyage satellites (placeholders/batch)
 - **Reste** : Tests live à valider sur 2+ sites
 
-#### TASK-009 : Amélioration SEO - Metadata, Schema, Wording
+#### P2-009-SEO-amelioration-70% : Amélioration SEO - Metadata, Schema, Wording
 - **Qui** : Guillaume
 - **État** : 🔄 EN COURS (70% fait)
 - **Commits** : 10 commits (30-31 oct)
@@ -102,9 +102,9 @@
 ### ❌ ABANDONNÉE
 
 #### TASK-002 : Migration Canonicals (documentation seulement)
-- **Raison** : Remplacée par TASK-006 (migration complète directe)
+- **Raison** : Remplacée par P1-006-SEO-migration-canonicals-100% (migration complète directe)
 - **Nettoyage** : Aucun code à revert (jamais codé)
-- **Documentation** : Conservée, a servi de base pour TASK-006
+- **Documentation** : Conservée, a servi de base pour P1-006-SEO-migration-canonicals-100%
 
 ---
 
@@ -116,8 +116,8 @@
 - Commits : ~45 commits
 - Temps estimé : ~70-80h de travail
 - Tâches :
-  - TASK-006 : Migration canonicals (90% fait)
-  - TASK-009 : Amélioration SEO (70% fait)
+  - P1-006-SEO-migration-canonicals-100% : Migration canonicals (90% fait)
+  - P2-009-SEO-amelioration-70% : Amélioration SEO (70% fait)
 
 **Associée (Lucie Stehelin de Taisne)** :
 - Commits : ~45 commits
@@ -133,10 +133,10 @@
 
 | Type | Commits | Tâches | Temps |
 |------|---------|--------|-------|
-| **SEO / Canonicals** | ~30 | TASK-006 | ~70h |
+| **SEO / Canonicals** | ~30 | P1-006-SEO-migration-canonicals-100% | ~70h |
 | **404 / Redirections** | ~25 | TASK-007 | ~50h |
 | **Content (Satellites)** | ~10 | TASK-008 | ~28h |
-| **SEO (Metadata/Schema)** | ~15 | TASK-009 | ~15h |
+| **SEO (Metadata/Schema)** | ~15 | P2-009-SEO-amelioration-70% | ~15h |
 | **UX/Design** | ~5 | TASK-010 | ~6h |
 | **Docs** | ~5 | - | ~10h |
 
@@ -150,9 +150,9 @@
 1. **TASK-001** : Correction 404 Phase 4 (20-30h restant)
 
 ### 🔄 EN COURS (à finaliser)
-2. **TASK-006** : Migration Canonicals (tests live à valider)
+2. **P1-006-SEO-migration-canonicals-100%** : Migration Canonicals (tests live à valider)
 3. **TASK-007** : Corrections 404 + Redirections (tests live à valider)
-4. **TASK-009** : Amélioration SEO (validation SEO à faire)
+4. **P2-009-SEO-amelioration-70%** : Amélioration SEO (validation SEO à faire)
 
 ### 📋 À FAIRE
 5. **TASK-005** : Audit qualité blogs (P3, 10-15h)
@@ -167,17 +167,17 @@
 
 ### 1. Finaliser les tâches EN COURS
 
-**Priorité 1** : Valider TASK-006, TASK-007, TASK-009
+**Priorité 1** : Valider P1-006-SEO-migration-canonicals-100%, TASK-007, P2-009-SEO-amelioration-70%
 ```
-"Cursor, je veux finaliser TASK-006"
+"Cursor, je veux finaliser P1-006-SEO-migration-canonicals-100%"
 → Cursor vérifiera la Definition of Done
 → Tests live à faire sur 2+ sites
 ```
 
 **Actions** :
-- TASK-006 : Tester canonicals live sur Nice + Marseille (curl + view source)
+- P1-006-SEO-migration-canonicals-100% : Tester canonicals live sur Nice + Marseille (curl + view source)
 - TASK-007 : Tester redirections + catégories blog sur 2 sites
-- TASK-009 : Valider Schema.org avec Google Rich Results Test
+- P2-009-SEO-amelioration-70% : Valider Schema.org avec Google Rich Results Test
 
 **Temps estimé** : 3-5h de tests
 
@@ -185,7 +185,7 @@
 
 ### 2. Reprendre TASK-001 (INCOMPLET prioritaire)
 
-Une fois TASK-006/007/009 finalisées :
+Une fois P1-006-SEO-migration-canonicals-100%/TASK-007/P2-009-SEO-amelioration-70% finalisées :
 ```
 "Cursor, je reprends TASK-001"
 → Cursor montrera les 104 articles à créer
@@ -215,7 +215,7 @@ Une fois TASK-006/007/009 finalisées :
 ### Points d'attention
 ⚠️ **Tests live à valider** : 3 tâches EN COURS attendent validation  
 ⚠️ **TASK-001 en pause** : Depuis 3 jours, risque oubli (système ⚠️ INCOMPLET aide)  
-⚠️ **Temps estimés dépassés** : TASK-006 estimée 40-54h, réelle ~70h  
+⚠️ **Temps estimés dépassés** : P1-006-SEO-migration-canonicals-100% estimée 40-54h, réelle ~70h  
 
 ### Améliorations
 💡 **Estimer plus large** : Tâches complexes prennent 1.5-2× temps estimé  

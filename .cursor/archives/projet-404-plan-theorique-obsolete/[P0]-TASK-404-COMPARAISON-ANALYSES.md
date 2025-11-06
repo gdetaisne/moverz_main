@@ -129,7 +129,7 @@
    - Ajout : Fix devis cross-ville
    - Temps : 2-3h → 3-4h
 
-3. **TASK-404-07 : Ajouter redirections accents**
+3. **P1-404-07-404-redirections-externes-0% : Ajouter redirections accents**
    - Ajouter ~60-80 redirections pour Toulouse
    - Temps : 3-5h (inchangé, déjà prévu)
 

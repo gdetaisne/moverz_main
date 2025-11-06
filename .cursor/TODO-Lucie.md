@@ -11,14 +11,14 @@
 
 ## 🔥 EN COURS MAINTENANT
 
-### [P1]-TASK-050 : Fix Liens "nice" Hardcodés (72 URLs 404) 🚨 URGENT
+### [P1]-P1-050-404-fix-hardcoded-nice-links-100% : Fix Liens "nice" Hardcodés (72 URLs 404) 🚨 URGENT
 
 **Priorité** : P1 (Important - Bug détecté)  
 **Type** : Bug Fix / Liens Internes
 
 **Objectif** : Corriger les liens hardcodés "nice" dans FAQ et Services → Résoudre 72 URLs 404
 
-**Documentation** : `.cursor/tasks/[P1]-TASK-050-fix-hardcoded-nice-links/`
+**Documentation** : `.cursor/tasks/P1-050-404-fix-hardcoded-nice-links-100%/`
 
 **Détecté par** : Guillaume via Google Search Console  
 **Créé le** : 2025-11-05  
@@ -60,7 +60,7 @@
 
 ---
 
-### [P2]-TASK-048 : Optimisation Page /services/ — Pricing + SEO ✅ COMPLÉTÉ
+### [P2]-P1-048-CI-CD-anti-404-100% : Optimisation Page /services/ — Pricing + SEO ✅ COMPLÉTÉ
 
 **Priorité** : P2 (Normal - Amélioration UX/SEO)  
 **Type** : SEO / UX / Contenu
@@ -104,14 +104,14 @@
 
 ## 🔥 EN COURS MAINTENANT
 
-### [P0]-TASK-046 : Logo SERP / Favicons — CTR Critique ✅ TECHNIQUE COMPLÉTÉ
+### [P0]-P0-046-SERP-favicon-logo-100% : Logo SERP / Favicons — CTR Critique ✅ TECHNIQUE COMPLÉTÉ
 
 **Priorité** : P0 (Business Critical)  
 **Type** : SEO / Investigation + Fix
 
 **Objectif** : Faire apparaître systématiquement le logo dans résultats Google (SERP)
 
-**Documentation** : `.cursor/tasks/[P0]-TASK-046-favicon-logo-serp/`
+**Documentation** : `.cursor/tasks/P0-046-SERP-favicon-logo-100%/`
 
 **Démarrée le** : 2025-11-05  
 **Complétée le** : 2025-11-05  
@@ -138,7 +138,7 @@
 
 **Next check** : 12/11/2025 (J+7) → Vérifier logo SERP
 
-**Rapport** : `.cursor/tasks/[P0]-TASK-046-favicon-logo-serp/RAPPORT-SESSION-05-NOV.md`
+**Rapport** : `.cursor/tasks/P0-046-SERP-favicon-logo-100%/RAPPORT-SESSION-05-NOV.md`
 
 ---
 
@@ -162,7 +162,7 @@
 
 ---
 
-### [P1]-TASK-047 : Fix "Duplicate FAQPage field" (11 sites) ✅ TECHNIQUE COMPLÉTÉ
+### [P1]-P1-047-Wording-offre-refonte-100% : Fix "Duplicate FAQPage field" (11 sites) ✅ TECHNIQUE COMPLÉTÉ
 
 **Priorité** : P1 (Important - Bloque rich snippets)  
 **Type** : SEO / Structured Data / Fix
@@ -392,7 +392,7 @@ Total Lucie : 4h30 minimum, 34h30 maximum (si création contenu)
 📋 TASK-404-04 : Création contenu (Lucie) OPTIONNEL si décision = créer
 📋 TASK-404-05 : Correction AUTO (Guillaume)
 📋 TASK-404-06 : Validation (Guillaume ou Lucie)
-📋 TASK-404-07 : Redirections (Guillaume)
+📋 P1-404-07-404-redirections-externes-0% : Redirections (Guillaume)
 📋 TASK-404-08 : Homepage (Guillaume ou Lucie)
 📋 TASK-404-09 : Validation finale (Guillaume + Lucie)
 ```

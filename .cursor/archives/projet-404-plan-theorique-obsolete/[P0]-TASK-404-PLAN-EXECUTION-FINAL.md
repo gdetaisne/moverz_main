@@ -16,7 +16,7 @@
 **Raison** : Si on crée contenu après correction → Re-correction nécessaire
 
 ### Principe #3 : Interne AVANT externe
-**Liens internes** (TASK-404-05) AVANT **Redirections 301** (TASK-404-07)  
+**Liens internes** (TASK-404-05) AVANT **Redirections 301** (P1-404-07-404-redirections-externes-0%)  
 **Raison** : Redirections basées sur état final liens internes
 
 ### Principe #4 : Skip ce qui est risqué
@@ -145,7 +145,7 @@
 
 ### PHASE 5 : EXTERNE + HOMEPAGE (5-8h)
 
-#### TASK-404-07 : Redirections 301 externes
+#### P1-404-07-404-redirections-externes-0% : Redirections 301 externes
 **Priorité** : P1  
 **Actions** :
 1. Analyser URLs externes (Search Console, GPT)
@@ -288,7 +288,7 @@ TASK-404-06 : Tests
 
 ### Session 6 : Externe (5-8h)
 ```
-TASK-404-07 : Redirections 301
+P1-404-07-404-redirections-externes-0% : Redirections 301
 TASK-404-08 : Homepage (réduit à 1h)
 TASK-404-09 : Validation finale
 ```
@@ -315,7 +315,7 @@ TASK-404-09 : Validation finale
 4. 📋 TASK-404-04 (contenu - optionnel)
 5. 📋 TASK-404-05 (correction massive)
 6. 📋 TASK-404-06 (validation)
-7. 📋 TASK-404-07 (redirections)
+7. 📋 P1-404-07-404-redirections-externes-0% (redirections)
 8. 📋 TASK-404-08 (homepage - réduit)
 9. 📋 TASK-404-09 (validation finale)
 

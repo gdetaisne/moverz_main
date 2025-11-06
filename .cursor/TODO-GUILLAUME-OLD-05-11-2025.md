@@ -11,7 +11,7 @@
 
 ## ⚠️ INCOMPLET (TOUJOURS PRIORITAIRES)
 
-### [P1]-TASK-012 : Correction Global Villes Hardcodées ⚠️
+### [P1]-P1-012-SEO-villes-hardcodees-50% : Correction Global Villes Hardcodées ⚠️
 
 **Statut** : ⚠️ INCOMPLET (40-50% fait)
 
@@ -30,7 +30,7 @@
 
 **Pourquoi en pause** :
 - Tests Lille en attente déploiement CapRover
-- Découverte bug global FAQ (TASK-038 créée)
+- Découverte bug global FAQ (P1-038-SEO-bug-faq-global-100% créée)
 - Momentum pattern validé, prêt à reprendre
 
 **Prochaine session** :
@@ -39,17 +39,17 @@
 3. Corriger Pattern 2 "à Marseille" (9 villes, 27 fichiers)
 4. Tests finaux + déploiement
 
-**Doc** : `.cursor/tasks/[P1]-TASK-012-villes-hardcodees/`
+**Doc** : `.cursor/tasks/P1-012-SEO-villes-hardcodees-50%/`
 
 ---
 
 ## 🔥 EN COURS MAINTENANT
 
-### [P0]-TASK-046 : Logo SERP / Favicons — CTR
+### [P0]-P0-046-SERP-favicon-logo-100% : Logo SERP / Favicons — CTR
 
 **Statut** : 🔄 EN COURS (analyse initiale)  
 **Temps estimé** : 1.5-3h  
-**Doc** : `.cursor/tasks/[P0]-TASK-046-favicon-logo-serp/`
+**Doc** : `.cursor/tasks/P0-046-SERP-favicon-logo-100%/`
 
 **Pourquoi** : Résultats Google sans logo → CTR en baisse sur 11 sites (mobile). Impact business direct → P0 exceptionnel (prioritaire malgré INCOMPLET).
 
@@ -81,20 +81,20 @@
 
 ---
 
-## 🆕 Nouvelles tâches (split de TASK-014)
+## 🆕 Nouvelles tâches (split de P2-014-Metadata-optimisation-100%)
 
-- [P1]-TASK-039 : Normalisation Titles 50–60 chars (11 villes) — PENDING  
-  Doc: `.cursor/tasks/[P1]-TASK-039-titles-normalisation/`
-- [P1]-TASK-040 : Descriptions 150–160 chars — Tier 2 (11 villes) — PENDING  
-  Doc: `.cursor/tasks/[P1]-TASK-040-descriptions-tier2/`
+- [P1]-P1-039-SEO-titles-normalisation-100% : Normalisation Titles 50–60 chars (11 villes) — PENDING  
+  Doc: `.cursor/tasks/P1-039-SEO-titles-normalisation-100%/`
+- [P1]-P1-040-SEO-descriptions-tier2-0% : Descriptions 150–160 chars — Tier 2 (11 villes) — PENDING  
+  Doc: `.cursor/tasks/P1-040-SEO-descriptions-tier2-0%/`
 - [P1]-TASK-041 : Price signals (UI + JSON‑LD Service) — PENDING  
-  Doc: `.cursor/tasks/[P1]-TASK-041-price-signals/`
+  Doc: `.cursor/tasks/P1-041-SEO-price-signals-0%/`
 - [P2]-TASK-043 : FAQ rationalisation (snippet efficace) — PENDING  
-  Doc: `.cursor/tasks/[P2]-TASK-043-faq-rationalisation/`
-- [P2]-TASK-044 : HowTo/Video — POC 2 villes — PENDING  
-  Doc: `.cursor/tasks/[P2]-TASK-044-howto-video-poc/`
+  Doc: `.cursor/tasks/P2-043-SEO-faq-rationalisation-100%/`
+- [P2]-P2-044-SEO-howto-video-poc-100% : HowTo/Video — POC 2 villes — PENDING  
+  Doc: `.cursor/tasks/P2-044-SEO-howto-video-poc-100%/`
 - [P1]-TASK-045 : QA & Monitoring CTR (outillage + baselines) — PENDING  
-  Doc: `.cursor/tasks/[P1]-TASK-045-qa-monitoring-ctr/`
+  Doc: `.cursor/tasks/P1-045-Analytics-qa-ctr-100%/`
 
 **Toutes les sessions 404 sont ARCHIVÉES dans DONE.md** ✅
 
@@ -150,8 +150,8 @@
 
 **Autres tâches** :
 - TASK-025 (Sitemaps 11 villes) — commits documentés
-- TASK-012 (villes hardcodées) — 7 villes
-- TASK-013 (maillage interne) — optimisations
+- P1-012-SEO-villes-hardcodees-50% (villes hardcodées) — 7 villes
+- P2-013-SEO-internal-linking-homepage-75% (maillage interne) — optimisations
 
 
 ---
@@ -190,7 +190,7 @@
 
 ## ⚡ À FAIRE APRÈS (5 MIN)
 
-### [P0]-TASK-023 : Setup Scripts Automation
+### [P0]-P2-023-Scripts-setup-automation-100% : Setup Scripts Automation
 
 **Priorité** : P0 (Active tout le système créé aujourd'hui)  
 **Temps** : 5 minutes  
@@ -214,7 +214,7 @@
 
 ## ✅ FAIT AUJOURD'HUI (04/11/2025) - FINALISATION
 
-### ✅ TASK-032 : Search Console Configuration (11 villes) - FINALISÉ
+### ✅ P1-032-SEO-search-console-0% : Search Console Configuration (11 villes) - FINALISÉ
 
 **Date** : 04/11/2025  
 **Temps** : 0h (obsolète, remplacé par Moverz Analytics)
@@ -229,7 +229,7 @@
 
 ---
 
-### ✅ TASK-028 : Sitemaps Consistency (11 villes) - FINALISÉ
+### ✅ P1-028-SEO-sitemaps-consistency-100% : Sitemaps Consistency (11 villes) - FINALISÉ
 
 **Date** : 04/11/2025  
 **Temps** : 0h (déjà complète lors de TASK-025)
@@ -274,7 +274,7 @@
 
 ## 📅 TÂCHES À VENIR
 
-### [P1]-TASK-012 : Correction Global Villes Hardcodées ⚠️ INCOMPLET
+### [P1]-P1-012-SEO-villes-hardcodees-50% : Correction Global Villes Hardcodées ⚠️ INCOMPLET
 
 **Priorité** : P1  
 **Temps estimé** : 1.5-2h  
@@ -375,12 +375,12 @@ Assurer 1 seule sitemap par domaine (route app), pas d'index ni `sitemap-*.xml`,
 **Commande** : `"Cursor, je démarre TASK-404-LILLE"` (ou Toulouse/Strasbourg)
 
 ### Option B : Setup Scripts (5 min) ⚡
-**TASK-023** : Activer automation (validation pre-commit + dashboard "moverz")  
-**Commande** : `"Cursor, je démarre TASK-023"`
+**P2-023-Scripts-setup-automation-100%** : Activer automation (validation pre-commit + dashboard "moverz")  
+**Commande** : `"Cursor, je démarre P2-023-Scripts-setup-automation-100%"`
 
 ### Option C : SEO Prioritaire (1.5-2h)
-**TASK-028** : Sitemaps Consistency (11 villes, P1)  
-**Commande** : `"Cursor, je démarre TASK-028"`
+**P1-028-SEO-sitemaps-consistency-100%** : Sitemaps Consistency (11 villes, P1)  
+**Commande** : `"Cursor, je démarre P1-028-SEO-sitemaps-consistency-100%"`
 
 ---
 
@@ -424,7 +424,7 @@ Assurer 1 seule sitemap par domaine (route app), pas d'index ni `sitemap-*.xml`,
 
 ❌ TASK-404-03 à 404-06 : OBSOLÈTES (corrections manuelles les ont remplacées)
 
-📋 TASK-404-07 : Redirections 301 Externes (3-5h) — P1 (optionnel, Search Console)
+📋 P1-404-07-404-redirections-externes-0% : Redirections 301 Externes (3-5h) — P1 (optionnel, Search Console)
 📋 TASK-404-08 : Homepage (1h) — P2 (probablement déjà OK)
 ```
 
@@ -446,14 +446,14 @@ Assurer 1 seule sitemap par domaine (route app), pas d'index ni `sitemap-*.xml`,
 ## 🔥 AUTRES TÂCHES EN COURS (à finaliser)
 
 **✅ Tâches finalisées récemment** :
-- ✅ TASK-006 : Canonicals (P1) — FINALISÉ (04/11)
+- ✅ P1-006-SEO-migration-canonicals-100% : Canonicals (P1) — FINALISÉ (04/11)
 - ✅ TASK-011 : Fix 308 Nice (P0) — FINALISÉ (04/11)
 
 **🔄 5 tâches à finaliser** :
-- TASK-012 : Villes hardcodées (P1, 85%, tests manquants)
-- TASK-013 : Internal linking (P2, 75%, validation maillage)
-- TASK-014 : Metadata SEO (P2, 80%, tests SERP + descriptions)
-- TASK-009 : Schema.org (P2, 70%, validation Rich Results)
+- P1-012-SEO-villes-hardcodees-50% : Villes hardcodées (P1, 85%, tests manquants)
+- P2-013-SEO-internal-linking-homepage-75% : Internal linking (P2, 75%, validation maillage)
+- P2-014-Metadata-optimisation-100% : Metadata SEO (P2, 80%, tests SERP + descriptions)
+- P2-009-SEO-amelioration-70% : Schema.org (P2, 70%, validation Rich Results)
 
 **Stratégie** : Projet 404 quasi-terminé (99%), focus sur finalisation tâches existantes + nouvelles priorités SEO.
 

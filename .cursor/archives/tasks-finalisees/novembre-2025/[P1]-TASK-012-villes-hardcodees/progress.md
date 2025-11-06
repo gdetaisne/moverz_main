@@ -1,4 +1,4 @@
-# Progress Log : TASK-012
+# Progress Log : P1-012-SEO-villes-hardcodees-50%
 
 ---
 
@@ -98,7 +98,7 @@
 
 ### Statut Final
 
-**TASK-012 : 100% COMPLÈTE** ✅ (vs 85% début session)
+**P1-012-SEO-villes-hardcodees-50% : 100% COMPLÈTE** ✅ (vs 85% début session)
 
 **Sites 100% corrigés ET déployés** (10/11) :
 - ✅ Toulouse (13 fichiers) - Déployé en 3 min
@@ -151,7 +151,7 @@
 
 ### Statut Final DÉFINITIF
 
-**TASK-012 : ✅ 100% COMPLÈTE ET AUDITÉE**
+**P1-012-SEO-villes-hardcodees-50% : ✅ 100% COMPLÈTE ET AUDITÉE**
 
 **Sites corrigés + déployés + testés + audités** (11/11) :
 - ✅ Toulouse (13 fichiers) - Déployé + Testé + Audité ✓

@@ -47,7 +47,7 @@ Corrections rapides des 404 les plus évidentes sur 11 villes : normalisation de
 - [x] 3. Testé en live échantillon (11 villes + Toulouse)
 
 
-### ✅ TASK-012 : Villes hardcodées (NeighborhoodsTeaser) — 11 villes
+### ✅ P1-012-SEO-villes-hardcodees-50% : Villes hardcodées (NeighborhoodsTeaser) — 11 villes
 
 **Finalisée le** : 04 novembre 2025  
 **Type** : Refactor / SEO Safety  
@@ -57,7 +57,7 @@ Corrections rapides des 404 les plus évidentes sur 11 villes : normalisation de
 **Temps estimé** : 1.5-2h  
 **Temps réel** : ~1h
 
-📁 **Documentation** : `.cursor/tasks-finalisees/novembre-2025/[P1]-TASK-012-villes-hardcodees/`
+📁 **Documentation** : `.cursor/tasks-finalisees/novembre-2025/P1-012-SEO-villes-hardcodees-50%/`
 
 **Résumé** :
 Correction des liens quartiers (href + trailing slash) dans `NeighborhoodsTeaser` sur 11 villes. Alignement des index quartiers `/quartiers-{slug}/`. Pas de modification de canonicals. Déployé et validé en live sur 2 sites (Nice, Lyon).
@@ -160,7 +160,7 @@ Implémentation breadcrumbs visibles + BreadcrumbList schema JSON-LD sur 11 site
 
 ---
 
-### ✅ TASK-028 : Sitemaps Consistency (11 villes)
+### ✅ P1-028-SEO-sitemaps-consistency-100% : Sitemaps Consistency (11 villes)
 
 **Finalisée le** : 04 novembre 2025  
 **Type** : SEO / QA + Cleanup  
@@ -170,7 +170,7 @@ Implémentation breadcrumbs visibles + BreadcrumbList schema JSON-LD sur 11 site
 **Temps estimé** : 1.5-2h  
 **Temps réel** : 0h (déjà complète lors de TASK-025)
 
-📁 **Documentation** : `.cursor/archives/tasks-finalisees/novembre-2025/[P1]-TASK-028-sitemaps-consistency/`
+📁 **Documentation** : `.cursor/archives/tasks-finalisees/novembre-2025/P1-028-SEO-sitemaps-consistency-100%/`
 
 **Résumé** :
 Audit et validation conformité sitemaps sur 11 sites Moverz. TÂCHE DÉJÀ COMPLÈTE : configuration parfaite détectée lors de l'audit. 1 seule sitemap par domaine, directive robots.txt présente, trailing slash cohérent, 1,252 URLs indexables. Aucune action corrective nécessaire.
@@ -221,7 +221,7 @@ Audit et validation conformité sitemaps sur 11 sites Moverz. TÂCHE DÉJÀ COMP
 
 ---
 
-### ✅ TASK-032 : Search Console Configuration (11 villes)
+### ✅ P1-032-SEO-search-console-0% : Search Console Configuration (11 villes)
 
 **Finalisée le** : 04 novembre 2025  
 **Type** : SEO Monitoring / Analytics  
@@ -231,7 +231,7 @@ Audit et validation conformité sitemaps sur 11 sites Moverz. TÂCHE DÉJÀ COMP
 **Temps estimé** : 3-4h  
 **Temps réel** : 0h (obsolète, déjà existant via Moverz Analytics)
 
-📁 **Documentation** : `.cursor/archives/tasks-finalisees/novembre-2025/[P1]-TASK-032-search-console/`
+📁 **Documentation** : `.cursor/archives/tasks-finalisees/novembre-2025/P1-032-SEO-search-console-0%/`
 
 **Résumé** :
 Configuration Google Search Console pour les 11 villes Moverz. TÂCHE OBSOLÈTE : remplacée par solution 10x supérieure (application Moverz Analytics en production) incluant dashboard multi-sites temps réel, monitoring automatisé GSC API → BigQuery, alertes indexation, tracking 404s avec historique commits, et actions recommandées IA.
@@ -284,7 +284,7 @@ Configuration Google Search Console pour les 11 villes Moverz. TÂCHE OBSOLÈTE 
 
 ---
 
-### ✅ TASK-006 : Migration Canonicals Complète - 11 villes
+### ✅ P1-006-SEO-migration-canonicals-100% : Migration Canonicals Complète - 11 villes
 
 **Finalisée le** : 04 novembre 2025  
 **Type** : Refactor / SEO Critical  
@@ -294,7 +294,7 @@ Configuration Google Search Console pour les 11 villes Moverz. TÂCHE OBSOLÈTE 
 **Temps estimé** : 40-50h  
 **Temps réel** : 47h (migration + corrections bugs + validation)
 
-📁 **Documentation** : `.cursor/tasks/[P1]-TASK-006-migration-canonicals-complete/`
+📁 **Documentation** : `.cursor/tasks/P1-006-SEO-migration-canonicals-100%/`
 
 **Résumé** :
 Migration exhaustive des URLs canoniques avec trailing slash systématique sur les 11 sites Moverz pour conformité Google Search Console. Helper centralisé `canonical-helper.ts` créé, 1407 pages corrigées, bugs résiduels détectés et résolus, validation exhaustive 100 pages sur 2 sites complets.
@@ -313,8 +313,8 @@ Migration exhaustive des URLs canoniques avec trailing slash systématique sur l
 
 **Bugs résiduels corrigés** :
 - Bug #1 : Quartiers hardcodés 'lille' → Déjà résolu (slug dynamique)
-- Bug #2 : Metadata ville hardcodée → TASK-012 (hors scope canonicals)
-- Bug #3 : Templates hardcodés → TASK-012 (hors scope canonicals)
+- Bug #2 : Metadata ville hardcodée → P1-012-SEO-villes-hardcodees-50% (hors scope canonicals)
+- Bug #3 : Templates hardcodés → P1-012-SEO-villes-hardcodees-50% (hors scope canonicals)
 - Bug #4 : cityData trailing slash → Déjà résolu (uniformisé sans slash)
 
 **Livrables** :

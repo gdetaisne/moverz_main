@@ -139,7 +139,7 @@
 ```
 
 **Décision** : ❌ **NE PAS CRÉER** (spam évident)  
-**Solution** : Redirections 301 → article pilier - TASK-404-07
+**Solution** : Redirections 301 → article pilier - P1-404-07-404-redirections-externes-0%
 
 ---
 
@@ -221,7 +221,7 @@ Après validation Sprint 1, si ROI confirmé :
 
 **Actions** :
 - TASK-404-06 : Validation
-- TASK-404-07 : Redirections 301 résiduelles
+- P1-404-07-404-redirections-externes-0% : Redirections 301 résiduelles
 - TASK-404-09 : Tests finaux
 
 ---

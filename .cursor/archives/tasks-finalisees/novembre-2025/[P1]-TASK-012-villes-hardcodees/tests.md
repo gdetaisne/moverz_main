@@ -1,4 +1,4 @@
-# Tests : TASK-012
+# Tests : P1-012-SEO-villes-hardcodees-50%
 
 **Date** : 03 novembre 2025  
 **Type** : Tests live production + Audit complet code

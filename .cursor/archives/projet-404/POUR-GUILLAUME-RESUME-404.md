@@ -96,7 +96,7 @@ Patterns copier-collés depuis Bordeaux (pas adaptés) :
 | 1. Catégories incorrectes | 850 | 40% | TASK-404-05 (auto) |
 | 2. Variations slug | 250 | 12% | TASK-404-05 (auto) |
 | 3. Majuscules | 100 | 5% | TASK-404-08 (code) |
-| 4. Devis-ville-quartier | 60 | 3% | TASK-404-07 (301) |
+| 4. Devis-ville-quartier | 60 | 3% | P1-404-07-404-redirections-externes-0% (301) |
 | 5. Articles manquants | 104 | 5% | TASK-404-03/04 |
 | 6. Autres | 750 | 35% | Mix 404-05/07 |
 

@@ -240,15 +240,15 @@ Cursor en pause - Attente validation crawler après rebuild complet.
 
 ## 03 Nov 2025 - 15h30-16h15
 
-### 🔍 Enquête TASK-012 Incomplète
+### 🔍 Enquête P1-012-SEO-villes-hardcodees-50% Incomplète
 
-**Guillaume** : "Enquête - pourquoi bugs hardcodés existent alors que TASK-012 terminée ?"
+**Guillaume** : "Enquête - pourquoi bugs hardcodés existent alors que P1-012-SEO-villes-hardcodees-50% terminée ?"
 
-**Découverte** : TASK-012 scope incomplet
+**Découverte** : P1-012-SEO-villes-hardcodees-50% scope incomplet
 
 **Analyse Git** :
-- TASK-012 a corrigé : contact, services, templates, footer, emails
-- TASK-012 n'a PAS touché : quartiers-{ville}/page.tsx (8/10), NeighborhoodsIndex.tsx (0/11), NeighborhoodsData.ts
+- P1-012-SEO-villes-hardcodees-50% a corrigé : contact, services, templates, footer, emails
+- P1-012-SEO-villes-hardcodees-50% n'a PAS touché : quartiers-{ville}/page.tsx (8/10), NeighborhoodsIndex.tsx (0/11), NeighborhoodsData.ts
 - Audit dit "0 erreur" mais 9 villes bugs résiduels
 - Marquée "100% complète" prématurément
 

@@ -318,15 +318,15 @@ Voir `.cursor/WORKFLOWS.md` pour la liste complète des commandes pré-écrites.
 
 ### Problème critique en cours de journée
 
-**Scénario** : Tu travailles sur TASK-050, un bug critique apparaît.
+**Scénario** : Tu travailles sur P1-050-404-fix-hardcoded-nice-links-100%, un bug critique apparaît.
 
 **Workflow** :
-1. `"Cursor, je mets TASK-050 en pause : bug critique apparu"`
+1. `"Cursor, je mets P1-050-404-fix-hardcoded-nice-links-100% en pause : bug critique apparu"`
 2. `"Cursor, crée la tâche : Bug critique [description]"` → Cursor évalue en P0
 3. `"Cursor, je démarre TASK-051"` (le bug critique)
 4. Résoudre le bug
 5. `"Cursor, finalise TASK-051"`
-6. `"Cursor, je reprends TASK-050"` (tâche INCOMPLET prioritaire)
+6. `"Cursor, je reprends P1-050-404-fix-hardcoded-nice-links-100%"` (tâche INCOMPLET prioritaire)
 
 ### Tâche plus complexe que prévu
 
@@ -339,13 +339,13 @@ Voir `.cursor/WORKFLOWS.md` pour la liste complète des commandes pré-écrites.
 
 ### Tâche partiellement utile
 
-**Scénario** : Tu veux abandonner TASK-045 mais une partie du code est utile.
+**Scénario** : Tu veux abandonner P1-045-Analytics-qa-ctr-100% mais une partie du code est utile.
 
 **Options** :
 1. **Extraire le code utile** :
-   - Créer TASK-046 "Refacto X" (scope réduit)
-   - Finaliser TASK-046 proprement
-   - Abandonner TASK-045 (revert le reste)
+   - Créer P0-046-SERP-favicon-logo-100% "Refacto X" (scope réduit)
+   - Finaliser P0-046-SERP-favicon-logo-100% proprement
+   - Abandonner P1-045-Analytics-qa-ctr-100% (revert le reste)
 
 2. **Réduire le scope** :
    - Ne pas abandonner

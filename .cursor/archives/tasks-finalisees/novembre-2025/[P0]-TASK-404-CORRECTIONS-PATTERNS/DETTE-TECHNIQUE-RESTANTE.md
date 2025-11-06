@@ -27,9 +27,9 @@
 
 ## ⚠️ DETTE TECHNIQUE IDENTIFIÉE NON TRAITÉE
 
-### **1. TASK-012 Incomplète** 🟠
+### **1. P1-012-SEO-villes-hardcodees-50% Incomplète** 🟠
 
-**Découverte** : TASK-012 marquée "100% complète" mais scope incomplet
+**Découverte** : P1-012-SEO-villes-hardcodees-50% marquée "100% complète" mais scope incomplet
 
 **Ce qui manquait** :
 - ❌ 8 pages `quartiers-{ville}/page.tsx` (metadata Lille hardcodée)
@@ -39,9 +39,9 @@
 **Résolution** : ✅ Corrigé dans Pattern #9 Phase 1
 
 **Action requise** : ❓
-- **Option A** : Marquer TASK-012 comme ⚠️ INCOMPLET puis ✅ TERMINÉ (corrigé dans Pattern #9)
+- **Option A** : Marquer P1-012-SEO-villes-hardcodees-50% comme ⚠️ INCOMPLET puis ✅ TERMINÉ (corrigé dans Pattern #9)
 - **Option B** : Laisser tel quel (déjà marqué terminé, bugs corrigés ailleurs)
-- **Option C** : Mettre à jour documentation TASK-012 avec note "bugs résiduels corrigés dans Pattern #9"
+- **Option C** : Mettre à jour documentation P1-012-SEO-villes-hardcodees-50% avec note "bugs résiduels corrigés dans Pattern #9"
 
 **Recommandation** : **Option C** (mise à jour doc, pas de réouverture)
 
@@ -121,7 +121,7 @@
 
 | Item | Impact | Temps | Priorité | Status |
 |------|--------|-------|----------|--------|
-| **TASK-012 doc** | Documentation | 10 min | P2 | 📝 À documenter |
+| **P1-012-SEO-villes-hardcodees-50% doc** | Documentation | 10 min | P2 | 📝 À documenter |
 | **Pattern #5B /guide** | ~320-400 liens | 3-4h | P0 | 🔴 À traiter |
 | **Pattern #5A Satellites** | ~110 liens | 2-3h | P1 | 🟡 À planifier |
 
@@ -144,7 +144,7 @@
    - Après validation Pattern #5B
    - Résolution finale → 100%
 
-4. ✅ **Doc TASK-012** (10 min)
+4. ✅ **Doc P1-012-SEO-villes-hardcodees-50%** (10 min)
    - Note dans README : "Bugs résiduels corrigés Pattern #9"
 
 ---
@@ -165,7 +165,7 @@
 ### **Pour clôture session** :
 - [ ] Mettre à jour BACKLOG.md (Pattern #9 terminé)
 - [ ] Mettre à jour TODO-GUILLAUME.md
-- [ ] Documenter leçon apprise TASK-012
+- [ ] Documenter leçon apprise P1-012-SEO-villes-hardcodees-50%
 
 ---
 

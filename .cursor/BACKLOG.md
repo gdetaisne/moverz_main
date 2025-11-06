@@ -32,9 +32,9 @@
 
 ## 🔴 PROTECTIONS CI/CD - Prévention 404
 
-### [P1] [Temps: 3-4h] [Qui: Guillaume] TASK-048 : CI anti-404 + garde push multi-sites
+### [P1] [Temps: 3-4h] [Qui: Guillaume] P1-048-CI-CD-anti-404-100% : CI anti-404 + garde push multi-sites
 
-📁 **Doc** : `.cursor/tasks/[P1]-TASK-048-ci-anti-404/`
+📁 **Doc** : `.cursor/tasks/P1-048-CI-CD-anti-404-100%/`
 
 **Type** : Infrastructure / Prévention
 
@@ -238,9 +238,9 @@ Voir : `.cursor/DONE.md` pour détails complets
 
 ---
 
-### [P1] [Temps: 3-5h] [Qui: Guillaume] TASK-404-07 : Redirections 301 Externes (À FAIRE)
+### [P1] [Temps: 3-5h] [Qui: Guillaume] P1-404-07-404-redirections-externes-0% : Redirections 301 Externes (À FAIRE)
 
-📁 **Doc** : `.cursor/tasks/[P1]-TASK-404-07-redirections-externes/`
+📁 **Doc** : `.cursor/tasks/P1-404-07-404-redirections-externes-0%/`
 
 **Type** : SEO / Redirections
 
@@ -284,9 +284,9 @@ Voir : `.cursor/DONE.md` pour détails complets
 
 ## 🔴 PRIORITÉ IMMÉDIATE (Setup Final)
 
-### [P2] [Temps: 5 min] [Qui: Guillaume] TASK-023 : Setup Scripts Automation
+### [P2] [Temps: 5 min] [Qui: Guillaume] P2-023-Scripts-setup-automation-100% : Setup Scripts Automation
 
-📁 **Doc** : `.cursor/tasks/[P2]-TASK-023-setup-scripts-automation/`
+📁 **Doc** : `.cursor/tasks/P2-023-Scripts-setup-automation-100%/`
 
 **Type** : Setup / Installation
 
@@ -312,9 +312,9 @@ Scripts automation créés (7 scripts) mais pas encore activés. Setup requis po
 
 ---
 
-### [P0] [Temps: 1.5-3h] [Qui: Guillaume] TASK-046 : Logo SERP / Favicons — CTR
+### [P0] [Temps: 1.5-3h] [Qui: Guillaume] P0-046-SERP-favicon-logo-100% : Logo SERP / Favicons — CTR
 
-📁 **Doc** : `.cursor/tasks/[P0]-TASK-046-favicon-logo-serp/`
+📁 **Doc** : `.cursor/tasks/P0-046-SERP-favicon-logo-100%/`
 
 **Type** : SEO CTR / Investigation + Fix multi‑sites (11 villes)
 
@@ -349,9 +349,9 @@ Scripts automation créés (7 scripts) mais pas encore activés. Setup requis po
 
 ## 🟠 SITEMAPS & INDEXATION
 
-### [P1] [Temps: 1.5-2h] [Qui: Guillaume] TASK-028 : Sitemaps Consistency 11 villes
+### [P1] [Temps: 1.5-2h] [Qui: Guillaume] P1-028-SEO-sitemaps-consistency-100% : Sitemaps Consistency 11 villes
 
-📁 **Doc** : `.cursor/tasks/[P1]-TASK-028-sitemaps-consistency/`
+📁 **Doc** : `.cursor/tasks/P1-028-SEO-sitemaps-consistency-100%/`
 
 **Type** : SEO / QA + Cleanup
 
@@ -379,9 +379,9 @@ Scripts automation créés (7 scripts) mais pas encore activés. Setup requis po
 
 ## 🔄 EN COURS (à finaliser)
 
-### [P1] [Temps: ~85% fait] [Qui: Associée] TASK-012 : Correction Global Villes Hardcodées
+### [P1] [Temps: ~85% fait] [Qui: Associée] P1-012-SEO-villes-hardcodees-50% : Correction Global Villes Hardcodées
 
-📁 **Doc** : `.cursor/tasks/[P1]-TASK-012-villes-hardcodees/`
+📁 **Doc** : `.cursor/tasks/P1-012-SEO-villes-hardcodees-50%/`
 
 **Type** : Bugfix / Refactor
 
@@ -425,9 +425,9 @@ Villes hardcodées dans le code (ex: "Lille" en dur dans code Bordeaux). Problè
 
 ---
 
-### [P1] [Temps: ~2h30 restant] [Qui: Guillaume] TASK-006 : Migration Canonicals Complète - 11 villes
+### [P1] [Temps: ~2h30 restant] [Qui: Guillaume] P1-006-SEO-migration-canonicals-100% : Migration Canonicals Complète - 11 villes
 
-📁 **Doc** : `.cursor/tasks/[P1]-TASK-006-migration-canonicals-complete/`
+📁 **Doc** : `.cursor/tasks/P1-006-SEO-migration-canonicals-100%/`
 
 **Type** : Refactor / SEO Critical
 
@@ -475,9 +475,9 @@ Villes hardcodées dans le code (ex: "Lille" en dur dans code Bordeaux). Problè
 ---
 
 
-### [P2] [Temps: ~75% fait] [Qui: Guillaume + Associée] TASK-013 : Optimisation Internal Linking → Push Homepage
+### [P2] [Temps: ~75% fait] [Qui: Guillaume + Associée] P2-013-SEO-internal-linking-homepage-75% : Optimisation Internal Linking → Push Homepage
 
-📁 **Doc** : `.cursor/tasks/[P2]-TASK-013-internal-linking-homepage/`
+📁 **Doc** : `.cursor/tasks/P2-013-SEO-internal-linking-homepage-75%/`
 
 **Type** : SEO / Optimization
 
@@ -520,13 +520,13 @@ Optimisation maillage interne pour pousser autorité vers homepage. Liens strat�
 
 ---
 
-### [P1] [Temps: 9-11h restant] [Qui: Guillaume + Lucie] TASK-014 : Optimisation Metadata SEO Complète (11 villes)
+### [P1] [Temps: 9-11h restant] [Qui: Guillaume + Lucie] P2-014-Metadata-optimisation-100% : Optimisation Metadata SEO Complète (11 villes)
 
-📁 **Doc** : `.cursor/tasks/[P2]-TASK-014-optimisation-metadata/`
+📁 **Doc** : `.cursor/tasks/P2-014-Metadata-optimisation-100%/`
 
 **Type** : SEO / Optimization
 
-**Note** : 🔀 **Fusion TASK-030** (meta descriptions) dans TASK-014 (04/11/2025)
+**Note** : 🔀 **Fusion TASK-030** (meta descriptions) dans P2-014-Metadata-optimisation-100% (04/11/2025)
 
 **Objectif Complet** :
 1. **Phase technique** (80% fait) : Fixes metadata dynamiques, titles, canonicals
@@ -599,9 +599,9 @@ Optimisation maillage interne pour pousser autorité vers homepage. Liens strat�
 
 ---
 
-### [P2] [Temps: ~70% fait] [Qui: Guillaume] TASK-009 : Amélioration SEO - Schema.org + Wording
+### [P2] [Temps: ~70% fait] [Qui: Guillaume] P2-009-SEO-amelioration-70% : Amélioration SEO - Schema.org + Wording
 
-📁 **Doc** : `.cursor/tasks/[P2]-TASK-009-amelioration-seo/`
+📁 **Doc** : `.cursor/tasks/P2-009-SEO-amelioration-70%/`
 
 **Type** : SEO / Feature
 
@@ -654,11 +654,11 @@ Optimisation maillage interne pour pousser autorité vers homepage. Liens strat�
 
 ---
 
-## 🟠 META & CTR — Dérivés de TASK-014 (Split par cohérence technique)
+## 🟠 META & CTR — Dérivés de P2-014-Metadata-optimisation-100% (Split par cohérence technique)
 
-### [P1] [Temps: 2-3h] [Qui: Guillaume] TASK-039 : Normalisation Titles 50–60 chars (11 villes)
+### [P1] [Temps: 2-3h] [Qui: Guillaume] P1-039-SEO-titles-normalisation-100% : Normalisation Titles 50–60 chars (11 villes)
 
-📁 Doc : `.cursor/tasks/[P1]-TASK-039-titles-normalisation/`  
+📁 Doc : `.cursor/tasks/P1-039-SEO-titles-normalisation-100%/`  
 **Objectif** : Normaliser les titles à 50–60 caractères, supprimer doublons (ex. “Ville | Déménageurs Ville”), règles par type de page.  
 **Actions** :
 - [ ] Règles par pageType (home/local/service/corridor/faq/contact/blog)
@@ -669,9 +669,9 @@ Optimisation maillage interne pour pousser autorité vers homepage. Liens strat�
 
 ---
 
-### [P1] [Temps: 2-3h] [Qui: Guillaume + Lucie] TASK-040 : Descriptions 150–160 chars — Tier 2 (11 villes)
+### [P1] [Temps: 2-3h] [Qui: Guillaume + Lucie] P1-040-SEO-descriptions-tier2-0% : Descriptions 150–160 chars — Tier 2 (11 villes)
 
-📁 Doc : `.cursor/tasks/[P1]-TASK-040-descriptions-tier2/`  
+📁 Doc : `.cursor/tasks/P1-040-SEO-descriptions-tier2-0%/`  
 **Objectif** : Appliquer templates descriptions optimisées 150–160 chars sur services éco/standard/premium, contact, notre offre.  
 **Actions** :
 - [ ] Implémenter templates par type de page (déjà validés Phase 2)  
@@ -682,9 +682,9 @@ Optimisation maillage interne pour pousser autorité vers homepage. Liens strat�
 
 ---
 
-### [P1] [Temps: 1-1.5h] [Qui: Guillaume] TASK-041 : Price signals (UI + JSON‑LD Service)
+### [P1] [Temps: 1-1.5h] [Qui: Guillaume] P1-041-SEO-price-signals-0% : Price signals (UI + JSON‑LD Service)
 
-📁 Doc : `.cursor/tasks/[P1]-TASK-041-price-signals/`  
+📁 Doc : `.cursor/tasks/P1-041-SEO-price-signals-0%/`  
 **Objectif** : Renforcer signaux prix (mention “dès …” UI) et, si données fiables, exposer `priceRange`/bornes dans `Service` JSON‑LD.  
 **Actions** :
 - [ ] Audit des fourchettes fiables par ville/type  
@@ -695,9 +695,9 @@ Optimisation maillage interne pour pousser autorité vers homepage. Liens strat�
 
 ---
 
-### [P2] [Temps: 1-1.5h] [Qui: Guillaume + Lucie] TASK-043 : FAQ rationalisation (snippet efficace)
+### [P2] [Temps: 1-1.5h] [Qui: Guillaume + Lucie] P2-043-SEO-faq-rationalisation-100% : FAQ rationalisation (snippet efficace)
 
-📁 Doc : `.cursor/tasks/[P2]-TASK-043-faq-rationalisation/`  
+📁 Doc : `.cursor/tasks/P2-043-SEO-faq-rationalisation-100%/`  
 **Objectif** : Limiter à 2–4 Q/A très ciblées par page money; éviter surcharge; améliorer pertinence affichée en SERP.  
 **Actions** :
 - [ ] Sélection Q/A par type de page  
@@ -708,9 +708,9 @@ Optimisation maillage interne pour pousser autorité vers homepage. Liens strat�
 
 ---
 
-### [P2] [Temps: 2-3h] [Qui: Guillaume] TASK-044 : HowTo/Video — POC 2 villes
+### [P2] [Temps: 2-3h] [Qui: Guillaume] P2-044-SEO-howto-video-poc-100% : HowTo/Video — POC 2 villes
 
-📁 Doc : `.cursor/tasks/[P2]-TASK-044-howto-video-poc/`  
+📁 Doc : `.cursor/tasks/P2-044-SEO-howto-video-poc-100%/`  
 **Objectif** : Créer 2 HowTo + 1 VideoObject par 2 villes fortes impressions; mesurer impact rich results.  
 **Actions** :
 - [ ] Sélection contenus (checklist déménagement {Ville})  
@@ -721,9 +721,9 @@ Optimisation maillage interne pour pousser autorité vers homepage. Liens strat�
 
 ---
 
-### [P1] [Temps: 0.5-1h] [Qui: Guillaume] TASK-045 : QA & Monitoring CTR (outillage + baselines)
+### [P1] [Temps: 0.5-1h] [Qui: Guillaume] P1-045-Analytics-qa-ctr-100% : QA & Monitoring CTR (outillage + baselines)
 
-📁 Doc : `.cursor/tasks/[P1]-TASK-045-qa-monitoring-ctr/`  
+📁 Doc : `.cursor/tasks/P1-045-Analytics-qa-ctr-100%/`  
 **Objectif** : Baseline CTR par type de page, QA automate (longueurs/head), checkpoints J+14, J+28.  
 **Actions** :
 - [ ] Baselines GSC (export par pageType)  
@@ -732,7 +732,7 @@ Optimisation maillage interne pour pousser autorité vers homepage. Liens strat�
 **DoD** : baselines stockées, alerte/rituel QA défini, suivi à 2 échéances.
 **Statut** : 📋 PENDING
 
-### [P1] [Temps: 1.5-2h] [Qui: Guillaume] TASK-038 : Corriger Template Literals FAQ (guillemets → backticks)
+### [P1] [Temps: 1.5-2h] [Qui: Guillaume] P1-038-SEO-bug-faq-global-100% : Corriger Template Literals FAQ (guillemets → backticks)
 
 📁 **Doc** : `.cursor/tasks/[P1]-TASK-038-template-literals-faq/`
 
@@ -741,7 +741,7 @@ Optimisation maillage interne pour pousser autorité vers homepage. Liens strat�
 **Objectif** : Corriger template literals non interpolés dans faq/page.tsx (11 villes)
 
 **Contexte** :
-- Bug détecté lors tests Lille TASK-012 (04/11/2025)
+- Bug détecté lors tests Lille P1-012-SEO-villes-hardcodees-50% (04/11/2025)
 - Guillemets doubles `"${city.nameCapitalized}"` au lieu de backticks `` `${city.nameCapitalized}` ``
 - Résultat : Contenu page affiche `${city.nameCapitalized}` littéralement au lieu de "Lille"
 - Metadata SEO **non affectées** (layout.tsx OK)
@@ -801,11 +801,11 @@ Optimisation maillage interne pour pousser autorité vers homepage. Liens strat�
 
 **Statut** : 📋 PENDING
 
-**Dépendances** : AUCUNE (indépendant de TASK-012)
+**Dépendances** : AUCUNE (indépendant de P1-012-SEO-villes-hardcodees-50%)
 
 **Bloque** : AUCUNE
 
-**Créée le** : 04/11/2025 pendant TASK-012
+**Créée le** : 04/11/2025 pendant P1-012-SEO-villes-hardcodees-50%
 
 ---
 
@@ -839,7 +839,7 @@ Optimisation maillage interne pour pousser autorité vers homepage. Liens strat�
 
 ### [❌ ABANDONNÉE] TASK-002 : Migration Canonicals (doc seulement)
 
-**Raison** : Remplacée par TASK-006 (migration complète directe)
+**Raison** : Remplacée par P1-006-SEO-migration-canonicals-100% (migration complète directe)
 
 **Nettoyage** : ✅ Aucun code à revert (documentation conservée)
 
@@ -928,9 +928,9 @@ Site Bordeaux est **BIEN CONFIGURÉ SEO** :
 
 ---
 
-### [P1] [Temps: 3-4h] [Qui: Guillaume] TASK-032 : Search Console Configuration (11 villes)
+### [P1] [Temps: 3-4h] [Qui: Guillaume] P1-032-SEO-search-console-0% : Search Console Configuration (11 villes)
 
-📁 **Doc** : `.cursor/tasks/[P1]-TASK-032-search-console/`
+📁 **Doc** : `.cursor/tasks/P1-032-SEO-search-console-0%/`
 
 **Type** : SEO Monitoring / Analytics
 
@@ -1091,20 +1091,20 @@ Rennes, Nantes, Marseille, Rouen, Strasbourg, Montpellier, Nice, Toulouse, Lyon,
 - ✅ 8/11 sites à 0% erreur (archivé)
 - ✅ 2847+ liens corrigés sur 3 sessions
 - 📋 3 tâches P2 restantes : Lille (28 liens), Toulouse (19 liens), Strasbourg (2 liens)
-- 📋 2 tâches optionnelles : TASK-404-07 (redirections 301), TASK-404-08 (homepage)
+- 📋 2 tâches optionnelles : P1-404-07-404-redirections-externes-0% (redirections 301), TASK-404-08 (homepage)
 
 **🔴 PRIORITÉ CRITIQUE** : 3 tâches Tier 1 (4.5-5.5h)
 - ~~TASK-029 : Fix Bordeaux SEO~~ ❌ ANNULÉE (diagnostic erroné, site OK)
-- TASK-006 : Migration Canonicals bugs (P0, 95% fait, 2h30)
-- TASK-012 : Villes hardcodées tests (P0, 85% fait, 30min)
-- TASK-028 : Sitemaps consistency (P0 SEO, 1.5-2h)
+- P1-006-SEO-migration-canonicals-100% : Migration Canonicals bugs (P0, 95% fait, 2h30)
+- P1-012-SEO-villes-hardcodees-50% : Villes hardcodées tests (P0, 85% fait, 30min)
+- P1-028-SEO-sitemaps-consistency-100% : Sitemaps consistency (P0 SEO, 1.5-2h)
 
 **🟠 PRIORITÉ IMPORTANTE** : 5 tâches Tier 2 (17-21h)
-- TASK-014 : Metadata SEO Complète (P1, 80%+0%, 9-11h) [Guillaume + Lucie] ← **inclut ex-TASK-030**
+- P2-014-Metadata-optimisation-100% : Metadata SEO Complète (P1, 80%+0%, 9-11h) [Guillaume + Lucie] ← **inclut ex-TASK-030**
 - TASK-031 : Breadcrumbs + Schema (P1, 11 villes, 6-8h) [Guillaume]
-- TASK-032 : Search Console (P1, 11 villes, 3-4h) [Guillaume]
-- TASK-013 : Internal linking validation (P1, 75% fait, 1h)
-- TASK-009 : Schema.org Rich Results (P1, 70% fait, 1h)
+- P1-032-SEO-search-console-0% : Search Console (P1, 11 villes, 3-4h) [Guillaume]
+- P2-013-SEO-internal-linking-homepage-75% : Internal linking validation (P1, 75% fait, 1h)
+- P2-009-SEO-amelioration-70% : Schema.org Rich Results (P1, 70% fait, 1h)
 
 **🟡 NICE-TO-HAVE** : 6 tâches P2 (12.5-19h)
 - TASK-033 : Titles Optimisés (P2, 3 villes, 2-3h) [Lucie]
@@ -1123,7 +1123,7 @@ Rennes, Nantes, Marseille, Rouen, Strasbourg, Montpellier, Nice, Toulouse, Lyon,
 
 **Tâches modifiées** :
 - ❌ TASK-029 annulée (diagnostic erroné, -4-6h)
-- 🔀 TASK-030 fusionnée dans TASK-014 (optimisation)
+- 🔀 TASK-030 fusionnée dans P2-014-Metadata-optimisation-100% (optimisation)
 - 🆕 TASK-037 créée (HSTS headers, +1.5-2h, P2)
 
 ---

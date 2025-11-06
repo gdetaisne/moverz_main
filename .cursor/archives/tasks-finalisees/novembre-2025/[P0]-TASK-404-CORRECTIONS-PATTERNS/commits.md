@@ -176,7 +176,7 @@ Villes: Montpellier, Nice, Lille, Nantes, Rouen, Strasbourg, Rennes, Lyon, Marse
 
 ### Bugs Découverts
 
-**TASK-012 était incomplète** :
+**P1-012-SEO-villes-hardcodees-50% était incomplète** :
 - quartiers-{ville}/page.tsx : 8 villes Metadata "Lille" hardcodée ❌
 - NeighborhoodsIndex.tsx : 11 villes "Toulouse" hardcodé ❌
 - NeighborhoodsData.ts : Montpellier = données Marseille ❌

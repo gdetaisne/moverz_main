@@ -527,7 +527,7 @@ git push origin main
 - **Assigné** : Guillaume
 - **Type** : Refactor / Script automatique
 - **Dépendances** : TASK-404-02 (structure OK), TASK-404-04 (contenu créé si applicable)
-- **Bloque** : TASK-404-06, TASK-404-07, TASK-404-08 (base propre nécessaire)
+- **Bloque** : TASK-404-06, P1-404-07-404-redirections-externes-0%, TASK-404-08 (base propre nécessaire)
 
 ### Objectif
 Corriger AUTOMATIQUEMENT les 963 liens internes cassés :
@@ -959,7 +959,7 @@ Si différences → PROBLÈME (rollback)
 ### Scénarios de sortie
 
 **Scénario A : Validation OK (<50 liens cassés, tous acceptables)**
-→ GO Phase 4 (TASK-404-07)
+→ GO Phase 4 (P1-404-07-404-redirections-externes-0%)
 
 **Scénario B : Validation OK mais liens résiduels (50-100, acceptables)**
 → Documenter résiduels + GO Phase 4
@@ -983,7 +983,7 @@ Si différences → PROBLÈME (rollback)
 
 ---
 
-## TASK-404-07 : Redirections 301 Externes (Search Console)
+## P1-404-07-404-redirections-externes-0% : Redirections 301 Externes (Search Console)
 
 ### Métadonnées
 - **Priorité** : P1 (après liens internes propres)
@@ -1054,7 +1054,7 @@ async redirects() {
   return [
     // ... existantes
 
-    // ANCIENNES STRUCTURES (ajout TASK-404-07)
+    // ANCIENNES STRUCTURES (ajout P1-404-07-404-redirections-externes-0%)
     { 
       source: '/blog/demenagement-marseille-guide',
       destination: '/blog/demenageur-marseille/demenageur-marseille-guide',
@@ -1174,7 +1174,7 @@ for city in marseille toulouse lyon bordeaux nantes lille nice strasbourg rouen 
   # Stats redirections
   REDIRECTS=$(grep -c "source:" sites/$city/next.config.mjs)
   
-  git commit -m "feat($city): Ajout redirections 301 externes - Total: $REDIRECTS (TASK-404-07)"
+  git commit -m "feat($city): Ajout redirections 301 externes - Total: $REDIRECTS (P1-404-07-404-redirections-externes-0%)"
 done
 
 git push origin main
@@ -1240,7 +1240,7 @@ git push origin main
 - **Temps estimé** : 2-3h
 - **Assigné** : Guillaume ou Associée
 - **Type** : Audit / Fix
-- **Dépendances** : TASK-404-05 (liens internes OK), TASK-404-07 (redirections OK)
+- **Dépendances** : TASK-404-05 (liens internes OK), P1-404-07-404-redirections-externes-0% (redirections OK)
 - **Bloque** : TASK-404-09 (validation finale)
 
 ### Objectif
@@ -1621,7 +1621,7 @@ Créer `RAPPORT-FINAL-RESOLUTION-404.md` :
 - TASK-404-06 : Validation liens internes ✅
 
 ### Phase 4 : Externe & Homepage (6h)
-- TASK-404-07 : Redirections 301 (1300+) ✅
+- P1-404-07-404-redirections-externes-0% : Redirections 301 (1300+) ✅
 - TASK-404-08 : Fix homepage (41 liens) ✅
 
 ### Phase 5 : Validation (3h)

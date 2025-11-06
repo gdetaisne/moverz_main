@@ -111,7 +111,7 @@ SI KO → Rollback + Debug
 ### 🌐 PHASE 6 : EXTERNE + FINAL (6-9h)
 
 ```
-TASK-404-07 : Redirections 301 (3-5h)
+P1-404-07-404-redirections-externes-0% : Redirections 301 (3-5h)
 ├─ URLs externes Search Console
 ├─ ~300-500 redirections
 └─ next.config.mjs 11 villes

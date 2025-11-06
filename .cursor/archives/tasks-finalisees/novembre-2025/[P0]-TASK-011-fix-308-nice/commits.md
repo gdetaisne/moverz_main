@@ -17,7 +17,7 @@
 
 ## 🔗 Tâches liées
 
-**Déclenchée par** : TASK-006 (Migration canonicals)  
+**Déclenchée par** : P1-006-SEO-migration-canonicals-100% (Migration canonicals)  
 **Bloque** : Déploiement Nice complet
 
 ---

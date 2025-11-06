@@ -13,7 +13,7 @@
 ```
 1️⃣ TASK-011 (30 min) : Tests deployment Nice
    └─> Valider 11 pages → 200 OK
-   └─> Débloque : TASK-006
+   └─> Débloque : P1-006-SEO-migration-canonicals-100%
 
 2️⃣ TASK-404-02 PARTIEL (30 min) : Fix cleanSlug() Marseille + Lyon
    └─> Remplacer bordeaux → marseille/lyon
@@ -33,23 +33,23 @@
 ### PHASE 2 : METADATA FUSIONNÉE (2h30) 🔄 **← DEMAIN APRÈS-MIDI**
 
 ```
-3️⃣ Audit (15 min) : Identifier fichiers chevauchement TASK-006/012
+3️⃣ Audit (15 min) : Identifier fichiers chevauchement P1-006-SEO-migration-canonicals-100%/P1-012-SEO-villes-hardcodees-50%
    └─> 70 fichiers touchés par 2 tâches
 
-4️⃣ TASK-006 + TASK-012 FUSIONNÉS (2h) : 1 commit au lieu de 2
+4️⃣ P1-006-SEO-migration-canonicals-100% + P1-012-SEO-villes-hardcodees-50% FUSIONNÉS (2h) : 1 commit au lieu de 2
    ├─ Quartiers canonical (9 villes, 15 min)
    ├─ Metadata hardcodées (10+ villes, 45 min)
    ├─ Templates dynamiques (2 fichiers, 20 min)
    ├─ cityData.ts (11 fichiers, 10 min)
    └─ Tests Nice + Toulouse (30 min)
 
-5️⃣ TASK-014 (15 min) : Validation SERP
+5️⃣ P2-014-Metadata-optimisation-100% (15 min) : Validation SERP
    └─> Tests Google Search Console
 ```
 
 **Commande** :
 ```bash
-"Cursor, fusionne corrections TASK-006 + TASK-012 en 1 commit"
+"Cursor, fusionne corrections P1-006-SEO-migration-canonicals-100% + P1-012-SEO-villes-hardcodees-50% en 1 commit"
 ```
 
 **Résultat** : Metadata 100% propres ✅ + Économie 1h15 ✅
@@ -59,13 +59,13 @@
 ### PHASE 3 : SEO & LINKING (3h30) 📈 **← JOUR 2**
 
 ```
-6️⃣ TASK-013 (1h30) : Screaming Frog + validation maillage
+6️⃣ P2-013-SEO-internal-linking-homepage-75% (1h30) : Screaming Frog + validation maillage
    └─> Baseline avant TASK-404-05
 
 7️⃣ TASK-404-02 COMPLET (1h) : Accents + Nice
    └─> Finalise structure blog
 
-8️⃣ TASK-009 (1h) : Rich Results Test
+8️⃣ P2-009-SEO-amelioration-70% (1h) : Rich Results Test
    └─> Peut être PARALLÈLE (Lucie)
 ```
 
@@ -102,16 +102,16 @@
 ### Scénario A : TASK-404-02 en dernier
 
 ```
-TASK-006 ✅ → TASK-013 ✅ → TASK-404-05 ✅
+P1-006-SEO-migration-canonicals-100% ✅ → P2-013-SEO-internal-linking-homepage-75% ✅ → TASK-404-05 ✅
                 ↓
          TASK-404-02 change cleanSlug()
                 ↓
          URLs blog changent
                 ↓
-         ❌ Liens TASK-013 cassés
+         ❌ Liens P2-013-SEO-internal-linking-homepage-75% cassés
          ❌ Corrections TASK-404-05 cassées
          ↓
-         REFAIRE TASK-013 (1h30)
+         REFAIRE P2-013-SEO-internal-linking-homepage-75% (1h30)
          REFAIRE TASK-404-05 (4-6h)
 ```
 
@@ -119,14 +119,14 @@ TASK-006 ✅ → TASK-013 ✅ → TASK-404-05 ✅
 
 ---
 
-### Scénario B : TASK-006 et TASK-012 séparés
+### Scénario B : P1-006-SEO-migration-canonicals-100% et P1-012-SEO-villes-hardcodees-50% séparés
 
 ```
-TASK-006 (2h30) : Corrige quartiers-toulouse/page.tsx
+P1-006-SEO-migration-canonicals-100% (2h30) : Corrige quartiers-toulouse/page.tsx
      ↓ commit
-TASK-012 (45min) : Corrige quartiers-toulouse/page.tsx (même fichier !)
+P1-012-SEO-villes-hardcodees-50% (45min) : Corrige quartiers-toulouse/page.tsx (même fichier !)
      ↓ commit
-TASK-014 (1h) : Teste quartiers-toulouse/page.tsx (déjà testé !)
+P2-014-Metadata-optimisation-100% (1h) : Teste quartiers-toulouse/page.tsx (déjà testé !)
      ↓
 
 Résultat : 
@@ -139,17 +139,17 @@ Résultat :
 
 ---
 
-### Scénario C : TASK-013 AVANT TASK-006
+### Scénario C : P2-013-SEO-internal-linking-homepage-75% AVANT P1-006-SEO-migration-canonicals-100%
 
 ```
-TASK-013 : Optimise liens internes (trailing slash inconsistant)
+P2-013-SEO-internal-linking-homepage-75% : Optimise liens internes (trailing slash inconsistant)
      ↓
-TASK-006 : Ajoute trailing slash partout
+P1-006-SEO-migration-canonicals-100% : Ajoute trailing slash partout
      ↓
 
 Résultat :
-❌ Liens TASK-013 sans trailing slash
-❌ TASK-006 les modifie
+❌ Liens P2-013-SEO-internal-linking-homepage-75% sans trailing slash
+❌ P1-006-SEO-migration-canonicals-100% les modifie
 ❌ Re-analyse maillage nécessaire
 ```
 
@@ -164,10 +164,10 @@ Résultat :
 ```
 Jour 1 :
 08h-09h   : Phase 1 (TASK-011 + 404-02 cleanSlug)
-14h-16h45 : Phase 2 (TASK-006+012 fusionnés + TASK-014)
+14h-16h45 : Phase 2 (P1-006-SEO-migration-canonicals-100%+012 fusionnés + P2-014-Metadata-optimisation-100%)
 
 Jour 2 :
-09h-12h30 : Phase 3 (TASK-013 + 404-02 final + TASK-009)
+09h-12h30 : Phase 3 (P2-013-SEO-internal-linking-homepage-75% + 404-02 final + P2-009-SEO-amelioration-70%)
 
 Jour 3-5 :
 Variable  : Phase 4 (TASK-404-03 à 09)

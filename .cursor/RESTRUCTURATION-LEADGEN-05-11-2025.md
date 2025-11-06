@@ -34,10 +34,10 @@
 
 ### 1. Création 3 nouvelles tâches LEAD GEN consolidées
 
-#### TASK-LEADGEN-01 : Fix Metadata CTR (P0)
-**Fusion de** : TASK-012 + TASK-014 + TASK-039 + TASK-040 + TASK-045
+#### P0-LEADGEN-01-Metadata-ctr-optimisation-100% : Fix Metadata CTR (P0)
+**Fusion de** : P1-012-SEO-villes-hardcodees-50% + P2-014-Metadata-optimisation-100% + P1-039-SEO-titles-normalisation-100% + P1-040-SEO-descriptions-tier2-0% + P1-045-Analytics-qa-ctr-100%
 
-**Localisation** : `.cursor/tasks/[P0]-TASK-LEADGEN-01-metadata-ctr-optimisation/`
+**Localisation** : `.cursor/tasks/P0-LEADGEN-01-Metadata-ctr-optimisation-100%/`
 
 **Fichiers créés** :
 - ✅ `README.md` (15 pages, plan complet)
@@ -53,7 +53,7 @@
 
 ---
 
-#### TASK-LEADGEN-02 : 404 & Indexation (P1)
+#### P0-LEADGEN-02-404-indexation-boost-100% : 404 & Indexation (P1)
 **Nouvelle tâche** basée sur données 404 + Search Console
 
 **Localisation** : `.cursor/tasks/[P1]-TASK-LEADGEN-02-404-indexation-boost/`
@@ -68,7 +68,7 @@
 
 ---
 
-#### TASK-LEADGEN-03 : Monitoring & Optimisation (P1)
+#### P0-LEADGEN-03-Analytics-monitoring-ctr-100% : Monitoring & Optimisation (P1)
 **Nouvelle tâche** monitoring continu
 
 **Localisation** : `.cursor/tasks/[P1]-TASK-LEADGEN-03-monitoring-ctr-optimisation/`
@@ -109,14 +109,14 @@
 - tests.md : Stratégie validation
 - decisions.md : Choix techniques/stratégiques
 
-**Style** : Identique aux tâches existantes (TASK-012, TASK-014, TASK-031, etc.)
+**Style** : Identique aux tâches existantes (P1-012-SEO-villes-hardcodees-50%, P2-014-Metadata-optimisation-100%, TASK-031, etc.)
 
 ---
 
 ## 📊 ROADMAP PROPOSÉE (4 semaines)
 
 ### Semaine 1 (maintenant - 12/11)
-**Focus** : TASK-LEADGEN-01 (Metadata CTR)
+**Focus** : P0-LEADGEN-01-Metadata-ctr-optimisation-100% (Metadata CTR)
 - Jour 1-2 : Finir villes hardcodées + templates
 - Jour 3 : Deploy 11 sites
 - Jour 7 : Monitoring CTR J+7
@@ -126,7 +126,7 @@
 ---
 
 ### Semaine 2 (13-19/11)
-**Focus** : TASK-LEADGEN-02 (404) + Setup LEADGEN-03 (Monitoring)
+**Focus** : P0-LEADGEN-02-404-indexation-boost-100% (404) + Setup LEADGEN-03 (Monitoring)
 - Jour 1-2 : Lyon, Lille, Toulouse 404
 - Jour 3 : Rennes investigation
 - Jour 4-5 : Dashboard monitoring enrichi
@@ -176,7 +176,7 @@
 ```
 .cursor/
 ├── tasks/
-│   ├── [P0]-TASK-LEADGEN-01-metadata-ctr-optimisation/
+│   ├── P0-LEADGEN-01-Metadata-ctr-optimisation-100%/
 │   │   ├── README.md (15 pages)
 │   │   ├── context.md (analyse business)
 │   │   ├── progress.md (60% déjà fait)
@@ -202,13 +202,13 @@
 ### Action immédiate (Guillaume)
 ```bash
 # Démarrer tâche prioritaire
-"Cursor, je démarre TASK-LEADGEN-01"
+"Cursor, je démarre P0-LEADGEN-01-Metadata-ctr-optimisation-100%"
 ```
 
 ### Ordre exécution
-1. **TASK-LEADGEN-01** (P0, 2 jours) → Fix metadata CTR
-2. **TASK-LEADGEN-02** (P1, 1-2 jours) → Résoudre 404 & indexation
-3. **TASK-LEADGEN-03** (P1, 1 jour) → Setup monitoring
+1. **P0-LEADGEN-01-Metadata-ctr-optimisation-100%** (P0, 2 jours) → Fix metadata CTR
+2. **P0-LEADGEN-02-404-indexation-boost-100%** (P1, 1-2 jours) → Résoudre 404 & indexation
+3. **P0-LEADGEN-03-Analytics-monitoring-ctr-100%** (P1, 1 jour) → Setup monitoring
 
 **Total** : 4-5 jours travail → ROI +350-1 500€/mois à J+30
 
@@ -226,10 +226,10 @@
 ## 📝 NOTES
 
 **Tâches anciennes** :
-- TASK-012 : ✅ Fusionnée dans LEADGEN-01
-- TASK-014 : ✅ Fusionnée dans LEADGEN-01
-- TASK-039, 040, 045 : ✅ Fusionnées dans LEADGEN-01
-- TASK-046 (Favicon) : ⏸️ Mis en pause (reprendre après LEADGEN-01)
+- P1-012-SEO-villes-hardcodees-50% : ✅ Fusionnée dans LEADGEN-01
+- P2-014-Metadata-optimisation-100% : ✅ Fusionnée dans LEADGEN-01
+- P1-039-SEO-titles-normalisation-100%, 040, 045 : ✅ Fusionnées dans LEADGEN-01
+- P0-046-SERP-favicon-logo-100% (Favicon) : ⏸️ Mis en pause (reprendre après LEADGEN-01)
 
 **Philosophie restructuration** :
 - Focus ROI business (leads, €€€)

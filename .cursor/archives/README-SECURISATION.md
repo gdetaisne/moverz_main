@@ -90,7 +90,7 @@ Taux de complétion:    45% (5/11)
 
 🚨 ALERTES:
 ⚠️ 1 tâche(s) INCOMPLET → À reprendre en priorité !
-   - TASK-006-migration-canonicals
+   - P1-006-SEO-migration-canonicals-100%
 
 💡 Action: Reprendre, abandonner, ou justifier
 ```
