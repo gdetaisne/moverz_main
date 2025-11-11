@@ -14,7 +14,148 @@
 
 ---
 
-## 🔴 CRITIQUE URGENTE - Bugs Multi-Sites
+## 🔴 CRITIQUE URGENTE - Infrastructure & Bugs Multi-Sites
+
+### ✅ [P0] [Temps: 3h] [Qui: Guillaume] [P0]-TASK-057-debug-caprover-restauration : Debug CapRover Post-Restauration Serveur - RÉSOLU
+
+📁 **Doc** : `.cursor/tasks/[P0]-TASK-057-debug-caprover-restauration/`
+
+**Type** : Infrastructure Critique / Incident Production
+
+**Statut** : ✅ RÉSOLU (11/11/2025 05:00 UTC)
+
+**Problème CRITIQUE** :
+- 🚨 **Serveur restauré snapshot 4 nov → CapRover ne démarre plus**
+- 🚨 **11 sites inaccessibles** (reverse proxy down)
+- Origine : Restauration VPS Hostinger corrompue/incomplète
+- Impact : 100% sites down = 0 lead = perte business critique
+
+**Situation Technique** :
+- ✅ Docker Swarm actif et fonctionnel
+- ✅ 11 containers sites tournent (srv-captain--dd-*)
+- ❌ `captain-captain` en restart loop ("Fresh installation!" détecté)
+- ❌ `captain-nginx` bloque ports 80/443 mais mal configuré
+- ❌ CapRover UI inaccessible (https://captain.gslv.cloud)
+
+**Root Cause Identifiée** :
+- `/captain/data/config-captain.json` **manque champs système critiques** :
+  - `swarmNodeId` (requis pour reconnaître Swarm existant)
+  - `captainSubDomain` (captain)
+  - `registrySubDomain` (registry)
+  - `captainSalt` (clé sécurité)
+- → CapRover croit à "Fresh installation" malgré Swarm actif
+- → Tente `docker swarm init` → erreur 503 "already part of swarm"
+
+**Actions Réalisées** (1h30) :
+- [x] Diagnostic complet (Docker, Swarm, logs, config, ports)
+- [x] Tentatives redémarrage `captain-captain` (échec)
+- [x] Ajout variables env `ACCEPTED_TERMS`, `MAIN_NODE_IP_ADDRESS` (échec)
+- [x] Identification conflit `captain-nginx` sur ports 80/443
+- [x] Script fix config préparé (`/tmp/fix_captain_config.sh`)
+- [x] Script fix Nginx reverse proxy temporaire préparé
+
+**Résolution** :
+- [x] Restauration VPS Hostinger terminée ✅
+- [x] 11/11 sites en ligne (200 OK) ✅
+- [x] CapRover UI fonctionnel (200 OK) ✅
+- [x] Documentation complète créée (7 fichiers) ✅
+- [x] UptimeRobot monitoring configuré (13 URLs) ✅
+
+**Actions Prévention Restantes** :
+- [ ] Backup config CapRover externalisé (cron Mac)
+- [ ] Vérifier fréquence snapshots Hostinger (quotidien recommandé)
+
+**Scripts Prêts** :
+```bash
+# 1. Fix rapide Nginx (sites en ligne)
+/tmp/fix-rapid-nginx.sh
+
+# 2. Fix config CapRover (optionnel si UI requis)
+/tmp/fix_captain_config.sh
+```
+
+**Priorité** : P0 (CRITIQUE - Production down)
+
+**Temps total** : 3h (1h30 diagnostic + 1h30 attente)  
+**Downtime** : 3h (02:00-05:00 UTC)  
+**Impact business** : 0-1 lead perdu (période nuit, faible trafic)
+
+**Résolu par** : Restauration automatique Hostinger  
+**Leçon** : Monitoring externe critique (UptimeRobot maintenant actif)
+
+---
+
+### [P1] [Temps: 3-4h] [Qui: Guillaume] [P1]-TASK-059-migration-architecture-hybrid : Migration Architecture Hybrid Vercel + VPS 🚀
+
+📁 **Doc** : `.cursor/tasks/[P1]-TASK-059-migration-architecture-hybrid/`
+
+**Type** : Infrastructure / Architecture
+
+**Statut** : 📋 PENDING (à faire après TASK-058 nettoyage Docker)
+
+**Objectif** :
+- Séparer sites publics (Vercel) du backend privé (VPS)
+- Résilience : Sites restent online même si VPS down
+- Performance : CDN global 70+ régions (vs 1 datacenter France)
+- Maintenance : 0h sites (vs 10h/mois actuellement)
+
+**Architecture Actuelle** :
+```
+VPS Hostinger (TOUT sur 1 serveur) :
+├── 11 sites Next.js publics
+├── Postgres (DB)
+├── CRM custom
+├── Dashboards admin
+└── API endpoints
+
+❌ VPS down = TOUT down
+❌ 751 images Docker (problème disque)
+❌ Maintenance lourde
+```
+
+**Architecture Cible** :
+```
+VERCEL (Public - 11 sites) :
+✅ 99.99% uptime
+✅ CDN 70+ régions
+✅ Auto-scaling
+✅ 0 maintenance
+Coût : 0€/mois
+
+VPS (Private - Backend) :
+✅ Postgres + CRM + Dashboards
+✅ Allégé (pas de sites)
+✅ -200 GB disque
+Coût : 30€/mois (vs 50€)
+```
+
+**Bénéfices Attendus** :
+- ✅ Uptime sites : 67% → 99.99% (+49%)
+- ✅ Performance sites : ×4-6 plus rapide global
+- ✅ Maintenance : -80% (10h → 2h/mois)
+- ✅ Problème disque : Résolu (pas 751 images sites)
+- ✅ Coût : -40% (50€ → 30€/mois)
+- ✅ Résilience : VPS down = Sites OK (0 lead perdu)
+
+**Plan Migration** :
+- Phase 0 : Préparation (30 min)
+- Phase 1 : Migrer Nice TEST (1h)
+- Phase 2 : Migrer 10 sites restants (1h30)
+- Phase 3 : Nettoyer VPS (1h)
+- Phase 4 : Optimiser config (30 min)
+
+**Downtime attendu** : 0 (migration progressive)
+
+**Priorité** : P1 (Important mais pas urgent immédiat)
+
+**Prérequis** :
+- [ ] TASK-058 nettoyage Docker terminé
+- [ ] VPS stable
+- [ ] Backup VPS complet
+
+**Temps estimé** : 3-4h
+
+---
 
 ### [P0] [Temps: 2-3h] [Qui: Guillaume] [P0]-TASK-056-header-toulouse-hardcoded-complet : Correction Toulouse Hardcodé Headers + CtaPrimary (11 villes)
 

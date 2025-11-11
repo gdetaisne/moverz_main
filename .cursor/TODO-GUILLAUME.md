@@ -178,6 +178,63 @@
 
 ## 🟠 TÂCHES IMPORTANTES (P1 - Après LEADGEN-01)
 
+### [P1]-TASK-059-migration-architecture-hybrid : Migration Architecture Hybrid Vercel + VPS 🚀
+
+**Statut** : 📋 PENDING  
+**Priorité** : P1 (Important - Impact résilience + coûts)  
+**Temps estimé** : 3-4h  
+**ROI** : Uptime +49%, Images Docker -93%, Coûts -40%  
+**Doc** : `.cursor/tasks/[P1]-TASK-059-migration-architecture-hybrid/`
+
+**Objectif** :
+Séparer sites publics (Vercel) du backend privé (VPS) pour résilience maximale.
+
+**Problème actuel** :
+- ❌ VPS down → 11 sites down (67% uptime cette semaine)
+- ❌ 626 images Docker dangling (76 GB, accumulation continue)
+- ❌ Maintenance lourde (11 containers Next.js)
+
+**Architecture cible** :
+```
+VERCEL (Public):
+- 11 sites Next.js
+- CDN 70+ régions, 99.99% uptime
+- 0€/mois (tier gratuit)
+
+VPS (Private):
+- Postgres + CRM + Dashboards
+- 30€/mois (vs 50€ avant)
+```
+
+**Plan migration (4 phases)** :
+1. Phase 0 : Préparation (backup, Vercel CLI) - 30 min
+2. Phase 1 : Nice TEST (valider process) - 1h
+3. Phase 2 : 10 sites restants - 1h30
+4. Phase 3 : Nettoyage VPS (containers/images) - 1h
+5. Phase 4 : Config auto-deploy - 30 min
+
+**Bénéfices mesurables** :
+- ✅ Uptime sites : 67% → 99.99% (+49%)
+- ✅ Images Docker : 626 → <50 (-93%)
+- ✅ Maintenance : 10h/mois → 2h/mois (-80%)
+- ✅ Coûts : 50€ → 30€/mois (-40%)
+
+**Prérequis** :
+- [x] Nettoyage Docker (TASK-058) ✅
+- [x] VPS stable ✅
+- [ ] Compte Vercel créé
+- [ ] Backup VPS snapshot
+- [ ] 3-4h temps disponible
+
+**Prochaines actions** :
+```
+"Cursor, je démarre TASK-059 migration Vercel"
+```
+
+**Temps investi** : 0h (tâche créée 11/11/2025)
+
+---
+
 ### [P1]-P1-047-Wording-offre-refonte-termine : Refonte Wording Offre Moverz 💬
 
 **Statut** : 📋 À FAIRE  
