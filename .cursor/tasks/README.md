@@ -34,17 +34,17 @@ TASK-XXX-nom-descriptif/
 - `[P2]-TASK-404-04-creation-contenu/` 📋 PENDING (optionnel)
 - `[P0]-TASK-404-05-correction-liens/` 📋 PENDING
 - `[P0]-TASK-404-06-validation-liens/` 📋 PENDING
-- `P1-404-07-404-redirections-externes-0%/` 📋 PENDING
+- `[P1]-TASK-404-07-redirections-externes/` 📋 PENDING
 - `[P1]-TASK-404-08-fix-homepage/` 📋 PENDING
 - `[P0]-TASK-404-09-validation-finale/` 📋 PENDING
 
 ### Autres tâches en cours
 - `[P0]-TASK-011-fix-308-nice/` 🔄 EN COURS (90%)
-- `P1-006-SEO-migration-canonicals-termine/` 🔄 EN COURS (95%)
-- `P1-012-SEO-villes-hardcodees-en-cours/` 🔄 EN COURS (85%)
-- `P2-009-SEO-amelioration-en-cours/` 🔄 EN COURS (70%)
-- `P2-013-SEO-internal-linking-homepage-en-cours/` 🔄 EN COURS (75%)
-- `P2-014-Metadata-optimisation-en-cours/` 🔄 EN COURS (80%)
+- `[P1]-TASK-006-migration-canonicals-complete/` 🔄 EN COURS (95%)
+- `[P1]-TASK-012-villes-hardcodees/` 🔄 EN COURS (85%)
+- `[P2]-TASK-009-amelioration-seo/` 🔄 EN COURS (70%)
+- `[P2]-TASK-013-internal-linking-homepage/` 🔄 EN COURS (75%)
+- `[P2]-TASK-014-optimisation-metadata/` 🔄 EN COURS (80%)
 
 ### Exemple
 - `TASK-EXAMPLE-exemple-documentation/` → Template de référence
