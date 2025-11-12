@@ -50,6 +50,8 @@ export interface BlogPost {
   // URLs optimisées (nouvelles URLs propres)
   cleanSlug: string;
   cleanCategory: string;
+  // TASK-061: Double mapping pour séparer URLs publiques (courtes) vs structure fichiers (longues)
+  internalCategory: string; // Catégorie réelle du dossier (ex: prix-demenagement-lyon)
 }
 
 // Fonction pour nettoyer les slugs
@@ -128,6 +130,11 @@ export function getAllBlogPosts(): BlogPost[] {
       // Le frontmatter category peut être différent (ex: demenagement-lyon vs prix-demenagement-lyon)
       const category = extractCategoryFromPath(filePath) || data.category;
       const cleanCategorySlug = cleanSlug(originalSlug, category);
+      
+      // TASK-061: Double mapping
+      // - internalCategory = catégorie réelle du dossier (pour routing Next.js)
+      // - cleanCategory = catégorie courte (pour URLs publiques, sitemap, SEO)
+      const internalCategory = category; // Garder catégorie longue (prix-demenagement-lyon)
       const cleanCategory = CATEGORY_MAPPING[category as keyof typeof CATEGORY_MAPPING] || category;
 
       // Gérer les keywords (peuvent être string ou array)
@@ -169,6 +176,7 @@ export function getAllBlogPosts(): BlogPost[] {
         // URLs optimisées
         cleanSlug: cleanCategorySlug,
         cleanCategory,
+        internalCategory, // TASK-061: Catégorie réelle du dossier
       });
     });
   });
@@ -177,9 +185,16 @@ export function getAllBlogPosts(): BlogPost[] {
 }
 
 // Fonction pour trouver un article par son nouveau slug
+// TASK-061: Cherche dans TOUTES les catégories (interne + publique) pour gérer les 2 types d'URLs
 export function getBlogPostByCleanSlug(cleanCategory: string, cleanSlug: string): BlogPost | null {
   const posts = getAllBlogPosts();
-  return posts.find(post => post.cleanCategory === cleanCategory && post.cleanSlug === cleanSlug) || null;
+  // D'abord chercher par catégorie publique (courte) - URLs actuelles
+  let post = posts.find(post => post.cleanCategory === cleanCategory && post.cleanSlug === cleanSlug);
+  // Si pas trouvé, chercher par catégorie interne (longue) - pour compatibilité
+  if (!post) {
+    post = posts.find(post => post.internalCategory === cleanCategory && post.cleanSlug === cleanSlug);
+  }
+  return post || null;
 }
 
 // Fonction legacy pour compatibilité
