@@ -157,38 +157,34 @@ Coût : 30€/mois (vs 50€)
 
 ---
 
-### [P0] [Temps: 2-3h] [Qui: Guillaume] [P0]-TASK-056-header-toulouse-hardcoded-complet : Correction Toulouse Hardcodé Headers + CtaPrimary (11 villes)
+### ✅ [P0] [Temps: 3h] [Qui: Guillaume] [P0]-TASK-056-header-toulouse-hardcoded-complet : Correction Toulouse Hardcodé Headers + CtaPrimary (11 villes) ✅ TERMINÉ
 
 📁 **Doc** : `.cursor/tasks/[P0]-TASK-056-header-toulouse-hardcoded-complet/`
 
 **Type** : Bugfix Critique / UX + SEO
 
-**Statut** : 🔄 EN COURS (30min investi, Strasbourg corrigé)
+**Statut** : ✅ TERMINÉ (commits `e6ca83cf`, `df445b77`)
 
 **Problème CRITIQUE** :
-- **Tous les sites (11 villes) affichent "Toulouse"** au lieu de leur propre ville
-- Origine : Commits Lucie ce matin (`e18e6dfb`, `564e6e21`) - copie code Toulouse sans dynamisation
+- **Tous les sites (11 villes) affichaient "Toulouse"** au lieu de leur propre ville
+- Origine : Commits Lucie (`e18e6dfb`, `564e6e21`) - copie code Toulouse sans dynamisation
 - Impact : UX catastrophique + SEO cassé + Perte confiance = Perte leads
 
-**Fichiers affectés** :
-- `sites/{ville}/components/Header.tsx` × 11 (logo, zonesItems, corridors hardcodés)
-- `sites/{ville}/components/CtaPrimary.tsx` × 11 (2 occurrences "Toulouse" par fichier)
+**Fichiers corrigés** :
+- ✅ `sites/{ville}/components/Header.tsx` × 11 (utilisation `city.nameCapitalized` dynamique)
+- ✅ `sites/{ville}/components/CtaPrimary.tsx` × 11 (utilisation `city.nameCapitalized` dynamique)
 
 **Corrections appliquées** :
-- ✅ Strasbourg Header.tsx corrigé (manuelle, sert d'exemple)
-- ⏳ 10 Headers restants à corriger
-- ⏳ 11 CtaPrimary.tsx à corriger
+- ✅ 11 Headers.tsx corrigés (zonesItems, corridors, logo dynamiques)
+- ✅ 11 CtaPrimary.tsx corrigés (subtitle footer + liste points clés dynamiques)
+- ✅ Scripts de correction créés (`fix-header-toulouse-hardcoded.mjs`, `fix-cta-primary-toulouse-all-cities.mjs`)
+- ✅ Commits GitHub : `e6ca83cf` (Headers), `df445b77` (CtaPrimary)
 
-**Actions restantes** :
-- [ ] Corriger 10 Headers restants (1h)
-- [ ] Corriger 11 CtaPrimary.tsx (1h)
-- [ ] Tests sur 2-3 villes (30min)
-- [ ] Commit + Deploy (30min)
+**Résultat** : Tous les sites affichent maintenant leur propre ville dynamiquement ✅
 
 **Priorité** : P0 (critique - tous sites cassés)
 
-**Temps investi** : 30min  
-**Temps restant** : ~2h30
+**Temps investi** : ~3h
 
 ---
 
@@ -1131,6 +1127,83 @@ Site Bordeaux est **BIEN CONFIGURÉ SEO** :
 **Impact** : Rich snippets SERP attendus (J+7-14), CTR +5-8%
 
 **Statut** : ✅ TERMINÉ
+
+---
+
+### [P1] [Temps: 2-3h] [Qui: Lucie] [P1]-TASK-060-analyse-alertes-gsc : Analyse Alertes Google Search Console
+
+📁 **Doc** : `.cursor/tasks/[P1]-TASK-060-analyse-alertes-gsc/`
+
+**Type** : SEO Monitoring / Analyse / Actions Correctives
+
+**Objectif** : Analyser les messages d'alertes reçus de Google Search Console et traiter les problèmes identifiés
+
+**Contexte** :
+- Alertes GSC reçues nécessitent analyse approfondie
+- Impact potentiel : Problèmes SEO critiques (404, indexation, erreurs crawl, etc.)
+- Nécessaire pour maintenir santé SEO des 11 sites
+
+**Actions** :
+- [ ] Lister toutes les alertes GSC reçues (par site si applicable)
+- [ ] Catégoriser alertes (404, indexation, crawl, sécurité, etc.)
+- [ ] Analyser impact business (pages affectées, trafic impacté)
+- [ ] Prioriser actions correctives (P0/P1/P2)
+- [ ] Créer plan d'action pour chaque alerte critique
+- [ ] Documenter décisions (corriger vs ignorer vs monitorer)
+- [ ] Créer tâches suivantes si actions nécessaires
+
+**Priorité** : P1 (Important - monitoring SEO critique)
+
+**Raison** : Les alertes GSC peuvent indiquer des problèmes SEO critiques (404, indexation, erreurs crawl) qui nécessitent une analyse et des actions correctives pour maintenir la santé SEO des 11 sites.
+
+**Statut** : 📋 PENDING
+
+**Dépendances** : Aucune (peut être fait indépendamment de P1-032)
+
+---
+
+### [P1] [Temps: 20 min] [Qui: Lucie] [P1]-TASK-061-fix-hardcoded-nice-inventaire-ia : Fix Liens "nice" Hardcodés dans inventaire-ia/page.tsx
+
+📁 **Doc** : `.cursor/tasks/[P1]-TASK-061-fix-hardcoded-nice-inventaire-ia/`
+
+**Type** : Bug Fix / Liens Internes
+
+**Objectif** : Corriger les liens hardcodés "nice" dans inventaire-ia/page.tsx → Résoudre 10 URLs 404
+
+**Détecté par** : Lucie (vérification P1-050)  
+**Créé le** : 2025-01-06
+
+**Problème** :
+- 🔴 11 fichiers avec lien hardcodé "nice" (au lieu de dynamique)
+- 🔴 10 URLs 404 créées (11 sites - Nice = 10 sites avec bug)
+- 🔴 Lien CTA `/devis-demenagement-nice/` hardcodé dans section finale
+
+**Fichiers à corriger** :
+- `sites/{ville}/app/inventaire-ia/page.tsx` (11 sites)
+
+**Solution** :
+```tsx
+// AVANT (bugué)
+<a href="/devis-demenagement-nice/">
+
+// APRÈS (corrigé)
+import { getCityDataFromUrl } from '@/lib/cityData';
+import { env } from '@/lib/env';
+
+const city = getCityDataFromUrl(env.SITE_URL);
+<a href={`/devis-demenagement-${city.slug}/`}>
+```
+
+**Impact** :
+- Résout 10 URLs 404
+- Améliore UX
+- Nettoie GSC
+
+**Priorité** : P1 (Important - Bug détecté)
+
+**Temps estimé** : 20 min
+
+**Statut** : 📋 TODO
 
 ---
 

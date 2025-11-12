@@ -11,6 +11,93 @@
 
 ## 🔥 EN COURS MAINTENANT
 
+### [P1]-TASK-060-analyse-alertes-gsc : Analyse Alertes Google Search Console 🔍
+
+**Statut** : 🔄 **EN COURS** (première alerte collectée)  
+**Priorité** : P1 (Important - monitoring SEO critique)  
+**Temps estimé** : 2-3h  
+**Temps investi** : 15min  
+**Doc** : `.cursor/tasks/[P1]-TASK-060-analyse-alertes-gsc/`
+
+**Objectif** :
+Analyser les messages d'alertes reçus de Google Search Console et traiter les problèmes identifiés.
+
+**Alertes collectées** : 1/?
+- ✅ **Alerte #1** : Toulouse - Erreur redirections (indexation bloquée) 🔴
+
+**Actions** :
+- [x] Lister toutes les alertes GSC reçues (par site si applicable) → 1 alerte collectée
+- [x] Catégoriser alertes (404, indexation, crawl, sécurité, etc.) → Indexation/Redirections
+- [ ] Analyser impact business (pages affectées, trafic impacté) → En cours
+- [ ] Prioriser actions correctives (P0/P1/P2) → À déterminer après analyse GSC
+- [ ] Créer plan d'action pour chaque alerte critique
+- [ ] Documenter décisions (corriger vs ignorer vs monitorer)
+- [ ] Créer tâches suivantes si actions nécessaires
+
+**Alerte #1 - Toulouse** :
+- **Problème** : "Erreur liée à des redirections" → Pages non indexées
+- **Action requise** : Ouvrir GSC, analyser rapport d'indexation, identifier URLs affectées
+- **Priorité estimée** : P0/P1 (selon nombre de pages)
+
+**Prochaines actions** :
+1. ✅ Accéder à GSC pour Toulouse
+2. ✅ Ouvrir le rapport d'indexation
+3. ✅ Analyser les détails de l'erreur "redirections"
+4. ✅ Documenter les URLs affectées
+5. ✅ Créer plan d'action
+6. ✅ **Corriger Toulouse** (redirection supprimée, commit `5f9b2ae8`)
+7. ✅ **Corriger 10 autres villes** (correction préventive, commit global créé)
+8. ✅ Push vers GitHub ✅
+9. ⏳ Deploy toutes les villes (11 villes) - CapRover
+10. ⏳ Vérifier GSC dans 48h pour confirmer disparition erreurs
+
+**Découverte importante** :
+- ⚠️ Même problème dans 10 autres villes (bordeaux, strasbourg, rouen, rennes, lille, lyon, marseille, montpellier, nantes, nice)
+- ✅ **Correction préventive appliquée** : 11 villes corrigées au total
+- Document créé : `DECOUVERTE-MULTI-SITES.md` (analyse complète)
+
+**Dernière activité** : 06/01/2026 (11 villes corrigées, commits créés)
+
+**Alerte #2 - Toulouse (Améliorations GSC)** :
+- **Problème** : FAQ et Extraits d'avis = 0 valides
+- **Analyse** : 
+  - FAQ : Structure OK, probablement pas encore validée par Google
+  - Extraits d'avis : ❌ Manque Review individuels (seulement AggregateRating présent)
+- **Action requise** : ✅ Ajouter Review Schema individuels (P1, 2-3h) - **FAIT**
+- **Correction** : 5 Review ajoutés dans StructuredData.tsx (commit `f45ffb5c`, pushé)
+- **Test** : ✅ 3 éléments valides détectés par Google Rich Results Test
+- **Document** : `ANALYSE-ALERTE-02-TOULOUSE-AMELIORATIONS.md`
+- **Prochaine étape** : Déployer Toulouse + vérifier GSC dans 1-2 semaines
+
+**Alerte #3 - Toulouse (Indexation GSC)** :
+- **Problème** : 1,146 pages non indexées
+- **Priorités** :
+  - 🔴 **P0** : Erreur serveur (5xx) - **791 pages** (CRITIQUE)
+  - 🔴 **P1** : 404 - **312 pages** (CRITIQUE SEO)
+  - 🟠 **P2** : Redirections - 30 pages
+  - 🟡 **P2** : Erreur redirections - 4 pages (déjà corrigé)
+- **Action requise** : 
+  - ✅ **Tests effectués** : 5 URLs testées → **Problème CORRIGÉ** (404/200 au lieu de 5xx)
+  - ⚠️ **Dernier crawl Google : 14 octobre** (il y a ~3 mois) → Google n'a pas encore recrawlé
+  - 💡 **Meilleure approche** : **Resoumettre sitemap dans GSC** (plus efficace que réindexation URL par URL)
+  - ✅ **Vérification sitemap Toulouse** : Sitemap propre (114 URLs, 0 invalides) ✅
+  - ✅ **Vérification sitemaps toutes villes** : 11/11 accessibles ✅
+  - ⚠️ **Erreur Rennes détectée** : "Erreur HTTP générique" du 8 novembre - Sitemap fonctionne maintenant ✅
+  - ⚠️ **Pages non indexées Marseille** : 1,2k pages (5 motifs) - Guide d'analyse créé ✅
+  - ⚠️ **Nice - Aucun clic** : Diagnostic créé ✅ - Site OK techniquement, vérifier GSC (sitemap soumis ? indexation ?)
+  - ✅ **Action GSC principale** :
+    - ✅ Resoumettre sitemaps dans GSC pour **11 villes** ✅ **FAIT** (2025-01-06)
+  - ⏳ Analyser motifs non-indexation Marseille (guide disponible)
+  - ✅ **Gérer 404** : Décision d'attendre recrawl Google ✅ (2025-01-06) - Vérifier évolution dans 1-2 semaines
+  - ⏳ Vérifier statut sitemaps dans 1-2 jours
+  - ⏳ Vérifier mise à jour erreurs 5xx dans 1-2 semaines
+- **Documents** : 
+  - `ANALYSE-ALERTE-03-TOULOUSE-INDEXATION.md`
+  - `DIAGNOSTIC-5XX-TOULOUSE.md`
+  - `OPTIONS-GSC-5XX.md` (analyse toutes options)
+
+---
+
 ### [P1]-TASK-054-404-marseille-1127-pages : Fix 1,127 Pages 404 Marseille 🚨 CRITIQUE SEO
 
 **Priorité** : P1 (Critique SEO - Impact ranking)  
@@ -81,31 +168,31 @@
 
 ---
 
-### [P1]-P1-050-404-fix-hardcoded-nice-links-100% : Fix Liens "nice" Hardcodés (72 URLs 404) 🚨 URGENT
+### ✅ [P1]-P1-050-404-fix-hardcoded-nice-links-100% : Fix Liens "nice" Hardcodés (88 URLs 404) ✅ TERMINÉ
 
 **Priorité** : P1 (Important - Bug détecté)  
 **Type** : Bug Fix / Liens Internes
 
-**Objectif** : Corriger les liens hardcodés "nice" dans FAQ et Services → Résoudre 72 URLs 404
+**Objectif** : Corriger les liens hardcodés "nice" dans FAQ et Services → Résoudre 88 URLs 404
 
-**Documentation** : `.cursor/tasks/P1-050-404-fix-hardcoded-nice-links-100%/`
+**Documentation** : `.cursor/tasks/[P1]-TASK-050-fix-hardcoded-nice-links/`
 
 **Détecté par** : Guillaume via Google Search Console  
 **Créé le** : 2025-11-05  
-**Temps estimé** : 45 min
+**Terminé le** : 2025-11-05 (par Guillaume)  
+**Temps investi** : 45 min
 
 **Problème** :
 - 🔴 22 fichiers avec liens hardcodés "nice" (au lieu de dynamique)
-- 🔴 72 URLs 404 créées (36 cross-site + 36 domaine dupliqué)
+- 🔴 88 URLs 404 créées (66 FAQ/Services + 22 homepage blog)
 - 🔴 Bug introduit ce matin (commits `355478fa` et `7ae8f943`)
 
-**Fichiers à corriger** :
-- `sites/{ville}/app/faq/page.tsx` (10 sites sauf Nice)
-- `sites/{ville}/app/services/page.tsx` (10 sites sauf Nice)
+**Fichiers corrigés** :
+- ✅ `sites/{ville}/app/faq/page.tsx` (10 sites sauf Nice) - Commit `e8d2c144`
+- ✅ `sites/{ville}/app/services/page.tsx` (10 sites sauf Nice) - Commit `e8d2c144`
+- ✅ `sites/{ville}/app/page.tsx` (11 sites homepage) - Commit `4e118c7a`
 
-**Cause** : Lors optimisation FAQ/Services ce matin, copier/coller depuis Nice sans remplacer "nice" par `{city.slug}`
-
-**Solution** :
+**Solution appliquée** :
 ```tsx
 // AVANT (bugué)
 <a href="/quartiers-nice/">
@@ -114,15 +201,64 @@
 <a href={`/quartiers-${city.slug}/`}>
 ```
 
+**Résultat** :
+- ✅ 88 URLs 404 résolues
+- ✅ 31 fichiers corrigés (20 FAQ/Services + 11 homepages)
+- ✅ 11 sites déployés
+- ⏳ En attente validation crawler GSC
+
+**Statut** : ✅ TERMINÉ (2025-11-05)
+
+---
+
+### [P1]-TASK-061-fix-hardcoded-nice-inventaire-ia : Fix Liens "nice" Hardcodés dans inventaire-ia/page.tsx (10 URLs 404)
+
+**Priorité** : P1 (Important - Bug détecté)  
+**Type** : Bug Fix / Liens Internes
+
+**Objectif** : Corriger les liens hardcodés "nice" dans inventaire-ia/page.tsx → Résoudre 10 URLs 404
+
+**Documentation** : `.cursor/tasks/[P1]-TASK-061-fix-hardcoded-nice-inventaire-ia/`
+
+**Détecté par** : Lucie (vérification P1-050)  
+**Créé le** : 2025-01-06  
+**Temps estimé** : 20 min
+
+**Problème** :
+- 🔴 11 fichiers avec lien hardcodé "nice" (au lieu de dynamique)
+- 🔴 10 URLs 404 créées (11 sites - Nice = 10 sites avec bug)
+- 🔴 Lien CTA `/devis-demenagement-nice/` hardcodé dans section finale
+
+**Fichiers à corriger** :
+- `sites/{ville}/app/inventaire-ia/page.tsx` (11 sites)
+
+**Cause** : Copier/coller depuis Nice sans remplacer "nice" par `{city.slug}`
+
+**Solution** :
+```tsx
+// AVANT (bugué)
+<a href="/devis-demenagement-nice/">
+
+// APRÈS (corrigé)
+import { getCityDataFromUrl } from '@/lib/cityData';
+import { env } from '@/lib/env';
+
+const city = getCityDataFromUrl(env.SITE_URL);
+<a href={`/devis-demenagement-${city.slug}/`}>
+```
+
 **Checklist** :
-- [ ] Lire documentation complète (README.md)
-- [ ] Corriger 10 fichiers faq/page.tsx
-- [ ] Corriger 10 fichiers services/page.tsx
+- [x] Lire documentation complète (README.md)
+- [x] Corriger 11 fichiers inventaire-ia/page.tsx
+  - [x] Ajouter imports `getCityDataFromUrl` et `env`
+  - [x] Ajouter `const city = getCityDataFromUrl(env.SITE_URL);`
+  - [x] Remplacer `href="/devis-demenagement-nice/"` par `href={`/devis-demenagement-${city.slug}/`}`
 - [ ] Tests local (build OK)
 - [ ] Commit + Push
+- [x] Vérifier 0 lien hardcodé restant ✅
 
 **Impact** :
-- Résout 72 URLs 404
+- Résout 10 URLs 404
 - Améliore UX
 - Nettoie GSC
 
