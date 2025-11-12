@@ -131,7 +131,7 @@ const nextConfig = {
       { source: '/blog/aide/:slug*', destination: '/blog/aide-demenagement-rennes/:slug*', permanent: true },
       { source: '/blog/demenagement/:slug*', destination: '/blog/demenagement-rennes/:slug*', permanent: true },
       { source: '/blog/prix/:slug*', destination: '/blog/prix-demenagement-rennes/:slug*', permanent: true },
-      { source: '/blog/satellites/:slug*', destination: '/blog/satellites/:slug*', permanent: true },
+      // Supprimé : redirection vers soi-même (source = destination) causait erreur GSC (TASK-060)
     ];
   }
 };
