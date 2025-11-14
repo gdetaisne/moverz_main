@@ -11,6 +11,55 @@
 
 ## 🔥 EN COURS MAINTENANT
 
+### [P1]-TASK-074-MERGE : Refonte Wording Disruptif (11 villes) 🚀 READY TO DEPLOY
+
+**Statut** : ✅ **CODE COMPLET** | ⏳ **ATTENTE DÉPLOIEMENT MANUEL**  
+**Priorité** : P1 (Important - CTR/Conversion boost)  
+**Temps estimé** : 3h  
+**Temps investi** : 1h30  
+**Doc** : `.cursor/tasks/[P1]-TASK-074-MERGE/`
+
+**Objectif** :
+Implémenter stratégie wording disruptif "anti-arnaque" sur 11 sites → Améliorer CTR +40% et Conversion +50%
+
+**Travail effectué** :
+- ✅ **Code** : 44 fichiers modifiés (11 villes × 4 fichiers)
+  - Hero.tsx : H1 "Enfin des devis comparables, pas des promesses floues"
+  - ValueTriad.tsx : 4 garanties réordonnées (contrôle pros, comparabilité, gratuit, anti-harcèlement)
+  - HowItWorks.tsx : Étape 3 + CTA optimisés
+  - page.tsx : Section "La différence Moverz"
+- ✅ **Git** : Commit `5c79c223` + Push GitHub main ✅
+- ✅ **Qualité** : 0 erreur linter, syntaxe valide, cityData dynamique OK
+- ✅ **Sync** : 11 villes < 2 min (respect règle désync)
+- ✅ **Documentation** : README, commits.md, context.md, decisions.md, tests.md
+
+**⏳ PROCHAINE ÉTAPE : DÉPLOIEMENT MANUEL (toi)** :
+
+**Option A : CapRover UI** (RECOMMANDÉ - 5 min) :
+1. Se connecter : https://captain.gslv.cloud
+2. Forcer rebuild 11 apps : `dd-nice`, `dd-lyon`, `dd-marseille`, `dd-toulouse`, `dd-bordeaux`, `dd-lille`, `dd-strasbourg`, `dd-nantes`, `dd-rennes`, `dd-rouen`, `dd-montpellier`
+
+**Option B : Script Automatisé** (10 min) :
+```bash
+cd /Users/lucie/moverz_main
+CAPROVER_PASSWORD='ton-mot-de-passe' ./scripts/deploy/force-rebuild-caprover-direct.sh
+```
+
+**Puis tester 3+ sites** :
+- [ ] Nice : H1 + Garanties + CTA + Mobile
+- [ ] Lyon : cityData dynamique OK
+- [ ] Marseille : Validation échantillon
+
+**Impact attendu** :
+- CTR +40% (GSC 30j)
+- Conversion lead +50% (Analytics 30j)
+- Temps sur page +33%
+- Taux rebond -15%
+
+**Dernière activité** : 2025-11-14 (Code complet, documentation créée)
+
+---
+
 ### [P1]-TASK-060-analyse-alertes-gsc : Analyse Alertes Google Search Console 🔍
 
 **Statut** : 🔄 **EN COURS** (première alerte collectée)  
@@ -165,6 +214,89 @@ Analyser les messages d'alertes reçus de Google Search Console et traiter les p
 
 **Statut** : 📋 TODO  
 **Documentation** : À créer `.cursor/tasks/[P1]-TASK-054-404-marseille-1127-pages/`
+
+---
+
+### [P1]-TASK-075-uniformisation-ctas : Uniformisation CTAs & Composants (Quick Win 🚀)
+
+**Statut** : 📋 À DÉMARRER (dépend de: TASK-074 déployé)  
+**Priorité** : P1 (Maximum impact - Toutes les pages)  
+**Temps estimé** : 2-3h  
+**Doc** : `.cursor/tasks/[P1]-TASK-075-uniformisation-ctas/`
+
+**Objectif** : Uniformiser TOUS les CTAs/composants réutilisés → Impact 100% pages
+
+**Fichiers** : 3 composants × 11 villes = 33 fichiers
+- StickyCTA.tsx
+- CtaPrimary.tsx (5 emplacements)
+- LeadForm.tsx
+
+**Workflow** :
+1. Modifier composants Nice
+2. Sync 11 villes (script ou manuel)
+3. Git commit + push
+4. Déployer CapRover
+5. Test visuel 3+ sites
+
+---
+
+### [P1]-TASK-076-uniformisation-pages-principales : Uniformisation Pages Principales
+
+**Statut** : 📋 À DÉMARRER (après TASK-075)  
+**Priorité** : P1 (Pages stratégiques)  
+**Temps estimé** : 3-4h  
+**Doc** : `.cursor/tasks/[P1]-TASK-076-uniformisation-pages-principales/`
+
+**Objectif** : Uniformiser 4 pages clés → Cohérence parcours
+
+**Pages** : 4 pages × 11 villes = 44 fichiers
+- /comment-ca-marche
+- /notre-offre
+- /faq
+- /contact
+
+---
+
+### [P2]-TASK-077-uniformisation-pages-services : Uniformisation Pages Services
+
+**Statut** : 📋 À DÉMARRER (après TASK-076)  
+**Priorité** : P2 (Pages secondaires)  
+**Temps estimé** : 2-3h  
+**Doc** : `.cursor/tasks/[P2]-TASK-077-uniformisation-pages-services/`
+
+**Objectif** : Uniformiser hub + 3 pages services
+
+**Pages** : 4 pages × 11 villes = 44 fichiers
+
+---
+
+### [P2]-TASK-078-uniformisation-finitions : Uniformisation Finitions
+
+**Statut** : 📋 À DÉMARRER (après TASK-077)  
+**Priorité** : P2 (Finitions)  
+**Temps estimé** : 2-3h  
+**Doc** : `.cursor/tasks/[P2]-TASK-078-uniformisation-finitions/`
+
+**Objectif** : Finaliser composants secondaires + templates
+
+**Fichiers** : 5 composants/templates × 11 villes = 55 fichiers
+
+---
+
+### [P1]-TASK-079-seo-metadata-uniformisation : SEO Metadata ⏸️ DIFFÉRÉE
+
+**Statut** : ⏸️ **ATTENDRE 7-14 JOURS** (validation métriques)  
+**Priorité** : P1 (Critique mais différée)  
+**Temps estimé** : 3-4h  
+**Doc** : `.cursor/tasks/[P1]-TASK-079-seo-metadata-uniformisation/`
+
+**Objectif** : Uniformiser metadata SEO après validation UI
+
+**⚠️ Pré-requis** :
+- TASK-074 à 078 déployés
+- Métriques validées (CTR +40%, pas de régression SEO)
+
+**Démarrage** : Dans 7-14 jours
 
 ---
 

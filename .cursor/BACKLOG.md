@@ -188,6 +188,193 @@ Coût : 30€/mois (vs 50€)
 
 ---
 
+## 🎨 UX / CONVERSION / WORDING OPTIMIZATION
+
+### [P1] [Temps: 2-3h] [Qui: Lucie] [P1]-TASK-075-uniformisation-ctas : Uniformisation CTAs & Composants Réutilisés (11 villes)
+
+📁 **Doc** : `.cursor/tasks/[P1]-TASK-075-uniformisation-ctas/`
+
+**Type** : UX/Conversion Optimization - Suite TASK-074
+
+**Statut** : 📋 À DÉMARRER (dépend de: TASK-074 déployé)
+
+**Objectif** :
+Uniformiser TOUS les CTAs et composants réutilisés avec le nouveau wording "5+ devis fiables" → Impact maximum (toutes les pages, 11 villes)
+
+**Scope** :
+- `StickyCTA.tsx` : Sticky bottom CTA (1 modif)
+- `CtaPrimary.tsx` : CTA principale hero/inline/footer (5 modifs)
+- `LeadForm.tsx` : Formulaire lead (1 modif)
+
+**Impact** :
+- 🔴 **CRITIQUE** : Ces composants apparaissent sur TOUTES les pages
+- 11 villes × 3 fichiers = 33 fichiers modifiés
+- Cohérence wording à 100%
+
+**Critères de succès** :
+- [ ] StickyCTA : "Recevez 5+ devis fiables gratuitement"
+- [ ] CtaPrimary (5 emplacements) : "5+ déménageurs contrôlés", "Recevez 5+ devis fiables"
+- [ ] LeadForm : Bouton aligné sur nouveau wording
+- [ ] Git commit + push GitHub
+- [ ] Déployé 11 sites
+- [ ] Test visuel 3+ sites (desktop + mobile)
+
+**Priorité** : P1 (Quick win - Maximum impact)
+**Temps estimé** : 2-3h
+**Assigné à** : Lucie
+
+---
+
+### [P1] [Temps: 3-4h] [Qui: Lucie] [P1]-TASK-076-uniformisation-pages-principales : Uniformisation Pages Principales (11 villes)
+
+📁 **Doc** : `.cursor/tasks/[P1]-TASK-076-uniformisation-pages-principales/`
+
+**Type** : Content/SEO Optimization - Suite TASK-075
+
+**Statut** : 📋 À DÉMARRER (dépend de: TASK-075 déployé + validé)
+
+**Objectif** :
+Uniformiser wording des 4 pages stratégiques : /comment-ca-marche, /notre-offre, /faq, /contact
+
+**Scope** :
+- `/comment-ca-marche/page.tsx` : Metadata + H1 + sections étapes (3-5 devis → 5+)
+- `/notre-offre/page.tsx` : Metadata + bénéfices (aligner "vraiment comparable")
+- `/faq/page.tsx` : 5-10 Q/R à modifier ("3-5 devis" → "5+ déménageurs contrôlés")
+- `/contact/page.tsx` : Intro positionnement
+
+**Impact** :
+- 🟠 **IMPORTANT** : Pages clés du parcours utilisateur
+- 11 villes × 4 pages = 44 fichiers modifiés
+- SEO : Metadata updates (risque faible si bien fait)
+
+**Critères de succès** :
+- [ ] Metadata : "5+ déménageurs contrôlés" partout
+- [ ] FAQ : Questions/réponses cohérentes avec nouveau positioning
+- [ ] Aucune mention "3 devis" ou "3-5 devis" résiduelle
+- [ ] Git commit + push GitHub
+- [ ] Déployé 11 sites
+- [ ] Test parcours complet 2+ sites
+
+**Priorité** : P1 (Pages stratégiques)
+**Temps estimé** : 3-4h
+**Assigné à** : Lucie
+
+---
+
+### [P2] [Temps: 2-3h] [Qui: Lucie] [P2]-TASK-077-uniformisation-pages-services : Uniformisation Pages Services (11 villes)
+
+📁 **Doc** : `.cursor/tasks/[P2]-TASK-077-uniformisation-pages-services/`
+
+**Type** : Content Optimization - Suite TASK-076
+
+**Statut** : 📋 À DÉMARRER (dépend de: TASK-076 déployé)
+
+**Objectif** :
+Uniformiser wording du hub services + 3 pages services individuelles
+
+**Scope** :
+- `/services/page.tsx` : Hub services (mentions "5 devis" → "5+")
+- `/services/demenagement-economique-nice/page.tsx` : Service budget
+- `/services/demenagement-standard-nice/page.tsx` : Service standard
+- `/services/demenagement-premium-nice/page.tsx` : Service premium
+
+**Impact** :
+- 🟡 **MOYEN** : Pages secondaires mais importantes pour SEO
+- 11 villes × 4 pages = 44 fichiers modifiés
+- Offre commerciale cohérente
+
+**Critères de succès** :
+- [ ] CTAs : "Recevez 5+ devis fiables gratuitement"
+- [ ] Descriptions : "déménageurs contrôlés" mentionné
+- [ ] Bénéfices : Aligner sur "vraiment comparable"
+- [ ] Git commit + push GitHub
+- [ ] Déployé 11 sites
+- [ ] Test 1+ site par type de service
+
+**Priorité** : P2 (Pages secondaires)
+**Temps estimé** : 2-3h
+**Assigné à** : Lucie
+
+---
+
+### [P2] [Temps: 2-3h] [Qui: Lucie] [P2]-TASK-078-uniformisation-finitions : Uniformisation Finitions Composants (11 villes)
+
+📁 **Doc** : `.cursor/tasks/[P2]-TASK-078-uniformisation-finitions/`
+
+**Type** : Polish/Finitions - Suite TASK-077
+
+**Statut** : 📋 À DÉMARRER (dépend de: TASK-077 déployé)
+
+**Objectif** :
+Finaliser uniformisation composants secondaires + templates locaux
+
+**Scope** :
+- `NeighborhoodsIndex.tsx` : Intro quartiers/communes
+- `Header.tsx` : CTA header (si présent)
+- `StructuredData.tsx` : Schema.org descriptions
+- `_templates/LocalPage.tsx` : Template pages quartiers
+- `_templates/CorridorPage.tsx` : Template pages corridors
+
+**Impact** :
+- 🟢 **FAIBLE** : Détails & pages locales
+- 11 villes × 5 fichiers = 55 fichiers modifiés
+- 100% uniformisation complète
+
+**Critères de succès** :
+- [ ] Tous composants alignés sur nouveau wording
+- [ ] Aucune mention ancienne stratégie résiduelle
+- [ ] Git commit + push GitHub
+- [ ] Déployé 11 sites
+- [ ] Test échantillon pages locales (3+ quartiers)
+
+**Priorité** : P2 (Finitions)
+**Temps estimé** : 2-3h
+**Assigné à** : Lucie
+
+---
+
+### [P1] [Temps: 3-4h] [Qui: Lucie] [P1]-TASK-079-seo-metadata-uniformisation : Uniformisation SEO Metadata (11 villes) ⏸️ DIFFÉRÉE
+
+📁 **Doc** : `.cursor/tasks/[P1]-TASK-079-seo-metadata-uniformisation/`
+
+**Type** : SEO Optimization - FINALE
+
+**Statut** : ⏸️ **DIFFÉRÉE** (attendre 7-14 jours validation métriques TASK-074 à 078)
+
+**Objectif** :
+Uniformiser metadata SEO (titles, descriptions) après validation wording UI → Alignement SERP complet
+
+**Scope** :
+- `lib/seo-builders.ts` : Helpers metadata templates
+- Metadata inline dans pages (si non géré par helpers)
+- 11 villes × ~40 pages = ~440 metadata à vérifier/optimiser
+
+**Impact** :
+- 🔴 **CRITIQUE** : Risque SEO si mal fait
+- ⚠️ **Attendre validation** : CTR Google +10% confirmé avant modification
+- Bénéfice potentiel : SERP alignées sur nouveau positioning
+
+**Pré-requis AVANT démarrage** :
+- [ ] TASK-074 déployé + 7 jours monitoring
+- [ ] TASK-075 à 078 déployés + validés
+- [ ] Métriques validées : CTR site +40%, Engagement +50%, Taux rebond -20%
+- [ ] Aucune régression trafic organique détectée
+
+**Critères de succès** :
+- [ ] Templates titles : "seul comparateur vraiment comparable" si pertinent
+- [ ] Templates descriptions : "5+ déménageurs contrôlés" partout
+- [ ] GSC monitoring : Aucune perte position 7 jours post-déploiement
+- [ ] Git commit + push GitHub
+- [ ] Déployé 11 sites
+- [ ] Monitoring GSC actif 14 jours
+
+**Priorité** : P1 (Important mais différée)
+**Temps estimé** : 3-4h
+**Assigné à** : Lucie
+**⏰ Démarrage** : Dans 7-14 jours (après validation TASK-074)
+
+---
+
 ## 🎉 PROJET 404 - QUASI-RÉSOLU (99% complété)
 
 **✅ SUCCÈS MASSIF** : 2,847+ liens corrigés sur 3 sessions (03-04/11/2025)
