@@ -1,7 +1,16 @@
 "use client";
-import React from "react";
+import React, { useEffect, useState } from "react";
 
 export default function Hero() {
+  const [stage, setStage] = useState(0);
+
+  useEffect(() => {
+    const interval = setInterval(() => {
+      setStage((prev) => (prev + 1) % 3);
+    }, 2600);
+
+    return () => clearInterval(interval);
+  }, []);
   return (
     <section className="relative overflow-hidden text-white">
       <div className="absolute inset-0">
@@ -21,7 +30,7 @@ export default function Hero() {
               <span className="text-[#6bcfcf]"> vraiment</span>
             </h1>
             <p className="mt-4 text-base md:text-lg text-white/85 max-w-xl mx-auto lg:mx-0">
-              En 3 étapes : calcul de votre volume, dossier anonyme, puis 5+ devis fiables à comparer.
+              Un dossier unique, des déménageurs contrôlés, et enfin des devis vraiment comparables.
             </p>
             <ul className="mt-6 space-y-3 text-base md:text-lg text-white/90">
               {[
@@ -66,55 +75,77 @@ export default function Hero() {
           </div>
           <div className="relative mx-auto w-full max-w-[560px] lg:mx-0">
             <div className="absolute -inset-6 hidden rounded-3xl bg-black/20 blur-3xl lg:block" />
-            <div className="relative rounded-2xl border border-white/20 bg-white/10 p-5 shadow-2xl backdrop-blur-md md:p-6">
-              <div className="inline-flex items-center gap-2 rounded-full border border-white/15 bg-white/5 px-3 py-1 text-xs text-white/80">
-                <span className="h-1.5 w-1.5 rounded-full bg-[#6bcfcf]" />
-                Votre dossier en 3 étapes
+            <div className="relative rounded-3xl border border-[#dfeaea]/70 bg-white/95 p-6 shadow-2xl text-[#04163a]">
+              {/* Header avec badge */}
+              <div className="flex items-start justify-between gap-3">
+                <div className="flex-1">
+                  <div className="inline-flex items-center gap-1.5 rounded-full bg-emerald-50 px-3 py-1 text-xs font-semibold text-emerald-700 border border-emerald-200">
+                    <span className="h-1.5 w-1.5 rounded-full bg-emerald-500" />
+                    Processus anti-arnaque
+                  </div>
+                  <h3 className="mt-3 text-xl font-bold text-[#04163a]">
+                    Pourquoi nous faire confiance ?
+                  </h3>
+                </div>
+                <div className="text-3xl">🛡️</div>
               </div>
 
-              <ol className="mt-5 space-y-4 text-sm text-white/85">
-                <li className="flex items-start gap-3">
-                  <span className="mt-1 flex h-7 w-7 items-center justify-center rounded-full bg-white/10 text-[11px] font-semibold text-[#6bcfcf] border border-[#6bcfcf]/60">
-                    1
-                  </span>
-                  <div className="space-y-1">
-                    <p className="font-semibold">Constituez votre dossier en 5 minutes</p>
-                    <p className="text-xs text-white/75">
-                      Photos ou infos rapides sans photos : un seul dossier complet, prêt à être chiffré.
-                    </p>
-                  </div>
-                </li>
+              {/* Garanties principales */}
+              <div className="mt-5 space-y-3">
+                {[
+                  {
+                    icon: "🔒",
+                    title: "Dossier anonyme",
+                    desc: "Vos coordonnées restent cachées jusqu'à votre choix final.",
+                    highlight: true,
+                  },
+                  {
+                    icon: "⚖️",
+                    title: "Devis vraiment comparables",
+                    desc: "Même volume pour tous = comparaison ligne par ligne.",
+                    highlight: true,
+                  },
+                  {
+                    icon: "✓",
+                    title: "Déménageurs contrôlés",
+                    desc: "Pros vérifiés, assurés, et notés par de vrais clients.",
+                    highlight: false,
+                  },
+                ].map((item, index) => {
+                  const isActive = stage === index;
+                  return (
+                    <div
+                      key={item.title}
+                      className={`flex items-start gap-3 rounded-xl border p-3.5 transition-all ${
+                        isActive
+                          ? "border-[#2b7a78]/60 bg-gradient-to-br from-[#e3f4f4] to-[#f5fbfb] shadow-md"
+                          : "border-[#eef3f4] bg-[#f6fbfb]"
+                      }`}
+                    >
+                      <div className="flex h-9 w-9 shrink-0 items-center justify-center rounded-lg bg-white text-xl shadow-sm">
+                        {item.icon}
+                      </div>
+                      <div className="flex-1 pt-0.5">
+                        <p className="text-sm font-semibold text-[#04163a]">
+                          {item.title}
+                        </p>
+                        <p className="mt-0.5 text-xs leading-relaxed text-[#04163a]/75">
+                          {item.desc}
+                        </p>
+                      </div>
+                    </div>
+                  );
+                })}
+              </div>
 
-                <li className="flex items-start gap-3">
-                  <span className="mt-1 flex h-7 w-7 items-center justify-center rounded-full bg-white/10 text-[11px] font-semibold text-[#6bcfcf] border border-[#6bcfcf]/60">
-                    2
-                  </span>
-                  <div className="space-y-1">
-                    <p className="font-semibold">Nous contactons les déménageurs pour vous</p>
-                    <p className="text-xs text-white/75">
-                      Dossier anonyme envoyé uniquement à des déménageurs contrôlés, avec le même volume pour
-                      tous.
-                    </p>
-                  </div>
-                </li>
-
-                <li className="flex items-start gap-3">
-                  <span className="mt-1 flex h-7 w-7 items-center justify-center rounded-full bg-white/10 text-[11px] font-semibold text-[#6bcfcf] border border-[#6bcfcf]/60">
-                    3
-                  </span>
-                  <div className="space-y-1">
-                    <p className="font-semibold">Comparez 5+ devis fiables en un coup d’œil</p>
-                    <p className="text-xs text-white/75">
-                      Tous les déménageurs chiffrent sur le même dossier : vous comparez enfin ligne par
-                      ligne, sans mauvaises surprises.
-                    </p>
-                  </div>
-                </li>
-              </ol>
-
-              <div className="mt-5 rounded-xl border border-white/10 bg-[#04163a]/70 px-3 py-2 text-[11px] text-white/75">
-                <span className="font-semibold">En résumé :</span> un seul dossier bien structuré, 5+ devis
-                filtrés, et un comparatif clair pour choisir votre déménageur.
+              {/* CTA bas de carte */}
+              <div className="mt-5 rounded-xl border border-[#2b7a78]/20 bg-gradient-to-br from-[#e3f4f4] to-white p-4 text-center">
+                <p className="text-sm font-semibold text-[#04163a]">
+                  Gratuit, rapide, et sans engagement
+                </p>
+                <p className="mt-1 text-xs text-[#04163a]/70">
+                  5+ devis comparables en 24-48h · Aucun appel indésirable
+                </p>
               </div>
             </div>
           </div>

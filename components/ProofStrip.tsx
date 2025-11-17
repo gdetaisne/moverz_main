@@ -8,12 +8,12 @@ export default function ProofStrip() {
     {
       value: "4,9/5",
       label: "note moyenne vérifiée",
-      caption: "Avis authentifiés sur 11 villes",
+      caption: "Avis authentifiés sur les dossiers comparés",
     },
     {
       value: "5+ devis",
       label: "fiables à comparer",
-      caption: "Tous reçoivent le même inventaire (28 m³)",
+      caption: "Tous chiffrés sur le même dossier, ligne par ligne.",
     },
     {
       value: "-18%",
@@ -25,7 +25,6 @@ export default function ProofStrip() {
   const chips = [
     "Déménageurs contrôlés",
     "Dossier anonyme",
-    "IA volume identique",
   ];
 
   return (
@@ -39,7 +38,7 @@ export default function ProofStrip() {
             1200+ déménagements pilotés sans arnaques
           </h2>
           <p className="mt-2 text-[#04163a]/70">
-            Volumes calculés, avis et contrôles pros consolidés sur nos 11 villes.
+            Données issues de dossiers réellement comparés sur votre ville et les alentours.
           </p>
         </div>
         <div className="flex flex-wrap gap-2">

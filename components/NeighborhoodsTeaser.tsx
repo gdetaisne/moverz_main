@@ -29,7 +29,7 @@ export default function NeighborhoodsTeaser({
   ];
   const coverageChips = areaServed.slice(0, 4);
   const quartiersLink = `/quartiers-${citySlug}/`;
-
+  
   return (
     <div className="space-y-8">
       <div className="flex flex-col gap-4 md:flex-row md:items-end md:justify-between">
