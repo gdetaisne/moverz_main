@@ -225,6 +225,36 @@ Uniformiser TOUS les CTAs et composants réutilisés avec le nouveau wording "5+
 
 ---
 
+### [P1] [Temps: 3h] [Qui: Lucie] [P1]-TASK-080-refonte-design-analyse : Refonte design — analyse de l’existant
+
+📁 **Doc** : `.cursor/tasks/[P1]-TASK-080-refonte-design-analyse/`
+
+**Type** : Design / UX discovery
+
+**Statut** : 📋 À DÉMARRER
+
+**Objectif** :
+Cartographier l’UI actuelle (hero, sections clés, composants partagés) pour identifier les limites du design avant de lancer une refonte complète.
+
+**Scope** :
+- Audit visuel des pages principales (home, comment-ca-marche, services, FAQ, contact)
+- Inventaire des composants transverses (Hero, CTA, cartes, formulaires)
+- Benchmark rapide des patterns actuels vs objectifs business (anti-arnaque, comparabilité)
+- Synthèse des irritants UX (lisibilité, hiérarchie, responsive)
+
+**Livrables attendus** :
+- Rapport dans `README.md` de la tâche (forces/faiblesses, quick wins, chantiers lourds)
+- Table de priorisation (impact vs effort) pour guider la refonte
+- Recos sur contraintes techniques (11 villes, composants partagés, SEO)
+
+**Priorité** : P1 (préparation indispensable avant refonte)
+
+**Temps estimé** : 3h
+
+**Assigné à** : Lucie
+
+---
+
 ### [P1] [Temps: 3-4h] [Qui: Lucie] [P1]-TASK-076-uniformisation-pages-principales : Uniformisation Pages Principales (11 villes)
 
 📁 **Doc** : `.cursor/tasks/[P1]-TASK-076-uniformisation-pages-principales/`

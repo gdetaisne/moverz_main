@@ -240,6 +240,28 @@ Analyser les messages d'alertes reçus de Google Search Console et traiter les p
 
 ---
 
+### [P1]-TASK-080-refonte-design-analyse : Audit design avant refonte
+
+**Statut** : 📋 À DÉMARRER (phase discovery)  
+**Priorité** : P1 (prépare la refonte globale)  
+**Temps estimé** : 3h  
+**Doc** : `.cursor/tasks/[P1]-TASK-080-refonte-design-analyse/`
+
+**Objectif** : Cartographier l’UI actuelle (home + pages clés + composants partagés) pour identifier les limites et contraintes avant redesign.
+
+**Livrables prévus** :
+- Audit visuel + inventaire composants partagés (Hero, CTA, formulaires…)
+- Synthèse forces/faiblesses + quick wins vs chantiers lourds
+- Reco contraintes techniques (SEO, multi-sites, scripts de sync)
+
+**Prochaines étapes** :
+1. Définir périmètre de pages/composants à auditer
+2. Capturer screenshots + notes (desktop/mobile)
+3. Rassembler points de friction + opportunités dans README
+4. Prioriser recommandations pour phase de design
+
+---
+
 ### [P1]-TASK-076-uniformisation-pages-principales : Uniformisation Pages Principales
 
 **Statut** : 📋 À DÉMARRER (après TASK-075)  
