@@ -34,7 +34,13 @@ function main() {
   }
   
   const lines = allMatches.split('\n').filter(Boolean);
-  const layoutMatches = lines.filter(l => l.includes('app/layout.tsx'));
+
+  // On ne veut considérer que les fichiers *réels* de layout,
+  // pas les artefacts (ex: tsconfig.tsbuildinfo qui liste les chemins des fichiers).
+  const layoutMatches = lines.filter((line) => {
+    const [filePath] = line.split(':');
+    return filePath.endsWith('/app/layout.tsx');
+  });
   
   if (layoutMatches.length === 0) {
     console.log('⚠️  Occurrences "2024" trouvées hors layouts (probablement contenu):\n');
