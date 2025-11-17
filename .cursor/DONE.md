@@ -350,6 +350,34 @@ Migration exhaustive des URLs canoniques avec trailing slash systématique sur l
 
 ---
 
+### ✅ [P1]-TASK-074-MERGE : Refonte Wording Disruptif (11 villes)
+
+**Finalisée le** : 14 novembre 2025  
+**Type** : UX / Conversion / Wording Anti-arnaque  
+**Priorité** : P1  
+**Assigné** : Lucie
+
+📁 **Documentation** : `.cursor/tasks/[P1]-TASK-074-MERGE/`
+
+**Résumé** :
+Refonte complète du messaging “anti-arnaque” sur les 11 sites : hero, garanties, étape 3 et section “La différence Moverz” passent sur un positionnement centré sur **5+ déménageurs contrôlés**, devis vraiment comparables (UN inventaire unique), 100% gratuit et sans harcèlement téléphonique. 44 fichiers modifiés (Hero, ValueTriad, HowItWorks, homepage) synchronisés en < 2 minutes sur 11 villes, avec cityData dynamique préservé et aucun impact sur les canonicals/URLs.
+
+**Commits** :
+- Monorepo : `5c79c223` (style(wording): Refonte messaging disruptif anti-arnaque (11 villes))
+- Repos villes (CapRover) : `c0bee90`, `ffcfee8`, `957cfa8`, `89a3c7c`, `8f43e24`, `ea5dfde`, `b36cb1a`, `36b7fcb`, `b51377e`, `74d650d`, `5917877` (+ commits de sync `Update <ville> 2025-11-14 12:08`)
+
+**Tests production** :
+- ✅ Nice : H1, sous-titre, CTA hero, ValueTriad, HowItWorks et section “La différence Moverz” validés (desktop + mobile)
+- ✅ Lyon : cityData dynamique OK, wording conforme
+- ✅ Marseille : échantillon pages OK
+
+**Definition of Done** :
+- [x] 1. Code propre et documenté (README, context, progress, commits, tests, decisions)
+- [x] 2. Commits sur GitHub main + tous dépôts villes (SHAs documentés)
+- [x] 3. Testé en live sur 3 sites (Nice, Lyon, Marseille) avec résultats documentés dans `tests.md`
+
+---
+
 ### ✅ TASK-011 : Fix 308 Redirections Nice + Deployment
 
 **Finalisée le** : 04 novembre 2025  

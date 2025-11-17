@@ -11,9 +11,9 @@
 
 ## 🔥 EN COURS MAINTENANT
 
-### [P1]-TASK-074-MERGE : Refonte Wording Disruptif (11 villes) 🚀 READY TO DEPLOY
+### [P1]-TASK-074-MERGE : Refonte Wording Disruptif (11 villes) 🚀
 
-**Statut** : ✅ **CODE COMPLET** | ⏳ **ATTENTE DÉPLOIEMENT MANUEL**  
+**Statut** : ✅ **FINALISÉE** (code + déploiement CapRover + tests prod Nice/Lyon/Marseille)  
 **Priorité** : P1 (Important - CTR/Conversion boost)  
 **Temps estimé** : 3h  
 **Temps investi** : 1h30  
@@ -33,22 +33,10 @@ Implémenter stratégie wording disruptif "anti-arnaque" sur 11 sites → Améli
 - ✅ **Sync** : 11 villes < 2 min (respect règle désync)
 - ✅ **Documentation** : README, commits.md, context.md, decisions.md, tests.md
 
-**⏳ PROCHAINE ÉTAPE : DÉPLOIEMENT MANUEL (toi)** :
-
-**Option A : CapRover UI** (RECOMMANDÉ - 5 min) :
-1. Se connecter : https://captain.gslv.cloud
-2. Forcer rebuild 11 apps : `dd-nice`, `dd-lyon`, `dd-marseille`, `dd-toulouse`, `dd-bordeaux`, `dd-lille`, `dd-strasbourg`, `dd-nantes`, `dd-rennes`, `dd-rouen`, `dd-montpellier`
-
-**Option B : Script Automatisé** (10 min) :
-```bash
-cd /Users/lucie/moverz_main
-CAPROVER_PASSWORD='ton-mot-de-passe' ./scripts/deploy/force-rebuild-caprover-direct.sh
-```
-
-**Puis tester 3+ sites** :
-- [ ] Nice : H1 + Garanties + CTA + Mobile
-- [ ] Lyon : cityData dynamique OK
-- [ ] Marseille : Validation échantillon
+**Tests prod réalisés** :
+- ✅ Nice : H1 + Garanties + CTA + Mobile
+- ✅ Lyon : cityData dynamique OK
+- ✅ Marseille : Validation échantillon
 
 **Impact attendu** :
 - CTR +40% (GSC 30j)
@@ -56,7 +44,7 @@ CAPROVER_PASSWORD='ton-mot-de-passe' ./scripts/deploy/force-rebuild-caprover-dir
 - Temps sur page +33%
 - Taux rebond -15%
 
-**Dernière activité** : 2025-11-14 (Code complet, documentation créée)
+**Dernière activité** : 2025-11-14 (Code + déploiement + tests prod validés)
 
 ---
 
@@ -258,6 +246,26 @@ Analyser les messages d'alertes reçus de Google Search Console et traiter les p
 1. Définir périmètre de pages/composants à auditer
 2. Capturer screenshots + notes (desktop/mobile)
 3. Rassembler points de friction + opportunités dans README
+
+---
+
+### [P1]-TASK-081-hero-animation-v2 : Hero animation v2 (processus IA anti-arnaque)
+
+**Statut** : 🔄 EN COURS (design + implémentation)  
+**Priorité** : P1 (impact direct sur CTR / conversion)  
+**Temps estimé** : 3-4h  
+**Doc** : `.cursor/tasks/[P1]-TASK-081-hero-animation-v2/`
+
+**Objectif** :
+Recréer l’animation du Hero pour qu’elle rende évident le funnel :
+1. Calcul de volume (photos ou estimation rapide sans photos)
+2. Dossier anonyme + volume figé (ex : 28 m³)
+3. 5+ devis fiables à comparer
+
+**Prochaines étapes** :
+1. Simplifier la logique d’animation (`activeStep` 0–2, interval) dans `components/Hero.tsx`
+2. Ajuster la carte de droite pour le pipeline en 3 blocs (Photos/Estimation → Dossier anonyme → 5+ devis)
+3. Sync `Hero.tsx` vers les 11 villes + test visuel (Nice, Lyon, Marseille)
 4. Prioriser recommandations pour phase de design
 
 ---

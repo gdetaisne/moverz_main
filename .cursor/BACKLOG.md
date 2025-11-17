@@ -327,6 +327,41 @@ Uniformiser wording du hub services + 3 pages services individuelles
 
 ---
 
+### [P1] [Temps: 3-4h] [Qui: Lucie] [P1]-TASK-081-hero-animation-v2 : Hero animation v2 alignée avec le process IA anti-arnaque
+
+📁 **Doc** : `.cursor/tasks/[P1]-TASK-081-hero-animation-v2/`
+
+**Type** : UX / Animation / Conversion
+
+**Statut** : 📋 À DÉMARRER
+
+**Objectif** :
+- Repenser l’animation de la carte Hero pour qu’elle raconte clairement le funnel business :
+  1. Calcul de volume (photos **ou** estimation rapide sans photos)
+  2. Dossier anonyme + volume figé (ex : 28 m³) identique pour tous
+  3. 5+ devis fiables à comparer
+- Créer un effet “wow” moderne sans dégrader les perfs (pas de CLS, animations via `transform`/`opacity`).
+- Mettre encore plus en avant les clics vers `/inventaire-ia/`.
+
+**Scope** :
+- `components/Hero.tsx` (composant partagé)
+- `sites/*/components/Hero.tsx` (copies synchronisées)
+
+**Critères de succès** :
+- [ ] Pipeline visuel en 3 étapes clairement lisible (photos/estimation → dossier anonyme → 5+ devis fiables)
+- [ ] Animation automatique douce (loop 2–3s) sans clignotement ni décalage de layout
+- [ ] CTA principal vers `/inventaire-ia/` toujours bien visible pendant l’animation
+- [ ] Code factorisé et commenté brièvement pour maintenance
+
+**Priorité** : P1 (impact direct sur CTR et conversion)
+
+**Temps estimé** : 3-4h
+
+**Assigné à** : Lucie
+
+---
+
+
 ### [P2] [Temps: 2-3h] [Qui: Lucie] [P2]-TASK-078-uniformisation-finitions : Uniformisation Finitions Composants (11 villes)
 
 📁 **Doc** : `.cursor/tasks/[P2]-TASK-078-uniformisation-finitions/`
