@@ -207,7 +207,7 @@ Analyser les messages d'alertes reçus de Google Search Console et traiter les p
 
 ### [P1]-TASK-075-uniformisation-ctas : Uniformisation CTAs & Composants (Quick Win 🚀)
 
-**Statut** : 📋 À DÉMARRER (dépend de: TASK-074 déployé)  
+**Statut** : ✅ FINALISÉE (StickyCTA aligné "Recevez 5+ devis fiables gratuitement" sur 11 villes)  
 **Priorité** : P1 (Maximum impact - Toutes les pages)  
 **Temps estimé** : 2-3h  
 **Doc** : `.cursor/tasks/[P1]-TASK-075-uniformisation-ctas/`

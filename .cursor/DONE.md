@@ -378,6 +378,25 @@ Refonte complète du messaging “anti-arnaque” sur les 11 sites : hero, garan
 
 ---
 
+### ✅ [P1]-TASK-075-uniformisation-ctas : Uniformisation Sticky CTA (11 villes)
+
+**Finalisée le** : 17 novembre 2025  
+**Type** : UX / Conversion / CTA sticky  
+**Priorité** : P1  
+**Assigné** : Lucie
+
+📁 **Documentation** : `.cursor/tasks/[P1]-TASK-075-uniformisation-ctas/`
+
+**Résumé** :
+Alignement du CTA sticky bas de page sur les 11 sites avec le wording “Recevez 5+ devis fiables gratuitement”, cohérent avec la refonte anti-arnaque de TASK-074. Le bouton des `StickyCTA.tsx` a été mis à jour (texte + aria-label) tout en conservant le lien `/inventaire-ia/`, sans toucher aux canonicals ni aux cityData.
+
+**Definition of Done** :
+- [x] 1. Code propre et documenté (scope clarifié dans README, progress, commits, tests)  
+- [x] 2. Commits déjà présents sur GitHub main pour cette tâche (cf. SHA `315bf16f...` et repos villes documentés dans `commits.md`)  
+- [x] 3. Testé en live au moins sur Nice et Lyon (CTA sticky visible, texte correct, lien vers `/inventaire-ia/`)  
+
+---
+
 ### ✅ TASK-011 : Fix 308 Redirections Nice + Deployment
 
 **Finalisée le** : 04 novembre 2025  
