@@ -33,7 +33,7 @@ export default function ProofStrip() {
       <div className="flex flex-col gap-4 md:flex-row md:items-center md:justify-between">
         <div>
           <p className="text-xs font-semibold uppercase tracking-[0.3em] text-[#2b7a78]">
-            Chiffres clés Moverz
+            Chiffres clés de notre comparateur de déménageurs
           </p>
           <h2 className="mt-3 text-2xl md:text-3xl font-semibold text-[#04163a]">
             1200+ déménagements pilotés sans arnaques

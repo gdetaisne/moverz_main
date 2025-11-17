@@ -302,6 +302,21 @@ Recréer l’animation du Hero pour qu’elle rende évident le funnel :
 
 ### [P2]-TASK-078-uniformisation-finitions : Uniformisation Finitions
 
+### [P1]-TASK-082-clarification-moverz-site-complet : Clarification mentions "Moverz" (home + site)
+
+**Statut** : 🔄 EN COURS  
+**Priorité** : P1 (Compréhension + confiance)  
+**Temps estimé** : 2-3h  
+**Doc** : `.cursor/tasks/[P1]-TASK-082-clarification-moverz-site-complet/`
+
+**Objectif** :  
+Clarifier partout où “Moverz” apparaît côté utilisateur (home + sections clés) pour que le visiteur comprenne immédiatement qu’il s’agit d’un comparateur / plateforme anti-arnaque, pas d’un terme abstrait.
+
+**Travail prévu (phase 1)** :
+- Home : `ProofStrip` (“Chiffres clés Moverz”) → libellé explicite.  
+- Home : `ComparisonSection` (“Avec Moverz”, “Support Moverz…”) → reformulation claire.  
+- Sync 11 villes si composants racine modifiés.  
+
 **Statut** : 📋 À DÉMARRER (après TASK-077)  
 **Priorité** : P2 (Finitions)  
 **Temps estimé** : 2-3h  

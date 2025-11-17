@@ -323,6 +323,18 @@ Uniformiser wording du hub services + 3 pages services individuelles
 
 **Priorité** : P2 (Pages secondaires)
 **Temps estimé** : 2-3h
+
+### [P1] [Temps: 2-3h] [Qui: Lucie] [P1]-TASK-082-clarification-moverz-site-complet : Clarification des mentions "Moverz" (home + site)
+
+**Objectif** :  
+Clarifier partout où le mot **“Moverz”** apparaît côté utilisateur (home, sections preuves/comparaison, textes clés), pour que les visiteurs comprennent immédiatement de quoi il s’agit (comparateur de déménageurs / plateforme anti-arnaque), sans casser les contraintes SEO.
+
+**Scope** :  
+- Home + composants partagés (`ProofStrip`, `ComparisonSection`).  
+- Repérage des metadata titles `... | Moverz` et labels “Moverz AI” (décision SEO à part).  
+
+**Priorité** : P1 (impact direct sur compréhension + confiance).  
+**Assigné à** : Lucie.  
 **Assigné à** : Lucie
 
 ---

@@ -1,17 +1,7 @@
 "use client";
-import React, { useEffect, useState } from "react";
+import React from "react";
 
 export default function Hero() {
-  // 0 = Photos / estimation, 1 = Dossier anonyme, 2 = 5+ devis fiables
-  const [stage, setStage] = useState(0);
-
-  useEffect(() => {
-    const interval = setInterval(() => {
-      setStage((prev) => (prev + 1) % 3);
-    }, 2600);
-
-    return () => clearInterval(interval);
-  }, []);
   return (
     <section className="relative overflow-hidden text-white">
       <div className="absolute inset-0">
@@ -76,130 +66,55 @@ export default function Hero() {
           </div>
           <div className="relative mx-auto w-full max-w-[560px] lg:mx-0">
             <div className="absolute -inset-6 hidden rounded-3xl bg-black/20 blur-3xl lg:block" />
-            <div className="relative rounded-2xl border border-white/20 bg-white/10 p-4 shadow-2xl backdrop-blur-md md:p-6">
+            <div className="relative rounded-2xl border border-white/20 bg-white/10 p-5 shadow-2xl backdrop-blur-md md:p-6">
               <div className="inline-flex items-center gap-2 rounded-full border border-white/15 bg-white/5 px-3 py-1 text-xs text-white/80">
-                <span className="h-1.5 w-1.5 rounded-full bg-emerald-300 animate-pulse" />
+                <span className="h-1.5 w-1.5 rounded-full bg-[#6bcfcf]" />
                 Votre dossier en 3 étapes
               </div>
 
-              {/* Stepper header */}
-              <div className="mt-4 flex items-center justify-between text-[11px] font-medium text-white/70">
-                {["1. Calcul de volume", "2. Dossier anonyme", "3. 5+ devis fiables"].map(
-                  (label, index) => (
-                    <div
-                      key={label}
-                      className={`flex flex-1 items-center gap-2 ${
-                        index === 0 ? "" : "justify-center"
-                      }`}
-                    >
-                      <div
-                        className={`flex h-6 w-6 items-center justify-center rounded-full border text-[10px] transition-all ${
-                          stage === index
-                            ? "border-emerald-300 bg-emerald-300 text-[#04163a] shadow-lg shadow-emerald-500/40"
-                            : "border-white/30 bg-white/5 text-white/80"
-                        }`}
-                      >
-                        {index + 1}
-                      </div>
-                      <span
-                        className={`hidden sm:inline transition-colors ${
-                          stage === index ? "text-white" : "text-white/70"
-                        }`}
-                      >
-                        {label}
-                      </span>
-                    </div>
-                  )
-                )}
-              </div>
-
-              <div className="mt-4">
-                {/* Carte principale : étape active uniquement, version minimaliste */}
-                {stage === 0 && (
-                  <div className="rounded-xl border border-white/50 bg-white/15 p-4 md:p-5 shadow-xl shadow-black/40 scale-[1.02] transition-all">
-                    <div className="flex items-start gap-3">
-                      <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-white/10">
-                        📷
-                      </div>
-                      <div className="flex-1">
-                        <div className="text-white font-medium">Calcul de volume</div>
-                        <div className="mt-1 text-xs text-white/70">
-                          48 photos analysées ou estimation rapide sans photos — c’est vous qui décidez.
-                        </div>
-                        <div className="mt-2 inline-flex items-center gap-1 rounded-full bg-white/5 px-2 py-0.5 text-[11px] text-white/80">
-                          <span>Avec photos</span>
-                          <span className="text-white/40">•</span>
-                          <span>Ou estimation rapide sans photos</span>
-                        </div>
-                        <div className="mt-3 h-1.5 w-full overflow-hidden rounded-full bg-white/10">
-                          <div
-                            className="h-1.5 rounded-full bg-[#6bcfcf] transition-all duration-700"
-                            style={{
-                              width: "80%",
-                            }}
-                          />
-                        </div>
-                      </div>
-                    </div>
+              <ol className="mt-5 space-y-4 text-sm text-white/85">
+                <li className="flex items-start gap-3">
+                  <span className="mt-1 flex h-7 w-7 items-center justify-center rounded-full bg-white/10 text-[11px] font-semibold text-[#6bcfcf] border border-[#6bcfcf]/60">
+                    1
+                  </span>
+                  <div className="space-y-1">
+                    <p className="font-semibold">Constituez votre dossier en 5 minutes</p>
+                    <p className="text-xs text-white/75">
+                      Photos ou infos rapides sans photos : un seul dossier complet, prêt à être chiffré.
+                    </p>
                   </div>
-                )}
+                </li>
 
-                {stage === 1 && (
-                  <div className="rounded-xl border border-white/50 bg-white/15 p-4 md:p-5 shadow-xl shadow-black/40 scale-[1.02] transition-all">
-                    <div className="flex items-start gap-3">
-                      <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-white/10">
-                        🤖
-                      </div>
-                      <div className="flex-1">
-                        <div className="text-white font-medium">Dossier anonyme</div>
-                        <div className="mt-1 text-xs text-white/70">
-                          IA calcule un inventaire unique envoyé aux pros, sans partager vos coordonnées.
-                        </div>
-                        <span className="mt-2 inline-flex items-center gap-1 rounded-full bg-white/5 px-2 py-0.5 text-[11px] text-emerald-200">
-                          <span className="h-1.5 w-1.5 rounded-full bg-emerald-300" />
-                          <span>Volume figé : 28 m³ (le même pour tous)</span>
-                        </span>
-                      </div>
-                    </div>
+                <li className="flex items-start gap-3">
+                  <span className="mt-1 flex h-7 w-7 items-center justify-center rounded-full bg-white/10 text-[11px] font-semibold text-[#6bcfcf] border border-[#6bcfcf]/60">
+                    2
+                  </span>
+                  <div className="space-y-1">
+                    <p className="font-semibold">Nous contactons les déménageurs pour vous</p>
+                    <p className="text-xs text-white/75">
+                      Dossier anonyme envoyé uniquement à des déménageurs contrôlés, avec le même volume pour
+                      tous.
+                    </p>
                   </div>
-                )}
+                </li>
 
-                {stage === 2 && (
-                  <div className="rounded-xl border border-emerald-300 bg-emerald-300/15 p-4 md:p-5 shadow-xl shadow-emerald-500/30 scale-[1.02] transition-all">
-                    <div className="flex items-start gap-3">
-                      <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-emerald-300 text-sm text-[#04163a]">
-                        ✓
-                      </div>
-                      <div className="flex-1">
-                        <div className="text-white font-medium">5+ devis fiables à comparer</div>
-                        <div className="mt-1 text-xs text-white/70">
-                          Tous les déménageurs chiffrent sur le même volume. Vous comparez enfin ligne par
-                          ligne.
-                        </div>
-                        <div className="mt-3 grid grid-cols-2 gap-2 text-[11px]">
-                          {["Déménageur A", "Déménageur B"].map((label, index) => (
-                            <div
-                              key={label}
-                              className={`rounded-lg border bg-white/5 px-2 py-2 ${
-                                index === 1
-                                  ? "border-emerald-300 bg-white text-[#04163a]"
-                                  : "border-white/15 text-white/80"
-                              }`}
-                            >
-                              <div className="flex items-center justify-between">
-                                <span className="font-medium text-[11px]">{label}</span>
-                                <span className="text-[10px] text-white/60">28 m³</span>
-                              </div>
-                              <div className="mt-1 text-[11px]">
-                                {index === 1 ? "Économie moyenne -18%" : "Offre comparable"}
-                              </div>
-                            </div>
-                          ))}
-                        </div>
-                      </div>
-                    </div>
+                <li className="flex items-start gap-3">
+                  <span className="mt-1 flex h-7 w-7 items-center justify-center rounded-full bg-white/10 text-[11px] font-semibold text-[#6bcfcf] border border-[#6bcfcf]/60">
+                    3
+                  </span>
+                  <div className="space-y-1">
+                    <p className="font-semibold">Comparez 5+ devis fiables en un coup d’œil</p>
+                    <p className="text-xs text-white/75">
+                      Tous les déménageurs chiffrent sur le même dossier : vous comparez enfin ligne par
+                      ligne, sans mauvaises surprises.
+                    </p>
                   </div>
-                )}
+                </li>
+              </ol>
+
+              <div className="mt-5 rounded-xl border border-white/10 bg-[#04163a]/70 px-3 py-2 text-[11px] text-white/75">
+                <span className="font-semibold">En résumé :</span> un seul dossier bien structuré, 5+ devis
+                filtrés, et un comparatif clair pour choisir votre déménageur.
               </div>
             </div>
           </div>
