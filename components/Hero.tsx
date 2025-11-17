@@ -75,77 +75,72 @@ export default function Hero() {
           </div>
           <div className="relative mx-auto w-full max-w-[560px] lg:mx-0">
             <div className="absolute -inset-6 hidden rounded-3xl bg-black/20 blur-3xl lg:block" />
-            <div className="relative rounded-3xl border border-[#dfeaea]/70 bg-white/95 p-6 shadow-2xl text-[#04163a]">
-              {/* Header avec badge */}
-              <div className="flex items-start justify-between gap-3">
-                <div className="flex-1">
-                  <div className="inline-flex items-center gap-1.5 rounded-full bg-emerald-50 px-3 py-1 text-xs font-semibold text-emerald-700 border border-emerald-200">
-                    <span className="h-1.5 w-1.5 rounded-full bg-emerald-500" />
-                    Processus anti-arnaque
-                  </div>
-                  <h3 className="mt-3 text-xl font-bold text-[#04163a]">
-                    Pourquoi nous faire confiance ?
-                  </h3>
+            <div className="relative overflow-hidden rounded-3xl border border-[#dfeaea]/70 bg-white/95 p-5 shadow-2xl text-[#04163a] md:p-6">
+              {/* Header très épuré */}
+              <div className="flex items-center justify-between gap-4">
+                <div>
+                  <p className="text-[11px] font-semibold uppercase tracking-[0.23em] text-[#2b7a78]/80">
+                    Votre dossier en 3 étapes
+                  </p>
+                  <p className="mt-1 text-xs text-[#04163a]/55">
+                    3 étapes. 0 spam. 5+ devis fiables.
+                  </p>
                 </div>
-                <div className="text-3xl">🛡️</div>
+                <span className="hidden rounded-full border border-emerald-100 bg-emerald-50 px-3 py-1 text-[10px] font-semibold text-emerald-700 md:inline-flex items-center gap-1.5">
+                  <span className="h-1.5 w-1.5 rounded-full bg-emerald-500" />
+                  Flow IA
+                </span>
               </div>
 
-              {/* Garanties principales */}
+              {/* Steps très minimalistes */}
               <div className="mt-5 space-y-3">
                 {[
                   {
-                    icon: "🔒",
-                    title: "Dossier anonyme",
-                    desc: "Vos coordonnées restent cachées jusqu'à votre choix final.",
-                    highlight: true,
+                    title: "Constituez votre dossier en 5 minutes",
+                    caption: "Quelques infos clés, sans appels ni RDV.",
                   },
                   {
-                    icon: "⚖️",
-                    title: "Devis vraiment comparables",
-                    desc: "Même volume pour tous = comparaison ligne par ligne.",
-                    highlight: true,
+                    title: "Nous contactons des déménageurs certifiés pour vous",
                   },
                   {
-                    icon: "✓",
-                    title: "Déménageurs contrôlés",
-                    desc: "Pros vérifiés, assurés, et notés par de vrais clients.",
-                    highlight: false,
+                    title: "Comparez les devis et choisissez votre déménageur",
+                    caption: "Des devis vraiment comparables, sur des critères objectifs.",
                   },
-                ].map((item, index) => {
+                ].map((step, index) => {
                   const isActive = stage === index;
                   return (
                     <div
-                      key={item.title}
-                      className={`flex items-start gap-3 rounded-xl border p-3.5 transition-all ${
+                      key={step.title}
+                      className={`flex items-center justify-between rounded-2xl border px-3.5 py-3 transition-all ${
                         isActive
-                          ? "border-[#2b7a78]/60 bg-gradient-to-br from-[#e3f4f4] to-[#f5fbfb] shadow-md"
+                          ? "border-[#2b7a78]/70 bg-gradient-to-br from-[#e3f4f4] via-[#f5fbfb] to-white shadow-md shadow-[#c2e1e1]"
                           : "border-[#eef3f4] bg-[#f6fbfb]"
                       }`}
                     >
-                      <div className="flex h-9 w-9 shrink-0 items-center justify-center rounded-lg bg-white text-xl shadow-sm">
-                        {item.icon}
-                      </div>
-                      <div className="flex-1 pt-0.5">
-                        <p className="text-sm font-semibold text-[#04163a]">
-                          {item.title}
-                        </p>
-                        <p className="mt-0.5 text-xs leading-relaxed text-[#04163a]/75">
-                          {item.desc}
-                        </p>
+                      <div className="flex items-center gap-3">
+                        <div
+                          className={`flex h-7 w-7 items-center justify-center rounded-full text-xs font-semibold transition-all ${
+                            isActive
+                              ? "bg-[#2b7a78] text-white"
+                              : "bg-white text-[#2b7a78] border border-[#d0e4e4]"
+                          }`}
+                        >
+                          {index + 1}
+                        </div>
+                        <div>
+                          <p className="text-xs font-semibold text-[#04163a] md:text-sm">
+                            {step.title}
+                          </p>
+                          {step.caption && (
+                            <p className="mt-0.5 text-[11px] text-[#04163a]/70">
+                              {step.caption}
+                            </p>
+                          )}
+                        </div>
                       </div>
                     </div>
                   );
                 })}
-              </div>
-
-              {/* CTA bas de carte */}
-              <div className="mt-5 rounded-xl border border-[#2b7a78]/20 bg-gradient-to-br from-[#e3f4f4] to-white p-4 text-center">
-                <p className="text-sm font-semibold text-[#04163a]">
-                  Gratuit, rapide, et sans engagement
-                </p>
-                <p className="mt-1 text-xs text-[#04163a]/70">
-                  5+ devis comparables en 24-48h · Aucun appel indésirable
-                </p>
               </div>
             </div>
           </div>
