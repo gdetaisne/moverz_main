@@ -57,7 +57,7 @@ export default function ComparisonSection() {
   ];
 
   return (
-    <div className="overflow-hidden rounded-3xl border border-white/10 bg-gradient-to-br from-[#04163A] via-[#05243f] to-[#0b3b46] p-5 md:p-6 shadow-[0_24px_70px_rgba(0,0,0,0.55)]">
+    <div className="overflow-hidden rounded-3xl border border-white/10 bg-gradient-to-br from-[#04163A] via-[#05243f] to-[#0b3b46] p-5 md:p-6 shadow-[0_24px_70px_rgba(0,0,0,0.55)] motion-safe:animate-fade-up-soft">
       <div className="mb-4 flex items-center gap-3">
         <div className="h-0.5 w-16 rounded-full bg-[#6BCFCF]" />
         <p className="text-[11px] font-semibold uppercase tracking-[0.3em] text-white/60">
@@ -67,13 +67,17 @@ export default function ComparisonSection() {
 
       <div className="grid gap-4 md:grid-cols-2">
         {/* Colonne gauche – Sans comparateur */}
-        <div className="rounded-2xl border border-white/10 bg-white/5/0 bg-gradient-to-b from-white/0 to-white/5 p-4 md:p-5">
+        <div className="rounded-2xl border border-white/10 bg-white/5/0 bg-gradient-to-b from-white/0 to-white/5 p-4 md:p-5 transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_18px_60px_rgba(15,23,42,0.35)]">
           <p className="text-xs font-semibold uppercase tracking-[0.16em] text-red-200">
             Sans comparateur
           </p>
           <ul className="mt-3 space-y-3 text-sm text-white/80">
-            {rows.map((row) => (
-              <li key={row.label} className="flex items-start gap-3">
+            {rows.map((row, index) => (
+              <li
+                key={row.label}
+                className="flex items-start gap-3 motion-safe:animate-fade-up-soft"
+                style={{ animationDelay: `${index * 70}ms` }}
+              >
                 <span className="mt-1 flex h-5 w-5 items-center justify-center rounded-full bg-red-500/20 text-red-200">
                   <CrossIcon className="h-3 w-3" />
                 </span>
@@ -89,13 +93,17 @@ export default function ComparisonSection() {
         </div>
 
         {/* Colonne droite – Avec notre comparateur */}
-        <div className="rounded-2xl border border-[#6BCFCF]/40 bg-white/5 p-4 md:p-5 shadow-[0_18px_60px_rgba(15,23,42,0.4)]">
+        <div className="rounded-2xl border border-[#6BCFCF]/40 bg-white/5 p-4 md:p-5 shadow-[0_18px_60px_rgba(15,23,42,0.4)] transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_22px_70px_rgba(15,23,42,0.5)]">
           <p className="text-xs font-semibold uppercase tracking-[0.16em] text-[#6BCFCF]">
             Avec notre comparateur
           </p>
           <ul className="mt-3 space-y-3 text-sm text-emerald-50">
-            {rows.map((row) => (
-              <li key={row.label} className="flex items-start gap-3">
+            {rows.map((row, index) => (
+              <li
+                key={row.label}
+                className="flex items-start gap-3 motion-safe:animate-fade-up-soft"
+                style={{ animationDelay: `${index * 70}ms` }}
+              >
                 <span className="mt-1 flex h-5 w-5 items-center justify-center rounded-full bg-emerald-400/20 text-emerald-100">
                   <CheckIcon className="h-3 w-3" />
                 </span>

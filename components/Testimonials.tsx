@@ -74,7 +74,8 @@ export default function Testimonials() {
           return (
             <article
               key={`${review.summary}-${index}`}
-              className="group rounded-2xl border border-[#dfeaea] bg-white p-6 shadow-sm transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_18px_60px_rgba(15,23,42,0.15)] hover:rotate-[0.25deg] md:p-7"
+              className="group rounded-2xl border border-[#dfeaea] bg-white p-6 shadow-sm transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_18px_60px_rgba(15,23,42,0.15)] hover:rotate-[0.25deg] md:p-7 motion-safe:animate-fade-up-soft"
+              style={{ animationDelay: `${index * 80}ms` }}
             >
               <div className="mb-5 flex items-center gap-3">
                 <div className="flex h-14 w-14 flex-shrink-0 items-center justify-center rounded-full bg-gradient-to-br from-[#6bcfcf]/15 to-[#2b7a78]/25 ring-2 ring-[#2b7a78]/20">
