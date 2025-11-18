@@ -397,6 +397,33 @@ Alignement du CTA sticky bas de page sur les 11 sites avec le wording “Recevez
 
 ---
 
+### ✅ [P1]-TASK-083-suppression-photos-avis : Suppression des photos dans les avis (effet “IA”)
+
+**Finalisée le** : 2025-11-18  
+**Type** : UX / Trust / Conversion  
+**Priorité** : P1  
+**Assigné** : Lucie
+
+📁 **Documentation** : `.cursor/tasks/[P1]-TASK-083-suppression-photos-avis/`
+
+**Résumé** :  
+Suppression des photos/avatars génériques dans les blocs d’avis clients pour éviter l’effet “avis IA” et les incohérences prénom/photo. Les composants `Testimonials` (racine + 11 villes) affichent désormais un avatar sobre avec initiales, le prénom, la localisation et le texte. Les textes d’avis dans `lib/reviews.ts` (monorepo + copies par ville) ont été alignés pour retirer les mentions explicites d’“IA” et de “calcul de volume”, tout en conservant les bénéfices (dossier unique, volume estimé, devis comparables).
+
+**Commits GitHub** :  
+- Monorepo : `feat(testimonials): retirer photos et mentions IA/volume`, `chore(reviews): aligner textes sans mentions IA`  
+- Sites villes : commits `feat: Update <ville> 2025-11-18 11:02` via `push-all-sites.sh`
+
+**Tests** :  
+- ✅ Vérification visuelle sur Nice et Marseille (desktop + mobile) : plus aucune photo dans les avis, initiales cohérentes, texte lisible.  
+- ✅ Vérification rapide sur d’autres villes (ex. Lyon, Rennes) : structure et style homogènes, aucune mention d’“IA” dans les textes visibles.
+
+**Definition of Done** :  
+- [x] 1. Code propre et documenté (README + fichiers de tâche, composants harmonisés sur 11 sites)  
+- [x] 2. Sur GitHub main + 11 dépôts villes (push via scripts de déploiement)  
+- [x] 3. Testé en live sur 2+ sites (Nice, Marseille + spot-check sur d’autres villes)
+
+---
+
 ### ✅ TASK-011 : Fix 308 Redirections Nice + Deployment
 
 **Finalisée le** : 04 novembre 2025  

@@ -44,18 +44,24 @@ export default function Testimonials() {
 
   return (
     <div className="space-y-8">
-      <div className="space-y-4 text-center">
+      <div className="space-y-3 text-center">
         <p className="text-xs font-semibold uppercase tracking-[0.3em] text-[#2b7a78]">
-          Avis clients vérifiés
+          Avis clients
         </p>
         <h2 className="text-2xl font-semibold text-[#04163a] md:text-3xl lg:text-4xl">
-          Ils nous ont fait confiance à {city.nameCapitalized}
+          Ce que disent les clients à {city.nameCapitalized}
         </h2>
-        <div className="flex items-center justify-center gap-2 text-base text-yellow-400 md:text-lg">
-          <span className="text-lg">⭐⭐⭐⭐⭐</span>
-          <span className="text-sm text-[#04163a]/70 md:text-base">
-            {ratingLabel} sur 1200+ déménagements pilotés
-          </span>
+        <div className="mx-auto h-0.5 w-16 rounded-full bg-[#6BCFCF]" />
+        <div className="flex flex-col items-center justify-center gap-1 text-base text-yellow-400 md:text-lg">
+          <div className="flex items-center gap-2">
+            <span className="text-lg">⭐⭐⭐⭐⭐</span>
+            <span className="text-sm text-[#04163a]/70 md:text-base">
+              {ratingLabel} de moyenne
+            </span>
+          </div>
+          <p className="text-xs text-[#04163a]/60 md:text-sm">
+            Clarté des devis, 0 spam, accompagnement, pros fiables.
+          </p>
         </div>
       </div>
 
@@ -68,7 +74,7 @@ export default function Testimonials() {
           return (
             <article
               key={`${review.summary}-${index}`}
-              className="rounded-2xl border border-[#dfeaea] bg-white p-6 shadow-sm transition-all duration-300 hover:-translate-y-0.5 hover:shadow-md md:p-7"
+              className="group rounded-2xl border border-[#dfeaea] bg-white p-6 shadow-sm transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_18px_60px_rgba(15,23,42,0.15)] hover:rotate-[0.25deg] md:p-7"
             >
               <div className="mb-5 flex items-center gap-3">
                 <div className="flex h-14 w-14 flex-shrink-0 items-center justify-center rounded-full bg-gradient-to-br from-[#6bcfcf]/15 to-[#2b7a78]/25 ring-2 ring-[#2b7a78]/20">
@@ -77,8 +83,9 @@ export default function Testimonials() {
                   </span>
                 </div>
                 <div>
-                  <div className="text-base font-semibold text-[#04163a]">
-                    {displayName}
+                  <div className="relative inline-block text-base font-semibold text-[#04163a]">
+                    <span className="relative z-10">{displayName}</span>
+                    <span className="pointer-events-none absolute -bottom-0.5 left-0 h-0.5 w-full origin-left scale-x-0 rounded-full bg-[#6BCFCF] transition-transform duration-200 group-hover:scale-x-100" />
                   </div>
                   <div className="text-xs text-[#04163a]/60">
                     {location ?? city.nameCapitalized}

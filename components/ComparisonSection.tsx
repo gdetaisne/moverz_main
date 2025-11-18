@@ -33,105 +33,83 @@ const CrossIcon = ({ className = "" }: { className?: string }) => (
 );
 
 export default function ComparisonSection() {
-  const items = [
+  const rows = [
     {
-      title: "Déménagement seul",
-      icon: "🚚",
-      badge: "Sans comparateur",
-      tagline: "Vous gérez tout : recherches, appels, visites, relances…",
-      highlights: [
-        "Temps passé : 2 à 3 jours pour trouver 3 devis",
-        "Budget caché : location camion, essence, péages, cartons",
-        "Stress : aucune assurance pro, risque de casse",
-      ],
-      negatives: [
-        "Devis impossibles à comparer entre eux",
-        "Pas de protection en cas de litige",
-        "Organisation longue (visites techniques, appels, relances)",
-      ],
+      label: "Prix",
+      without: "Devis reçus au fil de l’eau, écarts de prix peu lisibles.",
+      with: "5+ devis alignés sur le même volume et les mêmes options.",
     },
     {
-      title: "Avec le comparateur",
-      icon: "✨",
-      badge: "Notre solution",
-      tagline: "On prépare le dossier et on met les pros en concurrence pour vous.",
-      highlights: [
-        "Processus 100% en ligne, sans visites techniques",
-        "Dossier anonyme envoyé uniquement à des pros contrôlés",
-        "Même dossier pour tous → devis enfin comparables",
-      ],
-      positives: [
-        "5+ devis filtrés sur le même dossier",
-        "Assurances et contrats pros vérifiés",
-        "Support jusqu’au jour J si besoin",
-      ],
+      label: "Temps passé",
+      without: "2–3 jours de recherches, appels et visites techniques.",
+      with: "Un dossier unique, devis reçus sans relances ni visites.",
+    },
+    {
+      label: "Stress & risques",
+      without: "Qualité des déménageurs difficile à vérifier, risque d’arnaque.",
+      with: "Pros contrôlés (assurances, avis) et support en cas de souci.",
+    },
+    {
+      label: "Lisibilité des devis",
+      without: "Formats différents, difficile de comparer ligne par ligne.",
+      with: "Même dossier, colonnes alignées : vous voyez qui propose quoi.",
     },
   ];
 
   return (
-    <div className="grid gap-6 md:grid-cols-2">
-      {items.map((item) => {
-        const isBest = item.badge === "Notre solution";
-        return (
-          <div
-            key={item.title}
-            className={`rounded-2xl p-6 border transition shadow-sm card-glass ${
-              isBest
-                ? "border-[#6bcfcf]/80 shadow-[#04163a]/40 shadow-lg"
-                : "border-white/10"
-            }`}
-          >
-            <div className="flex items-center justify-between gap-3">
-              <div className="flex items-center gap-3">
-                <div className="text-3xl">{item.icon}</div>
+    <div className="overflow-hidden rounded-3xl border border-white/10 bg-gradient-to-br from-[#04163A] via-[#05243f] to-[#0b3b46] p-5 md:p-6 shadow-[0_24px_70px_rgba(0,0,0,0.55)]">
+      <div className="mb-4 flex items-center gap-3">
+        <div className="h-0.5 w-16 rounded-full bg-[#6BCFCF]" />
+        <p className="text-[11px] font-semibold uppercase tracking-[0.3em] text-white/60">
+          Comparatif
+        </p>
+      </div>
+
+      <div className="grid gap-4 md:grid-cols-2">
+        {/* Colonne gauche – Sans comparateur */}
+        <div className="rounded-2xl border border-white/10 bg-white/5/0 bg-gradient-to-b from-white/0 to-white/5 p-4 md:p-5">
+          <p className="text-xs font-semibold uppercase tracking-[0.16em] text-red-200">
+            Sans comparateur
+          </p>
+          <ul className="mt-3 space-y-3 text-sm text-white/80">
+            {rows.map((row) => (
+              <li key={row.label} className="flex items-start gap-3">
+                <span className="mt-1 flex h-5 w-5 items-center justify-center rounded-full bg-red-500/20 text-red-200">
+                  <CrossIcon className="h-3 w-3" />
+                </span>
                 <div>
-                  <h3 className="text-xl font-semibold text-white">{item.title}</h3>
-                  <p className="mt-1 text-sm text-white/70">{item.tagline}</p>
+                  <p className="text-[11px] font-semibold uppercase tracking-[0.16em] text-white/55">
+                    {row.label}
+                  </p>
+                  <p className="mt-0.5 text-[13px] text-white/80">{row.without}</p>
                 </div>
-              </div>
-              <span
-                className={`inline-flex items-center rounded-full px-3 py-1 text-[11px] font-semibold ${
-                  isBest
-                    ? "bg-[#e0f5f4] text-[#1b4a4a]"
-                    : "bg-white/5 text-white/70 border border-white/10"
-                }`}
-              >
-                {item.badge}
-              </span>
-            </div>
+              </li>
+            ))}
+          </ul>
+        </div>
 
-            <div className="mt-4 space-y-3 text-sm text-white/85">
-              {(item.highlights || []).map((text) => (
-                <div key={text} className="flex items-start gap-3">
-                  <span className="mt-2 h-0.5 w-5 rounded-full bg-[#6bcfcf]/80" />
-                  <span>{text}</span>
+        {/* Colonne droite – Avec notre comparateur */}
+        <div className="rounded-2xl border border-[#6BCFCF]/40 bg-white/5 p-4 md:p-5 shadow-[0_18px_60px_rgba(15,23,42,0.4)]">
+          <p className="text-xs font-semibold uppercase tracking-[0.16em] text-[#6BCFCF]">
+            Avec notre comparateur
+          </p>
+          <ul className="mt-3 space-y-3 text-sm text-emerald-50">
+            {rows.map((row) => (
+              <li key={row.label} className="flex items-start gap-3">
+                <span className="mt-1 flex h-5 w-5 items-center justify-center rounded-full bg-emerald-400/20 text-emerald-100">
+                  <CheckIcon className="h-3 w-3" />
+                </span>
+                <div>
+                  <p className="text-[11px] font-semibold uppercase tracking-[0.16em] text-emerald-100">
+                    {row.label}
+                  </p>
+                  <p className="mt-0.5 text-[13px] text-emerald-50">{row.with}</p>
                 </div>
-              ))}
-            </div>
-
-            {(item.negatives || item.positives) && (
-              <div className="mt-5 rounded-2xl bg-white/5 p-4 space-y-2 text-sm border border-white/10">
-                {(item.negatives || []).map((text) => (
-                  <div key={text} className="flex items-start gap-3 text-red-200">
-                    <span className="mt-0.5 flex h-5 w-5 items-center justify-center rounded-full bg-red-500/15 text-red-300">
-                      <CrossIcon className="h-3 w-3" />
-                    </span>
-                    <span>{text}</span>
-                  </div>
-                ))}
-                {(item.positives || []).map((text) => (
-                  <div key={text} className="flex items-start gap-3 text-emerald-200">
-                    <span className="mt-0.5 flex h-5 w-5 items-center justify-center rounded-full bg-emerald-400/15 text-emerald-300">
-                      <CheckIcon className="h-3 w-3" />
-                    </span>
-                    <span>{text}</span>
-                  </div>
-                ))}
-              </div>
-            )}
-          </div>
-        );
-      })}
+              </li>
+            ))}
+          </ul>
+        </div>
+      </div>
     </div>
   );
 }

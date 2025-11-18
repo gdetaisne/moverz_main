@@ -270,20 +270,36 @@ Recréer l’animation du Hero pour qu’elle rende évident le funnel :
 
 ---
 
-### [P1]-TASK-083-suppression-photos-avis : Supprimer les photos des avis (éviter l’effet “IA”)
+### [P2]-TASK-084-refonte-2025-vision-optimale : Refonte 2025 – la vision optimale
 
 **Statut** : 📋 À DÉMARRER  
+**Priorité** : P2 (vision UX/UI moyen terme)  
+**Temps estimé** : 4-6h  
+**Doc** : `.cursor/tasks/[P2]-TASK-084-refonte-2025-vision-optimale/`
+
+**Idée** :
+Se donner le droit d’explorer une home “parfaite 2025” (sans contraintes legacy immédiates) :
+- Tester des structures différentes (hero, comparateur, preuves, FAQ courte, etc.)
+- Jouer avec des micro-animations + scénarisation sans casser le SEO actuel
+- En tirer une vision cible qui guidera ensuite les refontes incrémentales (TASK-076, 077, 078…)
+
+**Prochaines étapes possibles** :
+1. Créer le dossier `.cursor/tasks/[P2]-TASK-084-refonte-2025-vision-optimale/`
+2. Noter dans `README.md` la vision globale + références inspirantes
+3. Esquisser 1–2 variantes de hero + layout global home
+4. Décider quelles idées intégrer ensuite dans des tâches concrètes (P1/P2) sur les composants existants
+
+---
+
+### [P1]-TASK-083-suppression-photos-avis : Supprimer les photos des avis (éviter l’effet “IA”)
+
+**Statut** : ✅ FINALISÉE (avatars remplacés par initiales, wording nettoyé)  
 **Priorité** : P1 (confiance / conversion)  
 **Temps estimé** : 1-2h  
 **Doc** : `.cursor/tasks/[P1]-TASK-083-suppression-photos-avis/`
 
-**Objectif** :  
-Retirer les photos/avatars générés des avis clients (sur les composants partagés et pages locales) lorsque les visuels ne correspondent pas aux prénoms ou donnent une impression de faux avis générés par IA.
-
-**Pistes** :
-- Afficher uniquement le prénom + initiale (ou une simple icône)  
-- Garder la structure des avis (note, texte, ville) mais sans visuel trompeur  
-- Vérifier cohérence sur 11 villes après sync
+**Résumé** :  
+Les composants d’avis (`Testimonials`) n’affichent plus de photos/avatars génériques : chaque avis montre désormais un rond avec initiales, le prénom, la localisation et le texte. Les textes d’avis ont été revus dans `lib/reviews.ts` (monorepo + copies par ville) pour retirer les mentions d’“IA” et de “calcul de volume” qui ne correspondent plus au positionnement actuel.
 
 ---
 

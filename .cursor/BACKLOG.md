@@ -255,13 +255,13 @@ Cartographier l’UI actuelle (hero, sections clés, composants partagés) pour 
 
 ---
 
-### [P1] [Temps: 1-2h] [Qui: Lucie] [P1]-TASK-083-suppression-photos-avis : Suppression des photos dans les avis (effet “IA”)
+### ✅ [P1] [Temps: 1-2h] [Qui: Lucie] [P1]-TASK-083-suppression-photos-avis : Suppression des photos dans les avis (effet “IA”)
 
 📁 **Doc** : `.cursor/tasks/[P1]-TASK-083-suppression-photos-avis/`
 
 **Type** : UX / Trust / Conversion
 
-**Statut** : 📋 À DÉMARRER
+**Statut** : ✅ FINALISÉE (photos retirées + wording revu sur 11 sites)
 
 **Objectif** :
 Supprimer les photos associées aux avis clients sur l’ensemble du site pour :
@@ -275,11 +275,11 @@ Supprimer les photos associées aux avis clients sur l’ensemble du site pour :
 - Vérifier que les avatars ne sont plus chargés depuis des sources IA/génériques
 
 **Critères de succès** :
-- [ ] Aucune photo d’avatar “IA” ou générique dans les avis
-- [ ] Wording des avis conservé (prénom + texte) sans élément visuel trompeur
-- [ ] Style harmonisé (initiales, icône ou simple puce) sur les 11 sites
-- [ ] Git commit + push GitHub
-- [ ] Déployé sur 11 sites + tests visuels (desktop + mobile) sur 2-3 villes
+- [x] Aucune photo d’avatar “IA” ou générique dans les avis
+- [x] Wording des avis conservé (prénom + texte) sans élément visuel trompeur
+- [x] Style harmonisé (initiales dans un rond sobre) sur les 11 sites
+- [x] Git commit + push GitHub (monorepo + 11 repos villes)
+- [x] Déployé sur 11 sites + tests visuels (desktop + mobile) sur 2+ villes
 
 **Priorité** : P1 (impact direct sur confiance / conversion)
 **Temps estimé** : 1-2h
@@ -439,6 +439,37 @@ Finaliser uniformisation composants secondaires + templates locaux
 **Priorité** : P2 (Finitions)
 **Temps estimé** : 2-3h
 **Assigné à** : Lucie
+
+---
+
+### [P2] [Temps: 4-6h] [Qui: Lucie] [P2]-TASK-084-refonte-2025-vision-optimale : Refonte 2025 – la vision optimale
+
+📁 **Doc** : `.cursor/tasks/[P2]-TASK-084-refonte-2025-vision-optimale/`
+
+**Type** : UX / UI / Vision produit 2025
+
+**Statut** : 📋 À DÉMARRER (après TASK-080 analyse design)
+
+**Objectif** :
+Explorer la version “idéale 2025” de la home (et éventuellement 1–2 sections clés) en partant d’une feuille quasi blanche, pour définir une vision cible claire :
+- Structure de page optimale
+- Hero / comparateur / preuves parfaitement alignés avec le positionnement
+- Tonalité produit “boîte SaaS sérieuse et cool” sans surcharge
+
+**Scope** :
+- Maquettes wireframe ou hi-fi (Figma ou code exploratoire) de la home idéale
+- 1–2 variantes de hero / carte comparateur / strip de preuves
+- Recos sur micro-animations, densité de contenu, niveaux de preuves
+
+**Hors scope immédiat** :
+- Pas de déploiement direct sur les 11 villes sans task dédiée
+- Pas de changement canonicals / URLs / SEO structurel
+
+**Critères de succès** :
+- [ ] 1 vision cible claire documentée (structure + principes design)
+- [ ] 1–2 propositions concrètes (maquettes ou prototypes) pour la home
+- [ ] Recos écrites sur : structure, animations, densité de texte, hiérarchie visuelle
+- [ ] Liens explicites avec les tâches futures (refontes incrémentales possibles)
 
 ---
 
