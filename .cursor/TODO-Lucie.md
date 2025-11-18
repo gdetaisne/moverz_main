@@ -270,6 +270,23 @@ Recréer l’animation du Hero pour qu’elle rende évident le funnel :
 
 ---
 
+### [P1]-TASK-083-suppression-photos-avis : Supprimer les photos des avis (éviter l’effet “IA”)
+
+**Statut** : 📋 À DÉMARRER  
+**Priorité** : P1 (confiance / conversion)  
+**Temps estimé** : 1-2h  
+**Doc** : `.cursor/tasks/[P1]-TASK-083-suppression-photos-avis/`
+
+**Objectif** :  
+Retirer les photos/avatars générés des avis clients (sur les composants partagés et pages locales) lorsque les visuels ne correspondent pas aux prénoms ou donnent une impression de faux avis générés par IA.
+
+**Pistes** :
+- Afficher uniquement le prénom + initiale (ou une simple icône)  
+- Garder la structure des avis (note, texte, ville) mais sans visuel trompeur  
+- Vérifier cohérence sur 11 villes après sync
+
+---
+
 ### [P1]-TASK-076-uniformisation-pages-principales : Uniformisation Pages Principales
 
 **Statut** : 📋 À DÉMARRER (après TASK-075)  

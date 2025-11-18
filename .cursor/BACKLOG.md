@@ -255,6 +255,38 @@ Cartographier l’UI actuelle (hero, sections clés, composants partagés) pour 
 
 ---
 
+### [P1] [Temps: 1-2h] [Qui: Lucie] [P1]-TASK-083-suppression-photos-avis : Suppression des photos dans les avis (effet “IA”)
+
+📁 **Doc** : `.cursor/tasks/[P1]-TASK-083-suppression-photos-avis/`
+
+**Type** : UX / Trust / Conversion
+
+**Statut** : 📋 À DÉMARRER
+
+**Objectif** :
+Supprimer les photos associées aux avis clients sur l’ensemble du site pour :
+- Éviter l’effet “photos IA génériques”
+- Éviter les incohérences prénom/photo
+- Renforcer la perception de transparence et de sérieux
+
+**Scope** :
+- Composants globaux d’avis (ex: `Reviews`, `Testimonials`, bandes de preuves si photos incluses)
+- Variantes par ville si dupliquées dans `sites/*/components`
+- Vérifier que les avatars ne sont plus chargés depuis des sources IA/génériques
+
+**Critères de succès** :
+- [ ] Aucune photo d’avatar “IA” ou générique dans les avis
+- [ ] Wording des avis conservé (prénom + texte) sans élément visuel trompeur
+- [ ] Style harmonisé (initiales, icône ou simple puce) sur les 11 sites
+- [ ] Git commit + push GitHub
+- [ ] Déployé sur 11 sites + tests visuels (desktop + mobile) sur 2-3 villes
+
+**Priorité** : P1 (impact direct sur confiance / conversion)
+**Temps estimé** : 1-2h
+**Assigné à** : Lucie
+
+---
+
 ### [P1] [Temps: 3-4h] [Qui: Lucie] [P1]-TASK-076-uniformisation-pages-principales : Uniformisation Pages Principales (11 villes)
 
 📁 **Doc** : `.cursor/tasks/[P1]-TASK-076-uniformisation-pages-principales/`
