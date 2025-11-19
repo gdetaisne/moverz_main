@@ -40,7 +40,7 @@ export default function HowItWorks() {
       description: "Quelques infos clés, un seul dossier pour tous les déménageurs.",
     },
     {
-      number: "2",
+      number: "2", 
       icon: (
         <svg className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 4a1 1 0 011-1h16a1 1 0 011 1v2.586a1 1 0 01-.293.707l-6.414 6.414a1 1 0 00-.293.707V17l-4 4v-6.586a1 1 0 00-.293-.707L3.293 7.293A1 1 0 013 6.586V4z" />
@@ -83,7 +83,7 @@ export default function HowItWorks() {
         </p>
         <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-[#04163a] leading-tight">
           Comment fonctionne le comparateur ?
-        </h2>
+      </h2>
         <p className="text-base md:text-lg lg:text-xl text-[#4b5c6b] leading-relaxed max-w-2xl mx-auto font-light">
           Un dossier unique, des pros filtrés, des devis enfin comparables.
         </p>
@@ -115,7 +115,7 @@ export default function HowItWorks() {
                 </div>
                 {/* Badge numéro */}
                 <div className="absolute -top-2 -right-2 flex h-7 w-7 items-center justify-center rounded-full bg-[#2B7A78] text-xs font-bold text-white shadow-lg">
-                  {step.number}
+                {step.number}
                 </div>
               </div>
               
@@ -131,7 +131,7 @@ export default function HowItWorks() {
           </div>
         ))}
       </div>
-
+      
       {/* CTAs avec espacement généreux */}
       <div className="relative mt-12 flex flex-col items-center justify-center gap-4 text-center sm:flex-row sm:justify-center">
         <a
