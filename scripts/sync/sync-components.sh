@@ -32,6 +32,9 @@ SHARED_COMPONENTS=(
   "NeighborhoodsIndex.tsx"
   "CtaPrimary.tsx"
   "LeadForm.tsx"
+  "ComparisonSection.tsx"
+  "ProofStrip.tsx"
+  "Testimonials.tsx"
 )
 
 echo "📋 Composants à synchroniser : ${#SHARED_COMPONENTS[@]}"
@@ -91,7 +94,7 @@ echo ""
 echo "📝 Prochaines étapes :"
 echo "   1. Vérifier les changements : git status"
 echo "   2. Tester localement : cd sites/toulouse && pnpm dev"
-echo "   3. Commit : git add -A && git commit -m 'sync: composants partagés'"
-echo "   4. Déployer : ./scripts/push-all-sites-to-github.sh"
+echo "   3. Commit : git add -A && git commit -m 'sync: composants partagés (11 villes)'"
+echo "   4. Déployer : ./scripts/deploy/push-main.sh && ./scripts/deploy/push-all-sites.sh"
 echo ""
 
