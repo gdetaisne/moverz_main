@@ -16,6 +16,166 @@
 
 ## 🔴 CRITIQUE URGENTE - Lead Generation & Tunnel Conversion
 
+### 🆕 [P0] [Temps: 4-6h] [Qui: Lucie] TASK-086-refonte-pages-formulaires : Refonte Design Pages Formulaires (inventaire-ia + estimation-rapide)
+
+📁 **Doc** : `.cursor/tasks/[P0]-TASK-086-refonte-pages-formulaires/`
+
+**Type** : Design Critique / UX Conversion
+
+**Statut** : 📋 À DÉMARRER
+
+**Contexte** :
+- Pages de formulaire = pages de conversion critiques
+- Probablement encore wording "IA" / "photos" / "calcul volume"
+- Design probablement vieux (pas Stripe-like 2025)
+- Impact direct sur taux de conversion
+
+**Scope** :
+1. **`/inventaire-ia/page.tsx`** - Formulaire principal
+2. **`/estimation-rapide/page.tsx`** - Formulaire rapide
+
+**Objectifs** :
+- ✅ Appliquer design Stripe-like 2025 (alternance sombre/clair)
+- ✅ Remplacer wording "IA" / "photos" par "comparateur de devis"
+- ✅ Simplifier le tunnel, clarifier les étapes
+- ✅ Ajouter réassurance (0 spam, dossier anonyme, gratuit)
+- ✅ Mobile-first, animations subtiles
+
+**Livrables** :
+- [ ] `/inventaire-ia/page.tsx` refondu (11 villes)
+- [ ] `/estimation-rapide/page.tsx` refondu (11 villes)
+- [ ] Commit + deploy sur CapRover
+- [ ] Test sur 2+ sites en prod
+
+---
+
+### 🆕 [P1] [Temps: 3-4h] [Qui: Lucie] TASK-087-refonte-pages-trajets : Refonte Pages Trajets Spécifiques (nice-vers-*)
+
+📁 **Doc** : `.cursor/tasks/[P1]-TASK-087-refonte-pages-trajets/`
+
+**Type** : SEO / Design
+
+**Statut** : 📋 À DÉMARRER
+
+**Contexte** :
+- 6 pages trajets par ville (ex: `nice-vers-paris`, `nice-vers-lyon`, etc.)
+- Probablement vieux design + wording "IA"
+- Potentiel SEO important (longue distance)
+
+**Scope** :
+- `nice-vers-paris/page.tsx`
+- `nice-vers-lyon/page.tsx`
+- `nice-vers-marseille/page.tsx`
+- `nice-vers-toulouse/page.tsx`
+- `nice-vers-nantes/page.tsx`
+- `nice-vers-espagne/page.tsx`
+
+**Objectifs** :
+- ✅ Design Stripe-like 2025
+- ✅ Wording "comparateur de devis" (pas "IA")
+- ✅ Structure : Hero + Prix indicatifs + Processus + FAQ + CTA
+- ✅ Alternance sombre/clair
+
+**Livrables** :
+- [ ] 6 pages trajets refondues (Nice)
+- [ ] Template réutilisable pour autres villes
+- [ ] Commit + deploy
+- [ ] Test prod
+
+---
+
+### 🆕 [P1] [Temps: 2-3h] [Qui: Lucie] TASK-088-refonte-pages-services-detaillees : Refonte Pages Services Détaillées (économique/standard/premium)
+
+📁 **Doc** : `.cursor/tasks/[P1]-TASK-088-refonte-pages-services-detaillees/`
+
+**Type** : SEO / Design
+
+**Statut** : 📋 À DÉMARRER
+
+**Contexte** :
+- 3 pages services par ville (économique, standard, premium)
+- Probablement vieux design
+- Complément de `/services/page.tsx` (déjà refondu)
+
+**Scope** :
+- `services/demenagement-economique-nice/page.tsx`
+- `services/demenagement-standard-nice/page.tsx`
+- `services/demenagement-premium-nice/page.tsx`
+
+**Objectifs** :
+- ✅ Design Stripe-like 2025
+- ✅ Cohérence avec `/services/page.tsx`
+- ✅ Wording "comparateur de devis"
+- ✅ Alternance sombre/clair
+
+**Livrables** :
+- [ ] 3 pages services refondues (Nice)
+- [ ] Template réutilisable pour autres villes
+- [ ] Commit + deploy
+- [ ] Test prod
+
+---
+
+### 🆕 [P2] [Temps: 2-3h] [Qui: Lucie] TASK-089-refonte-templates-blog : Refonte Templates Blog (catégorie + article)
+
+📁 **Doc** : `.cursor/tasks/[P2]-TASK-089-refonte-templates-blog/`
+
+**Type** : Design / SEO
+
+**Statut** : 📋 À DÉMARRER
+
+**Contexte** :
+- `/blog/page.tsx` déjà refondu
+- Mais templates catégorie et article probablement vieux
+
+**Scope** :
+- `blog/[category]/page.tsx` - Liste articles par catégorie
+- `blog/[category]/[slug]/page.tsx` - Article individuel
+
+**Objectifs** :
+- ✅ Design Stripe-like 2025
+- ✅ Cohérence avec `/blog/page.tsx`
+- ✅ Lisibilité optimale (article)
+- ✅ Navigation claire (catégorie)
+
+**Livrables** :
+- [ ] Template catégorie refondu
+- [ ] Template article refondu
+- [ ] Commit + deploy
+- [ ] Test prod
+
+---
+
+### 🆕 [P2] [Temps: 1-2h] [Qui: Lucie] TASK-090-verification-pages-legales : Vérification & Mise à Jour Pages Légales
+
+📁 **Doc** : `.cursor/tasks/[P2]-TASK-090-verification-pages-legales/`
+
+**Type** : Légal / Wording
+
+**Statut** : 📋 À DÉMARRER
+
+**Contexte** :
+- Pages légales probablement OK niveau design
+- Mais wording "IA" / "photos" à vérifier
+
+**Scope** :
+- `cgu/page.tsx` - CGU
+- `cgv/page.tsx` - CGV
+- `mentions-legales/page.tsx` - Mentions légales
+- `politique-confidentialite/page.tsx` - RGPD
+
+**Objectifs** :
+- ✅ Vérifier wording (remplacer "IA" par "comparateur")
+- ✅ Vérifier design minimal (si besoin, appliquer Stripe-like)
+- ✅ Vérifier conformité RGPD
+
+**Livrables** :
+- [ ] 4 pages légales vérifiées/mises à jour
+- [ ] Commit + deploy
+- [ ] Test prod
+
+---
+
 ### 🆕 [P0] [Temps: 3-4 jours] [Qui: Guillaume] TASK-085-inventaire-ia-v1-analyse-architecture : Analyse & Architecture Inventaire IA V1 - Tunnel Conversion
 
 📁 **Doc** : `.cursor/tasks/[P0]-TASK-085-inventaire-ia-v1-analyse-architecture/`
