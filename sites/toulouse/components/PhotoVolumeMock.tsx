@@ -34,7 +34,6 @@ export default function PhotoVolumeMock() {
           </li>
         </ul>
         <div className="mt-4 flex flex-wrap items-center gap-3">
-          <a href="/devis-gratuits/" className="btn-accent text-sm">
             Calculer mon volume en photos (gratuit)
           </a>
           <span className="text-xs text-[#04163a]/60">

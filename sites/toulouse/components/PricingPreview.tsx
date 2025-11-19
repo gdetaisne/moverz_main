@@ -74,7 +74,6 @@ export default function PricingPreview() {
         >
           Voir le détail des formules et services
         </a>
-        <a href="/devis-gratuits/" className="btn-accent text-sm">
           Calculer mon volume et recevoir 5 devis fiables
         </a>
       </div>

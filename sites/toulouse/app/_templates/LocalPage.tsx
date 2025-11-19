@@ -99,6 +99,7 @@ export default function LocalPage({
   partenaires,
   faq,
 }: LocalPageProps) {
+  // Force dynamic rendering to avoid prerendering errors
   const jsonLd = generateLocalPageJsonLd(zone, zoneDisplay);
   const city = getCityDataFromUrl(env.SITE_URL);
 
