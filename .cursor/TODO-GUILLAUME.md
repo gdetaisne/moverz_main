@@ -25,6 +25,66 @@
 
 ---
 
+## 🔴 CRITIQUE URGENTE - Lead Generation Core (NOUVELLE PRIORITÉ)
+
+### 🆕 [P0]-TASK-085-inventaire-ia-v1-analyse-architecture : Analyse & Architecture Inventaire IA V1 - Tunnel Conversion 🚀💰
+
+**Statut** : 📋 **PENDING** (Créée 18/11/2025, prête à démarrer)  
+**Priorité** : P0 (CRITIQUE BUSINESS - Lead Generation Core)  
+**Temps estimé** : 3-4 jours (analyse/documentation uniquement)  
+**Doc** : `.cursor/tasks/[P0]-TASK-085-inventaire-ia-v1-analyse-architecture/`
+
+**CONTEXTE BUSINESS CRITIQUE** :
+- 🚨 **CTA actuels ne génèrent PAS de leads** (0 leads/mois)
+- ✅ Backend prêt (repo Back_Office GitHub)
+- ✅ Backoffice opérationnel
+- 🎯 **Objectif** : Sites → Tunnel Formulaire → Backend = Leads réels
+- 💰 **Impact attendu** : 0 → 10-15 leads/mois = 500-2 250€/mois
+
+**CETTE TÂCHE = ANALYSE (pas d'implémentation)** :
+- 📄 Analyser architecture Back_Office existante
+- 📄 Décider architecture : Sites → Backend direct OU Sites → API → Backend
+- 📄 Spec formulaire V1 (champs, validation, emails)
+- 📄 Plan implémentation V1 (breakdown 8-12 sous-tâches)
+- 📄 Vision V2 (photos + IA, haut niveau)
+
+**DÉCISIONS RECOMMANDÉES** :
+1. **Architecture** : Sites → API → Backend ⭐ (sécurité + scalabilité V2)
+2. **Hébergement API** : CapRover (VPS actuel, 0€)
+3. **Stack** : Express + Prisma + Zod + SendGrid
+4. **Timeline V1** : 2 semaines après analyse (qualité > vitesse)
+
+**LIVRABLES** (5 docs stratégiques) :
+- [ ] `ANALYSE-BACKEND.md` : Architecture Back_Office
+- [ ] `DECISION-ARCHITECTURE.md` : Choix technique justifié
+- [ ] `SPEC-V1-FORMULAIRE.md` : Spec formulaire + API complète
+- [ ] `PLAN-IMPLEMENTATION-V1.md` : Roadmap 8-12 sous-tâches
+- [ ] `VISION-V2-IA.md` : Spec V2 photos + IA
+
+**BLOQUEUR ACTUEL** :
+- ⏳ **Besoin accès repo Back_Office** (https://github.com/gdetaisne/Back_Office)
+- Guillaume : Donner accès OU fournir infos architecture backend
+
+**PROCHAINES TÂCHES (après TASK-085)** :
+- TASK-086 : Implémentation API Backend (3-4j)
+- TASK-087 : Formulaire Frontend 11 sites (2-3j)
+- TASK-088 : Intégration + Tests (1-2j)
+- TASK-089 : Deploy + Monitoring (1j)
+- **Total V1 prod** : 10-14 jours après analyse
+
+**TIMELINE CIBLE** :
+- **Analyse finie** : 22/11/2025 (J+4)
+- **V1 Production** : 02/12/2025 (J+14)
+- **Premiers leads** : 05/12/2025 (J+3 après prod)
+
+**PRIORITÉ P0 JUSTIFICATION** :
+- ✅ **Business impact direct** : 0 leads → 10-15 leads/mois
+- ✅ **Urgence** : Chaque jour sans formulaire = leads perdus
+- ✅ **Bloque tout** : Impossible améliorer conversion sans capture
+- ✅ **ROI immédiat** : V1 en 2 semaines = revenue J+7
+
+---
+
 ## 🔴 CRITIQUE URGENTE - Bug Multi-Sites
 
 ### [P0]-TASK-056-header-toulouse-hardcoded-complet : Correction Toulouse Hardcodé Headers + CtaPrimary ⚡️⚡️⚡️

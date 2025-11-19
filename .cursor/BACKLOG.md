@@ -14,6 +14,111 @@
 
 ---
 
+## 🔴 CRITIQUE URGENTE - Lead Generation & Tunnel Conversion
+
+### 🆕 [P0] [Temps: 3-4 jours] [Qui: Guillaume] TASK-085-inventaire-ia-v1-analyse-architecture : Analyse & Architecture Inventaire IA V1 - Tunnel Conversion
+
+📁 **Doc** : `.cursor/tasks/[P0]-TASK-085-inventaire-ia-v1-analyse-architecture/`
+
+**Type** : Architecture Critique / Lead Generation Core
+
+**Statut** : 📋 PENDING (Créée 18/11/2025)
+
+**Contexte Business CRITIQUE** :
+- 🚨 **CTA actuels ne génèrent PAS de leads**
+- ✅ Backend prêt (Back_Office repo)
+- ✅ Backoffice opérationnel
+- 🎯 **Objectif** : Sites → Tunnel → Backend (Leads réels)
+- 💰 **Impact** : 0 leads actuels → 10-15 leads/mois attendus
+
+**Problème Actuel** :
+- `/inventaire-ia/` = Page informative seulement
+- Aucun formulaire de capture
+- Aucune intégration backend
+- **→ 100% visiteurs perdus, 0% conversion**
+
+**Objectif de cette Tâche d'Analyse** :
+
+**Phase 1 : Analyse Backend Existant** (1 jour)
+- [ ] Cloner/analyser repo `Back_Office` (https://github.com/gdetaisne/Back_Office)
+- [ ] Documenter schéma DB (Prisma schema)
+- [ ] Identifier endpoints API existants
+- [ ] Comprendre flux données actuel
+- [ ] Documenter stack technique (Express? Prisma? Postgres?)
+
+**Phase 2 : Décision Architecture** (4h)
+- [ ] **Option A** : Sites → Backend direct (simple, rapide)
+  - Avantages : Setup rapide V1
+  - Inconvénients : Sécurité, évolutivité V2
+- [ ] **Option B** : Sites → API → Backend (recommandé)
+  - Avantages : Scalabilité, sécurité, multi-sites
+  - Inconvénients : Setup plus long (+1-2j)
+- [ ] Décision finale avec justification
+
+**Phase 3 : Spec Technique V1 (Formulaire Simple)** (4h)
+- [ ] Définir champs formulaire minimum viable
+  - Nom, Email, Téléphone, Ville
+  - Type déménagement (local/longue distance)
+  - Volume estimé (T1-T5 ou m³)
+  - Date souhaitée
+  - Infos complémentaires (textarea)
+- [ ] Flow utilisateur complet (mockup/wireframe)
+- [ ] Endpoints API nécessaires
+- [ ] Validation frontend + backend
+- [ ] Emails notifications (client + admin)
+
+**Phase 4 : Plan Implémentation V1** (2h)
+- [ ] Breakdown tâches (8-12 sous-tâches)
+- [ ] Estimation temps par tâche
+- [ ] Ordre exécution optimal
+- [ ] Tests prévus (local, staging, prod)
+- [ ] Rollout 11 villes (stratégie)
+
+**Phase 5 : Vision V2 (Photos + IA)** (2h)
+- [ ] Spec haut niveau V2
+- [ ] Upload photos (frontend)
+- [ ] Traitement IA (backend)
+- [ ] Estimation volume automatique
+- [ ] Validation humaine (backoffice)
+- [ ] Temps développement estimé V2
+
+**Livrables Attendus** :
+1. 📄 `ANALYSE-BACKEND.md` : Architecture Back_Office actuelle
+2. 📄 `DECISION-ARCHITECTURE.md` : Choix Sites→API→Backend justifié
+3. 📄 `SPEC-V1-FORMULAIRE.md` : Spec complète formulaire + API
+4. 📄 `PLAN-IMPLEMENTATION-V1.md` : Roadmap détaillée (~8-12 tâches)
+5. 📄 `VISION-V2-IA.md` : Spec V2 photos + IA (haut niveau)
+
+**Décisions Clés à Prendre** :
+1. **Architecture** : Direct backend OU API intermédiaire ? (Recommandation : API)
+2. **Hébergement API** : VPS CapRover OU Vercel Functions OU Railway ?
+3. **Validation** : Côté client (React Hook Form + Zod) OU serveur uniquement ?
+4. **Emails** : Transactionnel (SendGrid/Mailgun) OU SMTP simple ?
+5. **V1 Timeline** : Viser 1 semaine (rapide) OU 2 semaines (robuste) ?
+
+**Priorité P0 Justification** :
+- **Business impact** : Génération leads = revenus
+- **Urgence** : 0 leads actuels = pertes quotidiennes
+- **Dépendances** : Bloque toute amélioration conversion
+- **ROI immédiat** : V1 en 1-2 semaines = leads J+7
+
+**Prochaines Tâches (après analyse)** :
+- TASK-086 : Implémentation API Backend (3-4j)
+- TASK-087 : Formulaire Frontend 11 sites (2-3j)
+- TASK-088 : Intégration + Tests (1-2j)
+- TASK-089 : Deploy + Monitoring (1j)
+
+**Temps Total Estimé** :
+- Analyse (cette tâche) : 3-4 jours
+- Implémentation V1 : 7-10 jours
+- **Total V1 opérationnelle** : 10-14 jours
+
+**Assigné à** : Guillaume  
+**Créée le** : 18/11/2025  
+**Deadline souhaitée** : 22/11/2025 (fin analyse) → V1 prod 02/12/2025
+
+---
+
 ## 🔴 CRITIQUE URGENTE - Infrastructure & Bugs Multi-Sites
 
 ### ✅ [P0] [Temps: 3h] [Qui: Guillaume] [P0]-TASK-057-debug-caprover-restauration : Debug CapRover Post-Restauration Serveur - RÉSOLU

@@ -39,6 +39,7 @@ export default function RootLayout({
         <link rel="icon" type="image/png" sizes="192x192" href="/icons/android-chrome-192x192.png" />
         <link rel="icon" type="image/png" sizes="512x512" href="/icons/android-chrome-512x512.png" />
         <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png" />
+        
         <Script 
           async 
           src="https://plausible.io/js/pa-dkllRxPvwLXCFTjJ29RRI.js"
