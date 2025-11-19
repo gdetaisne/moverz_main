@@ -215,3 +215,4 @@ Cursor propose automatiquement les push après commit
 **Contexte validé par Guillaume** : 14/11/2025
 
 
+
