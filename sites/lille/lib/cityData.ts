@@ -187,9 +187,9 @@ export const cityData: Record<string, CityData> = {
       { slug: 'vauban', name: 'Vauban' }
     ],
     corridors: [
-      { slug: 'lille-vers-paris', destination: 'Paris' },
+      { slug: 'paris', destination: 'Paris' },
       { slug: 'lille-vers-bruxelles', destination: 'Bruxelles' },
-      { slug: 'lille-vers-lyon', destination: 'Lyon' },
+      { slug: 'lyon', destination: 'Lyon' },
       { slug: 'lille-vers-londres', destination: 'Londres' },
       { slug: 'lille-vers-gand', destination: 'Gand' }
     ]

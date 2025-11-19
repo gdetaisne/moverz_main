@@ -327,11 +327,11 @@ export const cityData: Record<string, CityData> = {
       { slug: 'port-marianne', name: 'Port-Marianne' }
     ],
     corridors: [
-      { slug: 'montpellier-vers-paris', destination: 'Paris' },
-      { slug: 'montpellier-vers-toulouse', destination: 'Toulouse' },
-      { slug: 'montpellier-vers-marseille', destination: 'Marseille' },
-      { slug: 'montpellier-vers-lyon', destination: 'Lyon' },
-      { slug: 'montpellier-vers-espagne', destination: 'Espagne' }
+      { slug: 'paris', destination: 'Paris' },
+      { slug: 'toulouse', destination: 'Toulouse' },
+      { slug: 'marseille', destination: 'Marseille' },
+      { slug: 'lyon', destination: 'Lyon' },
+      { slug: 'espagne', destination: 'Espagne' }
     ]
   }
 };

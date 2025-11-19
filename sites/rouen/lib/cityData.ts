@@ -271,7 +271,7 @@ export const cityData: Record<string, CityData> = {
       { slug: 'madrillet', name: 'Madrillet' }
     ],
     corridors: [
-      { slug: 'rouen-vers-paris', destination: 'Paris' },
+      { slug: 'paris', destination: 'Paris' },
       { slug: 'rouen-vers-le-havre', destination: 'Le Havre' },
       { slug: 'rouen-vers-caen', destination: 'Caen' },
       { slug: 'rouen-vers-amiens', destination: 'Amiens' },

@@ -159,10 +159,10 @@ export const cityData: Record<string, CityData> = {
       { slug: 'hauts-paves', name: 'Hauts-Pavés' }
     ],
     corridors: [
-      { slug: 'nantes-vers-paris', destination: 'Paris' },
+      { slug: 'paris', destination: 'Paris' },
       { slug: 'nantes-vers-bordeaux', destination: 'Bordeaux' },
       { slug: 'nantes-vers-rennes', destination: 'Rennes' },
-      { slug: 'nantes-vers-lyon', destination: 'Lyon' },
+      { slug: 'lyon', destination: 'Lyon' },
       { slug: 'nantes-vers-la-baule', destination: 'La Baule' }
     ]
   },

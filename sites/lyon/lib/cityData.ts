@@ -102,9 +102,9 @@ export const cityData: Record<string, CityData> = {
       { slug: 'confluence', name: 'Confluence' }
     ],
     corridors: [
-      { slug: 'lyon-vers-paris', destination: 'Paris' },
-      { slug: 'lyon-vers-marseille', destination: 'Marseille' },
-      { slug: 'lyon-vers-toulouse', destination: 'Toulouse' },
+      { slug: 'paris', destination: 'Paris' },
+      { slug: 'marseille', destination: 'Marseille' },
+      { slug: 'toulouse', destination: 'Toulouse' },
       { slug: 'lyon-vers-geneve', destination: 'Genève' },
       { slug: 'lyon-vers-grenoble', destination: 'Grenoble' }
     ]

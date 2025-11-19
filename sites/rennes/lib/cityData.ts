@@ -243,8 +243,8 @@ export const cityData: Record<string, CityData> = {
       { slug: 'cleunay', name: 'Cleunay' }
     ],
     corridors: [
-      { slug: 'rennes-vers-paris', destination: 'Paris' },
-      { slug: 'rennes-vers-nantes', destination: 'Nantes' },
+      { slug: 'paris', destination: 'Paris' },
+      { slug: 'nantes', destination: 'Nantes' },
       { slug: 'rennes-vers-brest', destination: 'Brest' },
       { slug: 'rennes-vers-saint-malo', destination: 'Saint-Malo' },
       { slug: 'rennes-vers-angers', destination: 'Angers' }

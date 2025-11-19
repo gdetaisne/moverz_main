@@ -299,8 +299,8 @@ export const cityData: Record<string, CityData> = {
       { slug: 'robertsau', name: 'Robertsau' }
     ],
     corridors: [
-      { slug: 'strasbourg-vers-paris', destination: 'Paris' },
-      { slug: 'strasbourg-vers-lyon', destination: 'Lyon' },
+      { slug: 'paris', destination: 'Paris' },
+      { slug: 'lyon', destination: 'Lyon' },
       { slug: 'strasbourg-vers-mulhouse', destination: 'Mulhouse' },
       { slug: 'strasbourg-vers-allemagne', destination: 'Allemagne' },
       { slug: 'strasbourg-vers-suisse', destination: 'Suisse' }

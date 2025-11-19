@@ -131,11 +131,11 @@ export const cityData: Record<string, CityData> = {
       { slug: 'pessac', name: 'Pessac' }
     ],
     corridors: [
-      { slug: 'bordeaux-vers-paris', destination: 'Paris' },
-      { slug: 'bordeaux-vers-toulouse', destination: 'Toulouse' },
-      { slug: 'bordeaux-vers-lyon', destination: 'Lyon' },
-      { slug: 'bordeaux-vers-nantes', destination: 'Nantes' },
-      { slug: 'bordeaux-vers-espagne', destination: 'Espagne' }
+      { slug: 'paris', destination: 'Paris' },
+      { slug: 'toulouse', destination: 'Toulouse' },
+      { slug: 'lyon', destination: 'Lyon' },
+      { slug: 'nantes', destination: 'Nantes' },
+      { slug: 'espagne', destination: 'Espagne' }
     ]
   },
   
