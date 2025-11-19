@@ -21,6 +21,7 @@ COPY . .
 ARG SITE_URL=https://www.bordeaux-demenageur.fr/
 ENV SITE_URL=${SITE_URL}
 ENV NEXT_TELEMETRY_DISABLED=1
+ENV NEXT_PUBLIC_API_URL=https://moverz-backoffice.gslv.cloud
 RUN npm run build
 
 # Production runtime
@@ -35,6 +36,7 @@ ENV NODE_ENV=production
 ENV PORT=3000
 ENV SITE_URL=${SITE_URL}
 ENV NEXT_TELEMETRY_DISABLED=1
+ENV NEXT_PUBLIC_API_URL=https://moverz-backoffice.gslv.cloud
 
 # Copy standalone server
 COPY --from=builder --chown=nextjs:nodejs /app/.next/standalone ./

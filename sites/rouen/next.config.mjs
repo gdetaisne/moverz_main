@@ -101,12 +101,6 @@ const nextConfig = {
       { source: '/rouen/bastide', destination: '/quartiers-rouen', permanent: true },
       { source: '/devis-demenagement-rouen-saint-marc/', destination: '/rouen/saint-marc', permanent: true },
       { source: '/devis-demenagement-rouen-coteaux-sud/', destination: '/rouen/coteaux-sud', permanent: true },
-
-      // PAGES LÉGALES : Trailing slash
-      { source: '/mentions-legales/', destination: '/mentions-legales', permanent: true },
-      { source: '/cgv/', destination: '/cgv', permanent: true },
-      { source: '/politique-confidentialite/', destination: '/politique-confidentialite', permanent: true },
-
       // ANCIENNES URLs
 
       // REDIRECTIONS inventaire-ia → devis-gratuits (20/01/2026)

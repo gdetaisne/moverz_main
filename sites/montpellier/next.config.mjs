@@ -193,12 +193,6 @@ const nextConfig = {
       { source: '/services/demenagement-economique-montpellier', destination: '/services/demenagement-economique-montpellier', permanent: true },
       { source: '/services/demenagement-standard-montpellier', destination: '/services/demenagement-standard-montpellier', permanent: true },
       { source: '/services/demenagement-premium-montpellier', destination: '/services/demenagement-premium-montpellier', permanent: true },
-
-      // PAGES LÉGALES : Trailing slash
-      { source: '/mentions-legales/', destination: '/mentions-legales', permanent: true },
-      { source: '/cgv/', destination: '/cgv', permanent: true },
-      { source: '/politique-confidentialite/', destination: '/politique-confidentialite', permanent: true },
-
       // ANCIENNES URLs
 
       // REDIRECTIONS inventaire-ia → devis-gratuits (20/01/2026)
@@ -228,4 +222,3 @@ const nextConfig = {
 };
 
 export default nextConfig;
-

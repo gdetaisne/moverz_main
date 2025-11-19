@@ -95,10 +95,6 @@ const nextConfig = {
       { source: '/blog/satellites/demenagement-forfait-horaire', destination: '/blog/satellites/demenagement-lille-forfait-horaire', permanent: true },
       { source: '/blog/satellites/cartons-gratuits-recuperer', destination: '/blog/satellites/cartons-gratuits-lille-recuperer', permanent: true },
 
-      // Pages légales avec trailing slash → sans trailing slash  
-      { source: '/mentions-legales/', destination: '/mentions-legales', permanent: true },
-      { source: '/cgv/', destination: '/cgv', permanent: true },
-      
       // Ancienne URL estimation
       { source: '/estimation-demenagement-lille/', destination: '/estimation-rapide', permanent: true },
 

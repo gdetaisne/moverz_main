@@ -98,12 +98,6 @@ const nextConfig = {
       { source: '/blog/demenageur-rennes', destination: '/blog/demenagement-rennes/demenageur-rennes', permanent: true },
       // LEADGEN-02: Redirections 404 prioritaires (Rennes - 06/11/2025)
       { source: '/blog/location-camion-rennes/location-camion-demenagement-rennes-guide', destination: '/blog/satellites/location-camion-demenagement-rennes-guide', permanent: true },
-
-      // PAGES LÉGALES : Trailing slash
-      { source: '/mentions-legales/', destination: '/mentions-legales', permanent: true },
-      { source: '/cgv/', destination: '/cgv', permanent: true },
-      { source: '/politique-confidentialite/', destination: '/politique-confidentialite', permanent: true },
-
       // ANCIENNES URLs
 
       // REDIRECTIONS inventaire-ia → devis-gratuits (20/01/2026)
