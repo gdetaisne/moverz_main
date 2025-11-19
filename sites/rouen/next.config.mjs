@@ -108,6 +108,11 @@ const nextConfig = {
       { source: '/politique-confidentialite/', destination: '/politique-confidentialite', permanent: true },
 
       // ANCIENNES URLs
+
+      // REDIRECTIONS inventaire-ia → devis-gratuits (20/01/2026)
+      { source: '/inventaire-ia', destination: '/devis-gratuits/', permanent: true },
+      { source: '/inventaire-ia/', destination: '/devis-gratuits/', permanent: true },
+      { source: '/inventaire-ia/:path*', destination: '/devis-gratuits/:path*', permanent: true },
       { source: '/estimation-demenagement-rouen/', destination: '/estimation-rapide', permanent: true },
       { source: '/prix-demenagement-rouen/', destination: '/blog/prix-demenagement-rouen/prix-demenagement-rouen-guide-complet', permanent: true },
       { source: '/devis-demenagement-rouen/', destination: '/estimation-rapide', permanent: true },
