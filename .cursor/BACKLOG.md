@@ -49,13 +49,13 @@
 
 ---
 
-### 🆕 [P1] [Temps: 3-4h] [Qui: Lucie] TASK-087-refonte-pages-trajets : Refonte Pages Trajets Spécifiques (nice-vers-*)
+### ✅ [P1] [Temps: 3-4h] [Qui: Lucie] TASK-087-refonte-pages-trajets : Refonte Pages Trajets Spécifiques (nice-vers-*)
 
 📁 **Doc** : `.cursor/tasks/[P1]-TASK-087-refonte-pages-trajets/`
 
 **Type** : SEO / Design
 
-**Statut** : 📋 À DÉMARRER
+**Statut** : ✅ FINALISÉE (2025-11-19)
 
 **Contexte** :
 - 6 pages trajets par ville (ex: `nice-vers-paris`, `nice-vers-lyon`, etc.)
