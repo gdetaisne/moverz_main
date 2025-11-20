@@ -204,9 +204,9 @@ function Stepper({
             const isClickable = isCompleted || isCurrent;
             
             return (
-              <button
+            <button
                 key={step.number}
-                type="button"
+              type="button"
                 onClick={() => isClickable && onStepClick(step.number)}
                 disabled={!isClickable}
                 className={`flex flex-col items-center group ${isClickable ? 'cursor-pointer' : 'cursor-not-allowed'}`}
@@ -229,12 +229,12 @@ function Stepper({
                 <span className={`mt-3 text-xs font-semibold transition-colors ${
                   isCurrent ? 'text-[#6BCFCF]' : isCompleted ? 'text-[#04163a]' : 'text-[#4b5c6b]'
                 }`}>
-                  {step.label}
-                </span>
+              {step.label}
+            </span>
               </button>
             );
           })}
-        </div>
+          </div>
       </div>
     </div>
   );
@@ -781,13 +781,10 @@ export default function InventaireIAPage() {
   };
 
   return (
-    <div className="min-h-screen bg-hero py-12">
-      {/* Halo effect comme sur la home */}
-      <div className="glow absolute top-0 right-0 w-96 h-96 pointer-events-none" />
-      
-      <div className="container max-w-4xl mx-auto px-4 relative z-10">
-        {/* Card avec glassmorphism */}
-        <div className="card-glass rounded-3xl p-8 shadow-2xl">
+    <div className="min-h-screen bg-gradient-to-b from-[#F8F9FA] to-white py-12">
+      <div className="container max-w-4xl mx-auto px-4">
+        {/* Card Stripe-like */}
+        <div className="bg-white rounded-3xl p-8 md:p-12 shadow-[0_8px_30px_rgba(0,0,0,0.12)] border border-[#E3E5E8]">
           {/* Bouton Recommencer (si session en cours) */}
           {formState.leadId && (
             <div className="flex justify-end mb-4">
@@ -798,17 +795,17 @@ export default function InventaireIAPage() {
                     window.location.reload();
                   }
                 }}
-                className="text-xs text-white/50 hover:text-white/80 underline"
+                className="text-xs text-[#4b5c6b] hover:text-[#6BCFCF] underline transition-colors"
               >
                 🔄 Recommencer
               </button>
             </div>
           )}
           
-          <h1 className="text-3xl md:text-4xl font-bold text-center mb-2 text-white">
+          <h1 className="text-3xl md:text-4xl font-bold text-center mb-2 text-[#04163a]">
             Demande de Devis Déménagement
           </h1>
-          <p className="text-center text-white/80 mb-8 text-lg">
+          <p className="text-center text-[#4b5c6b] mb-8 text-lg">
             Obtenez 3 à 6 devis personnalisés sous 24h
           </p>
 
@@ -821,7 +818,7 @@ export default function InventaireIAPage() {
           {/* ÉTAPE 1 : Contact */}
           {formState.currentStep === 1 && (
             <div>
-              <h2 className="text-2xl font-bold mb-6 text-white">Comment souhaitez-vous être contacté ?</h2>
+              <h2 className="text-2xl font-bold mb-6 text-[#04163a]">Comment souhaitez-vous être contacté ?</h2>
               
               <Input
                 label="Nom que vous souhaitez que nous utilisions"
@@ -847,7 +844,7 @@ export default function InventaireIAPage() {
               <button
                 onClick={handleNext}
                 disabled={!formState.contactName || !formState.email || isSaving}
-                className="w-full bg-blue-600 text-white py-3 rounded-lg font-medium hover:bg-blue-700 disabled:bg-gray-300 disabled:cursor-not-allowed transition flex items-center justify-center gap-2"
+                className="w-full bg-gradient-to-r from-[#6BCFCF] to-[#4FB8B8] text-[#04141f] py-3.5 rounded-xl font-semibold hover:shadow-[0_4px_14px_rgba(107,207,207,0.39)] disabled:opacity-50 disabled:cursor-not-allowed transition-all duration-300 flex items-center justify-center gap-2"
               >
                 {isSaving ? (
                   <>
@@ -863,14 +860,14 @@ export default function InventaireIAPage() {
           {/* ÉTAPE 2 : Projet */}
           {formState.currentStep === 2 && (
             <div>
-              <h2 className="text-2xl font-bold mb-6 text-white">Parlez-nous de votre déménagement</h2>
+              <h2 className="text-2xl font-bold mb-6 text-[#04163a]">Parlez-nous de votre déménagement</h2>
 
               {/* 2 COLONNES : Adresse actuelle et Nouvelle adresse */}
               <div className="grid md:grid-cols-2 gap-6 mb-8">
                 
                 {/* BLOC 1 : Adresse actuelle */}
-                <div className="p-6 bg-white/5 rounded-xl border border-white/10">
-                  <h3 className="font-bold mb-4 text-white text-lg">📦 Adresse actuelle</h3>
+                <div className="p-6 bg-[#F8F9FA] rounded-2xl border border-[#E3E5E8]">
+                  <h3 className="font-bold mb-4 text-[#04163a] text-lg">📦 Adresse actuelle</h3>
                   
                   <AddressInput
                     label="Code postal + Ville"
@@ -970,8 +967,8 @@ export default function InventaireIAPage() {
                 </div>
 
                 {/* BLOC 2 : Nouvelle adresse */}
-                <div className="p-6 bg-white/5 rounded-xl border border-white/10">
-                  <h3 className="font-bold mb-4 text-white text-lg">🏠 Nouvelle adresse</h3>
+                <div className="p-6 bg-[#F8F9FA] rounded-2xl border border-[#E3E5E8]">
+                  <h3 className="font-bold mb-4 text-[#04163a] text-lg">🏠 Nouvelle adresse</h3>
                   
                   <AddressInput
                     label="Code postal + Ville"
@@ -1072,14 +1069,14 @@ export default function InventaireIAPage() {
               </div>
 
               {/* BLOC 3 : Date de déménagement (pleine largeur) */}
-              <div className="mb-8 p-6 bg-white/5 rounded-xl border border-white/10">
-                <h3 className="font-bold mb-4 text-white text-lg">📅 Date de déménagement</h3>
+              <div className="mb-8 p-6 bg-[#F8F9FA] rounded-2xl border border-[#E3E5E8]">
+                <h3 className="font-bold mb-4 text-[#04163a] text-lg">📅 Date de déménagement</h3>
                 
                 <div className="mb-4">
-                  <label className="block text-sm font-medium mb-2 text-white">
-                    Date souhaitée <span className="text-brand-secondary ml-1">*</span>
+                  <label className="block text-sm font-semibold mb-2 text-[#04163a]">
+                    Date souhaitée <span className="text-[#6BCFCF] ml-1">*</span>
                   </label>
-                  <p className="text-xs text-white/60 mb-2">
+                  <p className="text-xs text-[#4b5c6b] mb-2">
                     Cliquez sur une date (ou sélectionnez une plage en cliquant sur 2 dates)
                   </p>
                   <DatePicker
@@ -1104,17 +1101,17 @@ export default function InventaireIAPage() {
                     minDate={new Date()}
                     dateFormat="dd/MM/yyyy"
                     placeholderText="Sélectionnez une date ou une plage"
-                    className="w-full px-4 py-3 bg-white/10 border border-white/20 rounded-lg focus:outline-none focus:ring-2 focus:ring-brand-secondary text-white placeholder-white/50"
-                    calendarClassName="bg-white rounded-lg shadow-xl"
+                    className="w-full px-4 py-3 bg-white border border-[#E3E5E8] rounded-xl text-[#04163a] placeholder-[#4b5c6b]/50 focus:outline-none focus:border-[#6BCFCF] focus:ring-4 focus:ring-[#6BCFCF]/10 transition-all duration-200"
+                    calendarClassName="bg-white rounded-2xl shadow-[0_8px_30px_rgba(0,0,0,0.12)]"
                     inline={false}
                   />
                   {formState.movingDate && formState.movingDateEnd && (
-                    <p className="mt-2 text-sm text-white/70">
+                    <p className="mt-2 text-sm text-[#4b5c6b]">
                       📅 Plage sélectionnée : du {new Date(formState.movingDate).toLocaleDateString('fr-FR')} au {new Date(formState.movingDateEnd).toLocaleDateString('fr-FR')}
                     </p>
                   )}
                   {formState.movingDate && !formState.movingDateEnd && (
-                    <p className="mt-2 text-sm text-white/70">
+                    <p className="mt-2 text-sm text-[#4b5c6b]">
                       📅 Date fixe : {new Date(formState.movingDate).toLocaleDateString('fr-FR')}
                     </p>
                   )}
@@ -1124,14 +1121,14 @@ export default function InventaireIAPage() {
               <div className="flex gap-4">
                 <button
                   onClick={() => goToStep(1)}
-                  className="flex-1 bg-gray-200 text-gray-700 py-3 rounded-lg font-medium hover:bg-gray-300 transition"
+                  className="flex-1 bg-white border-2 border-[#E3E5E8] text-[#04163a] py-3 rounded-xl font-medium hover:border-[#6BCFCF] hover:text-[#6BCFCF] transition-all duration-300"
                 >
                   ← Retour
                 </button>
                 <button
                   onClick={handleNext}
                   disabled={!formState.originAddress || !formState.movingDate}
-                  className="flex-1 bg-blue-600 text-white py-3 rounded-lg font-medium hover:bg-blue-700 disabled:bg-gray-300 disabled:cursor-not-allowed transition"
+                  className="flex-1 bg-gradient-to-r from-[#6BCFCF] to-[#4FB8B8] text-[#04141f] py-3.5 rounded-xl font-semibold hover:shadow-[0_4px_14px_rgba(107,207,207,0.39)] disabled:opacity-50 disabled:cursor-not-allowed transition-all duration-300"
                 >
                   Suivant →
                 </button>
@@ -1142,25 +1139,25 @@ export default function InventaireIAPage() {
           {/* ÉTAPE 3 : Volume & Services */}
           {formState.currentStep === 3 && (
             <div>
-              <h2 className="text-2xl font-bold mb-6 text-white">Volume et Services</h2>
+              <h2 className="text-2xl font-bold mb-6 text-[#04163a]">Volume et Services</h2>
 
               <div className="mb-6">
-                <h3 className="font-bold mb-4 text-white">📦 Estimation du volume → Superficie</h3>
+                <h3 className="font-bold mb-4 text-[#04163a]">📦 Estimation du volume → Superficie</h3>
                 
                 {/* Type de logement sélectionné */}
-                <p className="text-white/80 mb-4">
+                <p className="text-[#4b5c6b] mb-4">
                   Superficie moyenne d'un{' '}
-                  <span className="font-bold text-white">
+                  <span className="font-bold text-[#04163a]">
                     {getHousingLabel(formState.originHousingType)}
                   </span>
                   {' '}:{' '}
-                  <span className="font-bold text-brand-secondary">
+                  <span className="font-bold text-[#6BCFCF]">
                     {getHousingSurfaceLabel(formState.originHousingType)}
                   </span>
                   {' '}
                   <button 
                     onClick={() => goToStep(2)} 
-                    className="text-sm text-brand-secondary hover:underline"
+                    className="text-sm text-[#6BCFCF] hover:underline"
                   >
                     (modifier le type)
                   </button>
@@ -1176,131 +1173,97 @@ export default function InventaireIAPage() {
                 />
 
                 <div className="mt-4">
-                  <label className="block text-sm font-medium mb-3 text-white">
+                  <label className="block text-sm font-semibold mb-3 text-[#04163a]">
                     Comment décririez-vous votre logement ?
                   </label>
                   <div className="grid grid-cols-3 gap-4">
                     <button
                       type="button"
                       onClick={() => updateField('density', 'light')}
-                      className={`p-4 border-2 rounded-xl text-center transition ${
+                      className={`p-6 border-2 rounded-2xl text-center transition-all duration-300 ${
                         formState.density === 'light'
-                          ? 'border-brand-secondary bg-white/20'
-                          : 'border-white/20 bg-white/10 hover:border-white/40'
+                          ? 'border-[#6BCFCF] bg-[#6BCFCF]/5 shadow-lg'
+                          : 'border-[#E3E5E8] bg-white hover:border-[#6BCFCF]/50'
                       }`}
                     >
-                      <div className="flex justify-center mb-3">
-                        <svg width="80" height="80" viewBox="0 0 100 100" className="mx-auto">
-                          {/* Pièce vide/sobre */}
-                          <rect x="10" y="10" width="80" height="80" fill="none" stroke="currentColor" strokeWidth="2" className="text-white/60" rx="4"/>
-                          {/* Canapé */}
-                          <rect x="20" y="65" width="25" height="15" fill="currentColor" className="text-white/50" rx="2"/>
-                          {/* Table basse */}
-                          <rect x="50" y="68" width="15" height="10" fill="currentColor" className="text-white/50" rx="1"/>
-                          {/* Lit */}
-                          <rect x="65" y="20" width="20" height="25" fill="currentColor" className="text-white/50" rx="2"/>
+                      <div className="w-16 h-16 mx-auto mb-4 rounded-2xl bg-[#F8F9FA] flex items-center justify-center">
+                        <svg className="w-8 h-8 text-[#6BCFCF]" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M3 12h18M3 6h18M3 18h18" />
                         </svg>
                       </div>
-                      <div className="font-bold text-white">Sobre</div>
-                      <div className="text-xs text-white/70 mt-1">Peu meublé • -10%</div>
+                      <div className="font-bold text-[#04163a] text-lg mb-1">Sobre</div>
+                      <div className="text-sm text-[#4b5c6b] mb-3">Peu meublé</div>
+                      <div className="inline-flex items-center px-3 py-1 rounded-full bg-green-100 text-green-700 text-xs font-semibold">
+                        -10% volume
+                      </div>
                     </button>
                     <button
                       type="button"
                       onClick={() => updateField('density', 'normal')}
-                      className={`p-4 border-2 rounded-xl text-center transition ${
+                      className={`p-6 border-2 rounded-2xl text-center transition-all duration-300 ${
                         formState.density === 'normal'
-                          ? 'border-brand-secondary bg-white/20'
-                          : 'border-white/20 bg-white/10 hover:border-white/40'
+                          ? 'border-[#6BCFCF] bg-[#6BCFCF]/5 shadow-lg'
+                          : 'border-[#E3E5E8] bg-white hover:border-[#6BCFCF]/50'
                       }`}
                     >
-                      <div className="flex justify-center mb-3">
-                        <svg width="80" height="80" viewBox="0 0 100 100" className="mx-auto">
-                          {/* Pièce normale */}
-                          <rect x="10" y="10" width="80" height="80" fill="none" stroke="currentColor" strokeWidth="2" className="text-white/70" rx="4"/>
-                          {/* Canapé */}
-                          <rect x="15" y="60" width="30" height="18" fill="currentColor" className="text-white/60" rx="2"/>
-                          {/* Table basse */}
-                          <rect x="50" y="65" width="18" height="12" fill="currentColor" className="text-white/60" rx="1"/>
-                          {/* Lit */}
-                          <rect x="65" y="15" width="22" height="28" fill="currentColor" className="text-white/60" rx="2"/>
-                          {/* Armoire */}
-                          <rect x="15" y="15" width="15" height="25" fill="currentColor" className="text-white/60" rx="1"/>
-                          {/* Table à manger */}
-                          <rect x="40" y="20" width="18" height="18" fill="currentColor" className="text-white/60" rx="1"/>
-                          {/* Chaises (petits carrés) */}
-                          <rect x="37" y="18" width="5" height="5" fill="currentColor" className="text-white/60"/>
-                          <rect x="61" y="18" width="5" height="5" fill="currentColor" className="text-white/60"/>
+                      <div className="w-16 h-16 mx-auto mb-4 rounded-2xl bg-[#F8F9FA] flex items-center justify-center">
+                        <svg className="w-8 h-8 text-[#6BCFCF]" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M4 5a1 1 0 011-1h4a1 1 0 011 1v7a1 1 0 01-1 1H5a1 1 0 01-1-1V5zM14 5a1 1 0 011-1h4a1 1 0 011 1v7a1 1 0 01-1 1h-4a1 1 0 01-1-1V5zM4 16a1 1 0 011-1h4a1 1 0 011 1v3a1 1 0 01-1 1H5a1 1 0 01-1-1v-3zM14 16a1 1 0 011-1h4a1 1 0 011 1v3a1 1 0 01-1 1h-4a1 1 0 01-1-1v-3z" />
                         </svg>
                       </div>
-                      <div className="font-bold text-white">Normal</div>
-                      <div className="text-xs text-white/70 mt-1">Bien meublé • Standard</div>
+                      <div className="font-bold text-[#04163a] text-lg mb-1">Normal</div>
+                      <div className="text-sm text-[#4b5c6b] mb-3">Bien meublé</div>
+                      <div className="inline-flex items-center px-3 py-1 rounded-full bg-blue-100 text-blue-700 text-xs font-semibold">
+                        Standard
+                      </div>
                     </button>
                     <button
                       type="button"
                       onClick={() => updateField('density', 'dense')}
-                      className={`p-4 border-2 rounded-xl text-center transition ${
+                      className={`p-6 border-2 rounded-2xl text-center transition-all duration-300 ${
                         formState.density === 'dense'
-                          ? 'border-brand-secondary bg-white/20'
-                          : 'border-white/20 bg-white/10 hover:border-white/40'
+                          ? 'border-[#6BCFCF] bg-[#6BCFCF]/5 shadow-lg'
+                          : 'border-[#E3E5E8] bg-white hover:border-[#6BCFCF]/50'
                       }`}
                     >
-                      <div className="flex justify-center mb-3">
-                        <svg width="80" height="80" viewBox="0 0 100 100" className="mx-auto">
-                          {/* Pièce dense */}
-                          <rect x="10" y="10" width="80" height="80" fill="none" stroke="currentColor" strokeWidth="2" className="text-white/80" rx="4"/>
-                          {/* Canapé d'angle */}
-                          <rect x="12" y="55" width="35" height="20" fill="currentColor" className="text-white/70" rx="2"/>
-                          <rect x="12" y="55" width="20" height="33" fill="currentColor" className="text-white/70" rx="2"/>
-                          {/* Table basse */}
-                          <rect x="50" y="62" width="20" height="15" fill="currentColor" className="text-white/70" rx="1"/>
-                          {/* Lit */}
-                          <rect x="65" y="12" width="23" height="30" fill="currentColor" className="text-white/70" rx="2"/>
-                          {/* Armoire 1 */}
-                          <rect x="12" y="12" width="18" height="28" fill="currentColor" className="text-white/70" rx="1"/>
-                          {/* Armoire 2 */}
-                          <rect x="33" y="12" width="15" height="25" fill="currentColor" className="text-white/70" rx="1"/>
-                          {/* Table à manger */}
-                          <rect x="50" y="14" width="12" height="25" fill="currentColor" className="text-white/70" rx="1"/>
-                          {/* Chaises */}
-                          <rect x="47" y="12" width="4" height="4" fill="currentColor" className="text-white/70"/>
-                          <rect x="47" y="40" width="4" height="4" fill="currentColor" className="text-white/70"/>
-                          <rect x="63" y="12" width="4" height="4" fill="currentColor" className="text-white/70"/>
-                          <rect x="63" y="40" width="4" height="4" fill="currentColor" className="text-white/70"/>
-                          {/* Étagères/rangements */}
-                          <rect x="73" y="45" width="15" height="8" fill="currentColor" className="text-white/70" rx="1"/>
-                          <rect x="73" y="56" width="15" height="8" fill="currentColor" className="text-white/70" rx="1"/>
+                      <div className="w-16 h-16 mx-auto mb-4 rounded-2xl bg-[#F8F9FA] flex items-center justify-center">
+                        <svg className="w-8 h-8 text-[#6BCFCF]" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M4 5a1 1 0 011-1h4a1 1 0 011 1v7a1 1 0 01-1 1H5a1 1 0 01-1-1V5zM14 5a1 1 0 011-1h4a1 1 0 011 1v7a1 1 0 01-1 1h-4a1 1 0 01-1-1V5zM4 16a1 1 0 011-1h4a1 1 0 011 1v3a1 1 0 01-1 1H5a1 1 0 01-1-1v-3zM14 16a1 1 0 011-1h4a1 1 0 011 1v3a1 1 0 01-1 1h-4a1 1 0 01-1-1v-3zM9 9a1 1 0 011-1h4a1 1 0 011 1v11a1 1 0 01-1 1h-4a1 1 0 01-1-1V9z" />
                         </svg>
                       </div>
-                      <div className="font-bold text-white">Dense</div>
-                      <div className="text-xs text-white/70 mt-1">Très meublé • +10%</div>
+                      <div className="font-bold text-[#04163a] text-lg mb-1">Dense</div>
+                      <div className="text-sm text-[#4b5c6b] mb-3">Très meublé</div>
+                      <div className="inline-flex items-center px-3 py-1 rounded-full bg-orange-100 text-orange-700 text-xs font-semibold">
+                        +10% volume
+                      </div>
                     </button>
         </div>
       </div>
               </div>
 
               <div className="mb-6">
-                <h3 className="font-bold mb-4 text-white">🎯 Choisissez votre formule <span className="text-brand-secondary">*</span></h3>
+                <h3 className="font-bold mb-4 text-[#04163a]">🎯 Choisissez votre formule <span className="text-[#6BCFCF]">*</span></h3>
                 
                 {pricing && (
-                  <p className="text-white/80 mb-4">
+                  <p className="text-[#4b5c6b] mb-4">
                     Volume moyen pour un{' '}
-                    <span className="font-bold text-white">
+                    <span className="font-bold text-[#04163a]">
                       {getHousingLabel(formState.originHousingType)}
                     </span>
                     {' '}de{' '}
-                    <span className="font-bold text-white">{formState.surfaceM2} m²</span>
+                    <span className="font-bold text-[#04163a]">{formState.surfaceM2} m²</span>
                     {' '}
-                    <span className="font-bold text-white">
+                    <span className="font-bold text-[#04163a]">
                       {formState.density === 'light' ? 'sobre' : 
                        formState.density === 'normal' ? 'normalement meublé' : 
                        'densément meublé'}
                     </span>
                     {' '}:{' '}
-                    <span className="font-bold text-brand-secondary text-xl">{pricing.volumeM3} m³</span>
+                    <span className="font-bold text-[#6BCFCF] text-xl">{pricing.volumeM3} m³</span>
                   </p>
                 )}
                 
-                <p className="text-sm text-white/70 mb-4">Sélectionnez la formule qui correspond le mieux à vos besoins</p>
+                <p className="text-sm text-[#4b5c6b] mb-4">Sélectionnez la formule qui correspond le mieux à vos besoins</p>
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
                   {pricing && (
                     <>
@@ -1367,14 +1330,14 @@ export default function InventaireIAPage() {
               <div className="flex gap-4">
                 <button
                   onClick={() => goToStep(2)}
-                  className="flex-1 bg-gray-200 text-gray-700 py-3 rounded-lg font-medium hover:bg-gray-300 transition"
+                  className="flex-1 bg-white border-2 border-[#E3E5E8] text-[#04163a] py-3 rounded-xl font-medium hover:border-[#6BCFCF] hover:text-[#6BCFCF] transition-all duration-300"
                 >
                   ← Retour
                 </button>
                 <button
                   onClick={handleNext}
                   disabled={!pricing}
-                  className="flex-1 bg-blue-600 text-white py-3 rounded-lg font-medium hover:bg-blue-700 disabled:bg-gray-300 disabled:cursor-not-allowed transition"
+                  className="flex-1 bg-gradient-to-r from-[#6BCFCF] to-[#4FB8B8] text-[#04141f] py-3.5 rounded-xl font-semibold hover:shadow-[0_4px_14px_rgba(107,207,207,0.39)] disabled:opacity-50 disabled:cursor-not-allowed transition-all duration-300"
                 >
                   Suivant →
                 </button>
@@ -1385,17 +1348,17 @@ export default function InventaireIAPage() {
           {/* ÉTAPE 4 : Récapitulatif */}
           {formState.currentStep === 4 && (
             <div>
-              <h2 className="text-3xl font-bold mb-4 text-center text-white">
+              <h2 className="text-3xl font-bold mb-4 text-center text-[#04163a]">
                 🎉 Bravo ! Nous avons toutes les informations
               </h2>
-              <p className="text-center text-white/80 mb-8 text-lg">
+              <p className="text-center text-[#4b5c6b] mb-8 text-lg">
                 Nous avons tout ce qu'il faut pour demander vos devis personnalisés
               </p>
 
               {/* Vérification email */}
-              <div className="mb-8 p-6 bg-white/10 border border-white/20 rounded-xl">
-                <h3 className="font-bold mb-3 text-white">📧 Vérifiez votre email</h3>
-                <p className="text-sm text-white/70 mb-3">
+              <div className="mb-8 p-6 bg-[#F8F9FA] border border-[#E3E5E8] rounded-2xl">
+                <h3 className="font-bold mb-3 text-[#04163a]">📧 Vérifiez votre email</h3>
+                <p className="text-sm text-[#4b5c6b] mb-3">
                   Assurez-vous que votre adresse est correcte pour ne pas perdre contact :
                 </p>
                 <Input
@@ -1408,39 +1371,39 @@ export default function InventaireIAPage() {
               </div>
 
               {/* Récapitulatif */}
-              <div className="mb-8 p-6 bg-white/10 border border-white/20 rounded-xl">
-                <h3 className="font-bold mb-4 text-white flex items-center justify-between">
+              <div className="mb-8 p-6 bg-[#F8F9FA] border border-[#E3E5E8] rounded-2xl">
+                <h3 className="font-bold mb-4 text-[#04163a] flex items-center justify-between">
                   📋 Récapitulatif de votre demande
                   <button 
                     onClick={() => goToStep(2)} 
-                    className="text-sm text-brand-secondary hover:underline font-normal"
+                    className="text-sm text-[#6BCFCF] hover:underline font-normal"
                   >
                     Modifier
                   </button>
                 </h3>
-                <p className="text-white/90 text-base leading-relaxed">
-                  Vous déménagez un <span className="font-bold text-white">{formState.housingType.toUpperCase()} de {formState.surfaceM2} m²</span> ({formState.density === 'light' ? 'sobre' : formState.density === 'normal' ? 'normalement meublé' : 'densément meublé'})
-                  {' '}de <span className="font-bold text-white">{formState.originAddress || '[Point de départ]'}</span>
-                  {' '}à <span className="font-bold text-white">{formState.destinationAddress || '[Point d\'arrivée]'}</span>
+                <p className="text-[#04163a] text-base leading-relaxed">
+                  Vous déménagez un <span className="font-bold">{formState.housingType.toUpperCase()} de {formState.surfaceM2} m²</span> ({formState.density === 'light' ? 'sobre' : formState.density === 'normal' ? 'normalement meublé' : 'densément meublé'})
+                  {' '}de <span className="font-bold">{formState.originAddress || '[Point de départ]'}</span>
+                  {' '}à <span className="font-bold">{formState.destinationAddress || '[Point d\'arrivée]'}</span>
                   {formState.movingDate && (
                     <>
-                      {' '}le <span className="font-bold text-white">{new Date(formState.movingDate).toLocaleDateString('fr-FR')}</span>
+                      {' '}le <span className="font-bold">{new Date(formState.movingDate).toLocaleDateString('fr-FR')}</span>
                       {formState.dateFlexible && formState.movingDateEnd && (
-                        <> au <span className="font-bold text-white">{new Date(formState.movingDateEnd).toLocaleDateString('fr-FR')}</span></>
+                        <> au <span className="font-bold">{new Date(formState.movingDateEnd).toLocaleDateString('fr-FR')}</span></>
                       )}
                     </>
                   )}.
                 </p>
-                <div className="mt-4 pt-4 border-t border-white/20">
-                  <p className="text-white/90">
-                    Vous souhaitez un accompagnement <span className="font-bold text-brand-secondary">{formState.formule}</span>
+                <div className="mt-4 pt-4 border-t border-[#E3E5E8]">
+                  <p className="text-[#04163a]">
+                    Vous souhaitez un accompagnement <span className="font-bold text-[#6BCFCF]">{formState.formule}</span>
                   </p>
                 </div>
               </div>
 
               {/* Ce qui va se passer */}
-              <div className="mb-8 p-6 bg-gradient-to-br from-blue-500/10 to-purple-500/10 border border-brand-secondary/30 rounded-xl">
-                <h3 className="text-xl font-bold mb-6 text-white flex items-center gap-2">
+              <div className="mb-8 p-6 bg-gradient-to-br from-[#6BCFCF]/5 to-[#4FB8B8]/5 border border-[#6BCFCF]/20 rounded-2xl">
+                <h3 className="text-xl font-bold mb-6 text-[#04163a] flex items-center gap-2">
                   🚀 Voici ce qui va se passer maintenant
                 </h3>
                 <ol className="space-y-5">
@@ -1467,35 +1430,43 @@ export default function InventaireIAPage() {
                     },
                   ].map((step) => (
                     <li key={step.num} className="flex items-start gap-4">
-                      <div className="flex-shrink-0 w-10 h-10 bg-brand-secondary text-white rounded-full flex items-center justify-center font-bold text-lg">
+                      <div className="flex-shrink-0 w-10 h-10 bg-[#6BCFCF] text-white rounded-full flex items-center justify-center font-bold text-lg">
                         {step.num}
                       </div>
                       <div>
-                        <h4 className="font-bold text-white mb-1">{step.title}</h4>
-                        <p className="text-sm text-white/80">{step.desc}</p>
+                        <h4 className="font-bold text-[#04163a] mb-1">{step.title}</h4>
+                        <p className="text-sm text-[#4b5c6b]">{step.desc}</p>
                       </div>
                     </li>
                   ))}
                 </ol>
 
                 {/* Garanties */}
-                <div className="mt-6 pt-6 border-t border-white/20">
-                  <h4 className="font-bold mb-3 text-white">✅ Nos garanties</h4>
-                  <div className="grid grid-cols-2 gap-3 text-sm text-white/90">
+                <div className="mt-6 pt-6 border-t border-[#6BCFCF]/20">
+                  <h4 className="font-bold mb-3 text-[#04163a]">✅ Nos garanties</h4>
+                  <div className="grid grid-cols-2 gap-3 text-sm text-[#04163a]">
                     <div className="flex items-center gap-2">
-                      <span className="text-green-400">✓</span>
+                      <svg className="w-5 h-5 text-[#6BCFCF]" fill="currentColor" viewBox="0 0 20 20">
+                        <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
+                      </svg>
                       100% gratuit, sans engagement
                     </div>
                     <div className="flex items-center gap-2">
-                      <span className="text-green-400">✓</span>
+                      <svg className="w-5 h-5 text-[#6BCFCF]" fill="currentColor" viewBox="0 0 20 20">
+                        <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
+                      </svg>
                       Déménageurs vérifiés
                     </div>
                     <div className="flex items-center gap-2">
-                      <span className="text-green-400">✓</span>
+                      <svg className="w-5 h-5 text-[#6BCFCF]" fill="currentColor" viewBox="0 0 20 20">
+                        <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
+                      </svg>
                       Aucun harcèlement
                     </div>
                     <div className="flex items-center gap-2">
-                      <span className="text-green-400">✓</span>
+                      <svg className="w-5 h-5 text-[#6BCFCF]" fill="currentColor" viewBox="0 0 20 20">
+                        <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
+                      </svg>
                       Données confidentielles (RGPD)
                     </div>
                   </div>
@@ -1506,14 +1477,14 @@ export default function InventaireIAPage() {
               <div className="flex gap-4">
                 <button
                   onClick={() => goToStep(3)}
-                  className="flex-1 bg-white/10 border border-white/20 text-white py-3 rounded-lg font-medium hover:bg-white/20 transition"
+                  className="flex-1 bg-white border-2 border-[#E3E5E8] text-[#04163a] py-3 rounded-xl font-medium hover:border-[#6BCFCF] hover:text-[#6BCFCF] transition-all duration-300"
                 >
                   ← Retour
                 </button>
                 <button
                   onClick={handleSubmit}
                   disabled={isSaving}
-                  className="flex-1 bg-green-600 text-white py-4 rounded-lg font-bold text-lg hover:bg-green-700 transition flex items-center justify-center gap-2 disabled:bg-gray-400 disabled:cursor-not-allowed shadow-lg"
+                  className="flex-1 bg-gradient-to-r from-[#6BCFCF] to-[#4FB8B8] text-[#04141f] py-4 rounded-xl font-bold text-lg hover:shadow-[0_8px_30px_rgba(107,207,207,0.39)] transition-all duration-300 flex items-center justify-center gap-2 disabled:opacity-50 disabled:cursor-not-allowed"
                 >
                   {isSaving ? (
                     <>
