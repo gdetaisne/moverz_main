@@ -136,7 +136,7 @@ function AddressInput({
         placeholder={placeholder}
         required={required}
         disabled={disabled}
-        className="w-full px-4 py-3 bg-white border border-[#E3E5E8] rounded-xl text-[#04163a] placeholder-[#4b5c6b]/50 focus:outline-none focus:border-[#6BCFCF] focus:ring-4 focus:ring-[#6BCFCF]/10 disabled:opacity-50 disabled:cursor-not-allowed disabled:bg-[#F8F9FA] transition-all duration-200"
+        className="w-full px-4 py-3.5 bg-white border-2 border-[#E3E5E8] rounded-xl text-[#04163a] placeholder-[#4b5c6b]/50 focus:outline-none focus:border-[#6BCFCF] focus:shadow-[0_0_0_4px_rgba(107,207,207,0.1),0_4px_20px_rgba(107,207,207,0.15)] disabled:opacity-50 disabled:cursor-not-allowed disabled:bg-[#F8F9FA] transition-all duration-300"
         autoComplete="off"
       />
       
@@ -187,12 +187,12 @@ function Stepper({
   ];
 
   return (
-    <div className="mb-12">
-      {/* Progress bar */}
+    <div className="mb-16">
+      {/* Progress bar avec glow */}
       <div className="relative">
-        <div className="absolute top-5 left-0 right-0 h-0.5 bg-[#E3E5E8]" />
+        <div className="absolute top-5 left-0 right-0 h-1 bg-[#E3E5E8] rounded-full" />
         <div 
-          className="absolute top-5 left-0 h-0.5 bg-gradient-to-r from-[#6BCFCF] to-[#4FB8B8] transition-all duration-500"
+          className="absolute top-5 left-0 h-1 bg-gradient-to-r from-[#6BCFCF] to-[#4FB8B8] rounded-full transition-all duration-700 ease-out shadow-[0_0_20px_rgba(107,207,207,0.5)]"
           style={{ width: `${((currentStep - 1) / (steps.length - 1)) * 100}%` }}
         />
         
@@ -211,11 +211,11 @@ function Stepper({
                 disabled={!isClickable}
                 className={`flex flex-col items-center group ${isClickable ? 'cursor-pointer' : 'cursor-not-allowed'}`}
               >
-                <div className={`w-10 h-10 rounded-full flex items-center justify-center font-semibold text-sm transition-all duration-300 ${
+                <div className={`w-12 h-12 rounded-full flex items-center justify-center font-bold text-base transition-all duration-300 ${
                   isCurrent
-                    ? 'bg-gradient-to-r from-[#6BCFCF] to-[#4FB8B8] text-[#04141f] shadow-[0_4px_14px_rgba(107,207,207,0.39)] scale-110'
+                    ? 'bg-gradient-to-r from-[#6BCFCF] to-[#4FB8B8] text-[#04141f] shadow-[0_0_0_8px_rgba(107,207,207,0.15),0_4px_20px_rgba(107,207,207,0.4)] scale-110 motion-safe:animate-soft-pulse'
                     : isCompleted
-                    ? 'bg-[#6BCFCF] text-white group-hover:scale-105'
+                    ? 'bg-[#6BCFCF] text-white group-hover:scale-110 group-hover:shadow-[0_4px_20px_rgba(107,207,207,0.3)]'
                     : 'bg-white border-2 border-[#E3E5E8] text-[#4b5c6b]'
                 }`}>
                   {isCompleted ? (
@@ -283,7 +283,7 @@ function Input({
         placeholder={placeholder}
         required={required}
         disabled={disabled}
-        className="w-full px-4 py-3 bg-white border border-[#E3E5E8] rounded-xl text-[#04163a] placeholder-[#4b5c6b]/50 focus:outline-none focus:border-[#6BCFCF] focus:ring-4 focus:ring-[#6BCFCF]/10 disabled:opacity-50 disabled:cursor-not-allowed disabled:bg-[#F8F9FA] transition-all duration-200"
+        className="w-full px-4 py-3.5 bg-white border-2 border-[#E3E5E8] rounded-xl text-[#04163a] placeholder-[#4b5c6b]/50 focus:outline-none focus:border-[#6BCFCF] focus:shadow-[0_0_0_4px_rgba(107,207,207,0.1),0_4px_20px_rgba(107,207,207,0.15)] disabled:opacity-50 disabled:cursor-not-allowed disabled:bg-[#F8F9FA] transition-all duration-300"
       />
       {helpText && (
         <p className="mt-2 text-xs text-[#4b5c6b] bg-[#F8F9FA] border border-[#E3E5E8] rounded-lg p-3">
@@ -383,15 +383,15 @@ function FormuleCard({
     <button
       type="button"
       onClick={onSelect}
-      className={`relative p-8 rounded-3xl transition-all duration-300 w-full text-left ${
+      className={`group relative p-8 rounded-3xl transition-all duration-300 w-full text-left ${
         selected 
-          ? 'bg-white border-2 border-[#6BCFCF] shadow-[0_8px_30px_rgba(107,207,207,0.25)] scale-105' 
-          : 'bg-white border-2 border-[#E3E5E8] hover:border-[#6BCFCF]/50 hover:shadow-lg hover:-translate-y-1'
+          ? 'bg-white border-2 border-[#6BCFCF] shadow-[0_0_0_4px_rgba(107,207,207,0.1),0_12px_40px_rgba(107,207,207,0.3)] scale-105' 
+          : 'bg-white border-2 border-[#E3E5E8] hover:border-[#6BCFCF]/50 hover:shadow-[0_8px_30px_rgba(0,0,0,0.12)] hover:-translate-y-2'
       }`}
     >
       {recommended && (
-        <div className="absolute -top-3 left-1/2 -translate-x-1/2 bg-gradient-to-r from-[#6BCFCF] to-[#4FB8B8] text-[#04141f] px-4 py-1.5 rounded-full text-xs font-bold shadow-lg">
-          ⭐ Recommandé
+        <div className="absolute -top-3 left-1/2 -translate-x-1/2 bg-gradient-to-r from-[#6BCFCF] to-[#4FB8B8] text-[#04141f] px-4 py-1.5 rounded-full text-xs font-bold shadow-[0_4px_20px_rgba(107,207,207,0.4)] group-hover:shadow-[0_6px_30px_rgba(107,207,207,0.5)] transition-shadow duration-300">
+          Recommandé
         </div>
       )}
       
@@ -781,10 +781,14 @@ export default function InventaireIAPage() {
   };
 
   return (
-    <div className="min-h-screen bg-gradient-to-b from-[#F8F9FA] to-white py-12">
-      <div className="container max-w-4xl mx-auto px-4">
-        {/* Card Stripe-like */}
-        <div className="bg-white rounded-3xl p-8 md:p-12 shadow-[0_8px_30px_rgba(0,0,0,0.12)] border border-[#E3E5E8]">
+    <div className="min-h-screen bg-gradient-to-br from-[#04141f] via-[#04163a] to-[#04141f] py-16 relative overflow-hidden">
+      {/* Halos décoratifs animés */}
+      <div className="absolute top-0 left-1/4 w-[500px] h-[500px] bg-[#6BCFCF]/10 rounded-full blur-3xl motion-safe:animate-pulse" />
+      <div className="absolute bottom-0 right-1/4 w-[500px] h-[500px] bg-[#4FB8B8]/10 rounded-full blur-3xl motion-safe:animate-pulse" style={{ animationDelay: '1s' }} />
+      
+      <div className="container max-w-3xl mx-auto px-4 relative z-10">
+        {/* Card Stripe-like premium */}
+        <div className="bg-white rounded-3xl p-10 md:p-14 shadow-[0_20px_60px_rgba(0,0,0,0.3)] border border-white/20 backdrop-blur-sm motion-safe:animate-fade-up-soft">
           {/* Bouton Recommencer (si session en cours) */}
           {formState.leadId && (
             <div className="flex justify-end mb-4">
@@ -797,17 +801,26 @@ export default function InventaireIAPage() {
                 }}
                 className="text-xs text-[#4b5c6b] hover:text-[#6BCFCF] underline transition-colors"
               >
-                🔄 Recommencer
+                Recommencer
               </button>
             </div>
           )}
           
-          <h1 className="text-3xl md:text-4xl font-bold text-center mb-2 text-[#04163a]">
-            Demande de Devis Déménagement
-          </h1>
-          <p className="text-center text-[#4b5c6b] mb-8 text-lg">
-            Obtenez 3 à 6 devis personnalisés sous 24h
-          </p>
+          {/* Badge + Titre */}
+          <div className="text-center mb-10">
+            <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-gradient-to-r from-[#6BCFCF]/10 to-[#4FB8B8]/10 border border-[#6BCFCF]/20 mb-6">
+              <svg className="w-4 h-4 text-[#6BCFCF]" fill="currentColor" viewBox="0 0 20 20">
+                <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm1-12a1 1 0 10-2 0v4a1 1 0 00.293.707l2.828 2.829a1 1 0 101.415-1.415L11 9.586V6z" clipRule="evenodd" />
+              </svg>
+              <span className="text-sm font-semibold text-[#04163a]">5 min · 0 spam · 5+ devis fiables</span>
+            </div>
+            <h1 className="text-4xl md:text-5xl font-bold mb-4 text-[#04163a] leading-tight">
+              Demande de Devis Déménagement
+            </h1>
+            <p className="text-[#4b5c6b] text-lg max-w-2xl mx-auto">
+              Obtenez 3 à 6 devis personnalisés sous 24h
+            </p>
+          </div>
 
           <Stepper 
             currentStep={formState.currentStep} 
@@ -844,15 +857,18 @@ export default function InventaireIAPage() {
               <button
                 onClick={handleNext}
                 disabled={!formState.contactName || !formState.email || isSaving}
-                className="w-full bg-gradient-to-r from-[#6BCFCF] to-[#4FB8B8] text-[#04141f] py-3.5 rounded-xl font-semibold hover:shadow-[0_4px_14px_rgba(107,207,207,0.39)] disabled:opacity-50 disabled:cursor-not-allowed transition-all duration-300 flex items-center justify-center gap-2"
+                className="group relative w-full bg-gradient-to-r from-[#6BCFCF] to-[#4FB8B8] text-[#04141f] py-4 rounded-xl font-bold overflow-hidden hover:shadow-[0_0_0_4px_rgba(107,207,207,0.15),0_8px_30px_rgba(107,207,207,0.4)] disabled:opacity-50 disabled:cursor-not-allowed transition-all duration-300 hover:-translate-y-0.5 flex items-center justify-center gap-2"
               >
-                {isSaving ? (
-                  <>
-                    <span className="animate-spin">⏳</span> Sauvegarde...
-                  </>
-                ) : (
-                  'Suivant →'
-                )}
+                <span className="absolute inset-0 bg-gradient-to-r from-transparent via-white/30 to-transparent -translate-x-full group-hover:translate-x-full transition-transform duration-700" />
+                <span className="relative">
+                  {isSaving ? (
+                    <>
+                      <span className="animate-spin">⏳</span> Sauvegarde...
+                    </>
+                  ) : (
+                    'Suivant →'
+                  )}
+                </span>
               </button>
             </div>
           )}
@@ -867,7 +883,7 @@ export default function InventaireIAPage() {
                 
                 {/* BLOC 1 : Adresse actuelle */}
                 <div className="p-6 bg-[#F8F9FA] rounded-2xl border border-[#E3E5E8]">
-                  <h3 className="font-bold mb-4 text-[#04163a] text-lg">📦 Adresse actuelle</h3>
+                  <h3 className="font-bold mb-4 text-[#04163a] text-lg">Adresse actuelle</h3>
                   
                   <AddressInput
                     label="Code postal + Ville"
@@ -968,7 +984,7 @@ export default function InventaireIAPage() {
 
                 {/* BLOC 2 : Nouvelle adresse */}
                 <div className="p-6 bg-[#F8F9FA] rounded-2xl border border-[#E3E5E8]">
-                  <h3 className="font-bold mb-4 text-[#04163a] text-lg">🏠 Nouvelle adresse</h3>
+                  <h3 className="font-bold mb-4 text-[#04163a] text-lg">Nouvelle adresse</h3>
                   
                   <AddressInput
                     label="Code postal + Ville"
@@ -1070,7 +1086,7 @@ export default function InventaireIAPage() {
 
               {/* BLOC 3 : Date de déménagement (pleine largeur) */}
               <div className="mb-8 p-6 bg-[#F8F9FA] rounded-2xl border border-[#E3E5E8]">
-                <h3 className="font-bold mb-4 text-[#04163a] text-lg">📅 Date de déménagement</h3>
+                <h3 className="font-bold mb-4 text-[#04163a] text-lg">Date de déménagement</h3>
                 
                 <div className="mb-4">
                   <label className="block text-sm font-semibold mb-2 text-[#04163a]">
@@ -1107,12 +1123,12 @@ export default function InventaireIAPage() {
                   />
                   {formState.movingDate && formState.movingDateEnd && (
                     <p className="mt-2 text-sm text-[#4b5c6b]">
-                      📅 Plage sélectionnée : du {new Date(formState.movingDate).toLocaleDateString('fr-FR')} au {new Date(formState.movingDateEnd).toLocaleDateString('fr-FR')}
+                      · Plage sélectionnée : du {new Date(formState.movingDate).toLocaleDateString('fr-FR')} au {new Date(formState.movingDateEnd).toLocaleDateString('fr-FR')}
                     </p>
                   )}
                   {formState.movingDate && !formState.movingDateEnd && (
                     <p className="mt-2 text-sm text-[#4b5c6b]">
-                      📅 Date fixe : {new Date(formState.movingDate).toLocaleDateString('fr-FR')}
+                      · Date fixe : {new Date(formState.movingDate).toLocaleDateString('fr-FR')}
                     </p>
                   )}
                 </div>
@@ -1128,9 +1144,10 @@ export default function InventaireIAPage() {
                 <button
                   onClick={handleNext}
                   disabled={!formState.originAddress || !formState.movingDate}
-                  className="flex-1 bg-gradient-to-r from-[#6BCFCF] to-[#4FB8B8] text-[#04141f] py-3.5 rounded-xl font-semibold hover:shadow-[0_4px_14px_rgba(107,207,207,0.39)] disabled:opacity-50 disabled:cursor-not-allowed transition-all duration-300"
+                  className="group relative flex-1 bg-gradient-to-r from-[#6BCFCF] to-[#4FB8B8] text-[#04141f] py-4 rounded-xl font-bold overflow-hidden hover:shadow-[0_0_0_4px_rgba(107,207,207,0.15),0_8px_30px_rgba(107,207,207,0.4)] disabled:opacity-50 disabled:cursor-not-allowed transition-all duration-300 hover:-translate-y-0.5"
                 >
-                  Suivant →
+                  <span className="absolute inset-0 bg-gradient-to-r from-transparent via-white/30 to-transparent -translate-x-full group-hover:translate-x-full transition-transform duration-700" />
+                  <span className="relative">Suivant →</span>
                 </button>
         </div>
       </div>
@@ -1142,7 +1159,7 @@ export default function InventaireIAPage() {
               <h2 className="text-2xl font-bold mb-6 text-[#04163a]">Volume et Services</h2>
 
               <div className="mb-6">
-                <h3 className="font-bold mb-4 text-[#04163a]">📦 Estimation du volume → Superficie</h3>
+                <h3 className="font-bold mb-4 text-[#04163a]">Estimation du volume · Superficie</h3>
                 
                 {/* Type de logement sélectionné */}
                 <p className="text-[#4b5c6b] mb-4">
@@ -1173,67 +1190,104 @@ export default function InventaireIAPage() {
                 />
 
                 <div className="mt-4">
-                  <label className="block text-sm font-semibold mb-3 text-[#04163a]">
-                    Comment décririez-vous votre logement ?
+                  <label className="block text-sm font-semibold mb-2 text-[#04163a]">
+                    Quantité de meubles et affaires
                   </label>
+                  <p className="text-xs text-[#4b5c6b] mb-4">
+                    Cela nous aide à estimer le volume à déménager
+                  </p>
                   <div className="grid grid-cols-3 gap-4">
                     <button
                       type="button"
                       onClick={() => updateField('density', 'light')}
-                      className={`p-6 border-2 rounded-2xl text-center transition-all duration-300 ${
+                      className={`group relative p-6 border-2 rounded-2xl text-center transition-all duration-300 ${
                         formState.density === 'light'
-                          ? 'border-[#6BCFCF] bg-[#6BCFCF]/5 shadow-lg'
-                          : 'border-[#E3E5E8] bg-white hover:border-[#6BCFCF]/50'
+                          ? 'border-[#6BCFCF] bg-[#6BCFCF]/5 shadow-[0_8px_30px_rgba(107,207,207,0.25)] scale-105'
+                          : 'border-[#E3E5E8] bg-white hover:border-[#6BCFCF]/50 hover:-translate-y-1 hover:shadow-lg'
                       }`}
                     >
-                      <div className="w-16 h-16 mx-auto mb-4 rounded-2xl bg-[#F8F9FA] flex items-center justify-center">
-                        <svg className="w-8 h-8 text-[#6BCFCF]" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M3 12h18M3 6h18M3 18h18" />
+                      <div className="flex justify-center mb-4">
+                        <svg width="100" height="100" viewBox="0 0 100 100" className="mx-auto">
+                          {/* Pièce */}
+                          <rect x="10" y="10" width="80" height="80" fill="none" stroke="#6BCFCF" strokeWidth="2" rx="4"/>
+                          {/* Canapé */}
+                          <rect x="20" y="65" width="25" height="15" fill="#6BCFCF" opacity="0.3" rx="2"/>
+                          {/* Table */}
+                          <rect x="55" y="68" width="15" height="10" fill="#6BCFCF" opacity="0.3" rx="1"/>
+                          {/* Lit */}
+                          <rect x="65" y="20" width="20" height="25" fill="#6BCFCF" opacity="0.3" rx="2"/>
                         </svg>
                       </div>
-                      <div className="font-bold text-[#04163a] text-lg mb-1">Sobre</div>
-                      <div className="text-sm text-[#4b5c6b] mb-3">Peu meublé</div>
-                      <div className="inline-flex items-center px-3 py-1 rounded-full bg-green-100 text-green-700 text-xs font-semibold">
+                      <div className="font-bold text-[#04163a] text-lg mb-2">Minimaliste</div>
+                      <div className="text-xs text-[#4b5c6b] mb-3 leading-relaxed">Peu de meubles · Cartons limités</div>
+                      <div className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-green-100 text-green-700 text-xs font-semibold">
                         -10% volume
                       </div>
                     </button>
                     <button
                       type="button"
                       onClick={() => updateField('density', 'normal')}
-                      className={`p-6 border-2 rounded-2xl text-center transition-all duration-300 ${
+                      className={`group relative p-6 border-2 rounded-2xl text-center transition-all duration-300 ${
                         formState.density === 'normal'
-                          ? 'border-[#6BCFCF] bg-[#6BCFCF]/5 shadow-lg'
-                          : 'border-[#E3E5E8] bg-white hover:border-[#6BCFCF]/50'
+                          ? 'border-[#6BCFCF] bg-[#6BCFCF]/5 shadow-[0_8px_30px_rgba(107,207,207,0.25)] scale-105'
+                          : 'border-[#E3E5E8] bg-white hover:border-[#6BCFCF]/50 hover:-translate-y-1 hover:shadow-lg'
                       }`}
                     >
-                      <div className="w-16 h-16 mx-auto mb-4 rounded-2xl bg-[#F8F9FA] flex items-center justify-center">
-                        <svg className="w-8 h-8 text-[#6BCFCF]" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M4 5a1 1 0 011-1h4a1 1 0 011 1v7a1 1 0 01-1 1H5a1 1 0 01-1-1V5zM14 5a1 1 0 011-1h4a1 1 0 011 1v7a1 1 0 01-1 1h-4a1 1 0 01-1-1V5zM4 16a1 1 0 011-1h4a1 1 0 011 1v3a1 1 0 01-1 1H5a1 1 0 01-1-1v-3zM14 16a1 1 0 011-1h4a1 1 0 011 1v3a1 1 0 01-1 1h-4a1 1 0 01-1-1v-3z" />
+                      <div className="flex justify-center mb-4">
+                        <svg width="100" height="100" viewBox="0 0 100 100" className="mx-auto">
+                          {/* Pièce */}
+                          <rect x="10" y="10" width="80" height="80" fill="none" stroke="#6BCFCF" strokeWidth="2" rx="4"/>
+                          {/* Canapé */}
+                          <rect x="15" y="60" width="30" height="18" fill="#6BCFCF" opacity="0.4" rx="2"/>
+                          {/* Table basse */}
+                          <rect x="50" y="65" width="18" height="12" fill="#6BCFCF" opacity="0.4" rx="1"/>
+                          {/* Lit */}
+                          <rect x="65" y="15" width="22" height="28" fill="#6BCFCF" opacity="0.4" rx="2"/>
+                          {/* Armoire */}
+                          <rect x="15" y="15" width="15" height="25" fill="#6BCFCF" opacity="0.4" rx="1"/>
+                          {/* Table */}
+                          <rect x="40" y="20" width="18" height="18" fill="#6BCFCF" opacity="0.4" rx="1"/>
                         </svg>
                       </div>
-                      <div className="font-bold text-[#04163a] text-lg mb-1">Normal</div>
-                      <div className="text-sm text-[#4b5c6b] mb-3">Bien meublé</div>
-                      <div className="inline-flex items-center px-3 py-1 rounded-full bg-blue-100 text-blue-700 text-xs font-semibold">
-                        Standard
+                      <div className="font-bold text-[#04163a] text-lg mb-2">Standard</div>
+                      <div className="text-xs text-[#4b5c6b] mb-3 leading-relaxed">Meubles classiques · Affaires normales</div>
+                      <div className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-blue-100 text-blue-700 text-xs font-semibold">
+                        Volume normal
                       </div>
                     </button>
                     <button
                       type="button"
                       onClick={() => updateField('density', 'dense')}
-                      className={`p-6 border-2 rounded-2xl text-center transition-all duration-300 ${
+                      className={`group relative p-6 border-2 rounded-2xl text-center transition-all duration-300 ${
                         formState.density === 'dense'
-                          ? 'border-[#6BCFCF] bg-[#6BCFCF]/5 shadow-lg'
-                          : 'border-[#E3E5E8] bg-white hover:border-[#6BCFCF]/50'
+                          ? 'border-[#6BCFCF] bg-[#6BCFCF]/5 shadow-[0_8px_30px_rgba(107,207,207,0.25)] scale-105'
+                          : 'border-[#E3E5E8] bg-white hover:border-[#6BCFCF]/50 hover:-translate-y-1 hover:shadow-lg'
                       }`}
                     >
-                      <div className="w-16 h-16 mx-auto mb-4 rounded-2xl bg-[#F8F9FA] flex items-center justify-center">
-                        <svg className="w-8 h-8 text-[#6BCFCF]" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M4 5a1 1 0 011-1h4a1 1 0 011 1v7a1 1 0 01-1 1H5a1 1 0 01-1-1V5zM14 5a1 1 0 011-1h4a1 1 0 011 1v7a1 1 0 01-1 1h-4a1 1 0 01-1-1V5zM4 16a1 1 0 011-1h4a1 1 0 011 1v3a1 1 0 01-1 1H5a1 1 0 01-1-1v-3zM14 16a1 1 0 011-1h4a1 1 0 011 1v3a1 1 0 01-1 1h-4a1 1 0 01-1-1v-3zM9 9a1 1 0 011-1h4a1 1 0 011 1v11a1 1 0 01-1 1h-4a1 1 0 01-1-1V9z" />
+                      <div className="flex justify-center mb-4">
+                        <svg width="100" height="100" viewBox="0 0 100 100" className="mx-auto">
+                          {/* Pièce */}
+                          <rect x="10" y="10" width="80" height="80" fill="none" stroke="#6BCFCF" strokeWidth="2" rx="4"/>
+                          {/* Canapé d'angle */}
+                          <rect x="12" y="55" width="35" height="20" fill="#6BCFCF" opacity="0.5" rx="2"/>
+                          <rect x="12" y="55" width="20" height="33" fill="#6BCFCF" opacity="0.5" rx="2"/>
+                          {/* Table basse */}
+                          <rect x="50" y="62" width="20" height="15" fill="#6BCFCF" opacity="0.5" rx="1"/>
+                          {/* Lit */}
+                          <rect x="65" y="12" width="23" height="30" fill="#6BCFCF" opacity="0.5" rx="2"/>
+                          {/* Armoire 1 */}
+                          <rect x="12" y="12" width="18" height="28" fill="#6BCFCF" opacity="0.5" rx="1"/>
+                          {/* Armoire 2 */}
+                          <rect x="33" y="12" width="15" height="25" fill="#6BCFCF" opacity="0.5" rx="1"/>
+                          {/* Table */}
+                          <rect x="50" y="14" width="12" height="25" fill="#6BCFCF" opacity="0.5" rx="1"/>
+                          {/* Étagères */}
+                          <rect x="73" y="45" width="15" height="8" fill="#6BCFCF" opacity="0.5" rx="1"/>
                         </svg>
                       </div>
-                      <div className="font-bold text-[#04163a] text-lg mb-1">Dense</div>
-                      <div className="text-sm text-[#4b5c6b] mb-3">Très meublé</div>
-                      <div className="inline-flex items-center px-3 py-1 rounded-full bg-orange-100 text-orange-700 text-xs font-semibold">
+                      <div className="font-bold text-[#04163a] text-lg mb-2">Bien rempli</div>
+                      <div className="text-xs text-[#4b5c6b] mb-3 leading-relaxed">Nombreux meubles · Beaucoup de cartons</div>
+                      <div className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-orange-100 text-orange-700 text-xs font-semibold">
                         +10% volume
                       </div>
                     </button>
@@ -1242,7 +1296,7 @@ export default function InventaireIAPage() {
               </div>
 
               <div className="mb-6">
-                <h3 className="font-bold mb-4 text-[#04163a]">🎯 Choisissez votre formule <span className="text-[#6BCFCF]">*</span></h3>
+                <h3 className="font-bold mb-4 text-[#04163a]">Choisissez votre formule <span className="text-[#6BCFCF]">*</span></h3>
                 
                 {pricing && (
                   <p className="text-[#4b5c6b] mb-4">
@@ -1337,9 +1391,10 @@ export default function InventaireIAPage() {
                 <button
                   onClick={handleNext}
                   disabled={!pricing}
-                  className="flex-1 bg-gradient-to-r from-[#6BCFCF] to-[#4FB8B8] text-[#04141f] py-3.5 rounded-xl font-semibold hover:shadow-[0_4px_14px_rgba(107,207,207,0.39)] disabled:opacity-50 disabled:cursor-not-allowed transition-all duration-300"
+                  className="group relative flex-1 bg-gradient-to-r from-[#6BCFCF] to-[#4FB8B8] text-[#04141f] py-4 rounded-xl font-bold overflow-hidden hover:shadow-[0_0_0_4px_rgba(107,207,207,0.15),0_8px_30px_rgba(107,207,207,0.4)] disabled:opacity-50 disabled:cursor-not-allowed transition-all duration-300 hover:-translate-y-0.5"
                 >
-                  Suivant →
+                  <span className="absolute inset-0 bg-gradient-to-r from-transparent via-white/30 to-transparent -translate-x-full group-hover:translate-x-full transition-transform duration-700" />
+                  <span className="relative">Suivant →</span>
                 </button>
               </div>
             </div>
@@ -1349,7 +1404,7 @@ export default function InventaireIAPage() {
           {formState.currentStep === 4 && (
             <div>
               <h2 className="text-3xl font-bold mb-4 text-center text-[#04163a]">
-                🎉 Bravo ! Nous avons toutes les informations
+                Bravo ! Nous avons toutes les informations
               </h2>
               <p className="text-center text-[#4b5c6b] mb-8 text-lg">
                 Nous avons tout ce qu'il faut pour demander vos devis personnalisés
@@ -1357,7 +1412,7 @@ export default function InventaireIAPage() {
 
               {/* Vérification email */}
               <div className="mb-8 p-6 bg-[#F8F9FA] border border-[#E3E5E8] rounded-2xl">
-                <h3 className="font-bold mb-3 text-[#04163a]">📧 Vérifiez votre email</h3>
+                <h3 className="font-bold mb-3 text-[#04163a]">Vérifiez votre email</h3>
                 <p className="text-sm text-[#4b5c6b] mb-3">
                   Assurez-vous que votre adresse est correcte pour ne pas perdre contact :
                 </p>
@@ -1373,7 +1428,7 @@ export default function InventaireIAPage() {
               {/* Récapitulatif */}
               <div className="mb-8 p-6 bg-[#F8F9FA] border border-[#E3E5E8] rounded-2xl">
                 <h3 className="font-bold mb-4 text-[#04163a] flex items-center justify-between">
-                  📋 Récapitulatif de votre demande
+                  Récapitulatif de votre demande
                   <button 
                     onClick={() => goToStep(2)} 
                     className="text-sm text-[#6BCFCF] hover:underline font-normal"
@@ -1404,7 +1459,7 @@ export default function InventaireIAPage() {
               {/* Ce qui va se passer */}
               <div className="mb-8 p-6 bg-gradient-to-br from-[#6BCFCF]/5 to-[#4FB8B8]/5 border border-[#6BCFCF]/20 rounded-2xl">
                 <h3 className="text-xl font-bold mb-6 text-[#04163a] flex items-center gap-2">
-                  🚀 Voici ce qui va se passer maintenant
+                  Voici ce qui va se passer maintenant
                 </h3>
                 <ol className="space-y-5">
                   {[
@@ -1443,7 +1498,7 @@ export default function InventaireIAPage() {
 
                 {/* Garanties */}
                 <div className="mt-6 pt-6 border-t border-[#6BCFCF]/20">
-                  <h4 className="font-bold mb-3 text-[#04163a]">✅ Nos garanties</h4>
+                  <h4 className="font-bold mb-3 text-[#04163a]">Nos garanties</h4>
                   <div className="grid grid-cols-2 gap-3 text-sm text-[#04163a]">
                     <div className="flex items-center gap-2">
                       <svg className="w-5 h-5 text-[#6BCFCF]" fill="currentColor" viewBox="0 0 20 20">
@@ -1484,17 +1539,20 @@ export default function InventaireIAPage() {
                 <button
                   onClick={handleSubmit}
                   disabled={isSaving}
-                  className="flex-1 bg-gradient-to-r from-[#6BCFCF] to-[#4FB8B8] text-[#04141f] py-4 rounded-xl font-bold text-lg hover:shadow-[0_8px_30px_rgba(107,207,207,0.39)] transition-all duration-300 flex items-center justify-center gap-2 disabled:opacity-50 disabled:cursor-not-allowed"
+                  className="group relative flex-1 bg-gradient-to-r from-[#6BCFCF] to-[#4FB8B8] text-[#04141f] py-5 rounded-xl font-bold text-lg overflow-hidden hover:shadow-[0_0_0_6px_rgba(107,207,207,0.2),0_12px_40px_rgba(107,207,207,0.5)] transition-all duration-300 hover:-translate-y-1 flex items-center justify-center gap-2 disabled:opacity-50 disabled:cursor-not-allowed"
                 >
-                  {isSaving ? (
-                    <>
-                      <span className="animate-spin">⏳</span> Envoi en cours...
-                    </>
-                  ) : (
-                    <>
-                      🚀 Obtenir mes devis gratuits
-                    </>
-                  )}
+                  <span className="absolute inset-0 bg-gradient-to-r from-transparent via-white/40 to-transparent -translate-x-full group-hover:translate-x-full transition-transform duration-700" />
+                  <span className="relative flex items-center gap-2">
+                    {isSaving ? (
+                      <>
+                        <span className="animate-spin">⏳</span> Envoi en cours...
+                      </>
+                    ) : (
+                      <>
+                        Obtenir mes devis gratuits
+                      </>
+                    )}
+                  </span>
                 </button>
               </div>
             </div>
