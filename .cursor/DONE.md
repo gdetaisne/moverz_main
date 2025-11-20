@@ -7,14 +7,40 @@
 
 ## 📊 Statistiques
 
-- **Total tâches finalisées** : 19
+- **Total tâches finalisées** : 20
 - **Octobre 2025** : 5
-- **Novembre 2025** : 12
+- **Novembre 2025** : 13
 - **Janvier 2026** : 2
 
 ---
 
 ## ✅ Novembre 2025
+
+### ✅ TASK-089-refonte-templates-blog : Refonte Templates Blog (catégorie + article)
+
+**Finalisée le** : 20 novembre 2025  
+**Type** : Design / SEO — Refonte 2025  
+**Priorité** : P2  
+**Assigné** : Lucie
+
+📁 **Documentation** : `.cursor/tasks/[P2]-TASK-089-refonte-templates-blog/`
+
+**Résumé** :
+Refonte complète des templates blog (catégorie + article) avec design Stripe-like 2025. Template catégorie avec alternance sombre/clair, template article avec fond clair pour une lisibilité optimale. Badges SVG, cartes ultra-clean, CTA gradient mint, section "À lire aussi" avec recommandations intelligentes. Synchronisé sur 11 villes.
+
+**Commits** :
+- `8dfb79d8` — Refonte design templates blog (catégorie + article) (11 villes)
+
+**Tests** :
+- ✅ Nice : Design, alternance sombre/clair, markdown styling
+- ✅ Déployé sur 11 villes via CapRover
+
+**Definition of Done** :
+- [x] 1. Code propre et documenté (commit + sync 11 villes)
+- [x] 2. Commits sur GitHub (SHA listé)
+- [x] 3. Testé en live (Nice + déploiement 11 villes)
+
+---
 
 ### ✅ TASK-088-refonte-pages-services-detaillees : Refonte Pages Services Détaillées (économique/standard/premium)
 

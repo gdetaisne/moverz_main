@@ -116,13 +116,13 @@
 
 ---
 
-### 🆕 [P2] [Temps: 2-3h] [Qui: Lucie] TASK-089-refonte-templates-blog : Refonte Templates Blog (catégorie + article)
+### ✅ [P2] [Temps: 2-3h] [Qui: Lucie] TASK-089-refonte-templates-blog : Refonte Templates Blog (catégorie + article)
 
 📁 **Doc** : `.cursor/tasks/[P2]-TASK-089-refonte-templates-blog/`
 
 **Type** : Design / SEO
 
-**Statut** : 📋 À DÉMARRER
+**Statut** : ✅ FINALISÉE (20/11/2025)
 
 **Contexte** :
 - `/blog/page.tsx` déjà refondu
@@ -139,10 +139,10 @@
 - ✅ Navigation claire (catégorie)
 
 **Livrables** :
-- [ ] Template catégorie refondu
-- [ ] Template article refondu
-- [ ] Commit + deploy
-- [ ] Test prod
+- ✅ Template catégorie refondu (alternance sombre/clair)
+- ✅ Template article refondu (fond clair, markdown optimisé)
+- ✅ Commit + deploy (commit `8dfb79d8`, déployé sur CapRover)
+- ✅ Test prod (disponible sur toutes les villes)
 
 ---
 
