@@ -122,10 +122,10 @@ function AddressInput({
   };
 
   return (
-    <div className="mb-4 relative">
-      <label className="block text-sm font-medium mb-2 text-white">
+    <div className="mb-6 relative">
+      <label className="block text-sm font-semibold text-[#04163a] mb-2">
         {label}
-        {required && <span className="text-brand-secondary ml-1">*</span>}
+        {required && <span className="text-[#6BCFCF] ml-1">*</span>}
       </label>
       <input
         type="text"
@@ -136,33 +136,32 @@ function AddressInput({
         placeholder={placeholder}
         required={required}
         disabled={disabled}
-        className="w-full px-4 py-3 bg-white/10 border border-white/20 rounded-lg focus:outline-none focus:ring-2 focus:ring-brand-secondary placeholder-white/50 disabled:opacity-50 disabled:cursor-not-allowed"
-        style={{ color: '#ffffff' }}
+        className="w-full px-4 py-3 bg-white border border-[#E3E5E8] rounded-xl text-[#04163a] placeholder-[#4b5c6b]/50 focus:outline-none focus:border-[#6BCFCF] focus:ring-4 focus:ring-[#6BCFCF]/10 disabled:opacity-50 disabled:cursor-not-allowed disabled:bg-[#F8F9FA] transition-all duration-200"
         autoComplete="off"
       />
       
-      {/* Dropdown suggestions - Style cohérent avec le site */}
+      {/* Dropdown suggestions - Stripe-like */}
       {showSuggestions && suggestions.length > 0 && (
-        <div className="absolute z-50 w-full mt-2 bg-white/95 backdrop-blur-sm rounded-lg shadow-xl border border-white/20 overflow-hidden">
+        <div className="absolute z-50 w-full mt-2 bg-white rounded-2xl shadow-[0_8px_30px_rgba(0,0,0,0.12)] border border-[#E3E5E8] overflow-hidden">
           {suggestions.map((suggestion, idx) => (
             <button
               key={idx}
               type="button"
               onClick={() => handleSelectSuggestion(suggestion)}
-              className="w-full px-4 py-3 text-left hover:bg-gray-100 transition-colors border-b border-gray-200 last:border-0"
+              className="w-full px-4 py-3 text-left hover:bg-[#F8F9FA] transition-colors border-b border-[#E3E5E8] last:border-0"
             >
-              <div className="font-semibold" style={{ color: '#04163a' }}>{suggestion.city}</div>
+              <div className="font-semibold text-[#04163a]">{suggestion.city}</div>
             </button>
           ))}
         </div>
       )}
       
       {isLoading && (
-        <div className="absolute right-3 top-11 text-white/50 text-sm">⏳</div>
+        <div className="absolute right-3 top-11 text-[#4b5c6b] text-sm">⏳</div>
       )}
       
       {helpText && (
-        <p className="mt-2 text-xs text-white/70 bg-white/5 border border-white/10 rounded p-2">
+        <p className="mt-2 text-xs text-[#4b5c6b] bg-[#F8F9FA] border border-[#E3E5E8] rounded-lg p-3">
           {helpText}
         </p>
       )}
@@ -170,7 +169,7 @@ function AddressInput({
   );
 }
 
-// Stepper Component
+// Stepper Component - Stripe-like
 function Stepper({ 
   currentStep, 
   completedSteps, 
@@ -188,42 +187,60 @@ function Stepper({
   ];
 
   return (
-    <div className="flex items-center justify-between mb-8 px-4">
-      {steps.map((step, index) => (
-        <React.Fragment key={step.number}>
-          <div className="flex flex-col items-center">
-            <button
-              type="button"
-              onClick={() => onStepClick(step.number)}
-              disabled={step.number > currentStep && !completedSteps.includes(step.number)}
-              className={`w-10 h-10 rounded-full flex items-center justify-center font-bold transition-all cursor-pointer hover:scale-110 disabled:cursor-not-allowed ${
-                step.number === currentStep
-                  ? 'bg-blue-600 text-white'
-                  : completedSteps.includes(step.number)
-                  ? 'bg-green-500 text-white hover:bg-green-600'
-                  : 'bg-gray-200 text-gray-500'
-              }`}
-            >
-              {completedSteps.includes(step.number) ? '✓' : step.number}
-            </button>
-            <span className={`mt-2 text-xs font-medium ${step.number === currentStep ? 'text-brand-secondary' : 'text-white/70'}`}>
-              {step.label}
-            </span>
-          </div>
-          {index < steps.length - 1 && (
-            <div
-              className={`flex-1 h-1 mx-2 rounded ${
-                completedSteps.includes(step.number) ? 'bg-green-500' : 'bg-gray-200'
-              }`}
-            />
-          )}
-        </React.Fragment>
-      ))}
+    <div className="mb-12">
+      {/* Progress bar */}
+      <div className="relative">
+        <div className="absolute top-5 left-0 right-0 h-0.5 bg-[#E3E5E8]" />
+        <div 
+          className="absolute top-5 left-0 h-0.5 bg-gradient-to-r from-[#6BCFCF] to-[#4FB8B8] transition-all duration-500"
+          style={{ width: `${((currentStep - 1) / (steps.length - 1)) * 100}%` }}
+        />
+        
+        {/* Steps */}
+        <div className="relative flex justify-between">
+          {steps.map((step) => {
+            const isCompleted = completedSteps.includes(step.number);
+            const isCurrent = step.number === currentStep;
+            const isClickable = isCompleted || isCurrent;
+            
+            return (
+              <button
+                key={step.number}
+                type="button"
+                onClick={() => isClickable && onStepClick(step.number)}
+                disabled={!isClickable}
+                className={`flex flex-col items-center group ${isClickable ? 'cursor-pointer' : 'cursor-not-allowed'}`}
+              >
+                <div className={`w-10 h-10 rounded-full flex items-center justify-center font-semibold text-sm transition-all duration-300 ${
+                  isCurrent
+                    ? 'bg-gradient-to-r from-[#6BCFCF] to-[#4FB8B8] text-[#04141f] shadow-[0_4px_14px_rgba(107,207,207,0.39)] scale-110'
+                    : isCompleted
+                    ? 'bg-[#6BCFCF] text-white group-hover:scale-105'
+                    : 'bg-white border-2 border-[#E3E5E8] text-[#4b5c6b]'
+                }`}>
+                  {isCompleted ? (
+                    <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                      <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
+                    </svg>
+                  ) : (
+                    step.number
+                  )}
+                </div>
+                <span className={`mt-3 text-xs font-semibold transition-colors ${
+                  isCurrent ? 'text-[#6BCFCF]' : isCompleted ? 'text-[#04163a]' : 'text-[#4b5c6b]'
+                }`}>
+                  {step.label}
+                </span>
+              </button>
+            );
+          })}
+        </div>
+      </div>
     </div>
   );
 }
 
-// Input Component
+// Input Component - Stripe-like
 function Input({
   label,
   type = 'text',
@@ -253,10 +270,10 @@ function Input({
   };
 
   return (
-    <div className="mb-4">
-      <label className="block text-sm font-medium mb-2 text-white">
+    <div className="mb-6">
+      <label className="block text-sm font-semibold text-[#04163a] mb-2">
         {label}
-        {required && <span className="text-brand-secondary ml-1">*</span>}
+        {required && <span className="text-[#6BCFCF] ml-1">*</span>}
       </label>
       <input
         type={type}
@@ -266,11 +283,10 @@ function Input({
         placeholder={placeholder}
         required={required}
         disabled={disabled}
-        className="w-full px-4 py-3 bg-white/10 border border-white/20 rounded-lg focus:outline-none focus:ring-2 focus:ring-brand-secondary placeholder-white/50 disabled:opacity-50 disabled:cursor-not-allowed"
-        style={{ color: '#ffffff' }}
+        className="w-full px-4 py-3 bg-white border border-[#E3E5E8] rounded-xl text-[#04163a] placeholder-[#4b5c6b]/50 focus:outline-none focus:border-[#6BCFCF] focus:ring-4 focus:ring-[#6BCFCF]/10 disabled:opacity-50 disabled:cursor-not-allowed disabled:bg-[#F8F9FA] transition-all duration-200"
       />
       {helpText && (
-        <p className="mt-2 text-xs text-white/70 bg-white/5 border border-white/10 rounded p-2">
+        <p className="mt-2 text-xs text-[#4b5c6b] bg-[#F8F9FA] border border-[#E3E5E8] rounded-lg p-3">
           {helpText}
         </p>
       )}
@@ -278,7 +294,7 @@ function Input({
   );
 }
 
-// Select Component
+// Select Component - Stripe-like
 function Select({
   label,
   value,
@@ -293,20 +309,19 @@ function Select({
   required?: boolean;
 }) {
   return (
-    <div className="mb-4">
-      <label className="block text-sm font-medium mb-2 text-white">
+    <div className="mb-6">
+      <label className="block text-sm font-semibold text-[#04163a] mb-2">
         {label}
-        {required && <span className="text-brand-secondary ml-1">*</span>}
+        {required && <span className="text-[#6BCFCF] ml-1">*</span>}
       </label>
       <select
         value={value}
         onChange={(e) => onChange(e.target.value)}
         required={required}
-        className="w-full px-4 py-3 bg-white/10 border border-white/20 rounded-lg focus:outline-none focus:ring-2 focus:ring-brand-secondary"
-        style={{ color: '#ffffff' }}
+        className="w-full px-4 py-3 bg-white border border-[#E3E5E8] rounded-xl text-[#04163a] focus:outline-none focus:border-[#6BCFCF] focus:ring-4 focus:ring-[#6BCFCF]/10 transition-all duration-200 cursor-pointer"
       >
         {options.map((opt) => (
-          <option key={opt.value} value={opt.value} style={{ color: '#000000' }}>
+          <option key={opt.value} value={opt.value}>
             {opt.label}
           </option>
         ))}
@@ -315,7 +330,7 @@ function Select({
   );
 }
 
-// Checkbox Component
+// Checkbox Component - Stripe-like
 function Checkbox({
   label,
   checked,
@@ -326,19 +341,19 @@ function Checkbox({
   onChange: (checked: boolean) => void;
 }) {
   return (
-    <label className="flex items-start gap-2 cursor-pointer">
+    <label className="flex items-start gap-3 cursor-pointer group">
       <input
         type="checkbox"
         checked={checked}
         onChange={(e) => onChange(e.target.checked)}
-        className="mt-1 w-4 h-4 accent-brand-secondary"
+        className="mt-0.5 w-5 h-5 rounded border-2 border-[#E3E5E8] text-[#6BCFCF] focus:ring-4 focus:ring-[#6BCFCF]/10 transition-all cursor-pointer"
       />
-      <span className="text-sm text-white/90">{label}</span>
+      <span className="text-sm text-[#04163a] group-hover:text-[#6BCFCF] transition-colors">{label}</span>
     </label>
   );
 }
 
-// Formule Card Component
+// Formule Card Component - Stripe-like
 function FormuleCard({
   id,
   badge,
@@ -364,76 +379,59 @@ function FormuleCard({
   selected: boolean;
   onSelect: () => void;
 }) {
-  // Couleurs selon la formule
-  const colors = {
-    economique: {
-      badge: 'bg-green-500',
-      button: 'bg-green-500 hover:bg-green-600',
-      bullet: 'text-green-400',
-    },
-    standard: {
-      badge: 'bg-blue-500',
-      button: 'bg-blue-500 hover:bg-blue-600',
-      bullet: 'text-blue-400',
-    },
-    premium: {
-      badge: 'bg-purple-500',
-      button: 'bg-purple-500 hover:bg-purple-600',
-      bullet: 'text-purple-400',
-    },
-  };
-
-  const colorScheme = colors[id as keyof typeof colors] || colors.standard;
-
   return (
     <button
       type="button"
       onClick={onSelect}
-      className={`relative p-6 rounded-2xl transition-all w-full text-left ${
+      className={`relative p-8 rounded-3xl transition-all duration-300 w-full text-left ${
         selected 
-          ? 'bg-white/20 border-4 border-brand-secondary shadow-2xl scale-105' 
-          : 'bg-white/5 border border-white/20 hover:bg-white/10 hover:border-white/40'
+          ? 'bg-white border-2 border-[#6BCFCF] shadow-[0_8px_30px_rgba(107,207,207,0.25)] scale-105' 
+          : 'bg-white border-2 border-[#E3E5E8] hover:border-[#6BCFCF]/50 hover:shadow-lg hover:-translate-y-1'
       }`}
     >
       {recommended && (
-        <div className="absolute -top-3 left-1/2 -translate-x-1/2 bg-yellow-400 text-yellow-900 px-4 py-1 rounded-full text-xs font-bold">
-          Recommandé
+        <div className="absolute -top-3 left-1/2 -translate-x-1/2 bg-gradient-to-r from-[#6BCFCF] to-[#4FB8B8] text-[#04141f] px-4 py-1.5 rounded-full text-xs font-bold shadow-lg">
+          ⭐ Recommandé
         </div>
       )}
       
       {selected && (
-        <div className="absolute top-4 right-4 w-10 h-10 bg-brand-secondary rounded-full flex items-center justify-center shadow-lg animate-pulse">
-          <span className="text-white text-2xl font-bold">✓</span>
+        <div className="absolute top-6 right-6 w-8 h-8 bg-[#6BCFCF] rounded-full flex items-center justify-center shadow-lg">
+          <svg className="w-5 h-5 text-white" fill="currentColor" viewBox="0 0 20 20">
+            <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
+          </svg>
         </div>
       )}
 
-      <div className={`inline-block ${colorScheme.badge} text-white px-3 py-1 rounded-full text-xs font-bold mb-4`}>
-        {badge}
+      <div className="inline-flex items-center px-3 py-1.5 rounded-full text-xs font-semibold bg-[#F8F9FA] text-[#04163a] border border-[#E3E5E8] mb-4">
+        {badge.replace(/💰|⭐|👑/g, '').trim()}
       </div>
       
-      <h3 className="text-2xl font-bold mb-2 text-white">{title}</h3>
-      <p className="text-sm text-white/70 mb-6">{subtitle}</p>
+      <h3 className="text-xl font-bold mb-2 text-[#04163a]">{title}</h3>
+      <p className="text-sm text-[#4b5c6b] mb-6">{subtitle}</p>
       
-      <ul className="space-y-3 mb-6">
+      {/* Prix principal */}
+      <div className="mb-6 pb-6 border-b border-[#E3E5E8]">
+        <div className="flex items-baseline gap-2">
+          <span className="text-4xl font-bold text-[#04163a]">{formatPrice(prixAvg)}</span>
+          <span className="text-sm text-[#4b5c6b]">/déménagement</span>
+        </div>
+        <div className="mt-2 text-xs text-[#4b5c6b]">
+          De {formatPrice(prixMin)} à {formatPrice(prixMax)}
+        </div>
+      </div>
+      
+      {/* Features */}
+      <ul className="space-y-3">
         {features.map((feature, i) => (
-          <li key={i} className="flex items-start gap-2 text-sm text-white/90">
-            <span className={`${colorScheme.bullet} mt-0.5`}>●</span>
+          <li key={i} className="flex items-start gap-3 text-sm text-[#04163a]">
+            <svg className="w-5 h-5 text-[#6BCFCF] flex-shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20">
+              <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
+            </svg>
             <span>{feature}</span>
           </li>
         ))}
       </ul>
-      
-      <div className="flex items-end justify-center gap-4 pt-4 border-t border-white/10">
-        <div className="text-center">
-          <div className="text-xs text-green-400 mb-1">min</div>
-          <div className="text-lg text-green-400 font-semibold">{formatPrice(prixMin)}</div>
-        </div>
-        <span className="text-4xl font-bold text-white leading-none">{formatPrice(prixAvg)}</span>
-        <div className="text-center">
-          <div className="text-xs text-red-400 mb-1">max</div>
-          <div className="text-lg text-red-400 font-semibold">{formatPrice(prixMax)}</div>
-        </div>
-      </div>
     </button>
   );
 }
