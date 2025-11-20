@@ -16,36 +16,36 @@
 
 ## 🔴 CRITIQUE URGENTE - Lead Generation & Tunnel Conversion
 
-### 🆕 [P0] [Temps: 4-6h] [Qui: Lucie] TASK-086-refonte-pages-formulaires : Refonte Design Pages Formulaires (inventaire-ia + estimation-rapide)
+### ✅ [P0] [Temps: 4-6h] [Qui: Lucie] TASK-086-refonte-pages-formulaires : Refonte Design Pages Formulaires (devis-gratuits + estimation-rapide)
 
 📁 **Doc** : `.cursor/tasks/[P0]-TASK-086-refonte-pages-formulaires/`
 
 **Type** : Design Critique / UX Conversion
 
-**Statut** : 📋 À DÉMARRER
+**Statut** : ✅ FINALISÉE (20/11/2025)
 
 **Contexte** :
 - Pages de formulaire = pages de conversion critiques
-- Probablement encore wording "IA" / "photos" / "calcul volume"
-- Design probablement vieux (pas Stripe-like 2025)
+- `/inventaire-ia/` a été remplacé par `/devis-gratuits/` (par Guillaume)
+- Design Stripe-like 2025 appliqué sur les 2 tunnels
 - Impact direct sur taux de conversion
 
 **Scope** :
-1. **`/inventaire-ia/page.tsx`** - Formulaire principal
-2. **`/estimation-rapide/page.tsx`** - Formulaire rapide
+1. **`/devis-gratuits/page.tsx`** - Tunnel complet multi-étapes ✅
+2. **`/estimation-rapide/page.tsx`** - Estimation instantanée ✅
 
 **Objectifs** :
-- ✅ Appliquer design Stripe-like 2025 (alternance sombre/clair)
+- ✅ Appliquer design Stripe-like 2025 (fond bleu + halos mint)
 - ✅ Remplacer wording "IA" / "photos" par "comparateur de devis"
 - ✅ Simplifier le tunnel, clarifier les étapes
 - ✅ Ajouter réassurance (0 spam, dossier anonyme, gratuit)
-- ✅ Mobile-first, animations subtiles
+- ✅ Mobile-first, animations subtiles (shimmer, glow, hover lift)
 
 **Livrables** :
-- [ ] `/inventaire-ia/page.tsx` refondu (11 villes)
-- [ ] `/estimation-rapide/page.tsx` refondu (11 villes)
-- [ ] Commit + deploy sur CapRover
-- [ ] Test sur 2+ sites en prod
+- ✅ `/devis-gratuits/page.tsx` refondu (11 villes)
+- ✅ `/estimation-rapide/page.tsx` refondu (11 villes)
+- ✅ Commit + deploy sur CapRover
+- ✅ Test sur 2+ sites en prod (Nice, Lyon)
 
 ---
 

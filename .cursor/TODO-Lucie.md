@@ -48,6 +48,51 @@ Implémenter stratégie wording disruptif "anti-arnaque" sur 11 sites → Améli
 
 ---
 
+### [P0]-TASK-086-refonte-pages-formulaires : Refonte Design Pages Formulaires (devis-gratuits + estimation-rapide) 🚀
+
+**Statut** : ✅ **FINALISÉE** (code + déploiement CapRover + tests prod Nice/Lyon)  
+**Priorité** : P0 (Critique - Conversion)  
+**Temps estimé** : 4-6h  
+**Temps investi** : 6h  
+**Doc** : `.cursor/tasks/[P0]-TASK-086-refonte-pages-formulaires/`
+
+**Objectif** :
+Refonte complète Stripe-like 10/10 des 2 tunnels de conversion critiques pour maximiser le taux de conversion.
+
+**Travail effectué** :
+- ✅ **`/devis-gratuits/page.tsx`** : Tunnel multi-étapes complet
+  - Fond bleu profond + halos mint animés
+  - Badge + titre XXL (text-5xl)
+  - Stepper: pills XL + glow ring + animate-pulse
+  - Inputs: border-2 + focus glow (double shadow)
+  - Cartes formules: hover lift + shadow profonde + shimmer button
+  - Mockups SVG pièces pour densité (Minimaliste/Standard/Bien rempli)
+  - Tous emojis → emoticons/pictogrammes
+- ✅ **`/estimation-rapide/page.tsx`** : Estimation instantanée
+  - Même design Stripe-like (fond bleu + halos)
+  - Select + inputs avec focus glow
+  - Autocomplete villes: fond blanc + hover mint
+  - Cartes formules (Économique/Standard/Premium) avec gradients
+  - CTA avec shimmer effect + reassurance
+- ✅ **Fix email slash** : `/contact/page.tsx` (email sans slash final)
+- ✅ **Git** : 2 commits (`6c4864b1`, `376d60d5`) + Push GitHub main ✅
+- ✅ **Sync** : 11 villes (Nice, Lyon, Marseille, Toulouse, Bordeaux, Nantes, Strasbourg, Montpellier, Lille, Rennes, Grenoble)
+- ✅ **Deploy** : CapRover (11 sites)
+
+**Tests prod réalisés** :
+- ✅ Nice : `/devis-gratuits` - Design, animations, stepper, inputs, cartes formules, mockups SVG
+- ✅ Nice : `/estimation-rapide` - Design, formulaire, autocomplete, cartes résultats, CTA
+- ✅ Lyon : Vérification design cohérent
+
+**Impact attendu** :
+- Conversion lead +30-50% (design premium + réassurance)
+- Temps sur page +40% (animations engageantes)
+- Taux d'abandon formulaire -25%
+
+**Dernière activité** : 2025-11-20 (Code + déploiement + tests prod validés)
+
+---
+
 ### [P1]-TASK-060-analyse-alertes-gsc : Analyse Alertes Google Search Console 🔍
 
 **Statut** : 🔄 **EN COURS** (première alerte collectée)  

@@ -7,14 +7,43 @@
 
 ## 📊 Statistiques
 
-- **Total tâches finalisées** : 20
+- **Total tâches finalisées** : 21
 - **Octobre 2025** : 5
-- **Novembre 2025** : 13
+- **Novembre 2025** : 14
 - **Janvier 2026** : 2
 
 ---
 
 ## ✅ Novembre 2025
+
+### ✅ TASK-086-refonte-pages-formulaires : Refonte Design Pages Formulaires (devis-gratuits + estimation-rapide)
+
+**Finalisée le** : 20 novembre 2025  
+**Type** : Design Critique / UX Conversion — Refonte 2025  
+**Priorité** : P0  
+**Assigné** : Lucie
+
+📁 **Documentation** : `.cursor/tasks/[P0]-TASK-086-refonte-pages-formulaires/`
+
+**Résumé** :
+Refonte complète Stripe-like 10/10 des 2 tunnels de conversion critiques. `/devis-gratuits` (tunnel multi-étapes) : fond bleu profond + halos mint animés, badge + titre XXL, stepper avec glow ring + animate-pulse, inputs avec focus glow, cartes formules avec hover lift, boutons avec shimmer effect, mockups SVG pièces pour densité. `/estimation-rapide` (estimation instantanée) : même design Stripe-like, select + inputs avec focus glow, autocomplete villes, cartes formules (Économique/Standard/Premium) avec gradients, CTA avec shimmer. Tous emojis → emoticons/pictogrammes. Fix email slash final dans `/contact`. Synchronisé sur 11 villes.
+
+**Commits** :
+- `6c4864b1` — Refonte Stripe-like 10/10 /devis-gratuits + fix email slash (11 villes)
+- `376d60d5` — Refonte Stripe-like 10/10 /estimation-rapide (11 villes)
+
+**Tests** :
+- ✅ Nice : `/devis-gratuits` - Design, animations, stepper, inputs, cartes formules, mockups SVG
+- ✅ Nice : `/estimation-rapide` - Design, formulaire, autocomplete, cartes résultats, CTA
+- ✅ Lyon : Vérification design cohérent
+- ✅ Déployé sur 11 villes via CapRover
+
+**Definition of Done** :
+- [x] 1. Code propre et documenté (2 commits + sync 11 villes)
+- [x] 2. Commits sur GitHub (SHA listés)
+- [x] 3. Testé en live (Nice + Lyon + déploiement 11 villes)
+
+---
 
 ### ✅ TASK-089-refonte-templates-blog : Refonte Templates Blog (catégorie + article)
 
