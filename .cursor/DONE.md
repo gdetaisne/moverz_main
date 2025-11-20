@@ -7,14 +7,40 @@
 
 ## 📊 Statistiques
 
-- **Total tâches finalisées** : 18
+- **Total tâches finalisées** : 19
 - **Octobre 2025** : 5
-- **Novembre 2025** : 11
+- **Novembre 2025** : 12
 - **Janvier 2026** : 2
 
 ---
 
 ## ✅ Novembre 2025
+
+### ✅ TASK-088-refonte-pages-services-detaillees : Refonte Pages Services Détaillées (économique/standard/premium)
+
+**Finalisée le** : 20 novembre 2025  
+**Type** : Design / SEO — Refonte 2025  
+**Priorité** : P1  
+**Assigné** : Lucie
+
+📁 **Documentation** : `.cursor/tasks/[P1]-TASK-088-refonte-pages-services-detaillees/`
+
+**Résumé** :
+Refonte complète des pages services économique et premium (la page standard était déjà refaite) avec design Stripe-like 2025. Alternance sections sombre/clair, cartes ultra-clean, badges animés, FAQ accordéons, CTA gradient mint. Synchronisé sur 11 villes.
+
+**Commits** :
+- `9472cfab` — Refonte design pages économique + premium (11 villes)
+
+**Tests** :
+- ✅ Nice : Design, alternance sombre/clair, FAQ accordéons
+- ✅ Déployé sur 11 villes via CapRover
+
+**Definition of Done** :
+- [x] 1. Code propre et documenté (commit + sync 11 villes)
+- [x] 2. Commits sur GitHub (SHA listé)
+- [x] 3. Testé en live (Nice + déploiement 11 villes)
+
+---
 
 ### ✅ TASK-404-QW : Quick Wins 404 (Majuscules + Accents)
 

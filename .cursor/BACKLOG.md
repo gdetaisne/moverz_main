@@ -84,13 +84,13 @@
 
 ---
 
-### 🆕 [P1] [Temps: 2-3h] [Qui: Lucie] TASK-088-refonte-pages-services-detaillees : Refonte Pages Services Détaillées (économique/standard/premium)
+### ✅ [P1] [Temps: 2-3h] [Qui: Lucie] TASK-088-refonte-pages-services-detaillees : Refonte Pages Services Détaillées (économique/standard/premium)
 
 📁 **Doc** : `.cursor/tasks/[P1]-TASK-088-refonte-pages-services-detaillees/`
 
 **Type** : SEO / Design
 
-**Statut** : 📋 À DÉMARRER
+**Statut** : ✅ FINALISÉE (20/11/2025)
 
 **Contexte** :
 - 3 pages services par ville (économique, standard, premium)
@@ -109,10 +109,10 @@
 - ✅ Alternance sombre/clair
 
 **Livrables** :
-- [ ] 3 pages services refondues (Nice)
-- [ ] Template réutilisable pour autres villes
-- [ ] Commit + deploy
-- [ ] Test prod
+- ✅ 3 pages services refondues (Nice)
+- ✅ Template réutilisable pour autres villes (synchronisé 11 villes)
+- ✅ Commit + deploy (commit `9472cfab`, déployé sur CapRover)
+- ✅ Test prod (disponible sur toutes les villes)
 
 ---
 
