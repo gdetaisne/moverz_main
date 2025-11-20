@@ -1,14 +1,13 @@
 import type { Metadata } from "next";
 import FAQAccordion from "@/components/FAQAccordion";
+import Breadcrumbs from "@/components/Breadcrumbs";
+import { getFullMetadata } from "@/lib/canonical-helper";
 
-export const metadata: Metadata = {
-  title: "FAQ — Questions fréquentes | Moverz",
-  description:
-    "Toutes les réponses aux questions sur Moverz : tarifs, processus, confidentialité, délais, support. Comparateur de devis de déménageurs 100% gratuit.",
-  alternates: {
-    canonical: 'https://moverz.fr/faq/',
-  },
-};
+export const metadata: Metadata = getFullMetadata(
+  'faq',
+  "FAQ — Questions fréquentes | Moverz",
+  "Toutes les réponses aux questions sur Moverz : tarifs, processus, confidentialité, délais, support. Comparateur de devis de déménageurs 100% gratuit."
+);
 
 export default function FAQPage() {
   const faqCategories = [
@@ -145,7 +144,13 @@ export default function FAQPage() {
       {/* Hero Section */}
       <section className="relative py-16 md:py-24">
         <div className="mx-auto max-w-7xl px-4 md:px-8">
-          <div className="text-center space-y-6 mb-16">
+          <Breadcrumbs
+            items={[
+              { label: "Accueil", href: "/" },
+              { label: "FAQ", href: "/faq/" }
+            ]}
+          />
+          <div className="text-center space-y-6 mb-16 mt-6">
             <div className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-4 py-2 text-sm text-white/80 backdrop-blur-sm shadow-lg">
               <span className="h-2 w-2 rounded-full bg-emerald-300 animate-pulse" />
               Toutes vos questions, nos réponses

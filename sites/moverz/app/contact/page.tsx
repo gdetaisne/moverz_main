@@ -1,13 +1,12 @@
 import type { Metadata } from "next";
+import Breadcrumbs from "@/components/Breadcrumbs";
+import { getFullMetadata } from "@/lib/canonical-helper";
 
-export const metadata: Metadata = {
-  title: "Contact — Nous contacter | Moverz",
-  description:
-    "Contactez l'équipe Moverz par email ou téléphone. Support disponible du lundi au vendredi, 9h-18h. Réponse sous 24h.",
-  alternates: {
-    canonical: 'https://moverz.fr/contact/',
-  },
-};
+export const metadata: Metadata = getFullMetadata(
+  'contact',
+  "Contact — Nous contacter | Moverz",
+  "Contactez l'équipe Moverz par email ou téléphone. Support disponible du lundi au vendredi, 9h-18h. Réponse sous 24h."
+);
 
 export default function ContactPage() {
   return (
@@ -15,7 +14,13 @@ export default function ContactPage() {
       {/* Hero Section */}
       <section className="relative py-16 md:py-24">
         <div className="mx-auto max-w-7xl px-4 md:px-8">
-          <div className="text-center space-y-6 mb-16">
+          <Breadcrumbs
+            items={[
+              { label: "Accueil", href: "/" },
+              { label: "Contact", href: "/contact/" }
+            ]}
+          />
+          <div className="text-center space-y-6 mb-16 mt-6">
             <div className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-4 py-2 text-sm text-white/80 backdrop-blur-sm shadow-lg">
               <span className="h-2 w-2 rounded-full bg-emerald-300 animate-pulse" />
               Support réactif
